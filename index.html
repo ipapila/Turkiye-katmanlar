@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Türkiye Katmanlar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+  <style>
+    body { margin: 0; }
+    #map { height: 100vh; }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<!-- FIREBASE + HARİTA -->
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+import { getFirestore, collection, addDoc, onSnapshot } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
+
+/////////////////////////////
+// 🔴 BURAYI DOLDUR
+/////////////////////////////
+const firebaseConfig = {
+  apiKey: "AIzaSyDi5JFBcQILI81DTknB8OtbgboDrMZdr7M",
+  authDomain: "turkiye-ekolojik-katmanl-44c15.firebaseapp.com",
+  projectId: "turkiye-ekolojik-katmanl-44c15",
+  storageBucket: "turkiye-ekolojik-katmanl-44c15.firebasestorage.app",
+  messagingSenderId: "590697215973",
+  appId: "1:590697215973:web:20cd3d9addfe8c456fa10c",
+};
+
+/////////////////////////////
+// 🔥 FIREBASE BAĞLANTI
+/////////////////////////////
+const app = initializeApp(firebaseConfig);
+const db = getFirestore(app);
+
+/////////////////////////////
+// 🗺️ HARİTA
+/////////////////////////////
+const map = L.map("map").setView([39, 35], 6);
+
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  attribution: "© OpenStreetMap"
+}).addTo(map);
+
+/////////////////////////////
+// 📍 MARKER LAYER
+/////////////////////////////
+const markerLayer = L.layerGroup().addTo(map);
+
+/////////////////////////////
+// 📡 VERİLERİ ÇEK (REALTIME)
+/////////////////////////////
+onSnapshot(collection(db, "katmanlar"), (snapshot) => {
+  markerLayer.clearLayers();
+
+  snapshot.forEach((doc) => {
+    const data = doc.data();
+
+    L.marker([data.lat, data.lng])
+      .addTo(markerLayer)
+      .bindPopup(data.aciklama);
+  });
+});
+
+/////////////////////////////
+// ➕ HARİTAYA TIKLAYARAK EKLE
+/////////////////////////////
+map.on("click", async function(e) {
+  const aciklama = prompt("Açıklama gir:");
+
+  if (!aciklama) return;
+
+  await addDoc(collection(db, "katmanlar"), {
+    lat: e.latlng.lat,
+    lng: e.latlng.lng,
+    aciklama: aciklama,
+    tarih: new Date()
+  });
+});
+</script>
+
+</body>
+</html>
