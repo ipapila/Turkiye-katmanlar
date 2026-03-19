@@ -1,1 +1,943 @@
-[{"init":true}] 
+[
+  {
+    "id": "rw8vabt1qy1773928264740",
+    "tip": "Milli Park",
+    "ad": "Beydağları Olimpos Milli Parkı",
+    "il": "Antalya",
+    "aciklama": "Olimpos antik kenti ve Yanartaş içerir.",
+    "koordinatlar": {
+      "lat": 36.52,
+      "lng": 30.48
+    },
+    "alan_ha": 34425,
+    "durum": "Aktif",
+    "belge_no": "1972/7132",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "r1gwsarzf51773928264740",
+    "tip": "Milli Park",
+    "ad": "Köprülü Kanyon Milli Parkı",
+    "il": "Antalya",
+    "aciklama": "Köprüçay Nehri kanyonu.",
+    "koordinatlar": {
+      "lat": 37.13,
+      "lng": 31.4
+    },
+    "alan_ha": 36614,
+    "durum": "Aktif",
+    "belge_no": "1973/7785",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rchjraqe5y1773928264740",
+    "tip": "Milli Park",
+    "ad": "Güllük Dağı (Termessos) Milli Parkı",
+    "il": "Antalya",
+    "aciklama": "Antik Termessos şehri.",
+    "koordinatlar": {
+      "lat": 37.04,
+      "lng": 30.46
+    },
+    "alan_ha": 6702,
+    "durum": "Aktif",
+    "belge_no": "1970/1334",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rhbxwohzy51773928264740",
+    "tip": "Milli Park",
+    "ad": "Kazdağı Milli Parkı",
+    "il": "Balıkesir",
+    "aciklama": "Kaz Dağları biyosfer rezervi.",
+    "koordinatlar": {
+      "lat": 39.7,
+      "lng": 26.83
+    },
+    "alan_ha": 21552,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "r85y42n5di1773928264740",
+    "tip": "Milli Park",
+    "ad": "Uludağ Milli Parkı",
+    "il": "Bursa",
+    "aciklama": "Türkiye'nin en önemli kayak merkezi ve milli parkı.",
+    "koordinatlar": {
+      "lat": 40.09,
+      "lng": 29.22
+    },
+    "alan_ha": 11338,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "ry4xznfnw41773928264740",
+    "tip": "Milli Park",
+    "ad": "Sakarya Milli Parkı (Ağaçlı)",
+    "il": "Sakarya",
+    "aciklama": "Sakarya nehri havzası.",
+    "koordinatlar": {
+      "lat": 40.78,
+      "lng": 30.4
+    },
+    "alan_ha": 1200,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rpunbov9qn1773928264740",
+    "tip": "Milli Park",
+    "ad": "Göreme Milli Parkı",
+    "il": "Nevşehir",
+    "aciklama": "Kapadokya peri bacaları ve yeraltı şehirleri.",
+    "koordinatlar": {
+      "lat": 38.67,
+      "lng": 34.85
+    },
+    "alan_ha": 9571,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "r0afowfzbx1773928264740",
+    "tip": "Milli Park",
+    "ad": "Nemrut Dağı Milli Parkı",
+    "il": "Adıyaman",
+    "aciklama": "UNESCO Dünya Mirası. Dev kral heykelleri.",
+    "koordinatlar": {
+      "lat": 37.98,
+      "lng": 38.74
+    },
+    "alan_ha": 13850,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rliufmat3z1773928264740",
+    "tip": "Milli Park",
+    "ad": "Munzur Vadisi Milli Parkı",
+    "il": "Tunceli",
+    "aciklama": "Türkiye'nin en büyük milli parkı.",
+    "koordinatlar": {
+      "lat": 39.37,
+      "lng": 39.35
+    },
+    "alan_ha": 42000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rchulzvumw1773928264740",
+    "tip": "Milli Park",
+    "ad": "Karagöl-Sahara Milli Parkı",
+    "il": "Artvin",
+    "aciklama": "Karadeniz yaylaları ve doğal göller.",
+    "koordinatlar": {
+      "lat": 41.25,
+      "lng": 42.13
+    },
+    "alan_ha": 3290,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rs366csx441773928264740",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Belek ÖÇKA",
+    "il": "Antalya",
+    "aciklama": "Caretta caretta yuvalama sahası.",
+    "koordinatlar": {
+      "lat": 36.86,
+      "lng": 31.05
+    },
+    "alan_ha": 20438,
+    "durum": "Aktif",
+    "belge_no": "1990/478",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rr19d552do1773928264740",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Patara ÖÇKA",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antik Patara ve Türkiye'nin en uzun plajı.",
+    "koordinatlar": {
+      "lat": 36.294651,
+      "lng": 29.309464
+    },
+    "alan_ha": 18500,
+    "durum": "Aktif",
+    "belge_no": "1990/478",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rhpe2cls3v1773928264740",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Kekova ÖÇKA",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Batık şehir ve eşsiz kıyı alanı.",
+    "koordinatlar": {
+      "lat": 36.188875,
+      "lng": 29.873543
+    },
+    "alan_ha": 31177,
+    "durum": "Aktif",
+    "belge_no": "1990/478",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "r8ldpun5nx1773928264740",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Köyceğiz-Dalyan ÖÇKA",
+    "il": "Muğla",
+    "aciklama": "Caretta caretta ve İztuzu plajı.",
+    "koordinatlar": {
+      "lat": 36.82,
+      "lng": 28.64
+    },
+    "alan_ha": 46258,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rxax5lk7cq1773928264740",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Gökova ÖÇKA",
+    "il": "Muğla",
+    "aciklama": "Gökova körfezi ve deniz ekosistemi.",
+    "koordinatlar": {
+      "lat": 37,
+      "lng": 28.3
+    },
+    "alan_ha": 120000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rjom30dndz1773928264740",
+    "tip": "Sulak Alan",
+    "ad": "Kuş Gölü (Manyas)",
+    "il": "Balıkesir",
+    "aciklama": "Kuş Cenneti Milli Parkı. Ramsar alanı.",
+    "koordinatlar": {
+      "lat": 40.21,
+      "lng": 27.97
+    },
+    "alan_ha": 16400,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "r51ch4sq6q1773928264740",
+    "tip": "Sulak Alan",
+    "ad": "Tuz Gölü",
+    "il": "Ankara",
+    "aciklama": "Türkiye'nin ikinci büyük gölü. Ramsar alanı.",
+    "koordinatlar": {
+      "lat": 38.78,
+      "lng": 33.38
+    },
+    "alan_ha": 166000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rj37rn8ihr1773928264740",
+    "tip": "Sulak Alan",
+    "ad": "Burdur Gölü",
+    "il": "Burdur",
+    "aciklama": "Didi balığı ve flamingo habitat alanı.",
+    "koordinatlar": {
+      "lat": 37.73,
+      "lng": 30.17
+    },
+    "alan_ha": 23500,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "r1ilsh9fw81773928264740",
+    "tip": "Sulak Alan",
+    "ad": "Kızılırmak Deltası",
+    "il": "Samsun",
+    "aciklama": "Karadeniz kıyısında önemli delta.",
+    "koordinatlar": {
+      "lat": 41.65,
+      "lng": 36.05
+    },
+    "alan_ha": 15000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rndes4abqz1773928264740",
+    "tip": "Sulak Alan",
+    "ad": "Belek Sulak Alanları",
+    "il": "Antalya",
+    "aciklama": "Göç güzergahında önemli sulak alan.",
+    "koordinatlar": {
+      "lat": 36.86,
+      "lng": 31.07
+    },
+    "alan_ha": 1600,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "r5vx1ck3bt1773928264740",
+    "tip": "Orman Alanı",
+    "ad": "Kemer Ormanları",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Sedir ve kızılçam ormanları.",
+    "koordinatlar": {
+      "lat": 36.594685,
+      "lng": 30.55727
+    },
+    "alan_ha": 48000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rsfbx2zcdh1773928264740",
+    "tip": "Orman Alanı",
+    "ad": "Kastamonu Sedir Ormanları",
+    "il": "Kastamonu",
+    "aciklama": "Karadeniz bölgesinin büyük sedir ormanları.",
+    "koordinatlar": {
+      "lat": 41.37,
+      "lng": 33.77
+    },
+    "alan_ha": 65000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rjtfwatw921773928264740",
+    "tip": "Orman Alanı",
+    "ad": "Artvin Ormanları",
+    "il": "Artvin",
+    "aciklama": "Doğu Karadeniz'in yoğun orman örtüsü.",
+    "koordinatlar": {
+      "lat": 41.18,
+      "lng": 41.82
+    },
+    "alan_ha": 92000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "ridqnlm82k1773928264740",
+    "tip": "HES",
+    "ad": "Atatürk Barajı ve HES",
+    "il": "Şanlıurfa",
+    "aciklama": "Türkiye'nin en büyük barajı. 2.400 MW.",
+    "koordinatlar": {
+      "lat": 37.47,
+      "lng": 38.33
+    },
+    "alan_ha": 81700,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "EÜAŞ"
+  },
+  {
+    "id": "rs7smnwwpq1773928264740",
+    "tip": "HES",
+    "ad": "Oymapınar Barajı ve HES",
+    "il": "Antalya",
+    "aciklama": "540 MW kurulu güç.",
+    "koordinatlar": {
+      "lat": 36.99,
+      "lng": 31.62
+    },
+    "alan_ha": 1900,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "EÜAŞ"
+  },
+  {
+    "id": "rp3sas2t0o1773928264740",
+    "tip": "HES",
+    "ad": "Karakaya Barajı ve HES",
+    "il": "Malatya",
+    "aciklama": "Fırat üzerinde 1.800 MW.",
+    "koordinatlar": {
+      "lat": 38.35,
+      "lng": 38.23
+    },
+    "alan_ha": 29800,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "EÜAŞ"
+  },
+  {
+    "id": "r5pwze57jk1773928264740",
+    "tip": "HES",
+    "ad": "Keban Barajı ve HES",
+    "il": "Elazığ",
+    "aciklama": "Fırat Nehri üzerinde 1.330 MW.",
+    "koordinatlar": {
+      "lat": 38.79,
+      "lng": 38.74
+    },
+    "alan_ha": 67500,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "EÜAŞ"
+  },
+  {
+    "id": "rye0svwze11773928264740",
+    "tip": "GES",
+    "ad": "Kalyon Karapınar GES",
+    "il": "Konya",
+    "ilce": "",
+    "aciklama": "Türkiye'nin en büyük GES projesi. 1.000 MW.",
+    "koordinatlar": {
+      "lat": 37.732983,
+      "lng": 33.557396
+    },
+    "alan_ha": 20000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "TEDAŞ"
+  },
+  {
+    "id": "r4smfpb6dp1773928264740",
+    "tip": "GES",
+    "ad": "İzmir Aliağa GES",
+    "il": "İzmir",
+    "aciklama": "Aliağa sanayi bölgesi GES sahası.",
+    "koordinatlar": {
+      "lat": 38.85,
+      "lng": 26.97
+    },
+    "alan_ha": 420,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Özel"
+  },
+  {
+    "id": "rdvx7tx5q71773928264740",
+    "tip": "RES",
+    "ad": "İzmir Rüzgar Enerjisi Parkı",
+    "il": "İzmir",
+    "aciklama": "İzmir körfezi kıyısında büyük RES.",
+    "koordinatlar": {
+      "lat": 38.53,
+      "lng": 26.65
+    },
+    "alan_ha": 850,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Özel"
+  },
+  {
+    "id": "r4nr0dq7zz1773928264740",
+    "tip": "RES",
+    "ad": "Elmalı RES",
+    "il": "Antalya",
+    "aciklama": "Elmalı yaylasında rüzgar enerji santrali.",
+    "koordinatlar": {
+      "lat": 36.72,
+      "lng": 29.88
+    },
+    "alan_ha": 480,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Özel"
+  },
+  {
+    "id": "rkyhcyqvit1773928264740",
+    "tip": "RES",
+    "ad": "Bandırma RES",
+    "il": "Balıkesir",
+    "aciklama": "Marmara Denizi kıyısında RES.",
+    "koordinatlar": {
+      "lat": 40.35,
+      "lng": 27.97
+    },
+    "alan_ha": 620,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Özel"
+  },
+  {
+    "id": "ru5s5kmu7k1773928264740",
+    "tip": "Jeotermal",
+    "ad": "Germencik Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Türkiye'nin en büyük jeotermal santrali. 232 MW.",
+    "koordinatlar": {
+      "lat": 37.87,
+      "lng": 27.6
+    },
+    "alan_ha": 380,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "rugz7v7drk1773928264740",
+    "tip": "Jeotermal",
+    "ad": "Kızıldere Jeotermal Santrali",
+    "il": "Denizli",
+    "aciklama": "Türkiye'nin ilk jeotermal santrali.",
+    "koordinatlar": {
+      "lat": 37.88,
+      "lng": 28.95
+    },
+    "alan_ha": 210,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "rf56cbonz81773928264740",
+    "tip": "Jeotermal",
+    "ad": "Ilıca Kaplıcası",
+    "il": "Antalya",
+    "aciklama": "Gazipaşa jeotermal kaynak.",
+    "koordinatlar": {
+      "lat": 36.29,
+      "lng": 32.32
+    },
+    "alan_ha": 45,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "rhk76xi13q1773928264740",
+    "tip": "Maden Ocağı",
+    "ad": "Soma Kömür İşletmesi",
+    "il": "Manisa",
+    "aciklama": "Türkiye'nin en büyük linyit sahası.",
+    "koordinatlar": {
+      "lat": 39.19,
+      "lng": 27.59
+    },
+    "alan_ha": 4200,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "TTK"
+  },
+  {
+    "id": "rxy3vzclek1773928264740",
+    "tip": "Maden Ocağı",
+    "ad": "Akseki Krom Madeni",
+    "il": "Antalya",
+    "aciklama": "Aktif krom madenciliği.",
+    "koordinatlar": {
+      "lat": 37.07,
+      "lng": 31.85
+    },
+    "alan_ha": 320,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "rc6z9cw0l51773928264740",
+    "tip": "Maden Ocağı",
+    "ad": "Ergani Bakır Madeni",
+    "il": "Diyarbakır",
+    "aciklama": "Türkiye'nin en önemli bakır yatağı.",
+    "koordinatlar": {
+      "lat": 38.27,
+      "lng": 39.76
+    },
+    "alan_ha": 1800,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "ETİBANK"
+  },
+  {
+    "id": "rckfv7cuw61773928264740",
+    "tip": "Mermer Ocağı",
+    "ad": "Afyon Mermer Havzası",
+    "il": "Afyonkarahisar",
+    "aciklama": "Türkiye'nin en büyük mermer üretim havzası.",
+    "koordinatlar": {
+      "lat": 38.75,
+      "lng": 30.54
+    },
+    "alan_ha": 3200,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "rg9ra87vok1773928264740",
+    "tip": "Mermer Ocağı",
+    "ad": "Elmalı Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "Yüksek kaliteli beyaz mermer.",
+    "koordinatlar": {
+      "lat": 36.714669,
+      "lng": 29.936457
+    },
+    "alan_ha": 210,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "rnmyvdzky21773928264740",
+    "tip": "Mermer Ocağı",
+    "ad": "Bilecik Mermer Havzası",
+    "il": "Bilecik",
+    "aciklama": "Önemli mermer üretim bölgesi.",
+    "koordinatlar": {
+      "lat": 40.15,
+      "lng": 29.98
+    },
+    "alan_ha": 1500,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "riz6o4dkcv1773928264740",
+    "tip": "Taş Ocağı",
+    "ad": "Bolu Bazalt Ocakları",
+    "il": "Bolu",
+    "aciklama": "Yol yapımı için bazalt üretimi.",
+    "koordinatlar": {
+      "lat": 40.73,
+      "lng": 31.61
+    },
+    "alan_ha": 380,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "rwzex26pe81773928264740",
+    "tip": "Taş Ocağı",
+    "ad": "Manavgat Kireçtaşı Ocağı",
+    "il": "Antalya",
+    "aciklama": "Kireçtaşı ve agrega üretimi.",
+    "koordinatlar": {
+      "lat": 36.8,
+      "lng": 31.43
+    },
+    "alan_ha": 120,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "r0skwuco2u1773930052486",
+    "tip": "Maden Ocağı",
+    "ad": "SAROS RES Kumanda Binası",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.074294,
+      "lng": 26.771443
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1247665497",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "rj68w232x61773930061814",
+    "tip": "Maden Ocağı",
+    "ad": "Maden Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.356893,
+      "lng": 27.89348
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "182823728",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "rbho45ffgo1773930061814",
+    "tip": "Maden Ocağı",
+    "ad": "Maden Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.673659,
+      "lng": 26.30369
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1467245687",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "r9f586krd31773930061814",
+    "tip": "Maden Ocağı",
+    "ad": "Maden Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.670103,
+      "lng": 26.303928
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1467245688",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "r1tnqrqepu1773930061814",
+    "tip": "Maden Ocağı",
+    "ad": "Maden Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.667678,
+      "lng": 26.30471
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1467245689",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "r7des2p3r41773930449130",
+    "tip": "Nükleer Enerji",
+    "ad": "Akkuyu Nükleer",
+    "il": "Mersin",
+    "ilce": "Gülnar",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.144326,
+      "lng": 33.540337
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "880625933",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "rpr6skmy6u1773930449130",
+    "tip": "Nükleer Enerji",
+    "ad": "Akkuyu Nükleer",
+    "il": "Mersin",
+    "ilce": "Gülnar",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.144353,
+      "lng": 33.537836
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1058306768",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "rsubogyndh1773930449130",
+    "tip": "Nükleer Enerji",
+    "ad": "Akkuyu Nükleer",
+    "il": "Mersin",
+    "ilce": "Gülnar",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.144363,
+      "lng": 33.535493
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1058306769",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "rtdb4b3hue1773930714032",
+    "tip": "Nükleer Enerji",
+    "ad": "Akkuyu Nükleer",
+    "il": "Mersin",
+    "ilce": "Gülnar",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.14445,
+      "lng": 33.533182
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1058306770",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "rnprirogp61773930833655",
+    "tip": "Maden Ocağı",
+    "ad": "TR-2 Araştırma Reaktörü",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.026435,
+      "lng": 28.758489
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "543505511",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  },
+  {
+    "id": "rv7b9vbjmd1773931791262",
+    "tip": "GES",
+    "ad": "Karapınar GES",
+    "il": "Konya",
+    "ilce": "Karapınar",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.788895,
+      "lng": 33.581772
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Manuel"
+  },
+  {
+    "id": "r4dkbalfvl1773931957049",
+    "tip": "Taş Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Korkuteli",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.038873,
+      "lng": 30.452213
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Manuel"
+  },
+  {
+    "id": "rjmi2k55uy1773932069952",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.738747,
+      "lng": 29.89706
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Manuel"
+  },
+  {
+    "id": "rbfb7kv76x1773932117843",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.745143,
+      "lng": 29.900322
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-19",
+    "kaynak": "Manuel"
+  },
+  {
+    "id": "r5c23uim6w1773933662351",
+    "tip": "Maden Ocağı",
+    "ad": "kömür ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.910736,
+      "lng": 26.704717
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "242742362",
+    "eklenme": "2026-03-19",
+    "kaynak": "Shapefile/GeoJSON"
+  }
+]
