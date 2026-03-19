@@ -1,0 +1,386 @@
+[
+  {
+    "id": "rt8mkc9leb",
+    "tip": "Milli Park",
+    "ad": "Saklıkent Milli Parkı",
+    "ilce": "Seydikemer",
+    "aciklama": "Türkiye'nin en derin kanyonu. 18 km uzunluğunda dar kanyon.",
+    "koordinatlar": {
+      "lat": 36.451,
+      "lng": 29.182
+    },
+    "alan_ha": 11400,
+    "durum": "Aktif",
+    "belge_no": "1996/8501",
+    "eklenme": "2026-03-17",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rmscym7tyj",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Gökova ÖÇKA",
+    "ilce": "Ula",
+    "aciklama": "Gökova körfezi ve çevresi.",
+    "koordinatlar": {
+      "lat": 37.03,
+      "lng": 28.2
+    },
+    "alan_ha": 260000,
+    "durum": "Aktif",
+    "belge_no": "1988/12945",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rgp3j985ye",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Datça-Bozburun ÖÇKA",
+    "ilce": "Datça",
+    "aciklama": "Yarımada ekosistemi, endemik bitkiler.",
+    "koordinatlar": {
+      "lat": 36.73,
+      "lng": 27.68
+    },
+    "alan_ha": 97400,
+    "durum": "Aktif",
+    "belge_no": "1988/12945",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rjk5g590t5",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Köyceğiz-Dalyan ÖÇKA",
+    "ilce": "Köyceğiz",
+    "aciklama": "Caretta caretta yuvalama sahası, İztuzu plajı.",
+    "koordinatlar": {
+      "lat": 36.83,
+      "lng": 28.62
+    },
+    "alan_ha": 34000,
+    "durum": "Aktif",
+    "belge_no": "1988/12945",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "r36c0z3sz0",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Fethiye-Göcek ÖÇKA",
+    "ilce": "Fethiye",
+    "aciklama": "Göcek körfezi ve adacıkları, Ölüdeniz lagünü.",
+    "koordinatlar": {
+      "lat": 36.72,
+      "lng": 29.1
+    },
+    "alan_ha": 30000,
+    "durum": "Aktif",
+    "belge_no": "1988/12945",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "risa28d43i",
+    "tip": "Tabiatı Koruma Alanı",
+    "ad": "Sandras Dağı Tabiat Parkı",
+    "ilce": "Köyceğiz",
+    "aciklama": "2084 m yükseklik, Muğla'nın en yüksek tepesi.",
+    "koordinatlar": {
+      "lat": 37.03,
+      "lng": 28.83
+    },
+    "alan_ha": 8500,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "r9dqwi1rg4",
+    "tip": "Tabiatı Koruma Alanı",
+    "ad": "Akyaka Tabiat Parkı",
+    "ilce": "Ula",
+    "aciklama": "Azmak deresi ve deltası.",
+    "koordinatlar": {
+      "lat": 37.055,
+      "lng": 28.33
+    },
+    "alan_ha": 1200,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rmnp0t87s6",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Ölüdeniz Kıyı Koruma Alanı",
+    "ilce": "Fethiye",
+    "aciklama": "Ölüdeniz lagünü ve mavi bayraklı plaj.",
+    "koordinatlar": {
+      "lat": 36.547,
+      "lng": 29.117
+    },
+    "alan_ha": 640,
+    "durum": "Aktif",
+    "belge_no": "3621",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "r93qbgvif9",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Bodrum Kıyı Bandı",
+    "ilce": "Bodrum",
+    "aciklama": "Bodrum yarımadası kıyıları.",
+    "koordinatlar": {
+      "lat": 37.03,
+      "lng": 27.44
+    },
+    "alan_ha": 380,
+    "durum": "Aktif",
+    "belge_no": "3621",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rp5gdr3g4g",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Marmaris Kıyı Koruma",
+    "ilce": "Marmaris",
+    "aciklama": "Marmaris körfezi kıyıları.",
+    "koordinatlar": {
+      "lat": 36.855,
+      "lng": 28.27
+    },
+    "alan_ha": 290,
+    "durum": "Aktif",
+    "belge_no": "3621",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rh2r0rofrp",
+    "tip": "Sulak Alan",
+    "ad": "Köyceğiz Gölü",
+    "ilce": "Köyceğiz",
+    "aciklama": "Ramsar alanı, tatlı su gölü.",
+    "koordinatlar": {
+      "lat": 36.96,
+      "lng": 28.57
+    },
+    "alan_ha": 5215,
+    "durum": "Aktif",
+    "belge_no": "Ramsar 1994",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "r866wwlcvy",
+    "tip": "Sulak Alan",
+    "ad": "Bafa Gölü (Muğla Kısmı)",
+    "ilce": "Milas",
+    "aciklama": "Antik Latmos bölgesi, önemli kuş gözlem alanı.",
+    "koordinatlar": {
+      "lat": 37.5,
+      "lng": 27.49
+    },
+    "alan_ha": 6700,
+    "durum": "Aktif",
+    "belge_no": "Ramsar",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rhwtx0wd5n",
+    "tip": "Sulak Alan",
+    "ad": "Dalaman Çayı Deltası",
+    "ilce": "Ortaca",
+    "aciklama": "Su kuşları için önemli habitat.",
+    "koordinatlar": {
+      "lat": 36.772,
+      "lng": 28.76
+    },
+    "alan_ha": 2400,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "Çevre Bakanlığı"
+  },
+  {
+    "id": "rqpmx3jf5p",
+    "tip": "Orman Alanı",
+    "ad": "Fethiye Orman İşletmesi",
+    "ilce": "Fethiye",
+    "aciklama": "Kızılçam ve sedir ormanları.",
+    "koordinatlar": {
+      "lat": 36.64,
+      "lng": 29.12
+    },
+    "alan_ha": 62000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "r5c64bbmkj",
+    "tip": "Orman Alanı",
+    "ad": "Milas Orman İşletmesi",
+    "ilce": "Milas",
+    "aciklama": "Kızılçam ağırlıklı ormanlık alan.",
+    "koordinatlar": {
+      "lat": 37.16,
+      "lng": 27.79
+    },
+    "alan_ha": 48000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rtjourvcpk",
+    "tip": "Orman Alanı",
+    "ad": "Marmaris Orman İşletmesi",
+    "ilce": "Marmaris",
+    "aciklama": "Sıradağlar üzerinde yoğun orman örtüsü.",
+    "koordinatlar": {
+      "lat": 36.95,
+      "lng": 28.35
+    },
+    "alan_ha": 37000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "r6ndrwok3u",
+    "tip": "Orman Alanı",
+    "ad": "Köyceğiz Sığla Ormanları",
+    "ilce": "Köyceğiz",
+    "aciklama": "Endemik sığla (liquidambar) ormanları.",
+    "koordinatlar": {
+      "lat": 36.97,
+      "lng": 28.68
+    },
+    "alan_ha": 29000,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "OGM"
+  },
+  {
+    "id": "rh4xd85eo1",
+    "tip": "HES",
+    "ad": "Dalaman Çayı HES",
+    "ilce": "Seydikemer",
+    "aciklama": "Dalaman nehri üzerinde HES tesisi.",
+    "koordinatlar": {
+      "lat": 36.82,
+      "lng": 28.79
+    },
+    "alan_ha": 320,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "EÜAŞ"
+  },
+  {
+    "id": "rcvb9m0q8a",
+    "tip": "GES",
+    "ad": "Yatağan GES",
+    "ilce": "Yatağan",
+    "aciklama": "Termik santral arazisinde GES dönüşümü.",
+    "koordinatlar": {
+      "lat": 37.36,
+      "lng": 28.27
+    },
+    "alan_ha": 420,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "TEDAŞ"
+  },
+  {
+    "id": "r49a4w7eti",
+    "tip": "GES",
+    "ad": "Milas GES Sahası",
+    "ilce": "Milas",
+    "aciklama": "Tarım dışı arazide büyük ölçekli GES.",
+    "koordinatlar": {
+      "lat": 37.18,
+      "lng": 27.69
+    },
+    "alan_ha": 280,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "EPDK"
+  },
+  {
+    "id": "rjn6vw9zdi",
+    "tip": "Maden Ocağı",
+    "ad": "Yatağan Linyit Madeni",
+    "ilce": "Yatağan",
+    "aciklama": "TKİ işletmesi, linyit ocağı.",
+    "koordinatlar": {
+      "lat": 37.335,
+      "lng": 28.145
+    },
+    "alan_ha": 4200,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "TKİ"
+  },
+  {
+    "id": "r3bid7u6vu",
+    "tip": "Maden Ocağı",
+    "ad": "Milas Borasit Madeni",
+    "ilce": "Milas",
+    "aciklama": "Dünya rezervlerinin önemli bir kısmına sahip bor madeni.",
+    "koordinatlar": {
+      "lat": 37.28,
+      "lng": 27.78
+    },
+    "alan_ha": 850,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "ETİ Maden"
+  },
+  {
+    "id": "roio96ubkq",
+    "tip": "Mermer Ocağı",
+    "ad": "Milas Beyaz Mermer Ocağı",
+    "ilce": "Milas",
+    "aciklama": "İhracat kalitesinde beyaz mermer.",
+    "koordinatlar": {
+      "lat": 37.21,
+      "lng": 27.74
+    },
+    "alan_ha": 380,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "MTA"
+  },
+  {
+    "id": "rxs9tu6mbg",
+    "tip": "Taş Ocağı",
+    "ad": "Fethiye Kireçtaşı Ocağı",
+    "ilce": "Fethiye",
+    "aciklama": "Yapı malzemesi ve agrega üretimi.",
+    "koordinatlar": {
+      "lat": 36.66,
+      "lng": 29.2
+    },
+    "alan_ha": 190,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-17",
+    "kaynak": "MTA"
+  }
+]
