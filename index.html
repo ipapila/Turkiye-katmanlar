@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Türkiye Alan Yönetim Haritası</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css"/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+html,body{height:100%;margin:0;padding:0;overflow:hidden;font-family:'DM Sans',sans-serif;background:#0f1117;color:#e8eaf2;}
+:root{
+  --bg:#0f1117;--bg2:#181c27;--bg3:#1e2333;
+  --border:rgba(255,255,255,0.08);--borderh:rgba(255,255,255,0.18);
+  --text:#e8eaf2;--dim:#7a8099;--muted:#4a5070;
+  --accent:#4fd1c5;--accent2:#667eea;
+  --danger:#fc5c65;--success:#26de81;
+  --panel:330px;--hdr:54px;
+}
+[data-theme="light"]{
+  --bg:#eef0f8;--bg2:#ffffff;--bg3:#e4e8f5;
+  --border:rgba(0,0,0,0.09);--borderh:rgba(0,0,0,0.2);
+  --text:#1a1e2e;--dim:#4a5070;--muted:#8a93b0;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+#app{display:flex;flex-direction:column;height:100vh;}
+#header{height:var(--hdr);flex-shrink:0;background:var(--bg2);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 14px;gap:10px;z-index:1000;}
+#header h1{font-family:'Syne',sans-serif;font-weight:800;font-size:1rem;white-space:nowrap;color:var(--text);}
+#header h1 span{color:var(--accent);}
+.hsp{flex:1;}
+.pill{background:var(--bg3);border:1px solid var(--border);border-radius:6px;padding:3px 9px;font-size:.71rem;color:var(--dim);}
+.pill b{color:var(--accent);}
+.hbtn{background:var(--bg3);border:1px solid var(--border);border-radius:7px;padding:6px 10px;font-size:.8rem;color:var(--dim);cursor:pointer;transition:.15s;}
+.hbtn:hover{background:var(--borderh);color:var(--text);}
+#body{display:flex;flex:1;min-height:0;overflow:hidden;}
+#panel{width:var(--panel);flex-shrink:0;background:var(--bg2);border-right:1px solid var(--border);display:flex;flex-direction:column;overflow:hidden;z-index:900;}
+.pscr{flex:1;overflow-y:auto;padding:12px;}
+.pscr::-webkit-scrollbar{width:3px;}
+.pscr::-webkit-scrollbar-thumb{background:var(--borderh);border-radius:3px;}
+.sec{font-family:'Syne',sans-serif;font-weight:700;font-size:.67rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:14px 0 6px;}
+.sec:first-child{margin-top:0;}
+.srch{position:relative;}
+.srch input{width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:8px 10px 8px 32px;color:var(--text);font-size:.82rem;font-family:'DM Sans',sans-serif;outline:none;transition:border-color .2s;}
+.srch input:focus{border-color:var(--accent);}
+.srch .si{position:absolute;left:10px;top:50%;transform:translateY(-50%);color:var(--muted);pointer-events:none;}
+.fsel{width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:7px 10px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.8rem;outline:none;margin-bottom:5px;cursor:pointer;}
+.fsel:focus{border-color:var(--accent);}
+.fsel option{background:var(--bg2);}
+.li{display:flex;align-items:center;gap:7px;padding:5px 7px;border-radius:7px;cursor:pointer;transition:background .15s;user-select:none;}
+.li:hover{background:var(--bg3);}
+.ldot{width:11px;height:11px;border-radius:50%;flex-shrink:0;transition:opacity .2s;}
+.llbl{font-size:.78rem;color:var(--dim);flex:1;}
+.lcnt{font-size:.68rem;color:var(--muted);background:var(--bg3);padding:1px 5px;border-radius:4px;}
+.ltog{width:28px;height:15px;background:var(--borderh);border-radius:8px;position:relative;transition:background .2s;flex-shrink:0;}
+.ltog.on{background:var(--accent);}
+.ltog::after{content:'';position:absolute;width:11px;height:11px;background:#fff;border-radius:50%;top:2px;left:2px;transition:left .2s;}
+.ltog.on::after{left:15px;}
+.addbtn{width:100%;background:linear-gradient(135deg,var(--accent2),var(--accent));border:none;border-radius:9px;padding:10px;color:#fff;font-family:'Syne',sans-serif;font-weight:700;font-size:.82rem;cursor:pointer;transition:opacity .2s;margin-top:4px;}
+.addbtn:hover{opacity:.88;}
+.dtb{display:flex;gap:5px;flex-wrap:wrap;}
+.dtb .hbtn{flex:1;font-size:.68rem;text-align:center;padding:6px 4px;}
+#mapwrap{flex:1;position:relative;min-width:0;min-height:0;}
+#map{position:absolute;inset:0;z-index:1;}
+#cbar{position:absolute;bottom:10px;left:50%;transform:translateX(-50%);background:rgba(10,12,20,.82);backdrop-filter:blur(6px);border:1px solid var(--border);border-radius:20px;padding:4px 14px;font-size:.7rem;color:var(--dim);z-index:800;pointer-events:none;white-space:nowrap;}
+#pkhint{position:absolute;top:12px;left:50%;transform:translateX(-50%);background:rgba(79,209,197,.15);border:1px solid var(--accent);border-radius:20px;padding:7px 18px;font-size:.8rem;color:var(--accent);z-index:800;pointer-events:none;backdrop-filter:blur(6px);display:none;white-space:nowrap;}
+#listtog{position:absolute;bottom:42px;right:14px;z-index:800;background:var(--bg2);border:1px solid var(--border);border-radius:9px;padding:8px 13px;font-size:.78rem;color:var(--dim);cursor:pointer;display:flex;align-items:center;gap:5px;transition:.2s;}
+#listtog:hover{background:var(--bg3);color:var(--text);}
+#listpanel{position:absolute;bottom:0;right:0;width:420px;max-height:55%;background:var(--bg2);border-top:1px solid var(--border);border-left:1px solid var(--border);border-radius:12px 0 0 0;z-index:800;display:flex;flex-direction:column;transform:translateY(100%);transition:transform .3s cubic-bezier(.4,0,.2,1);}
+#listpanel.open{transform:translateY(0);}
+.lhdr{padding:10px 14px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:8px;flex-shrink:0;}
+.lhdr h3{font-family:'Syne',sans-serif;font-weight:700;font-size:.82rem;flex:1;}
+#listbody{overflow-y:auto;flex:1;}
+#listbody::-webkit-scrollbar{width:3px;}
+#listbody::-webkit-scrollbar-thumb{background:var(--borderh);border-radius:3px;}
+.lrow{padding:8px 14px;border-bottom:1px solid var(--border);cursor:pointer;display:grid;grid-template-columns:10px 1fr auto;gap:8px;align-items:center;transition:background .12s;}
+.lrow:hover{background:var(--bg3);}
+.lrdot{width:9px;height:9px;border-radius:50%;}
+.lrn{font-size:.78rem;font-weight:500;color:var(--text);}
+.lrs{font-size:.7rem;color:var(--muted);}
+.lrha{font-size:.7rem;color:var(--dim);white-space:nowrap;}
+.empty{padding:20px;text-align:center;color:var(--muted);font-size:.8rem;}
+/* MODAL */
+#mov{position:fixed;inset:0;background:rgba(0,0,0,.65);backdrop-filter:blur(5px);z-index:2000;display:none;align-items:center;justify-content:center;}
+#mov.open{display:flex;}
+#modal{background:var(--bg2);border:1px solid var(--borderh);border-radius:14px;width:540px;max-width:95vw;max-height:90vh;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 8px 40px rgba(0,0,0,.5);}
+.mhd{padding:14px 18px;border-bottom:1px solid var(--border);display:flex;align-items:center;flex-shrink:0;}
+.mhd h2{font-family:'Syne',sans-serif;font-weight:700;font-size:.95rem;flex:1;}
+.mcls{background:var(--bg3);border:1px solid var(--border);border-radius:6px;width:26px;height:26px;cursor:pointer;color:var(--muted);font-size:.9rem;display:flex;align-items:center;justify-content:center;transition:.15s;}
+.mcls:hover{color:var(--danger);border-color:var(--danger);}
+.mbd{padding:16px 18px;overflow-y:auto;flex:1;}
+.mbd::-webkit-scrollbar{width:3px;}
+.mbd::-webkit-scrollbar-thumb{background:var(--borderh);border-radius:3px;}
+.fgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+.fg{display:flex;flex-direction:column;gap:4px;}
+.fg.full{grid-column:1/-1;}
+.fg label{font-size:.68rem;font-weight:700;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;}
+.fg input,.fg select,.fg textarea{background:var(--bg3);border:1px solid var(--border);border-radius:7px;padding:8px 10px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.82rem;outline:none;width:100%;transition:border-color .2s;}
+.fg input:focus,.fg select:focus,.fg textarea:focus{border-color:var(--accent);}
+.fg textarea{resize:vertical;min-height:65px;}
+.fg select option{background:var(--bg2);}
+.pkbtn{background:var(--bg3);border:1px solid var(--border);border-radius:7px;padding:7px 12px;color:var(--dim);font-size:.78rem;cursor:pointer;transition:.2s;display:flex;align-items:center;gap:5px;margin-top:2px;}
+.pkbtn:hover,.pkbtn.on{background:rgba(79,209,197,.15);border-color:var(--accent);color:var(--accent);}
+.chint{font-size:.68rem;color:var(--muted);margin-top:2px;}
+.mft{padding:12px 18px;border-top:1px solid var(--border);display:flex;gap:7px;justify-content:flex-end;flex-shrink:0;}
+.bsv{background:linear-gradient(135deg,var(--accent2),var(--accent));border:none;border-radius:8px;padding:8px 20px;color:#fff;font-family:'Syne',sans-serif;font-weight:700;font-size:.82rem;cursor:pointer;transition:opacity .2s;}
+.bsv:hover{opacity:.88;}
+.bcn{background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:8px 14px;color:var(--dim);font-size:.82rem;cursor:pointer;transition:.15s;}
+.bcn:hover{color:var(--text);border-color:var(--borderh);}
+/* CONFIRM */
+#cov{position:fixed;inset:0;background:rgba(0,0,0,.7);backdrop-filter:blur(4px);z-index:3000;display:none;align-items:center;justify-content:center;}
+#cov.open{display:flex;}
+#cbox{background:var(--bg2);border:1px solid var(--borderh);border-radius:12px;padding:22px;width:360px;max-width:90vw;box-shadow:0 8px 40px rgba(0,0,0,.5);}
+#cbox h3{font-family:'Syne',sans-serif;font-weight:700;margin-bottom:8px;}
+#cbox p{font-size:.82rem;color:var(--dim);margin-bottom:16px;line-height:1.5;}
+.cbtns{display:flex;gap:7px;justify-content:flex-end;}
+.bdng{background:var(--danger);border:none;border-radius:8px;padding:8px 16px;color:#fff;font-family:'Syne',sans-serif;font-weight:700;font-size:.82rem;cursor:pointer;transition:opacity .2s;}
+.bdng:hover{opacity:.85;}
+/* POPUP */
+.pw{font-family:'DM Sans',sans-serif;min-width:220px;max-width:270px;}
+.ptit{font-family:'Syne',sans-serif;font-weight:700;font-size:.92rem;margin-bottom:3px;color:#1a1e2e;}
+.pbdg{display:inline-block;font-size:.62rem;font-weight:700;padding:2px 8px;border-radius:4px;color:#fff;margin-bottom:7px;letter-spacing:.04em;}
+.pr{font-size:.75rem;color:#4a5070;margin-bottom:3px;display:flex;gap:4px;line-height:1.4;}
+.pr strong{color:#1a1e2e;min-width:55px;flex-shrink:0;}
+.pa{display:flex;gap:5px;margin-top:9px;}
+.pb{flex:1;padding:5px 8px;border-radius:6px;border:1px solid;font-size:.72rem;font-weight:600;cursor:pointer;text-align:center;}
+.pbe{background:#f0f4ff;border-color:#c7d2fe;color:#4f46e5;}
+.pbe:hover{background:#e0e7ff;}
+.pbd{background:#fff1f2;border-color:#fecdd3;color:#e11d48;}
+.pbd:hover{background:#ffe4e6;}
+/* NOTIF */
+#notif{position:fixed;top:64px;right:16px;z-index:9999;display:flex;flex-direction:column;gap:5px;}
+.ni{background:var(--bg2);border:1px solid var(--borderh);border-radius:9px;padding:9px 14px;font-size:.8rem;color:var(--text);box-shadow:0 4px 20px rgba(0,0,0,.4);animation:slin .2s ease;display:flex;align-items:center;gap:7px;}
+.ni.ok{border-color:var(--success);}
+.ni.err{border-color:var(--danger);}
+@keyframes slin{from{opacity:0;transform:translateX(16px)}to{opacity:1;transform:none}}
+body.pkmode #map{cursor:crosshair !important;}
+.leaflet-container{font-family:'DM Sans',sans-serif;}
+/* ADMİN MODAL */
+#adminov{position:fixed;inset:0;background:rgba(0,0,0,.7);backdrop-filter:blur(5px);z-index:4000;display:none;align-items:center;justify-content:center;}
+/* MOBİL */
+#paneltog{display:none;}
+#overlay-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:850;}
+#overlay-bg.open{display:block;}
+@media(max-width:768px){
+  #paneltog{display:flex;align-items:center;justify-content:center;background:var(--bg3);border:1px solid var(--border);border-radius:7px;width:36px;height:36px;font-size:1.1rem;cursor:pointer;color:var(--dim);transition:.15s;flex-shrink:0;}
+  .pill{display:none;}
+  #panel{position:fixed;top:var(--hdr);left:0;height:calc(100vh - var(--hdr));width:300px;transform:translateX(-100%);transition:transform .3s cubic-bezier(.4,0,.2,1);z-index:900;box-shadow:4px 0 24px rgba(0,0,0,.4);}
+  #panel.open{transform:translateX(0);}
+  #listpanel{width:100%;}
+}
+</style>
+</head>
+<body data-theme="dark">
+<div id="app">
+
+<div id="header">
+  <button id="paneltog" title="Menü">☰</button>
+  <h1>🗺 Türkiye <span>Alan Yönetim</span> Haritası</h1>
+  <div class="hsp"></div>
+  <div class="pill">Toplam: <b id="stot">0</b></div>
+  <div class="pill">Gösterilen: <b id="svis">0</b></div>
+  <button class="hbtn" id="adminbtn" title="Admin girişi">🔒 Admin</button>
+  <button class="hbtn" id="thbtn">🌙</button>
+</div>
+<div id="overlay-bg"></div>
+
+<div id="body">
+  <div id="panel">
+    <div class="pscr">
+      <div class="sec">Arama</div>
+      <div class="srch">
+        <span class="si">🔍</span>
+        <input type="text" id="sinp" placeholder="Alan adı veya il ara…"/>
+      </div>
+
+      <div class="sec">Filtreler</div>
+      <select class="fsel" id="fil">
+        <option value="">— Tüm İller —</option>
+        <option>Adana</option><option>Adıyaman</option><option>Afyonkarahisar</option>
+        <option>Ağrı</option><option>Amasya</option><option>Ankara</option>
+        <option>Antalya</option><option>Artvin</option><option>Aydın</option>
+        <option>Balıkesir</option><option>Bilecik</option><option>Bingöl</option>
+        <option>Bitlis</option><option>Bolu</option><option>Burdur</option>
+        <option>Bursa</option><option>Çanakkale</option><option>Çankırı</option>
+        <option>Çorum</option><option>Denizli</option><option>Diyarbakır</option>
+        <option>Edirne</option><option>Elazığ</option><option>Erzincan</option>
+        <option>Erzurum</option><option>Eskişehir</option><option>Gaziantep</option>
+        <option>Giresun</option><option>Gümüşhane</option><option>Hakkari</option>
+        <option>Hatay</option><option>Isparta</option><option>Mersin</option>
+        <option>İstanbul</option><option>İzmir</option><option>Kars</option>
+        <option>Kastamonu</option><option>Kayseri</option><option>Kırklareli</option>
+        <option>Kırşehir</option><option>Kocaeli</option><option>Konya</option>
+        <option>Kütahya</option><option>Malatya</option><option>Manisa</option>
+        <option>Kahramanmaraş</option><option>Mardin</option><option>Muğla</option>
+        <option>Muş</option><option>Nevşehir</option><option>Niğde</option>
+        <option>Ordu</option><option>Rize</option><option>Sakarya</option>
+        <option>Samsun</option><option>Siirt</option><option>Sinop</option>
+        <option>Sivas</option><option>Tekirdağ</option><option>Tokat</option>
+        <option>Trabzon</option><option>Tunceli</option><option>Şanlıurfa</option>
+        <option>Uşak</option><option>Van</option><option>Yozgat</option>
+        <option>Zonguldak</option><option>Aksaray</option><option>Bayburt</option>
+        <option>Karaman</option><option>Kırıkkale</option><option>Batman</option>
+        <option>Şırnak</option><option>Bartın</option><option>Ardahan</option>
+        <option>Iğdır</option><option>Yalova</option><option>Karabük</option>
+        <option>Kilis</option><option>Osmaniye</option><option>Düzce</option>
+      </select>
+      <select class="fsel" id="fdrm">
+        <option value="">— Tüm Durumlar —</option>
+        <option>Aktif</option><option>Planlama</option><option>İptal</option>
+      </select>
+
+      <div class="sec">Katmanlar</div>
+      <div id="lgrid"></div>
+
+      <div class="sec admin-only" style="display:none">Yeni Kayıt</div>
+      <button class="addbtn admin-only" id="addbtn" style="display:none">➕ Yeni Alan Ekle</button>
+
+      <div class="sec admin-only" style="display:none">Veri Yönetimi</div>
+      <div class="dtb admin-only" style="display:none">
+        <button class="hbtn" id="expbtn">📥 JSON</button>
+        <button class="hbtn" id="expgeobtn">🗺 GeoJSON</button>
+        <button class="hbtn" id="impbtn">📤 Yükle</button>
+        <button class="hbtn" id="rstbtn">🔄 Sıfırla</button>
+      </div>
+      <input type="file" id="impfile" accept=".json,.geojson" style="display:none"/>
+    </div>
+  </div>
+
+  <div id="mapwrap">
+    <div id="map"></div>
+    <div id="cbar">Koordinat: —</div>
+    <div id="pkhint">📍 Haritaya tıklayarak konum seçin — ESC ile iptal</div>
+    <button id="listtog">📋 Liste</button>
+    <div id="listpanel">
+      <div class="lhdr">
+        <h3>📋 Alan Listesi</h3>
+        <span class="pill"><b id="lcnt">0</b> kayıt</span>
+        <button class="hbtn" id="lclose" style="padding:3px 7px">✕</button>
+      </div>
+      <div id="listbody"></div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- ADMİN GİRİŞ -->
+<div id="adminov">
+  <div style="background:var(--bg2);border:1px solid var(--borderh);border-radius:14px;width:340px;max-width:92vw;padding:28px;box-shadow:0 8px 40px rgba(0,0,0,.5);">
+    <div style="text-align:center;margin-bottom:20px;">
+      <div style="font-size:2rem;margin-bottom:8px;">🔐</div>
+      <h2 style="font-family:'Syne',sans-serif;font-weight:800;font-size:1.1rem;color:var(--text);">Admin Girişi</h2>
+      <p style="font-size:.78rem;color:var(--muted);margin-top:4px;">Bu işlem için admin şifresi gerekiyor.</p>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:10px;">
+      <input type="password" id="adminpass" placeholder="Şifre…"
+        style="background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:10px 14px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.9rem;outline:none;width:100%;transition:border-color .2s;"
+        onfocus="this.style.borderColor='var(--accent)'" onblur="this.style.borderColor=''"
+        onkeydown="if(event.key==='Enter')checkAdmin()"/>
+      <div id="adminErr" style="color:var(--danger);font-size:.75rem;display:none;">❌ Yanlış şifre!</div>
+      <button onclick="checkAdmin()" style="background:linear-gradient(135deg,var(--accent2),var(--accent));border:none;border-radius:8px;padding:10px;color:#fff;font-family:'Syne',sans-serif;font-weight:700;font-size:.85rem;cursor:pointer;">Giriş Yap</button>
+      <button onclick="closeAdminMod()" style="background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:9px;color:var(--dim);font-size:.82rem;cursor:pointer;">İptal</button>
+    </div>
+  </div>
+</div>
+
+<!-- MODAL -->
+<div id="mov">
+  <div id="modal">
+    <div class="mhd">
+      <h2 id="mtit">Yeni Alan Ekle</h2>
+      <button class="mcls" id="mcls">✕</button>
+    </div>
+    <div class="mbd">
+      <div class="fgrid">
+        <div class="fg full"><label>Alan Adı *</label><input type="text" id="fad" placeholder="Örn: Beydağları Olimpos Milli Parkı"/></div>
+        <div class="fg"><label>Alan Türü *</label>
+          <select id="ftip">
+            <option value="">Seçiniz…</option>
+            <option>Milli Park</option><option>Tabiatı Koruma Alanı</option>
+            <option>Kıyı Koruma Alanı</option><option>Maden Ocağı</option>
+            <option>Mermer Ocağı</option><option>Taş Ocağı</option>
+            <option>HES</option><option>GES</option><option>RES</option>
+            <option>Jeotermal</option><option>Orman Alanı</option>
+            <option>Özel Çevre Koruma Alanı</option><option>Sulak Alan</option>
+          </select>
+        </div>
+        <div class="fg"><label>İl *</label>
+          <select id="fil2">
+            <option value="">Seçiniz…</option>
+            <option>Adana</option><option>Adıyaman</option><option>Afyonkarahisar</option>
+            <option>Ağrı</option><option>Amasya</option><option>Ankara</option>
+            <option>Antalya</option><option>Artvin</option><option>Aydın</option>
+            <option>Balıkesir</option><option>Bilecik</option><option>Bingöl</option>
+            <option>Bitlis</option><option>Bolu</option><option>Burdur</option>
+            <option>Bursa</option><option>Çanakkale</option><option>Çankırı</option>
+            <option>Çorum</option><option>Denizli</option><option>Diyarbakır</option>
+            <option>Edirne</option><option>Elazığ</option><option>Erzincan</option>
+            <option>Erzurum</option><option>Eskişehir</option><option>Gaziantep</option>
+            <option>Giresun</option><option>Gümüşhane</option><option>Hakkari</option>
+            <option>Hatay</option><option>Isparta</option><option>Mersin</option>
+            <option>İstanbul</option><option>İzmir</option><option>Kars</option>
+            <option>Kastamonu</option><option>Kayseri</option><option>Kırklareli</option>
+            <option>Kırşehir</option><option>Kocaeli</option><option>Konya</option>
+            <option>Kütahya</option><option>Malatya</option><option>Manisa</option>
+            <option>Kahramanmaraş</option><option>Mardin</option><option>Muğla</option>
+            <option>Muş</option><option>Nevşehir</option><option>Niğde</option>
+            <option>Ordu</option><option>Rize</option><option>Sakarya</option>
+            <option>Samsun</option><option>Siirt</option><option>Sinop</option>
+            <option>Sivas</option><option>Tekirdağ</option><option>Tokat</option>
+            <option>Trabzon</option><option>Tunceli</option><option>Şanlıurfa</option>
+            <option>Uşak</option><option>Van</option><option>Yozgat</option>
+            <option>Zonguldak</option><option>Aksaray</option><option>Bayburt</option>
+            <option>Karaman</option><option>Kırıkkale</option><option>Batman</option>
+            <option>Şırnak</option><option>Bartın</option><option>Ardahan</option>
+            <option>Iğdır</option><option>Yalova</option><option>Karabük</option>
+            <option>Kilis</option><option>Osmaniye</option><option>Düzce</option>
+          </select>
+        </div>
+        <div class="fg"><label>Alan (ha)</label><input type="number" id="falan" placeholder="0"/></div>
+        <div class="fg"><label>Durum</label><select id="fdrm2"><option>Aktif</option><option>Planlama</option><option>İptal</option></select></div>
+        <div class="fg"><label>Belge / Karar No</label><input type="text" id="fblg" placeholder="Örn: 2024/123"/></div>
+        <div class="fg"><label>Kaynak</label><input type="text" id="fkyn" placeholder="OGM, Çevre Bakanlığı…"/></div>
+        <div class="fg"><label>Enlem (Lat)</label><input type="number" step="0.00001" id="flat" placeholder="39.9208"/></div>
+        <div class="fg"><label>Boylam (Lng)</label><input type="number" step="0.00001" id="flng" placeholder="32.8541"/></div>
+        <div class="fg full">
+          <button class="pkbtn" id="pkbtn">📍 Haritadan Konum Seç</button>
+          <div class="chint">Butona basıp haritada tıklayarak koordinat belirleyin.</div>
+        </div>
+        <div class="fg full"><label>Açıklama</label><textarea id="faclm" placeholder="Alan hakkında notlar…"></textarea></div>
+      </div>
+    </div>
+    <div class="mft">
+      <button class="bcn" id="mcan">İptal</button>
+      <button class="bsv" id="msav">💾 Kaydet</button>
+    </div>
+  </div>
+</div>
+
+<!-- CONFIRM -->
+<div id="cov">
+  <div id="cbox">
+    <h3>⚠️ Onay</h3>
+    <p id="ctxt">Bu alanı silmek istediğinizden emin misiniz?</p>
+    <div class="cbtns">
+      <button class="bcn" id="ccan">İptal</button>
+      <button class="bdng" id="cok">Onayla</button>
+    </div>
+  </div>
+</div>
+
+<div id="notif"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+<script>
+/* ══════════════════════════════════════════
+   AYARLAR — GitHub'a yüklemeden önce doldurun
+══════════════════════════════════════════ */
+const JSONBIN_KEY = '$2a$10$hwg38fvL8C7mgZ30yJUq0.SDH8nmVb6YDldr.6Bf6ie1AuKAap/iO';
+const JSONBIN_ID  = '69bbee74b7ec241ddc81f106';
+const JSONBIN_URL = JSONBIN_ID ? `https://api.jsonbin.io/v3/b/${JSONBIN_ID}` : '';
+const ADMIN_PASS  = 'Turkiye2025!';
+
+/* ══════════════════════════════════════════
+   ALAN TÜRLERİ
+══════════════════════════════════════════ */
+const TYPES=[
+  {key:'Milli Park',              color:'#2d8a4f', icon:'🌲'},
+  {key:'Tabiatı Koruma Alanı',    color:'#52b788', icon:'🌿'},
+  {key:'Kıyı Koruma Alanı',       color:'#0096c7', icon:'🌊'},
+  {key:'Maden Ocağı',             color:'#8d6e63', icon:'⛏️'},
+  {key:'Mermer Ocağı',            color:'#b0bec5', icon:'🪨'},
+  {key:'Taş Ocağı',               color:'#78909c', icon:'🏔️'},
+  {key:'HES',                     color:'#4fc3f7', icon:'💧'},
+  {key:'GES',                     color:'#ffa726', icon:'☀️'},
+  {key:'RES',                     color:'#81d4fa', icon:'💨'},
+  {key:'Jeotermal',               color:'#ef5350', icon:'🌋'},
+  {key:'Orman Alanı',             color:'#66bb6a', icon:'🌳'},
+  {key:'Özel Çevre Koruma Alanı', color:'#ab47bc', icon:'🛡️'},
+  {key:'Sulak Alan',              color:'#26c6da', icon:'🦢'},
+];
+const TM={};TYPES.forEach(t=>TM[t.key]=t);
+const SK='turkiye_harita_v1';
+
+function uid(){return 'r'+Math.random().toString(36).substr(2,9)+Date.now();}
+function tod(){return new Date().toISOString().split('T')[0];}
+
+/* ══════════════════════════════════════════
+   ÖRNEK BAŞLANGIÇ VERİLERİ (Türkiye geneli)
+══════════════════════════════════════════ */
+const DD=[
+  // Milli Parklar
+  {id:uid(),tip:'Milli Park',ad:'Beydağları Olimpos Milli Parkı',il:'Antalya',aciklama:'Olimpos antik kenti ve Yanartaş içerir.',koordinatlar:{lat:36.52,lng:30.48},alan_ha:34425,durum:'Aktif',belge_no:'1972/7132',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Milli Park',ad:'Köprülü Kanyon Milli Parkı',il:'Antalya',aciklama:'Köprüçay Nehri kanyonu.',koordinatlar:{lat:37.13,lng:31.40},alan_ha:36614,durum:'Aktif',belge_no:'1973/7785',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Milli Park',ad:'Güllük Dağı (Termessos) Milli Parkı',il:'Antalya',aciklama:'Antik Termessos şehri.',koordinatlar:{lat:37.04,lng:30.46},alan_ha:6702,durum:'Aktif',belge_no:'1970/1334',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Milli Park',ad:'Kazdağı Milli Parkı',il:'Balıkesir',aciklama:'Kaz Dağları biyosfer rezervi.',koordinatlar:{lat:39.70,lng:26.83},alan_ha:21552,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Milli Park',ad:'Uludağ Milli Parkı',il:'Bursa',aciklama:'Türkiye\'nin en önemli kayak merkezi ve milli parkı.',koordinatlar:{lat:40.09,lng:29.22},alan_ha:11338,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Milli Park',ad:'Sakarya Milli Parkı (Ağaçlı)',il:'Sakarya',aciklama:'Sakarya nehri havzası.',koordinatlar:{lat:40.78,lng:30.40},alan_ha:1200,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Milli Park',ad:'Göreme Milli Parkı',il:'Nevşehir',aciklama:'Kapadokya peri bacaları ve yeraltı şehirleri.',koordinatlar:{lat:38.67,lng:34.85},alan_ha:9571,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Milli Park',ad:'Nemrut Dağı Milli Parkı',il:'Adıyaman',aciklama:'UNESCO Dünya Mirası. Dev kral heykelleri.',koordinatlar:{lat:37.98,lng:38.74},alan_ha:13850,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Milli Park',ad:'Munzur Vadisi Milli Parkı',il:'Tunceli',aciklama:'Türkiye\'nin en büyük milli parkı.',koordinatlar:{lat:39.37,lng:39.35},alan_ha:42000,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Milli Park',ad:'Karagöl-Sahara Milli Parkı',il:'Artvin',aciklama:'Karadeniz yaylaları ve doğal göller.',koordinatlar:{lat:41.25,lng:42.13},alan_ha:3290,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  // ÖÇKA
+  {id:uid(),tip:'Özel Çevre Koruma Alanı',ad:'Belek ÖÇKA',il:'Antalya',aciklama:'Caretta caretta yuvalama sahası.',koordinatlar:{lat:36.86,lng:31.05},alan_ha:20438,durum:'Aktif',belge_no:'1990/478',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  {id:uid(),tip:'Özel Çevre Koruma Alanı',ad:'Patara ÖÇKA',il:'Antalya',aciklama:'Antik Patara ve Türkiye\'nin en uzun plajı.',koordinatlar:{lat:36.27,lng:29.31},alan_ha:18500,durum:'Aktif',belge_no:'1990/478',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  {id:uid(),tip:'Özel Çevre Koruma Alanı',ad:'Kekova ÖÇKA',il:'Antalya',aciklama:'Batık şehir ve eşsiz kıyı alanı.',koordinatlar:{lat:36.18,lng:29.90},alan_ha:31177,durum:'Aktif',belge_no:'1990/478',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  {id:uid(),tip:'Özel Çevre Koruma Alanı',ad:'Köyceğiz-Dalyan ÖÇKA',il:'Muğla',aciklama:'Caretta caretta ve İztuzu plajı.',koordinatlar:{lat:36.82,lng:28.64},alan_ha:46258,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  {id:uid(),tip:'Özel Çevre Koruma Alanı',ad:'Gökova ÖÇKA',il:'Muğla',aciklama:'Gökova körfezi ve deniz ekosistemi.',koordinatlar:{lat:37.00,lng:28.30},alan_ha:120000,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  // Sulak Alanlar
+  {id:uid(),tip:'Sulak Alan',ad:'Kuş Gölü (Manyas)',il:'Balıkesir',aciklama:'Kuş Cenneti Milli Parkı. Ramsar alanı.',koordinatlar:{lat:40.21,lng:27.97},alan_ha:16400,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  {id:uid(),tip:'Sulak Alan',ad:'Tuz Gölü',il:'Ankara',aciklama:'Türkiye\'nin ikinci büyük gölü. Ramsar alanı.',koordinatlar:{lat:38.78,lng:33.38},alan_ha:166000,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  {id:uid(),tip:'Sulak Alan',ad:'Burdur Gölü',il:'Burdur',aciklama:'Didi balığı ve flamingo habitat alanı.',koordinatlar:{lat:37.73,lng:30.17},alan_ha:23500,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  {id:uid(),tip:'Sulak Alan',ad:'Kızılırmak Deltası',il:'Samsun',aciklama:'Karadeniz kıyısında önemli delta.',koordinatlar:{lat:41.65,lng:36.05},alan_ha:15000,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  {id:uid(),tip:'Sulak Alan',ad:'Belek Sulak Alanları',il:'Antalya',aciklama:'Göç güzergahında önemli sulak alan.',koordinatlar:{lat:36.86,lng:31.07},alan_ha:1600,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Çevre Bakanlığı'},
+  // Orman
+  {id:uid(),tip:'Orman Alanı',ad:'Kemer Ormanları',il:'Antalya',aciklama:'Sedir ve kızılçam ormanları.',koordinatlar:{lat:36.60,lng:30.55},alan_ha:48000,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Orman Alanı',ad:'Kastamonu Sedir Ormanları',il:'Kastamonu',aciklama:'Karadeniz bölgesinin büyük sedir ormanları.',koordinatlar:{lat:41.37,lng:33.77},alan_ha:65000,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  {id:uid(),tip:'Orman Alanı',ad:'Artvin Ormanları',il:'Artvin',aciklama:'Doğu Karadeniz\'in yoğun orman örtüsü.',koordinatlar:{lat:41.18,lng:41.82},alan_ha:92000,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'OGM'},
+  // HES
+  {id:uid(),tip:'HES',ad:'Atatürk Barajı ve HES',il:'Şanlıurfa',aciklama:'Türkiye\'nin en büyük barajı. 2.400 MW.',koordinatlar:{lat:37.47,lng:38.33},alan_ha:81700,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'EÜAŞ'},
+  {id:uid(),tip:'HES',ad:'Oymapınar Barajı ve HES',il:'Antalya',aciklama:'540 MW kurulu güç.',koordinatlar:{lat:36.99,lng:31.62},alan_ha:1900,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'EÜAŞ'},
+  {id:uid(),tip:'HES',ad:'Karakaya Barajı ve HES',il:'Malatya',aciklama:'Fırat üzerinde 1.800 MW.',koordinatlar:{lat:38.35,lng:38.23},alan_ha:29800,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'EÜAŞ'},
+  {id:uid(),tip:'HES',ad:'Keban Barajı ve HES',il:'Elazığ',aciklama:'Fırat Nehri üzerinde 1.330 MW.',koordinatlar:{lat:38.79,lng:38.74},alan_ha:67500,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'EÜAŞ'},
+  // GES
+  {id:uid(),tip:'GES',ad:'Kalyon Karapınar GES',il:'Konya',aciklama:'Türkiye\'nin en büyük GES projesi. 1.000 MW.',koordinatlar:{lat:37.72,lng:33.55},alan_ha:20000,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'TEDAŞ'},
+  {id:uid(),tip:'GES',ad:'Kepez GES',il:'Antalya',aciklama:'Kepez güneş enerjisi santrali.',koordinatlar:{lat:37.02,lng:30.67},alan_ha:180,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'TEDAŞ'},
+  {id:uid(),tip:'GES',ad:'İzmir Aliağa GES',il:'İzmir',aciklama:'Aliağa sanayi bölgesi GES sahası.',koordinatlar:{lat:38.85,lng:26.97},alan_ha:420,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Özel'},
+  // RES
+  {id:uid(),tip:'RES',ad:'İzmir Rüzgar Enerjisi Parkı',il:'İzmir',aciklama:'İzmir körfezi kıyısında büyük RES.',koordinatlar:{lat:38.53,lng:26.65},alan_ha:850,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Özel'},
+  {id:uid(),tip:'RES',ad:'Elmalı RES',il:'Antalya',aciklama:'Elmalı yaylasında rüzgar enerji santrali.',koordinatlar:{lat:36.72,lng:29.88},alan_ha:480,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Özel'},
+  {id:uid(),tip:'RES',ad:'Bandırma RES',il:'Balıkesir',aciklama:'Marmara Denizi kıyısında RES.',koordinatlar:{lat:40.35,lng:27.97},alan_ha:620,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'Özel'},
+  // Jeotermal
+  {id:uid(),tip:'Jeotermal',ad:'Germencik Jeotermal Santrali',il:'Aydın',aciklama:'Türkiye\'nin en büyük jeotermal santrali. 232 MW.',koordinatlar:{lat:37.87,lng:27.60},alan_ha:380,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'MTA'},
+  {id:uid(),tip:'Jeotermal',ad:'Kızıldere Jeotermal Santrali',il:'Denizli',aciklama:'Türkiye\'nin ilk jeotermal santrali.',koordinatlar:{lat:37.88,lng:28.95},alan_ha:210,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'MTA'},
+  {id:uid(),tip:'Jeotermal',ad:'Ilıca Kaplıcası',il:'Antalya',aciklama:'Gazipaşa jeotermal kaynak.',koordinatlar:{lat:36.29,lng:32.32},alan_ha:45,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'MTA'},
+  // Maden
+  {id:uid(),tip:'Maden Ocağı',ad:'Soma Kömür İşletmesi',il:'Manisa',aciklama:'Türkiye\'nin en büyük linyit sahası.',koordinatlar:{lat:39.19,lng:27.59},alan_ha:4200,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'TTK'},
+  {id:uid(),tip:'Maden Ocağı',ad:'Akseki Krom Madeni',il:'Antalya',aciklama:'Aktif krom madenciliği.',koordinatlar:{lat:37.07,lng:31.85},alan_ha:320,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'MTA'},
+  {id:uid(),tip:'Maden Ocağı',ad:'Ergani Bakır Madeni',il:'Diyarbakır',aciklama:'Türkiye\'nin en önemli bakır yatağı.',koordinatlar:{lat:38.27,lng:39.76},alan_ha:1800,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'ETİBANK'},
+  // Mermer
+  {id:uid(),tip:'Mermer Ocağı',ad:'Afyon Mermer Havzası',il:'Afyonkarahisar',aciklama:'Türkiye\'nin en büyük mermer üretim havzası.',koordinatlar:{lat:38.75,lng:30.54},alan_ha:3200,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'MTA'},
+  {id:uid(),tip:'Mermer Ocağı',ad:'Elmalı Mermer Ocağı',il:'Antalya',aciklama:'Yüksek kaliteli beyaz mermer.',koordinatlar:{lat:36.71,lng:29.95},alan_ha:210,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'MTA'},
+  {id:uid(),tip:'Mermer Ocağı',ad:'Bilecik Mermer Havzası',il:'Bilecik',aciklama:'Önemli mermer üretim bölgesi.',koordinatlar:{lat:40.15,lng:29.98},alan_ha:1500,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'MTA'},
+  // Taş Ocakları
+  {id:uid(),tip:'Taş Ocağı',ad:'Bolu Bazalt Ocakları',il:'Bolu',aciklama:'Yol yapımı için bazalt üretimi.',koordinatlar:{lat:40.73,lng:31.61},alan_ha:380,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'MTA'},
+  {id:uid(),tip:'Taş Ocağı',ad:'Manavgat Kireçtaşı Ocağı',il:'Antalya',aciklama:'Kireçtaşı ve agrega üretimi.',koordinatlar:{lat:36.80,lng:31.43},alan_ha:120,durum:'Aktif',belge_no:'',eklenme:tod(),kaynak:'MTA'},
+];
+
+/* ══════════════════════════════════════════
+   STATE
+══════════════════════════════════════════ */
+let data=[],mkrs={},lgs={},vis={},editId=null,pkMode=false,pkCb=null,confCb=null;
+let fTxt='',fIl='',fDrm='';
+let isAdmin=false,pendingAdminAction=null;
+
+/* ══════════════════════════════════════════
+   ADMİN
+══════════════════════════════════════════ */
+function requireAdmin(action){if(isAdmin){action();return;}pendingAdminAction=action;document.getElementById('adminpass').value='';document.getElementById('adminErr').style.display='none';document.getElementById('adminov').style.display='flex';setTimeout(()=>document.getElementById('adminpass').focus(),100);}
+function checkAdmin(){const v=document.getElementById('adminpass').value;if(v===ADMIN_PASS){isAdmin=true;document.getElementById('adminov').style.display='none';updateAdminUI();if(pendingAdminAction){pendingAdminAction();pendingAdminAction=null;}}else{document.getElementById('adminErr').style.display='block';document.getElementById('adminpass').value='';document.getElementById('adminpass').focus();}}
+function closeAdminMod(){document.getElementById('adminov').style.display='none';pendingAdminAction=null;}
+function adminLogout(){isAdmin=false;updateAdminUI();ntf('Çıkış yapıldı.','ok');}
+function updateAdminUI(){
+  const btn=document.getElementById('adminbtn');
+  if(isAdmin){btn.textContent='🔓 Çıkış';btn.style.borderColor='var(--success)';btn.style.color='var(--success)';}
+  else{btn.textContent='🔒 Admin';btn.style.borderColor='';btn.style.color='';}
+  document.querySelectorAll('.admin-only').forEach(el=>el.style.display=isAdmin?'':'none');
+}
+
+/* ══════════════════════════════════════════
+   HARİTA
+══════════════════════════════════════════ */
+const map=L.map('map',{center:[39.0,35.0],zoom:6});
+const bases={
+  'OSM Standart':L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png',{attribution:'© OpenStreetMap France © OpenStreetMap contributors',subdomains:'abc',maxZoom:20}),
+  'OSM Sıcak':L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',{attribution:'© OpenStreetMap HOT © OpenStreetMap contributors',subdomains:'abc',maxZoom:20}),
+  'Uydu':L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{attribution:'© Esri World Imagery',maxZoom:19}),
+  'Topoğrafik':L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',{attribution:'© Esri World Topo',maxZoom:19}),
+  'CartoDB':L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',{attribution:'© CartoDB © OpenStreetMap',subdomains:'abcd',maxZoom:20}),
+};
+bases['OSM Standart'].addTo(map);
+
+const wdpaLayer=L.tileLayer.wms('https://geoserver.unepwcmc.org/wdpa/ows?',{layers:'WDPA:WDPA_poly_Latest',format:'image/png',transparent:true,opacity:0.5,attribution:'© UNEP-WCMC WDPA',maxZoom:20});
+const overlays={'🛡️ Koruma Alanı Sınırları (WDPA)':wdpaLayer};
+L.control.layers(bases,overlays,{position:'topright'}).addTo(map);
+
+map.on('mousemove',e=>{document.getElementById('cbar').textContent=`Enlem: ${e.latlng.lat.toFixed(5)} | Boylam: ${e.latlng.lng.toFixed(5)}`;});
+map.on('click',e=>{if(pkMode&&pkCb){pkCb(e.latlng.lat,e.latlng.lng);exitPk();}});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&pkMode)exitPk();});
+window.addEventListener('load',()=>setTimeout(()=>map.invalidateSize(true),100));
+setTimeout(()=>map.invalidateSize(true),300);
+
+/* ══════════════════════════════════════════
+   KATMAN GRUPLARI
+══════════════════════════════════════════ */
+TYPES.forEach(t=>{
+  lgs[t.key]=L.markerClusterGroup({maxClusterRadius:55,iconCreateFunction(c){return L.divIcon({html:`<div style="background:${t.color};color:#fff;border-radius:50%;width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:.72rem;font-weight:700;border:2px solid rgba(255,255,255,.4);box-shadow:0 2px 8px rgba(0,0,0,.35)">${c.getChildCount()}</div>`,className:'',iconSize:[32,32]});}});
+  lgs[t.key].addTo(map);vis[t.key]=true;
+});
+
+/* ══════════════════════════════════════════
+   MARKER
+══════════════════════════════════════════ */
+function mkIcon(type){const t=TM[type]||{color:'#888',icon:'📍'};return L.divIcon({html:`<div style="background:${t.color};border-radius:50% 50% 50% 0;transform:rotate(-45deg);width:30px;height:30px;border:2px solid rgba(255,255,255,.45);box-shadow:0 3px 10px rgba(0,0,0,.4);display:flex;align-items:center;justify-content:center;"><span style="transform:rotate(45deg);font-size:.85rem">${t.icon}</span></div>`,className:'',iconSize:[30,30],iconAnchor:[15,30],popupAnchor:[0,-32]});}
+function popHtml(r){
+  const t=TM[r.tip]||{color:'#888',icon:'📍'};
+  const dc=r.durum==='Aktif'?'#16a34a':r.durum==='Planlama'?'#d97706':'#dc2626';
+  return `<div class="pw">
+    <div class="ptit">${r.ad}</div>
+    <span class="pbdg" style="background:${t.color}">${t.icon} ${r.tip}</span>
+    <div class="pr"><strong>İl:</strong>${r.il||'—'}</div>
+    <div class="pr"><strong>Alan:</strong>${r.alan_ha?Number(r.alan_ha).toLocaleString('tr-TR')+' ha':'—'}</div>
+    <div class="pr"><strong>Durum:</strong><span style="color:${dc};font-weight:600">${r.durum||'—'}</span></div>
+    ${r.belge_no?`<div class="pr"><strong>Belge:</strong>${r.belge_no}</div>`:''}
+    ${r.kaynak?`<div class="pr"><strong>Kaynak:</strong>${r.kaynak}</div>`:''}
+    ${r.aciklama?`<div class="pr" style="margin-top:5px;border-top:1px solid #e5e7eb;padding-top:5px">${r.aciklama}</div>`:''}
+    <div class="pa">
+      <button class="pb pbe" onclick="requireAdmin(()=>doEdit('${r.id}'))">✏️ Düzenle</button>
+      <button class="pb pbd" onclick="requireAdmin(()=>doDel('${r.id}'))">🗑️ Sil</button>
+    </div>
+  </div>`;
+}
+function addMkr(r){if(!r.koordinatlar||!r.koordinatlar.lat)return;const m=L.marker([r.koordinatlar.lat,r.koordinatlar.lng],{icon:mkIcon(r.tip)});m.bindPopup(L.popup({maxWidth:280}).setContent(popHtml(r)));lgs[r.tip]?.addLayer(m);mkrs[r.id]=m;}
+function remMkr(id){if(!mkrs[id])return;const r=data.find(d=>d.id===id);if(r)lgs[r.tip]?.removeLayer(mkrs[id]);delete mkrs[id];}
+
+/* ══════════════════════════════════════════
+   VERİ
+══════════════════════════════════════════ */
+async function load(){
+  if(JSONBIN_KEY&&JSONBIN_ID){
+    try{
+      const res=await fetch(JSONBIN_URL+'/latest',{headers:{'X-Master-Key':JSONBIN_KEY,'X-Bin-Meta':'false'}});
+      if(!res.ok)throw new Error();
+      const remote=await res.json();
+      const valid=Array.isArray(remote)&&remote.length>0&&!remote[0].init;
+      if(valid){data=remote;}
+      else{
+        data=JSON.parse(JSON.stringify(DD));
+        await fetch(JSONBIN_URL,{method:'PUT',headers:{'Content-Type':'application/json','X-Master-Key':JSONBIN_KEY},body:JSON.stringify(data)});
+        ntf('Varsayılan veriler yüklendi ✓','ok');
+      }
+      localStorage.setItem(SK,JSON.stringify(data));
+    }catch{const s=localStorage.getItem(SK);data=s?JSON.parse(s):JSON.parse(JSON.stringify(DD));}
+  }else{const s=localStorage.getItem(SK);data=s?JSON.parse(s):JSON.parse(JSON.stringify(DD));}
+  renderAll();
+}
+async function save(){
+  localStorage.setItem(SK,JSON.stringify(data));
+  if(JSONBIN_KEY&&JSONBIN_ID){try{await fetch(JSONBIN_URL,{method:'PUT',headers:{'Content-Type':'application/json','X-Master-Key':JSONBIN_KEY},body:JSON.stringify(data)});}catch{}}
+}
+function renderAll(){Object.keys(mkrs).forEach(id=>{const r=data.find(d=>d.id===id);if(r)lgs[r.tip]?.removeLayer(mkrs[id]);});mkrs={};data.forEach(r=>addMkr(r));applyF();buildLG();}
+function applyF(){
+  const q=fTxt.toLowerCase();
+  const fil=data.filter(r=>{
+    const mt=!q||r.ad.toLowerCase().includes(q)||(r.il||'').toLowerCase().includes(q);
+    const mi=!fIl||r.il===fIl;
+    const md=!fDrm||r.durum===fDrm;
+    return mt&&mi&&md;
+  });
+  data.forEach(r=>{const m=mkrs[r.id];if(!m)return;const show=!!fil.find(f=>f.id===r.id)&&vis[r.tip];const lg=lgs[r.tip];if(!lg)return;if(show&&!lg.hasLayer(m))lg.addLayer(m);if(!show&&lg.hasLayer(m))lg.removeLayer(m);});
+  document.getElementById('stot').textContent=data.length;
+  document.getElementById('svis').textContent=fil.filter(r=>vis[r.tip]).length;
+  renderList(fil.filter(r=>vis[r.tip]));
+  updCnts();
+}
+function updCnts(){TYPES.forEach(t=>{const el=document.getElementById('lc_'+t.key);if(el)el.textContent=data.filter(d=>d.tip===t.key).length;});}
+function renderList(list){
+  document.getElementById('lcnt').textContent=list.length;
+  const b=document.getElementById('listbody');
+  if(!list.length){b.innerHTML='<div class="empty">Kayıt bulunamadı.</div>';return;}
+  b.innerHTML=list.map(r=>{const t=TM[r.tip]||{color:'#888',icon:'📍'};return `<div class="lrow" onclick="focR('${r.id}')"><div class="lrdot" style="background:${t.color}"></div><div><div class="lrn">${r.ad}</div><div class="lrs">${t.icon} ${r.tip} · ${r.il||'—'}</div></div><div class="lrha">${r.alan_ha?Number(r.alan_ha).toLocaleString('tr-TR')+' ha':'—'}</div></div>`;}).join('');
+}
+function focR(id){const r=data.find(d=>d.id===id);if(!r||!r.koordinatlar?.lat)return;map.setView([r.koordinatlar.lat,r.koordinatlar.lng],12);const m=mkrs[id];if(m)setTimeout(()=>m.openPopup(),450);}
+
+/* ══════════════════════════════════════════
+   KATMAN GRID
+══════════════════════════════════════════ */
+function buildLG(){document.getElementById('lgrid').innerHTML=TYPES.map(t=>`<div class="li" onclick="togL('${t.key}')"><div class="ldot" style="background:${t.color};opacity:${vis[t.key]?1:.3}"></div><div class="llbl">${t.icon} ${t.key}</div><span class="lcnt" id="lc_${t.key}">0</span><div class="ltog ${vis[t.key]?'on':''}"></div></div>`).join('');updCnts();}
+function togL(key){vis[key]=!vis[key];applyF();buildLG();}
+
+/* ══════════════════════════════════════════
+   MODAL
+══════════════════════════════════════════ */
+function openAdd(){editId=null;document.getElementById('mtit').textContent='➕ Yeni Alan Ekle';clrF();document.getElementById('mov').classList.add('open');}
+function doEdit(id){const r=data.find(d=>d.id===id);if(!r)return;editId=id;document.getElementById('mtit').textContent='✏️ Alanı Düzenle';document.getElementById('fad').value=r.ad||'';document.getElementById('ftip').value=r.tip||'';document.getElementById('fil2').value=r.il||'';document.getElementById('falan').value=r.alan_ha||'';document.getElementById('fdrm2').value=r.durum||'Aktif';document.getElementById('fblg').value=r.belge_no||'';document.getElementById('fkyn').value=r.kaynak||'';document.getElementById('faclm').value=r.aciklama||'';document.getElementById('flat').value=r.koordinatlar?.lat||'';document.getElementById('flng').value=r.koordinatlar?.lng||'';document.getElementById('mov').classList.add('open');mkrs[id]?.closePopup();}
+function closeMod(){document.getElementById('mov').classList.remove('open');if(pkMode)exitPk();editId=null;}
+function clrF(){['fad','ftip','fil2','falan','fblg','fkyn','faclm','flat','flng'].forEach(i=>document.getElementById(i).value='');document.getElementById('fdrm2').value='Aktif';}
+function savRec(){
+  const ad=document.getElementById('fad').value.trim();
+  const tip=document.getElementById('ftip').value;
+  const il=document.getElementById('fil2').value;
+  if(!ad){ntf('Alan adı zorunludur!','err');return;}
+  if(!tip){ntf('Alan türü seçiniz!','err');return;}
+  if(!il){ntf('İl seçiniz!','err');return;}
+  const lat=parseFloat(document.getElementById('flat').value);
+  const lng=parseFloat(document.getElementById('flng').value);
+  const rec={id:editId||uid(),tip,ad,il,aciklama:document.getElementById('faclm').value.trim(),koordinatlar:(lat&&lng)?{lat,lng}:{},alan_ha:parseFloat(document.getElementById('falan').value)||0,durum:document.getElementById('fdrm2').value,belge_no:document.getElementById('fblg').value.trim(),eklenme:tod(),kaynak:document.getElementById('fkyn').value.trim()||'Manuel'};
+  if(editId){const i=data.findIndex(d=>d.id===editId);if(i>=0){remMkr(editId);data[i]=rec;addMkr(rec);}ntf('Kayıt güncellendi ✓','ok');}
+  else{data.push(rec);addMkr(rec);ntf('Yeni alan eklendi ✓','ok');}
+  save();applyF();closeMod();
+  if(rec.koordinatlar?.lat){map.setView([rec.koordinatlar.lat,rec.koordinatlar.lng],12);setTimeout(()=>mkrs[rec.id]?.openPopup(),450);}
+}
+
+/* ══════════════════════════════════════════
+   SİL
+══════════════════════════════════════════ */
+function doDel(id){const r=data.find(d=>d.id===id);if(!r)return;mkrs[id]?.closePopup();document.getElementById('ctxt').textContent=`"${r.ad}" adlı alanı silmek istediğinizden emin misiniz?`;document.getElementById('cok').textContent='Onayla';confCb=()=>{remMkr(id);data=data.filter(d=>d.id!==id);save();applyF();ntf('Kayıt silindi.','ok');};document.getElementById('cov').classList.add('open');}
+
+/* ══════════════════════════════════════════
+   PICK MODE
+══════════════════════════════════════════ */
+function enterPk(){pkMode=true;document.body.classList.add('pkmode');document.getElementById('pkhint').style.display='block';document.getElementById('pkbtn').classList.add('on');document.getElementById('pkbtn').textContent='❌ İptal';document.getElementById('mov').style.visibility='hidden';}
+function exitPk(){pkMode=false;document.body.classList.remove('pkmode');document.getElementById('pkhint').style.display='none';document.getElementById('pkbtn').classList.remove('on');document.getElementById('pkbtn').textContent='📍 Haritadan Konum Seç';document.getElementById('mov').style.visibility='';pkCb=null;}
+
+/* ══════════════════════════════════════════
+   IMPORT / EXPORT
+══════════════════════════════════════════ */
+function expD(){const b=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=`turkiye-alan-${tod()}.json`;a.click();ntf('Veri indirildi ✓','ok');}
+
+function expGeoJSON(){
+  const geojson={type:'FeatureCollection',name:'Türkiye Alan Yönetim Haritası',crs:{type:'name',properties:{name:'urn:ogc:def:crs:OGC:1.3:CRS84'}},features:data.filter(r=>r.koordinatlar&&r.koordinatlar.lat&&r.koordinatlar.lng).map(r=>({type:'Feature',properties:{id:r.id,ad:r.ad,tip:r.tip,il:r.il,aciklama:r.aciklama||'',alan_ha:r.alan_ha||0,durum:r.durum||'',belge_no:r.belge_no||'',kaynak:r.kaynak||'',eklenme:r.eklenme||''},geometry:{type:'Point',coordinates:[r.koordinatlar.lng,r.koordinatlar.lat]}}))};
+  const b=new Blob([JSON.stringify(geojson,null,2)],{type:'application/geo+json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=`turkiye-alan-${tod()}.geojson`;a.click();ntf(`${geojson.features.length} kayıt GeoJSON olarak indirildi ✓`,'ok');
+}
+
+function guessTip(p){
+  const lu=(p.landuse||'').toLowerCase(),mm=(p.man_made||'').toLowerCase(),nat=(p.natural||'').toLowerCase(),name=(p.name||p['name:tr']||'').toLowerCase();
+  if(mm==='adit'||mm==='mineshaft')return 'Maden Ocağı';
+  if(lu==='quarry')return 'Taş Ocağı';
+  if(nat==='wetland')return 'Sulak Alan';
+  if(nat==='spring')return(name.includes('ılıca')||name.includes('kaplıca'))?'Jeotermal':'Sulak Alan';
+  if(nat==='coastline')return 'Kıyı Koruma Alanı';
+  return 'Maden Ocağı';
+}
+
+function resetConfirmBtns(){document.getElementById('cok').textContent='Onayla';document.getElementById('ccan').textContent='İptal';document.getElementById('ccan').onclick=()=>{document.getElementById('cov').classList.remove('open');confCb=null;};}
+
+function impD(file){
+  const r=new FileReader();
+  r.onload=e=>{
+    try{
+      const parsed=JSON.parse(e.target.result);let imported=[];
+      if(parsed.type==='FeatureCollection'&&Array.isArray(parsed.features)){
+        imported=parsed.features.filter(f=>f.geometry&&f.geometry.type==='Point').map(f=>{
+          const p=f.properties||{};const[lng,lat]=f.geometry.coordinates;
+          const tip=guessTip(p);const name=(p.name||p['name:tr']||p['description:tr']||tip).trim();
+          return {id:uid(),tip,ad:name,il:p.il||p.province||'',aciklama:p['description:tr']||p.description||p.aciklama||'',koordinatlar:{lat:parseFloat(lat.toFixed(6)),lng:parseFloat(lng.toFixed(6))},alan_ha:p.alan_ha||0,durum:p.durum||'Aktif',belge_no:String(p.osm_id||p.full_id||p.belge_no||''),eklenme:tod(),kaynak:p.kaynak||'OSM/GeoJSON'};
+        });
+      }else if(Array.isArray(parsed)){imported=parsed;imported.forEach(d=>{if(!d.id)d.id=uid();});}
+      else throw new Error();
+      if(!imported.length){ntf('Hiç kayıt bulunamadı!','err');return;}
+      document.getElementById('ctxt').textContent=`${imported.length} kayıt bulundu. Mevcut ${data.length} kayda EKLENSIN mi?`;
+      document.getElementById('cok').textContent='➕ Ekle';
+      document.getElementById('ccan').textContent='🔄 Üzerine Yaz';
+      confCb=()=>{const ids=new Set(data.map(d=>d.id));const news=imported.filter(d=>!ids.has(d.id));data=[...data,...news];save();renderAll();ntf(`${news.length} yeni kayıt eklendi ✓`,'ok');resetConfirmBtns();};
+      document.getElementById('ccan').onclick=()=>{document.getElementById('cov').classList.remove('open');data=imported;save();renderAll();ntf(`${data.length} kayıt yüklendi ✓`,'ok');resetConfirmBtns();};
+      document.getElementById('cov').classList.add('open');
+    }catch{ntf('Geçersiz dosya formatı!','err');}
+  };
+  r.readAsText(file);
+}
+
+function rstD(){document.getElementById('ctxt').textContent='Tüm değişiklikler silinecek ve varsayılan veriler yüklenecek. Devam?';document.getElementById('cok').textContent='Onayla';confCb=()=>{data=JSON.parse(JSON.stringify(DD));save();renderAll();ntf('Varsayılan veriler yüklendi.','ok');};document.getElementById('cov').classList.add('open');}
+
+/* ══════════════════════════════════════════
+   BİLDİRİM
+══════════════════════════════════════════ */
+function ntf(msg,type='ok'){const el=document.createElement('div');el.className=`ni ${type}`;el.textContent=(type==='ok'?'✅ ':'⚠️ ')+msg;document.getElementById('notif').appendChild(el);setTimeout(()=>el.remove(),3500);}
+
+/* ══════════════════════════════════════════
+   EVENT LISTENERS
+══════════════════════════════════════════ */
+let dark=true;
+document.getElementById('thbtn').addEventListener('click',()=>{dark=!dark;document.body.setAttribute('data-theme',dark?'dark':'light');document.getElementById('thbtn').textContent=dark?'🌙':'☀️';});
+document.getElementById('adminbtn').addEventListener('click',()=>{if(isAdmin)adminLogout();else requireAdmin(()=>ntf('Admin girişi yapıldı ✓','ok'));});
+document.getElementById('addbtn').addEventListener('click',()=>requireAdmin(openAdd));
+document.getElementById('mcls').addEventListener('click',closeMod);
+document.getElementById('mcan').addEventListener('click',closeMod);
+document.getElementById('msav').addEventListener('click',savRec);
+document.getElementById('mov').addEventListener('click',e=>{if(e.target===document.getElementById('mov'))closeMod();});
+document.getElementById('pkbtn').addEventListener('click',()=>{if(pkMode){exitPk();return;}enterPk();pkCb=(lat,lng)=>{document.getElementById('flat').value=lat.toFixed(6);document.getElementById('flng').value=lng.toFixed(6);ntf(`Koordinat: ${lat.toFixed(4)}, ${lng.toFixed(4)}`,'ok');};});
+document.getElementById('ccan').addEventListener('click',()=>{document.getElementById('cov').classList.remove('open');confCb=null;});
+document.getElementById('cok').addEventListener('click',()=>{document.getElementById('cov').classList.remove('open');if(confCb)confCb();confCb=null;});
+document.getElementById('sinp').addEventListener('input',e=>{fTxt=e.target.value;applyF();if(fTxt.length>2){const f=data.find(d=>d.ad.toLowerCase().includes(fTxt.toLowerCase())||(d.il||'').toLowerCase().includes(fTxt.toLowerCase()));if(f&&f.koordinatlar?.lat)map.setView([f.koordinatlar.lat,f.koordinatlar.lng],10);}});
+document.getElementById('fil').addEventListener('change',e=>{fIl=e.target.value;applyF();});
+document.getElementById('fdrm').addEventListener('change',e=>{fDrm=e.target.value;applyF();});
+document.getElementById('expbtn').addEventListener('click',expD);
+document.getElementById('expgeobtn').addEventListener('click',expGeoJSON);
+document.getElementById('impbtn').addEventListener('click',()=>document.getElementById('impfile').click());
+document.getElementById('impfile').addEventListener('change',e=>{if(e.target.files[0])impD(e.target.files[0]);e.target.value='';});
+document.getElementById('rstbtn').addEventListener('click',rstD);
+document.getElementById('listtog').addEventListener('click',()=>{const o=document.getElementById('listpanel').classList.toggle('open');document.getElementById('listtog').textContent=o?'✕ Kapat':'📋 Liste';});
+document.getElementById('lclose').addEventListener('click',()=>{document.getElementById('listpanel').classList.remove('open');document.getElementById('listtog').textContent='📋 Liste';});
+function openPanel(){document.getElementById('panel').classList.add('open');document.getElementById('overlay-bg').classList.add('open');}
+function closePanel(){document.getElementById('panel').classList.remove('open');document.getElementById('overlay-bg').classList.remove('open');}
+document.getElementById('paneltog').addEventListener('click',()=>{document.getElementById('panel').classList.contains('open')?closePanel():openPanel();});
+document.getElementById('overlay-bg').addEventListener('click',closePanel);
+
+window.doEdit=doEdit;window.doDel=doDel;window.focR=focR;
+window.checkAdmin=checkAdmin;window.closeAdminMod=closeAdminMod;
+window.requireAdmin=requireAdmin;
+
+load();updateAdminUI();
+</script>
+</body>
+</html>
