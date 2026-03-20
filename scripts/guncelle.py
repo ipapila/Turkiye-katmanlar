@@ -305,7 +305,12 @@ def fetch_overpass(query, tip, kaynak_tag='OSM'):
                 if not lat or not lng:
                     continue
                 lat, lng = float(lat), float(lng)
-                name = tags.get('name') or tags.get('name:tr') or tip
+                name = tags.get('name:tr') or tags.get('name') or tags.get('operator') or tip
+                # Eğer isim başka bir kategorinin adıysa tip'i kullan
+                bad_names = ('Maden Ocağı','Taş Ocağı','Mermer Ocağı','HES','GES','RES',
+                           'Jeotermal','Sulak Alan','Milli Park','Orman Alanı')
+                if name in bad_names:
+                    name = tip
                 results.append({
                     'id': 'osm_' + str(e.get('id', uid())),
                     'tip': tip,
