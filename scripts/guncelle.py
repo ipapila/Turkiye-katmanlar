@@ -5,36 +5,47 @@ DATA_FILE = 'data.json'
 FIREBASE_API_KEY = 'AIzaSyAvjtSn23YhDYZZmf_G2pUYzTA0Qa5tx1M'
 FIRESTORE_URL = f'https://firestore.googleapis.com/v1/projects/turkiye-katmanlar/databases/(default)/documents/harita/veriler?key={FIREBASE_API_KEY}'
 
+def is_auto(r):
+    """Otomatik kaynak mı kontrol et — sadece ID prefix'ine bak"""
+    rid = r.get('id','')
+    auto_prefixes = ('osm_','wdpa_','usgs_','firms_','auto_','unesco_')
+    return any(rid.startswith(p) for p in auto_prefixes)
+
 def read_data():
     """Mevcut data.json'u diskten oku, manuel kayitlari Firebase'den kurtar"""
     disk_data = []
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
-            disk_data = json.load(f)
+            try:
+                disk_data = json.load(f)
+            except Exception as e:
+                print(f"  data.json okuma hatasi: {e}")
 
-    # Disk'teki manuel kayitlari bul
-    auto_prefixes = ('osm_','wdpa_','usgs_','firms_','auto_','unesco_')
-    disk_manuel = [r for r in disk_data if not any(r.get('id','').startswith(p) for p in auto_prefixes)
-                   and r.get('kaynak','') not in ('OSM','WDPA','NASA FIRMS','USGS','UNESCO WHC','OSM/Arkeolojik Alan','OSM/Tarihi Kalinti','OSM/Muze','OSM/Kale')]
+    # Disk'teki manuel kayitlari bul (otomatik olmayanlar)
+    disk_manuel = [r for r in disk_data if not is_auto(r)]
+    print(f"  Disk manuel kayit: {len(disk_manuel)}")
 
-    # Firebase'den manuel kayitlari al
-    print("  Firebase'den manuel kayitlar alimiyor...")
+    # Firebase'den TUM kayitlari al, otomatik olmayanları koru
+    print("  Firebase'den kayitlar aliniyor...")
     firebase_data = []
     try:
         r = requests.get(FIRESTORE_URL, timeout=30)
         if r.ok:
             doc = r.json()
             raw = doc.get('fields', {}).get('alanlar', {}).get('arrayValue', {}).get('values', [])
+            print(f"  Firebase toplam: {len(raw)} kayit")
             for item in raw:
                 m = item.get('mapValue', {}).get('fields', {})
-                coord = m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {})
-                kaynak = m.get('kaynak', {}).get('stringValue', '')
                 rid = m.get('id', {}).get('stringValue', '')
-                # Sadece manuel kayitlari al
+                # Sadece otomatik olmayanları al
+                auto_prefixes = ('osm_','wdpa_','usgs_','firms_','auto_','unesco_')
                 if any(rid.startswith(p) for p in auto_prefixes):
                     continue
-                if kaynak in ('OSM','WDPA','NASA FIRMS','USGS','UNESCO WHC') or any(kaynak.startswith(p) for p in ('OSM/','auto_')):
-                    continue
+                lat = float(m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {}).get('lat', {}).get('doubleValue', 0) or
+                           m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {}).get('lat', {}).get('integerValue', 0) or 0)
+                lng = float(m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {}).get('lng', {}).get('doubleValue', 0) or
+                           m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {}).get('lng', {}).get('integerValue', 0) or 0)
+                kaynak = m.get('kaynak', {}).get('stringValue', '')
                 firebase_data.append({
                     'id':       rid,
                     'tip':      m.get('tip', {}).get('stringValue', ''),
@@ -42,10 +53,7 @@ def read_data():
                     'il':       m.get('il', {}).get('stringValue', ''),
                     'ilce':     m.get('ilce', {}).get('stringValue', ''),
                     'aciklama': m.get('aciklama', {}).get('stringValue', ''),
-                    'koordinatlar': {
-                        'lat': float(m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {}).get('lat', {}).get('doubleValue', 0) or 0),
-                        'lng': float(m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {}).get('lng', {}).get('doubleValue', 0) or 0),
-                    },
+                    'koordinatlar': {'lat': lat, 'lng': lng},
                     'alan_ha':  float(m.get('alan_ha', {}).get('doubleValue', 0) or m.get('alan_ha', {}).get('integerValue', 0) or 0),
                     'durum':    m.get('durum', {}).get('stringValue', 'Aktif'),
                     'belge_no': m.get('belge_no', {}).get('stringValue', ''),
@@ -57,12 +65,12 @@ def read_data():
     except Exception as e:
         print(f"  Firebase okuma hatasi: {e}")
 
-    # En fazla manuel kaydi olan kaynagi kullan
+    # En fazla kaydi olan kaynagi kullan
     if len(firebase_data) >= len(disk_manuel):
-        print(f"  Firebase'den {len(firebase_data)} manuel kayit kullaniliyor")
+        print(f"  Firebase'den {len(firebase_data)} kayit kullaniliyor")
         return firebase_data
     else:
-        print(f"  Disk'ten {len(disk_manuel)} manuel kayit kullaniliyor")
+        print(f"  Disk'ten {len(disk_manuel)} kayit kullaniliyor")
         return disk_manuel
 
 def write_data(data):
