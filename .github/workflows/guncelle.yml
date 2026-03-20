@@ -25,8 +25,8 @@ jobs:
 
       - name: Veri güncelle
         env:
-          FIREBASE_PROJECT_ID: ${{ secrets.turkiye-katmanlar}}
-          FIREBASE_PRIVATE_KEY: ${{ secrets.-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGTMnX1wF0D/TB\nZnsodHQl1f1StsQks65uqB9aG4xSyXhGsU3QtkUIcjB7xo7oaFzH9T2DaDeQK/kl\nz/uzjpzg15Fb6Uo5OXcxHZHVtik4HLwn9JbAbV1YYRwzWWuo37yeQHKg6k/z0ETN\nlvcjgGDCfpCIxE2KdLpzompfNXVmlYDQS7YIzIHfUDQEOaVrrcxIdhTE2vWDYQZx\ndx8yavqN3KY4Lk3OPL/2/cn7DKCxjcGc74SRR7QJx4MQvHo97y1H67iiaWu6eP25\nubKaWdUbIPramcaX13qlUPzPR8Nf4SPiT+PtVHO84attwoSoaXnfN8eOQZEAMj7W\naa0huZktAgMBAAECggEAEWM5TZo2L+mYQf8M7IKtjoXBdSe+ciNpN525RgrlVnsA\n913jn1nkGrX8h1XlQP6pqATadHPGb3dTnNusS9XE7rgoMEF39yWRTHa1y2HyIk/u\ntaguMchFJ5M4SE5ecMvRe6TWCEMTaKMJ7Wb/25aNpXA4ly1zSSEsGiiTIC8NUMXC\npWVy74s4+Ro+Mqg+k+Gd7XRaEXcSZnLFV5KKeQUGw7nR8cgDHUs9p9dJalBUm2I7\n+NHiePM1gvhc7uNFSqDgxqMvjuIOvmeW+xgNS9/LiSxq39219tiLESHfpfhXO+0r\nCnUExIWahrfbW/Okn8gUeBAnNjjXomiLXYEndvwiQQKBgQDla0mIStLxbdlmu4rl\n28GbQqfDy6m3TlPMPLgQti7JA8jRVM2SoBR3wPGLiqQ6edoF2yrgF4r+buu6fZss\nidP/IrSf75pUe2X3PI70x0IC8LNoaifbKGCeGybnf8PCTZ9Qbzd+nppUl352/hPN\n/Tlc8TPYj4MpAVJBCDZQd0WLzQKBgQDdRn0B4lHWSAYlj9obK9tzG5PvG5PsufpT\nYhR6HNVzgUZ53tBDjZCvP71higMwFMhpGBaCoDJuc9Eps8wvWRXWsf3GkdC7xFmB\nuaP8cPhZ6FHQ4lSRzPMiaCG3w9VL9+N5E5/b2aiLhOIZStF1UaK53nZeCeaeM00O\nntgmSaqi4QKBgGVWx+tpSdaVdGO50fgI43OGtP569yPeeIuOAqx3HSF0B3/YGtp6\n1a+0Tb4a5sJh0tmlX0IPhDkxm/ULyMCavUdE+E5xk1VgEMFuQaOEZPdRhZ5IzgQz\nyMHuMngt6rXofcgU6ImI25kkNhuvzeW+xlj0vrcZZZF2YPQTAZL3rIO9AoGBAKWM\nfypRsPiomjCwF3YMsfrEv0E9WMbbvbV0w+04dVoddiTn1tkzqPP0tDOtlgT7B5XZ\nN74zLIgGjo6svi8Ob5BZSoytu4U/udeclFviCWz6q3ukWbFbrOwpDFD4azSTGdUU\nIZ3Sko8PtDlICL3FfgGhtt1Uev4RU62EmiLLKqcBAoGBAKLoaxq3NtUjvTVIy2v+\n7LyxDWxz+vvhvameFEHq4xygO1kDDFrrPa1gtKrA9dHSvEEwF0QiOanH75hTYDlD\nXJw3UN2G8pO5aJQglRAB1cQe2WU0pboAcXTeP92GDRAkbgwES/gOHN6f7b8Rkj8B\n09I/8IcZWpqKJ0rRQjHh9yWK\n-----END PRIVATE KEY-----\n"}}
-          FIREBASE_CLIENT_EMAIL: ${{ secrets.firebase-adminsdk-fbsvc@turkiye-katmanlar.iam.gserviceaccount.com }}
+          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          FIREBASE_PRIVATE_KEY: ${{ secrets.FIREBASE_PRIVATE_KEY }}
+          FIREBASE_CLIENT_EMAIL: ${{ secrets.FIREBASE_CLIENT_EMAIL }}
           WDPA_TOKEN: ${{ secrets.WDPA_TOKEN }}
         run: python scripts/guncelle.py
