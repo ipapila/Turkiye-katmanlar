@@ -5,6 +5,9 @@ on:
     - cron: '0 3 * * *'  # UTC 03:00 = Türkiye 06:00
   workflow_dispatch:       # Manuel tetikleme butonu
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   guncelle:
     runs-on: ubuntu-latest
