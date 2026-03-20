@@ -85,40 +85,85 @@ TR_LNG = (25.7, 44.8)
 def in_turkey(lat, lng):
     return TR_LAT[0] <= lat <= TR_LAT[1] and TR_LNG[0] <= lng <= TR_LNG[1]
 
-ILCE_BOXES = {
-    'Antalya': (36.0, 37.6, 29.0, 32.8),
-    'Muğla':   (36.5, 37.5, 27.2, 29.5),
-    'İzmir':   (37.5, 39.2, 25.8, 28.5),
-    'Ankara':  (39.0, 40.5, 31.5, 33.5),
-    'İstanbul':(40.8, 41.5, 27.9, 29.9),
-    'Mersin':  (36.0, 37.5, 32.5, 35.0),
-    'Adana':   (36.5, 38.0, 34.8, 36.5),
-    'Hatay':   (35.8, 37.2, 35.8, 36.7),
-    'Konya':   (36.8, 39.5, 31.5, 34.5),
-    'Samsun':  (40.8, 41.8, 35.0, 37.0),
-    'Trabzon': (40.5, 41.2, 39.2, 40.5),
-    'Artvin':  (40.8, 41.6, 41.0, 42.5),
-    'Rize':    (40.5, 41.2, 40.3, 41.4),
-    'Şanlıurfa':(36.7,38.2,37.5,40.5),
-    'Diyarbakır':(37.5,38.8,39.5,41.5),
-    'Erzurum': (39.5, 40.8, 40.5, 42.5),
-    'Kayseri': (37.5, 39.5, 34.5, 36.5),
-    'Bursa':   (39.8, 40.5, 28.5, 30.0),
-    'Balıkesir':(39.2,40.3,26.5,28.5),
-    'Çanakkale':(39.5,40.5,25.9,27.5),
-    'Aydın':   (37.3, 38.3, 27.0, 28.8),
-    'Denizli': (37.3, 38.3, 28.5, 30.0),
-    'Elazığ':  (38.3, 39.2, 38.5, 40.0),
-    'Malatya': (37.8, 38.8, 37.5, 39.5),
-    'Kastamonu':(41.0,42.0,32.5,34.5),
-    'Tunceli': (38.5, 39.5, 39.0, 40.5),
-}
+_geocode_cache = {}
 
-def guess_il(lat, lng):
-    for il, (la1, la2, ln1, ln2) in ILCE_BOXES.items():
+def reverse_geocode(lat, lng):
+    """Koordinattan il ve ilçe bilgisini Nominatim ile al"""
+    key = (round(lat,2), round(lng,2))
+    if key in _geocode_cache:
+        return _geocode_cache[key]
+    try:
+        url = f"https://nominatim.openstreetmap.org/reverse?lat={lat}&lon={lng}&format=json&accept-language=tr"
+        r = requests.get(url, timeout=10, headers={'User-Agent': 'TurkiyeKatmanlarBot/1.0'})
+        if r.ok:
+            addr = r.json().get('address', {})
+            il    = addr.get('province') or addr.get('state') or addr.get('county') or 'Türkiye'
+            ilce  = addr.get('county') or addr.get('city_district') or addr.get('district') or ''
+            # "İl" veya " Province" son eklerini temizle
+            il   = il.replace(' Province','').replace(' İli','').strip()
+            ilce = ilce.replace(' İlçesi','').strip()
+            result = (il, ilce)
+            _geocode_cache[key] = result
+            time.sleep(1)  # Nominatim rate limit: max 1 istek/sn
+            return result
+    except Exception:
+        pass
+    # Nominatim başarısız olursa bbox ile tahmin et
+    return (guess_il_bbox(lat, lng), '')
+
+def guess_il_bbox(lat, lng):
+    """Bounding box ile il tahmini (yedek)"""
+    for il, (la1, la2, ln1, ln2) in IL_BOXES.items():
         if la1 <= lat <= la2 and ln1 <= lng <= ln2:
             return il
     return 'Türkiye'
+
+def guess_il(lat, lng):
+    """Geriye dönük uyumluluk için"""
+    return reverse_geocode(lat, lng)[0]
+
+IL_BOXES = {
+    'Antalya':(36.0,37.6,29.0,32.8),'Muğla':(36.5,37.5,27.2,29.5),
+    'İzmir':(37.5,39.2,25.8,28.5),'Ankara':(39.0,40.5,31.5,33.5),
+    'İstanbul':(40.8,41.5,27.9,29.9),'Mersin':(36.0,37.5,32.5,35.0),
+    'Adana':(36.5,38.0,34.8,36.5),'Hatay':(35.8,37.2,35.8,36.7),
+    'Konya':(36.8,39.5,31.5,34.5),'Samsun':(40.8,41.8,35.0,37.0),
+    'Trabzon':(40.5,41.2,39.2,40.5),'Artvin':(40.8,41.6,41.0,42.5),
+    'Rize':(40.5,41.2,40.3,41.4),'Şanlıurfa':(36.7,38.2,37.5,40.5),
+    'Diyarbakır':(37.5,38.8,39.5,41.5),'Erzurum':(39.5,40.8,40.5,42.5),
+    'Kayseri':(37.5,39.5,34.5,36.5),'Bursa':(39.8,40.5,28.5,30.0),
+    'Balıkesir':(39.2,40.3,26.5,28.5),'Çanakkale':(39.5,40.5,25.9,27.5),
+    'Aydın':(37.3,38.3,27.0,28.8),'Denizli':(37.3,38.3,28.5,30.0),
+    'Elazığ':(38.3,39.2,38.5,40.0),'Malatya':(37.8,38.8,37.5,39.5),
+    'Kastamonu':(41.0,42.0,32.5,34.5),'Tunceli':(38.5,39.5,39.0,40.5),
+    'Nevşehir':(38.2,39.2,34.0,35.5),'Burdur':(36.8,37.8,29.5,31.0),
+    'Isparta':(37.3,38.3,30.0,31.5),'Afyonkarahisar':(38.0,39.2,29.5,31.5),
+    'Van':(37.5,39.0,42.5,44.5),'Erzincan':(39.0,40.0,38.5,40.5),
+    'Kars':(40.0,41.0,42.0,43.5),'Iğdır':(39.5,40.2,43.5,44.8),
+    'Siirt':(37.3,38.3,41.5,42.5),'Hakkari':(37.0,37.8,43.0,44.8),
+    'Bitlis':(38.0,39.0,41.5,43.0),'Muş':(38.5,39.5,40.5,42.0),
+    'Batman':(37.5,38.5,40.5,41.8),'Mardin':(36.8,37.8,40.0,42.0),
+    'Şırnak':(37.0,37.8,41.8,43.5),'Gaziantep':(36.5,37.5,36.5,37.8),
+    'Kilis':(36.5,37.2,36.5,37.5),'Kahramanmaraş':(37.0,38.5,35.5,37.5),
+    'Osmaniye':(36.8,37.5,35.8,36.8),'Niğde':(37.5,38.5,33.5,35.0),
+    'Aksaray':(38.0,39.0,33.0,34.5),'Karaman':(36.8,38.0,32.5,34.0),
+    'Konya':(36.8,39.5,31.5,34.5),'Eskişehir':(39.0,40.2,29.5,31.5),
+    'Kütahya':(38.8,39.8,28.5,30.5),'Uşak':(38.2,39.0,28.5,29.8),
+    'Manisa':(38.2,39.5,26.8,28.8),'Aydın':(37.3,38.3,27.0,28.8),
+    'Muğla':(36.3,37.5,27.2,29.5),'Burdur':(36.8,37.8,29.5,31.0),
+    'Isparta':(37.3,38.5,30.0,31.5),'Tekirdağ':(40.5,41.5,26.5,28.0),
+    'Edirne':(41.0,42.0,25.8,27.0),'Kırklareli':(41.5,42.2,26.5,28.0),
+    'Çanakkale':(39.5,40.5,25.9,27.5),'Balıkesir':(39.2,40.3,26.5,28.5),
+    'Bursa':(39.8,40.5,28.5,30.0),'Yalova':(40.5,40.8,29.0,29.6),
+    'Kocaeli':(40.5,41.0,29.5,30.5),'Sakarya':(40.5,41.0,30.0,31.0),
+    'Düzce':(40.7,41.2,30.8,31.5),'Bolu':(40.5,41.2,31.0,32.5),
+    'Zonguldak':(41.0,41.8,31.0,32.5),'Bartın':(41.5,42.0,32.0,33.0),
+    'Karabük':(41.0,41.8,32.5,33.5),'Kastamonu':(41.0,42.0,32.5,34.5),
+    'Sinop':(41.5,42.2,34.5,36.0),'Samsun':(40.8,41.8,35.0,37.0),
+    'Ordu':(40.5,41.2,37.0,38.5),'Giresun':(40.5,41.2,38.0,39.5),
+    'Trabzon':(40.5,41.2,39.2,40.5),'Rize':(40.5,41.2,40.3,41.4),
+    'Artvin':(40.8,41.6,41.0,42.5),'Ardahan':(40.8,41.6,42.5,43.5),
+}
 
 # ── 1. WDPA - Dünya Koruma Alanları ─────────────────────────────
 def fetch_unesco():
@@ -176,11 +221,12 @@ def fetch_osm_kultur():
                 tags = e.get('tags',{})
                 lat,lng = float(e.get('lat',0)),float(e.get('lon',0))
                 if not lat or not lng or not in_turkey(lat,lng): continue
-                name = tags.get('name') or tags.get('name:tr') or alt_tip
+                name = tags.get('name:tr') or tags.get('name') or alt_tip
+                il, ilce = reverse_geocode(lat, lng)
                 results.append({
                     'id':'osm_kv_'+str(e.get('id',uid())),
                     'tip':'Kültür Varlığı','ad':name,
-                    'il':guess_il(lat,lng),'ilce':'',
+                    'il':il,'ilce':ilce,
                     'aciklama':f"{alt_tip} | OSM ID: {e.get('id')}",
                     'koordinatlar':{'lat':round(lat,6),'lng':round(lng,6)},
                     'alan_ha':0,'durum':'Aktif',
@@ -305,18 +351,22 @@ def fetch_overpass(query, tip, kaynak_tag='OSM'):
                 if not lat or not lng:
                     continue
                 lat, lng = float(lat), float(lng)
-                name = tags.get('name:tr') or tags.get('name') or tags.get('operator') or tip
-                # Eğer isim başka bir kategorinin adıysa tip'i kullan
+
+                # Ad: boşsa veya yanlış kategoriyse tip kullan
                 bad_names = ('Maden Ocağı','Taş Ocağı','Mermer Ocağı','HES','GES','RES',
-                           'Jeotermal','Sulak Alan','Milli Park','Orman Alanı')
-                if name in bad_names:
-                    name = tip
+                           'Jeotermal','Sulak Alan','Milli Park','Orman Alanı','Kültür Varlığı')
+                raw_name = tags.get('name:tr') or tags.get('name') or tags.get('operator') or ''
+                name = raw_name if (raw_name and raw_name not in bad_names) else tip
+
+                # İl ve ilçe: Nominatim'den al
+                il, ilce = reverse_geocode(lat, lng)
+
                 results.append({
                     'id': 'osm_' + str(e.get('id', uid())),
                     'tip': tip,
                     'ad': name,
-                    'il': guess_il(lat, lng),
-                    'ilce': '',
+                    'il': il,
+                    'ilce': ilce,
                     'aciklama': ' | '.join(f"{k}={v}" for k, v in list(tags.items())[:5] if k != 'name'),
                     'koordinatlar': {'lat': round(lat, 6), 'lng': round(lng, 6)},
                     'alan_ha': 0,
@@ -442,15 +492,49 @@ def main():
         except Exception as e:
             print(f"HATA {fn.__name__}: {e}")
 
-    # Deduplicate
-    seen = set()
-    yeni_unique = []
-    for r in yeni:
-        if r['id'] not in seen:
-            seen.add(r['id'])
-            yeni_unique.append(r)
+    # Deduplicate: ID ve koordinat+tip bazında
+    def dedup(records):
+        seen_ids = set()
+        seen_coords = set()  # (lat_2, lng_2, tip)
+        result = []
 
-    tum_veri = manuel + yeni_unique
+        for r in records:
+            rid = r.get('id','')
+            tip = r.get('tip','')
+            lat = round(r.get('koordinatlar',{}).get('lat',0), 3)  # ~100m hassasiyet
+            lng = round(r.get('koordinatlar',{}).get('lng',0), 3)
+
+            # 1. ID tekrarı
+            if rid and rid in seen_ids:
+                continue
+
+            # 2. Aynı koordinat + tip (aynı noktada aynı kategori)
+            coord_key = (lat, lng, tip)
+            if coord_key in seen_coords:
+                continue
+
+            seen_ids.add(rid)
+            seen_coords.add(coord_key)
+            result.append(r)
+
+        return result
+
+    yeni_unique = dedup(yeni)
+
+    # Manuel kayıtlarla çakışan otomatikleri çıkar
+    manuel_coords = set()
+    for r in manuel:
+        lat = round(r.get('koordinatlar',{}).get('lat',0), 3)
+        lng = round(r.get('koordinatlar',{}).get('lng',0), 3)
+        manuel_coords.add((lat, lng, r.get('tip','')))
+
+    yeni_no_clash = [r for r in yeni_unique if (
+        round(r.get('koordinatlar',{}).get('lat',0), 3),
+        round(r.get('koordinatlar',{}).get('lng',0), 3),
+        r.get('tip','')
+    ) not in manuel_coords]
+
+    tum_veri = dedup(manuel + yeni_no_clash)
 
     print(f"\n{'='*50}")
     print(f"Manuel: {len(manuel)} | Otomatik: {len(yeni_unique)} | TOPLAM: {len(tum_veri)}")
