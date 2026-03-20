@@ -484,7 +484,33 @@ def main():
     except Exception as e:
         print(f"  Mevcut veri alinamadi: {e}")
 
-    # Yeni verileri cek
+    # Mevcut kayitlarda bos il/ilce varsa doldur
+    print("Bos il/ilce bilgileri dolduruluyor...")
+    filled = 0
+    for r in manuel:
+        if not r.get('il') or not r.get('ilce'):
+            lat = r.get('koordinatlar',{}).get('lat',0)
+            lng = r.get('koordinatlar',{}).get('lng',0)
+            if lat and lng:
+                il, ilce = reverse_geocode(lat, lng)
+                if not r.get('il') and il:
+                    r['il'] = il
+                if not r.get('ilce') and ilce:
+                    r['ilce'] = ilce
+                filled += 1
+    print(f"  {filled} kayit guncellendi")
+
+    # Alan adi yanlis olan kayitlari duzelt (ornegin RES kategorisinde "Maden Ocagi" yazan)
+    bad_names = {'Maden Ocağı','Taş Ocağı','Mermer Ocağı','HES','GES','RES',
+                 'Jeotermal','Sulak Alan','Milli Park','Orman Alanı','Kültür Varlığı'}
+    name_fixed = 0
+    for r in manuel:
+        if r.get('ad','').strip() in bad_names and r.get('tip'):
+            r['ad'] = r['tip']
+            name_fixed += 1
+    if name_fixed:
+        print(f"  {name_fixed} kayitin alan adi duzeltildi")
+
     yeni = []
     for fn in [fetch_unesco, fetch_osm_kultur, fetch_wdpa, fetch_osm_data, fetch_gfw, fetch_depremler]:
         try:
