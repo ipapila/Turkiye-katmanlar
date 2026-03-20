@@ -3,7 +3,7 @@ name: Günlük Veri Güncelleme
 on:
   schedule:
     - cron: '0 3 * * *'  # UTC 03:00 = Türkiye 06:00
-  workflow_dispatch:       # Manuel tetikleme butonu
+  workflow_dispatch:       # Manuel tetikleme
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -21,12 +21,10 @@ jobs:
           python-version: '3.11'
 
       - name: Bağımlılıkları yükle
-        run: pip install requests firebase-admin
+        run: pip install requests
 
       - name: Veri güncelle
         env:
-          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
-          FIREBASE_PRIVATE_KEY: ${{ secrets.FIREBASE_PRIVATE_KEY }}
-          FIREBASE_CLIENT_EMAIL: ${{ secrets.FIREBASE_CLIENT_EMAIL }}
+          GITHUB_TOKEN: ${{ secrets.DATA_TOKEN }}
           WDPA_TOKEN: ${{ secrets.WDPA_TOKEN }}
         run: python scripts/guncelle.py
