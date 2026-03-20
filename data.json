@@ -1700,157 +1700,752 @@
     "kaynak": "OSM/Tarihi Kalinti"
   },
   {
-    "id": "osm_252585",
-    "tip": "Milli Park",
-    "ad": "Göreme Millî Parkı",
+    "id": "osm_kv_87819399",
+    "tip": "Kültür Varlığı",
+    "ad": "Zelve Açık Hava Müzesi",
     "il": "Kayseri",
     "ilce": "",
-    "aciklama": "boundary=national_park | heritage=1 | heritage:operator=whc | leisure=nature_reserve",
+    "aciklama": "Muze | OSM ID: 87819399",
     "koordinatlar": {
-      "lat": 38.650219,
-      "lng": 34.852105
+      "lat": 38.668128,
+      "lng": 34.86479
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "252585",
+    "belge_no": "87819399",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Muze"
   },
   {
-    "id": "osm_1197579",
-    "tip": "Milli Park",
-    "ad": "Dilek Yarımadası Millî Parkı",
+    "id": "osm_kv_314659421",
+    "tip": "Kültür Varlığı",
+    "ad": "Etnoğrafya Müzesi",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 314659421",
+    "koordinatlar": {
+      "lat": 38.621304,
+      "lng": 34.864852
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "314659421",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_397907903",
+    "tip": "Kültür Varlığı",
+    "ad": "Ναυτικό Μουσείο Καρδάμαινας",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 397907903",
+    "koordinatlar": {
+      "lat": 36.781227,
+      "lng": 27.142957
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "397907903",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_432473491",
+    "tip": "Kültür Varlığı",
+    "ad": "Ηφαιστειολογικό Μουσείο Νισύρου",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 432473491",
+    "koordinatlar": {
+      "lat": 36.574892,
+      "lng": 27.178785
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "432473491",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_475024457",
+    "tip": "Kültür Varlığı",
+    "ad": "Alanya Kalesi",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 475024457",
+    "koordinatlar": {
+      "lat": 36.533106,
+      "lng": 31.990564
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "475024457",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_534396188",
+    "tip": "Kültür Varlığı",
+    "ad": "Hippocrates' Garden",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 534396188",
+    "koordinatlar": {
+      "lat": 36.810874,
+      "lng": 27.055676
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "534396188",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_538189329",
+    "tip": "Kültür Varlığı",
+    "ad": "Uplistsikhe Museum",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 538189329",
+    "koordinatlar": {
+      "lat": 41.965812,
+      "lng": 44.210125
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "538189329",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_554083364",
+    "tip": "Kültür Varlığı",
+    "ad": "Sabancı Üniversitesi Sakıp Sabancı Müzesi",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 554083364",
+    "koordinatlar": {
+      "lat": 41.106019,
+      "lng": 29.055629
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "554083364",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_599901085",
+    "tip": "Kültür Varlığı",
+    "ad": "Gaziantep Müzesi",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 599901085",
+    "koordinatlar": {
+      "lat": 37.069028,
+      "lng": 37.37856
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "599901085",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_599903329",
+    "tip": "Kültür Varlığı",
+    "ad": "Şanlıurfa Müzesi",
+    "il": "Şanlıurfa",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 599903329",
+    "koordinatlar": {
+      "lat": 37.160646,
+      "lng": 38.788111
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "599903329",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_705340429",
+    "tip": "Kültür Varlığı",
+    "ad": "Λαογραφικό μουσείο",
     "il": "İzmir",
     "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Nationalpark Dilek-Halbinsel | name:en=Dilek Peninsula National Park",
+    "aciklama": "Muze | OSM ID: 705340429",
     "koordinatlar": {
-      "lat": 37.582586,
-      "lng": 27.12511
+      "lat": 39.026455,
+      "lng": 26.307862
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "1197579",
+    "belge_no": "705340429",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Muze"
   },
   {
-    "id": "osm_1715973",
-    "tip": "Milli Park",
-    "ad": "Kızıldağ Millî Parkı",
+    "id": "osm_kv_719113466",
+    "tip": "Kültür Varlığı",
+    "ad": "Ehmedek Castle",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 719113466",
+    "koordinatlar": {
+      "lat": 36.536663,
+      "lng": 31.992773
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "719113466",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_723107094",
+    "tip": "Kültür Varlığı",
+    "ad": "Karatepe Müzesi",
+    "il": "Adana",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 723107094",
+    "koordinatlar": {
+      "lat": 37.296541,
+      "lng": 36.250836
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "723107094",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_745192734",
+    "tip": "Kültür Varlığı",
+    "ad": "Ձիթողցոնց տուն-թանգարան",
     "il": "Türkiye",
     "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Kızıldağ National Park | name:tr=Kızıldağ Millî Parkı",
+    "aciklama": "Muze | OSM ID: 745192734",
     "koordinatlar": {
-      "lat": 37.764985,
-      "lng": 31.259285
+      "lat": 40.781324,
+      "lng": 43.845565
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "1715973",
+    "belge_no": "745192734",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Muze"
   },
   {
-    "id": "osm_1715974",
-    "tip": "Milli Park",
-    "ad": "Beyşehir Gölü Millî Parkı",
+    "id": "osm_kv_785102629",
+    "tip": "Kültür Varlığı",
+    "ad": "Selçuk Efes Müzesi",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 785102629",
+    "koordinatlar": {
+      "lat": 37.948994,
+      "lng": 27.367854
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "785102629",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_842223798",
+    "tip": "Kültür Varlığı",
+    "ad": "Chez Galip",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 842223798",
+    "koordinatlar": {
+      "lat": 38.719842,
+      "lng": 34.848605
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "842223798",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_875872272",
+    "tip": "Kültür Varlığı",
+    "ad": "Assos",
     "il": "Türkiye",
     "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Lake Beyşehir National Park | name:tr=Beyşehir Gölü Millî Parkı",
+    "aciklama": "Muze | OSM ID: 875872272",
     "koordinatlar": {
-      "lat": 37.71068,
-      "lng": 31.496295
+      "lat": 39.491778,
+      "lng": 26.336876
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "1715974",
+    "belge_no": "875872272",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Muze"
   },
   {
-    "id": "osm_1715983",
-    "tip": "Milli Park",
-    "ad": "Çanakkale Savaşları Gelibolu Tarihî Alanı",
-    "il": "Çanakkale",
+    "id": "osm_kv_915637380",
+    "tip": "Kültür Varlığı",
+    "ad": "Archaeological Museum",
+    "il": "İzmir",
     "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Gallipoli Peninsula Historical National Park | name:ru=Исторический национальный парк «Галлипольский полуостров»",
+    "aciklama": "Muze | OSM ID: 915637380",
     "koordinatlar": {
-      "lat": 40.204565,
-      "lng": 26.301902
+      "lat": 37.691187,
+      "lng": 26.94028
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "1715983",
+    "belge_no": "915637380",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Muze"
   },
   {
-    "id": "osm_7621483",
-    "tip": "Milli Park",
-    "ad": "მტირალას ეროვნული პარკი",
+    "id": "osm_kv_939100433",
+    "tip": "Kültür Varlığı",
+    "ad": "Kaymaklı Yeraltı Şehri",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 939100433",
+    "koordinatlar": {
+      "lat": 38.460224,
+      "lng": 34.752527
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "939100433",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_984598940",
+    "tip": "Kültür Varlığı",
+    "ad": "Գաֆեսջյանի արվեստի կենտրոն",
     "il": "Türkiye",
     "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Mtirala-Nationalpark | name:en=Mtirala National Park",
+    "aciklama": "Muze | OSM ID: 984598940",
     "koordinatlar": {
-      "lat": 41.660111,
-      "lng": 41.847404
+      "lat": 40.191424,
+      "lng": 44.515562
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "7621483",
+    "belge_no": "984598940",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Muze"
   },
   {
-    "id": "osm_11201845",
-    "tip": "Milli Park",
-    "ad": "Botan Vadisi Millî Parkı",
+    "id": "osm_kv_998788333",
+    "tip": "Kültür Varlığı",
+    "ad": "სულხან-საბა ორბელიანის ლიტერატორული მუზეუმი",
     "il": "Türkiye",
     "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Botan Valley National Park | name:ku=Parka Neteweyî ya Geliyê Botan",
+    "aciklama": "Muze | OSM ID: 998788333",
     "koordinatlar": {
-      "lat": 37.893525,
-      "lng": 41.972435
+      "lat": 41.452031,
+      "lng": 44.360669
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "11201845",
+    "belge_no": "998788333",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Muze"
   },
   {
-    "id": "osm_11202937",
-    "tip": "Milli Park",
-    "ad": "Marmaris Millî Parkı",
+    "id": "osm_kv_1026149721",
+    "tip": "Kültür Varlığı",
+    "ad": "Siyavuşpaşa Kasrı",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1026149721",
+    "koordinatlar": {
+      "lat": 41.000586,
+      "lng": 28.851435
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1026149721",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1037084486",
+    "tip": "Kültür Varlığı",
+    "ad": "Havacılık Müzesi",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1037084486",
+    "koordinatlar": {
+      "lat": 40.964158,
+      "lng": 28.826266
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1037084486",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1256873528",
+    "tip": "Kültür Varlığı",
+    "ad": "Ödemiş Müzesi",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1256873528",
+    "koordinatlar": {
+      "lat": 38.227881,
+      "lng": 27.988805
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1256873528",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1346157990",
+    "tip": "Kültür Varlığı",
+    "ad": "Askerî Müze",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1346157990",
+    "koordinatlar": {
+      "lat": 41.048876,
+      "lng": 28.988243
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1346157990",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1352425761",
+    "tip": "Kültür Varlığı",
+    "ad": "Miniatürk Açıkhava Müzesi",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1352425761",
+    "koordinatlar": {
+      "lat": 41.059005,
+      "lng": 28.949068
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1352425761",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1375271943",
+    "tip": "Kültür Varlığı",
+    "ad": "Ακρόπολη της Ρόδου",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1375271943",
+    "koordinatlar": {
+      "lat": 36.440929,
+      "lng": 28.212772
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1375271943",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1411943935",
+    "tip": "Kültür Varlığı",
+    "ad": "Kerimoglu Türküsü Evi",
     "il": "Muğla",
     "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Nationalpark Marmaris | name:en=Marmaris National Park",
+    "aciklama": "Muze | OSM ID: 1411943935",
     "koordinatlar": {
-      "lat": 36.836817,
-      "lng": 28.378652
+      "lat": 37.118147,
+      "lng": 28.263902
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "11202937",
+    "belge_no": "1411943935",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Muze"
   },
   {
-    "id": "osm_11205135",
-    "tip": "Milli Park",
-    "ad": "Sakarya Meydan Muharebesi Tarihî Millî Parkı",
-    "il": "Ankara",
+    "id": "osm_kv_1436858079",
+    "tip": "Kültür Varlığı",
+    "ad": "Հայաստանի պատմության թանգարան",
+    "il": "Türkiye",
     "ilce": "",
-    "aciklama": "alt_name=Sakarya National Park;Sakarya Millî Parkı | area=yes | boundary=national_park | name:en=Battle of Sakarya National Historic Park",
+    "aciklama": "Muze | OSM ID: 1436858079",
     "koordinatlar": {
-      "lat": 39.417781,
-      "lng": 32.257018
+      "lat": 40.178514,
+      "lng": 44.513861
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "11205135",
+    "belge_no": "1436858079",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1437249373",
+    "tip": "Kültür Varlığı",
+    "ad": "Գրականության և արվեստի թանգարան",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1437249373",
+    "koordinatlar": {
+      "lat": 40.178894,
+      "lng": 44.514549
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1437249373",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1437249612",
+    "tip": "Kültür Varlığı",
+    "ad": "Միջին արևելքի թանգարան",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1437249612",
+    "koordinatlar": {
+      "lat": 40.178867,
+      "lng": 44.514538
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1437249612",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1459239555",
+    "tip": "Kültür Varlığı",
+    "ad": "Հայաստանի երկաթուղու թանգարան",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1459239555",
+    "koordinatlar": {
+      "lat": 40.155574,
+      "lng": 44.508243
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1459239555",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1461173905",
+    "tip": "Kültür Varlığı",
+    "ad": "Alacahöyük Müzesi",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1461173905",
+    "koordinatlar": {
+      "lat": 40.233252,
+      "lng": 34.695765
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1461173905",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1503934520",
+    "tip": "Kültür Varlığı",
+    "ad": "Feza Gürsey Bilim Merkezi",
+    "il": "Ankara",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1503934520",
+    "koordinatlar": {
+      "lat": 39.968375,
+      "lng": 32.879879
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1503934520",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1561059942",
+    "tip": "Kültür Varlığı",
+    "ad": "Giorgi Leonidze State Museum of Georgian Literature",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1561059942",
+    "koordinatlar": {
+      "lat": 41.699388,
+      "lng": 44.799184
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1561059942",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1616390555",
+    "tip": "Kültür Varlığı",
+    "ad": "ბოლნისის რაიონის მუზეუმი",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1616390555",
+    "koordinatlar": {
+      "lat": 41.449148,
+      "lng": 44.540792
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1616390555",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1744041858",
+    "tip": "Kültür Varlığı",
+    "ad": "მემედ აბაშიძის სახლ-მუზეუმი",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1744041858",
+    "koordinatlar": {
+      "lat": 41.652003,
+      "lng": 41.639404
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1744041858",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1770612643",
+    "tip": "Kültür Varlığı",
+    "ad": "Osmanlı Bankası Müzesi",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1770612643",
+    "koordinatlar": {
+      "lat": 41.023836,
+      "lng": 28.973617
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1770612643",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1786721373",
+    "tip": "Kültür Varlığı",
+    "ad": "Merinos Tekstil Sanayi Müzesi",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1786721373",
+    "koordinatlar": {
+      "lat": 40.199686,
+      "lng": 29.051572
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1786721373",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1786760093",
+    "tip": "Kültür Varlığı",
+    "ad": "Bursa Kent Müzesi",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1786760093",
+    "koordinatlar": {
+      "lat": 40.182387,
+      "lng": 29.066437
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1786760093",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1807703751",
+    "tip": "Kültür Varlığı",
+    "ad": "Istanbul Photography Museum",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1807703751",
+    "koordinatlar": {
+      "lat": 41.00464,
+      "lng": 28.967754
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1807703751",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1839880051",
+    "tip": "Kültür Varlığı",
+    "ad": "متحف التقاليد الشعبية",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1839880051",
+    "koordinatlar": {
+      "lat": 36.205996,
+      "lng": 37.156521
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1839880051",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1864630237",
+    "tip": "Kültür Varlığı",
+    "ad": "Sakarya Şehitleri Ve Zafer Anıtı Müzesi",
+    "il": "Ankara",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1864630237",
+    "koordinatlar": {
+      "lat": 39.587841,
+      "lng": 32.131285
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1864630237",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
+  },
+  {
+    "id": "osm_kv_1912757272",
+    "tip": "Kültür Varlığı",
+    "ad": "Հ.Հովհաննիսյանի անվան թանգարան",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Muze | OSM ID: 1912757272",
+    "koordinatlar": {
+      "lat": 40.163583,
+      "lng": 44.292821
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1912757272",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Muze"
   },
   {
     "id": "osm_2294534831",
@@ -1904,240 +2499,138 @@
     "kaynak": "OSM"
   },
   {
-    "id": "osm_3445569784",
-    "tip": "Sulak Alan",
-    "ad": "dalaksuyu",
-    "il": "Balıkesir",
+    "id": "osm_269197110",
+    "tip": "Maden Ocağı",
+    "ad": "Volfram maden tesisleri",
+    "il": "Bursa",
     "ilce": "",
-    "aciklama": "natural=wetland | wetland=su_kaynağı",
+    "aciklama": "landuse=quarry | name:en=Tungsten quarry",
     "koordinatlar": {
-      "lat": 39.768299,
-      "lng": 26.971061
+      "lat": 40.098131,
+      "lng": 29.176066
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "3445569784",
+    "belge_no": "269197110",
     "eklenme": "2026-03-20",
     "kaynak": "OSM"
   },
   {
-    "id": "osm_5299563715",
-    "tip": "Sulak Alan",
-    "ad": "TÖRLEK",
+    "id": "osm_431330591",
+    "tip": "Maden Ocağı",
+    "ad": "Sand Quarry",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "landuse=quarry",
+    "koordinatlar": {
+      "lat": 36.819186,
+      "lng": 27.063471
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "431330591",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_4693376244",
+    "tip": "Maden Ocağı",
+    "ad": "ΑΤΕΚ ΜΠΕΤΩΝ ΑΡΜΕ",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "addr:street=Κως - Κέφαλος | landuse=quarry",
+    "koordinatlar": {
+      "lat": 36.882537,
+      "lng": 27.235567
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "4693376244",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_7890309870",
+    "tip": "Maden Ocağı",
+    "ad": "Adora Mermer Ocak",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "fixme=Is Adora Mermer Ocak located here? | landuse=quarry",
+    "koordinatlar": {
+      "lat": 38.295105,
+      "lng": 30.240033
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "7890309870",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_11748942988",
+    "tip": "Maden Ocağı",
+    "ad": "Lime pit",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "landuse=quarry | name:tr=Kireç kuyusu",
+    "koordinatlar": {
+      "lat": 36.951847,
+      "lng": 31.79066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11748942988",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_12160912860",
+    "tip": "Maden Ocağı",
+    "ad": "Caution: Mining area",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "landuse=quarry",
+    "koordinatlar": {
+      "lat": 37.463997,
+      "lng": 27.664732
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "12160912860",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_12184171607",
+    "tip": "Maden Ocağı",
+    "ad": "Özcan Mermer",
     "il": "Mersin",
     "ilce": "",
-    "aciklama": "natural=wetland",
+    "aciklama": "landuse=quarry",
     "koordinatlar": {
-      "lat": 36.60319,
-      "lng": 33.6305
+      "lat": 36.373064,
+      "lng": 33.933877
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "5299563715",
+    "belge_no": "12184171607",
     "eklenme": "2026-03-20",
     "kaynak": "OSM"
   },
   {
-    "id": "osm_6737261031",
-    "tip": "Sulak Alan",
-    "ad": "Ardıçlı Ilıcası",
-    "il": "Hatay",
+    "id": "osm_12202605734",
+    "tip": "Maden Ocağı",
+    "ad": "Caution! Mining Area",
+    "il": "Muğla",
     "ilce": "",
-    "aciklama": "description=Hatayın Hassa ilçesine bağlı Ardıçlı Mahallesi sınırları içerisinde yer alan bölge doğal kaynak suları ile beslenen serin tatlı su göl yatağı | natural=wetland | wetland=swamp",
+    "aciklama": "landuse=quarry",
     "koordinatlar": {
-      "lat": 36.721255,
-      "lng": 36.536626
+      "lat": 37.403897,
+      "lng": 27.785062
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "6737261031",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_7724637897",
-    "tip": "Sulak Alan",
-    "ad": "Fidanlık şelalesi",
-    "il": "Balıkesir",
-    "ilce": "",
-    "aciklama": "natural=wetland | wetland=Waterfall",
-    "koordinatlar": {
-      "lat": 39.672124,
-      "lng": 26.711113
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "7724637897",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_7724666342",
-    "tip": "Sulak Alan",
-    "ad": "Gürleyik şelalesi",
-    "il": "Balıkesir",
-    "ilce": "",
-    "aciklama": "natural=wetland | wetland=Şelale",
-    "koordinatlar": {
-      "lat": 39.62634,
-      "lng": 26.670418
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "7724666342",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_9366886775",
-    "tip": "Sulak Alan",
-    "ad": "Afrodit Şelalesi",
-    "il": "Balıkesir",
-    "ilce": "",
-    "aciklama": "natural=wetland | tidal=no | wetland=waterfall",
-    "koordinatlar": {
-      "lat": 39.738347,
-      "lng": 26.855018
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "9366886775",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_9383268070",
-    "tip": "Sulak Alan",
-    "ad": "Karamandere şelalesi",
-    "il": "Balıkesir",
-    "ilce": "",
-    "aciklama": "natural=wetland | tidal=no | wetland=waterfall",
-    "koordinatlar": {
-      "lat": 39.623435,
-      "lng": 26.80237
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "9383268070",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_10246234059",
-    "tip": "Sulak Alan",
-    "ad": "PC",
-    "il": "Ankara",
-    "ilce": "",
-    "aciklama": "natural=wetland | wetland=wet_meadow",
-    "koordinatlar": {
-      "lat": 40.365812,
-      "lng": 32.135314
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "10246234059",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_12720478408",
-    "tip": "Sulak Alan",
-    "ad": "Kavak Göleti",
-    "il": "Samsun",
-    "ilce": "",
-    "aciklama": "name:tr=Kavak Göleti | natural=wetland | wetland=pond",
-    "koordinatlar": {
-      "lat": 41.066071,
-      "lng": 35.975729
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "12720478408",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_12977332859",
-    "tip": "Sulak Alan",
-    "ad": "کارێزی کەندالەشین",
-    "il": "Türkiye",
-    "ilce": "",
-    "aciklama": "natural=wetland | wetland=string_bog",
-    "koordinatlar": {
-      "lat": 36.355577,
-      "lng": 43.704537
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "12977332859",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_12977332860",
-    "tip": "Sulak Alan",
-    "ad": "کارێزی تاتۆک",
-    "il": "Türkiye",
-    "ilce": "",
-    "aciklama": "natural=wetland",
-    "koordinatlar": {
-      "lat": 36.350384,
-      "lng": 43.703432
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "12977332860",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_13374282421",
-    "tip": "Sulak Alan",
-    "ad": "Gömeren Kanyonu",
-    "il": "Kastamonu",
-    "ilce": "",
-    "aciklama": "natural=wetland | wetland=lake",
-    "koordinatlar": {
-      "lat": 41.777838,
-      "lng": 33.039194
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "13374282421",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_13374282472",
-    "tip": "Sulak Alan",
-    "ad": "Dönen Göl",
-    "il": "Kastamonu",
-    "ilce": "",
-    "aciklama": "natural=wetland | wetland=lake",
-    "koordinatlar": {
-      "lat": 41.781029,
-      "lng": 33.042808
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "13374282472",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_13391528199",
-    "tip": "Sulak Alan",
-    "ad": "Korka mus",
-    "il": "Türkiye",
-    "ilce": "",
-    "aciklama": "name:ckb=کۆرکەمووس | natural=wetland",
-    "koordinatlar": {
-      "lat": 36.827132,
-      "lng": 44.794727
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "13391528199",
+    "belge_no": "12202605734",
     "eklenme": "2026-03-20",
     "kaynak": "OSM"
   }
