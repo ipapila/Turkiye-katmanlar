@@ -94,30 +94,34 @@ def in_turkey(lat, lng):
     return TR_LAT[0] <= lat <= TR_LAT[1] and TR_LNG[0] <= lng <= TR_LNG[1]
 
 _geocode_cache = {}
+_geocode_count = 0
+MAX_GEOCODE = 100  # Tek çalışmada max 100 yeni geocode isteği
 
 def reverse_geocode(lat, lng):
-    """Koordinattan il ve ilçe bilgisini Nominatim ile al"""
+    global _geocode_count
     key = (round(lat,2), round(lng,2))
     if key in _geocode_cache:
         return _geocode_cache[key]
+    if _geocode_count >= MAX_GEOCODE:
+        # Limit aşıldı, bbox ile tahmin et
+        return (guess_il_bbox(lat, lng), '')
     try:
         url = f"https://nominatim.openstreetmap.org/reverse?lat={lat}&lon={lng}&format=json&accept-language=tr"
-        r = requests.get(url, timeout=10, headers={'User-Agent': 'TurkiyeKatmanlarBot/1.0'})
+        r = requests.get(url, timeout=8, headers={'User-Agent': 'TurkiyeKatmanlarBot/1.0'})
         if r.ok:
             addr = r.json().get('address', {})
-            il    = addr.get('province') or addr.get('state') or addr.get('county') or 'Türkiye'
-            ilce  = addr.get('county') or addr.get('city_district') or addr.get('district') or ''
-            # "İl" veya " Province" son eklerini temizle
-            il   = il.replace(' Province','').replace(' İli','').strip()
-            ilce = ilce.replace(' İlçesi','').strip()
+            il   = (addr.get('province') or addr.get('state') or addr.get('county') or 'Türkiye').replace(' Province','').replace(' İli','').strip()
+            ilce = (addr.get('county') or addr.get('city_district') or addr.get('district') or '').replace(' İlçesi','').strip()
             result = (il, ilce)
             _geocode_cache[key] = result
-            time.sleep(1)  # Nominatim rate limit: max 1 istek/sn
+            _geocode_count += 1
+            time.sleep(1)
             return result
     except Exception:
         pass
-    # Nominatim başarısız olursa bbox ile tahmin et
-    return (guess_il_bbox(lat, lng), '')
+    result = (guess_il_bbox(lat, lng), '')
+    _geocode_cache[key] = result
+    return result
 
 def guess_il_bbox(lat, lng):
     """Bounding box ile il tahmini (yedek)"""
@@ -492,20 +496,21 @@ def main():
     except Exception as e:
         print(f"  Mevcut veri alinamadi: {e}")
 
-    # Mevcut kayitlarda bos il/ilce varsa doldur
+    # Mevcut kayitlarda bos il/ilce varsa doldur (max 100 kayit)
     print("Bos il/ilce bilgileri dolduruluyor...")
+    empty_records = [r for r in manuel if (not r.get('il') or not r.get('ilce'))
+                    and r.get('koordinatlar',{}).get('lat',0)]
+    print(f"  Bos il/ilce olan kayit: {len(empty_records)}")
     filled = 0
-    for r in manuel:
-        if not r.get('il') or not r.get('ilce'):
-            lat = r.get('koordinatlar',{}).get('lat',0)
-            lng = r.get('koordinatlar',{}).get('lng',0)
-            if lat and lng:
-                il, ilce = reverse_geocode(lat, lng)
-                if not r.get('il') and il:
-                    r['il'] = il
-                if not r.get('ilce') and ilce:
-                    r['ilce'] = ilce
-                filled += 1
+    for r in empty_records[:100]:  # Max 100
+        lat = r.get('koordinatlar',{}).get('lat',0)
+        lng = r.get('koordinatlar',{}).get('lng',0)
+        il, ilce = reverse_geocode(lat, lng)
+        if not r.get('il') and il:
+            r['il'] = il
+        if not r.get('ilce') and ilce:
+            r['ilce'] = ilce
+        filled += 1
     print(f"  {filled} kayit guncellendi")
 
     # Alan adi yanlis olan kayitlari duzelt (ornegin RES kategorisinde "Maden Ocagi" yazan)
