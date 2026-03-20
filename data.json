@@ -79492,157 +79492,514 @@
     "kaynak": "OSM/Muze"
   },
   {
-    "id": "osm_252585",
-    "tip": "Milli Park",
-    "ad": "Göreme Tarihî Parkı",
-    "il": "Kayseri",
+    "id": "osm_kv_218549971",
+    "tip": "Kültür Varlığı",
+    "ad": "Vardzia",
+    "il": "Ardahan",
     "ilce": "",
-    "aciklama": "boundary=national_park | heritage=1 | heritage:operator=whc | leisure=nature_reserve",
+    "aciklama": "Kale | OSM ID: 218549971",
     "koordinatlar": {
-      "lat": 38.650219,
-      "lng": 34.852105
+      "lat": 41.380974,
+      "lng": 43.28447
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "252585",
+    "belge_no": "218549971",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Kale"
   },
   {
-    "id": "osm_1197579",
-    "tip": "Milli Park",
-    "ad": "Dilek Yarımadası Millî Parkı",
-    "il": "İzmir",
-    "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Nationalpark Dilek-Halbinsel | name:en=Dilek Peninsula National Park",
-    "koordinatlar": {
-      "lat": 37.582586,
-      "lng": 27.12511
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1197579",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_1715973",
-    "tip": "Milli Park",
-    "ad": "Kızıldağ Millî Parkı",
-    "il": "Isparta",
-    "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Kızıldağ National Park | name:tr=Kızıldağ Millî Parkı",
-    "koordinatlar": {
-      "lat": 37.764985,
-      "lng": 31.259285
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1715973",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_1715974",
-    "tip": "Milli Park",
-    "ad": "Beyşehir Gölü Millî Parkı",
-    "il": "Isparta",
-    "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Lake Beyşehir National Park | name:tr=Beyşehir Gölü Millî Parkı",
-    "koordinatlar": {
-      "lat": 37.71068,
-      "lng": 31.496295
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1715974",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_1715983",
-    "tip": "Milli Park",
-    "ad": "Çanakkale Savaşları Gelibolu Tarihî Alanı",
-    "il": "Çanakkale",
-    "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Gallipoli Peninsula Historical National Park | name:ru=Исторический национальный парк «Галлипольский полуостров»",
-    "koordinatlar": {
-      "lat": 40.204565,
-      "lng": 26.301902
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1715983",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_7621483",
-    "tip": "Milli Park",
-    "ad": "Mtirala Milli Parkı",
+    "id": "osm_kv_263262911",
+    "tip": "Kültür Varlığı",
+    "ad": "Κάστρο Κρητηνίας",
     "il": "Türkiye",
     "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Mtirala-Nationalpark | name:en=Mtirala National Park",
+    "aciklama": "Kale | OSM ID: 263262911",
     "koordinatlar": {
-      "lat": 41.660111,
-      "lng": 41.847404
+      "lat": 36.264122,
+      "lng": 27.808895
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "7621483",
+    "belge_no": "263262911",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Kale"
   },
   {
-    "id": "osm_11201845",
-    "tip": "Milli Park",
-    "ad": "Botan Vadisi Millî Parkı",
-    "il": "Siirt",
-    "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Botan Valley National Park | name:ku=Parka Neteweyî ya Geliyê Botan",
-    "koordinatlar": {
-      "lat": 37.893525,
-      "lng": 41.972435
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "11201845",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_11202937",
-    "tip": "Milli Park",
-    "ad": "Marmaris Millî Parkı",
+    "id": "osm_kv_288935862",
+    "tip": "Kültür Varlığı",
+    "ad": "Κάστρο Μεγάλου Χωριού",
     "il": "Muğla",
     "ilce": "",
-    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Nationalpark Marmaris | name:en=Marmaris National Park",
+    "aciklama": "Kale | OSM ID: 288935862",
     "koordinatlar": {
-      "lat": 36.836817,
-      "lng": 28.378652
+      "lat": 36.457499,
+      "lng": 27.343265
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "11202937",
+    "belge_no": "288935862",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Kale"
   },
   {
-    "id": "osm_11205135",
-    "tip": "Milli Park",
-    "ad": "Sakarya Meydan Muharebesi Tarihî Millî Parkı",
-    "il": "Ankara",
+    "id": "osm_kv_290177875",
+    "tip": "Kültür Varlığı",
+    "ad": "Κάστρο του Λάμπρου",
+    "il": "Muğla",
     "ilce": "",
-    "aciklama": "alt_name=Sakarya National Park;Sakarya Millî Parkı | area=yes | boundary=national_park | name:en=Battle of Sakarya National Historic Park",
+    "aciklama": "Kale | OSM ID: 290177875",
     "koordinatlar": {
-      "lat": 39.417781,
-      "lng": 32.257018
+      "lat": 36.406983,
+      "lng": 27.367979
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "11205135",
+    "belge_no": "290177875",
     "eklenme": "2026-03-20",
-    "kaynak": "OSM"
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_291336451",
+    "tip": "Kültür Varlığı",
+    "ad": "Κάστρο Αγριοσυκιάς",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 291336451",
+    "koordinatlar": {
+      "lat": 36.402521,
+      "lng": 27.391025
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "291336451",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_306877927",
+    "tip": "Kültür Varlığı",
+    "ad": "Ortahisar Kalesi",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 306877927",
+    "koordinatlar": {
+      "lat": 38.619809,
+      "lng": 34.864431
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "306877927",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_411690638",
+    "tip": "Kültür Varlığı",
+    "ad": "Gudarekhi Tower",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 411690638",
+    "koordinatlar": {
+      "lat": 41.590289,
+      "lng": 44.457177
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "411690638",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_420697830",
+    "tip": "Kültür Varlığı",
+    "ad": "ციციშვილების ციხე / Tsitsishvili Castle",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 420697830",
+    "koordinatlar": {
+      "lat": 41.829653,
+      "lng": 44.53623
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "420697830",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_567062329",
+    "tip": "Kültür Varlığı",
+    "ad": "قصر البنات",
+    "il": "Hatay",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 567062329",
+    "koordinatlar": {
+      "lat": 36.234433,
+      "lng": 36.68049
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "567062329",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_571220223",
+    "tip": "Kültür Varlığı",
+    "ad": "قلعة نجم",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 571220223",
+    "koordinatlar": {
+      "lat": 36.555206,
+      "lng": 38.261988
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571220223",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_707408836",
+    "tip": "Kültür Varlığı",
+    "ad": "Uçhisar Kalesi",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 707408836",
+    "koordinatlar": {
+      "lat": 38.630443,
+      "lng": 34.805323
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "707408836",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_881887842",
+    "tip": "Kültür Varlığı",
+    "ad": "Çankırı Kalesi",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 881887842",
+    "koordinatlar": {
+      "lat": 40.608192,
+      "lng": 33.616566
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "881887842",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_998796596",
+    "tip": "Kültür Varlığı",
+    "ad": "Kveshi Fortress",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 998796596",
+    "koordinatlar": {
+      "lat": 41.437683,
+      "lng": 44.440877
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "998796596",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1011995142",
+    "tip": "Kültür Varlığı",
+    "ad": "ატენის ციხე",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1011995142",
+    "koordinatlar": {
+      "lat": 41.915033,
+      "lng": 44.092891
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1011995142",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1065022600",
+    "tip": "Kültür Varlığı",
+    "ad": "Rumkale",
+    "il": "Şanlıurfa",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1065022600",
+    "koordinatlar": {
+      "lat": 37.272396,
+      "lng": 37.837966
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1065022600",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1078126242",
+    "tip": "Kültür Varlığı",
+    "ad": "Bağin Kalesi",
+    "il": "Elazığ",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1078126242",
+    "koordinatlar": {
+      "lat": 39.003616,
+      "lng": 39.900054
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1078126242",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1131043714",
+    "tip": "Kültür Varlığı",
+    "ad": "Bibol Kalesi",
+    "il": "Şanlıurfa",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1131043714",
+    "koordinatlar": {
+      "lat": 38.115863,
+      "lng": 39.230638
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1131043714",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1211779719",
+    "tip": "Kültür Varlığı",
+    "ad": "Kesdoğan Kalesi",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1211779719",
+    "koordinatlar": {
+      "lat": 39.37767,
+      "lng": 38.129465
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1211779719",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1211851331",
+    "tip": "Kültür Varlığı",
+    "ad": "Divriği Kalesi",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1211851331",
+    "koordinatlar": {
+      "lat": 39.375337,
+      "lng": 38.123196
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1211851331",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1296256638",
+    "tip": "Kültür Varlığı",
+    "ad": "Bayburt Kalesi",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1296256638",
+    "koordinatlar": {
+      "lat": 40.263446,
+      "lng": 40.22979
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1296256638",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1301162534",
+    "tip": "Kültür Varlığı",
+    "ad": "Yılankale",
+    "il": "Adana",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1301162534",
+    "koordinatlar": {
+      "lat": 37.014885,
+      "lng": 35.747803
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1301162534",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1352202740",
+    "tip": "Kültür Varlığı",
+    "ad": "Ardahan Kalesi",
+    "il": "Ardahan",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1352202740",
+    "koordinatlar": {
+      "lat": 41.118077,
+      "lng": 42.703708
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1352202740",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1354236354",
+    "tip": "Kültür Varlığı",
+    "ad": "Κάστρο Ασκληπιειού",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1354236354",
+    "koordinatlar": {
+      "lat": 36.073394,
+      "lng": 27.932848
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1354236354",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1449289710",
+    "tip": "Kültür Varlığı",
+    "ad": "Hoşap Kalesi",
+    "il": "Van",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1449289710",
+    "koordinatlar": {
+      "lat": 38.317154,
+      "lng": 43.801774
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1449289710",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1475075790",
+    "tip": "Kültür Varlığı",
+    "ad": "Sinap Kalesi",
+    "il": "Mersin",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1475075790",
+    "koordinatlar": {
+      "lat": 37.189417,
+      "lng": 34.611371
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1475075790",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1502162942",
+    "tip": "Kültür Varlığı",
+    "ad": "Doğubayazıt Kalesi",
+    "il": "Iğdır",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1502162942",
+    "koordinatlar": {
+      "lat": 39.521312,
+      "lng": 44.132864
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1502162942",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1532708950",
+    "tip": "Kültür Varlığı",
+    "ad": "Mamure Kalesi",
+    "il": "Mersin",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1532708950",
+    "koordinatlar": {
+      "lat": 36.081343,
+      "lng": 32.895324
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1532708950",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1579318379",
+    "tip": "Kültür Varlığı",
+    "ad": "არყისციხე",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1579318379",
+    "koordinatlar": {
+      "lat": 41.61829,
+      "lng": 42.926567
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1579318379",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1581236397",
+    "tip": "Kültür Varlığı",
+    "ad": "Ceneviz Kalesi",
+    "il": "Düzce",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1581236397",
+    "koordinatlar": {
+      "lat": 41.086133,
+      "lng": 31.092493
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1581236397",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
+  },
+  {
+    "id": "osm_kv_1584125768",
+    "tip": "Kültür Varlığı",
+    "ad": "ოქროს ციხე",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Kale | OSM ID: 1584125768",
+    "koordinatlar": {
+      "lat": 41.708498,
+      "lng": 42.762391
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1584125768",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Kale"
   },
   {
     "id": "osm_2294534831",
@@ -79692,6 +80049,142 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "7712295203",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_269197110",
+    "tip": "Maden Ocağı",
+    "ad": "Volfram maden tesisleri",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "landuse=quarry | name:en=Tungsten quarry",
+    "koordinatlar": {
+      "lat": 40.098131,
+      "lng": 29.176066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "269197110",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_431330591",
+    "tip": "Maden Ocağı",
+    "ad": "Sand Quarry",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "landuse=quarry",
+    "koordinatlar": {
+      "lat": 36.819186,
+      "lng": 27.063471
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "431330591",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_4693376244",
+    "tip": "Maden Ocağı",
+    "ad": "ΑΤΕΚ ΜΠΕΤΩΝ ΑΡΜΕ",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "addr:street=Κως - Κέφαλος | landuse=quarry",
+    "koordinatlar": {
+      "lat": 36.882537,
+      "lng": 27.235567
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "4693376244",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_7890309870",
+    "tip": "Maden Ocağı",
+    "ad": "Adora Mermer Ocak",
+    "il": "Isparta",
+    "ilce": "",
+    "aciklama": "fixme=Is Adora Mermer Ocak located here? | landuse=quarry",
+    "koordinatlar": {
+      "lat": 38.295105,
+      "lng": 30.240033
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "7890309870",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_11748942988",
+    "tip": "Maden Ocağı",
+    "ad": "Kireç kuyusu",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "landuse=quarry | name:tr=Kireç kuyusu",
+    "koordinatlar": {
+      "lat": 36.951847,
+      "lng": 31.79066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11748942988",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_12160912860",
+    "tip": "Maden Ocağı",
+    "ad": "Caution: Mining area",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "landuse=quarry",
+    "koordinatlar": {
+      "lat": 37.463997,
+      "lng": 27.664732
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "12160912860",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_12184171607",
+    "tip": "Maden Ocağı",
+    "ad": "Özcan Mermer",
+    "il": "Mersin",
+    "ilce": "",
+    "aciklama": "landuse=quarry",
+    "koordinatlar": {
+      "lat": 36.373064,
+      "lng": 33.933877
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "12184171607",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_12202605734",
+    "tip": "Maden Ocağı",
+    "ad": "Caution! Mining Area",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "landuse=quarry",
+    "koordinatlar": {
+      "lat": 37.403897,
+      "lng": 27.785062
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "12202605734",
     "eklenme": "2026-03-20",
     "kaynak": "OSM"
   }
