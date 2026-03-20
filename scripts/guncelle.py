@@ -1,44 +1,20 @@
 import os, json, time, random, requests, traceback, base64
 from datetime import datetime
 
-GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
-GITHUB_REPO  = 'ipapila/Turkiye-katmanlar'
-GITHUB_FILE  = 'data.json'
-API_URL      = f'https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE}'
-RAW_URL      = f'https://raw.githubusercontent.com/{GITHUB_REPO}/main/{GITHUB_FILE}'
-
-def github_headers():
-    return {
-        'Authorization': f'token {GITHUB_TOKEN}',
-        'Accept': 'application/vnd.github.v3+json',
-        'Content-Type': 'application/json'
-    }
+DATA_FILE = 'data.json'
 
 def read_data():
-    """Mevcut data.json'u GitHub'dan oku"""
-    r = requests.get(RAW_URL + '?t=' + str(int(time.time())), timeout=30)
-    if r.status_code == 404:
-        return [], None
-    r.raise_for_status()
-    data = r.json()
-    # SHA almak için API'ye sor
-    r2 = requests.get(API_URL, headers=github_headers(), timeout=30)
-    sha = r2.json().get('sha') if r2.ok else None
-    return data, sha
+    """Mevcut data.json'u diskten oku"""
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return []
 
-def write_data(data, sha=None):
-    """data.json'u GitHub'a yaz"""
-    content = base64.b64encode(json.dumps(data, ensure_ascii=False, indent=2).encode()).decode()
-    body = {
-        'message': f'Otomatik guncelleme {datetime.utcnow().strftime("%Y-%m-%d %H:%M")} UTC',
-        'content': content
-    }
-    if sha:
-        body['sha'] = sha
-    r = requests.put(API_URL, headers=github_headers(), json=body, timeout=60)
-    if not r.ok:
-        raise Exception(f'GitHub write failed: {r.status_code} {r.text[:200]}')
-    return r.json().get('content', {}).get('sha')
+def write_data(data):
+    """data.json'u diske yaz"""
+    with open(DATA_FILE, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"data.json guncellendi: {len(data)} kayit")
 
 # ── Yardımcı fonksiyonlar ────────────────────────────────────────
 def uid():
@@ -318,9 +294,9 @@ def main():
 
     # Mevcut data.json'u oku
     print("Mevcut veriler okunuyor...")
-    existing, sha = [], None
+    existing = []
     try:
-        existing, sha = read_data()
+        existing = read_data()
         print(f"  Mevcut kayit: {len(existing)}")
     except Exception as e:
         print(f"  Mevcut veri alinamadi: {e}")
@@ -355,11 +331,10 @@ def main():
     print(f"Manuel: {len(manuel)} | Otomatik: {len(yeni_unique)} | TOPLAM: {len(tum_veri)}")
     print(f"{'='*50}")
 
-    # GitHub'a yaz
-    print("\nGitHub'a yaziliyor...")
+    # Diske yaz (git commit Actions tarafindan yapilir)
     try:
-        new_sha = write_data(tum_veri, sha)
-        print(f"OK: {len(tum_veri)} kayit yazildi! SHA: {new_sha[:8] if new_sha else '?'}")
+        write_data(tum_veri)
+        print(f"OK: {len(tum_veri)} kayit yazildi!")
     except Exception as e:
         print(f"HATA: {e}")
         traceback.print_exc()
