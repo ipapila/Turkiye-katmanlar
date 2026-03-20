@@ -1064,7 +1064,17 @@ window.doEdit=doEdit;window.doDel=doDel;window.focR=focR;
 window.checkAdmin=checkAdmin;window.closeAdminMod=closeAdminMod;
 window.requireAdmin=requireAdmin;window.updateFormIlce=updateFormIlce;
 window.onCatChange=onCatChange;window.applyCatMap=applyCatMap;window.cancelCatMap=cancelCatMap;
-
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+<script src="https://unpkg.com/shpjs@latest/dist/shp.js"></script>
+<script>
+/* ══════════════════════════════════════════
+   AYARLAR — GitHub'a yüklemeden önce doldurun
+══════════════════════════════════════════ */
+// ...
+// ... (tüm JavaScript kodunuz burada devam ediyor)
+// ...
 // Firebase module yüklenince başlat
 window.addEventListener('load', ()=>{
   setTimeout(()=>{ load(); updateAdminUI(); }, 500);
