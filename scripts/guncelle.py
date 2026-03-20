@@ -2,13 +2,68 @@ import os, json, time, random, requests, traceback, base64
 from datetime import datetime
 
 DATA_FILE = 'data.json'
+FIREBASE_API_KEY = 'AIzaSyAvjtSn23YhDYZZmf_G2pUYzTA0Qa5tx1M'
+FIRESTORE_URL = f'https://firestore.googleapis.com/v1/projects/turkiye-katmanlar/databases/(default)/documents/harita/veriler?key={FIREBASE_API_KEY}'
 
 def read_data():
-    """Mevcut data.json'u diskten oku"""
+    """Mevcut data.json'u diskten oku, manuel kayitlari Firebase'den kurtar"""
+    disk_data = []
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    return []
+            disk_data = json.load(f)
+
+    # Disk'teki manuel kayitlari bul
+    auto_prefixes = ('osm_','wdpa_','usgs_','firms_','auto_','unesco_')
+    disk_manuel = [r for r in disk_data if not any(r.get('id','').startswith(p) for p in auto_prefixes)
+                   and r.get('kaynak','') not in ('OSM','WDPA','NASA FIRMS','USGS','UNESCO WHC','OSM/Arkeolojik Alan','OSM/Tarihi Kalinti','OSM/Muze','OSM/Kale')]
+
+    # Firebase'den manuel kayitlari al
+    print("  Firebase'den manuel kayitlar alimiyor...")
+    firebase_data = []
+    try:
+        r = requests.get(FIRESTORE_URL, timeout=30)
+        if r.ok:
+            doc = r.json()
+            raw = doc.get('fields', {}).get('alanlar', {}).get('arrayValue', {}).get('values', [])
+            for item in raw:
+                m = item.get('mapValue', {}).get('fields', {})
+                coord = m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {})
+                kaynak = m.get('kaynak', {}).get('stringValue', '')
+                rid = m.get('id', {}).get('stringValue', '')
+                # Sadece manuel kayitlari al
+                if any(rid.startswith(p) for p in auto_prefixes):
+                    continue
+                if kaynak in ('OSM','WDPA','NASA FIRMS','USGS','UNESCO WHC') or any(kaynak.startswith(p) for p in ('OSM/','auto_')):
+                    continue
+                firebase_data.append({
+                    'id':       rid,
+                    'tip':      m.get('tip', {}).get('stringValue', ''),
+                    'ad':       m.get('ad', {}).get('stringValue', ''),
+                    'il':       m.get('il', {}).get('stringValue', ''),
+                    'ilce':     m.get('ilce', {}).get('stringValue', ''),
+                    'aciklama': m.get('aciklama', {}).get('stringValue', ''),
+                    'koordinatlar': {
+                        'lat': float(m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {}).get('lat', {}).get('doubleValue', 0) or 0),
+                        'lng': float(m.get('koordinatlar', {}).get('mapValue', {}).get('fields', {}).get('lng', {}).get('doubleValue', 0) or 0),
+                    },
+                    'alan_ha':  float(m.get('alan_ha', {}).get('doubleValue', 0) or m.get('alan_ha', {}).get('integerValue', 0) or 0),
+                    'durum':    m.get('durum', {}).get('stringValue', 'Aktif'),
+                    'belge_no': m.get('belge_no', {}).get('stringValue', ''),
+                    'eklenme':  m.get('eklenme', {}).get('stringValue', ''),
+                    'kaynak':   kaynak,
+                })
+            firebase_data = [r for r in firebase_data if r.get('ad') and r.get('koordinatlar', {}).get('lat')]
+            print(f"  Firebase manuel kayit: {len(firebase_data)}")
+    except Exception as e:
+        print(f"  Firebase okuma hatasi: {e}")
+
+    # En fazla manuel kaydi olan kaynagi kullan
+    if len(firebase_data) >= len(disk_manuel):
+        print(f"  Firebase'den {len(firebase_data)} manuel kayit kullaniliyor")
+        return firebase_data
+    else:
+        print(f"  Disk'ten {len(disk_manuel)} manuel kayit kullaniliyor")
+        return disk_manuel
 
 def write_data(data):
     """data.json'u diske yaz"""
@@ -365,22 +420,14 @@ def main():
     print(f"Guncelleme: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}")
     print(f"{'='*50}\n")
 
-    # Mevcut data.json'u oku
+    # Mevcut data.json'u oku + Firebase'den manuel kayitlari kurtar
     print("Mevcut veriler okunuyor...")
-    existing = []
+    manuel = []
     try:
-        existing = read_data()
-        print(f"  Mevcut kayit: {len(existing)}")
+        manuel = read_data()
+        print(f"  Manuel kayit: {len(manuel)}")
     except Exception as e:
         print(f"  Mevcut veri alinamadi: {e}")
-
-    # Manuel kayitlari koru
-    auto_sources = ('WDPA','OSM','NASA','USGS','UNESCO','FIRMS','auto_')
-    manuel = [r for r in existing if not any(
-        r.get('kaynak','').startswith(s) or r.get('id','').startswith('auto_')
-        for s in auto_sources
-    )]
-    print(f"  Manuel kayit korunuyor: {len(manuel)}")
 
     # Yeni verileri cek
     yeni = []
