@@ -223,10 +223,9 @@ body.pkmode #map{cursor:crosshair !important;}
 
       <div class="sec admin-only" style="display:none">Veri Yönetimi</div>
       <div class="dtb admin-only" style="display:none">
-        <button class="hbtn" id="expbtn">📥 JSON (Seçili)</button>
-        <button class="hbtn" id="expgeobtn">🗺 GeoJSON (Seçili)</button>
+        <button class="hbtn" id="expbtn">📥 JSON (Filtreli)</button>
+        <button class="hbtn" id="expgeobtn">🗺 GeoJSON (Filtreli)</button>
         <button class="hbtn" id="impbtn">📤 Yükle (JSON/GeoJSON/SHP)</button>
-        <button class="hbtn" id="expbtn_all" title="Tüm veriyi JSON olarak indir ve GitHub'a yükle" style="border-color:var(--accent);color:var(--accent)">☁️ Güncel Veriyi İndir</button>
         <button class="hbtn" id="rstbtn">🔄 Sıfırla</button>
       </div>
       <input type="file" id="impfile" accept=".json,.geojson,.zip" style="display:none"/>
@@ -357,7 +356,7 @@ body.pkmode #map{cursor:crosshair !important;}
     </div>
     <div class="mft">
       <button class="bcn" id="mcan">İptal</button>
-      <button class="bsv" id="msav">💾 Kaydet</button>
+      <button class="bsv" id="msav">☁️ Kaydet ve GitHub'a Gönder</button>
     </div>
   </div>
 </div>
@@ -399,9 +398,12 @@ body.pkmode #map{cursor:crosshair !important;}
    AYARLAR
 ══════════════════════════════════════════ */
 const ADMIN_PASS = 'ekoloji2026';
-const GITHUB_REPO  = 'ipapila/Turkiye-katmanlar'; // Depo adınızı 'kullanici/repo' formatında girin.
-// *** DÜZELTME: Veri kaynağı URL'si CORS sorununu çözmek için jsDelivr CDN'e yönlendirildi. ***
+const GITHUB_REPO  = 'ipapila/Turkiye-katmanlar'; // Deponuzun 'kullanici/repo' formatında adı
 const RAW_URL      = `https://cdn.jsdelivr.net/gh/${GITHUB_REPO}/main/data.json`;
+// GitHub Actions'ı tetiklemek için kullanılacak, sadece "workflow" yetkisine sahip PAT.
+// Bu token, herkes tarafından görülebilir ancak yalnızca workflow'u tetikleyebilir, kodunuza erişemez.
+// GITHUB_PAT'yi kendi oluşturduğunuz anahtarla değiştirin.
+const GITHUB_PAT = "ghp_BURAYA_KENDI_TOKENINIZI_YAPISTIRIN";
 
 /* ══════════════════════════════════════════
    ALAN TÜRLERİ
@@ -436,6 +438,7 @@ function tod(){return new Date().toISOString().split('T')[0];}
 let data=[],mkrs={},lgs={},vis={},editId=null,pkMode=false,pkCb=null,confCb=null;
 let fTxt='',fIl='',fIlce='',fDrm='';
 let isAdmin=false,pendingAdminAction=null;
+let isSaving = false;
 
 /* ══════════════════════════════════════════
    İLÇE VERİTABANI
@@ -623,24 +626,88 @@ async function load(){
     const s = localStorage.getItem(SK);
     data = s ? fixCoords(JSON.parse(s)) : [];
     if(data.length > 0) ntf('Çevrimdışı modda çalışılıyor. ' + data.length + ' kayıt yüklendi.', 'err');
-    else ntf('Veri yüklenemedi. Lütfen internet bağlantınızı kontrol edin.', 'err');
+    else ntf('Veri yüklenemedi. İnternet bağlantınızı kontrol edin.', 'err');
   }
   renderAll();
 }
 
-function save(){
-  localStorage.setItem(SK, JSON.stringify(data));
-  console.log('Yerel depolama güncellendi:', data.length);
+async function saveToGitHub() {
+    if (isSaving) {
+        ntf('Önceki kayıt işlemi devam ediyor...', 'err');
+        return;
+    }
+    isSaving = true;
+    const btn = document.getElementById('msav');
+    btn.disabled = true;
+    btn.textContent = 'Kaydediliyor...';
+    ntf('Değişiklikler GitHub\'a gönderiliyor...', 'ok');
+
+    try {
+        const response = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/dispatches`, {
+            method: 'POST',
+            headers: {
+                'Authorization': `token ${GITHUB_PAT}`,
+                'Accept': 'application/vnd.github.v3+json',
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                event_type: 'update-data',
+                client_payload: {
+                    data: JSON.stringify(data)
+                }
+            })
+        });
+
+        if (response.status === 204) {
+            ntf('✅ Değişiklikler başarıyla gönderildi. Güncellenmesi 1-2 dakika sürebilir.', 'ok');
+            setTimeout(() => location.reload(), 2000);
+        } else {
+            const error = await response.json();
+            throw new Error(error.message || `GitHub API Hatası: ${response.status}`);
+        }
+    } catch (error) {
+        console.error('GitHub\'a kaydetme hatası:', error);
+        ntf(`Hata: ${error.message}. Değişiklikler kaydedilemedi.`, 'err');
+    } finally {
+        isSaving = false;
+        btn.disabled = false;
+        btn.innerHTML = "☁️ Kaydet ve GitHub'a Gönder";
+        closeMod();
+    }
 }
 
-function expD_all(){
-  const blob = new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = 'data.json';
-  a.click();
-  URL.revokeObjectURL(a.href);
-  ntf('data.json indirildi. Değişikliklerin kalıcı olması için bu dosyayı GitHub\'a yükleyin.', 'ok');
+function savRec(){
+  const ad=document.getElementById('fad').value.trim();
+  const tip=document.getElementById('ftip').value;
+  const il=document.getElementById('fil2').value;
+  if(!ad){ntf('Alan adı zorunludur!','err');return;}
+  if(!tip){ntf('Alan türü seçiniz!','err');return;}
+  if(!il){ntf('İl seçiniz!','err');return;}
+  const lat=parseFloat(document.getElementById('flat').value);
+  const lng=parseFloat(document.getElementById('flng').value);
+  const rec={id:editId||uid(),tip,ad,il,ilce:document.getElementById('filce2').value||'',aciklama:document.getElementById('faclm').value.trim(),koordinatlar:(lat&&lng)?{lat,lng}:{},alan_ha:parseFloat(document.getElementById('falan').value)||0,durum:document.getElementById('fdrm2').value,belge_no:document.getElementById('fblg').value.trim(),eklenme: tod(),kaynak:document.getElementById('fkyn').value.trim()||'Manuel'};
+
+  if(editId){
+      const i=data.findIndex(d=>d.id===editId);
+      if(i>=0) data[i]=rec;
+  } else {
+      data.push(rec);
+  }
+  
+  saveToGitHub();
+}
+
+function doDel(id) {
+    const r = data.find(d => d.id === id);
+    if (!r) return;
+    mkrs[id]?.closePopup();
+    document.getElementById('ctxt').textContent = `"${r.ad}" adlı alanı silmek istediğinizden emin misiniz? Bu işlem doğrudan GitHub'a kaydedilecektir.`;
+    document.getElementById('cok').textContent = 'Onayla ve Gönder';
+    confCb = () => {
+        data = data.filter(d => d.id !== id);
+        saveToGitHub();
+    };
+    document.getElementById('cov').classList.add('open');
 }
 
 function renderAll(){Object.keys(mkrs).forEach(id=>{const r=data.find(d=>d.id===id);if(r && lgs[r.tip])lgs[r.tip].removeLayer(mkrs[id]);});mkrs={};data.forEach(r=>addMkr(r));applyF();buildLG();}
@@ -653,374 +720,4 @@ function applyF(){
     const md=!fDrm||r.durum===fDrm;
     return mt&&mi&&mc&&md;
   });
-  data.forEach(r=>{const m=mkrs[r.id];if(!m)return;const show=!!fil.find(f=>f.id===r.id)&&vis[r.tip];const lg=lgs[r.tip];if(!lg)return;if(show&&!lg.hasLayer(m))lg.addLayer(m);if(!show&&lg.hasLayer(m))lg.removeLayer(m);});
-  document.getElementById('stot').textContent=data.length;
-  document.getElementById('svis').textContent=fil.filter(r=>vis[r.tip]).length;
-  renderList(fil.filter(r=>vis[r.tip]));
-  updCnts();
-}
-function renderList(list){
-  document.getElementById('lcnt').textContent=list.length;
-  const b=document.getElementById('listbody');
-  if(!list.length){b.innerHTML='<div class="empty">Kayıt bulunamadı.</div>';return;}
-  b.innerHTML=list.map(r=>{const t=TM[r.tip]||{color:'#888',icon:'📍'};return `<div class="lrow" onclick="focR('${r.id}')"><div class="lrdot" style="background:${t.color}"></div><div><div class="lrn">${r.ad}</div><div class="lrs">${t.icon} ${r.tip} · ${r.il||'—'}</div></div><div class="lrha">${r.alan_ha?Number(r.alan_ha).toLocaleString('tr-TR')+' ha':'—'}</div></div>`;}).join('');
-}
-function focR(id){const r=data.find(d=>d.id===id);if(!r||!r.koordinatlar?.lat)return;map.setView([r.koordinatlar.lat,r.koordinatlar.lng],12);const m=mkrs[id];if(m)setTimeout(()=>m.openPopup(),450);}
-
-/* ══════════════════════════════════════════
-   KATMAN GRID
-══════════════════════════════════════════ */
-function buildLG(){document.getElementById('lgrid').innerHTML=TYPES.map(t=>`<div class="li" onclick="togL('${t.key}')"><div class="ldot" style="background:${t.color};opacity:${vis[t.key]?1:.3}"></div><div class="llbl" style="${t.bold?'font-weight:700;color:var(--text);':''}${t.bold?'letter-spacing:.01em;':''}">${t.icon} ${t.key}</div><span class="lcnt" id="lc_${t.key.replace(/\s+/g,'_')}">0</span><div class="ltog ${vis[t.key]?'on':''}"></div></div>`).join('');updCnts();}
-function togL(key){vis[key]=!vis[key];applyF();buildLG();}
-
-function updCnts(){TYPES.forEach(t=>{const el=document.getElementById('lc_'+t.key.replace(/\s+/g,'_'));if(el)el.textContent=data.filter(d=>d.tip===t.key).length;});}
-
-/* ══════════════════════════════════════════
-   MODAL
-══════════════════════════════════════════ */
-function updateFormIlce(){
-  const il=document.getElementById('fil2').value;
-  const sel=document.getElementById('filce2');
-  sel.innerHTML='<option value="">— İlçe Seçin —</option>';
-  if(il && ILCELER[il]){
-    ILCELER[il].forEach(ilce=>{const o=document.createElement('option');o.value=ilce;o.textContent=ilce;sel.appendChild(o);});
-  }
-}
-function openAdd(){editId=null;document.getElementById('mtit').textContent='➕ Yeni Alan Ekle';clrF();document.getElementById('mov').classList.add('open');}
-function doEdit(id){const r=data.find(d=>d.id===id);if(!r)return;editId=id;document.getElementById('mtit').textContent='✏️ Alanı Düzenle';document.getElementById('fad').value=r.ad||'';document.getElementById('ftip').value=r.tip||'';document.getElementById('fil2').value=r.il||'';updateFormIlce();document.getElementById('filce2').value=r.ilce||'';document.getElementById('falan').value=r.alan_ha||'';document.getElementById('fdrm2').value=r.durum||'Aktif';document.getElementById('fblg').value=r.belge_no||'';document.getElementById('fkyn').value=r.kaynak||'';document.getElementById('faclm').value=r.aciklama||'';document.getElementById('flat').value=r.koordinatlar?.lat||'';document.getElementById('flng').value=r.koordinatlar?.lng||'';document.getElementById('mov').classList.add('open');mkrs[id]?.closePopup();}
-function closeMod(){document.getElementById('mov').classList.remove('open');if(pkMode)exitPk();editId=null;}
-function clrF(){['fad','ftip','fil2','falan','fblg','fkyn','faclm','flat','flng'].forEach(i=>document.getElementById(i).value='');document.getElementById('fdrm2').value='Aktif';document.getElementById('filce2').innerHTML='<option value="">— Önce İl Seçin —</option>';}
-function savRec(){
-  const ad=document.getElementById('fad').value.trim();
-  const tip=document.getElementById('ftip').value;
-  const il=document.getElementById('fil2').value;
-  if(!ad){ntf('Alan adı zorunludur!','err');return;}
-  if(!tip){ntf('Alan türü seçiniz!','err');return;}
-  if(!il){ntf('İl seçiniz!','err');return;}
-  const lat=parseFloat(document.getElementById('flat').value);
-  const lng=parseFloat(document.getElementById('flng').value);
-  const rec={id:editId||uid(),tip,ad,il,ilce:document.getElementById('filce2').value||'',aciklama:document.getElementById('faclm').value.trim(),koordinatlar:(lat&&lng)?{lat,lng}:{},alan_ha:parseFloat(document.getElementById('falan').value)||0,durum:document.getElementById('fdrm2').value,belge_no:document.getElementById('fblg').value.trim(),eklenme:tod(),kaynak:document.getElementById('fkyn').value.trim()||'Manuel'};
-  if(editId){const i=data.findIndex(d=>d.id===editId);if(i>=0){remMkr(editId);data[i]=rec;addMkr(rec);}ntf('Kayıt güncellendi ✓','ok');}
-  else{data.push(rec);addMkr(rec);ntf('Yeni alan eklendi ✓','ok');}
-  save();applyF();closeMod();
-  if(rec.koordinatlar?.lat){map.setView([rec.koordinatlar.lat,rec.koordinatlar.lng],12);setTimeout(()=>mkrs[rec.id]?.openPopup(),450);}
-}
-
-/* ══════════════════════════════════════════
-   SİL
-══════════════════════════════════════════ */
-function doDel(id){const r=data.find(d=>d.id===id);if(!r)return;mkrs[id]?.closePopup();document.getElementById('ctxt').textContent=`"${r.ad}" adlı alanı silmek istediğinizden emin misiniz?`;document.getElementById('cok').textContent='Onayla';confCb=()=>{remMkr(id);data=data.filter(d=>d.id!==id);save();applyF();ntf('Kayıt silindi.','ok');};document.getElementById('cov').classList.add('open');}
-
-/* ══════════════════════════════════════════
-   PICK MODE
-══════════════════════════════════════════ */
-function enterPk(){pkMode=true;document.body.classList.add('pkmode');document.getElementById('pkhint').style.display='block';document.getElementById('pkbtn').classList.add('on');document.getElementById('pkbtn').textContent='❌ İptal';document.getElementById('mov').style.visibility='hidden';}
-function exitPk(){pkMode=false;document.body.classList.remove('pkmode');document.getElementById('pkhint').style.display='none';document.getElementById('pkbtn').classList.remove('on');document.getElementById('pkbtn').textContent='📍 Haritadan Konum Seç';document.getElementById('mov').style.visibility='';pkCb=null;}
-
-/* ══════════════════════════════════════════
-   IMPORT / EXPORT
-══════════════════════════════════════════ */
-function expD(){
-    const filteredData = data.filter(r => {
-        const q=fTxt.toLowerCase();
-        const mt=!q||r.ad.toLowerCase().includes(q)||(r.il||'').toLowerCase().includes(q)||(r.ilce||'').toLowerCase().includes(q);
-        const mi=!fIl||r.il===fIl;
-        const mc=!fIlce||r.ilce===fIlce;
-        const md=!fDrm||r.durum===fDrm;
-        const mv = vis[r.tip];
-        return mt && mi && mc && md && mv;
-    });
-    const b=new Blob([JSON.stringify(filteredData,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=`turkiye-alan-secili-${tod()}.json`;a.click();URL.revokeObjectURL(a.href);ntf(`${filteredData.length} kayıt indirildi ✓`,'ok');
-}
-
-function expGeoJSON(){
-  const filteredData = data.filter(r => {
-        const q=fTxt.toLowerCase();
-        const mt=!q||r.ad.toLowerCase().includes(q)||(r.il||'').toLowerCase().includes(q)||(r.ilce||'').toLowerCase().includes(q);
-        const mi=!fIl||r.il===fIl;
-        const mc=!fIlce||r.ilce===fIlce;
-        const md=!fDrm||r.durum===fDrm;
-        const mv = vis[r.tip];
-        return mt && mi && mc && md && mv;
-    });
-  const geojson={type:'FeatureCollection',name:'Türkiye Alan Yönetim Haritası',crs:{type:'name',properties:{name:'urn:ogc:def:crs:OGC:1.3:CRS84'}},features:filteredData.filter(r=>r.koordinatlar&&r.koordinatlar.lat&&r.koordinatlar.lng).map(r=>({type:'Feature',properties:{id:r.id,ad:r.ad,tip:r.tip,il:r.il,aciklama:r.aciklama||'',alan_ha:r.alan_ha||0,durum:r.durum||'',belge_no:r.belge_no||'',kaynak:r.kaynak||'',eklenme:r.eklenme||''},geometry:{type:'Point',coordinates:[r.koordinatlar.lng,r.koordinatlar.lat]}}))};
-  const b=new Blob([JSON.stringify(geojson,null,2)],{type:'application/geo+json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=`turkiye-alan-secili-${tod()}.geojson`;a.click();URL.revokeObjectURL(a.href);ntf(`${geojson.features.length} kayıt GeoJSON olarak indirildi ✓`,'ok');
-}
-
-function guessTip(p){
-  const lu=(p.landuse||'').toLowerCase();
-  const mm=(p.man_made||'').toLowerCase();
-  const nat=(p.natural||'').toLowerCase();
-  const pow=(p.power||'').toLowerCase();
-  const src=(p['plant:source']||p['generator:source']||'').toLowerCase();
-  const name=(p.name||p['name:tr']||'').toLowerCase();
-  if(mm==='adit'||mm==='mineshaft') return 'Maden Ocağı';
-  if(lu==='quarry') return 'Taş Ocağı';
-  if(nat==='wetland') return 'Sulak Alan';
-  if(nat==='spring') return(name.includes('ılıca')||name.includes('kaplıca'))?'Jeotermal':'Sulak Alan';
-  if(nat==='coastline') return 'Kıyı Koruma Alanı';
-  if(src==='wind'||pow==='wind_turbine') return 'RES';
-  if(src==='solar') return 'GES';
-  if(src==='hydro') return 'HES';
-  if(src==='geothermal') return 'Jeotermal';
-  if(src==='nuclear') return 'Nükleer Enerji';
-  if(pow==='plant') return 'GES';
-  return 'Maden Ocağı';
-}
-
-function resetConfirmBtns(){
-  document.getElementById('cok').textContent='Onayla';
-  document.getElementById('ccan').textContent='İptal';
-  document.getElementById('ccan').onclick=()=>{document.getElementById('cov').classList.remove('open');confCb=null;};
-}
-
-/* EPSG:3857 → WGS84 dönüşümü */
-function merc2ll(x,y){
-  const lng=x/20037508.342789244*180;
-  const lat=Math.atan(Math.exp(y/6378137))*360/Math.PI-90;
-  return [lat,lng];
-}
-
-/* Koordinat sistemini otomatik algıla ve WGS84'e çevir */
-function normCoord(x,y){
-  if(Math.abs(x)>180||Math.abs(y)>90){
-    return merc2ll(x,y);
-  }
-  return [y,x]; // zaten WGS84 ama [lng,lat] → [lat,lng]
-}
-
-/* Polygon/MultiPolygon centroid hesapla */
-function geomCentroid(geom){
-  let coords=[];
-  if(geom.type==='Point') return normCoord(geom.coordinates[0],geom.coordinates[1]);
-  if(geom.type==='MultiPoint'){coords=geom.coordinates;}
-  else if(geom.type==='LineString'){coords=geom.coordinates;}
-  else if(geom.type==='MultiLineString'){geom.coordinates.forEach(l=>coords.push(...l));}
-  else if(geom.type==='Polygon'){coords=geom.coordinates[0];}
-  else if(geom.type==='MultiPolygon'){geom.coordinates.forEach(poly=>coords.push(...poly[0]));}
-  if(!coords.length) return null;
-  const sx=coords.reduce((a,c)=>a+c[0],0)/coords.length;
-  const sy=coords.reduce((a,c)=>a+c[1],0)/coords.length;
-  return normCoord(sx,sy);
-}
-
-/* ══════════════════════════════════════════
-   KATEGORİ EŞLEŞTİRME
-══════════════════════════════════════════ */
-let pendingImport = [];
-
-function showCatMap(imported){
-  const groups = {};
-  imported.forEach(r => {
-    const k = r.tip || 'Bilinmiyor';
-    if(!groups[k]) groups[k] = [];
-    groups[k].push(r);
-  });
-
-  const body = document.getElementById('catbody');
-  body.innerHTML = '';
-
-  Object.entries(groups).forEach(([tip, recs]) => {
-    const t = TM[tip];
-    const div = document.createElement('div');
-    div.style.cssText = 'background:var(--bg3);border:1px solid var(--border);border-radius:10px;padding:12px 14px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;';
-
-    const knownColor = t ? t.color : '#888';
-    const knownIcon  = t ? t.icon  : '❓';
-
-    div.innerHTML = `
-      <div style="width:10px;height:10px;border-radius:50%;background:${knownColor};flex-shrink:0;"></div>
-      <div style="flex:1;min-width:120px;">
-        <div style="font-size:.82rem;font-weight:600;color:var(--text);">${knownIcon} ${tip}</div>
-        <div style="font-size:.7rem;color:var(--muted);">${recs.length} kayıt</div>
-      </div>
-      <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
-        <select data-group="${tip}" style="background:var(--bg2);border:1px solid var(--border);border-radius:7px;padding:6px 10px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.78rem;outline:none;cursor:pointer;" onchange="onCatChange(this)">
-          ${TYPES.map(ty=>`<option value="${ty.key}" ${ty.key===tip?'selected':''}>${ty.icon} ${ty.key}</option>`).join('')}
-          <option value="__new__">➕ Yeni Kategori Oluştur…</option>
-        </select>
-        <input type="text" data-newcat="${tip}" placeholder="Yeni kategori adı…" style="display:none;background:var(--bg2);border:1px solid var(--accent);border-radius:7px;padding:6px 10px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.78rem;outline:none;width:160px;"/>
-      </div>
-    `;
-    body.appendChild(div);
-  });
-
-  pendingImport = imported;
-  document.getElementById('catov').style.display = 'flex';
-}
-
-function onCatChange(sel){
-  const inp = sel.parentElement.querySelector('input[data-newcat]');
-  if(sel.value === '__new__'){
-    inp.style.display = 'block';
-    inp.focus();
-  } else {
-    inp.style.display = 'none';
-  }
-}
-
-function applyCatMap(){
-  const selects = document.querySelectorAll('#catbody select[data-group]');
-  const mapping = {};
-
-  selects.forEach(sel => {
-    const group = sel.getAttribute('data-group');
-    let newTip = sel.value;
-
-    if(newTip === '__new__'){
-      const inp = sel.parentElement.querySelector('input[data-newcat]');
-      const customName = (inp?.value||'').trim();
-      if(!customName){ ntf('Yeni kategori adı boş olamaz!','err'); return; }
-      newTip = customName;
-      if(!TM[newTip]){
-        const colors = ['#ff6f00','#c62828','#4527a0','#1565c0','#2e7d32','#6a1520','#00838f','#558b2f'];
-        const icons  = ['📌','🔖','🏷️','📍','🗺️','📎','🔷','⭐'];
-        const idx = TYPES.length % colors.length;
-        const newType = {key:newTip, color:colors[idx], icon:icons[idx]};
-        TYPES.push(newType);
-        TM[newTip] = newType;
-        lgs[newTip] = L.markerClusterGroup({maxClusterRadius:55, iconCreateFunction(c){return L.divIcon({html:`<div style="background:${newType.color};color:#fff;border-radius:50%;width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:.72rem;font-weight:700;border:2px solid rgba(255,255,255,.4);box-shadow:0 2px 8px rgba(0,0,0,.35)">${c.getChildCount()}</div>`,className:'',iconSize:[32,32]});}});
-        lgs[newTip].addTo(map);
-        vis[newTip] = true;
-        ntf(`Yeni kategori oluşturuldu: ${newTip}`,'ok');
-      }
-    }
-    mapping[group] = newTip;
-  });
-
-  pendingImport = pendingImport.map(r => ({
-    ...r,
-    tip: mapping[r.tip] || r.tip
-  }));
-
-  document.getElementById('catov').style.display = 'none';
-  showImportConfirm(pendingImport);
-  pendingImport = [];
-}
-
-function cancelCatMap(){
-  document.getElementById('catov').style.display = 'none';
-  pendingImport = [];
-}
-function processGeoJSON(parsed){
-  const imported=parsed.features.filter(f=>f.geometry).map(f=>{
-    const p=f.properties||{};
-    const centroid=geomCentroid(f.geometry);
-    if(!centroid)return null;
-    const [lat,lng]=centroid;
-    const tip=guessTip(p);
-    const name=(p.name||p['name:tr']||p.ad||p.AD||p.Name||p.NAME||p['description:tr']||p.Drawings||p.ACIKLAMA||tip).trim();
-    return {id:uid(),tip,ad:name,il:p.il||p.IL||p.province||p.PROVINCE||p.IL_ADI||'',aciklama:p['description:tr']||p.description||p.aciklama||p.ACIKLAMA||'',koordinatlar:{lat:parseFloat(lat.toFixed(6)),lng:parseFloat(lng.toFixed(6))},alan_ha:parseFloat(p.alan_ha||p.ALAN_HA||p.AREA||0)||0,durum:p.durum||p.DURUM||'Aktif',belge_no:String(p.osm_id||p.full_id||p.belge_no||p.BELGE_NO||''),eklenme:tod(),kaynak:p.kaynak||p.KAYNAK||'Shapefile/GeoJSON'};
-  }).filter(Boolean);
-  if(!imported.length){ntf('Koordinat içeren kayıt bulunamadı!','err');return;}
-  showCatMap(imported);
-}
-
-function showImportConfirm(imported){
-  document.getElementById('ctxt').textContent=`${imported.length} kayıt bulundu. Mevcut ${data.length} kayda EKLENSIN mi?`;
-  document.getElementById('cok').textContent='➕ Ekle';
-  document.getElementById('ccan').textContent='🔄 Üzerine Yaz';
-  confCb=()=>{const ids=new Set(data.map(d=>d.id));const news=imported.filter(d=>!ids.has(d.id));data=[...data,...news];save();renderAll();ntf(`${news.length} yeni kayıt eklendi ✓`,'ok');resetConfirmBtns();};
-  document.getElementById('ccan').onclick=()=>{document.getElementById('cov').classList.remove('open');data=imported;save();renderAll();ntf(`${data.length} kayıt yüklendi ✓`,'ok');resetConfirmBtns();};
-  document.getElementById('cov').classList.add('open');
-}
-
-function impD(file){
-  const isZip=file.name.toLowerCase().endsWith('.zip');
-  if(isZip){
-    ntf('Shapefile okunuyor…','ok');
-    const reader=new FileReader();
-    reader.onload=async e=>{
-      try{
-        const geojson=await shp(e.target.result);
-        const collections=Array.isArray(geojson)?geojson:[geojson];
-        let allFeatures=[];
-        collections.forEach(col=>{if(col&&col.features)allFeatures.push(...col.features);});
-        if(!allFeatures.length){ntf('Shapefile boş!','err');return;}
-        processGeoJSON({type:'FeatureCollection',features:allFeatures});
-      }catch(err){console.error(err);ntf('Shapefile okunamadı! ZIP içinde .shp .dbf .prj olmalı.','err');}
-    };
-    reader.readAsArrayBuffer(file);
-    return;
-  }
-  const r=new FileReader();
-  r.onload=e=>{
-    try{
-      const parsed=JSON.parse(e.target.result);
-      if(parsed.type==='FeatureCollection'&&Array.isArray(parsed.features)){
-        processGeoJSON(parsed);
-      }else if(Array.isArray(parsed)){
-        const imported=parsed;imported.forEach(d=>{if(!d.id)d.id=uid();});
-        if(!imported.length){ntf('Hiç kayıt bulunamadı!','err');return;}
-        showCatMap(imported);
-      }else throw new Error();
-    }catch(err){console.error(err);ntf('Geçersiz dosya formatı!','err');}
-  };
-  r.readAsText(file);
-}
-
-function rstD(){document.getElementById('ctxt').textContent='Tüm veriler silinecek. Harita tamamen boşalacak. Devam etmek istiyor musunuz?';document.getElementById('cok').textContent='Onayla';confCb=()=>{data=[];save();renderAll();ntf('Tüm veriler silindi.','ok');};document.getElementById('cov').classList.add('open');}
-
-/* ══════════════════════════════════════════
-   BİLDİRİM
-══════════════════════════════════════════ */
-function ntf(msg,type='ok'){const el=document.createElement('div');el.className=`ni ${type}`;el.textContent=(type==='ok'?'✅ ':'⚠️ ')+msg;document.getElementById('notif').appendChild(el);setTimeout(()=>el.remove(),4500);}
-
-/* ══════════════════════════════════════════
-   EVENT LISTENERS
-══════════════════════════════════════════ */
-let dark=true;
-document.getElementById('thbtn').addEventListener('click',()=>{dark=!dark;document.body.setAttribute('data-theme',dark?'dark':'light');document.getElementById('thbtn').textContent=dark?'🌙':'☀️';});
-document.getElementById('adminbtn').addEventListener('click',()=>{if(isAdmin)adminLogout();else requireAdmin(()=>ntf('Admin girişi yapıldı ✓','ok'));});
-document.getElementById('addbtn').addEventListener('click',()=>requireAdmin(openAdd));
-document.getElementById('mcls').addEventListener('click',closeMod);
-document.getElementById('mcan').addEventListener('click',closeMod);
-document.getElementById('msav').addEventListener('click',savRec);
-document.getElementById('mov').addEventListener('click',e=>{if(e.target===document.getElementById('mov'))closeMod();});
-document.getElementById('pkbtn').addEventListener('click',()=>{if(pkMode){exitPk();return;}enterPk();pkCb=(lat,lng)=>{document.getElementById('flat').value=lat.toFixed(6);document.getElementById('flng').value=lng.toFixed(6);ntf(`Koordinat: ${lat.toFixed(4)}, ${lng.toFixed(4)}`,'ok');};});
-document.getElementById('ccan').addEventListener('click',()=>{document.getElementById('cov').classList.remove('open');confCb=null;});
-document.getElementById('cok').addEventListener('click',()=>{document.getElementById('cov').classList.remove('open');if(confCb)confCb();confCb=null;});
-document.getElementById('sinp').addEventListener('input',e=>{fTxt=e.target.value;applyF();if(fTxt.length>2){const f=data.find(d=>d.ad.toLowerCase().includes(fTxt.toLowerCase())||(d.il||'').toLowerCase().includes(fTxt.toLowerCase()));if(f&&f.koordinatlar?.lat)map.setView([f.koordinatlar.lat,f.koordinatlar.lng],10);}});
-document.getElementById('fil').addEventListener('change',e=>{
-  fIl=e.target.value;
-  fIlce='';
-  const ilceSelect=document.getElementById('filce');
-  ilceSelect.innerHTML='<option value="">— Tüm İlçeler —</option>';
-  if(fIl && ILCELER[fIl]){
-    ILCELER[fIl].forEach(ilce=>{
-      const opt=document.createElement('option');
-      opt.value=ilce;opt.textContent=ilce;
-      ilceSelect.appendChild(opt);
-    });
-    ilceSelect.style.display='block';
-  } else {
-    ilceSelect.style.display='none';
-  }
-  applyF();
-});
-document.getElementById('filce').addEventListener('change',e=>{fIlce=e.target.value;applyF();});
-document.getElementById('fdrm').addEventListener('change',e=>{fDrm=e.target.value;applyF();});
-document.getElementById('expbtn_all').addEventListener('click', expD_all);
-document.getElementById('expbtn').addEventListener('click', expD);
-document.getElementById('expgeobtn').addEventListener('click',expGeoJSON);
-document.getElementById('impbtn').addEventListener('click',()=>document.getElementById('impfile').click());
-document.getElementById('impfile').addEventListener('change',e=>{if(e.target.files[0])impD(e.target.files[0]);e.target.value='';});
-document.getElementById('rstbtn').addEventListener('click',rstD);
-document.getElementById('listtog').addEventListener('click',()=>{const o=document.getElementById('listpanel').classList.toggle('open');document.getElementById('listtog').textContent=o?'✕ Kapat':'📋 Liste';});
-document.getElementById('lclose').addEventListener('click',()=>{document.getElementById('listpanel').classList.remove('open');document.getElementById('listtog').textContent='📋 Liste';});
-function openPanel(){document.getElementById('panel').classList.add('open');document.getElementById('overlay-bg').classList.add('open');}
-function closePanel(){document.getElementById('panel').classList.remove('open');document.getElementById('overlay-bg').classList.remove('open');}
-document.getElementById('paneltog').addEventListener('click',()=>{document.getElementById('panel').classList.contains('open')?closePanel():openPanel();});
-document.getElementById('overlay-bg').addEventListener('click',closePanel);
-
-window.doEdit=doEdit;window.doDel=doDel;window.focR=focR;
-window.checkAdmin=checkAdmin;window.closeAdminMod=closeAdminMod;
-window.requireAdmin=requireAdmin;window.updateFormIlce=updateFormIlce;
-window.onCatChange=onCatChange;window.applyCatMap=applyCatMap;window.cancelCatMap=cancelCatMap;
-
-window.addEventListener('load', ()=>{
-  setTimeout(()=>{ load(); updateAdminUI(); }, 500);
-});
-</script>
-</body>
-</html>
+  data.forEach(r=>{const m=mkrs[r.id];if(!m)return;const show=!!fil.find(f=>f.id===r.id)&&vis[r.tip];const lg=lgs[r.tip];if(!lg)return;if(show&&!lg.hasLayer(m))lg.addLayer(m);if(!sho
