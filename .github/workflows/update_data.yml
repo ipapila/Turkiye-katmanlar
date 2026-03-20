@@ -1,31 +1,32 @@
-name: Update Map Data
+name: Otomatik Veri Güncelleme
 
 on:
-  workflow_dispatch: # Manuel olarak çalıştırmak için
+  workflow_dispatch: # Manuel tetikleme için
   schedule:
-    - cron: '0 4 * * *' # Her gün UTC 04:00'te çalışır (TSİ 07:00)
+    - cron: '0 4 * * *' # Her gün UTC 04:00'te (TSİ sabah 7) çalışır
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Depoyu Kopyala
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Python Ortamını Kur
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Bağımlılıkları Yükle
         run: pip install requests
 
-      - name: Run data update script
+      - name: Veri Güncelleme Scriptini Çalıştır
         run: python guncelle.py
 
-      - name: Commit and push if there are changes
+      - name: Değişiklikleri Kaydet ve Yükle
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add data.json geocode_cache.json
+          # Sadece değişiklik varsa commit at
           git diff --staged --quiet || (git commit -m "📊 Otomatik Veri Güncelleme: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
