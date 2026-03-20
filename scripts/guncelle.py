@@ -123,6 +123,100 @@ def reverse_geocode(lat, lng):
     _geocode_cache[key] = result
     return result
 
+def guess_ilce_bbox(lat, lng, il=''):
+    """Koordinattan ilçe tahmini — detaylı bbox"""
+    ILCE_BOXES = {
+        # Antalya ilçeleri
+        'Kemer':     (36.35,36.65,30.35,30.75),
+        'Manavgat':  (36.70,37.20,31.30,32.10),
+        'Alanya':    (36.40,36.85,31.75,32.40),
+        'Kaş':       (36.10,36.40,29.00,30.00),
+        'Demre':     (36.10,36.45,29.85,30.30),
+        'Finike':    (36.20,36.55,30.05,30.65),
+        'Kumluca':   (36.25,36.65,30.10,30.75),
+        'Serik':     (36.75,37.10,30.95,31.55),
+        'Kepez':     (36.95,37.10,30.60,30.90),
+        'Muratpaşa': (36.82,36.98,30.60,30.90),
+        'Konyaaltı': (36.82,37.05,30.45,30.75),
+        'Döşemealtı':(36.92,37.18,30.38,30.72),
+        'Akseki':    (36.90,37.45,31.45,32.15),
+        'Elmalı':    (36.45,37.10,29.55,30.45),
+        'Korkuteli': (36.92,37.35,29.95,30.58),
+        'Gazipaşa':  (36.20,36.58,32.05,32.65),
+        'Gündoğmuş': (36.65,37.15,31.70,32.35),
+        'İbradı':    (36.95,37.45,31.40,32.05),
+        'Aksu':      (36.80,37.12,30.78,31.25),
+        # Muğla ilçeleri
+        'Bodrum':    (36.95,37.20,27.20,27.65),
+        'Fethiye':   (36.50,37.00,28.85,29.45),
+        'Marmaris':  (36.70,37.05,27.95,28.50),
+        'Milas':     (37.05,37.45,27.55,28.20),
+        'Datça':     (36.65,36.90,27.30,27.90),
+        'Köyceğiz':  (36.85,37.25,28.45,28.90),
+        'Ortaca':    (36.75,37.00,28.70,29.10),
+        'Dalaman':   (36.72,36.95,28.68,29.00),
+        'Menteşe':   (37.05,37.40,28.15,28.65),
+        'Yatağan':   (37.25,37.55,28.05,28.50),
+        'Ula':       (37.00,37.35,28.35,28.80),
+        'Seydikemer':(36.55,36.95,28.80,29.40),
+        # İzmir ilçeleri
+        'Konak':     (38.38,38.48,27.10,27.20),
+        'Bornova':   (38.42,38.55,27.15,27.35),
+        'Karşıyaka': (38.44,38.52,27.05,27.18),
+        'Aliağa':    (38.75,39.00,26.85,27.05),
+        'Bergama':   (38.95,39.35,27.00,27.45),
+        'Selçuk':    (37.90,38.05,27.30,27.60),
+        'Kuşadası':  (37.82,37.98,27.22,27.45),
+        'Çeşme':     (38.25,38.45,26.25,26.48),
+        'Urla':      (38.28,38.48,26.72,27.02),
+        # Ankara ilçeleri
+        'Çankaya':   (39.85,39.98,32.70,32.90),
+        'Keçiören':  (39.96,40.05,32.82,32.98),
+        'Yenimahalle':(39.90,40.05,32.58,32.82),
+        'Altındağ':  (39.93,40.02,32.88,33.02),
+        'Sincan':    (39.95,40.10,32.52,32.72),
+        'Etimesgut': (39.92,40.00,32.62,32.78),
+        'Mamak':     (39.88,39.98,32.95,33.12),
+        'Gölbaşı':   (39.68,39.90,32.72,32.98),
+        # İstanbul ilçeleri
+        'Kadıköy':   (40.96,41.02,29.02,29.12),
+        'Beşiktaş':  (41.03,41.08,28.98,29.05),
+        'Beyoğlu':   (41.02,41.06,28.95,29.02),
+        'Üsküdar':   (41.00,41.08,29.02,29.12),
+        'Fatih':     (41.00,41.04,28.90,29.00),
+        'Şişli':     (41.05,41.10,28.97,29.04),
+        'Bakırköy':  (40.96,41.02,28.82,28.92),
+        'Beykoz':    (41.05,41.22,29.05,29.30),
+        'Pendik':    (40.85,40.97,29.18,29.40),
+        'Maltepe':   (40.90,40.98,29.12,29.22),
+        'Kartal':    (40.88,40.96,29.18,29.28),
+        'Ataşehir':  (40.96,41.02,29.09,29.18),
+        'Çekmeköy':  (41.00,41.12,29.15,29.30),
+        'Sancaktepe':(40.96,41.05,29.18,29.30),
+        'Sultanbeyli':(40.95,41.02,29.25,29.35),
+        'Tuzla':     (40.82,40.92,29.28,29.45),
+        'Gebze':     (40.78,40.88,29.38,29.55),  # Kocaeli
+        'Arnavutköy':(41.15,41.28,28.62,28.82),
+        'Başakşehir':(41.05,41.15,28.72,28.92),
+        'Beylikdüzü':(40.98,41.05,28.62,28.78),
+        'Büyükçekmece':(41.00,41.08,28.52,28.72),
+        'Çatalca':   (41.12,41.35,28.32,28.68),
+        'Silivri':   (41.02,41.18,27.98,28.42),
+        'Avcılar':   (40.96,41.02,28.70,28.82),
+        'Güngören':  (41.01,41.05,28.86,28.92),
+        'Bağcılar':  (41.03,41.08,28.82,28.92),
+        'Bahçelievler':(41.00,41.05,28.82,28.90),
+        'Esenler':   (41.03,41.08,28.85,28.96),
+        'Bayrampaşa':(41.04,41.08,28.90,28.97),
+        'Gaziosmanpaşa':(41.05,41.12,28.90,29.00),
+        'Sultangazi': (41.09,41.16,28.88,29.00),
+        'Eyüpsultan':(41.05,41.14,28.90,29.02),
+    }
+    for ilce, (la1,la2,ln1,ln2) in ILCE_BOXES.items():
+        if la1<=lat<=la2 and ln1<=lng<=ln2:
+            return ilce
+    return ''
+
 def guess_il_bbox(lat, lng):
     """Bounding box ile il tahmini (yedek)"""
     for il, (la1, la2, ln1, ln2) in IL_BOXES.items():
@@ -496,20 +590,23 @@ def main():
     except Exception as e:
         print(f"  Mevcut veri alinamadi: {e}")
 
-    # Mevcut kayitlarda bos il/ilce varsa doldur (max 100 kayit)
+    # Mevcut kayitlarda bos il/ilce varsa doldur (bbox ile hizli)
     print("Bos il/ilce bilgileri dolduruluyor...")
-    empty_records = [r for r in manuel if (not r.get('il') or not r.get('ilce'))
+    empty_records = [r for r in manuel if (not r.get('il') or r.get('il') == 'Türkiye' or not r.get('ilce'))
                     and r.get('koordinatlar',{}).get('lat',0)]
     print(f"  Bos il/ilce olan kayit: {len(empty_records)}")
     filled = 0
-    for r in empty_records[:100]:  # Max 100
+    for r in empty_records:
         lat = r.get('koordinatlar',{}).get('lat',0)
         lng = r.get('koordinatlar',{}).get('lng',0)
-        il, ilce = reverse_geocode(lat, lng)
-        if not r.get('il') and il:
-            r['il'] = il
-        if not r.get('ilce') and ilce:
-            r['ilce'] = ilce
+        if not lat or not lng:
+            continue
+        il_bbox = guess_il_bbox(lat, lng)
+        if not r.get('il') or r.get('il') == 'Türkiye':
+            r['il'] = il_bbox
+        # Ilce icin de detayli bbox dene
+        if not r.get('ilce'):
+            r['ilce'] = guess_ilce_bbox(lat, lng, il_bbox)
         filled += 1
     print(f"  {filled} kayit guncellendi")
 
