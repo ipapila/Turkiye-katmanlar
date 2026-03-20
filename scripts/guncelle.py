@@ -1,24 +1,44 @@
-import os, json, time, random, requests, traceback
+import os, json, time, random, requests, traceback, base64
 from datetime import datetime
 
-# ── Firebase Admin SDK ──────────────────────────────────────────
-import firebase_admin
-from firebase_admin import credentials, firestore
+GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
+GITHUB_REPO  = 'ipapila/Turkiye-katmanlar'
+GITHUB_FILE  = 'data.json'
+API_URL      = f'https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE}'
+RAW_URL      = f'https://raw.githubusercontent.com/{GITHUB_REPO}/main/{GITHUB_FILE}'
 
-def init_firebase():
-    project_id   = os.environ['FIREBASE_PROJECT_ID']
-    private_key  = os.environ['FIREBASE_PRIVATE_KEY'].replace('\\n', '\n')
-    client_email = os.environ['FIREBASE_CLIENT_EMAIL']
+def github_headers():
+    return {
+        'Authorization': f'token {GITHUB_TOKEN}',
+        'Accept': 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+    }
 
-    cred = credentials.Certificate({
-        "type": "service_account",
-        "project_id": project_id,
-        "private_key": private_key,
-        "client_email": client_email,
-        "token_uri": "https://oauth2.googleapis.com/token",
-    })
-    firebase_admin.initialize_app(cred)
-    return firestore.client()
+def read_data():
+    """Mevcut data.json'u GitHub'dan oku"""
+    r = requests.get(RAW_URL + '?t=' + str(int(time.time())), timeout=30)
+    if r.status_code == 404:
+        return [], None
+    r.raise_for_status()
+    data = r.json()
+    # SHA almak için API'ye sor
+    r2 = requests.get(API_URL, headers=github_headers(), timeout=30)
+    sha = r2.json().get('sha') if r2.ok else None
+    return data, sha
+
+def write_data(data, sha=None):
+    """data.json'u GitHub'a yaz"""
+    content = base64.b64encode(json.dumps(data, ensure_ascii=False, indent=2).encode()).decode()
+    body = {
+        'message': f'Otomatik guncelleme {datetime.utcnow().strftime("%Y-%m-%d %H:%M")} UTC',
+        'content': content
+    }
+    if sha:
+        body['sha'] = sha
+    r = requests.put(API_URL, headers=github_headers(), json=body, timeout=60)
+    if not r.ok:
+        raise Exception(f'GitHub write failed: {r.status_code} {r.text[:200]}')
+    return r.json().get('content', {}).get('sha')
 
 # ── Yardımcı fonksiyonlar ────────────────────────────────────────
 def uid():
@@ -293,53 +313,35 @@ def fetch_depremler():
 # ── ANA FONKSİYON ─────────────────────────────────────────────
 def main():
     print(f"\n{'='*50}")
-    print(f"🚀 Güncelleme başladı: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}")
+    print(f"Guncelleme: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}")
     print(f"{'='*50}\n")
 
-    # Firebase'e bağlan
-    db = init_firebase()
-    doc_ref = db.collection('harita').document('veriler')
-
-    # Mevcut manuel kayıtları al (silinmesin)
-    print("📥 Mevcut veriler alınıyor...")
-    existing = []
+    # Mevcut data.json'u oku
+    print("Mevcut veriler okunuyor...")
+    existing, sha = [], None
     try:
-        snap = doc_ref.get()
-        if snap.exists:
-            existing = snap.to_dict().get('alanlar', [])
-            print(f"  Mevcut kayıt: {len(existing)}")
+        existing, sha = read_data()
+        print(f"  Mevcut kayit: {len(existing)}")
     except Exception as e:
-        print(f"  Mevcut veri alınamadı: {e}")
+        print(f"  Mevcut veri alinamadi: {e}")
 
-    # Manuel eklenen kayıtları koru (kaynak='Manuel' veya 'Admin')
-    manuel = [r for r in existing if r.get('kaynak') in ('Manuel', 'Admin', '') or 
-              not r.get('kaynak','').startswith(('WDPA','OSM','GFW','NASA','USGS','GEM','DSİ'))]
-    print(f"  Manuel kayıt korunuyor: {len(manuel)}")
+    # Manuel kayitlari koru
+    auto_sources = ('WDPA','OSM','NASA','USGS','UNESCO','FIRMS','auto_')
+    manuel = [r for r in existing if not any(
+        r.get('kaynak','').startswith(s) or r.get('id','').startswith('auto_')
+        for s in auto_sources
+    )]
+    print(f"  Manuel kayit korunuyor: {len(manuel)}")
 
-    # Yeni verileri çek
+    # Yeni verileri cek
     yeni = []
-    
-    try:
-        yeni += fetch_wdpa()
-    except Exception as e:
-        print(f"❌ WDPA hatası: {e}")
+    for fn in [fetch_unesco, fetch_osm_kultur, fetch_wdpa, fetch_osm_data, fetch_gfw, fetch_depremler]:
+        try:
+            yeni += fn()
+        except Exception as e:
+            print(f"HATA {fn.__name__}: {e}")
 
-    try:
-        yeni += fetch_osm_data()
-    except Exception as e:
-        print(f"❌ OSM hatası: {e}")
-
-    try:
-        yeni += fetch_gfw()
-    except Exception as e:
-        print(f"❌ GFW hatası: {e}")
-
-    try:
-        yeni += fetch_depremler()
-    except Exception as e:
-        print(f"❌ Deprem hatası: {e}")
-
-    # ID ile deduplicate
+    # Deduplicate
     seen = set()
     yeni_unique = []
     for r in yeni:
@@ -347,27 +349,23 @@ def main():
             seen.add(r['id'])
             yeni_unique.append(r)
 
-    # Manuel + Yeni birleştir
-    # Eski otomatik kayıtların ID'lerini temizle, yeni gelenleri ekle
     tum_veri = manuel + yeni_unique
 
     print(f"\n{'='*50}")
-    print(f"📊 Sonuç:")
-    print(f"  Manuel kayıt: {len(manuel)}")
-    print(f"  Otomatik kayıt: {len(yeni_unique)}")
-    print(f"  TOPLAM: {len(tum_veri)}")
+    print(f"Manuel: {len(manuel)} | Otomatik: {len(yeni_unique)} | TOPLAM: {len(tum_veri)}")
     print(f"{'='*50}")
 
-    # Firebase'e yaz
-    print("\n💾 Firebase'e yazılıyor...")
+    # GitHub'a yaz
+    print("\nGitHub'a yaziliyor...")
     try:
-        doc_ref.set({'alanlar': tum_veri, 'guncelleme': today()})
-        print(f"✅ {len(tum_veri)} kayıt başarıyla yazıldı!")
+        new_sha = write_data(tum_veri, sha)
+        print(f"OK: {len(tum_veri)} kayit yazildi! SHA: {new_sha[:8] if new_sha else '?'}")
     except Exception as e:
-        print(f"❌ Firebase yazma hatası: {e}")
+        print(f"HATA: {e}")
         traceback.print_exc()
+        raise
 
-    print(f"\n✅ Güncelleme tamamlandı: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n")
+    print(f"\nTamamlandi: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n")
 
 if __name__ == '__main__':
     main()
