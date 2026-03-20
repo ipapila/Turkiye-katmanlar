@@ -80002,53 +80002,155 @@
     "kaynak": "OSM/Kale"
   },
   {
-    "id": "osm_2294534831",
-    "tip": "HES",
-    "ad": "ნაბეღლავჰესი",
-    "il": "Türkiye",
+    "id": "osm_252585",
+    "tip": "Milli Park",
+    "ad": "Göreme Tarihî Parkı",
+    "il": "Kayseri",
     "ilce": "",
-    "aciklama": "int_name=Nabeghlavhesi | plant:source=hydro | power=plant",
+    "aciklama": "boundary=national_park | heritage=1 | heritage:operator=whc | leisure=nature_reserve",
     "koordinatlar": {
-      "lat": 41.954173,
-      "lng": 42.316718
+      "lat": 38.650219,
+      "lng": 34.852105
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "2294534831",
+    "belge_no": "252585",
     "eklenme": "2026-03-20",
     "kaynak": "OSM"
   },
   {
-    "id": "osm_7712292683",
-    "tip": "HES",
-    "ad": "ხრამჰესი II",
-    "il": "Türkiye",
+    "id": "osm_1197579",
+    "tip": "Milli Park",
+    "ad": "Dilek Yarımadası Millî Parkı",
+    "il": "İzmir",
     "ilce": "",
-    "aciklama": "layer=-1 | location=underground | name:en=Khrami 2 HPP | plant:output:electricity=110 MW",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Nationalpark Dilek-Halbinsel | name:en=Dilek Peninsula National Park",
     "koordinatlar": {
-      "lat": 41.466206,
-      "lng": 44.235442
+      "lat": 37.582586,
+      "lng": 27.12511
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "7712292683",
+    "belge_no": "1197579",
     "eklenme": "2026-03-20",
     "kaynak": "OSM"
   },
   {
-    "id": "osm_7712295203",
-    "tip": "HES",
-    "ad": "Skhalta HPP",
-    "il": "Artvin",
+    "id": "osm_1715973",
+    "tip": "Milli Park",
+    "ad": "Kızıldağ Millî Parkı",
+    "il": "Isparta",
     "ilce": "",
-    "aciklama": "name:en=Skhalta HPP | operator=Adjaristsqali Georgia LLC | plant:output:electricity=9.8 MW | plant:source=hydro",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Kızıldağ National Park | name:tr=Kızıldağ Millî Parkı",
     "koordinatlar": {
-      "lat": 41.572015,
-      "lng": 42.375668
+      "lat": 37.764985,
+      "lng": 31.259285
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "7712295203",
+    "belge_no": "1715973",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_1715974",
+    "tip": "Milli Park",
+    "ad": "Beyşehir Gölü Millî Parkı",
+    "il": "Isparta",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Lake Beyşehir National Park | name:tr=Beyşehir Gölü Millî Parkı",
+    "koordinatlar": {
+      "lat": 37.71068,
+      "lng": 31.496295
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1715974",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_1715983",
+    "tip": "Milli Park",
+    "ad": "Çanakkale Savaşları Gelibolu Tarihî Alanı",
+    "il": "Çanakkale",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Gallipoli Peninsula Historical National Park | name:ru=Исторический национальный парк «Галлипольский полуостров»",
+    "koordinatlar": {
+      "lat": 40.204565,
+      "lng": 26.301902
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1715983",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_7621483",
+    "tip": "Milli Park",
+    "ad": "Mtirala Milli Parkı",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Mtirala-Nationalpark | name:en=Mtirala National Park",
+    "koordinatlar": {
+      "lat": 41.660111,
+      "lng": 41.847404
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "7621483",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_11201845",
+    "tip": "Milli Park",
+    "ad": "Botan Vadisi Millî Parkı",
+    "il": "Siirt",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Botan Valley National Park | name:ku=Parka Neteweyî ya Geliyê Botan",
+    "koordinatlar": {
+      "lat": 37.893525,
+      "lng": 41.972435
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11201845",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_11202937",
+    "tip": "Milli Park",
+    "ad": "Marmaris Millî Parkı",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Nationalpark Marmaris | name:en=Marmaris National Park",
+    "koordinatlar": {
+      "lat": 36.836817,
+      "lng": 28.378652
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11202937",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_11205135",
+    "tip": "Milli Park",
+    "ad": "Sakarya Meydan Muharebesi Tarihî Millî Parkı",
+    "il": "Ankara",
+    "ilce": "",
+    "aciklama": "alt_name=Sakarya National Park;Sakarya Millî Parkı | area=yes | boundary=national_park | name:en=Battle of Sakarya National Historic Park",
+    "koordinatlar": {
+      "lat": 39.417781,
+      "lng": 32.257018
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11205135",
     "eklenme": "2026-03-20",
     "kaynak": "OSM"
   },
