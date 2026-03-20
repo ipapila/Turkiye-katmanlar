@@ -223,10 +223,12 @@ body.pkmode #map{cursor:crosshair !important;}
 
       <div class="sec admin-only" style="display:none">Veri Yönetimi</div>
       <div class="dtb admin-only" style="display:none">
-        <button class="hbtn" id="expbtn">📥 JSON</button>
-        <button class="hbtn" id="expgeobtn">🗺 GeoJSON</button>
+        <button class="hbtn" id="expbtn">📥 JSON İndir (Seçili)</button>
+        <button class="hbtn" id="expgeobtn">🗺 GeoJSON İndir (Seçili)</button>
         <button class="hbtn" id="impbtn">📤 Yükle (JSON/GeoJSON/SHP)</button>
-<button class="hbtn" id="expbtn_all" title="Tüm veriyi JSON olarak indir ve GitHub'a yükle" style="border-color:var(--accent);color:var(--accent)">☁️ Güncel Veriyi İndir</button>        <button class="hbtn" id="rstbtn">🔄 Sıfırla</button>
+        <!-- DÜZELTME: Bu buton artık GitHub'a yazmıyor, tüm veriyi indiriyor. -->
+        <button class="hbtn" id="expbtn_all" title="Tüm veriyi JSON olarak indir ve GitHub'a yükle" style="border-color:var(--accent);color:var(--accent)">☁️ Güncel Veriyi İndir</button>
+        <button class="hbtn" id="rstbtn">🔄 Sıfırla</button>
       </div>
       <input type="file" id="impfile" accept=".json,.geojson,.zip" style="display:none"/>
     </div>
@@ -395,15 +397,12 @@ body.pkmode #map{cursor:crosshair !important;}
 <script src="https://unpkg.com/shpjs@latest/dist/shp.js"></script>
 <script>
 /* ══════════════════════════════════════════
-   AYARLAR — GitHub'a yüklemeden önce doldurun
-══════════════════════════════════════════ */
-/* ══════════════════════════════════════════
-   AYARLAR
-══════════════════════════════════════════ */
-/* ══════════════════════════════════════════
    AYARLAR
 ══════════════════════════════════════════ */
 const ADMIN_PASS = 'ekoloji2026';
+// DÜZELTME: GitHub repo bilgisi eklendi. 'kullanici/repo' formatında olmalı.
+const GITHUB_REPO  = 'ipapila/Turkiye-katmanlar';
+const RAW_URL      = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/data.json`;
 
 /* ══════════════════════════════════════════
    ALAN TÜRLERİ
@@ -431,11 +430,6 @@ const SK='turkiye_harita_v1';
 
 function uid(){return 'r'+Math.random().toString(36).substr(2,9)+Date.now();}
 function tod(){return new Date().toISOString().split('T')[0];}
-
-/* ══════════════════════════════════════════
-   ÖRNEK BAŞLANGIÇ VERİLERİ (Türkiye geneli)
-══════════════════════════════════════════ */
-const DD=[];
 
 /* ══════════════════════════════════════════
    STATE
@@ -604,12 +598,10 @@ function remMkr(id){if(!mkrs[id])return;const r=data.find(d=>d.id===id);if(r)lgs
 /* ══════════════════════════════════════════
    VERİ
 ══════════════════════════════════════════ */
-/* EPSG:3857 koordinatları varsa WGS84'e çevir */
 function fixCoords(records){
   return records.map(r=>{
     if(!r.koordinatlar||!r.koordinatlar.lat) return r;
     const {lat,lng}=r.koordinatlar;
-    // EPSG:3857 değerleri 180'den büyük olur
     if(Math.abs(lng)>180||Math.abs(lat)>90){
       const [wlat,wlng]=merc2ll(lng,lat);
       return {...r,koordinatlar:{lat:parseFloat(wlat.toFixed(6)),lng:parseFloat(wlng.toFixed(6))}};
@@ -618,95 +610,48 @@ function fixCoords(records){
   });
 }
 
-const GITHUB_REPO  = 'ipapila/Turkiye-katmanlar';
-const RAW_URL      = 'https://raw.githubusercontent.com/ipapila/Turkiye-katmanlar/main/data.json';
-const API_URL      = 'https://api.github.com/repos/ipapila/Turkiye-katmanlar/contents/data.json';
-
-// Not: Yazma islemi icin admin panelinden JSON indirip
-// GitHub'a manuel yukleyin veya Actions kullanin.
-let fileSHA = null;
-
 async function load(){
   try{
-    console.log('data.json yukleniyor...');
+    ntf('Veriler yükleniyor...', 'ok');
+    // Cache-busting için rastgele bir parametre ekliyoruz.
     const res = await fetch(RAW_URL + '?t=' + Date.now());
     if(!res.ok) throw new Error('HTTP ' + res.status);
     const remote = await res.json();
-    console.log('Kayit sayisi:', Array.isArray(remote) ? remote.length : 0);
-    data = Array.isArray(remote) && remote.length > 0 ? fixCoords(remote) : [];
+    data = Array.isArray(remote) ? fixCoords(remote) : [];
     localStorage.setItem(SK, JSON.stringify(data));
-    ntf(data.length + ' kayit yuklendi', 'ok');
+    ntf(data.length + ' kayıt başarıyla yüklendi.', 'ok');
   }catch(e){
-    console.error('Load hatasi:', e.message);
+    console.error('Veri yükleme hatası:', e.message);
     const s = localStorage.getItem(SK);
     data = s ? fixCoords(JSON.parse(s)) : [];
-    if(data.length > 0) ntf('Cevrimdisi mod - ' + data.length + ' kayit', 'err');
+    if(data.length > 0) ntf('Çevrimdışı modda çalışılıyor. ' + data.length + ' kayıt yüklendi.', 'err');
+    else ntf('Veri yüklenemedi. Lütfen internet bağlantınızı kontrol edin.', 'err');
   }
   renderAll();
 }
 
-async function save(){
+function save(){
   localStorage.setItem(SK, JSON.stringify(data));
-  console.log('Yerel kayit tamam, toplam:', data.length);
+  console.log('Yerel depolama güncellendi:', data.length);
 }
 
-function saveToGitHub(){
-  // JSON indir ve GitHub'a yukle talimatı
+// DÜZELTME: Bu fonksiyon artık GitHub'a yazmıyor, tüm veriyi indiriyor.
+function expD_all(){
   const blob = new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
-  a.download = 'data.json';
+  a.download = 'data.json'; // Dosya adı her zaman data.json olmalı.
   a.click();
-  ntf('data.json indirildi → GitHub\'a yükleyin', 'ok');
+  URL.revokeObjectURL(a.href);
+  ntf('data.json indirildi. Değişiklikleri kalıcı yapmak için bu dosyayı GitHub\'a yükleyin.', 'ok');
 }
 
-async function triggerSync(){
-  const btn = document.getElementById('ghsavebtn');
-  btn.textContent = '⏳ Kaydediliyor...';
-  btn.disabled = true;
-  try{
-    // 1. Önce data.json'u direkt GitHub API ile yaz
-    const shaRes = await fetch(API_URL+'?t='+Date.now());
-    let sha = null;
-    if(shaRes.ok){ const j=await shaRes.json(); if(!j.message) sha=j.sha; }
+// DÜZELTME: Bu tehlikeli fonksiyon tamamen kaldırıldı.
+/*
+async function triggerSync(){ ... }
+*/
 
-    const content = btoa(unescape(encodeURIComponent(JSON.stringify(data,null,2))));
-    const putBody = {
-      message: 'Harita verisi guncellendi '+tod(),
-      content
-    };
-    if(sha) putBody.sha = sha;
-
-    // WRITE_TOKEN — sadece repo yazma yetkisi
-    const wt = atob('Z2hwX09BV1JIampBUnV0aEFHcUxlQTR1dnY5YlpCT0hRVjJERU5tRA==');
-    const putRes = await fetch(API_URL,{
-      method:'PUT',
-      headers:{
-        'Authorization':'token '+wt,
-        'Accept':'application/vnd.github.v3+json',
-        'Content-Type':'application/json'
-      },
-      body:JSON.stringify(putBody)
-    });
-
-    if(putRes.ok){
-      ntf('✅ Kaydedildi! Herkes görebilir.','ok');
-      btn.textContent = '✅ Kaydedildi';
-      setTimeout(()=>{ btn.textContent='☁️ Kaydet'; btn.disabled=false; }, 3000);
-    } else {
-      const err = await putRes.json();
-      throw new Error(err.message || putRes.status);
-    }
-  }catch(e){
-    console.error('Sync hatası:', e.message);
-    // Fallback: JSON indir
-    saveToGitHub();
-    ntf('Otomatik kayıt başarısız, JSON indirildi → GitHub\'a yükleyin','err');
-    btn.textContent = '☁️ Kaydet';
-    btn.disabled = false;
-  }
-}
-function renderAll(){Object.keys(mkrs).forEach(id=>{const r=data.find(d=>d.id===id);if(r)lgs[r.tip]?.removeLayer(mkrs[id]);});mkrs={};data.forEach(r=>addMkr(r));applyF();buildLG();}
+function renderAll(){Object.keys(mkrs).forEach(id=>{const r=data.find(d=>d.id===id);if(r && lgs[r.tip])lgs[r.tip].removeLayer(mkrs[id]);});mkrs={};data.forEach(r=>addMkr(r));applyF();buildLG();}
 function applyF(){
   const q=fTxt.toLowerCase();
   const fil=data.filter(r=>{
@@ -744,7 +689,7 @@ function updCnts(){TYPES.forEach(t=>{const el=document.getElementById('lc_'+t.ke
 function updateFormIlce(){
   const il=document.getElementById('fil2').value;
   const sel=document.getElementById('filce2');
-  sel.innerHTML='<option value="">— Tüm İlçeler —</option>';
+  sel.innerHTML='<option value="">— İlçe Seçin —</option>';
   if(il && ILCELER[il]){
     ILCELER[il].forEach(ilce=>{const o=document.createElement('option');o.value=ilce;o.textContent=ilce;sel.appendChild(o);});
   }
@@ -783,11 +728,11 @@ function exitPk(){pkMode=false;document.body.classList.remove('pkmode');document
 /* ══════════════════════════════════════════
    IMPORT / EXPORT
 ══════════════════════════════════════════ */
-function expD(){const b=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=`turkiye-alan-${tod()}.json`;a.click();ntf('Veri indirildi ✓','ok');}
+function expD(){const b=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=`turkiye-alan-${tod()}.json`;a.click();URL.revokeObjectURL(a.href);ntf('Veri indirildi ✓','ok');}
 
 function expGeoJSON(){
   const geojson={type:'FeatureCollection',name:'Türkiye Alan Yönetim Haritası',crs:{type:'name',properties:{name:'urn:ogc:def:crs:OGC:1.3:CRS84'}},features:data.filter(r=>r.koordinatlar&&r.koordinatlar.lat&&r.koordinatlar.lng).map(r=>({type:'Feature',properties:{id:r.id,ad:r.ad,tip:r.tip,il:r.il,aciklama:r.aciklama||'',alan_ha:r.alan_ha||0,durum:r.durum||'',belge_no:r.belge_no||'',kaynak:r.kaynak||'',eklenme:r.eklenme||''},geometry:{type:'Point',coordinates:[r.koordinatlar.lng,r.koordinatlar.lat]}}))};
-  const b=new Blob([JSON.stringify(geojson,null,2)],{type:'application/geo+json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=`turkiye-alan-${tod()}.geojson`;a.click();ntf(`${geojson.features.length} kayıt GeoJSON olarak indirildi ✓`,'ok');
+  const b=new Blob([JSON.stringify(geojson,null,2)],{type:'application/geo+json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=`turkiye-alan-${tod()}.geojson`;a.click();URL.revokeObjectURL(a.href);ntf(`${geojson.features.length} kayıt GeoJSON olarak indirildi ✓`,'ok');
 }
 
 function guessTip(p){
@@ -826,7 +771,6 @@ function merc2ll(x,y){
 
 /* Koordinat sistemini otomatik algıla ve WGS84'e çevir */
 function normCoord(x,y){
-  // EPSG:3857 değerleri genelde 1M'den büyük olur
   if(Math.abs(x)>180||Math.abs(y)>90){
     return merc2ll(x,y);
   }
@@ -854,7 +798,6 @@ function geomCentroid(geom){
 let pendingImport = [];
 
 function showCatMap(imported){
-  // Mevcut kategorilere göre grupla
   const groups = {};
   imported.forEach(r => {
     const k = r.tip || 'Bilinmiyor';
@@ -917,7 +860,6 @@ function applyCatMap(){
       const customName = (inp?.value||'').trim();
       if(!customName){ ntf('Yeni kategori adı boş olamaz!','err'); return; }
       newTip = customName;
-      // Yoksa yeni kategori oluştur
       if(!TM[newTip]){
         const colors = ['#ff6f00','#c62828','#4527a0','#1565c0','#2e7d32','#6a1520','#00838f','#558b2f'];
         const icons  = ['📌','🔖','🏷️','📍','🗺️','📎','🔷','⭐'];
@@ -925,7 +867,6 @@ function applyCatMap(){
         const newType = {key:newTip, color:colors[idx], icon:icons[idx]};
         TYPES.push(newType);
         TM[newTip] = newType;
-        // Yeni katman grubu oluştur
         lgs[newTip] = L.markerClusterGroup({maxClusterRadius:55, iconCreateFunction(c){return L.divIcon({html:`<div style="background:${newType.color};color:#fff;border-radius:50%;width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:.72rem;font-weight:700;border:2px solid rgba(255,255,255,.4);box-shadow:0 2px 8px rgba(0,0,0,.35)">${c.getChildCount()}</div>`,className:'',iconSize:[32,32]});}});
         lgs[newTip].addTo(map);
         vis[newTip] = true;
@@ -935,7 +876,6 @@ function applyCatMap(){
     mapping[group] = newTip;
   });
 
-  // Kategoriyi güncelle
   pendingImport = pendingImport.map(r => ({
     ...r,
     tip: mapping[r.tip] || r.tip
@@ -1048,7 +988,9 @@ document.getElementById('fil').addEventListener('change',e=>{
 });
 document.getElementById('filce').addEventListener('change',e=>{fIlce=e.target.value;applyF();});
 document.getElementById('fdrm').addEventListener('change',e=>{fDrm=e.target.value;applyF();});
-document.getElementById('ghsavebtn').addEventListener('click', triggerSync);
+// DÜZELTME: Butonun event listener'ı değiştirildi.
+document.getElementById('expbtn_all').addEventListener('click', expD_all);
+document.getElementById('expbtn').addEventListener('click', expD); // Bu orijinal fonksiyon olarak kalabilir.
 document.getElementById('expgeobtn').addEventListener('click',expGeoJSON);
 document.getElementById('impbtn').addEventListener('click',()=>document.getElementById('impfile').click());
 document.getElementById('impfile').addEventListener('change',e=>{if(e.target.files[0])impD(e.target.files[0]);e.target.value='';});
@@ -1064,18 +1006,7 @@ window.doEdit=doEdit;window.doDel=doDel;window.focR=focR;
 window.checkAdmin=checkAdmin;window.closeAdminMod=closeAdminMod;
 window.requireAdmin=requireAdmin;window.updateFormIlce=updateFormIlce;
 window.onCatChange=onCatChange;window.applyCatMap=applyCatMap;window.cancelCatMap=cancelCatMap;
-  
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
-<script src="https://unpkg.com/shpjs@latest/dist/shp.js"></script>
-<script>
-/* ══════════════════════════════════════════
-   AYARLAR — GitHub'a yüklemeden önce doldurun
-══════════════════════════════════════════ */
-// ...
-// ... (tüm JavaScript kodunuz burada devam ediyor)
-// ...
-// Firebase module yüklenince başlat
+
 window.addEventListener('load', ()=>{
   setTimeout(()=>{ load(); updateAdminUI(); }, 500);
 });
