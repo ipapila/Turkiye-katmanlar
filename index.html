@@ -888,7 +888,7 @@ function applyCatMap(){
         const newType = {key:newTip, color:colors[idx], icon:icons[idx]};
         TYPES.push(newType);
         TM[newTip] = newType;
-        lgs[newTip] = L.markerClusterGroup({maxClusterRadius:55, iconCreateFunction(c){return L.divIcon({html:`<div style="background:${newType.color};color:#fff;border-radius:50%;width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:.72rem;font-weight:700;border:2px solid rgba(255,255,255,.4);box-shadow:0 2px 8px rgba(0,0,0,.35)">${c.getChildCount()}</div>`,className:'',iconSize:[32,32]});}});
+        lgs[newTip] = L.markerClusterGroup({maxClusterRadius:100, iconCreateFunction(c){return L.divIcon({html:`<div style="background:${newType.color};color:#fff;border-radius:50%;width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:.72rem;font-weight:700;border:2px solid rgba(255,255,255,.4);box-shadow:0 2px 8px rgba(0,0,0,.35)">${c.getChildCount()}</div>`,className:'',iconSize:[32,32]});}});
         lgs[newTip].addTo(map);
         vis[newTip] = true;
         ntf(`Yeni kategori oluşturuldu: ${newTip}`,'ok');
