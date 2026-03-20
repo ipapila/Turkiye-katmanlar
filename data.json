@@ -1,0 +1,2144 @@
+[
+  {
+    "id": "osm_kv_27147509",
+    "tip": "Kültür Varlığı",
+    "ad": "Aperlae",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 27147509",
+    "koordinatlar": {
+      "lat": 36.159605,
+      "lng": 29.782179
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "27147509",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_144468459",
+    "tip": "Kültür Varlığı",
+    "ad": "Sobesos",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 144468459",
+    "koordinatlar": {
+      "lat": 38.464093,
+      "lng": 34.966015
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "144468459",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_275565117",
+    "tip": "Kültür Varlığı",
+    "ad": "Ευπαλίνειο όρυγμα - Efpalinos' tunnel",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 275565117",
+    "koordinatlar": {
+      "lat": 37.694593,
+      "lng": 26.930005
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "275565117",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_364713466",
+    "tip": "Kültür Varlığı",
+    "ad": "Ναός Διονύσου του Βρησαγενούς",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 364713466",
+    "koordinatlar": {
+      "lat": 39.006695,
+      "lng": 26.170151
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "364713466",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_422512114",
+    "tip": "Kültür Varlığı",
+    "ad": "Αρχαίο Θέατρο",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 422512114",
+    "koordinatlar": {
+      "lat": 36.440141,
+      "lng": 28.21174
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "422512114",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_422512115",
+    "tip": "Kültür Varlığı",
+    "ad": "Ναός Απόλλωνος",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 422512115",
+    "koordinatlar": {
+      "lat": 36.439897,
+      "lng": 28.21041
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "422512115",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_422512116",
+    "tip": "Kültür Varlığı",
+    "ad": "Αρχαίο Στάδιο",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 422512116",
+    "koordinatlar": {
+      "lat": 36.438963,
+      "lng": 28.211921
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "422512116",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_462007243",
+    "tip": "Kültür Varlığı",
+    "ad": "Ariassos",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 462007243",
+    "koordinatlar": {
+      "lat": 37.182064,
+      "lng": 30.47447
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "462007243",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_567060598",
+    "tip": "Kültür Varlığı",
+    "ad": "تل ضهر الشويرة",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 567060598",
+    "koordinatlar": {
+      "lat": 36.646522,
+      "lng": 39.498189
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "567060598",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_572565320",
+    "tip": "Kültür Varlığı",
+    "ad": "حبوبة الكبيرة",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 572565320",
+    "koordinatlar": {
+      "lat": 36.183333,
+      "lng": 38.066667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "572565320",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_599846748",
+    "tip": "Kültür Varlığı",
+    "ad": "Euromos",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 599846748",
+    "koordinatlar": {
+      "lat": 37.374351,
+      "lng": 27.675076
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "599846748",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_601589472",
+    "tip": "Kültür Varlığı",
+    "ad": "Römisches Bad",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 601589472",
+    "koordinatlar": {
+      "lat": 37.690855,
+      "lng": 26.929699
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "601589472",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_610607807",
+    "tip": "Kültür Varlığı",
+    "ad": "Yazılıkaya",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 610607807",
+    "koordinatlar": {
+      "lat": 40.025425,
+      "lng": 34.632707
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "610607807",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_665408433",
+    "tip": "Kültür Varlığı",
+    "ad": "Latrinae",
+    "il": "Denizli",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 665408433",
+    "koordinatlar": {
+      "lat": 37.931626,
+      "lng": 29.122228
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "665408433",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_723160995",
+    "tip": "Kültür Varlığı",
+    "ad": "Karatepe",
+    "il": "Adana",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 723160995",
+    "koordinatlar": {
+      "lat": 37.295851,
+      "lng": 36.253748
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "723160995",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_764437356",
+    "tip": "Kültür Varlığı",
+    "ad": "Termessos - Cisterns",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 764437356",
+    "koordinatlar": {
+      "lat": 36.982692,
+      "lng": 30.463443
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "764437356",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_764437373",
+    "tip": "Kültür Varlığı",
+    "ad": "Termessos - Corinth Temple",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 764437373",
+    "koordinatlar": {
+      "lat": 36.98283,
+      "lng": 30.462752
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "764437373",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_859840746",
+    "tip": "Kültür Varlığı",
+    "ad": "Selge",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 859840746",
+    "koordinatlar": {
+      "lat": 37.229465,
+      "lng": 31.126099
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "859840746",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1024958647",
+    "tip": "Kültür Varlığı",
+    "ad": "Dara-Anastasiopolis",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1024958647",
+    "koordinatlar": {
+      "lat": 37.18139,
+      "lng": 40.953578
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1024958647",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1063600663",
+    "tip": "Kültür Varlığı",
+    "ad": "Keysun Kalesi",
+    "il": "Şanlıurfa",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1063600663",
+    "koordinatlar": {
+      "lat": 37.561313,
+      "lng": 37.856027
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1063600663",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1096159915",
+    "tip": "Kültür Varlığı",
+    "ad": "Çattepe Höyük",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1096159915",
+    "koordinatlar": {
+      "lat": 37.730152,
+      "lng": 41.778619
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1096159915",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1097009442",
+    "tip": "Kültür Varlığı",
+    "ad": "Zeviya Tivilki",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1097009442",
+    "koordinatlar": {
+      "lat": 37.534272,
+      "lng": 41.819596
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1097009442",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1097701384",
+    "tip": "Kültür Varlığı",
+    "ad": "Talavaş Höyüğü",
+    "il": "Diyarbakır",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1097701384",
+    "koordinatlar": {
+      "lat": 37.855064,
+      "lng": 40.877437
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1097701384",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1103021400",
+    "tip": "Kültür Varlığı",
+    "ad": "Takyan Tepe",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1103021400",
+    "koordinatlar": {
+      "lat": 37.164458,
+      "lng": 42.410361
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1103021400",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1103022740",
+    "tip": "Kültür Varlığı",
+    "ad": "Sarıköy Höyüğü",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1103022740",
+    "koordinatlar": {
+      "lat": 37.287186,
+      "lng": 41.622611
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1103022740",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1103022922",
+    "tip": "Kültür Varlığı",
+    "ad": "Kütnüs Höyük",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1103022922",
+    "koordinatlar": {
+      "lat": 37.261768,
+      "lng": 42.345711
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1103022922",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1103022954",
+    "tip": "Kültür Varlığı",
+    "ad": "Tepeli Höyüğü",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1103022954",
+    "koordinatlar": {
+      "lat": 37.321841,
+      "lng": 41.797715
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1103022954",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1113655025",
+    "tip": "Kültür Varlığı",
+    "ad": "Herakleia Salbace Hieron",
+    "il": "Denizli",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1113655025",
+    "koordinatlar": {
+      "lat": 37.628455,
+      "lng": 29.036814
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1113655025",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1113672626",
+    "tip": "Kültür Varlığı",
+    "ad": "Herakleia Salbace",
+    "il": "Denizli",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1113672626",
+    "koordinatlar": {
+      "lat": 37.624826,
+      "lng": 28.985955
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1113672626",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1148787402",
+    "tip": "Kültür Varlığı",
+    "ad": "აბულის ციხე",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1148787402",
+    "koordinatlar": {
+      "lat": 41.372883,
+      "lng": 43.684538
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1148787402",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1232494007",
+    "tip": "Kültür Varlığı",
+    "ad": "Naula",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1232494007",
+    "koordinatlar": {
+      "lat": 36.474884,
+      "lng": 32.116767
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1232494007",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1233868738",
+    "tip": "Kültür Varlığı",
+    "ad": "Cybele Open Air Temple",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1233868738",
+    "koordinatlar": {
+      "lat": 38.670274,
+      "lng": 26.753189
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1233868738",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1233868972",
+    "tip": "Kültür Varlığı",
+    "ad": "Yel Değirmenleri",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1233868972",
+    "koordinatlar": {
+      "lat": 38.669261,
+      "lng": 26.760125
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1233868972",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1309306635",
+    "tip": "Kültür Varlığı",
+    "ad": "Blaundus Antik Kenti",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1309306635",
+    "koordinatlar": {
+      "lat": 38.357357,
+      "lng": 29.209078
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1309306635",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1318468374",
+    "tip": "Kültür Varlığı",
+    "ad": "Gerga",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1318468374",
+    "koordinatlar": {
+      "lat": 37.518576,
+      "lng": 28.148155
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1318468374",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1319740420",
+    "tip": "Kültür Varlığı",
+    "ad": "Teke Kale",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1319740420",
+    "koordinatlar": {
+      "lat": 37.665347,
+      "lng": 27.764756
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1319740420",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1326594584",
+    "tip": "Kültür Varlığı",
+    "ad": "Gavur Kalesi",
+    "il": "Ankara",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1326594584",
+    "koordinatlar": {
+      "lat": 39.531297,
+      "lng": 32.558743
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1326594584",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1396011227",
+    "tip": "Kültür Varlığı",
+    "ad": "İvriz Kaya Anıtı",
+    "il": "Mersin",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1396011227",
+    "koordinatlar": {
+      "lat": 37.410288,
+      "lng": 34.172899
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1396011227",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1461413594",
+    "tip": "Kültür Varlığı",
+    "ad": "Hadrianopolis",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1461413594",
+    "koordinatlar": {
+      "lat": 40.925982,
+      "lng": 32.491373
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1461413594",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1500004355",
+    "tip": "Kültür Varlığı",
+    "ad": "Αρχαίο Θέατρο",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1500004355",
+    "koordinatlar": {
+      "lat": 36.08982,
+      "lng": 28.087136
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1500004355",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1502217032",
+    "tip": "Kültür Varlığı",
+    "ad": "Monastery of Hripsimian Virgins",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1502217032",
+    "koordinatlar": {
+      "lat": 40.504311,
+      "lng": 43.575924
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1502217032",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1516504211",
+    "tip": "Kültür Varlığı",
+    "ad": "Aigai",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1516504211",
+    "koordinatlar": {
+      "lat": 38.831995,
+      "lng": 27.189775
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1516504211",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1691598330",
+    "tip": "Kültür Varlığı",
+    "ad": "დმანისის მუზეუმ-ნაკრძალი",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1691598330",
+    "koordinatlar": {
+      "lat": 41.337142,
+      "lng": 44.344612
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1691598330",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1729433600",
+    "tip": "Kültür Varlığı",
+    "ad": "Erythrai",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1729433600",
+    "koordinatlar": {
+      "lat": 38.382779,
+      "lng": 26.48075
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1729433600",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1731091383",
+    "tip": "Kültür Varlığı",
+    "ad": "Lamos",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1731091383",
+    "koordinatlar": {
+      "lat": 36.240916,
+      "lng": 32.449294
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1731091383",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1749745261",
+    "tip": "Kültür Varlığı",
+    "ad": "Medieval Settlement",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1749745261",
+    "koordinatlar": {
+      "lat": 36.263687,
+      "lng": 29.313997
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1749745261",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1753902027",
+    "tip": "Kültür Varlığı",
+    "ad": "Su kemeri",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1753902027",
+    "koordinatlar": {
+      "lat": 36.786244,
+      "lng": 31.411908
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1753902027",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1795586629",
+    "tip": "Kültür Varlığı",
+    "ad": "ძალისის ნაქალაქარი",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1795586629",
+    "koordinatlar": {
+      "lat": 41.960075,
+      "lng": 44.617225
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1795586629",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1816047815",
+    "tip": "Kültür Varlığı",
+    "ad": "Kadınca Höyük",
+    "il": "Konya",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1816047815",
+    "koordinatlar": {
+      "lat": 39.106249,
+      "lng": 34.288066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1816047815",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_1823360989",
+    "tip": "Kültür Varlığı",
+    "ad": "Kordeleon Antik Kenti",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Arkeolojik Alan | OSM ID: 1823360989",
+    "koordinatlar": {
+      "lat": 38.469652,
+      "lng": 27.120142
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1823360989",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Arkeolojik Alan"
+  },
+  {
+    "id": "osm_kv_27151654",
+    "tip": "Kültür Varlığı",
+    "ad": "Kaymaklı yeraltı şehri",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 27151654",
+    "koordinatlar": {
+      "lat": 38.459927,
+      "lng": 34.752488
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "27151654",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_33127623",
+    "tip": "Kültür Varlığı",
+    "ad": "Myndos",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 33127623",
+    "koordinatlar": {
+      "lat": 37.053149,
+      "lng": 27.233559
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "33127623",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_158244493",
+    "tip": "Kültür Varlığı",
+    "ad": "Herkül Kapısı",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 158244493",
+    "koordinatlar": {
+      "lat": 37.937458,
+      "lng": 27.343078
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "158244493",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_249554168",
+    "tip": "Kültür Varlığı",
+    "ad": "El Nazar Kilisesi",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 249554168",
+    "koordinatlar": {
+      "lat": 38.638669,
+      "lng": 34.839032
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "249554168",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_249555017",
+    "tip": "Kültür Varlığı",
+    "ad": "Saklı Kilise",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 249555017",
+    "koordinatlar": {
+      "lat": 38.641787,
+      "lng": 34.840211
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "249555017",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_249555710",
+    "tip": "Kültür Varlığı",
+    "ad": "Üzümlü Kilise",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 249555710",
+    "koordinatlar": {
+      "lat": 38.652613,
+      "lng": 34.860274
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "249555710",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_254364987",
+    "tip": "Kültür Varlığı",
+    "ad": "Mars Tapınağı",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 254364987",
+    "koordinatlar": {
+      "lat": 37.040029,
+      "lng": 27.427377
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "254364987",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_281777097",
+    "tip": "Kültür Varlığı",
+    "ad": "Derinkuyu Yeraltı Şehri",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 281777097",
+    "koordinatlar": {
+      "lat": 38.373576,
+      "lng": 34.735122
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "281777097",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_284661019",
+    "tip": "Kültür Varlığı",
+    "ad": "Golgoli",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 284661019",
+    "koordinatlar": {
+      "lat": 38.538789,
+      "lng": 34.901792
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "284661019",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_310786058",
+    "tip": "Kültür Varlığı",
+    "ad": "Tlos",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 310786058",
+    "koordinatlar": {
+      "lat": 36.554813,
+      "lng": 29.41875
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "310786058",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_310987868",
+    "tip": "Kültür Varlığı",
+    "ad": "Batık Liman",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 310987868",
+    "koordinatlar": {
+      "lat": 36.177409,
+      "lng": 29.857335
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "310987868",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_310987870",
+    "tip": "Kültür Varlığı",
+    "ad": "Hamam",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 310987870",
+    "koordinatlar": {
+      "lat": 36.17871,
+      "lng": 29.860317
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "310987870",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_310987876",
+    "tip": "Kültür Varlığı",
+    "ad": "Sarnıç",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 310987876",
+    "koordinatlar": {
+      "lat": 36.179186,
+      "lng": 29.861051
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "310987876",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_310987879",
+    "tip": "Kültür Varlığı",
+    "ad": "Kilise",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 310987879",
+    "koordinatlar": {
+      "lat": 36.180112,
+      "lng": 29.86321
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "310987879",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_316753287",
+    "tip": "Kültür Varlığı",
+    "ad": "Yusuf Koç Kilisesi",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 316753287",
+    "koordinatlar": {
+      "lat": 38.644109,
+      "lng": 34.821862
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "316753287",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_316753288",
+    "tip": "Kültür Varlığı",
+    "ad": "Durmuş Kadir Kilisesi",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 316753288",
+    "koordinatlar": {
+      "lat": 38.638327,
+      "lng": 34.819
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "316753288",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_317003607",
+    "tip": "Kültür Varlığı",
+    "ad": "Nikeforos Fokas Kilisesi",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 317003607",
+    "koordinatlar": {
+      "lat": 38.673577,
+      "lng": 34.839927
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "317003607",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_318636398",
+    "tip": "Kültür Varlığı",
+    "ad": "Eski Porsuk",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 318636398",
+    "koordinatlar": {
+      "lat": 37.537084,
+      "lng": 34.567118
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "318636398",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_319084276",
+    "tip": "Kültür Varlığı",
+    "ad": "Eski Küllü",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 319084276",
+    "koordinatlar": {
+      "lat": 38.786146,
+      "lng": 35.082227
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "319084276",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_331946531",
+    "tip": "Kültür Varlığı",
+    "ad": "Παλαιοπαναγιά",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 331946531",
+    "koordinatlar": {
+      "lat": 36.999244,
+      "lng": 26.921922
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "331946531",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_331961227",
+    "tip": "Kültür Varlığı",
+    "ad": "Άγιος Χαραλαμπος",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 331961227",
+    "koordinatlar": {
+      "lat": 37.001091,
+      "lng": 26.923541
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "331961227",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_376958735",
+    "tip": "Kültür Varlığı",
+    "ad": "Timiussa",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 376958735",
+    "koordinatlar": {
+      "lat": 36.197235,
+      "lng": 29.850279
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "376958735",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_436153191",
+    "tip": "Kültür Varlığı",
+    "ad": "Ancient Agora",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 436153191",
+    "koordinatlar": {
+      "lat": 37.690849,
+      "lng": 26.938422
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "436153191",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_438074945",
+    "tip": "Kültür Varlığı",
+    "ad": "Temple of Aphrodite",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 438074945",
+    "koordinatlar": {
+      "lat": 37.690301,
+      "lng": 26.938861
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "438074945",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_457790717",
+    "tip": "Kültür Varlığı",
+    "ad": "Early Christian Basilica",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 457790717",
+    "koordinatlar": {
+      "lat": 36.871921,
+      "lng": 27.205887
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "457790717",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_462007490",
+    "tip": "Kültür Varlığı",
+    "ad": "Kovanlık Antik Kenti",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 462007490",
+    "koordinatlar": {
+      "lat": 37.172704,
+      "lng": 30.601964
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "462007490",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_485655235",
+    "tip": "Kültür Varlığı",
+    "ad": "ruins",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 485655235",
+    "koordinatlar": {
+      "lat": 41.617293,
+      "lng": 44.529066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "485655235",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_503576514",
+    "tip": "Kültür Varlığı",
+    "ad": "Selime Katedrali",
+    "il": "Konya",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 503576514",
+    "koordinatlar": {
+      "lat": 38.301693,
+      "lng": 34.259399
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "503576514",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_540426371",
+    "tip": "Kültür Varlığı",
+    "ad": "باب الجنان",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 540426371",
+    "koordinatlar": {
+      "lat": 36.201746,
+      "lng": 37.151897
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "540426371",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_567059447",
+    "tip": "Kültür Varlığı",
+    "ad": "بجيرك",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 567059447",
+    "koordinatlar": {
+      "lat": 37.204444,
+      "lng": 42.128333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "567059447",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_567059515",
+    "tip": "Kültür Varlığı",
+    "ad": "سكركة ميرو",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 567059515",
+    "koordinatlar": {
+      "lat": 37.141667,
+      "lng": 42.236111
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "567059515",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_567062321",
+    "tip": "Kültür Varlığı",
+    "ad": "خربة سرجبلي",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 567062321",
+    "koordinatlar": {
+      "lat": 36.25,
+      "lng": 36.716667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "567062321",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209298",
+    "tip": "Kültür Varlığı",
+    "ad": "خربة العريمة",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209298",
+    "koordinatlar": {
+      "lat": 36.316667,
+      "lng": 37.016667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209298",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209330",
+    "tip": "Kültür Varlığı",
+    "ad": "بقدينة",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209330",
+    "koordinatlar": {
+      "lat": 36.249654,
+      "lng": 36.919
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209330",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209429",
+    "tip": "Kültür Varlığı",
+    "ad": "الشيخ بركات",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209429",
+    "koordinatlar": {
+      "lat": 36.275695,
+      "lng": 36.821924
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209429",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209432",
+    "tip": "Kültür Varlığı",
+    "ad": "قشر",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209432",
+    "koordinatlar": {
+      "lat": 36.233333,
+      "lng": 37.066667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209432",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209471",
+    "tip": "Kültür Varlığı",
+    "ad": "خربة القنيطرة",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209471",
+    "koordinatlar": {
+      "lat": 36.416667,
+      "lng": 36.966667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209471",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209545",
+    "tip": "Kültür Varlığı",
+    "ad": "الخريبات",
+    "il": "Hatay",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209545",
+    "koordinatlar": {
+      "lat": 36.077623,
+      "lng": 36.585937
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209545",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209561",
+    "tip": "Kültür Varlığı",
+    "ad": "جووانية",
+    "il": "Hatay",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209561",
+    "koordinatlar": {
+      "lat": 36.085653,
+      "lng": 36.568873
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209561",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209684",
+    "tip": "Kültür Varlığı",
+    "ad": "باشمرا",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209684",
+    "koordinatlar": {
+      "lat": 36.316667,
+      "lng": 36.966667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209684",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209793",
+    "tip": "Kültür Varlığı",
+    "ad": "البريج",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209793",
+    "koordinatlar": {
+      "lat": 36.150364,
+      "lng": 37.082903
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209793",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209865",
+    "tip": "Kültür Varlığı",
+    "ad": "بحفيس",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209865",
+    "koordinatlar": {
+      "lat": 36.184043,
+      "lng": 36.906813
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209865",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571209997",
+    "tip": "Kültür Varlığı",
+    "ad": "الشيخ سليمان",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571209997",
+    "koordinatlar": {
+      "lat": 36.275337,
+      "lng": 36.908813
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571209997",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571210048",
+    "tip": "Kültür Varlığı",
+    "ad": "البنستور",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571210048",
+    "koordinatlar": {
+      "lat": 36.303322,
+      "lng": 36.922881
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571210048",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571210096",
+    "tip": "Kültür Varlığı",
+    "ad": "خربة بيت زيدان",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571210096",
+    "koordinatlar": {
+      "lat": 36.35,
+      "lng": 37.033333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571210096",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571210503",
+    "tip": "Kültür Varlığı",
+    "ad": "خربة كفر خشين",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571210503",
+    "koordinatlar": {
+      "lat": 36.366667,
+      "lng": 36.966667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571210503",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571210522",
+    "tip": "Kültür Varlığı",
+    "ad": "قاطورة",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571210522",
+    "koordinatlar": {
+      "lat": 36.302871,
+      "lng": 36.831389
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571210522",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571210531",
+    "tip": "Kültür Varlığı",
+    "ad": "دير سمعان",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571210531",
+    "koordinatlar": {
+      "lat": 36.325107,
+      "lng": 36.836112
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571210531",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_571210557",
+    "tip": "Kültür Varlığı",
+    "ad": "خربة عوراء",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 571210557",
+    "koordinatlar": {
+      "lat": 36.337846,
+      "lng": 37.021289
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "571210557",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_kv_572538908",
+    "tip": "Kültür Varlığı",
+    "ad": "خربة عسان",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "Tarihi Kalinti | OSM ID: 572538908",
+    "koordinatlar": {
+      "lat": 36.064786,
+      "lng": 37.164256
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "572538908",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM/Tarihi Kalinti"
+  },
+  {
+    "id": "osm_252585",
+    "tip": "Milli Park",
+    "ad": "Göreme Millî Parkı",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "boundary=national_park | heritage=1 | heritage:operator=whc | leisure=nature_reserve",
+    "koordinatlar": {
+      "lat": 38.650219,
+      "lng": 34.852105
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "252585",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_1197579",
+    "tip": "Milli Park",
+    "ad": "Dilek Yarımadası Millî Parkı",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Nationalpark Dilek-Halbinsel | name:en=Dilek Peninsula National Park",
+    "koordinatlar": {
+      "lat": 37.582586,
+      "lng": 27.12511
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1197579",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_1715973",
+    "tip": "Milli Park",
+    "ad": "Kızıldağ Millî Parkı",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Kızıldağ National Park | name:tr=Kızıldağ Millî Parkı",
+    "koordinatlar": {
+      "lat": 37.764985,
+      "lng": 31.259285
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1715973",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_1715974",
+    "tip": "Milli Park",
+    "ad": "Beyşehir Gölü Millî Parkı",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Lake Beyşehir National Park | name:tr=Beyşehir Gölü Millî Parkı",
+    "koordinatlar": {
+      "lat": 37.71068,
+      "lng": 31.496295
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1715974",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_1715983",
+    "tip": "Milli Park",
+    "ad": "Çanakkale Savaşları Gelibolu Tarihî Alanı",
+    "il": "Çanakkale",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Gallipoli Peninsula Historical National Park | name:ru=Исторический национальный парк «Галлипольский полуостров»",
+    "koordinatlar": {
+      "lat": 40.204565,
+      "lng": 26.301902
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1715983",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_7621483",
+    "tip": "Milli Park",
+    "ad": "მტირალას ეროვნული პარკი",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Mtirala-Nationalpark | name:en=Mtirala National Park",
+    "koordinatlar": {
+      "lat": 41.660111,
+      "lng": 41.847404
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "7621483",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_11201845",
+    "tip": "Milli Park",
+    "ad": "Botan Vadisi Millî Parkı",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:en=Botan Valley National Park | name:ku=Parka Neteweyî ya Geliyê Botan",
+    "koordinatlar": {
+      "lat": 37.893525,
+      "lng": 41.972435
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11201845",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_11202937",
+    "tip": "Milli Park",
+    "ad": "Marmaris Millî Parkı",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "boundary=national_park | leisure=nature_reserve | name:de=Nationalpark Marmaris | name:en=Marmaris National Park",
+    "koordinatlar": {
+      "lat": 36.836817,
+      "lng": 28.378652
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11202937",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_11205135",
+    "tip": "Milli Park",
+    "ad": "Sakarya Meydan Muharebesi Tarihî Millî Parkı",
+    "il": "Ankara",
+    "ilce": "",
+    "aciklama": "alt_name=Sakarya National Park;Sakarya Millî Parkı | area=yes | boundary=national_park | name:en=Battle of Sakarya National Historic Park",
+    "koordinatlar": {
+      "lat": 39.417781,
+      "lng": 32.257018
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11205135",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_2294534831",
+    "tip": "HES",
+    "ad": "ნაბეღლავჰესი",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "int_name=Nabeghlavhesi | plant:source=hydro | power=plant",
+    "koordinatlar": {
+      "lat": 41.954173,
+      "lng": 42.316718
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "2294534831",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_7712292683",
+    "tip": "HES",
+    "ad": "ხრამჰესი II",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "layer=-1 | location=underground | name:en=Khrami 2 HPP | plant:output:electricity=110 MW",
+    "koordinatlar": {
+      "lat": 41.466206,
+      "lng": 44.235442
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "7712292683",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_7712295203",
+    "tip": "HES",
+    "ad": "Skhalta HPP",
+    "il": "Artvin",
+    "ilce": "",
+    "aciklama": "name:en=Skhalta HPP | operator=Adjaristsqali Georgia LLC | plant:output:electricity=9.8 MW | plant:source=hydro",
+    "koordinatlar": {
+      "lat": 41.572015,
+      "lng": 42.375668
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "7712295203",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_3445569784",
+    "tip": "Sulak Alan",
+    "ad": "dalaksuyu",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "natural=wetland | wetland=su_kaynağı",
+    "koordinatlar": {
+      "lat": 39.768299,
+      "lng": 26.971061
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "3445569784",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_5299563715",
+    "tip": "Sulak Alan",
+    "ad": "TÖRLEK",
+    "il": "Mersin",
+    "ilce": "",
+    "aciklama": "natural=wetland",
+    "koordinatlar": {
+      "lat": 36.60319,
+      "lng": 33.6305
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "5299563715",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_6737261031",
+    "tip": "Sulak Alan",
+    "ad": "Ardıçlı Ilıcası",
+    "il": "Hatay",
+    "ilce": "",
+    "aciklama": "description=Hatayın Hassa ilçesine bağlı Ardıçlı Mahallesi sınırları içerisinde yer alan bölge doğal kaynak suları ile beslenen serin tatlı su göl yatağı | natural=wetland | wetland=swamp",
+    "koordinatlar": {
+      "lat": 36.721255,
+      "lng": 36.536626
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "6737261031",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_7724637897",
+    "tip": "Sulak Alan",
+    "ad": "Fidanlık şelalesi",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "natural=wetland | wetland=Waterfall",
+    "koordinatlar": {
+      "lat": 39.672124,
+      "lng": 26.711113
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "7724637897",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_7724666342",
+    "tip": "Sulak Alan",
+    "ad": "Gürleyik şelalesi",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "natural=wetland | wetland=Şelale",
+    "koordinatlar": {
+      "lat": 39.62634,
+      "lng": 26.670418
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "7724666342",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_9366886775",
+    "tip": "Sulak Alan",
+    "ad": "Afrodit Şelalesi",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "natural=wetland | tidal=no | wetland=waterfall",
+    "koordinatlar": {
+      "lat": 39.738347,
+      "lng": 26.855018
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "9366886775",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_9383268070",
+    "tip": "Sulak Alan",
+    "ad": "Karamandere şelalesi",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "natural=wetland | tidal=no | wetland=waterfall",
+    "koordinatlar": {
+      "lat": 39.623435,
+      "lng": 26.80237
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "9383268070",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_10246234059",
+    "tip": "Sulak Alan",
+    "ad": "PC",
+    "il": "Ankara",
+    "ilce": "",
+    "aciklama": "natural=wetland | wetland=wet_meadow",
+    "koordinatlar": {
+      "lat": 40.365812,
+      "lng": 32.135314
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "10246234059",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_12720478408",
+    "tip": "Sulak Alan",
+    "ad": "Kavak Göleti",
+    "il": "Samsun",
+    "ilce": "",
+    "aciklama": "name:tr=Kavak Göleti | natural=wetland | wetland=pond",
+    "koordinatlar": {
+      "lat": 41.066071,
+      "lng": 35.975729
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "12720478408",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_12977332859",
+    "tip": "Sulak Alan",
+    "ad": "کارێزی کەندالەشین",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "natural=wetland | wetland=string_bog",
+    "koordinatlar": {
+      "lat": 36.355577,
+      "lng": 43.704537
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "12977332859",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_12977332860",
+    "tip": "Sulak Alan",
+    "ad": "کارێزی تاتۆک",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "natural=wetland",
+    "koordinatlar": {
+      "lat": 36.350384,
+      "lng": 43.703432
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "12977332860",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_13374282421",
+    "tip": "Sulak Alan",
+    "ad": "Gömeren Kanyonu",
+    "il": "Kastamonu",
+    "ilce": "",
+    "aciklama": "natural=wetland | wetland=lake",
+    "koordinatlar": {
+      "lat": 41.777838,
+      "lng": 33.039194
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "13374282421",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_13374282472",
+    "tip": "Sulak Alan",
+    "ad": "Dönen Göl",
+    "il": "Kastamonu",
+    "ilce": "",
+    "aciklama": "natural=wetland | wetland=lake",
+    "koordinatlar": {
+      "lat": 41.781029,
+      "lng": 33.042808
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "13374282472",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  },
+  {
+    "id": "osm_13391528199",
+    "tip": "Sulak Alan",
+    "ad": "Korka mus",
+    "il": "Türkiye",
+    "ilce": "",
+    "aciklama": "name:ckb=کۆرکەمووس | natural=wetland",
+    "koordinatlar": {
+      "lat": 36.827132,
+      "lng": 44.794727
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "13391528199",
+    "eklenme": "2026-03-20",
+    "kaynak": "OSM"
+  }
+]
