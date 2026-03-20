@@ -1,0 +1,29 @@
+name: Günlük Veri Güncelleme
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # UTC 03:00 = Türkiye 06:00
+  workflow_dispatch:       # Manuel tetikleme butonu
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo'yu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları yükle
+        run: pip install requests firebase-admin
+
+      - name: Veri güncelle
+        env:
+          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          FIREBASE_PRIVATE_KEY: ${{ secrets.FIREBASE_PRIVATE_KEY }}
+          FIREBASE_CLIENT_EMAIL: ${{ secrets.FIREBASE_CLIENT_EMAIL }}
+          WDPA_TOKEN: ${{ secrets.WDPA_TOKEN }}
+        run: python scripts/guncelle.py
