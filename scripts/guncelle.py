@@ -66,6 +66,79 @@ def guess_il(lat, lng):
     return 'Türkiye'
 
 # ── 1. WDPA - Dünya Koruma Alanları ─────────────────────────────
+def fetch_unesco():
+    print("UNESCO Dunya Mirasi cekiliyor...")
+    results = []
+    try:
+        import xml.etree.ElementTree as ET
+        r = requests.get("https://whc.unesco.org/en/list/xml/", timeout=30,
+                        headers={'User-Agent':'Mozilla/5.0'})
+        if r.status_code == 200:
+            root = ET.fromstring(r.content)
+            for row in root.findall('.//row'):
+                states = row.findtext('states_name_en','')
+                if 'Turkey' not in states and 'Turkiye' not in states:
+                    continue
+                lat = float(row.findtext('latitude') or 0)
+                lng = float(row.findtext('longitude') or 0)
+                if not lat or not lng: continue
+                name = row.findtext('site') or 'UNESCO Alani'
+                category = row.findtext('category','Cultural')
+                wdpa_id = row.findtext('id_no','')
+                tip = 'Kultur Varligi' if category=='Cultural' else ('Milli Park' if category=='Natural' else 'Ozel Cevre Koruma Alani')
+                results.append({
+                    'id':'unesco_'+str(wdpa_id),
+                    'tip':'Kültür Varlığı' if category=='Cultural' else 'Milli Park',
+                    'ad':'[UNESCO] '+name,
+                    'il':guess_il(lat,lng),'ilce':'',
+                    'aciklama':f"UNESCO Dunya Mirasi ({category}). Tescil: {row.findtext('date_inscribed','')}",
+                    'koordinatlar':{'lat':round(lat,6),'lng':round(lng,6)},
+                    'alan_ha':float(row.findtext('area_hectares') or 0),
+                    'durum':'Aktif','belge_no':f"UNESCO-{wdpa_id}",
+                    'eklenme':today(),'kaynak':'UNESCO WHC'
+                })
+    except Exception as e:
+        print(f"  UNESCO hata: {e}")
+    print(f"  UNESCO: {len(results)} kayit")
+    return results
+
+def fetch_osm_kultur():
+    print("OSM Kultur Varliklari cekiliyor...")
+    results = []
+    queries = [
+        ('[out:json][timeout:30];node["historic"="archaeological_site"]["name"](36,26,42,45);out 50;','Arkeolojik Alan'),
+        ('[out:json][timeout:30];node["historic"="ruins"]["name"](36,26,42,45);out 50;','Tarihi Kalinti'),
+        ('[out:json][timeout:30];node["tourism"="museum"]["name"](36,26,42,45);out 50;','Muze'),
+        ('[out:json][timeout:30];node["historic"="castle"]["name"](36,26,42,45);out 30;','Kale'),
+    ]
+    for query, alt_tip in queries:
+        try:
+            r = requests.post('https://overpass-api.de/api/interpreter',
+                            data={'data':query}, timeout=60)
+            if r.status_code != 200: continue
+            elements = r.json().get('elements',[])
+            for e in elements:
+                tags = e.get('tags',{})
+                lat,lng = float(e.get('lat',0)),float(e.get('lon',0))
+                if not lat or not lng or not in_turkey(lat,lng): continue
+                name = tags.get('name') or tags.get('name:tr') or alt_tip
+                results.append({
+                    'id':'osm_kv_'+str(e.get('id',uid())),
+                    'tip':'Kültür Varlığı','ad':name,
+                    'il':guess_il(lat,lng),'ilce':'',
+                    'aciklama':f"{alt_tip} | OSM ID: {e.get('id')}",
+                    'koordinatlar':{'lat':round(lat,6),'lng':round(lng,6)},
+                    'alan_ha':0,'durum':'Aktif',
+                    'belge_no':str(e.get('id','')),
+                    'eklenme':today(),'kaynak':f'OSM/{alt_tip}'
+                })
+            print(f"  OSM {alt_tip}: {len(elements)}")
+            time.sleep(3)
+        except Exception as ex:
+            print(f"  OSM {alt_tip} hata: {ex}")
+    print(f"  OSM Kultur toplam: {len(results)}")
+    return results
+
 def fetch_wdpa():
     print("📡 WDPA çekiliyor...")
     token = os.environ.get('WDPA_TOKEN', '')
