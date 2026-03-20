@@ -6,7 +6,10 @@ FIREBASE_API_KEY = 'AIzaSyAvjtSn23YhDYZZmf_G2pUYzTA0Qa5tx1M'
 FIRESTORE_URL = f'https://firestore.googleapis.com/v1/projects/turkiye-katmanlar/databases/(default)/documents/harita/veriler?key={FIREBASE_API_KEY}'
 
 def is_auto(r):
-    """Otomatik kaynak mı kontrol et — sadece ID prefix'ine bak"""
+    """Otomatik kaynak mı kontrol et"""
+    # sabit=True işaretliyse asla silme
+    if r.get('sabit'):
+        return False
     rid = r.get('id','')
     auto_prefixes = ('osm_','wdpa_','usgs_','firms_','auto_','unesco_')
     return any(rid.startswith(p) for p in auto_prefixes)
