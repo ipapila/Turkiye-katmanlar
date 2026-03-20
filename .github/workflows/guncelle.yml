@@ -1,40 +1,172 @@
-name: Günlük Veri Güncelleme
+import os, json, time, random, requests, traceback
+from datetime import datetime
 
-on:
-  schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch:
+DATA_FILE = 'data.json'
+# Firebase URL'leri kaldırıldı.
+# GitHub deponuzun adını buraya girin (kullanici/repo şeklinde)
+GITHUB_REPO = 'ipapila/Turkiye-katmanlar' 
+RAW_URL = f'https://raw.githubusercontent.com/{GITHUB_REPO}/main/{DATA_FILE}'
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+def is_auto(r):
+    """Otomatik kaynak mı kontrol et"""
+    if r.get('sabit'): # 'sabit' olarak işaretlenmişse manuel kabul et
+        return False
+    rid = r.get('id','')
+    auto_prefixes = ('osm_','wdpa_','usgs_','firms_','auto_','unesco_')
+    return any(rid.startswith(p) for p in auto_prefixes)
 
-jobs:
-  guncelle:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Repo'yu çek
-        uses: actions/checkout@v4
+def read_data():
+    """Mevcut data.json'u diskten veya GitHub'dan oku, sadece manuel olanları döndür"""
+    print("Mevcut veriler okunuyor...")
+    
+    all_data = []
+    # Önce yerel dosyayı dene (manuel testler için)
+    if os.path.exists(DATA_FILE):
+        try:
+            with open(DATA_FILE, 'r', encoding='utf-8') as f:
+                all_data = json.load(f)
+            print(f"  Yerel {DATA_FILE} okundu: {len(all_data)} kayıt.")
+        except Exception as e:
+            print(f"  Yerel {DATA_FILE} okuma hatasi, GitHub'dan denenecek: {e}")
+            all_data = []
 
-      - name: Python kur
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+    # Yerel dosya yoksa veya boşsa, GitHub'dan çek
+    if not all_data:
+        print(f"  GitHub'dan veri çekiliyor: {RAW_URL}")
+        try:
+            r = requests.get(RAW_URL + '?t=' + str(int(time.time())), timeout=30)
+            r.raise_for_status()
+            all_data = r.json()
+            print(f"  GitHub'dan okundu: {len(all_data)} kayıt.")
+        except Exception as e:
+            print(f"  GitHub'dan veri okunamadı: {e}")
+            return [] # Hata durumunda boş liste döndür
 
-      - name: Bağımlılıkları yükle
-        run: pip install requests
+    # Sadece manuel kayıtları filtrele ve döndür
+    manuel_kayitlar = [r for r in all_data if not is_auto(r)]
+    print(f"  Manuel kayıtlar ayrıldı: {len(manuel_kayitlar)} adet.")
+    return manuel_kayitlar
 
-      - name: Veri güncelle
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          WDPA_TOKEN: ${{ secrets.WDPA_TOKEN }}
-        run: python scripts/guncelle.py
 
-      - name: Degisiklikleri kaydet
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json geocode_cache.json
-          git diff --staged --quiet || git commit -m "Otomatik veri guncellemesi $(date -u '+%Y-%m-%d %H:%M') UTC"
-          git push
+def write_data(data):
+    """data.json'u diske yaz"""
+    with open(DATA_FILE, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"data.json guncellendi: {len(data)} kayit")
+
+# ── Yardımcı fonksiyonlar ────────────────────────────────────────
+def uid():
+    return 'auto_' + hex(random.randint(0, 0xffffff))[2:] + str(int(time.time()*1000))[-6:]
+
+def today():
+    return datetime.utcnow().strftime('%Y-%m-%d')
+
+# Türkiye bounding box
+TR_LAT = (35.8, 42.2)
+TR_LNG = (25.7, 44.8)
+
+def in_turkey(lat, lng):
+    return TR_LAT[0] <= lat <= TR_LAT[1] and TR_LNG[0] <= lng <= TR_LNG[1]
+
+CACHE_FILE = 'geocode_cache.json'
+_geocode_cache = {}
+
+def load_cache():
+    global _geocode_cache
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE, 'r', encoding='utf-8') as f:
+            _geocode_cache = json.load(f)
+    print(f"  Geocode cache: {len(_geocode_cache)} kayit")
+
+def save_cache():
+    with open(CACHE_FILE, 'w', encoding='utf-8') as f:
+        json.dump(_geocode_cache, f, ensure_ascii=False, indent=2)
+
+def reverse_geocode(lat, lng):
+    """Koordinattan il ve ilçe — Nominatim + kalici cache"""
+    key = f"{round(lat,3)},{round(lng,3)}"
+    if key in _geocode_cache:
+        cached = _geocode_cache[key]
+        return cached.get('il',''), cached.get('ilce','')
+    try:
+        url = f"https://nominatim.openstreetmap.org/reverse?lat={lat}&lon={lng}&format=json&accept-language=tr&zoom=10"
+        r = requests.get(url, timeout=10, headers={'User-Agent':'TurkiyeKatmanlarBot/1.0'})
+        if r.ok:
+            addr = r.json().get('address', {})
+            il   = (addr.get('province') or addr.get('state') or addr.get('county') or '').replace(' Province','').replace(' İli','').strip()
+            ilce = (addr.get('county') or addr.get('city_district') or addr.get('district') or '').replace(' İlçesi','').strip()
+            # İl ve ilçe aynıysa ilçeyi boş bırak
+            if il == ilce:
+                ilce = ''
+            result = {'il': il, 'ilce': ilce}
+            _geocode_cache[key] = result
+            time.sleep(1.1)  # Nominatim: max 1 istek/sn
+            return il, ilce
+    except Exception as e:
+        print(f"  Nominatim hatasi: {e}")
+        pass
+    return '', ''
+
+# Fonksiyonların geri kalanı aynı, buraya eklemeye gerek yok...
+# Bu scripti, orijinal dosyanızdaki tüm fonksiyonları (fetch_unesco, fetch_osm_kultur, vb.) içerecek şekilde tamamlayın.
+# Sadece read_data ve Firebase ile ilgili kısımlar değiştirildi.
+
+# ... (fetch_unesco, fetch_osm_kultur, fetch_wdpa, vb. fonksiyonlarınızı buraya kopyalayın) ...
+# ...
+# Aşağıdaki main fonksiyonunu orijinalinizdeki ile değiştirin.
+
+def main():
+    print(f"\n{'='*50}")
+    print(f"Guncelleme: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}")
+    print(f"{'='*50}\n")
+
+    manuel = read_data()
+    
+    load_cache()
+
+    yeni_otomatik_veriler = []
+    # Tüm fetch fonksiyonlarını çağır
+    # (Not: Orijinal dosyanızdaki fetch fonksiyonlarını buraya eklemelisiniz)
+    # for fn in [fetch_unesco, fetch_osm_kultur, fetch_wdpa, fetch_osm_data, fetch_gfw, fetch_depremler]:
+    #     try:
+    #         yeni_otomatik_veriler += fn()
+    #     except Exception as e:
+    #         print(f"HATA {fn.__name__}: {e}")
+    #         traceback.print_exc()
+            
+    print("Otomatik veri kaynakları çekiliyor...")
+    # Örnek olarak birkaçını ekledim, orijinal dosyanızdaki tüm fetch_* fonksiyonlarını buraya ekleyin
+    yeni_otomatik_veriler += fetch_unesco()
+    yeni_otomatik_veriler += fetch_osm_kultur()
+    yeni_otomatik_veriler += fetch_wdpa()
+    # ... diğer fetch fonksiyonları ...
+    
+    save_cache()
+
+    # Otomatik verileri ID'ye göre tekilleştir
+    seen_ids = set()
+    unique_auto_data = []
+    for item in yeni_otomatik_veriler:
+        if item['id'] not in seen_ids:
+            unique_auto_data.append(item)
+            seen_ids.add(item['id'])
+
+    # Manuel ve yeni otomatik verileri birleştir
+    tum_veri = manuel + unique_auto_data
+
+    print(f"\n{'='*50}")
+    print(f"Manuel: {len(manuel)} | Otomatik: {len(unique_auto_data)} | TOPLAM: {len(tum_veri)}")
+    print(f"{'='*50}")
+
+    try:
+        write_data(tum_veri)
+        print(f"OK: {len(tum_veri)} kayıt yazıldı!")
+    except Exception as e:
+        print(f"HATA: {e}")
+        traceback.print_exc()
+        raise
+
+    print(f"\nTamamlandi: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n")
+
+if __name__ == '__main__':
+    main()
