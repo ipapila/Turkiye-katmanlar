@@ -25503,5 +25503,872 @@
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
+  },
+  {
+    "id": "ryc2e4qxrw1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yozgat Çamlığı Milli Parkı",
+    "il": "Yozgat",
+    "aciklama": "Türkiye'nin ilk milli parkı ve 267 ha ile en küçüğü. İç Anadolu steplerinde nadir bulunan Kafkas Çamı bireylerini barındırır.",
+    "koordinatlar": {
+      "lat": 39.8167,
+      "lng": 34.8
+    },
+    "alan_ha": 267,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rajl6qeo5m1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Karatepe-Aslantaş Milli Parkı",
+    "il": "Osmaniye",
+    "aciklama": "Demir Çağı Hitit kalıntıları ve Karatepe Yazıtları. Çukurova deltasına yakın, Aslantaş Barajı çevresinde.",
+    "koordinatlar": {
+      "lat": 37.4,
+      "lng": 36.1667
+    },
+    "alan_ha": 4145,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r6c21opo461774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Soğuksu Milli Parkı",
+    "il": "Ankara",
+    "aciklama": "Ankara'ya 80 km mesafede, Kızılcahamam kaplıcalarıyla bütünleşik yaylalık alan.",
+    "koordinatlar": {
+      "lat": 40.56,
+      "lng": 32.6
+    },
+    "alan_ha": 1187,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r9wc65nihc1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kuşcenneti (Manyas Gölü) Milli Parkı",
+    "il": "Balıkesir",
+    "aciklama": "Türkiye'nin 4. milli parkı fakat Ortadoğu'nun ilk milli parkı unvanını taşır. Sığ Marmara gölünde 240+ kuş türü.",
+    "koordinatlar": {
+      "lat": 40.1953,
+      "lng": 27.9678
+    },
+    "alan_ha": 24047,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rzm9p632441774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Uludağ Milli Parkı",
+    "il": "Bursa",
+    "aciklama": "Marmara Bölgesi'nin en yüksek dağı (2543 m). Türkiye'nin en büyük kış sporları merkezi. 580 yaşlık İnkaya Çınarı anıt ağaç.",
+    "koordinatlar": {
+      "lat": 40.15,
+      "lng": 29.2167
+    },
+    "alan_ha": 12762,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ra2po0j1wd1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yedigöller Milli Parkı",
+    "il": "Bolu",
+    "aciklama": "Büyükgöl, Seringöl, Deringöl, Nazlıgöl, İncegöl, Küçükgöl, Sazlıgöl'den oluşur. Sonbahar renkleriyle ünlü kamp alanı.",
+    "koordinatlar": {
+      "lat": 40.9333,
+      "lng": 31.7333
+    },
+    "alan_ha": 2019,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rj7yvqcduu1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dilek Yarımadası — Büyük Menderes Deltası Milli Parkı",
+    "il": "Aydın",
+    "aciklama": "Samsun Dağları'nın Ege uzantısı. Maki florasının doğal hâli. 6 dünya endemiği bitki. Akdeniz foku için mağara habitatı.",
+    "koordinatlar": {
+      "lat": 37.6,
+      "lng": 27.25
+    },
+    "alan_ha": 27598,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r6honfkqop1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Spil Dağı Milli Parkı",
+    "il": "Manisa",
+    "aciklama": "Manisa'ya 24 km uzaklıkta. Mitolojide Tantalos ve Niobe hikâyelerine konu olan antik Sipylos Dağı. Niobe kayası parkın simgesi.",
+    "koordinatlar": {
+      "lat": 38.5833,
+      "lng": 27.7
+    },
+    "alan_ha": 6860,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rg90meqt381774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kızıldağ Milli Parkı",
+    "il": "Isparta",
+    "aciklama": "Beyşehir Gölü'ne nazır 55.000 ha'lık büyük orman parkı. Güneybatı Anadolu'nun en geniş sedir ormanlarından biri.",
+    "koordinatlar": {
+      "lat": 37.8,
+      "lng": 31.15
+    },
+    "alan_ha": 55105,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rj8prx693z1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Güllük Dağı — Termessos Milli Parkı",
+    "il": "Antalya",
+    "aciklama": "Likya'nın alınmaz kalesi Termessos antik kenti burada. İskender bile bu kenti almaktan vazgeçmiştir. Yüksek dağ ve kanyonlardaki otantik antik kent kalıntıları.",
+    "koordinatlar": {
+      "lat": 37.0667,
+      "lng": 30.4667
+    },
+    "alan_ha": 6700,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpz5ch89131774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kovada Gölü Milli Parkı",
+    "il": "Isparta",
+    "aciklama": "Eğirdir Gölü'nün artığı olan tektonik kökenli saf göl. Susuzluğun hiç yaşanmadığı, Isparta'nın mücevheri.",
+    "koordinatlar": {
+      "lat": 37.8667,
+      "lng": 30.9
+    },
+    "alan_ha": 6550,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r0cyfz5ghe1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Munzur Vadisi Milli Parkı",
+    "il": "Tunceli / Erzincan",
+    "aciklama": "62.000 ha ile Türkiye'nin büyük milli parklarından. Munzur Çayı rafting güzergâhı. Dağ geçitlerinde kristal su kaynakları.",
+    "koordinatlar": {
+      "lat": 39.2667,
+      "lng": 39.3333
+    },
+    "alan_ha": 62674,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rj6aqisrox1774106026688",
+    "tip": "İklim Olayları",
+    "ad": "Beydağları Sahil (Olympos) Milli Parkı",
+    "il": "Antalya",
+    "aciklama": "Olympos, Phaselis, İdyros antik kentleri + Homer'in anlatısındaki Yanartaş (Chimaera). Caretta caretta'nın Çıralı ve Tekirova sahillerinde yuvalaması.",
+    "koordinatlar": {
+      "lat": 36.4833,
+      "lng": 30.5333
+    },
+    "alan_ha": 31165,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7bj1h625h1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Köprülü Kanyon Milli Parkı",
+    "il": "Antalya",
+    "aciklama": "14 km uzunluğu ve 100 m+ duvar yüksekliğiyle Türkiye'nin en uzun kanyonlarından. Köprüçay'da yıllık 100.000+ rafting katılımcısı.",
+    "koordinatlar": {
+      "lat": 37.2667,
+      "lng": 31.4
+    },
+    "alan_ha": 35719,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r577mn36sy1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gelibolu Yarımadası Tarihi Milli Parkı",
+    "il": "Çanakkale",
+    "aciklama": "1. Dünya Savaşı'nın Çanakkale Cephesi. Türk, ANZAC ve İngiliz-Fransız şehitlikleri. Her yıl 25 Nisan'da ANZAC törenleri düzenlenir.",
+    "koordinatlar": {
+      "lat": 40.2833,
+      "lng": 26.42
+    },
+    "alan_ha": 33439,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rje8iavxco1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ilgaz Dağı Milli Parkı",
+    "il": "Kastamonu / Çankırı",
+    "aciklama": "Kastamonu'ya 38 km. Kış sporları merkezi. Ilgaz kayak merkezi.",
+    "koordinatlar": {
+      "lat": 41.0833,
+      "lng": 33.6333
+    },
+    "alan_ha": 1117,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rc3edw7cqa1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Başkomutan Tarihi Milli Parkı",
+    "il": "Afyonkarahisar / Kütahya / Uşak",
+    "aciklama": "Türkiye Kurtuluş Savaşı'nın son ve belirleyici muharebesi alanı. Kocatepe Anıtı ve Dumlupınar Müzesi içerir.",
+    "koordinatlar": {
+      "lat": 38.9333,
+      "lng": 30.2833
+    },
+    "alan_ha": 34833,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r2w494hgd51774106026688",
+    "tip": "İklim Olayları",
+    "ad": "Göreme Tarihi Milli Parkı",
+    "il": "Nevşehir",
+    "aciklama": "Hasan Dağı ve Erciyes'in volkanik tüf ve lavlarının aşınmasıyla oluşan Kapadokya manzarası. 900'den fazla kaya kilisesi ve manastır.",
+    "koordinatlar": {
+      "lat": 38.65,
+      "lng": 34.85
+    },
+    "alan_ha": 9614,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgkglzyw6l1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Altındere Vadisi Milli Parkı (Sümela)",
+    "il": "Trabzon",
+    "aciklama": "270 m yükseklikte dikey kaya yüzeyine inşa edilmiş Sümela Manastırı (MS 386). Ortaçağ Rum Ortodoks mimarisinin Anadolu'daki en etkileyici örneği.",
+    "koordinatlar": {
+      "lat": 40.7167,
+      "lng": 39.6333
+    },
+    "alan_ha": 4468,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rseitmlta61774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Boğazköy-Alacahöyük Milli Parkı",
+    "il": "Çorum",
+    "aciklama": "MÖ 2. binyıl Hitit İmparatorluğu'nun başkenti Hattuşa. Dünyanın bilinen ilk anlaşması (Kadeş Antlaşması) bu imparatorluktan kaldı.",
+    "koordinatlar": {
+      "lat": 40.0333,
+      "lng": 34.6167
+    },
+    "alan_ha": 2600,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r6l9xr5t421774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Nemrut Dağı Milli Parkı",
+    "il": "Adıyaman",
+    "aciklama": "MÖ 1. yüzyılda Kral Antiokhos I tarafından inşa ettirilen 8-9 m'lik dev tanrı heykelleri ve 50 m yüksekliğindeki tümülüs.",
+    "koordinatlar": {
+      "lat": 37.9667,
+      "lng": 38.7333
+    },
+    "alan_ha": 13827,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r906toincq1774106026688",
+    "tip": "İklim Olayları",
+    "ad": "Beyşehir Gölü Milli Parkı",
+    "il": "Konya / Isparta",
+    "aciklama": "88.750 ha ile Türkiye'nin en büyük 2. milli parkı. Türkiye'nin en büyük tatlısu gölü. 33 adacık. Eşrefoğlu Camii ahşap sütunlu Selçuklu şaheseri.",
+    "koordinatlar": {
+      "lat": 37.7167,
+      "lng": 31.4667
+    },
+    "alan_ha": 88750,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ry5n7f4fee1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kazdağı (İda Dağı) Milli Parkı",
+    "il": "Balıkesir",
+    "aciklama": "Truva Savaşı'na sahne olan Troya'nın arka alanı. Homeros'un İlyada destanında geçen Ida Dağı. Kazdağı Göknarı sadece burada yetişir.",
+    "koordinatlar": {
+      "lat": 39.7833,
+      "lng": 26.9
+    },
+    "alan_ha": 20935,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpuw90azkc1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Altınbeşik Mağarası Milli Parkı",
+    "il": "Antalya",
+    "aciklama": "2500 m uzunluğunda 3 katlı mağara. Alt seviye tamamen su altında ve Türkiye'nin en büyük yeraltı gölü. Dünyanın 3. büyük yeraltı gölü.",
+    "koordinatlar": {
+      "lat": 37.0667,
+      "lng": 31.45
+    },
+    "alan_ha": 1147,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rl1i1wp5m91774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Hatila Vadisi Milli Parkı",
+    "il": "Artvin",
+    "aciklama": "Türkiye'nin en yüksek cam seyir terası (220 m). Akdeniz bitki türlerini de barındıran Karadeniz vadisi. Kanyonculuk merkezi.",
+    "koordinatlar": {
+      "lat": 41.2167,
+      "lng": 41.8
+    },
+    "alan_ha": 16944,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rdp2r5ucvl1774106026688",
+    "tip": "İklim Olayları",
+    "ad": "Karagöl-Sahara Milli Parkı",
+    "il": "Artvin",
+    "aciklama": "Karagöl + Sahara Yaylası iki sahadan oluşur. Çevresindeki köylerde geleneksel kütük evler. Ortaçağ kaya manastırına 1.5 saatlik yürüyüş.",
+    "koordinatlar": {
+      "lat": 41.15,
+      "lng": 42.4833
+    },
+    "alan_ha": 3251,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkbhqlx1dv1774106026688",
+    "tip": "İklim Olayları",
+    "ad": "Kaçkar Dağları Milli Parkı",
+    "il": "Rize / Artvin",
+    "aciklama": "Türkiye'nin Alpleri olarak adlandırılır. Doğu Karadeniz'in en yüksek zirvesi (3937 m). Palovit ve Gelintülü Şelaleleri. Türkiye'nin en iyi trekking rotası.",
+    "koordinatlar": {
+      "lat": 40.8667,
+      "lng": 41.15
+    },
+    "alan_ha": 51550,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ryz3zugz2h1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Aladağlar Milli Parkı",
+    "il": "Adana / Niğde",
+    "aciklama": "Türkiye'nin en zorlu kaya tırmanışı ve kanyon alanı. Kapuzbaşı Şelalesi (7 kat, 70-100 m toplam). Emli Vadisi kanyoncular arasında efsane.",
+    "koordinatlar": {
+      "lat": 37.7333,
+      "lng": 35.25
+    },
+    "alan_ha": 54614,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rl7tjwtjhv1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Marmaris Milli Parkı",
+    "il": "Muğla",
+    "aciklama": "Marmaris ve Hisarönü körfezini çevreleyen yarımada ve körfez ekosistemi. Yoğun yat turizminin baskısına karşı koruma kalkanı.",
+    "koordinatlar": {
+      "lat": 36.8333,
+      "lng": 28.3
+    },
+    "alan_ha": 30250,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgj390qhad1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Saklıkent Milli Parkı",
+    "il": "Muğla / Antalya",
+    "aciklama": "18 km uzunluğu ve bazı noktalarda 300 m yüksekliğiyle Türkiye'nin en uzun ikinci kanyonu. Dondurucu soğuk su içinde yürüyüş turu.",
+    "koordinatlar": {
+      "lat": 36.4,
+      "lng": 29.4167
+    },
+    "alan_ha": 1196,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rtg0p4gj0e1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Troya Tarihi Milli Parkı",
+    "il": "Çanakkale",
+    "aciklama": "Homeros'un İlyada destanında anlatılan ve yaklaşık MÖ 1200'de yıkılan Troya şehri. 9 katlı yerleşme katmanlı höyük.",
+    "koordinatlar": {
+      "lat": 39.95,
+      "lng": 26.2333
+    },
+    "alan_ha": 10462,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r2hax04d0v1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Honaz Dağı Milli Parkı",
+    "il": "Denizli",
+    "aciklama": "Pamukkale'ye yakın Honaz Dağı. Colossae antik kenti kalıntıları ve Hıristiyanlığın ilk mektuplarından birinin (Colossalılar Mektubu) yazıldığı yer.",
+    "koordinatlar": {
+      "lat": 37.7,
+      "lng": 29.2667
+    },
+    "alan_ha": 6972,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r2a0mzahxp1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Küre Dağları Milli Parkı",
+    "il": "Kastamonu / Bartın",
+    "aciklama": "Kuzey Anadolu'nun yüksek yaylasında Valla (11 km) ve Horma kanyonları. Kanyoncular ve trekkerlar için üs.",
+    "koordinatlar": {
+      "lat": 41.85,
+      "lng": 33.6
+    },
+    "alan_ha": 37753,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rxg73wxilc1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sarıkamış-Allahuekber Dağları Milli Parkı",
+    "il": "Erzurum / Kars",
+    "aciklama": "1914-15 kışında donarak şehit olan ~90.000 Türk askerinin şehitliği. Sarıçam'ın ülkedeki en yüksek rakımlı saf orman meşceresi.",
+    "koordinatlar": {
+      "lat": 40.3833,
+      "lng": 42.6667
+    },
+    "alan_ha": 22520,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rc6hr3b4d21774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ağrı Dağı Milli Parkı",
+    "il": "Ağrı / Iğdır",
+    "aciklama": "5137 m ile Türkiye'nin ve Avrupa Kıtası'nın en yüksek zirvesi. Dünyanın 2. en büyük volkanik dağı. Kutsal dağ efsaneleri. İshak Paşa Sarayı park sınırlarında.",
+    "koordinatlar": {
+      "lat": 39.7333,
+      "lng": 44.2333
+    },
+    "alan_ha": 88015,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r91dgacpg51774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gala Gölü Milli Parkı",
+    "il": "Edirne",
+    "aciklama": "Meriç Nehri deltasındaki sığ göl. Trakya'nın kuş gözlem merkezi. Göç sezonu boyunca binlerce pelikan.",
+    "koordinatlar": {
+      "lat": 40.9667,
+      "lng": 26.3833
+    },
+    "alan_ha": 5936,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rlv5lxhvsy1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Tek Tek Dağları Milli Parkı",
+    "il": "Şanlıurfa",
+    "aciklama": "Şanlıurfa ovasına hâkim bazalt yaylalar. Prehistorik kaya resimleri, Hitit çağına uzanan arkeolojik buluntular.",
+    "koordinatlar": {
+      "lat": 37.1833,
+      "lng": 38.7833
+    },
+    "alan_ha": 26182,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rz43eygq7x1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "İğneada Longoz Ormanları Milli Parkı",
+    "il": "Kırklareli",
+    "aciklama": "Türkiye'de en iyi korunan longoz ormanı. Kuzey Anadolu Karadeniz kıyısında kumsal + lagün + orman kombinasyonu eşsiz ekosistem.",
+    "koordinatlar": {
+      "lat": 41.89,
+      "lng": 27.96
+    },
+    "alan_ha": 3155,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rqc5ff49ca1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yumurtalık Lagünleri Milli Parkı",
+    "il": "Adana",
+    "aciklama": "Çukurova Deltası içinde. 9 endemik bitki türü. Hem Caretta caretta hem Chelonia mydas kaplumbağası. Yumurtalık Petrol Terminali komşuluğundaki kırılgan ekosistem.",
+    "koordinatlar": {
+      "lat": 36.8,
+      "lng": 35.635
+    },
+    "alan_ha": 19800,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "razq67vecq1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Nene Hatun Tarihi Milli Parkı",
+    "il": "Erzurum",
+    "aciklama": "Aziziye ve Mecidiye Tabyaları'nın bulunduğu 387 ha'lık tarihi alan. Nene Hatun'un kahramanlığıyla tarihe geçen 1877-78 savaş alanı.",
+    "koordinatlar": {
+      "lat": 39.9081,
+      "lng": 41.2722
+    },
+    "alan_ha": 387,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rewxrixpuv1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sakarya Meydan Muharebesi Tarihi Milli Parkı",
+    "il": "Ankara",
+    "aciklama": "23 Temmuz–13 Eylül 1921 arası Türk-Yunan Sakarya Savaşı. Türklerin son savunma savaşı. Atatürk'ün Başkomutan unvanıyla yönetti.",
+    "koordinatlar": {
+      "lat": 39.5833,
+      "lng": 32.0167
+    },
+    "alan_ha": 13850,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7pj9zn6m11774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kop Dağı Müdafaası Tarihi Milli Parkı",
+    "il": "Bayburt / Erzurum",
+    "aciklama": "1. Dünya Savaşı'nda Kop Dağı geçidinde verilen savunma muharebeleri. Bayburt-Erzurum hattı. Karlı dağ geçidinde şehitler.",
+    "koordinatlar": {
+      "lat": 40.25,
+      "lng": 40.3333
+    },
+    "alan_ha": 6335,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rwcvik7nit1774106026688",
+    "tip": "İklim Olayları",
+    "ad": "Malazgirt Meydan Muharebesi Tarihi Milli Parkı",
+    "il": "Muş",
+    "aciklama": "26 Ağustos 1071'de Selçuklu Sultanı Alp Arslan'ın Bizans imparatorunu esir aldığı tarihi zafer alanı. Türklerin Anadolu'ya yerleşmesinin dönüm noktası.",
+    "koordinatlar": {
+      "lat": 38.9333,
+      "lng": 42.5333
+    },
+    "alan_ha": 238,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r86a4kk4mt1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstiklal Yolu Tarihi Milli Parkı",
+    "il": "Kastamonu / Çankırı",
+    "aciklama": "Kurtuluş Savaşı'nda cepheye silah ve erzak taşınan İstiklal Yolu. 31 köyde geçer. Her yıl Kastamonu Valiliği'nce yürüyüş etkinliği düzenlenir.",
+    "koordinatlar": {
+      "lat": 41.4167,
+      "lng": 33.7167
+    },
+    "alan_ha": 236,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rm84ohva1q1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Botan Vadisi Milli Parkı",
+    "il": "Siirt",
+    "aciklama": "29 km'lik kanyon güzergâhı. Ksenofon'un Anabasis destanında geçen tarihi güzergah. Tarihi Botan Beyliği merkezi. Rafting, yamaç paraşütü.",
+    "koordinatlar": {
+      "lat": 37.85,
+      "lng": 41.5833
+    },
+    "alan_ha": 11358,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r31cu5pf2c1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Hakkari Cilo ve Sat Dağları Milli Parkı",
+    "il": "Hakkari",
+    "aciklama": "3.400 m+ ortama yüksekliğiyle Türkiye'nin en yüksek milli parkı. Türkiye'nin 2. yüksek zirvesi Uludoruk (Reşko, 4135 m). 20.000 yıllık buzullar. Sat gölleri.",
+    "koordinatlar": {
+      "lat": 37.55,
+      "lng": 44.1
+    },
+    "alan_ha": 27500,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ru5vxylk0n1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sarıçalı Dağı Milli Parkı",
+    "il": "Ankara",
+    "aciklama": "Ankara'ya 185 km uzaklıkta, Nallıhan'a 25 km'de. 1740 m rakım. Uyuzsuyu Şelalesi ile peyzaj değeri yüksek alan.",
+    "koordinatlar": {
+      "lat": 40.1833,
+      "lng": 31.9333
+    },
+    "alan_ha": 1024,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rcab9ooue21774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Derebucak Çamlık Mağaraları Milli Parkı",
+    "il": "Konya",
+    "aciklama": "Konya'nın Toros Dağları eteklerinde. 2022'de Türkiye'nin 47. milli parkı oldu.",
+    "koordinatlar": {
+      "lat": 37.4167,
+      "lng": 31.8167
+    },
+    "alan_ha": 1147,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rov78owhuw1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Abant Gölü Milli Parkı",
+    "il": "Bolu",
+    "aciklama": "1328 m rakımda Kuzey Anadolu fay hattı üzerinde tektonik kökenli heyelan gölü. Bolu'ya 35 km. İstanbul ve Ankara'ya en yakın büyük doğal göl.",
+    "koordinatlar": {
+      "lat": 40.5833,
+      "lng": 31.2167
+    },
+    "alan_ha": 1262,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4c5l6ybc71774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Akdağ Milli Parkı",
+    "il": "Denizli / Afyonkarahisar",
+    "aciklama": "Türkiye'nin 4 akbaba türünün birlikte yuva yaptığı tek milli parkı. 20 yılda kızıl geyik popülasyonu büyük artış gösterdi. Tokalı ve Karanlıkdere kanyonları.",
+    "koordinatlar": {
+      "lat": 38.2833,
+      "lng": 29.2
+    },
+    "alan_ha": 15933,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r6qmrvtm0u1774106026688",
+    "tip": "Ekolojik İhlal",
+    "ad": "Geben Vadisi Milli Parkı",
+    "il": "Giresun",
+    "aciklama": "30 Mayıs 2025'te ilan edilen Türkiye'nin 50. ve en son milli parkı. Giresun iline bağlı Geben Vadisi. Alan bilgisi henüz tam olarak yayımlanmamıştır.",
+    "koordinatlar": {
+      "lat": 40.5667,
+      "lng": 38.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
   }
 ]
