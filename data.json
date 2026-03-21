@@ -24362,5 +24362,22 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Manuel"
+  },
+  {
+    "id": "rrk5j01qn71774083075837",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Akbelen Acele Kamulaştırma",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.216112,
+      "lng": 27.750092
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Manuel"
   }
 ]
