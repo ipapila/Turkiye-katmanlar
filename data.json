@@ -20887,5 +20887,709 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r5t4cw0a8m1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Afşin-Elbistan Termik Santrali",
+    "il": "Kahramanmaraş",
+    "aciklama": "Türkiye'nin en büyük termik santrali",
+    "koordinatlar": {
+      "lat": 38.6503,
+      "lng": 38.2406
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rkbm2lk2gl1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Yatağan Termik Santrali",
+    "il": "Muğla",
+    "aciklama": "Kömür yakıtlı",
+    "koordinatlar": {
+      "lat": 39.85,
+      "lng": 27.8667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rguskmuylc1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Kemerköy Termik Santrali",
+    "il": "Muğla",
+    "aciklama": "Kemerköy, Muğla",
+    "koordinatlar": {
+      "lat": 38.3,
+      "lng": 27.2833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r2u20y4tzd1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Yeniköy Termik Santrali",
+    "il": "Muğla",
+    "aciklama": "Yeniköy, Muğla",
+    "koordinatlar": {
+      "lat": 37.8167,
+      "lng": 27.5167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r4x8fv82i31774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Zonguldak Çatalağzı Termik Santrali",
+    "il": "Zonguldak",
+    "aciklama": "Çatalağzı",
+    "koordinatlar": {
+      "lat": 40.9833,
+      "lng": 31.9333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ryuksk58gd1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Zonguldak Karadon Termik Santrali",
+    "il": "Zonguldak",
+    "aciklama": "Karadon",
+    "koordinatlar": {
+      "lat": 41.2,
+      "lng": 31.6
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rtxcb9tw0v1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Birecik Termik Santrali",
+    "il": "Şanlıurfa",
+    "aciklama": "Birecik",
+    "koordinatlar": {
+      "lat": 36.95,
+      "lng": 36.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "raayp64cxh1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Konya Ereğli Termik Santrali",
+    "il": "Konya",
+    "aciklama": "Ereğli",
+    "koordinatlar": {
+      "lat": 37.85,
+      "lng": 34.45
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rur3z0m0eg1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Soma Termik Santrali",
+    "il": "Manisa",
+    "aciklama": "Soma",
+    "koordinatlar": {
+      "lat": 39.45,
+      "lng": 27.2167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r5z1ba5qsa1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Konya Termik Santrali",
+    "il": "Konya",
+    "aciklama": "Konya",
+    "koordinatlar": {
+      "lat": 37.8667,
+      "lng": 32.5167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rxjnt9hc2s1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "İzmir Ali Ağa Termik Santrali",
+    "il": "İzmir",
+    "aciklama": "Ali Ağa",
+    "koordinatlar": {
+      "lat": 38.4333,
+      "lng": 27.15
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rgnnsp6bg01774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Tunçbilek Termik Santrali",
+    "il": "Kütahya",
+    "aciklama": "Tunçbilek",
+    "koordinatlar": {
+      "lat": 39.2167,
+      "lng": 27.2167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rkpe9fbw2k1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Çay Termik Santrali",
+    "il": "Kütahya",
+    "aciklama": "Çay",
+    "koordinatlar": {
+      "lat": 39.4667,
+      "lng": 29.5167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r0qk5yebfa1774074216618",
+    "tip": "Termik Reaktör",
+    "ad": "Çan Termik Santrali",
+    "il": "Çanakkale",
+    "aciklama": "Çan",
+    "koordinatlar": {
+      "lat": 40.15,
+      "lng": 27.1667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rza986tm601774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Erzincan",
+    "aciklama": "Anagold Madencilik'in işlettiği siyanürlü altın madeni boru hattında meydana gelen yırtılma sonucunda firmanın beyanına göre 20 m³, bilirkişi incelemesine göre en az 210 m³ siyanürlü çözelti çevreye yayıldı. Fırat Nehri'ne sızdığı iddia edildi. Bakanlık, şirkete en üst sınırdan 16,4 milyon TL para cezası kesti; maden 88 gün kapatıldı. Sorumlular UCM'ye taşındı.",
+    "koordinatlar": {
+      "lat": 39.2833,
+      "lng": 38.5641
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r9irffgzbn1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Erzincan",
+    "aciklama": "10 milyon m³ hacmindeki siyanürlü yığın liç sahası 14:28'de çökerek 800 metre boyunca Sabırlı Deresi'ne aktı. 9 işçi göçük altında kaldı; son ceset 116 gün sonra çıkarıldı. Şirket lisansı iptal edildi ancak 1 milyon dolar ceza sonrası operasyonları yeniden başlatmasına izin verildi. Stop Ecocide International konuyu ekokirım örnek vakası ilan etti.",
+    "koordinatlar": {
+      "lat": 39.2833,
+      "lng": 38.5641
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rn3xex6sqm1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Balıkesir / Çanakkale",
+    "aciklama": "Alamos Gold şirketinin Kaz Dağları'nda başlattığı altın madeni projesi için ÇED onayı alınmadan 195.000'i aşkın ağaç kesildi. 'Kaz Dağları Nöbeti' adıyla ülke gündemini saran protesto dalgası çıktı. Danıştay 2020'de ÇED kararını iptal etti.",
+    "koordinatlar": {
+      "lat": 39.7006,
+      "lng": 26.9728
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rej0w7okhk1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul / Kocaeli / Bursa / Yalova",
+    "aciklama": "Onlarca yıllık arıtılmamış atık su deşarjları ve deniz ısınmasının birleşimi, 2021'de Marmara'nın tarihinin en büyük müsilaj felaketiyle sonuçlandı. Deniz tabanı ekosistemi çöktü, balıkçılık ve turizm ağır zarar gördü. Stop Ecocide International bu vakayı ekokırım örneği olarak belgeledi.",
+    "koordinatlar": {
+      "lat": 41.02,
+      "lng": 28.92
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r8gp5268v91774074966599",
+    "tip": "Termik Reaktör",
+    "ad": "Termik Reaktör",
+    "il": "Kahramanmaraş",
+    "aciklama": "Greenpeace Akdeniz ve Avrupa Çevre Ajansı verilerine göre Afşin-Elbistan A ve B santralleri, Avrupa'nın sağlık riski en yüksek kömür santrallerinden biri. Türkiye'de PM2.5 için yasal sınır bulunmuyor. Santral, AB emisyon standartlarını sürekli aşıyor.",
+    "koordinatlar": {
+      "lat": 37.9208,
+      "lng": 38.3695
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rawrk52h9k1774074966599",
+    "tip": "Termik Reaktör",
+    "ad": "Termik Reaktör",
+    "il": "Manisa",
+    "aciklama": "Greenpeace verilerine göre Soma, Avrupa'nın sağlık riski ikinci yüksek kömür santrali. Çevre hukuku kuruluşlarının açtığı davalar sonuçsuz kaldı.",
+    "koordinatlar": {
+      "lat": 38.9522,
+      "lng": 27.8681
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ropmyryr0c1774074966599",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Gaziantep",
+    "aciklama": "Gaziantep OSB'nin tekstil ve boyama tesislerinden deşarj edilen arıtılmamış atık su Sacur Çayı'nı kirletti. Bakanlık denetimleri ceza kesti ancak sistematik yaptırım uygulanamadı.",
+    "koordinatlar": {
+      "lat": 37.2,
+      "lng": 38.4
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rr5i4epa9c1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Antalya",
+    "aciklama": "Antalya çevresi orman alanlarında tespit edilen kaçak katı atık döküm noktaları, OGM ve Bakanlık denetimleriyle kayıt altına alındı. Tıbbi ve tehlikeli atık dökümü de gündeme geldi.",
+    "koordinatlar": {
+      "lat": 36.5824,
+      "lng": 30.7327
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rx9dbbgb2q1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Adıyaman",
+    "aciklama": "Adıyaman Çelikhan'da faaliyette olan altın madeninin atık havuzundan sızıntı tespit edildi; Tohma Çayı balık ölümleri ve kirlilik belirtildi.",
+    "koordinatlar": {
+      "lat": 37.07,
+      "lng": 37.53
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r7xgvx775v1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Malatya",
+    "aciklama": "ÇED belgesi olmaksızın açılan mermer ocakları, dere yatakları yakınında kazı yaparak su kirliliğine yol açtı.",
+    "koordinatlar": {
+      "lat": 37.565,
+      "lng": 37.775
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rq450c4zpx1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Şırnak",
+    "aciklama": "Stop Ecocide International ve bianet raporlarına göre Şırnak ve çevre ormanlık alanlarda gerçekleştirilen operasyonlar kapsamında geniş meşe orman alanları tahrip edildi. Sivil toplum ve ekokirım inisiyatifi konuyu parlamentoya taşıdı.",
+    "koordinatlar": {
+      "lat": 37.3,
+      "lng": 42.2
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rqc8wqws6c1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Kahramanmaraş / Hatay / Adıyaman",
+    "aciklama": "Internationalist Standpoint ve Stop Ecocide raporlarına göre 6 Şubat depremi sonrasında asbestos içeren enkaz, tehlikeli atık yönetimi kuralları gözetilmeden çevreye dağıtıldı. Ekipman kullanan ve bölgede yaşayan on binlerce kişi maruz kaldı.",
+    "koordinatlar": {
+      "lat": 36.7971,
+      "lng": 38.3743
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rjsu1v1dt11774074966599",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Hatay",
+    "aciklama": "6 Şubat depremi sonrasında İskenderun Limanı depolama sahalarında çıkan yangın 5 günü aşkın süre söndürülemedi. Toksik dumana maruz kalan binlerce kişi şikayette bulundu.",
+    "koordinatlar": {
+      "lat": 36.59,
+      "lng": 36.2021
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rj4kq3606j1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Balıkesir",
+    "aciklama": "Marmara'ya akan akarsuların kaynağına yakın alanlarda ÇED belgesi eksiklikleriyle yürütülen maden arama faaliyetleri köylü şikayetleri ve hukuki süreçlere yol açtı.",
+    "koordinatlar": {
+      "lat": 38.9667,
+      "lng": 27.5333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rkqes58q9f1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Hatay",
+    "aciklama": "Deprem inşaat sürecinde ortaya çıkan malzeme açığı, Hatay'da özellikle Asi Nehri'nden kaçak kum ve çakıl çıkarımını artırdı.",
+    "koordinatlar": {
+      "lat": 36.2,
+      "lng": 36.16
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rxz5q8ed4i1774074966599",
+    "tip": "Termik Reaktör",
+    "ad": "Termik Reaktör",
+    "il": "Ankara",
+    "aciklama": "Termik santral kül sahalarından sızan kirletici ağır metaller yeraltı suyuna karışarak tarım arazilerini etkiledi.",
+    "koordinatlar": {
+      "lat": 39.94,
+      "lng": 32.82
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rwb4z9yq8k1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İzmir",
+    "aciklama": "İzmir Körfezi'nde tespit edilen petrol türevi kirlilik lekesi MARPOL ihlali kapsamında soruşturuldu; kuş ve deniz yaşamında tahribat gözlendi.",
+    "koordinatlar": {
+      "lat": 38.42,
+      "lng": 26.96
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rf5ty9ai3a1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Malatya",
+    "aciklama": "OGM ve jandarma operasyonunda kaçak kesim yapılan ormanlık alanda yüzlerce ağaç kütüğü ve kaçak kereste ele geçirildi; şüpheliler gözaltına alındı.",
+    "koordinatlar": {
+      "lat": 38.294,
+      "lng": 36.9071
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rthhxmyh1l1774074966599",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Mersin",
+    "aciklama": "Caretta caretta deniz kaplumbağasının üreme alanlarına yakın bölgelerde imar planı dışı yapılaşma gerçekleştirildi. WWF-Türkiye ve TEMA konuyu raporladı.",
+    "koordinatlar": {
+      "lat": 37,
+      "lng": 35.32
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "re91yn3j5t1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "İstanbul Boğazı ve Marmara'da av yasağı dönemlerinde, yasaklı av araçlarıyla (sürükleme ağı, elektrik, dinamit) gerçekleştirilen kaçak balıkçılık her yıl binlerce ceza gerektiriyor.",
+    "koordinatlar": {
+      "lat": 41,
+      "lng": 29
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rfm5k3tywn1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Elazığ",
+    "aciklama": "Keban Barajı çevresindeki maden ve sanayi tesislerinin atık deşarjları baraj suyunu olumsuz etkiledi. Balık ölümleri belgelendi.",
+    "koordinatlar": {
+      "lat": 37.56,
+      "lng": 40.22
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rfhvqab2i21774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Burdur",
+    "aciklama": "Türkiye'nin en hızlı küçülen gölü olan Burdur Gölü, aşırı sulama suyu çekimi ve tarımsal kirlilik nedeniyle son 50 yılda yüzey alanının yarısını yitirdi. Flamingo ve diğer su kuşlarının üreme alanı tehdit altında.",
+    "koordinatlar": {
+      "lat": 37.75,
+      "lng": 30.56
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rxnjyn7dyb1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Kayseri",
+    "aciklama": "Kayseri sanayi bölgesinde lisanssız araçlarla taşınan tehlikeli atıkların ormanlık alanlara ve tarlalara bırakıldığı tespit edildi; operasyon sonrası gözaltılar yapıldı.",
+    "koordinatlar": {
+      "lat": 38.74,
+      "lng": 35.4
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rb7jhrqhy21774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Adana",
+    "aciklama": "Adana OSB'de faaliyet gösteren tekstil ve kimya firmalarının arıtılmamış atık suları Seyhan Nehri'ni kirletti; balık ölümleri ve kötü koku şikayetleri belgelendi.",
+    "koordinatlar": {
+      "lat": 37.06,
+      "lng": 36.88
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r8f68ktoqj1774074966599",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Ankara / Kırıkkale",
+    "aciklama": "Türkiye'nin en uzun nehrinin havzasında yetersiz atık su arıtımı ve kaçak deşarjlar su kalitesini bozuyor. Su çerçeve direktifine uyum için AB süreci devam ediyor.",
+    "koordinatlar": {
+      "lat": 39.48,
+      "lng": 33.22
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rff8sa9iv21774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Muğla",
+    "aciklama": "Gökova Özel Çevre Koruma Bölgesi sınırları içinde izinsiz kum çıkarımı ve altyapı çalışmaları kıyı ekosistemi tahribatına yol açtı.",
+    "koordinatlar": {
+      "lat": 37.06,
+      "lng": 29.01
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "raqkjt0bsi1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Erzincan / Tunceli",
+    "aciklama": "2022 siyanür sızıntısının uzun vadeli etkileri 2023'te Munzur Vadisi'nde de gözlemlenmeye devam etti; sivil toplum kuruluşları su numunelerindeki aşırı ağır metal düzeylerini belgeledi.",
+    "koordinatlar": {
+      "lat": 39.65,
+      "lng": 39.14
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rhkpkjot4n1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Muğla",
+    "aciklama": "Yasal güvence altındaki tescilli zeytinlik alanları imara açılarak kaçak yapılaşmaya konu edildi; Zeytin Kanunu ihlali kapsamında davalar açıldı.",
+    "koordinatlar": {
+      "lat": 37.05,
+      "lng": 27.2
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rf77k59zop1774074966599",
+    "tip": "Termik Reaktör",
+    "ad": "Termik Reaktör",
+    "il": "Zonguldak",
+    "aciklama": "Karadeniz kömür havzasında ruhsatsız yürütülen kömür çıkarım faaliyetleri hem çevresel hem de iş güvenliği ihlallerine neden oldu.",
+    "koordinatlar": {
+      "lat": 41.3,
+      "lng": 31.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rezaju0kmy1774074966599",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "İstanbul Pendik sahiline kaçak inşaat molozunun dökülmesi kıyı mevzuatı ihlali kapsamında soruşturmaya konu oldu.",
+    "koordinatlar": {
+      "lat": 40.93,
+      "lng": 29.1
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
   }
 ]
