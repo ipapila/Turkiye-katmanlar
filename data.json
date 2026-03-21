@@ -544,227 +544,6 @@
     "kaynak": "MTA"
   },
   {
-    "id": "rhk76xi13q1773928264740",
-    "tip": "Maden Ocağı",
-    "ad": "Soma Kömür İşletmesi",
-    "il": "Manisa",
-    "ilce": "",
-    "aciklama": "Türkiye'nin en büyük linyit sahası.",
-    "koordinatlar": {
-      "lat": 39.19,
-      "lng": 27.59
-    },
-    "alan_ha": 4200,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
-    "kaynak": "TTK"
-  },
-  {
-    "id": "rxy3vzclek1773928264740",
-    "tip": "Maden Ocağı",
-    "ad": "Akseki Krom Madeni",
-    "il": "Antalya",
-    "ilce": "Manavgat",
-    "aciklama": "Aktif krom madenciliği.",
-    "koordinatlar": {
-      "lat": 37.07,
-      "lng": 31.85
-    },
-    "alan_ha": 320,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "rc6z9cw0l51773928264740",
-    "tip": "Maden Ocağı",
-    "ad": "Ergani Bakır Madeni",
-    "il": "Diyarbakır",
-    "ilce": "",
-    "aciklama": "Türkiye'nin en önemli bakır yatağı.",
-    "koordinatlar": {
-      "lat": 38.27,
-      "lng": 39.76
-    },
-    "alan_ha": 1800,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
-    "kaynak": "ETİBANK"
-  },
-  {
-    "id": "rckfv7cuw61773928264740",
-    "tip": "Mermer Ocağı",
-    "ad": "Afyon Mermer Havzası",
-    "il": "Afyonkarahisar",
-    "ilce": "",
-    "aciklama": "Türkiye'nin en büyük mermer üretim havzası.",
-    "koordinatlar": {
-      "lat": 38.75,
-      "lng": 30.54
-    },
-    "alan_ha": 3200,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "rg9ra87vok1773928264740",
-    "tip": "Mermer Ocağı",
-    "ad": "Elmalı Mermer Ocağı",
-    "il": "Antalya",
-    "ilce": "Elmalı",
-    "aciklama": "Yüksek kaliteli beyaz mermer.",
-    "koordinatlar": {
-      "lat": 36.714669,
-      "lng": 29.936457
-    },
-    "alan_ha": 210,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "rnmyvdzky21773928264740",
-    "tip": "Mermer Ocağı",
-    "ad": "Bilecik Mermer Havzası",
-    "il": "Bilecik",
-    "ilce": "",
-    "aciklama": "Önemli mermer üretim bölgesi.",
-    "koordinatlar": {
-      "lat": 40.15,
-      "lng": 29.98
-    },
-    "alan_ha": 1500,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "riz6o4dkcv1773928264740",
-    "tip": "Taş Ocağı",
-    "ad": "Bolu Bazalt Ocakları",
-    "il": "Bolu",
-    "ilce": "",
-    "aciklama": "Yol yapımı için bazalt üretimi.",
-    "koordinatlar": {
-      "lat": 40.73,
-      "lng": 31.61
-    },
-    "alan_ha": 380,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "rwzex26pe81773928264740",
-    "tip": "Taş Ocağı",
-    "ad": "Manavgat Kireçtaşı Ocağı",
-    "il": "Antalya",
-    "ilce": "Manavgat",
-    "aciklama": "Kireçtaşı ve agrega üretimi.",
-    "koordinatlar": {
-      "lat": 36.8,
-      "lng": 31.43
-    },
-    "alan_ha": 120,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "r0skwuco2u1773930052486",
-    "tip": "Maden Ocağı",
-    "ad": "SAROS RES Kumanda Binası",
-    "il": "Balıkesir",
-    "ilce": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.074294,
-      "lng": 26.771443
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1247665497",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON"
-  },
-  {
-    "id": "rj68w232x61773930061814",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Türkiye",
-    "ilce": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.356893,
-      "lng": 27.89348
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "182823728",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON"
-  },
-  {
-    "id": "rbho45ffgo1773930061814",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Türkiye",
-    "ilce": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.673659,
-      "lng": 26.30369
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1467245687",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON"
-  },
-  {
-    "id": "r9f586krd31773930061814",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Türkiye",
-    "ilce": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.670103,
-      "lng": 26.303928
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1467245688",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON"
-  },
-  {
-    "id": "r1tnqrqepu1773930061814",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Türkiye",
-    "ilce": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.667678,
-      "lng": 26.30471
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1467245689",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON"
-  },
-  {
     "id": "r7des2p3r41773930449130",
     "tip": "Nükleer Enerji",
     "ad": "Akkuyu Nükleer",
@@ -833,23 +612,6 @@
     "kaynak": "Shapefile/GeoJSON"
   },
   {
-    "id": "rnprirogp61773930833655",
-    "tip": "Maden Ocağı",
-    "ad": "TR-2 Araştırma Reaktörü",
-    "il": "İstanbul",
-    "ilce": "Beylikdüzü",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 41.026435,
-      "lng": 28.758489
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "543505511",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON"
-  },
-  {
     "id": "rv7b9vbjmd1773931791262",
     "tip": "GES",
     "ad": "Karapınar GES",
@@ -859,23 +621,6 @@
     "koordinatlar": {
       "lat": 37.788895,
       "lng": 33.581772
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r4dkbalfvl1773931957049",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Antalya",
-    "ilce": "Korkuteli",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.038873,
-      "lng": 30.452213
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -916,23 +661,6 @@
     "belge_no": "",
     "eklenme": "2026-03-19",
     "kaynak": "Manuel"
-  },
-  {
-    "id": "r5c23uim6w1773933662351",
-    "tip": "Maden Ocağı",
-    "ad": "kömür ocağı",
-    "il": "Tekirdağ",
-    "ilce": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.910736,
-      "lng": 26.704717
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "242742362",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON"
   },
   {
     "id": "src_66cde1811439",
@@ -1239,125 +967,6 @@
     "belge_no": "OGM-TKA-002",
     "eklenme": "2025-01-01",
     "kaynak": "OGM"
-  },
-  {
-    "id": "src_7fb2d2811439",
-    "tip": "Maden Ocağı",
-    "ad": "Hopa Altın Madeni",
-    "il": "Artvin",
-    "ilce": "Hopa",
-    "aciklama": "Karadeniz bölgesinde altın işletmesi. Çevresel tartışmalı saha.",
-    "koordinatlar": {
-      "lat": 41.4,
-      "lng": 41.38
-    },
-    "alan_ha": 420,
-    "durum": "Aktif",
-    "belge_no": "MTA-AU-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "src_f7d818811439",
-    "tip": "Maden Ocağı",
-    "ad": "Uşak Eşme Altın Madeni",
-    "il": "Uşak",
-    "ilce": "Eşme",
-    "aciklama": "Altın ve gümüş siyanür liç işletmesi.",
-    "koordinatlar": {
-      "lat": 38.6,
-      "lng": 28.97
-    },
-    "alan_ha": 860,
-    "durum": "Aktif",
-    "belge_no": "MTA-AU-002",
-    "eklenme": "2025-01-01",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "src_c672ab811439",
-    "tip": "Maden Ocağı",
-    "ad": "Çanakkale Ovacık Altın Madeni",
-    "il": "Çanakkale",
-    "ilce": "Ayvacık",
-    "aciklama": "Türkiye'nin ilk siyanürlü altın madeni. Uzun tartışma tarihi.",
-    "koordinatlar": {
-      "lat": 39.53,
-      "lng": 26.38
-    },
-    "alan_ha": 650,
-    "durum": "Aktif",
-    "belge_no": "MTA-AU-003",
-    "eklenme": "2025-01-01",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "src_df1d14811439",
-    "tip": "Maden Ocağı",
-    "ad": "Erzincan İliç Altın Madeni",
-    "il": "Erzincan",
-    "ilce": "İliç",
-    "aciklama": "2024 heyelanı felaketi yaşanan altın madeni sahası.",
-    "koordinatlar": {
-      "lat": 39.45,
-      "lng": 38.55
-    },
-    "alan_ha": 780,
-    "durum": "Durduruldu",
-    "belge_no": "MTA-AU-004",
-    "eklenme": "2025-01-01",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "src_83da12811439",
-    "tip": "Maden Ocağı",
-    "ad": "Balıkesir Havran Bor Madeni",
-    "il": "Balıkesir",
-    "ilce": "Havran",
-    "aciklama": "Dünya bor rezervlerinin büyük bölümü Türkiye'de.",
-    "koordinatlar": {
-      "lat": 39.58,
-      "lng": 27.1
-    },
-    "alan_ha": 3200,
-    "durum": "Aktif",
-    "belge_no": "MTA-BOR-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "src_610e9b811439",
-    "tip": "Maden Ocağı",
-    "ad": "Kütahya Emet Bor Madeni",
-    "il": "Kütahya",
-    "ilce": "Emet",
-    "aciklama": "Eti Maden İşletmeleri bor sahası.",
-    "koordinatlar": {
-      "lat": 39.33,
-      "lng": 29.25
-    },
-    "alan_ha": 2800,
-    "durum": "Aktif",
-    "belge_no": "MTA-BOR-002",
-    "eklenme": "2025-01-01",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "src_c5d971811439",
-    "tip": "Mermer Ocağı",
-    "ad": "Marmara Adası Mermer Ocağı",
-    "il": "Balıkesir",
-    "ilce": "Marmara",
-    "aciklama": "Antik dönemden bu yana işletilen beyaz mermer.",
-    "koordinatlar": {
-      "lat": 40.6,
-      "lng": 27.57
-    },
-    "alan_ha": 1800,
-    "durum": "Aktif",
-    "belge_no": "MTA-MAR-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "MTA"
   },
   {
     "id": "src_9d19f8811439",
@@ -1853,74 +1462,6 @@
     "kaynak": "EPDK"
   },
   {
-    "id": "rjn6vw9zdi",
-    "tip": "Maden Ocağı",
-    "ad": "Yatağan Linyit Madeni",
-    "il": "Muğla",
-    "ilce": "Yatağan",
-    "aciklama": "TKİ işletmesi, linyit ocağı.",
-    "koordinatlar": {
-      "lat": 37.335,
-      "lng": 28.145
-    },
-    "alan_ha": 4200,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "TKİ"
-  },
-  {
-    "id": "r3bid7u6vu",
-    "tip": "Maden Ocağı",
-    "ad": "Milas Borasit Madeni",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "Dünya rezervlerinin önemli bir kısmına sahip bor madeni.",
-    "koordinatlar": {
-      "lat": 37.28,
-      "lng": 27.78
-    },
-    "alan_ha": 850,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "ETİ Maden"
-  },
-  {
-    "id": "roio96ubkq",
-    "tip": "Mermer Ocağı",
-    "ad": "Milas Beyaz Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "İhracat kalitesinde beyaz mermer.",
-    "koordinatlar": {
-      "lat": 37.21,
-      "lng": 27.74
-    },
-    "alan_ha": 380,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "rxs9tu6mbg",
-    "tip": "Taş Ocağı",
-    "ad": "Fethiye Kireçtaşı Ocağı",
-    "il": "Antalya",
-    "ilce": "Fethiye",
-    "aciklama": "Yapı malzemesi ve agrega üretimi.",
-    "koordinatlar": {
-      "lat": 36.66,
-      "lng": 29.2
-    },
-    "alan_ha": 190,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "MTA"
-  },
-  {
     "id": "rdblgyhtdt1773732276487",
     "tip": "Kıyı Koruma Alanı",
     "ad": "İztuzu-Dalyan Kıyı Koruma",
@@ -1970,74 +1511,6 @@
     "belge_no": "",
     "eklenme": "2026-03-17",
     "kaynak": "Özel"
-  },
-  {
-    "id": "r27651avno1773732276487",
-    "tip": "Maden Ocağı",
-    "ad": "Kavaklıdere Krom Madeni",
-    "il": "Muğla",
-    "ilce": "Kavaklıdere",
-    "aciklama": "Aktif krom madenciliği.",
-    "koordinatlar": {
-      "lat": 37.28,
-      "lng": 28.09
-    },
-    "alan_ha": 310,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "ry5x9jc85y1773732276487",
-    "tip": "Mermer Ocağı",
-    "ad": "Bodrum Andezit Ocağı",
-    "il": "Muğla",
-    "ilce": "Bodrum",
-    "aciklama": "Yapı kaplaması ve peyzaj taşı.",
-    "koordinatlar": {
-      "lat": 37.045,
-      "lng": 27.5
-    },
-    "alan_ha": 165,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "r2gu1u36xn1773732276487",
-    "tip": "Taş Ocağı",
-    "ad": "Yatağan Kalker Ocağı",
-    "il": "Muğla",
-    "ilce": "Yatağan",
-    "aciklama": "Çimento hammaddesi.",
-    "koordinatlar": {
-      "lat": 37.32,
-      "lng": 28.2
-    },
-    "alan_ha": 245,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "MTA"
-  },
-  {
-    "id": "rgsfpvbcc41773732276487",
-    "tip": "Taş Ocağı",
-    "ad": "Marmaris Agrega Ocağı",
-    "il": "Muğla",
-    "ilce": "Marmaris",
-    "aciklama": "Kıyı yapıları için agrega.",
-    "koordinatlar": {
-      "lat": 36.88,
-      "lng": 28.29
-    },
-    "alan_ha": 120,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "MTA"
   },
   {
     "id": "r0v35blpzt1773733617016",
@@ -2091,244 +1564,6 @@
     "kaynak": "Manuel"
   },
   {
-    "id": "rddjw8ncki1773733731538",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Bodrum",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.034488,
-      "lng": 27.266006
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rt8qwdl6zx1773736344431",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Muğla",
-    "ilce": "Bodrum",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.071478,
-      "lng": 27.34158
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-17",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rg8i7d3imo1773809414365",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.369224,
-      "lng": 29.239039
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rn06xwkamb1773809434391",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.369881,
-      "lng": 29.247665
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rbgxe815qr1773809472184",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.36525,
-      "lng": 29.2308
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r8mwgapc931773809510313",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.374062,
-      "lng": 29.188485
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r3pl60k7bb1773809534255",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.383218,
-      "lng": 29.20166
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r34antev6a1773809769716",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.445616,
-      "lng": 29.26083
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rph98rtnoj1773809877209",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.425892,
-      "lng": 29.212282
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rpkau7jzkt1773809920739",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.441999,
-      "lng": 29.178346
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rydgikfo9o1773810048288",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Fethiye",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.439531,
-      "lng": 29.1734
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "re0gpejl3r1773810289233",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Antalya",
-    "ilce": "Fethiye",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.613805,
-      "lng": 29.225092
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rzs4inxgpz1773810409716",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.507015,
-      "lng": 29.471855
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rji69u4bhm1773810454538",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.499218,
-      "lng": 29.398813
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
     "id": "rez20zt8xe1773810500306",
     "tip": "Özel Çevre Koruma Alanı",
     "ad": "Tlos Antik Kenti",
@@ -2355,91 +1590,6 @@
     "koordinatlar": {
       "lat": 36.745839,
       "lng": 29.369051
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rr012lvnui1773810635764",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.736735,
-      "lng": 29.451084
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rqhmqxa9eq1773810705844",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.885679,
-      "lng": 29.683299
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r6n5a0ccgw1773810724374",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.883122,
-      "lng": 29.680552
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rbyjmdi52i1773810749114",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.832182,
-      "lng": 29.666862
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rd2ge9g8ph1773810766778",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.830997,
-      "lng": 29.669609
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -2482,23 +1632,6 @@
     "kaynak": "Manuel"
   },
   {
-    "id": "rewg8z9h2m1773810964406",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Antalya",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.665261,
-      "lng": 29.370575
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
     "id": "r7dnko9ejd1773811249510",
     "tip": "Özel Çevre Koruma Alanı",
     "ad": "Kayaköy Harabeleri",
@@ -2508,465 +1641,6 @@
     "koordinatlar": {
       "lat": 36.574465,
       "lng": 29.090713
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rsfpthmkqa1773811483095",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.463959,
-      "lng": 27.665291
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "ralqfj8teo1773811537738",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.386049,
-      "lng": 27.776957
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r3kg7x2g2c1773811555212",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.391556,
-      "lng": 27.773266
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r10qtiwfac1773811566325",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.395391,
-      "lng": 27.773867
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r4qkqktmf71773811579916",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.395323,
-      "lng": 27.779317
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "raj5s0jhv31773811594215",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.40221,
-      "lng": 27.783995
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rd43vby9521773811610595",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.409914,
-      "lng": 27.793093
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r41rohr5n41773811631150",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.418709,
-      "lng": 27.920208
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rkanwg3g7j1773811658038",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.446243,
-      "lng": 27.91935
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r8mk215h5k1773811674779",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.452649,
-      "lng": 27.924328
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r4l5bawdgh1773811690778",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.461642,
-      "lng": 27.931538
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rh5vktzi4n1773811706529",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.472951,
-      "lng": 27.931538
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "ruwb5sfhll1773811725338",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.468319,
-      "lng": 27.914371
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "roysvrexeb1773811743328",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.459053,
-      "lng": 27.89772
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rcpdjmoby01773811759551",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.458372,
-      "lng": 27.868195
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rn0gol8mpf1773811780319",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.428524,
-      "lng": 27.793694
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rmst26r4uq1773811799050",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.430296,
-      "lng": 27.803307
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rzh38quky11773811813604",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.444199,
-      "lng": 27.829742
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rfpi1h8wpz1773811842388",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.468182,
-      "lng": 27.842789
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "re5qf2m1xe1773811869512",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.44747,
-      "lng": 27.749019
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rat5mn4cmk1773811891991",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.45224,
-      "lng": 27.760391
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "ruopjtus041773811920623",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.463516,
-      "lng": 27.766013
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rk70574mmj1773811932110",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.462664,
-      "lng": 27.768502
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rdejq312o51773811944181",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.461574,
-      "lng": 27.77421
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "ri9d1kmc1l1773811986809",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.423105,
-      "lng": 27.852724
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rhugh4i48e1773812035061",
-    "tip": "Taş Ocağı",
-    "ad": "Taş Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.440962,
-      "lng": 27.841201
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rjxgzl2y741773812147643",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Alanı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.451695,
-      "lng": 27.837853
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -3001,108 +1675,6 @@
     "koordinatlar": {
       "lat": 37.401349,
       "lng": 27.904555
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r2fw9h6ego1773812313594",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.386364,
-      "lng": 27.877572
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rl63xfbfb01773812369192",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.343004,
-      "lng": 27.879438
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rul70i9jyv1773812397587",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.283648,
-      "lng": 27.827168
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rebbqniwxs1773812419255",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.289624,
-      "lng": 27.837982
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rxflr8cjhr1773812437177",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.27938,
-      "lng": 27.846565
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rgsjsji9vr1773812513026",
-    "tip": "Maden Ocağı",
-    "ad": "Yatağan Enerji Santral Alanı",
-    "il": "Muğla",
-    "ilce": "Yatağan",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.337408,
-      "lng": 28.048096
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -3171,125 +1743,6 @@
     "koordinatlar": {
       "lat": 37.312837,
       "lng": 28.014622
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rognmwkhpt1773812619161",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Sahası",
-    "il": "Muğla",
-    "ilce": "Yatağan",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.32468,
-      "lng": 27.972178
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r8biobrkdd1773812644362",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Sahası",
-    "il": "Muğla",
-    "ilce": "Yatağan",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.325439,
-      "lng": 27.949412
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rf2vxhlr801773812660753",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Sahası",
-    "il": "Muğla",
-    "ilce": "Yatağan",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.323349,
-      "lng": 27.954884
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rr24al56b31773812683107",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.340957,
-      "lng": 27.929692
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r5dziyedij1773812730403",
-    "tip": "Maden Ocağı",
-    "ad": "Ermaş Madencilik",
-    "il": "Muğla",
-    "ilce": "Yatağan",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.350578,
-      "lng": 28.122768
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rz9kz0il361773812762826",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Muğla",
-    "ilce": "Yatağan",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.342731,
-      "lng": 28.105688
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r73nm30qdy1773813909358",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
-    "il": "Muğla",
-    "ilce": "Menteşe",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.232789,
-      "lng": 28.189201
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -6239,142 +4692,6 @@
     "kaynak": "OSM/Kale"
   },
   {
-    "id": "osm_269197110",
-    "tip": "Maden Ocağı",
-    "ad": "Volfram maden tesisleri",
-    "il": "Bursa",
-    "ilce": "",
-    "aciklama": "landuse=quarry | name:en=Tungsten quarry",
-    "koordinatlar": {
-      "lat": 40.098131,
-      "lng": 29.176066
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "269197110",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_431330591",
-    "tip": "Maden Ocağı",
-    "ad": "Sand Quarry",
-    "il": "Türkiye",
-    "ilce": "",
-    "aciklama": "landuse=quarry",
-    "koordinatlar": {
-      "lat": 36.819186,
-      "lng": 27.063471
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "431330591",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_4693376244",
-    "tip": "Maden Ocağı",
-    "ad": "ΑΤΕΚ ΜΠΕΤΩΝ ΑΡΜΕ",
-    "il": "Muğla",
-    "ilce": "",
-    "aciklama": "addr:street=Κως - Κέφαλος | landuse=quarry",
-    "koordinatlar": {
-      "lat": 36.882537,
-      "lng": 27.235567
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "4693376244",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_7890309870",
-    "tip": "Maden Ocağı",
-    "ad": "Adora Mermer Ocak",
-    "il": "Isparta",
-    "ilce": "",
-    "aciklama": "fixme=Is Adora Mermer Ocak located here? | landuse=quarry",
-    "koordinatlar": {
-      "lat": 38.295105,
-      "lng": 30.240033
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "7890309870",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_11748942988",
-    "tip": "Maden Ocağı",
-    "ad": "Kireç kuyusu",
-    "il": "Antalya",
-    "ilce": "",
-    "aciklama": "landuse=quarry | name:tr=Kireç kuyusu",
-    "koordinatlar": {
-      "lat": 36.951847,
-      "lng": 31.79066
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "11748942988",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_12160912860",
-    "tip": "Maden Ocağı",
-    "ad": "Caution: Mining area",
-    "il": "Muğla",
-    "ilce": "",
-    "aciklama": "landuse=quarry",
-    "koordinatlar": {
-      "lat": 37.463997,
-      "lng": 27.664732
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "12160912860",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_12184171607",
-    "tip": "Maden Ocağı",
-    "ad": "Özcan Mermer",
-    "il": "Mersin",
-    "ilce": "",
-    "aciklama": "landuse=quarry",
-    "koordinatlar": {
-      "lat": 36.373064,
-      "lng": 33.933877
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "12184171607",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
-    "id": "osm_12202605734",
-    "tip": "Maden Ocağı",
-    "ad": "Caution! Mining Area",
-    "il": "Muğla",
-    "ilce": "",
-    "aciklama": "landuse=quarry",
-    "koordinatlar": {
-      "lat": 37.403897,
-      "lng": 27.785062
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "12202605734",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM"
-  },
-  {
     "id": "src_c63742811439",
     "tip": "Özel Çevre Koruma Alanı",
     "ad": "Datça-Bozburun ÖÇKA",
@@ -6507,57 +4824,6 @@
     "alan_ha": 250,
     "durum": "Planlama",
     "belge_no": "GEM-TR-NUC-003",
-    "eklenme": "2025-01-01",
-    "kaynak": "GEM"
-  },
-  {
-    "id": "src_fe1ce4811439",
-    "tip": "Maden Ocağı",
-    "ad": "Afşin-Elbistan Linyit Havzası",
-    "il": "Kahramanmaraş",
-    "ilce": "Afşin",
-    "aciklama": "Türkiye'nin en büyük linyit rezervi. GEM kaydı.",
-    "koordinatlar": {
-      "lat": 38.22,
-      "lng": 36.98
-    },
-    "alan_ha": 45000,
-    "durum": "Aktif",
-    "belge_no": "GEM-TR-COAL-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "GEM"
-  },
-  {
-    "id": "src_ad1a20811439",
-    "tip": "Maden Ocağı",
-    "ad": "Tunçbilek Linyit Sahası",
-    "il": "Kütahya",
-    "ilce": "Tavşanlı",
-    "aciklama": "Önemli linyit rezervi.",
-    "koordinatlar": {
-      "lat": 39.6,
-      "lng": 29.4
-    },
-    "alan_ha": 8500,
-    "durum": "Aktif",
-    "belge_no": "GEM-TR-COAL-002",
-    "eklenme": "2025-01-01",
-    "kaynak": "GEM"
-  },
-  {
-    "id": "src_40c34b811439",
-    "tip": "Maden Ocağı",
-    "ad": "Çan Linyit Sahası",
-    "il": "Çanakkale",
-    "ilce": "Çan",
-    "aciklama": "Çan termik santrali besleyen linyit sahası.",
-    "koordinatlar": {
-      "lat": 40.03,
-      "lng": 27.07
-    },
-    "alan_ha": 3200,
-    "durum": "Aktif",
-    "belge_no": "GEM-TR-COAL-003",
     "eklenme": "2025-01-01",
     "kaynak": "GEM"
   },
@@ -6696,23 +4962,6 @@
     "belge_no": "DSİ-HES-006",
     "eklenme": "2025-01-01",
     "kaynak": "DSİ"
-  },
-  {
-    "id": "rsz8mezgjp1774021649847",
-    "tip": "Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Antalya",
-    "ilce": "Finike",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.388815,
-      "lng": 30.08812
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-20",
-    "kaynak": "Manuel"
   },
   {
     "id": "r43vrc39uk1774037434483",
@@ -24379,5 +22628,3813 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Manuel"
+  },
+  {
+    "id": "rlk3zh5oi61774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "İscehisar Mermer Ocakları",
+    "il": "Afyonkarahisar",
+    "aciklama": "Türkiye'nin en önemli beyaz mermer bölgelerinden biri. Afyon Şeker mermeriyle dünyaca tanınır.",
+    "koordinatlar": {
+      "lat": 38.8625,
+      "lng": 30.7847
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4ryesya9z1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Sandıklı Mermer Ocakları",
+    "il": "Afyonkarahisar",
+    "aciklama": "25.9 milyon m³ rezerv kapasitesiyle Afyon'un en büyük mermer bölgesi.",
+    "koordinatlar": {
+      "lat": 38.4625,
+      "lng": 30.2642
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpyjnf93gr1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Sinanpaşa Mermer Ocakları",
+    "il": "Afyonkarahisar",
+    "aciklama": "Afyonkarahisar ilinin önemli mermer ocak bölgelerinden biri.",
+    "koordinatlar": {
+      "lat": 38.59,
+      "lng": 30.51
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rtvjdohkyz1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kocabaş Traverten Ocakları",
+    "il": "Denizli",
+    "aciklama": "Türkiye'nin en büyük traverten havzası. 6 km²'lik alanda yaklaşık 60 traverten ocağı bulunur. Türkiye traverten rezervinin %50'si Denizli'dedir.",
+    "koordinatlar": {
+      "lat": 37.8862,
+      "lng": 29.1253
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rz1yfllecu1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Babadağ Mermer Ocakları",
+    "il": "Denizli",
+    "aciklama": "Denizli'nin önemli mermer ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 37.8061,
+      "lng": 29.0986
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rsatlawvw81774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Çameli Mermer Ocakları",
+    "il": "Denizli",
+    "aciklama": "Denizli ilindeki önemli mermer bölgelerinden biri.",
+    "koordinatlar": {
+      "lat": 37.58,
+      "lng": 29.553
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rzzbxj4niu1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Marmara Adası Mermer Ocakları",
+    "il": "Balıkesir",
+    "aciklama": "Türkiye'nin en eski mermer bölgesi. Bizans, Roma, Selçuklu ve Osmanlı dönemlerinden beri kullanılmaktadır. Türkiye mermer ocaklarının %27'si Balıkesir iline aittir.",
+    "koordinatlar": {
+      "lat": 40.64,
+      "lng": 27.595
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rwftctf5501774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Dursunbey Mermer Ocakları",
+    "il": "Balıkesir",
+    "aciklama": "Balıkesir'in iç kısımlarındaki önemli doğal taş bölgesi.",
+    "koordinatlar": {
+      "lat": 39.5833,
+      "lng": 28.0578
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rf33komki31774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Fethiye Mermer Ocakları",
+    "il": "Muğla",
+    "aciklama": "Muğla ilinin önemli beyaz mermer ocak bölgesi. Krom yatakları da içerir.",
+    "koordinatlar": {
+      "lat": 36.6212,
+      "lng": 29.1239
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rg7mptg3hr1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Köyceğiz Mermer Ocakları",
+    "il": "Muğla",
+    "aciklama": "Muğla'nın Köyceğiz ilçesindeki doğal taş bölgesi.",
+    "koordinatlar": {
+      "lat": 36.9614,
+      "lng": 28.6836
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4gvmi5svt1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Bucak Mermer Ocakları",
+    "il": "Burdur",
+    "aciklama": "Burdur Beji olarak dünyaca tanınan, yüksek kalite ve sert yapısıyla öne çıkan mermer bölgesi.",
+    "koordinatlar": {
+      "lat": 37.4581,
+      "lng": 30.5914
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "re79wflyqw1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Çamlık - Hacıbağ Traverten Ocakları",
+    "il": "Burdur",
+    "aciklama": "Burdur'daki traverten ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 37.698,
+      "lng": 30.41
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1ygngon241774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Söğüt Mermer Ocakları",
+    "il": "Bilecik",
+    "aciklama": "Türkiye mermer rezervlerinin %12'sini barındıran Bilecik ilinin önemli ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 40.0189,
+      "lng": 30.1808
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r8kclhv55u1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Osmaneli Mermer Ocakları",
+    "il": "Bilecik",
+    "aciklama": "Bilecik ilinin Osmaneli ilçesindeki mermer ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 40.378,
+      "lng": 30.01
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rih6z0r7s21774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mihalgazi Mermer Ocakları",
+    "il": "Eskişehir",
+    "aciklama": "Eskişehir ilinin mermer ocaklarının yoğunlaştığı başlıca ilçesi. Türkiye rezervlerinin %4'ü burada.",
+    "koordinatlar": {
+      "lat": 40.0711,
+      "lng": 30.5403
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgb2e37yv51774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Harmancık Krom ve Mermer Ocakları",
+    "il": "Bursa",
+    "aciklama": "Uludağ Siyah Mermer ile ünlü bölge. Aynı zamanda krom ocakları da barındırır.",
+    "koordinatlar": {
+      "lat": 39.6567,
+      "lng": 29.1478
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "re7425a4kl1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Orhaneli Mermer Ocakları",
+    "il": "Bursa",
+    "aciklama": "Bursa'nın Orhaneli ilçesindeki doğal taş ve krom bölgesi.",
+    "koordinatlar": {
+      "lat": 40.2044,
+      "lng": 28.9597
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r63yewbsf31774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Güzelbahçe Andezit / Bazalt Ocakları",
+    "il": "İzmir",
+    "aciklama": "İzmir çevresinde inşaat sektörüne agrega ve yapı taşı temin eden ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 38.3817,
+      "lng": 26.9006
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rqbe55efrw1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Ödemiş Mermer Ocakları",
+    "il": "İzmir",
+    "aciklama": "İzmir ilinin Ödemiş ilçesindeki mermer ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 38.6353,
+      "lng": 27.9081
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r40dbmicwn1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Çerkeş - Eskipazar Traverten Ocakları",
+    "il": "Çankırı",
+    "aciklama": "Çankırı'nın kuzeybatısında yer alan traverten ocakları. Roma döneminden bu yana bilinen tarihî bir çıkarım bölgesidir. Türkiye traverten rezervinin %21'i burada.",
+    "koordinatlar": {
+      "lat": 40.8191,
+      "lng": 32.8942
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rz3zvpv3ds1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Isparta Pembe Mermer Ocakları",
+    "il": "Isparta",
+    "aciklama": "Açık pembe ve şeftali tonlarıyla özgün İsparta pembe mermeri çıkarılır.",
+    "koordinatlar": {
+      "lat": 37.7648,
+      "lng": 30.5566
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ru4n49o8nh1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Keçiborlu Kükürt ve Kireçtaşı Ocakları",
+    "il": "Isparta",
+    "aciklama": "Isparta'nın Keçiborlu ilçesinde kükürt ve kireçtaşı çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 37.2858,
+      "lng": 30.3958
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rct7vo0z1i1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Elazığ Kiraz Mermer Ocakları",
+    "il": "Elazığ",
+    "aciklama": "Kırmızı-kiraz rengindeki eşsiz mermeriyle dünyaca tanınan önemli bir doğu Anadolu ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 38.681,
+      "lng": 39.2264
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rp1y3aoegd1774103538291",
+    "tip": "Termik Reaktör",
+    "ad": "Amasra Taş Kömürü / Kireçtaşı Ocakları",
+    "il": "Bartın",
+    "aciklama": "Karadeniz kıyısında taş kömürü havzasına yakın kireçtaşı çıkarım bölgesi.",
+    "koordinatlar": {
+      "lat": 41.7481,
+      "lng": 32.3842
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rrlhba5u3o1774103538291",
+    "tip": "Termik Reaktör",
+    "ad": "Zonguldak Taş Ocakları",
+    "il": "Zonguldak",
+    "aciklama": "Zonguldak'ın taş kömürü havzasına yakın kireçtaşı ve agrega ocakları.",
+    "koordinatlar": {
+      "lat": 41.45,
+      "lng": 31.7897
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rjd3gxxr1y1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Emet Bor Ocakları",
+    "il": "Kütahya",
+    "aciklama": "Türkiye'nin en büyük bor minerallerinden biri. Dünya bor rezervlerinin büyük kısmı bu bölgede yer alır.",
+    "koordinatlar": {
+      "lat": 39.3339,
+      "lng": 29.2586
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r8zxctbrbk1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kütahya Mermer Ocakları",
+    "il": "Kütahya",
+    "aciklama": "Kütahya mermer rezervleri Ege Bölgesi içinde önemli yer tutar.",
+    "koordinatlar": {
+      "lat": 39.7089,
+      "lng": 29.5697
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbv8rvcii01774103538291",
+    "tip": "Termik Reaktör",
+    "ad": "Oltu Taşı Ocakları",
+    "il": "Erzurum",
+    "aciklama": "Dünyada yalnızca Erzurum'da bulunan ve kuyumculukta kullanılan özgün Oltu taşı ocakları.",
+    "koordinatlar": {
+      "lat": 40.5456,
+      "lng": 41.9869
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rfauimyfpb1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Şenkaya Opal Ocakları",
+    "il": "Erzurum",
+    "aciklama": "Dünyaca nadir bulunan Şenkaya opallerinin çıkarıldığı bölge. Manzara oluşumlarıyla özellikle dikkat çeker.",
+    "koordinatlar": {
+      "lat": 40.4722,
+      "lng": 41.7275
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rflqjnt5ep1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Hatay Erzin Traverten Ocakları",
+    "il": "Hatay",
+    "aciklama": "Hatay ilindeki Erzin bölgesinde traverten ve Toros Siyah mermeri çıkarılır.",
+    "koordinatlar": {
+      "lat": 36.4012,
+      "lng": 36.3498
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rqzmsbuw4j1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Milas Boksit ve Mermer Ocakları",
+    "il": "Muğla",
+    "aciklama": "Dünyaca tanınan Milas Bej ve Milas Lila mermer çeşitleri bu bölgeden çıkarılır.",
+    "koordinatlar": {
+      "lat": 28.4244,
+      "lng": 30.6572
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1nanbw5fw1774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Milas Mermer Ocakları",
+    "il": "Muğla",
+    "aciklama": "Dünyaca ünlü Milas mermerleri bu bölgede çıkarılır.",
+    "koordinatlar": {
+      "lat": 37.306,
+      "lng": 28.4244
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4pklmdf9g1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Banaz Kireçtaşı Ocakları",
+    "il": "Uşak",
+    "aciklama": "Uşak ilindeki Banaz ilçesinde kireçtaşı ve doğal taş çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.5697,
+      "lng": 29.2558
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rsr6twvsfv1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ulubey Traverten Ocakları",
+    "il": "Uşak",
+    "aciklama": "Uşak ilinin Ulubey ilçesinde traverten çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.665,
+      "lng": 29.1147
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbao2boa8u1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bigadiç Bor Ocakları",
+    "il": "Balıkesir",
+    "aciklama": "Türkiye'nin toplam bor mineralinin büyük çoğunluğu Balıkesir Bigadiç'ten çıkarılmaktadır.",
+    "koordinatlar": {
+      "lat": 40.1489,
+      "lng": 28.1547
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rshdcgicz41774103538291",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Alanya Kireçtaşı ve Mermer Ocakları",
+    "il": "Antalya",
+    "aciklama": "Antalya'nın Alanya bölgesinde beyaz kireçtaşı ve bej mermer çıkarılır.",
+    "koordinatlar": {
+      "lat": 36.5441,
+      "lng": 32.0069
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rxcmdjgefm1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Akseki Boksit Ocakları",
+    "il": "Antalya",
+    "aciklama": "Türkiye'nin önemli boksit çıkarım bölgelerinden biri.",
+    "koordinatlar": {
+      "lat": 36.8842,
+      "lng": 30.8769
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rveq7crwxg1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kastamonu Kireçtaşı Ocakları",
+    "il": "Kastamonu",
+    "aciklama": "Kuzey Anadolu'da kireçtaşı rezervleri ile bilinen Kastamonu bölgesi.",
+    "koordinatlar": {
+      "lat": 43.4225,
+      "lng": 31.5197
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnobnhcpz31774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Mut Kireçtaşı ve Traverten Ocakları",
+    "il": "Mersin",
+    "aciklama": "Mersin ilinin Mut ilçesinde traverten ve kireçtaşı çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 36.8422,
+      "lng": 35.9783
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rcee09cdpk1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Taşucu Kireçtaşı Ocakları",
+    "il": "Mersin",
+    "aciklama": "Mersin'in Taşucu bölgesinde kireçtaşı çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 36.7394,
+      "lng": 34.9167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rqdvbylhs11774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Eskipazar Traverten Ocakları",
+    "il": "Karabük",
+    "aciklama": "Karabük ilinin Eskipazar ilçesindeki tarihî traverten çıkarım bölgesi.",
+    "koordinatlar": {
+      "lat": 40.5525,
+      "lng": 32.8678
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4ld2bjkgd1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Göynük Traverten Ocakları",
+    "il": "Bolu",
+    "aciklama": "Bolu iline bağlı Göynük, Çepne ve Mudurnu'da traverten çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 40.3908,
+      "lng": 31.0444
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rupkgruxg21774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kahramanmaraş Demir Ocakları",
+    "il": "Kahramanmaraş",
+    "aciklama": "Güney Anadolu'nun önemli demir cevheri çıkarım bölgesi.",
+    "koordinatlar": {
+      "lat": 37.5847,
+      "lng": 36.4872
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rr3u0jyzf41774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Malatya Hekimhan Demir Ocakları",
+    "il": "Malatya",
+    "aciklama": "Malatya'nın Hekimhan ilçesinde ve Hasançelebi'de demir cevheri çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.3556,
+      "lng": 38.4117
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r8i6hhn6gp1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kırka (Sarıkaya) Bor Ocakları",
+    "il": "Eskişehir",
+    "aciklama": "Dünyanın en büyük tinkal (ham boraks) yataklarından biri. Eti Maden tarafından işletilir.",
+    "koordinatlar": {
+      "lat": 39.9719,
+      "lng": 30.815
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r94lncoxp71774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Toros Dağları Kireçtaşı Ocakları",
+    "il": "Konya / Karaman",
+    "aciklama": "Toros Dağları boyunca uzanan geniş kireçtaşı çıkarım bölgesi.",
+    "koordinatlar": {
+      "lat": 36.6236,
+      "lng": 33.5167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rty9nrrvkr1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Konya Akşehir Kireçtaşı ve Traverten Ocakları",
+    "il": "Konya",
+    "aciklama": "Konya'nın Akşehir ilçesinde kireçtaşı ve traverten çıkarımı yapılmaktadır.",
+    "koordinatlar": {
+      "lat": 37.9239,
+      "lng": 32.5361
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgeceinm8l1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sivas Doğanşar Traverten Ocakları",
+    "il": "Sivas",
+    "aciklama": "Sivas ilinin Doğanşar ve Yıldızeli ilçelerinde traverten çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.7525,
+      "lng": 36.3342
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rsiqa25ofx1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Van Gevaş Traverten Ocakları",
+    "il": "Van",
+    "aciklama": "Van ilinin Gevaş ve Gürpınar ilçelerinde traverten çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.4944,
+      "lng": 43.3994
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rdgust6wtj1774103538291",
+    "tip": "Ekolojik İhlal",
+    "ad": "Çorum Kireçtaşı Ocakları",
+    "il": "Çorum",
+    "aciklama": "Çorum bölgesinde inşaat sektörüne yönelik kireçtaşı ve agrega üretimi yapılır.",
+    "koordinatlar": {
+      "lat": 40.73,
+      "lng": 34.6844
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r14nb3wh751774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kışladağ Altın Madeni",
+    "il": "Uşak",
+    "aciklama": "Porfiri altın yatağı. Türkiye altın üretiminin büyük bölümünü tek başına karşılar. Eldorado Gold tarafından 2006'dan beri işletilmektedir.",
+    "koordinatlar": {
+      "lat": 38.85,
+      "lng": 29.0833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r64z2ceir61774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Çöpler Altın Madeni",
+    "il": "Erzincan",
+    "aciklama": "Şubat 2024'te heşleaching setinin çökmesiyle kazaya sahne olmuştur. 43.8-44.6 milyon yıllık Orta Eosen magmatik kompleksinde yer alır.",
+    "koordinatlar": {
+      "lat": 39.1667,
+      "lng": 38.8069
+    },
+    "alan_ha": 0,
+    "durum": "Aktif (2024 sonrası kısmi)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ro1je7ptih1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Mastra Altın Madeni",
+    "il": "Gümüşhane",
+    "aciklama": "Gümüşhane'nin Kürtün ilçesinde Lidya Madencilik tarafından işletilen yeraltı altın madeni.",
+    "koordinatlar": {
+      "lat": 40.675,
+      "lng": 38.6094
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r9d0sjz3hj1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Kirazlı Altın Madeni",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale Bayramiç'te Alamos Gold iştiraki tarafından geliştirilen açık ocak altın projesi. Çevresel tartışmalar nedeniyle durdu.",
+    "koordinatlar": {
+      "lat": 39.8583,
+      "lng": 26.975
+    },
+    "alan_ha": 0,
+    "durum": "Ruhsat Askıda / Tartışmalı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rvj0z6uh0d1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Efemçukuru Altın Madeni",
+    "il": "İzmir",
+    "aciklama": "İzmir Kemalpaşa'da Eldorado Gold tarafından işletilen yüksek tenörlü yeraltı altın madeni.",
+    "koordinatlar": {
+      "lat": 38.3631,
+      "lng": 28.1281
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r9j26gzsv91774103553422",
+    "tip": "Termik Reaktör",
+    "ad": "Öksüt Altın Madeni",
+    "il": "Kayseri",
+    "aciklama": "Kayseri Develi'de Centerra Gold iştiraki tarafından işletilen açık ocak altın madeni.",
+    "koordinatlar": {
+      "lat": 38.5167,
+      "lng": 35.5667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ry37b6b6k81774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Güleman Krom Madeni",
+    "il": "Elazığ",
+    "aciklama": "1915'te Abdullah Hüsrev Güleman tarafından keşfedilen ve 1936'da üretime başlayan, Türkiye'nin en büyük krom kompleksi. Podiform-lentikular kromitiit gövdeleri.",
+    "koordinatlar": {
+      "lat": 38.45,
+      "lng": 39.1333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ro8815xxem1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Fethiye Krom Madenleri",
+    "il": "Muğla",
+    "aciklama": "Dünyada ilk ticari krom üretiminin başlatıldığı tarihi bölgelerden biri. Aydın, Denizli, Burdur ve Muğla illerindeki ofiyolit kuşağı krom yatakları.",
+    "koordinatlar": {
+      "lat": 36.64,
+      "lng": 29.11
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "reulfxxrdu1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Harmancık-Bursa Krom Madeni",
+    "il": "Bursa",
+    "aciklama": "Türkiye'de krom üretiminin ilk yapıldığı tarihi bölge. Günümüzde de krom çıkarımı devam etmektedir.",
+    "koordinatlar": {
+      "lat": 39.6567,
+      "lng": 29.1478
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rjp0svft491774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Çayeli Bakır-Çinko Madeni",
+    "il": "Rize",
+    "aciklama": "Doğu Pontid metalojenik kuşağındaki Kuroko tipi volkanojenik masif sülfür (VMS) yatağı. ~25 yıl işletilmiştir.",
+    "koordinatlar": {
+      "lat": 41.0603,
+      "lng": 41.6514
+    },
+    "alan_ha": 0,
+    "durum": "Kapalı (rezerv tükendi ~2019)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rm3xeod6hv1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Murgul-Çakmakkaya Bakır Madeni",
+    "il": "Artvin",
+    "aciklama": "Doğu Pontid kuşağında Kuroko tipi Cu-Zn-Pb masif sülfür yatağı. Damar ve Çakmakkaya açık ocaklarından oluşur. 2500+ kişi istihdamı.",
+    "koordinatlar": {
+      "lat": 41.2094,
+      "lng": 41.3981
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ry3q70hb171774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Küre Bakır Madeni",
+    "il": "Kastamonu",
+    "aciklama": "Kastamonu'nun yaklaşık 50 km kuzeyinde yer alır. Greklerin, Romalıların, Cenevizlilerin, Bizanslıların, Selçukluların ve Osmanlıların işlettiği tarihi bakır madeni.",
+    "koordinatlar": {
+      "lat": 41.85,
+      "lng": 33.5833
+    },
+    "alan_ha": 0,
+    "durum": "Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkc3reesqh1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Elazığ-Ergani Bakır Madeni",
+    "il": "Elazığ",
+    "aciklama": "Elazığ'ın Maden ilçesinde bakır çıkarımı yapılmıştır. Güleman krom madeniyle birlikte Doğu Anadolu'nun iki önemli maden sahasından biridir.",
+    "koordinatlar": {
+      "lat": 38.3411,
+      "lng": 40.98
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "roukelyj731774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Uludağ Volfram (W) Madeni",
+    "il": "Bursa",
+    "aciklama": "Uludağ'ın batı zirvesinin kuzeydoğusunda, Çayırlı Dere gölü yakınında bulunan skarın tipi volfram yatağı. Türkiye'nin tek volfram kaynağı.",
+    "koordinatlar": {
+      "lat": 39.8667,
+      "lng": 29.52
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rfua4hgh5h1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Keban Kurşun-Çinko Madeni",
+    "il": "Elazığ",
+    "aciklama": "Keban barajı havzasında kurşun ve çinko yatakları. Keban barajı yapımından önce önemli üretim merkeziydi.",
+    "koordinatlar": {
+      "lat": 38.8333,
+      "lng": 38.3333
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Rezerv İzleme",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rn3w23ph5y1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Hekimhan-Hasançelebi Demir Madeni",
+    "il": "Malatya",
+    "aciklama": "Malatya Hekimhan ve Hasançelebi'de demir cevheri (hematit-manyetit) çıkarımı yapılmaktadır. Demir-çelik sektörünün önemli hammadde kaynağıdır.",
+    "koordinatlar": {
+      "lat": 38.3556,
+      "lng": 38.4117
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rna4y2gh1s1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kahramanmaraş Demir Madeni",
+    "il": "Kahramanmaraş",
+    "aciklama": "Kahramanmaraş çevresindeki hematit ve manyetit içerikli demir cevheri yatakları.",
+    "koordinatlar": {
+      "lat": 37.5847,
+      "lng": 36.4872
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rixkfvehhf1774103553422",
+    "tip": "Termik Reaktör",
+    "ad": "Zonguldak Taş Kömürü Havzası",
+    "il": "Zonguldak",
+    "aciklama": "1829'da Uzun Mehmet tarafından keşfedilen, 1848'de işletmeye açılan Türkiye'nin tek bitümlü kömür kaynağı. Tarihsel olarak çelik üretimine kritik katkı sağlamıştır.",
+    "koordinatlar": {
+      "lat": 41.4519,
+      "lng": 31.7292
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbmulwwyx51774103553422",
+    "tip": "Termik Reaktör",
+    "ad": "Afşin-Elbistan Linyit Havzası",
+    "il": "Kahramanmaraş",
+    "aciklama": "Türkiye'nin ve Orta Doğu'nun en büyük linyit havzası. 58 metreye kadar ulaşan kömür damarları. Kışlaköy (A) ve Çöllolar (B) sektörlerinden oluşur.",
+    "koordinatlar": {
+      "lat": 38.3541,
+      "lng": 36.9813
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rs2jr69k1b1774103553422",
+    "tip": "Termik Reaktör",
+    "ad": "Soma Linyit Madeni",
+    "il": "Manisa",
+    "aciklama": "Türkiye'nin ikinci büyük linyit üretim merkezi. Mayıs 2014'te 301 madencinin hayatını kaybettiği büyük maden kazasıyla tarihe geçmiştir.",
+    "koordinatlar": {
+      "lat": 39.1778,
+      "lng": 27.7556
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r21iksu39y1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Tunçbilek Linyit Madeni",
+    "il": "Kütahya",
+    "aciklama": "1939'da Etibank tarafından başlatılan linyit çıkarımı; TKİ bünyesinde Garp Linyitleri İşletmesi tarafından sürdürülmektedir.",
+    "koordinatlar": {
+      "lat": 39.5342,
+      "lng": 29.2183
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r0p7pxxjcf1774103553422",
+    "tip": "Termik Reaktör",
+    "ad": "Seyitömer Linyit Madeni",
+    "il": "Kütahya",
+    "aciklama": "Kütahya'da TKİ bünyesinde işletilen linyit açık ocağı. Seyitömer termik santraline kömür sağlar.",
+    "koordinatlar": {
+      "lat": 39.5789,
+      "lng": 29.5181
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r808ii30dh1774103553422",
+    "tip": "Termik Reaktör",
+    "ad": "Yatağan Linyit Madeni",
+    "il": "Muğla",
+    "aciklama": "Muğla Yatağan ve Milas'taki Yeniköy linyit sahaları. Termik santral kirlilik gerekçesiyle kapatılmıştır.",
+    "koordinatlar": {
+      "lat": 37.3667,
+      "lng": 28.2333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif (Termik santral kapatıldı, madene devam)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnkvdk8aw31774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Çan Linyit Madeni",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale'nin Çan ilçesinde TKİ tarafından işletilen linyit açık ocağı.",
+    "koordinatlar": {
+      "lat": 39.7331,
+      "lng": 27.7281
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rclng9v46m1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Beypazarı Linyit Madeni",
+    "il": "Ankara",
+    "aciklama": "Ankara'nın Beypazarı ilçesinde linyit çıkarımı yapılmaktadır. Aynı havzada trona (doğal soda külü) yatakları da bulunmaktadır.",
+    "koordinatlar": {
+      "lat": 39.81,
+      "lng": 31.92
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rw69but11w1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kırka (Sarıkaya) Bor Madeni",
+    "il": "Eskişehir",
+    "aciklama": "Türkiye dünya bor rezervlerinin %73'üne sahiptir. Kırka, dünyanın en büyük tek tinkal yatağıdır. Eti Maden tarafından işletilmektedir.",
+    "koordinatlar": {
+      "lat": 39.9719,
+      "lng": 30.815
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rtck2bmeci1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Emet Bor Madeni",
+    "il": "Kütahya",
+    "aciklama": "Kütahya Emet'teki kolemanit ve üleksit yatakları; endüstriyel hammadde ve nükleer enerji uygulamalarında stratejik öneme sahiptir.",
+    "koordinatlar": {
+      "lat": 39.3339,
+      "lng": 29.2586
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rw0z9o47ba1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bigadiç Bor Madeni",
+    "il": "Balıkesir",
+    "aciklama": "Balıkesir'in Bigadiç ve Susurluk ilçelerindeki bor yatakları; kolemanit ve üleksit içerir.",
+    "koordinatlar": {
+      "lat": 40.1489,
+      "lng": 28.1547
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "roeq8dwror1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Beypazarı-Kazan Trona (Soda Külü) Madeni",
+    "il": "Ankara",
+    "aciklama": "Dünyanın ikinci büyük doğal soda külü (trona) rezervi. Türkiye'yi soda külünde dünya ihracat lideri konumuna getirmiştir.",
+    "koordinatlar": {
+      "lat": 39.9644,
+      "lng": 31.9256
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rntxt51uyx1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Tuz Gölü Kaya Tuzu / Tuz Üretimi",
+    "il": "Konya / Aksaray",
+    "aciklama": "Türkiye'nin ve Orta Doğu'nun en büyük tuz göllerinden biri. Yoğunluğu deniz suyundan 10 kat fazla olan gölden tuz üretimi yapılmaktadır.",
+    "koordinatlar": {
+      "lat": 38.7667,
+      "lng": 33.9
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rtktr8vgwi1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Çankırı Kaya Tuzu Madeni",
+    "il": "Çankırı",
+    "aciklama": "Çankırı'nın önemli kaya tuzu madenleri; tarihsel önem taşımakta olup sanayi tuzu üretimine katkı sağlamaktadır.",
+    "koordinatlar": {
+      "lat": 40.6086,
+      "lng": 33.6172
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rghts0h5dk1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Keçiborlu Kükürt Madeni",
+    "il": "Isparta",
+    "aciklama": "Isparta'nın Keçiborlu ilçesinde kükürt çıkarımı yapılmaktadır. Tarım gübresi ve kimya sanayii için önemli bir girdi maddesidir.",
+    "koordinatlar": {
+      "lat": 37.2858,
+      "lng": 30.3958
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "roypwpkobj1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Aydın-Muğla Zımparatası Ocakları",
+    "il": "Aydın / Muğla / İzmir",
+    "aciklama": "Aydın, Muğla ve İzmir çevresindeki doğal korindon (zımparatası) yatakları. Aşındırıcı malzeme sektörü için stratejik hammadde.",
+    "koordinatlar": {
+      "lat": 37.7556,
+      "lng": 27.92
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r8eouq49xr1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Eskişehir Lületaşı (Sepiyolit) Madeni",
+    "il": "Eskişehir",
+    "aciklama": "Dünyanın en önemli lületaşı kaynağı. Pipo ve heykelcilik için kullanılan beyaz, gözenekli mineral. Eskişehir'e özgü bir el sanatı geleneğiyle işlenmektedir.",
+    "koordinatlar": {
+      "lat": 39.8,
+      "lng": 30.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rfewqbr7z61774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Eskişehir Amyant (Asbest) Madeni",
+    "il": "Eskişehir",
+    "aciklama": "Eskişehir'deki amyant yatakları tarihsel olarak önem taşısa da kanserojenik etkisi nedeniyle 2010 sonrasında kullanımı yasaklanmıştır.",
+    "koordinatlar": {
+      "lat": 40,
+      "lng": 30.8
+    },
+    "alan_ha": 0,
+    "durum": "Kapalı (Yasal Yasak)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r2vpyms36x1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Oltu Taşı (Jet) Madeni",
+    "il": "Erzurum",
+    "aciklama": "Antrasit kökenli organik bir mineraldir. Yüzyıllardır tespih, kolye ve heykelcilik için kullanılmaktadır. Yalnızca Erzurum Oltu'ya özgü olması nedeniyle benzersiz ticari değere sahiptir.",
+    "koordinatlar": {
+      "lat": 40.5456,
+      "lng": 41.9869
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rngy5nrnst1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Şenkaya Opal Madeni",
+    "il": "Erzurum",
+    "aciklama": "Erzurum Şenkaya'daki nadir zümrüt ve manzara opal yatakları. İç yapısındaki özgün görüntülerle dünya koleksiyoncuları tarafından yüksek fiyatlarla aranmaktadır.",
+    "koordinatlar": {
+      "lat": 40.4722,
+      "lng": 41.7275
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r6gola5oz81774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Amasya Çeltek Linyit Madeni",
+    "il": "Amasya",
+    "aciklama": "Amasya-Merzifon-Çeltek bölgesindeki linyit madenleri. Cumhuriyetin ilk döneminden beri işletilmektedir.",
+    "koordinatlar": {
+      "lat": 41.9186,
+      "lng": 33.4833
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnhaa3bgy51774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kırşehir Manganez Madeni",
+    "il": "Kırşehir",
+    "aciklama": "Ankara çevresinde ve Kırşehir'de manganez yatakları bulunmaktadır. Çelik üretiminde kullanılan temel alaşım metali.",
+    "koordinatlar": {
+      "lat": 39.9225,
+      "lng": 32.4556
+    },
+    "alan_ha": 0,
+    "durum": "Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rjgbnwaq9n1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Siirt-Madenköy Bakır-Çinko Madeni",
+    "il": "Siirt",
+    "aciklama": "Siirt'in Madenköy ilçesinde bakır ve çinko çıkarımı yapılmaktadır. Güneydoğu Anadolu'nun önemli metalik maden sahalarından biridir.",
+    "koordinatlar": {
+      "lat": 37.5547,
+      "lng": 42.5069
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ryzovh2zvl1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Batman Petrol Sahaları",
+    "il": "Batman",
+    "aciklama": "Batman ve çevresindeki Güneydoğu Anadolu petrol havzası. TPAO tarafından işletilen en aktif yerli petrol sahaları.",
+    "koordinatlar": {
+      "lat": 37.9167,
+      "lng": 42.3
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rac4pkvddw1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Adıyaman Petrol Sahaları",
+    "il": "Adıyaman",
+    "aciklama": "Adıyaman ve çevresindeki petrol kuyu sahaları. Güneydoğu Anadolu'nun Batman ile birlikte ikinci önemli petrol üretim bölgesi.",
+    "koordinatlar": {
+      "lat": 37.765,
+      "lng": 38.2806
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r2ax8ofo6g1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Silopi Gilsonit Madeni",
+    "il": "Şırnak",
+    "aciklama": "Şırnak'ın Silopi ilçesinde doğal asfaltin bir türü olan gilsonit çıkarılmaktadır. Boya, mürekkep ve asfalt sektöründe kullanılmaktadır.",
+    "koordinatlar": {
+      "lat": 37.2544,
+      "lng": 42.16
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnjo2hjx8x1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Bergama (Ovacık) Altın Madeni",
+    "il": "İzmir",
+    "aciklama": "Türkiye'nin modern altın madenciliğinde ilk ve en tartışmalı saha. Siyanürlü altın işleme yöntemi yargısal süreçlere ve çevre tartışmalarına neden olmuştur.",
+    "koordinatlar": {
+      "lat": 39.3953,
+      "lng": 27.3553
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kapalı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ry6phgfgyk1774103553422",
+    "tip": "İklim Olayları",
+    "ad": "Balya Kurşun-Çinko Madeni",
+    "il": "Balıkesir",
+    "aciklama": "Antik çağdan beri işletilen tarihi kurşun-çinko-gümüş madeni. 19-20. yüzyılda yabancı şirketlerin yönetiminde önemli üretim yapılmıştır.",
+    "koordinatlar": {
+      "lat": 40.7628,
+      "lng": 28.4869
+    },
+    "alan_ha": 0,
+    "durum": "Kapalı (Tarihsel)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r63jx03uyd1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kırklareli-Lüleburgaz Doğalgaz Sahası",
+    "il": "Kırklareli",
+    "aciklama": "Hamitabat ve Lüleburgaz bölgesindeki Trakya doğalgaz havzası; Türkiye'nin en büyük yerli doğalgaz kaynağı olup İstanbul'a gaz temin etmektedir.",
+    "koordinatlar": {
+      "lat": 40.5,
+      "lng": 26.5667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rovq9yqhkv1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Denizli Jeotermal Sahaları",
+    "il": "Denizli",
+    "aciklama": "Büyük Menderes grabeninde Türkiye'nin en önemli jeotermal enerji bölgesi. Kızıldere'de 1984'te kurulan ilk jeotermal santral burada işletilmektedir.",
+    "koordinatlar": {
+      "lat": 37.8769,
+      "lng": 29.2639
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r51g8sl90b1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gediz-Alaşehir Jeotermal Sahaları",
+    "il": "Manisa",
+    "aciklama": "Gediz graben sistemi boyunca uzanan yüksek entalipili jeotermal sahalar. Alaşehir ve Salihli ilçelerinde elektrik üretimi yapılmaktadır.",
+    "koordinatlar": {
+      "lat": 38.6206,
+      "lng": 27.9853
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7ecpjdaba1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ağrı Altın Yatağı",
+    "il": "Ağrı",
+    "aciklama": "Haziran 2021'de açıklanan ve 1.2 milyar dolar değerinde olduğu tahmin edilen büyük altın yatağı. Henüz arama ve geliştirme aşamasındadır.",
+    "koordinatlar": {
+      "lat": 39.5,
+      "lng": 43.65
+    },
+    "alan_ha": 0,
+    "durum": "Arama Aşamasında",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rd4ot19kmb1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sivas-Kangal Demir-Kurşun-Çinko Madeni",
+    "il": "Sivas",
+    "aciklama": "Sivas-Kangal bölgesindeki demir, kurşun ve çinko içerikli cevher yatakları.",
+    "koordinatlar": {
+      "lat": 40.3592,
+      "lng": 38.4731
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r5nfopwjrg1774103553422",
+    "tip": "Termik Reaktör",
+    "ad": "Orhaneli Linyit Madeni",
+    "il": "Bursa",
+    "aciklama": "Bursa'nın Orhaneli ilçesindeki linyit madeni. Orhaneli termik santralinin kapanmasından sonra özel sektör tarafından sürdürülmektedir.",
+    "koordinatlar": {
+      "lat": 39.7136,
+      "lng": 28.9439
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgqahtbex91774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ilgın Linyit Madeni",
+    "il": "Konya",
+    "aciklama": "Konya'nın Ilgın ilçesindeki linyit açık ocağı. TKİ bünyesinde işletilmektedir.",
+    "koordinatlar": {
+      "lat": 37.6086,
+      "lng": 32.5222
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rjur0v97jn1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Tunceli-Ovacık Altın Madeni",
+    "il": "Tunceli",
+    "aciklama": "Türkiye'de siyanür kullanmadan üretim yapan ilk altın madeni. Koza Altın tarafından işletilmekte; biyooksitasyon yöntemi kullanılmaktadır.",
+    "koordinatlar": {
+      "lat": 38.0564,
+      "lng": 40.3964
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ry0wpnrfy81774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bilecik-Söğüt Nikel Madeni",
+    "il": "Bilecik",
+    "aciklama": "Bilecik-Söğüt bölgesindeki nikel yatakları MTA tarafından tespit edilmiştir. Elektrikli araç pil sektöründe artan taleple birlikte önemi artmaktadır.",
+    "koordinatlar": {
+      "lat": 40.0167,
+      "lng": 30.78
+    },
+    "alan_ha": 0,
+    "durum": "Arama / Geliştirme",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rvd7wz9w5n1774103553422",
+    "tip": "Ekolojik İhlal",
+    "ad": "Akseki Boksit Madeni",
+    "il": "Antalya",
+    "aciklama": "Antalya'nın Akseki ilçesinde Toros kireçtaşları içinde oluşmuş karst kökenli boksit yatakları.",
+    "koordinatlar": {
+      "lat": 37.5544,
+      "lng": 33.62
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rsp7rje7g71774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kızıldere 3 JES",
+    "il": "Denizli",
+    "aciklama": "Türkiye'nin en büyük tek jeotermal santrali. Büyük Menderes Grabeni'nin doğu kesiminde yer alır. Yılda 80.000 ton kuru buz üretimine de katkı sağlar.",
+    "koordinatlar": {
+      "lat": 37.9499,
+      "lng": 28.8432
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r758ohv7dp1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Efeler Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Türkiye'nin en büyük ikinci jeotermal santrali. Germencik-Ömerbeyli alanında Büyük Menderes Grabeni üzerinde konumlanmıştır.",
+    "koordinatlar": {
+      "lat": 37.8694,
+      "lng": 28.0831
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkijwio9i21774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kızıldere 2 Jeotermal Enerji Santrali",
+    "il": "Denizli",
+    "aciklama": "Kızıldere sahasının ikinci fazı. Üçlü flash teknolojisiyle yüksek verim sağlar. Kızıldere-3 ile birlikte toplam 245 MW kurulu güç oluşturur.",
+    "koordinatlar": {
+      "lat": 37.9499,
+      "lng": 28.8354
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rn5wb8os5v1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Pamukören Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Germencik bölgesinde ilk büyük ikili çevrim santrali. Çelikler Enerji'nin Pamukören kompleksinin ana ünitesidir.",
+    "koordinatlar": {
+      "lat": 37.855,
+      "lng": 28.1019
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ru4w4jzctu1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Efe 8 JES",
+    "il": "Aydın",
+    "aciklama": "Mogan Enerji'nin Germencik bölgesindeki Efe serisi santrallerinin en büyüğü.",
+    "koordinatlar": {
+      "lat": 37.878,
+      "lng": 28.0755
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rm8q91jme51774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Mis 3 JES",
+    "il": "Manisa",
+    "aciklama": "Gediz Grabeni'ndeki Alaşehir jeotermal sahasında Soyak Enerji tarafından işletilen büyük kapasiteli santral.",
+    "koordinatlar": {
+      "lat": 38.289,
+      "lng": 28.445
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rck7h043ej1774103567563",
+    "tip": "İklim Olayları",
+    "ad": "Galip Hoca Germencik JES",
+    "il": "Aydın",
+    "aciklama": "Germencik sahasında 2009'dan beri işletilen köklü bir jeotermal santral. Flash buhar teknolojisiyle yüksek sıcaklık akışkanını değerlendirir.",
+    "koordinatlar": {
+      "lat": 37.883,
+      "lng": 28.0656
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpb5xfowro1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Alaşehir Jeotermal Enerji Santrali",
+    "il": "Manisa",
+    "aciklama": "Gediz Grabeni'nin Alaşehir kolunda Zorlu Enerji tarafından işletilen öncü santral.",
+    "koordinatlar": {
+      "lat": 38.3514,
+      "lng": 28.5253
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rcbvlilgd71774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Maren Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik bölgesindeki en büyük kapasiteli santrali.",
+    "koordinatlar": {
+      "lat": 37.891,
+      "lng": 28.058
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rcebmqv4yk1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dora 3 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "MB Holding'in Dora serisi santrallerinin en büyüğü. Germencik'in güney kesiminde yer alır.",
+    "koordinatlar": {
+      "lat": 37.86,
+      "lng": 28.0498
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rberaekfsh1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Melih Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik sahasındaki ikinci büyük kapasiteli santrali.",
+    "koordinatlar": {
+      "lat": 37.865,
+      "lng": 28.073
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rmuyqlyboi1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Pamukören 4 JES",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki dördüncü ünite.",
+    "koordinatlar": {
+      "lat": 37.851,
+      "lng": 28.1074
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rmmtxiv7r41774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Pamukören 5 JES",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki beşinci ünite.",
+    "koordinatlar": {
+      "lat": 37.848,
+      "lng": 28.111
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpztjm60vj1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ala 2 Jeotermal Santrali",
+    "il": "Manisa",
+    "aciklama": "Maspo Enerji'nin Alaşehir-Gediz Grabeni sahasındaki santrali.",
+    "koordinatlar": {
+      "lat": 38.3278,
+      "lng": 28.4891
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rf6gs9wap51774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Salihli 3 JES",
+    "il": "Manisa",
+    "aciklama": "Sanko Enerji'nin Salihli jeotermal sahasındaki en büyük ünitesi.",
+    "koordinatlar": {
+      "lat": 38.48,
+      "lng": 28.1386
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r759hgqm8f1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Türkerler Jeotermal Enerji Santrali - 3",
+    "il": "Manisa",
+    "aciklama": "Türkerler Holding'in Alaşehir sahasındaki en büyük kapasiteli ünitesi. Tamamlandığında 120 MW toplam kapasite hedeflenmektedir.",
+    "koordinatlar": {
+      "lat": 38.34,
+      "lng": 28.502
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r8cs5krvrc1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Greeneco 5 JES",
+    "il": "Denizli",
+    "aciklama": "Greeneco Enerji'nin Tekkehamam sahasındaki beşinci ünitesi. CO2 emisyonu olmayan kapalı çevrim binary teknolojisi kullanılmaktadır.",
+    "koordinatlar": {
+      "lat": 37.937,
+      "lng": 28.855
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rzd78423ua1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Greeneco 6 JES",
+    "il": "Denizli",
+    "aciklama": "2250 hektarlık yatırım alanında Greeneco'nun altıncı ünitesi.",
+    "koordinatlar": {
+      "lat": 37.934,
+      "lng": 28.862
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7llgentbc1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Greeneco 3 Jeotermal Santrali",
+    "il": "Denizli",
+    "aciklama": "Denizli'nin elektrik ihtiyacının %70'ini karşılayan Kızıldere-Tekkehamam kompleksindeki üçüncü Greeneco ünitesi.",
+    "koordinatlar": {
+      "lat": 37.942,
+      "lng": 28.848
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rf45lyi48z1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Greeneco Jeotermal Enerji Santrali (1-2)",
+    "il": "Denizli",
+    "aciklama": "Greeneco Enerji'nin Tekkehamam sahasındaki ilk ve ikinci üniteleri. Sahadaki toplam potansiyel 200 MW olarak değerlendirilmektedir.",
+    "koordinatlar": {
+      "lat": 37.945,
+      "lng": 28.841
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rre5aqupw71774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "3S Kale Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Germencik sahasında 3S Kale Enerji tarafından işletilen orta kapasiteli santral.",
+    "koordinatlar": {
+      "lat": 37.872,
+      "lng": 27.991
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r3ehlqgtq61774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Efe 7 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Mogan Enerji'nin Germencik sahasındaki yedinci Efe serisi ünitesi.",
+    "koordinatlar": {
+      "lat": 37.876,
+      "lng": 28.068
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1s7h0w1501774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Enerjeo Kemaliye Santrali",
+    "il": "Manisa",
+    "aciklama": "Manisa Sarıgöl bölgesindeki Gediz Grabeni jeotermal sahasında işletilen santral.",
+    "koordinatlar": {
+      "lat": 38.295,
+      "lng": 28.56
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rwjhnh6eok1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ken 3 JES",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Ken serisi santrallerinin üçüncü ünitesi.",
+    "koordinatlar": {
+      "lat": 37.901,
+      "lng": 28.084
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "robuyt674c1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Mehmethan Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik kompleksindeki en son eklenen 25 MW'lık ünitelerden biri.",
+    "koordinatlar": {
+      "lat": 37.904,
+      "lng": 28.077
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rn2q4b9u7t1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Salihli 2 JES",
+    "il": "Manisa",
+    "aciklama": "Sanko Enerji'nin Salihli jeotermal sahasındaki ikinci büyük kapasiteli ünitesi.",
+    "koordinatlar": {
+      "lat": 38.472,
+      "lng": 28.132
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnzlfe3mi31774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Deniz Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik bölgesindeki 24 MW kapasiteli santrali.",
+    "koordinatlar": {
+      "lat": 37.907,
+      "lng": 28.063
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r43pu20wrg1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ken Kipaş Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in kurucu Ken serisi santrali.",
+    "koordinatlar": {
+      "lat": 37.908,
+      "lng": 28.086
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7hvnvh3cb1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kerem JES",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik sahasındaki Kerem adlı 24 MW kapasiteli santrali.",
+    "koordinatlar": {
+      "lat": 37.905,
+      "lng": 28.09
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rxtuexzeef1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kubilay Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Çevik Grup tarafından işletilen 24 MW kapasiteli Germencik bölgesi santrali.",
+    "koordinatlar": {
+      "lat": 37.873,
+      "lng": 28.0592
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rovqaqdz1m1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Türkerler Alaşehir 2 JES",
+    "il": "Manisa",
+    "aciklama": "Türkerler Holding'in Alaşehir sahasındaki ikinci büyük kapasiteli ünitesi.",
+    "koordinatlar": {
+      "lat": 38.355,
+      "lng": 28.478
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rowpafkwxk1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Türkerler Alaşehir JES",
+    "il": "Manisa",
+    "aciklama": "Türkerler Holding'in Alaşehir sahasındaki kurucu jeotermal santrali.",
+    "koordinatlar": {
+      "lat": 38.36,
+      "lng": 28.47
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r9rej26z8y1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Özmen 1 Jeotermal Enerji Santrali",
+    "il": "Manisa",
+    "aciklama": "Özmen Holding ve Sis Enerji ortaklığıyla işletilen Alaşehir sahasındaki santral.",
+    "koordinatlar": {
+      "lat": 38.35,
+      "lng": 28.46
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r3qumtikkl1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Efe 6 JES",
+    "il": "Aydın",
+    "aciklama": "Mogan Enerji'nin altıncı Efe serisi ünitesi.",
+    "koordinatlar": {
+      "lat": 37.871,
+      "lng": 28.072
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rptrzsiaob1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Pamukören 2 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki ikinci ünite.",
+    "koordinatlar": {
+      "lat": 37.85,
+      "lng": 28.096
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r18zsnqx9u1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Pamukören 3 JES",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki üçüncü ünite.",
+    "koordinatlar": {
+      "lat": 37.847,
+      "lng": 28.1
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rw40q4vo231774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sultanhisar 2 JES",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Sultanhisar sahasındaki ikinci ünitesi.",
+    "koordinatlar": {
+      "lat": 37.856,
+      "lng": 28.116
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4i2p630tc1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Nezihe Beren JES",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in en yeni 20 MW kapasiteli Germencik sahasındaki ünitelerinden biri.",
+    "koordinatlar": {
+      "lat": 37.895,
+      "lng": 28.065
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r0djdt6q8z1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Baklacı Jeotermal Santrali",
+    "il": "Manisa",
+    "aciklama": "Manisa'nın Turgutlu ilçesi yakınında Gediz Grabeni sahasında işletilen santral.",
+    "koordinatlar": {
+      "lat": 38.415,
+      "lng": 28.298
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkrex2ffdf1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Özmen 3 JES",
+    "il": "Manisa",
+    "aciklama": "Özmen Holding ve Sis Enerji ortaklığının üçüncü ünitesi.",
+    "koordinatlar": {
+      "lat": 38.32,
+      "lng": 28.48
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rfhc53cu9h1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kuyucak Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Turcas Enerji'nin Aydın Kuyucak ilçesindeki jeotermal elektrik santrali.",
+    "koordinatlar": {
+      "lat": 37.779,
+      "lng": 28.203
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r3qs6eehmw1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dora 4 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "MB Holding'in Dora serisi dördüncü ünitesi.",
+    "koordinatlar": {
+      "lat": 37.868,
+      "lng": 28.054
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rtgbqpu3hd1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kızıldere (Zorlu) JES",
+    "il": "Denizli",
+    "aciklama": "Zorlu Enerji'nin Kızıldere özelleştirmesiyle devraldığı tarihi santral. 2006'da özelleştirilerek Zorlu'ya devredilmiştir.",
+    "koordinatlar": {
+      "lat": 37.9499,
+      "lng": 28.84
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rr8zjhpuhv1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sanko Salihli JES",
+    "il": "Manisa",
+    "aciklama": "Sanko Enerji'nin Salihli jeotermal sahasındaki kurucu ünitesi.",
+    "koordinatlar": {
+      "lat": 38.465,
+      "lng": 28.125
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpwfmj5y0k1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sultanhisar Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Sultanhisar sahasındaki kurucu ünitesi.",
+    "koordinatlar": {
+      "lat": 37.859,
+      "lng": 28.113
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "roqlxrvug91774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Buharkent Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Limak Enerji tarafından Aydın Buharkent'te işletilen, bölgenin ilk özel yatırım jeotermal santrallerinden biridir.",
+    "koordinatlar": {
+      "lat": 37.852,
+      "lng": 28.043
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rrbkzyvty51774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gümüşköy Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "BM Holding Enerji Grubu tarafından Aydın Sultanhisar'da işletilen jeotermal santral.",
+    "koordinatlar": {
+      "lat": 37.792,
+      "lng": 28.131
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rsur5xjp2g1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Mis 1 Jeotermal Santrali",
+    "il": "Manisa",
+    "aciklama": "Soyak Enerji'nin Gediz-Alaşehir sahasındaki ilk jeotermal santrali.",
+    "koordinatlar": {
+      "lat": 38.27,
+      "lng": 28.438
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r86fgqgfeo1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Karkey Umurlu Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Karadeniz Enerji'nin Aydın Umurlu bölgesindeki jeotermal santrali.",
+    "koordinatlar": {
+      "lat": 37.909,
+      "lng": 28.0395
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7mf6qkhqz1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "RSC Seferihisar JES",
+    "il": "İzmir",
+    "aciklama": "İzmir Seferihisar'da yer alan, Türkiye'de İzmir kent bölgesine en yakın jeotermal elektrik santrallerinden biri.",
+    "koordinatlar": {
+      "lat": 38.195,
+      "lng": 26.845
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rsgw15w35c1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Umurlu 2 JES",
+    "il": "Aydın",
+    "aciklama": "Karadeniz Enerji'nin Umurlu sahasındaki ikinci jeotermal ünitesi.",
+    "koordinatlar": {
+      "lat": 37.912,
+      "lng": 28.041
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rj7ixatc2d1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "İda Jeotermal Santrali",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale'nin jeotermal potansiyelinin değerlendirildiği Ayvacık-Tuzla bölgesindeki santrali.",
+    "koordinatlar": {
+      "lat": 39.595,
+      "lng": 26.418
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rjismi0gnd1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kiper 1 JES",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik sahasındaki küçük kapasiteli pilot ünitelerinden biri.",
+    "koordinatlar": {
+      "lat": 37.902,
+      "lng": 28.092
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rmv4wxmfle1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Maspo Enerji JES 4",
+    "il": "Manisa",
+    "aciklama": "Gürmen Group - Maspo Enerji ortaklığının dördüncü jeotermal ünitesi.",
+    "koordinatlar": {
+      "lat": 38.31,
+      "lng": 28.51
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r41xmbjle71774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dora 2 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "MB Holding'in Dora serisinin ikinci ünitesi; Türkiye'nin ilk ikili çevrim jeotermal santrallerinden biridir.",
+    "koordinatlar": {
+      "lat": 37.865,
+      "lng": 28.049
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4jg16229t1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Babadere Jeotermal Enerji Santrali",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale'nin Babadere bölgesinde MTN Enerji tarafından işletilen jeotermal santral.",
+    "koordinatlar": {
+      "lat": 39.785,
+      "lng": 26.522
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rzuvkw4rmb1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dora 1 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "MB Holding'in Germencik sahasındaki kurucu flash santrali. Türkiye'nin ilk özel yatırım jeotermal santrallerinden biridir.",
+    "koordinatlar": {
+      "lat": 37.86,
+      "lng": 28.0445
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rm2zsazsft1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Tuzla Jeotermal Enerji Santrali",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale'nin Ayvacık ilçesi Tuzla köyündeki jeotermal saha. Türkiye'nin Çanakkale bölgesindeki ilk jeotermal elektrik santrali.",
+    "koordinatlar": {
+      "lat": 39.6025,
+      "lng": 26.396
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ri1clbca9a1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kızıldere JES (Aydem)",
+    "il": "Denizli",
+    "aciklama": "Türkiye'nin ve MTA'nın ilk jeotermal santrali. 1984'te devlet eliyle kurulmuş, ardından özelleştirilerek Aydem Enerji'ye devredilmiştir.",
+    "koordinatlar": {
+      "lat": 37.949,
+      "lng": 28.828
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rp3jlqrn601774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Tosunlar JES",
+    "il": "Denizli",
+    "aciklama": "Kızıldere-Tekkehamam bölgesinin güney kesimindeki küçük kapasiteli binary santral.",
+    "koordinatlar": {
+      "lat": 37.92,
+      "lng": 28.873
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rwny1wq6ze1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Emirler 1 JES",
+    "il": "Denizli",
+    "aciklama": "Tamamlandığında 9.9 MW kapasiteye ulaşacak Emirler Enerji santrali. Şu an 3.5 MW işletmede.",
+    "koordinatlar": {
+      "lat": 37.93,
+      "lng": 28.88
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede (Genişleme Sürüyor)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r8od2ayasb1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Transmark JES",
+    "il": "Çanakkale",
+    "aciklama": "Transmark Turkey'nin Çanakkale Ayvacık sahasındaki mevcut santrali. Ön lisans alınan Transmark 2 JES ile 19 MW'a çıkma hedefi bulunmaktadır.",
+    "koordinatlar": {
+      "lat": 39.64,
+      "lng": 26.41
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede (Genişleme Planı Var)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbkyzcfgea1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Afjet Afjes JES",
+    "il": "Afyonkarahisar",
+    "aciklama": "Afyonkarahisar'ın Ömer-Gecek jeotermal sahasında kurulu, Türkiye'nin kamu tarafından işletilen tek küçük ölçekli jeotermal elektrik santrali.",
+    "koordinatlar": {
+      "lat": 38.758,
+      "lng": 30.535
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rr0y1x0i2z1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Alkan Jeotermal Santrali (İnşaat Halinde)",
+    "il": "Manisa",
+    "aciklama": "Zorlu Enerji'nin Alaşehir sahasındaki yeni gelişim projesi. Yapım aşamasında; tamamlandığında 18.6 MW kapasiteye ulaşacaktır.",
+    "koordinatlar": {
+      "lat": 38.335,
+      "lng": 28.456
+    },
+    "alan_ha": 0,
+    "durum": "İnşaat Halinde",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rox6su9scb1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Efe 9 JES (Üretim Lisanslı)",
+    "il": "Aydın",
+    "aciklama": "Mogan Enerji'nin üretim lisansı almış Efe serisinin dokuzuncu ünitesi. Devreye alınma sürecinde.",
+    "koordinatlar": {
+      "lat": 37.881,
+      "lng": 28.054
+    },
+    "alan_ha": 0,
+    "durum": "Üretim Lisansı Alındı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rm64zd28ob1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "HEG Kütahya Jeotermal (Üretim Lisanslı)",
+    "il": "Aydın",
+    "aciklama": "Genç Grup Enerji'nin üretim lisansı almış jeotermal projesi.",
+    "koordinatlar": {
+      "lat": 37.887,
+      "lng": 28.036
+    },
+    "alan_ha": 0,
+    "durum": "Üretim Lisansı Alındı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ry5ityvm3x1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "OME T-01 JES (Üretim Lisanslı)",
+    "il": "Manisa",
+    "aciklama": "Open Mountain Energy'nin Alaşehir sahasındaki T-01 projesi; 2024'te dünya sıralamasında Türkiye'nin kapasitesini artıran yeni santrallerden biri olarak anıldı.",
+    "koordinatlar": {
+      "lat": 38.308,
+      "lng": 28.515
+    },
+    "alan_ha": 0,
+    "durum": "Üretim Lisansı Alındı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ruktm2a0k61774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Greeneco 7 JES (Ön Lisanslı)",
+    "il": "Denizli",
+    "aciklama": "Greeneco'nun en büyük planlı ünitesi. 2024 raporlarında Türkiye'nin yeni kapasitesine katkı sağlayan santrallerden biri olarak anıldı.",
+    "koordinatlar": {
+      "lat": 37.915,
+      "lng": 28.87
+    },
+    "alan_ha": 0,
+    "durum": "Ön Lisans",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rk9qpx6okz1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Tekkehamam 2 JES (Ön Lisanslı)",
+    "il": "Denizli",
+    "aciklama": "Zorlu Enerji'nin Tekkehamam sahasında planladığı ikinci büyük genişleme projesi.",
+    "koordinatlar": {
+      "lat": 37.94,
+      "lng": 28.89
+    },
+    "alan_ha": 0,
+    "durum": "Ön Lisans",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1c2hqdl6h1774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "HEZ Moralı JES (Ön Lisanslı)",
+    "il": "Aydın",
+    "aciklama": "HEZ Enerji'nin 2024'te adından söz ettiren yeni jeotermal projesi.",
+    "koordinatlar": {
+      "lat": 37.905,
+      "lng": 28.029
+    },
+    "alan_ha": 0,
+    "durum": "Ön Lisans",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r69jp7a5g61774103567563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Enerjikan JES (Ön Lisanslı)",
+    "il": "Balıkesir",
+    "aciklama": "Balıkesir Bigadiç bölgesinde geliştirilen yeni jeotermal proje. Ege-Marmara bölgelerinin kesişimindeki jeotermal potansiyeli değerlendirmektedir.",
+    "koordinatlar": {
+      "lat": 38.405,
+      "lng": 28.205
+    },
+    "alan_ha": 0,
+    "durum": "Ön Lisans",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnu96y4t8u1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Kışladağ Altın Madeni",
+    "il": "Uşak",
+    "aciklama": "Porfiri altın yatağı. Türkiye altın üretiminin büyük bölümünü tek başına karşılar. Eldorado Gold tarafından 2006'dan beri işletilmektedir.",
+    "koordinatlar": {
+      "lat": 38.85,
+      "lng": 29.0833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "raiza5r8uw1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Çöpler Altın Madeni",
+    "il": "Erzincan",
+    "aciklama": "Şubat 2024'te heşleaching setinin çökmesiyle kazaya sahne olmuştur. 43.8-44.6 milyon yıllık Orta Eosen magmatik kompleksinde yer alır.",
+    "koordinatlar": {
+      "lat": 39.1667,
+      "lng": 38.8069
+    },
+    "alan_ha": 0,
+    "durum": "Aktif (2024 sonrası kısmi)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rp8qgnme4w1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Mastra Altın Madeni",
+    "il": "Gümüşhane",
+    "aciklama": "Gümüşhane'nin Kürtün ilçesinde Lidya Madencilik tarafından işletilen yeraltı altın madeni.",
+    "koordinatlar": {
+      "lat": 40.675,
+      "lng": 38.6094
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbghgdwtry1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Kirazlı Altın Madeni",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale Bayramiç'te Alamos Gold iştiraki tarafından geliştirilen açık ocak altın projesi. Çevresel tartışmalar nedeniyle durdu.",
+    "koordinatlar": {
+      "lat": 39.8583,
+      "lng": 26.975
+    },
+    "alan_ha": 0,
+    "durum": "Ruhsat Askıda / Tartışmalı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7adf0mx6k1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Efemçukuru Altın Madeni",
+    "il": "İzmir",
+    "aciklama": "İzmir Kemalpaşa'da Eldorado Gold tarafından işletilen yüksek tenörlü yeraltı altın madeni.",
+    "koordinatlar": {
+      "lat": 38.3631,
+      "lng": 28.1281
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1m3a38kat1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Güleman Krom Madeni",
+    "il": "Elazığ",
+    "aciklama": "1915'te Abdullah Hüsrev Güleman tarafından keşfedilen ve 1936'da üretime başlayan, Türkiye'nin en büyük krom kompleksi. Podiform-lentikular kromitiit gövdeleri.",
+    "koordinatlar": {
+      "lat": 38.45,
+      "lng": 39.1333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rykc7pzvyx1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Fethiye Krom Madenleri",
+    "il": "Muğla",
+    "aciklama": "Dünyada ilk ticari krom üretiminin başlatıldığı tarihi bölgelerden biri. Aydın, Denizli, Burdur ve Muğla illerindeki ofiyolit kuşağı krom yatakları.",
+    "koordinatlar": {
+      "lat": 36.64,
+      "lng": 29.11
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rs3b39cis41774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Harmancık-Bursa Krom Madeni",
+    "il": "Bursa",
+    "aciklama": "Türkiye'de krom üretiminin ilk yapıldığı tarihi bölge. Günümüzde de krom çıkarımı devam etmektedir.",
+    "koordinatlar": {
+      "lat": 39.6567,
+      "lng": 29.1478
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r9pas3jwok1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Çayeli Bakır-Çinko Madeni",
+    "il": "Rize",
+    "aciklama": "Doğu Pontid metalojenik kuşağındaki Kuroko tipi volkanojenik masif sülfür (VMS) yatağı. ~25 yıl işletilmiştir.",
+    "koordinatlar": {
+      "lat": 41.0603,
+      "lng": 41.6514
+    },
+    "alan_ha": 0,
+    "durum": "Kapalı (rezerv tükendi ~2019)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rhu7ilxqbe1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Murgul-Çakmakkaya Bakır Madeni",
+    "il": "Artvin",
+    "aciklama": "Doğu Pontid kuşağında Kuroko tipi Cu-Zn-Pb masif sülfür yatağı. Damar ve Çakmakkaya açık ocaklarından oluşur. 2500+ kişi istihdamı.",
+    "koordinatlar": {
+      "lat": 41.2094,
+      "lng": 41.3981
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnbt6exp3i1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Küre Bakır Madeni",
+    "il": "Kastamonu",
+    "aciklama": "Kastamonu'nun yaklaşık 50 km kuzeyinde yer alır. Greklerin, Romalıların, Cenevizlilerin, Bizanslıların, Selçukluların ve Osmanlıların işlettiği tarihi bakır madeni.",
+    "koordinatlar": {
+      "lat": 41.85,
+      "lng": 33.5833
+    },
+    "alan_ha": 0,
+    "durum": "Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "riffk8i5x01774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Elazığ-Ergani Bakır Madeni",
+    "il": "Elazığ",
+    "aciklama": "Elazığ'ın Maden ilçesinde bakır çıkarımı yapılmıştır. Güleman krom madeniyle birlikte Doğu Anadolu'nun iki önemli maden sahasından biridir.",
+    "koordinatlar": {
+      "lat": 38.3411,
+      "lng": 40.98
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ro7zbl4mzm1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Uludağ Volfram (W) Madeni",
+    "il": "Bursa",
+    "aciklama": "Uludağ'ın batı zirvesinin kuzeydoğusunda, Çayırlı Dere gölü yakınında bulunan skarın tipi volfram yatağı. Türkiye'nin tek volfram kaynağı.",
+    "koordinatlar": {
+      "lat": 39.8667,
+      "lng": 29.52
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbaytm5s3f1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Keban Kurşun-Çinko Madeni",
+    "il": "Elazığ",
+    "aciklama": "Keban barajı havzasında kurşun ve çinko yatakları. Keban barajı yapımından önce önemli üretim merkeziydi.",
+    "koordinatlar": {
+      "lat": 38.8333,
+      "lng": 38.3333
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Rezerv İzleme",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkut373jfy1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Hekimhan-Hasançelebi Demir Madeni",
+    "il": "Malatya",
+    "aciklama": "Malatya Hekimhan ve Hasançelebi'de demir cevheri (hematit-manyetit) çıkarımı yapılmaktadır. Demir-çelik sektörünün önemli hammadde kaynağıdır.",
+    "koordinatlar": {
+      "lat": 38.3556,
+      "lng": 38.4117
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rylxtrlu371774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Kahramanmaraş Demir Madeni",
+    "il": "Kahramanmaraş",
+    "aciklama": "Kahramanmaraş çevresindeki hematit ve manyetit içerikli demir cevheri yatakları.",
+    "koordinatlar": {
+      "lat": 37.5847,
+      "lng": 36.4872
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r251j6c5wi1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Tunçbilek Linyit Madeni",
+    "il": "Kütahya",
+    "aciklama": "1939'da Etibank tarafından başlatılan linyit çıkarımı; TKİ bünyesinde Garp Linyitleri İşletmesi tarafından sürdürülmektedir.",
+    "koordinatlar": {
+      "lat": 39.5342,
+      "lng": 29.2183
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1e935wpqk1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Çan Linyit Madeni",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale'nin Çan ilçesinde TKİ tarafından işletilen linyit açık ocağı.",
+    "koordinatlar": {
+      "lat": 39.7331,
+      "lng": 27.7281
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rxgbsfey7e1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Beypazarı Linyit Madeni",
+    "il": "Ankara",
+    "aciklama": "Ankara'nın Beypazarı ilçesinde linyit çıkarımı yapılmaktadır. Aynı havzada trona (doğal soda külü) yatakları da bulunmaktadır.",
+    "koordinatlar": {
+      "lat": 39.81,
+      "lng": 31.92
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ri66jyx4wo1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Kırka (Sarıkaya) Bor Madeni",
+    "il": "Eskişehir",
+    "aciklama": "Türkiye dünya bor rezervlerinin %73'üne sahiptir. Kırka, dünyanın en büyük tek tinkal yatağıdır. Eti Maden tarafından işletilmektedir.",
+    "koordinatlar": {
+      "lat": 39.9719,
+      "lng": 30.815
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rftvoni85y1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Emet Bor Madeni",
+    "il": "Kütahya",
+    "aciklama": "Kütahya Emet'teki kolemanit ve üleksit yatakları; endüstriyel hammadde ve nükleer enerji uygulamalarında stratejik öneme sahiptir.",
+    "koordinatlar": {
+      "lat": 39.3339,
+      "lng": 29.2586
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "riqqncgu0g1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Bigadiç Bor Madeni",
+    "il": "Balıkesir",
+    "aciklama": "Balıkesir'in Bigadiç ve Susurluk ilçelerindeki bor yatakları; kolemanit ve üleksit içerir.",
+    "koordinatlar": {
+      "lat": 40.1489,
+      "lng": 28.1547
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1qpx9ifz01774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Beypazarı-Kazan Trona (Soda Külü) Madeni",
+    "il": "Ankara",
+    "aciklama": "Dünyanın ikinci büyük doğal soda külü (trona) rezervi. Türkiye'yi soda külünde dünya ihracat lideri konumuna getirmiştir.",
+    "koordinatlar": {
+      "lat": 39.9644,
+      "lng": 31.9256
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbq8oe6wra1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Tuz Gölü Kaya Tuzu / Tuz Üretimi",
+    "il": "Konya / Aksaray",
+    "aciklama": "Türkiye'nin ve Orta Doğu'nun en büyük tuz göllerinden biri. Yoğunluğu deniz suyundan 10 kat fazla olan gölden tuz üretimi yapılmaktadır.",
+    "koordinatlar": {
+      "lat": 38.7667,
+      "lng": 33.9
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgge8bslhr1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Çankırı Kaya Tuzu Madeni",
+    "il": "Çankırı",
+    "aciklama": "Çankırı'nın önemli kaya tuzu madenleri; tarihsel önem taşımakta olup sanayi tuzu üretimine katkı sağlamaktadır.",
+    "koordinatlar": {
+      "lat": 40.6086,
+      "lng": 33.6172
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r3jakkia081774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Keçiborlu Kükürt Madeni",
+    "il": "Isparta",
+    "aciklama": "Isparta'nın Keçiborlu ilçesinde kükürt çıkarımı yapılmaktadır. Tarım gübresi ve kimya sanayii için önemli bir girdi maddesidir.",
+    "koordinatlar": {
+      "lat": 37.2858,
+      "lng": 30.3958
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnqvgdfz0f1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Aydın-Muğla Zımparatası Ocakları",
+    "il": "Aydın / Muğla / İzmir",
+    "aciklama": "Aydın, Muğla ve İzmir çevresindeki doğal korindon (zımparatası) yatakları. Aşındırıcı malzeme sektörü için stratejik hammadde.",
+    "koordinatlar": {
+      "lat": 37.7556,
+      "lng": 27.92
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1tnzr1y6i1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Eskişehir Lületaşı (Sepiyolit) Madeni",
+    "il": "Eskişehir",
+    "aciklama": "Dünyanın en önemli lületaşı kaynağı. Pipo ve heykelcilik için kullanılan beyaz, gözenekli mineral. Eskişehir'e özgü bir el sanatı geleneğiyle işlenmektedir.",
+    "koordinatlar": {
+      "lat": 39.8,
+      "lng": 30.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rd09zgs8xp1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Eskişehir Amyant (Asbest) Madeni",
+    "il": "Eskişehir",
+    "aciklama": "Eskişehir'deki amyant yatakları tarihsel olarak önem taşısa da kanserojenik etkisi nedeniyle 2010 sonrasında kullanımı yasaklanmıştır.",
+    "koordinatlar": {
+      "lat": 40,
+      "lng": 30.8
+    },
+    "alan_ha": 0,
+    "durum": "Kapalı (Yasal Yasak)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7avvk8oft1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Oltu Taşı (Jet) Madeni",
+    "il": "Erzurum",
+    "aciklama": "Antrasit kökenli organik bir mineraldir. Yüzyıllardır tespih, kolye ve heykelcilik için kullanılmaktadır. Yalnızca Erzurum Oltu'ya özgü olması nedeniyle benzersiz ticari değere sahiptir.",
+    "koordinatlar": {
+      "lat": 40.5456,
+      "lng": 41.9869
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "roydpv2jns1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Şenkaya Opal Madeni",
+    "il": "Erzurum",
+    "aciklama": "Erzurum Şenkaya'daki nadir zümrüt ve manzara opal yatakları. İç yapısındaki özgün görüntülerle dünya koleksiyoncuları tarafından yüksek fiyatlarla aranmaktadır.",
+    "koordinatlar": {
+      "lat": 40.4722,
+      "lng": 41.7275
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rysuy0stvf1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Amasya Çeltek Linyit Madeni",
+    "il": "Amasya",
+    "aciklama": "Amasya-Merzifon-Çeltek bölgesindeki linyit madenleri. Cumhuriyetin ilk döneminden beri işletilmektedir.",
+    "koordinatlar": {
+      "lat": 41.9186,
+      "lng": 33.4833
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r3j3qzyxw51774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Kırşehir Manganez Madeni",
+    "il": "Kırşehir",
+    "aciklama": "Ankara çevresinde ve Kırşehir'de manganez yatakları bulunmaktadır. Çelik üretiminde kullanılan temel alaşım metali.",
+    "koordinatlar": {
+      "lat": 39.9225,
+      "lng": 32.4556
+    },
+    "alan_ha": 0,
+    "durum": "Kısmen Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rs9507vgof1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Siirt-Madenköy Bakır-Çinko Madeni",
+    "il": "Siirt",
+    "aciklama": "Siirt'in Madenköy ilçesinde bakır ve çinko çıkarımı yapılmaktadır. Güneydoğu Anadolu'nun önemli metalik maden sahalarından biridir.",
+    "koordinatlar": {
+      "lat": 37.5547,
+      "lng": 42.5069
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rn6t7yaikr1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Batman Petrol Sahaları",
+    "il": "Batman",
+    "aciklama": "Batman ve çevresindeki Güneydoğu Anadolu petrol havzası. TPAO tarafından işletilen en aktif yerli petrol sahaları.",
+    "koordinatlar": {
+      "lat": 37.9167,
+      "lng": 42.3
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r62zydtjdp1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Adıyaman Petrol Sahaları",
+    "il": "Adıyaman",
+    "aciklama": "Adıyaman ve çevresindeki petrol kuyu sahaları. Güneydoğu Anadolu'nun Batman ile birlikte ikinci önemli petrol üretim bölgesi.",
+    "koordinatlar": {
+      "lat": 37.765,
+      "lng": 38.2806
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ryac4l8tgc1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Silopi Gilsonit Madeni",
+    "il": "Şırnak",
+    "aciklama": "Şırnak'ın Silopi ilçesinde doğal asfaltin bir türü olan gilsonit çıkarılmaktadır. Boya, mürekkep ve asfalt sektöründe kullanılmaktadır.",
+    "koordinatlar": {
+      "lat": 37.2544,
+      "lng": 42.16
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkknpriezq1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Bergama (Ovacık) Altın Madeni",
+    "il": "İzmir",
+    "aciklama": "Türkiye'nin modern altın madenciliğinde ilk ve en tartışmalı saha. Siyanürlü altın işleme yöntemi yargısal süreçlere ve çevre tartışmalarına neden olmuştur.",
+    "koordinatlar": {
+      "lat": 39.3953,
+      "lng": 27.3553
+    },
+    "alan_ha": 0,
+    "durum": "Tarihsel / Kapalı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rzlkfh60dy1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Balya Kurşun-Çinko Madeni",
+    "il": "Balıkesir",
+    "aciklama": "Antik çağdan beri işletilen tarihi kurşun-çinko-gümüş madeni. 19-20. yüzyılda yabancı şirketlerin yönetiminde önemli üretim yapılmıştır.",
+    "koordinatlar": {
+      "lat": 40.7628,
+      "lng": 28.4869
+    },
+    "alan_ha": 0,
+    "durum": "Kapalı (Tarihsel)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ru1t27g26e1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Kırklareli-Lüleburgaz Doğalgaz Sahası",
+    "il": "Kırklareli",
+    "aciklama": "Hamitabat ve Lüleburgaz bölgesindeki Trakya doğalgaz havzası; Türkiye'nin en büyük yerli doğalgaz kaynağı olup İstanbul'a gaz temin etmektedir.",
+    "koordinatlar": {
+      "lat": 40.5,
+      "lng": 26.5667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r6dce3pkwx1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Denizli Jeotermal Sahaları",
+    "il": "Denizli",
+    "aciklama": "Büyük Menderes grabeninde Türkiye'nin en önemli jeotermal enerji bölgesi. Kızıldere'de 1984'te kurulan ilk jeotermal santral burada işletilmektedir.",
+    "koordinatlar": {
+      "lat": 37.8769,
+      "lng": 29.2639
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rv2tiony351774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Gediz-Alaşehir Jeotermal Sahaları",
+    "il": "Manisa",
+    "aciklama": "Gediz graben sistemi boyunca uzanan yüksek entalipili jeotermal sahalar. Alaşehir ve Salihli ilçelerinde elektrik üretimi yapılmaktadır.",
+    "koordinatlar": {
+      "lat": 38.6206,
+      "lng": 27.9853
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rv07acp3n41774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Ağrı Altın Yatağı",
+    "il": "Ağrı",
+    "aciklama": "Haziran 2021'de açıklanan ve 1.2 milyar dolar değerinde olduğu tahmin edilen büyük altın yatağı. Henüz arama ve geliştirme aşamasındadır.",
+    "koordinatlar": {
+      "lat": 39.5,
+      "lng": 43.65
+    },
+    "alan_ha": 0,
+    "durum": "Arama Aşamasında",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rctd39vv7z1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Sivas-Kangal Demir-Kurşun-Çinko Madeni",
+    "il": "Sivas",
+    "aciklama": "Sivas-Kangal bölgesindeki demir, kurşun ve çinko içerikli cevher yatakları.",
+    "koordinatlar": {
+      "lat": 40.3592,
+      "lng": 38.4731
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rboz5fooay1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Ilgın Linyit Madeni",
+    "il": "Konya",
+    "aciklama": "Konya'nın Ilgın ilçesindeki linyit açık ocağı. TKİ bünyesinde işletilmektedir.",
+    "koordinatlar": {
+      "lat": 37.6086,
+      "lng": 32.5222
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rudwyks5pd1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Tunceli-Ovacık Altın Madeni",
+    "il": "Tunceli",
+    "aciklama": "Türkiye'de siyanür kullanmadan üretim yapan ilk altın madeni. Koza Altın tarafından işletilmekte; biyooksitasyon yöntemi kullanılmaktadır.",
+    "koordinatlar": {
+      "lat": 38.0564,
+      "lng": 40.3964
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rwlu95d6dt1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Bilecik-Söğüt Nikel Madeni",
+    "il": "Bilecik",
+    "aciklama": "Bilecik-Söğüt bölgesindeki nikel yatakları MTA tarafından tespit edilmiştir. Elektrikli araç pil sektöründe artan taleple birlikte önemi artmaktadır.",
+    "koordinatlar": {
+      "lat": 40.0167,
+      "lng": 30.78
+    },
+    "alan_ha": 0,
+    "durum": "Arama / Geliştirme",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rrb0sjm72e1774103612604",
+    "tip": "Maden Ocağı",
+    "ad": "Akseki Boksit Madeni",
+    "il": "Antalya",
+    "aciklama": "Antalya'nın Akseki ilçesinde Toros kireçtaşları içinde oluşmuş karst kökenli boksit yatakları.",
+    "koordinatlar": {
+      "lat": 37.5544,
+      "lng": 33.62
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
   }
 ]
