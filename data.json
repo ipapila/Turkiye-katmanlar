@@ -22232,5 +22232,773 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rtlbk4npha1774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Bolu",
+    "aciklama": "TOKİ'nin ülke genelinde 250.000 sosyal konut hedefi kapsamında Bolu Merkez Çömlekçiler Mahallesi'nde belirlenen taşınmazlar acele kamulaştırılacak. 2942 sayılı Kamulaştırma Kanunu'nun 27. maddesi gereğince yürütülecek.",
+    "koordinatlar": {
+      "lat": 40.23,
+      "lng": 30.548
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rjjh458plm1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Uşak",
+    "aciklama": "TOKİ sosyal konut projesi kapsamında Uşak Merkez Dikilitaş Mahallesi'ndeki taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 38.6734,
+      "lng": 29.403
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r5et7ujuck1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Trabzon",
+    "aciklama": "TOKİ sosyal konut projesi kapsamında Trabzon Araklı ilçesi Özgen Mahallesi'ndeki taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 41.06,
+      "lng": 40.27
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r0i2yn11nt1774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Samsun",
+    "aciklama": "Samsun Canik ilçesinde kentsel dönüşüm kapsamında belirlenen taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.55,
+      "lng": 36.86
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rf5t4naxno1774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Şırnak",
+    "aciklama": "Şırnak ilinde HES/RES enerji üretim tesisi kapsamında EPDK tarafından acele kamulaştırma kararı alındı.",
+    "koordinatlar": {
+      "lat": 37.44,
+      "lng": 42.61
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rghr8a8y0d1774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Van",
+    "aciklama": "Van ilinde GES/RES enerji üretim tesisi için EPDK tarafından acele kamulaştırma kararı alındı.",
+    "koordinatlar": {
+      "lat": 38.49,
+      "lng": 43.4
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r2thpq5z0a1774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Bilecik",
+    "aciklama": "Bilecik ilinde GES/RES enerji üretim tesisi için EPDK tarafından acele kamulaştırma kararı alındı.",
+    "koordinatlar": {
+      "lat": 40.1553,
+      "lng": 29.9736
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rr4qkv0mtv1774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Antalya",
+    "aciklama": "Antalya ilinde GES/RES/HES enerji üretim tesisi için EPDK tarafından acele kamulaştırma kararı alındı.",
+    "koordinatlar": {
+      "lat": 36.88,
+      "lng": 30.65
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "raw43ox3iw1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Konya",
+    "aciklama": "TOKİ 250.000 sosyal konut projesi kapsamında Konya Kulu ilçesi Dinek Mahallesi'nde belirlenen taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.0622,
+      "lng": 37.3833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r8dkuzc1k01774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Rize",
+    "aciklama": "TOKİ sosyal konut projesi kapsamında Rize İkizdere ilçesi Yeşilyurt Mahallesi'nde taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 41.0423,
+      "lng": 40.774
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r9qs5tqg1a1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Ordu",
+    "aciklama": "TOKİ sosyal konut projesi kapsamında Ordu Çaybaşı ilçesi Çınar Mahallesi'ndeki taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.98,
+      "lng": 37.802
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rolizfvmzn1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Ordu",
+    "aciklama": "TOKİ 250.000 sosyal konut projesi kapsamında Ordu Altınordu ilçesindeki Karacaömer ve Öceli mahallelerinde sosyal konut inşa edilecek.",
+    "koordinatlar": {
+      "lat": 41.227,
+      "lng": 37.575
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r4d0z9gpjj1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Ankara / Bolu / Eskişehir",
+    "aciklama": "Beypazarı-Nallıhan Doğal Gaz Boru Hattı Projesi için güzergah üzerindeki taşınmazlar ve sabit tesisler, ulaşım yolları, enerji nakil hatları, katodik koruma ve anot yataklarının yapımı amacıyla BOTAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.1882,
+      "lng": 29.608
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r7h02p00h11774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Ankara",
+    "aciklama": "Keçikaya HES Üretim Tesisi'nin yapımı amacıyla Ankara Sincan ilçesi Temelli-Malıköy Mahallesi sınırları içindeki taşınmazlar EPDK tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 39.905,
+      "lng": 32.67
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r8u2hn768n1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İzmir",
+    "aciklama": "TOKİ'nin İzmir Kemalpaşa'da yürüteceği 2. ve 3. etap konut projesi (474 + 516 = 990 konut + 77 dükkân) için Akalan ve Çambel mahallelerindeki taşınmazlar acele kamulaştırılacak. Proje toplam maliyeti ~148 milyon TL.",
+    "koordinatlar": {
+      "lat": 38.4192,
+      "lng": 27.1384
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rlvx04177h1774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Antalya",
+    "aciklama": "TOKİ sosyal konut projesi kapsamında Antalya Finike ilçesi Turunçova Mahallesi'nde sosyal konut inşaatı için acele kamulaştırma süreci başlatıldı.",
+    "koordinatlar": {
+      "lat": 36.89,
+      "lng": 30.72
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r29u55a94u1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Kahramanmaraş / Malatya / Afyonkarahisar",
+    "aciklama": "Kahramanmaraş, Malatya ve Afyonkarahisar illerindeki doğal gaz boru hattı projeleri kapsamında güzergahlara isabet eden taşınmazlar ile sabit tesisler ve yardımcı altyapı alanları BOTAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 39.1213,
+      "lng": 37.2156
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rcrpd1z4rt1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Batman",
+    "aciklama": "TEİAŞ'a ait 154 kV Aydınkonak TM İrtibat Hatları Projesi kapsamında Batman'da yer alan taşınmazların direk yerleri mülkiyet şeklinde, iletken salınım gabarileri irtifak hakkı kurulmak suretiyle acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.92,
+      "lng": 40.6
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rwuq5o656u1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Mardin",
+    "aciklama": "Mardin ilinde iki ayrı TEİAŞ projesi kapsamında taşınmazlar acele kamulaştırılacak: 154 kV İsdemir Mardin-2 GES TM–Mardin-2 TM Enerji İletim Hattı ve 154 kV (Kızıltepe–Çırçıp) Brş.N.–Akalın Enerji İletim Hattı.",
+    "koordinatlar": {
+      "lat": 37.31,
+      "lng": 40.73
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r3259ugvfu1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Bilecik",
+    "aciklama": "Bilecik'te bağlantı anlaşması kapsamındaki 154 kV Söğüt TM–Metristepe RES TM enerji iletim hattı projesi için taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.1553,
+      "lng": 29.9736
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rd7788xaak1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Ankara",
+    "aciklama": "Ankara Nallıhan ilçesi sınırları içindeki S:200809574 sayılı IV. grup linyit madeni işletme ruhsat sahasındaki madencilik faaliyeti için ihtiyaç duyulan taşınmazlar MAPEG tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.03,
+      "lng": 32.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rtvjr6l5hw1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Sinop",
+    "aciklama": "Sinop Türkeli ilçesinde 154 kV Türkeli TM İrtibatları Projesi kapsamında taşınmazlar TEİAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.44,
+      "lng": 34.52
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r43rk4texz1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale'de 400 kV Saros Havza TM İrtibat Hatları Projesi kapsamında güzergah üzerindeki taşınmazlar TEİAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.15,
+      "lng": 26.42
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "re5h752zxv1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Muş",
+    "aciklama": "Muş Bulanık ilçesinde bağlantı anlaşması kapsamında tesis edilecek 154 kV Arakonak-1 GES TM–Bulanık TM enerji iletim hattı için taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 38.6,
+      "lng": 40.22
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rhnt1vj5ci1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Rize",
+    "aciklama": "Rize Çayeli ilçesinde 154 kV Uzundere I-II HES TM–Çayeli TM Enerji İletim Hattı'nın 6 numaralı direğinin deplase edilmesi amacıyla taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 41.07,
+      "lng": 41.14
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ryc26m7zie1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Diyarbakır / Elazığ",
+    "aciklama": "Diyarbakır ve Elazığ illerindeki doğal gaz boru hattı projeleri kapsamında güzergahlara isabet eden taşınmazlar BOTAŞ tarafından mülkiyet ve irtifak hakkı yoluyla acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 38.17,
+      "lng": 40.214
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ry332dgelh1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Adana / Afyonkarahisar / Edirne / Karaman / Kırşehir / Konya / Ordu / Sivas",
+    "aciklama": "Enerji nakil hatlarının yapımı amacıyla 8 ilde belirlenen güzergahlara isabet eden taşınmazların elektrik dağıtım tesis yerleri mülkiyet, hat emniyet sahaları irtifak hakkı yoluyla TEDAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.08,
+      "lng": 37.38
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rs0iyuqe1k1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Afyonkarahisar",
+    "aciklama": "Afyonkarahisar Şuhut ilçesindeki 4. grup linyit madeni işletme ruhsatlı sahada üretime devam edebilmek için gerekli taşınmazlar MAPEG tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 38.9,
+      "lng": 30.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r3anobilbf1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Konya",
+    "aciklama": "Konya'da kurulacak Mavi Hidroelektrik Santrali yardımcı kaynak GES elektrik üretim tesisi için gerekli taşınmazlar EPDK tarafından Hazine adına tescil edilmek üzere acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.87,
+      "lng": 30.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rqsd6mq56e1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Sakarya / Bursa",
+    "aciklama": "Sakarya Adapazarı ve Bursa Karacabey ilçelerinde kompresör istasyonu projeleri kapsamında taşınmazlar BOTAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.75,
+      "lng": 30.4
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rs1figfkwo1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Bartın",
+    "aciklama": "16 Mayıs 2025 tarihli Resmi Gazete'de yayımlanan Cumhurbaşkanlığı kararıyla TOKİ'nin 250.000 Sosyal Konut Projesi kapsamında Bartın Merkez Balamba Mahallesi'ndeki taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.2,
+      "lng": 29.3
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rkwry3shn11774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Ankara",
+    "aciklama": "Ankara Bala ilçesi Yeniyapanşıhlı Mahallesi'nde GES kurulması planlanan alandaki taşınmaz EPDK tarafından Hazine adına tescil edilmek üzere acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 39.91,
+      "lng": 32.85
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rit2e67bz81774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "İstanbul Silivri'deki mevcut RES projesinin kapasite artışı için 17 taşınmaz acele kamulaştırılacak. Not: Bu güzergahla ilgili daha önceki bir karar (No: 5177) Danıştay 6. Daire tarafından 2023'te iptal edilmiş; ancak kamu yararı kararları geçerliliğini sürdürdüğünden işlemler devam etmektedir.",
+    "koordinatlar": {
+      "lat": 41.15,
+      "lng": 28.28
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r729xfbd7x1774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Çorum",
+    "aciklama": "Çorum'da inşa edilecek Topaz RES elektrik üretim tesisi kapsamında toplam 79 ayrı taşınmaz için EPDK kararıyla acele kamulaştırma süreci başlatıldı.",
+    "koordinatlar": {
+      "lat": 40.5,
+      "lng": 34.9
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r4kkyyomoe1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Antalya / Aydın / Denizli / Eskişehir / Sivas",
+    "aciklama": "Antalya, Aydın, Denizli, Eskişehir ve Sivas illerinde TEDAŞ tarafından yürütülen elektrik dağıtım projeleri için güzergahlardaki taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.12,
+      "lng": 31.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r7qjwtxo551774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Yozgat",
+    "aciklama": "Yozgat Yerköy ilçesinde DSİ tarafından hayata geçirilecek İğdecik Göleti Sulaması Projesi kapsamında belirlenen araziler acele kamulaştırma listesine alındı. Projeyle bölge çiftçisinin sulama erişiminin artırılması hedefleniyor.",
+    "koordinatlar": {
+      "lat": 39.63,
+      "lng": 34.89
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ra9tzwzi0g1774077510210",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Burdur",
+    "aciklama": "Burdur Çeltikçi ilçesinde kurulması planlanan RMS-A doğal gaz dağıtım tesisi için Konak Mahallesi'ndeki 162 ada, 12 parsel numaralı taşınmaz EPDK tarafından Hazine adına tescil edilmek üzere acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.18,
+      "lng": 30.07
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r94569222y1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Şırnak",
+    "aciklama": "Türkiye Petrolleri AO (TPAO) tarafından Şırnak Gabar sahasında üretilen ham petrolün boru hatlarıyla Ceyhan Terminali'ne ulaştırılması amacıyla İdil ilçesinde ham petrol depolama ve pompaj istasyonu kurulacak. Bu kapsamda taşınmazlar MAPEG tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.34,
+      "lng": 42.45
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rcs89049hm1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Adıyaman",
+    "aciklama": "TPAO'nun Adıyaman'daki petrol işletme ruhsat sahasında yapılması planlanan Karakuş kuyuları elektrik üretim sahası için yaklaşık 38.330 m² alan MAPEG tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.76,
+      "lng": 37.7657
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r78vhlf2tm1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Balıkesir",
+    "aciklama": "Balıkesir Bigadiç ilçesinde Eti Maden İşletmeleri tarafından yürütülen Simav açık ocağı faaliyetleri kapsamında Dekapaj Projesi ve yeni cevher stok alanı için taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 39.624,
+      "lng": 27.602
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r5b10jb63n1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Adana / Afyonkarahisar / Aksaray / Hatay / İzmir / Karaman / Kırşehir / Konya / Kütahya / Nevşehir / Niğde",
+    "aciklama": "Enerji nakil hatları yapımı amacıyla Adana, Afyonkarahisar, Aksaray, Hatay, İzmir, Karaman, Kırşehir, Konya, Kütahya, Nevşehir ve Niğde illerinde belirlenen güzergahlara isabet eden taşınmazlar TEDAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.28,
+      "lng": 37.07
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "re0ik4gln81774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Karaman",
+    "aciklama": "Karaman Ayrancı ilçesine bağlı Yarıkkuyu ve Buğdaylı köylerinde bulunan taşınmazlar EPDK tarafından GES kurulması amacıyla acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.35,
+      "lng": 44.72
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rrfg28iv9a1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Bursa",
+    "aciklama": "19 Mart 2026 tarihli Cumhurbaşkanı kararıyla Bursa–Emek–Şehir Hastanesi Hafif Raylı Sistem Hattı Projesi kapsamında inşa edilmesi planlanan YHT gar binasına erişim karayolu ve istasyon bağlantı yollarının yapımı amacıyla taşınmazlar Ulaştırma Bakanlığı tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.18,
+      "lng": 29.06
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rm3dqf1u551774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Rize",
+    "aciklama": "Rize Çayeli ilçesinde TEİAŞ enerji iletim hattı güzergahındaki taşınmazlar acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 41.02,
+      "lng": 29.62
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rn3eussdxz1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Ordu",
+    "aciklama": "Ordu Gölköy ilçesi Aydoğan çıkışındaki Enerji Nakil Hattı yenileme projesi kapsamında, mülkiyet ve irtifak hakkı tesisi yapılacak alanlar TEDAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 40.97,
+      "lng": 38.38
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rc36hf7u7y1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Malatya",
+    "aciklama": "Malatya Yazıhan ilçesinde bağlantı anlaşması kapsamındaki 154 kV Keban Noktasına Saplama DDY Yazıhan TM Enerji İletim Hattı Projesi için taşınmazlar TEİAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 37.98,
+      "lng": 38.73
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r73eo9uv6f1774077510210",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Acele Kamulaştırma",
+    "il": "Kırşehir / Aksaray",
+    "aciklama": "Ağaçören-Sarıyahşi İlçeleri Doğal Gaz Boru Hattı Projesi güzergahına isabet eden taşınmazlar ile proje kapsamındaki sabit tesisler, ulaşım yolları, enerji nakil hatları ve yardımcı altyapı için BOTAŞ tarafından acele kamulaştırma yapılacak.",
+    "koordinatlar": {
+      "lat": 39.76,
+      "lng": 34
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "re2klc0ori1774077510210",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Afyonkarahisar / Uşak",
+    "aciklama": "154 kV Afyon1–Uşak Brş.N.–Karma OSB Enerji İletim Hattı Projesi kapsamında Afyonkarahisar'daki güzergah taşınmazları TEİAŞ tarafından acele kamulaştırılacak.",
+    "koordinatlar": {
+      "lat": 39.76,
+      "lng": 30.54
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
   }
 ]
