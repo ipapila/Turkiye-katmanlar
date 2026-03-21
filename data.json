@@ -23000,5 +23000,1333 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r8iflwkym51774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Muş",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.95,
+      "lng": 42.27
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rg1el51uz11774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Rize",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.087,
+      "lng": 40.724
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rd4equ8h2z1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Sinop",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.96,
+      "lng": 34.57
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rhvgqef4o81774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Çanakkale",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.1553,
+      "lng": 26.4142
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rl8yx0uk5w1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Adana",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.9914,
+      "lng": 35.3308
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rqgckxlupj1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Afyonkarahisar",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.7507,
+      "lng": 30.5567
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rfk412ymn01774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Edirne",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.6771,
+      "lng": 26.5557
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rjwd0ac35u1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Karaman",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.1759,
+      "lng": 33.215
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rdb93d5vcp1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Kırşehir",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.1456,
+      "lng": 34.16
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rmebzjp0ni1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Konya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8713,
+      "lng": 32.4846
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rebcvrms991774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Ordu",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.9839,
+      "lng": 37.8764
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r9pvrxpsxr1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Sivas",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.7477,
+      "lng": 37.0179
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r3e5dq1mka1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Diyarbakır",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.9144,
+      "lng": 40.2306
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rd91tbmt2m1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Elazığ",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.6748,
+      "lng": 39.2226
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r66ri4u9ao1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Kırıkkale",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.9127,
+      "lng": 33.5184
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rt360k1bd71774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Kırıkkale",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.672,
+      "lng": 33.6158
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r7anur6mwv1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Kahramanmaraş",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.383,
+      "lng": 36.85
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rt3n59fykc1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Konya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8713,
+      "lng": 32.4846
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rnmviaidc11774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Ankara",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ra2x7tg0gj1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "İklim Olayları",
+    "il": "Giresun",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.9766,
+      "lng": 39.0027
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r20v602mnx1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Şanlıurfa",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.2333,
+      "lng": 39.7667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rb86qlm2ju1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Trabzon",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.9333,
+      "lng": 40.5833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rxhvnp5dz51774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Antalya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.544,
+      "lng": 32.0028
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rkim28mrjj1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Siirt",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.879,
+      "lng": 42.522
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rhah6g34gm1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Konya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.7183,
+      "lng": 33.5476
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rz516d193h1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "İklim Olayları",
+    "il": "Karaman",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.1759,
+      "lng": 33.215
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "roklii2bmw1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "İklim Olayları",
+    "il": "Burdur",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.5,
+      "lng": 30.4833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ruwx6slewy1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Şırnak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.336,
+      "lng": 41.8895
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rmk2krbexa1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Bilecik",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.15,
+      "lng": 29.9833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rr9o2dlxde1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Mardin",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.3212,
+      "lng": 40.7245
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rhgys9xgui1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Ankara",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rktrbknjbf1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Ankara",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.9688,
+      "lng": 32.594
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rib6m87qwu1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Kahramanmaraş",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.5753,
+      "lng": 36.9228
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rtkiz2wkw61774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Malatya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.3552,
+      "lng": 38.3095
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ra7q5cm02x1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Batman",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8812,
+      "lng": 41.1351
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r8cyuob7yd1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Mardin",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.192,
+      "lng": 40.5855
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rt2ui70jtb1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Ankara",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rurjnl1ouk1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Malatya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.3552,
+      "lng": 38.3095
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rzn5lajrlk1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Niğde",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.9667,
+      "lng": 34.6833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rvgrrer9ea1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Yozgat",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.81,
+      "lng": 35.19
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ravzvf30ye1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Ağrı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.7191,
+      "lng": 43.0503
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rtpk5tioeh1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Termik Reaktör",
+    "il": "Çanakkale",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.0225,
+      "lng": 27.064
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rx24vd79xm1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Çorum",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.5506,
+      "lng": 34.9556
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r5mansjqbw1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Eskişehir",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.871,
+      "lng": 31.508
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rsuwxdtacv1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Afyonkarahisar",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.7507,
+      "lng": 30.5567
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rbj4nmo5yb1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Bitlis",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.5751,
+      "lng": 41.9261
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rmsy2znpcl1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Artvin / Rize",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.18,
+      "lng": 41.82
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rxl3ia756a1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Hakkari",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.5741,
+      "lng": 43.7397
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rgquwb8bkt1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Yozgat",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.81,
+      "lng": 35.19
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rymwsu2svo1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Nevşehir",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.6241,
+      "lng": 34.7239
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ry5vb5jbc71774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Bartın",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.636,
+      "lng": 32.3375
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r2ckpdn5vz1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.0731,
+      "lng": 28.2454
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rwayn7fecb1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Çorum",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.5506,
+      "lng": 34.9556
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r1dwuc17ya1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Antalya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.8969,
+      "lng": 30.7133
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rj742o90a91774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Aydın",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.856,
+      "lng": 27.8416
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rd95ckx9to1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Denizli",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.7765,
+      "lng": 29.0864
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rkpruhfdkc1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Eskişehir",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.7767,
+      "lng": 30.5206
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rjiki8y5vz1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Sivas",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.7477,
+      "lng": 37.0179
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r3lsp7imzk1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Yozgat",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.64,
+      "lng": 35.91
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r3yugxp3yr1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Afyonkarahisar",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.0184,
+      "lng": 31.1555
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rclp8vlipk1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Aksaray",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.3682,
+      "lng": 34.037
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rdf4r323091774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Düzce",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.8438,
+      "lng": 31.1565
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rkrscgc0aw1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Diyarbakır",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.7213,
+      "lng": 40.4131
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rukzv5vsyp1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Adana",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.29,
+      "lng": 36.35
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rzt7jxzfwk1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "İzmir",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.2378,
+      "lng": 28.2082
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r6cwy6mn3r1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Mersin",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.085,
+      "lng": 34.6204
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rnlqcf9tja1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.0695,
+      "lng": 28.8534
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rdppqj09mt1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.1818,
+      "lng": 28.7386
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rztibk371a1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Niğde",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8935,
+      "lng": 34.5572
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rdcbv1jf3j1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Ankara",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.4679,
+      "lng": 32.655
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rlkv1sxycq1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Çankırı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.6013,
+      "lng": 33.6134
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rirogjl5f01774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Gaziantep",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.0662,
+      "lng": 37.3833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rn1zvbgnmu1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Hatay",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.2025,
+      "lng": 36.1603
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rjhe5497x21774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Konya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8713,
+      "lng": 32.4846
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rllaciatjw1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Siirt",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.9219,
+      "lng": 41.8461
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rmogipt87h1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Adana",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.9914,
+      "lng": 35.3308
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rnoby1dyqy1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Afyonkarahisar",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.7507,
+      "lng": 30.5567
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r5qjh92ioz1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Aksaray",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.3682,
+      "lng": 34.037
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r0d24fthar1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Hatay",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.2025,
+      "lng": 36.1603
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rkh3gaoje31774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "İzmir",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.4189,
+      "lng": 27.1287
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rbca1a6zcu1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Kütahya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.4167,
+      "lng": 29.9833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rt2bk5s7zs1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Nevşehir",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.6241,
+      "lng": 34.7239
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ry3xjaim2f1774081518873",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ekolojik İhlal",
+    "il": "Niğde",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.9667,
+      "lng": 34.6833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
   }
 ]
