@@ -24585,5 +24585,90 @@
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "Enerji - Dağıtım"
+  },
+  {
+    "id": "rtanvxrr0g1774104102992",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim Olayları",
+    "il": "Gaziantep",
+    "aciklama": "Gaziantep OSB'nin tekstil ve boyama tesislerinden deşarj edilen arıtılmamış atık su Sacur Çayı'nı kirletti. Bakanlık denetimleri ceza kesti ancak sistematik yaptırım uygulanamadı.",
+    "koordinatlar": {
+      "lat": 37.2,
+      "lng": 38.4
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Nehir Kirliliği"
+  },
+  {
+    "id": "rqa3r9lkrs1774104102992",
+    "tip": "Ekolojik İhlal",
+    "ad": "Taş-Mermer Ocağı",
+    "il": "Malatya",
+    "aciklama": "ÇED belgesi olmaksızın açılan mermer ocakları, dere yatakları yakınında kazı yaparak su kirliliğine yol açtı.",
+    "koordinatlar": {
+      "lat": 37.565,
+      "lng": 37.775
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "ÇED İhlali / Su Kirliliği"
+  },
+  {
+    "id": "rcfrm6y78h1774104102992",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim Olayları",
+    "il": "Hatay",
+    "aciklama": "6 Şubat depremi sonrasında İskenderun Limanı depolama sahalarında çıkan yangın 5 günü aşkın süre söndürülemedi. Toksik dumana maruz kalan binlerce kişi şikayette bulundu.",
+    "koordinatlar": {
+      "lat": 36.59,
+      "lng": 36.2021
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kimyasal Yangın / Depo Yangını"
+  },
+  {
+    "id": "rr6sbgcvm51774104102992",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim Olayları",
+    "il": "Mersin",
+    "aciklama": "Caretta caretta deniz kaplumbağasının üreme alanlarına yakın bölgelerde imar planı dışı yapılaşma gerçekleştirildi. WWF-Türkiye ve TEMA konuyu raporladı.",
+    "koordinatlar": {
+      "lat": 37,
+      "lng": 35.32
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kıyı Mevzuatı İhlali"
+  },
+  {
+    "id": "rrvosacy6k1774104102992",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim Olayları",
+    "il": "Ankara / Kırıkkale",
+    "aciklama": "Türkiye'nin en uzun nehrinin havzasında yetersiz atık su arıtımı ve kaçak deşarjlar su kalitesini bozuyor. Su çerçeve direktifine uyum için AB süreci devam ediyor.",
+    "koordinatlar": {
+      "lat": 39.48,
+      "lng": 33.22
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Belediye ve Sanayi Atık Suyu"
   }
 ]
