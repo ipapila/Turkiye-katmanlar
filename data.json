@@ -1020,108 +1020,6 @@
     "kaynak": "MTA"
   },
   {
-    "id": "src_485704811439",
-    "tip": "Ekolojik İhlal",
-    "ad": "Erzincan İliç Altın Madeni Heyelanı",
-    "il": "Erzincan",
-    "ilce": "İliç",
-    "aciklama": "Şubat 2024'te Çöpler Altın Madeni'nde büyük heyelan. 9 işçi hayatını kaybetti. Siyanür sızıntısı riski.",
-    "koordinatlar": {
-      "lat": 39.45,
-      "lng": 38.55
-    },
-    "alan_ha": 780,
-    "durum": "Yargıda",
-    "belge_no": "ÇB-İHL-2024-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "Çevre Bakanlığı/NGO"
-  },
-  {
-    "id": "src_94b615811439",
-    "tip": "Ekolojik İhlal",
-    "ad": "Muğla Akbelen Orman Tahribatı",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "2023'te termik santral için Akbelen ormanının kesilmesi. Uzun süreli protesto.",
-    "koordinatlar": {
-      "lat": 37.22,
-      "lng": 27.78
-    },
-    "alan_ha": 312,
-    "durum": "Devam Ediyor",
-    "belge_no": "ÇB-İHL-2023-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "NGO"
-  },
-  {
-    "id": "src_fe63a3811439",
-    "tip": "Ekolojik İhlal",
-    "ad": "İstanbul Kanal Güzergahı",
-    "il": "İstanbul",
-    "ilce": "Arnavutköy",
-    "aciklama": "Kanal İstanbul projesi güzergahı. Tarım arazisi ve sulak alan tehdidi.",
-    "koordinatlar": {
-      "lat": 41.18,
-      "lng": 28.62
-    },
-    "alan_ha": 45000,
-    "durum": "Planlama",
-    "belge_no": "ÇB-İHL-2021-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "NGO"
-  },
-  {
-    "id": "src_2cc47e811439",
-    "tip": "Ekolojik İhlal",
-    "ad": "Yırca Zeytinliği Tahribatı",
-    "il": "Manisa",
-    "ilce": "Soma",
-    "aciklama": "2014'te termik santral için zeytinlik alanın imhası.",
-    "koordinatlar": {
-      "lat": 39.18,
-      "lng": 27.6
-    },
-    "alan_ha": 6,
-    "durum": "Kapatıldı",
-    "belge_no": "ÇB-İHL-2014-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "NGO"
-  },
-  {
-    "id": "src_8c8768811439",
-    "tip": "Ekolojik İhlal",
-    "ad": "Artvin Cerattepe Maden Tehdidi",
-    "il": "Artvin",
-    "ilce": "Artvin Merkez",
-    "aciklama": "Bakır madeni projesi Kafkasör mesire alanı ve orman tehdidi.",
-    "koordinatlar": {
-      "lat": 41.2,
-      "lng": 41.82
-    },
-    "alan_ha": 860,
-    "durum": "Yargıda",
-    "belge_no": "ÇB-İHL-2016-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "NGO"
-  },
-  {
-    "id": "src_cc078b811439",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kaz Dağları (İda) Orman Tahribatı",
-    "il": "Çanakkale",
-    "ilce": "Ayvacık",
-    "aciklama": "2019'da altın madeni için ağaç kesimi. Büyük toplumsal tepki.",
-    "koordinatlar": {
-      "lat": 39.75,
-      "lng": 26.62
-    },
-    "alan_ha": 2350,
-    "durum": "Durduruldu",
-    "belge_no": "ÇB-İHL-2019-001",
-    "eklenme": "2025-01-01",
-    "kaynak": "NGO"
-  },
-  {
     "id": "rt8mkc9leb",
     "tip": "Milli Park",
     "ad": "Saklıkent Milli Parkı",
@@ -1748,23 +1646,6 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "rjf3upv07r1773955408954",
-    "tip": "Ekolojik İhlal",
-    "ad": "Moonlight Plajı Ağaç Katliamı",
-    "il": "Antalya",
-    "ilce": "Kemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.596115,
-      "lng": 30.574973
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-19",
     "kaynak": "Manuel"
   },
   {
@@ -18338,22 +18219,6 @@
     "count": 3
   },
   {
-    "id": "rxfo6a4g8r1774074019083",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul / Kocaeli / Yalova / Bursa",
-    "aciklama": "İklim değişikliğinin tetiklediği deniz suyu ısınması ve aşırı besin yükü nedeniyle Marmara Denizi tarihinin en büyük müsilaj (deniz salyası) felaketiyle yüz yüze geldi. Balıkçılık ve turizm ağır zarar gördü; deniz tabanı ekosistemi ciddi ölçüde bozuldu.",
-    "koordinatlar": {
-      "lat": 41.02,
-      "lng": 28.92
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "rlq54eza3s1774074019083",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
@@ -18562,22 +18427,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "r245q86hvj1774074019083",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Kahramanmaraş / Hatay / Adıyaman / Malatya / Gaziantep / Adana / Diyarbakır / Kilis / Osmaniye / Şanlıurfa / Elazığ",
-    "aciklama": "Türkiye Cumhuriyeti tarihinin en yıkıcı depremi. 11 ili etkileyen iki büyük sarsıntı 9 saat arayla geldi; resmi rakamlara göre 53.537 kişi hayatını kaybetti, yaklaşık 300.000 bina yıkıldı veya ağır hasar gördü.",
-    "koordinatlar": {
-      "lat": 37.5853,
-      "lng": 36.9371
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "rh0nu6uxdz1774074019083",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
@@ -18586,22 +18435,6 @@
     "koordinatlar": {
       "lat": 36.1613,
       "lng": 36.2021
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rypcws0ia61774074019083",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Malatya",
-    "aciklama": "6 Şubat ana şokunun artçısı olan 6.4 büyüklüğündeki sarsıntı, daha önce hasar görmüş binaların çökmesine yol açtı.",
-    "koordinatlar": {
-      "lat": 38.294,
-      "lng": 36.9071
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -19362,70 +19195,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "rza986tm601774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Erzincan",
-    "aciklama": "Anagold Madencilik'in işlettiği siyanürlü altın madeni boru hattında meydana gelen yırtılma sonucunda firmanın beyanına göre 20 m³, bilirkişi incelemesine göre en az 210 m³ siyanürlü çözelti çevreye yayıldı. Fırat Nehri'ne sızdığı iddia edildi. Bakanlık, şirkete en üst sınırdan 16,4 milyon TL para cezası kesti; maden 88 gün kapatıldı. Sorumlular UCM'ye taşındı.",
-    "koordinatlar": {
-      "lat": 39.2833,
-      "lng": 38.5641
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r9irffgzbn1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Erzincan",
-    "aciklama": "10 milyon m³ hacmindeki siyanürlü yığın liç sahası 14:28'de çökerek 800 metre boyunca Sabırlı Deresi'ne aktı. 9 işçi göçük altında kaldı; son ceset 116 gün sonra çıkarıldı. Şirket lisansı iptal edildi ancak 1 milyon dolar ceza sonrası operasyonları yeniden başlatmasına izin verildi. Stop Ecocide International konuyu ekokirım örnek vakası ilan etti.",
-    "koordinatlar": {
-      "lat": 39.2833,
-      "lng": 38.5641
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rn3xex6sqm1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Balıkesir / Çanakkale",
-    "aciklama": "Alamos Gold şirketinin Kaz Dağları'nda başlattığı altın madeni projesi için ÇED onayı alınmadan 195.000'i aşkın ağaç kesildi. 'Kaz Dağları Nöbeti' adıyla ülke gündemini saran protesto dalgası çıktı. Danıştay 2020'de ÇED kararını iptal etti.",
-    "koordinatlar": {
-      "lat": 39.7006,
-      "lng": 26.9728
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rej0w7okhk1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul / Kocaeli / Bursa / Yalova",
-    "aciklama": "Onlarca yıllık arıtılmamış atık su deşarjları ve deniz ısınmasının birleşimi, 2021'de Marmara'nın tarihinin en büyük müsilaj felaketiyle sonuçlandı. Deniz tabanı ekosistemi çöktü, balıkçılık ve turizm ağır zarar gördü. Stop Ecocide International bu vakayı ekokırım örneği olarak belgeledi.",
-    "koordinatlar": {
-      "lat": 41.02,
-      "lng": 28.92
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "r8gp5268v91774074966599",
     "tip": "Termik Reaktör",
     "ad": "Termik Reaktör",
@@ -19474,87 +19243,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "rr5i4epa9c1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Antalya",
-    "ilce": "",
-    "aciklama": "Antalya çevresi orman alanlarında tespit edilen kaçak katı atık döküm noktaları, OGM ve Bakanlık denetimleriyle kayıt altına alındı. Tıbbi ve tehlikeli atık dökümü de gündeme geldi.",
-    "koordinatlar": {
-      "lat": 36.662911,
-      "lng": 30.49942
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rx9dbbgb2q1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Adıyaman",
-    "aciklama": "Adıyaman Çelikhan'da faaliyette olan altın madeninin atık havuzundan sızıntı tespit edildi; Tohma Çayı balık ölümleri ve kirlilik belirtildi.",
-    "koordinatlar": {
-      "lat": 37.07,
-      "lng": 37.53
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r7xgvx775v1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Malatya",
-    "aciklama": "ÇED belgesi olmaksızın açılan mermer ocakları, dere yatakları yakınında kazı yaparak su kirliliğine yol açtı.",
-    "koordinatlar": {
-      "lat": 37.565,
-      "lng": 37.775
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rq450c4zpx1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Şırnak",
-    "aciklama": "Stop Ecocide International ve bianet raporlarına göre Şırnak ve çevre ormanlık alanlarda gerçekleştirilen operasyonlar kapsamında geniş meşe orman alanları tahrip edildi. Sivil toplum ve ekokirım inisiyatifi konuyu parlamentoya taşıdı.",
-    "koordinatlar": {
-      "lat": 37.3,
-      "lng": 42.2
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rqc8wqws6c1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Kahramanmaraş / Hatay / Adıyaman",
-    "aciklama": "Internationalist Standpoint ve Stop Ecocide raporlarına göre 6 Şubat depremi sonrasında asbestos içeren enkaz, tehlikeli atık yönetimi kuralları gözetilmeden çevreye dağıtıldı. Ekipman kullanan ve bölgede yaşayan on binlerce kişi maruz kaldı.",
-    "koordinatlar": {
-      "lat": 36.7971,
-      "lng": 38.3743
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "rjsu1v1dt11774074966599",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
@@ -19563,38 +19251,6 @@
     "koordinatlar": {
       "lat": 36.59,
       "lng": 36.2021
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rj4kq3606j1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Balıkesir",
-    "aciklama": "Marmara'ya akan akarsuların kaynağına yakın alanlarda ÇED belgesi eksiklikleriyle yürütülen maden arama faaliyetleri köylü şikayetleri ve hukuki süreçlere yol açtı.",
-    "koordinatlar": {
-      "lat": 38.9667,
-      "lng": 27.5333
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rkqes58q9f1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Hatay",
-    "aciklama": "Deprem inşaat sürecinde ortaya çıkan malzeme açığı, Hatay'da özellikle Asi Nehri'nden kaçak kum ve çakıl çıkarımını artırdı.",
-    "koordinatlar": {
-      "lat": 36.2,
-      "lng": 36.16
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -19619,38 +19275,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "rwb4z9yq8k1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İzmir",
-    "aciklama": "İzmir Körfezi'nde tespit edilen petrol türevi kirlilik lekesi MARPOL ihlali kapsamında soruşturuldu; kuş ve deniz yaşamında tahribat gözlendi.",
-    "koordinatlar": {
-      "lat": 38.42,
-      "lng": 26.96
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rf5ty9ai3a1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Malatya",
-    "aciklama": "OGM ve jandarma operasyonunda kaçak kesim yapılan ormanlık alanda yüzlerce ağaç kütüğü ve kaçak kereste ele geçirildi; şüpheliler gözaltına alındı.",
-    "koordinatlar": {
-      "lat": 38.294,
-      "lng": 36.9071
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "rthhxmyh1l1774074966599",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
@@ -19659,86 +19283,6 @@
     "koordinatlar": {
       "lat": 37,
       "lng": 35.32
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "re91yn3j5t1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul",
-    "aciklama": "İstanbul Boğazı ve Marmara'da av yasağı dönemlerinde, yasaklı av araçlarıyla (sürükleme ağı, elektrik, dinamit) gerçekleştirilen kaçak balıkçılık her yıl binlerce ceza gerektiriyor.",
-    "koordinatlar": {
-      "lat": 41,
-      "lng": 29
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rfm5k3tywn1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Elazığ",
-    "aciklama": "Keban Barajı çevresindeki maden ve sanayi tesislerinin atık deşarjları baraj suyunu olumsuz etkiledi. Balık ölümleri belgelendi.",
-    "koordinatlar": {
-      "lat": 37.56,
-      "lng": 40.22
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rfhvqab2i21774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Burdur",
-    "aciklama": "Türkiye'nin en hızlı küçülen gölü olan Burdur Gölü, aşırı sulama suyu çekimi ve tarımsal kirlilik nedeniyle son 50 yılda yüzey alanının yarısını yitirdi. Flamingo ve diğer su kuşlarının üreme alanı tehdit altında.",
-    "koordinatlar": {
-      "lat": 37.75,
-      "lng": 30.56
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rxnjyn7dyb1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Kayseri",
-    "aciklama": "Kayseri sanayi bölgesinde lisanssız araçlarla taşınan tehlikeli atıkların ormanlık alanlara ve tarlalara bırakıldığı tespit edildi; operasyon sonrası gözaltılar yapıldı.",
-    "koordinatlar": {
-      "lat": 38.74,
-      "lng": 35.4
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rb7jhrqhy21774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Adana",
-    "aciklama": "Adana OSB'de faaliyet gösteren tekstil ve kimya firmalarının arıtılmamış atık suları Seyhan Nehri'ni kirletti; balık ölümleri ve kötü koku şikayetleri belgelendi.",
-    "koordinatlar": {
-      "lat": 37.06,
-      "lng": 36.88
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -19763,54 +19307,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "rff8sa9iv21774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Muğla",
-    "aciklama": "Gökova Özel Çevre Koruma Bölgesi sınırları içinde izinsiz kum çıkarımı ve altyapı çalışmaları kıyı ekosistemi tahribatına yol açtı.",
-    "koordinatlar": {
-      "lat": 37.06,
-      "lng": 29.01
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "raqkjt0bsi1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Erzincan / Tunceli",
-    "aciklama": "2022 siyanür sızıntısının uzun vadeli etkileri 2023'te Munzur Vadisi'nde de gözlemlenmeye devam etti; sivil toplum kuruluşları su numunelerindeki aşırı ağır metal düzeylerini belgeledi.",
-    "koordinatlar": {
-      "lat": 39.65,
-      "lng": 39.14
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rhkpkjot4n1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Muğla",
-    "aciklama": "Yasal güvence altındaki tescilli zeytinlik alanları imara açılarak kaçak yapılaşmaya konu edildi; Zeytin Kanunu ihlali kapsamında davalar açıldı.",
-    "koordinatlar": {
-      "lat": 37.05,
-      "lng": 27.2
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "rf77k59zop1774074966599",
     "tip": "Termik Reaktör",
     "ad": "Termik Reaktör",
@@ -19819,166 +19315,6 @@
     "koordinatlar": {
       "lat": 41.3,
       "lng": 31.5
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rezaju0kmy1774074966599",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul",
-    "aciklama": "İstanbul Pendik sahiline kaçak inşaat molozunun dökülmesi kıyı mevzuatı ihlali kapsamında soruşturmaya konu oldu.",
-    "koordinatlar": {
-      "lat": 40.93,
-      "lng": 29.1
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rh84fypoc41774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ankara",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.9208,
-      "lng": 32.8597
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rnvw2xfpbt1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Çoklu (güzergâh)",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.1667,
-      "lng": 35.4666
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rqsqtgrtn51774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Adana / Afyonkarahisar / Edirne / Karaman / Kırşehir / Konya / Ordu / Sivas",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37,
-      "lng": 35.3213
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r2a190wq2y1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Muş",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.0897,
-      "lng": 42.2636
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rplkg0rkwd1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Rize",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 41.1065,
-      "lng": 40.7235
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rgoceooaye1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Sinop",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 41.9487,
-      "lng": 34.3762
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "ry5zc0sktx1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Çanakkale",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.1553,
-      "lng": 26.4143
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rroct8hdir1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Diyarbakır / Elazığ",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 38.1237,
-      "lng": 40.2312
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rohnheebyk1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Karaman",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.3462,
-      "lng": 33.4624
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -20019,54 +19355,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "rskbta0rw61774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Şanlıurfa",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.2296,
-      "lng": 39.7624
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rn33zj5pi51774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Trabzon",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.9423,
-      "lng": 40.2653
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rmejmrssdu1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Antalya",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.5438,
-      "lng": 32.0093
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "rcwihv4w0s1774076919857",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
@@ -20075,38 +19363,6 @@
     "koordinatlar": {
       "lat": 36.9626,
       "lng": 37.5067
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "ree5xbj8n61774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Siirt",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.8117,
-      "lng": 42.5481
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rd9m5ebcbf1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Konya",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.7253,
-      "lng": 33.5517
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -20147,342 +19403,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "rjpbsdsr6h1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Şırnak",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.3387,
-      "lng": 41.8912
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r7qu1wndad1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 41.0353,
-      "lng": 28.4543
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rh10gylcq91774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Sakarya / Bolu / Ankara",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.5876,
-      "lng": 31.5788
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rn4m9t7bli1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Adana",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 38.2744,
-      "lng": 36.2617
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rmf1vu9dob1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İzmir",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 38.1929,
-      "lng": 28.2232
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rq6g7fozvd1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Mersin",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.0853,
-      "lng": 34.5917
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "ruy9eh4f9s1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Edirne",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 41.8262,
-      "lng": 26.7367
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r80jql1klo1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Niğde",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.8909,
-      "lng": 34.5547
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r9rn5qvps71774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ankara",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.9208,
-      "lng": 32.8597
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r0tl5r5ybz1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İzmir",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 38.4189,
-      "lng": 27.1428
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r36b7q1gcj1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Yozgat",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.8201,
-      "lng": 34.8137
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rnsfqt6erg1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Muğla",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.2153,
-      "lng": 28.3624
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rludziluka1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Gaziantep",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.0662,
-      "lng": 37.3781
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rjrotvnn4k1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Diyarbakır",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.9144,
-      "lng": 40.2312
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r4w9uiyftv1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Sakarya",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.7731,
-      "lng": 30.5424
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rdigqznvfa1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Gaziantep",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.0662,
-      "lng": 37.3781
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rxln38or1r1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ankara / İzmir (güzergâh)",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 38.7312,
-      "lng": 30.3613
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r3e0j80i271774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ankara / Afyonkarahisar",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.5412,
-      "lng": 31.4296
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rjvvzwlxgw1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Konya",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.0907,
-      "lng": 33.0756
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rzhdrx2uld1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ankara",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.8869,
-      "lng": 33.0456
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r2tdry0ubw1774076919857",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Siirt",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.9293,
-      "lng": 41.7029
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "rtlbk4npha1774077510210",
     "tip": "Acele Kamulaştırma",
     "ad": "Acele Kamulaştırma",
@@ -20491,38 +19411,6 @@
     "koordinatlar": {
       "lat": 40.23,
       "lng": 30.548
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rjjh458plm1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Uşak",
-    "aciklama": "TOKİ sosyal konut projesi kapsamında Uşak Merkez Dikilitaş Mahallesi'ndeki taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 38.6734,
-      "lng": 29.403
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r5et7ujuck1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Trabzon",
-    "aciklama": "TOKİ sosyal konut projesi kapsamında Trabzon Araklı ilçesi Özgen Mahallesi'ndeki taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 41.06,
-      "lng": 40.27
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -20611,118 +19499,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "raw43ox3iw1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Konya",
-    "aciklama": "TOKİ 250.000 sosyal konut projesi kapsamında Konya Kulu ilçesi Dinek Mahallesi'nde belirlenen taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 37.0622,
-      "lng": 37.3833
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r8dkuzc1k01774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Rize",
-    "aciklama": "TOKİ sosyal konut projesi kapsamında Rize İkizdere ilçesi Yeşilyurt Mahallesi'nde taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 41.0423,
-      "lng": 40.774
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r9qs5tqg1a1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ordu",
-    "aciklama": "TOKİ sosyal konut projesi kapsamında Ordu Çaybaşı ilçesi Çınar Mahallesi'ndeki taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.98,
-      "lng": 37.802
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rolizfvmzn1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ordu",
-    "aciklama": "TOKİ 250.000 sosyal konut projesi kapsamında Ordu Altınordu ilçesindeki Karacaömer ve Öceli mahallelerinde sosyal konut inşa edilecek.",
-    "koordinatlar": {
-      "lat": 41.227,
-      "lng": 37.575
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r4d0z9gpjj1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ankara / Bolu / Eskişehir",
-    "aciklama": "Beypazarı-Nallıhan Doğal Gaz Boru Hattı Projesi için güzergah üzerindeki taşınmazlar ve sabit tesisler, ulaşım yolları, enerji nakil hatları, katodik koruma ve anot yataklarının yapımı amacıyla BOTAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.1882,
-      "lng": 29.608
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r7h02p00h11774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ankara",
-    "aciklama": "Keçikaya HES Üretim Tesisi'nin yapımı amacıyla Ankara Sincan ilçesi Temelli-Malıköy Mahallesi sınırları içindeki taşınmazlar EPDK tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 39.905,
-      "lng": 32.67
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r8u2hn768n1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İzmir",
-    "aciklama": "TOKİ'nin İzmir Kemalpaşa'da yürüteceği 2. ve 3. etap konut projesi (474 + 516 = 990 konut + 77 dükkân) için Akalan ve Çambel mahallelerindeki taşınmazlar acele kamulaştırılacak. Proje toplam maliyeti ~148 milyon TL.",
-    "koordinatlar": {
-      "lat": 38.4192,
-      "lng": 27.1384
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "rlvx04177h1774077510210",
     "tip": "Acele Kamulaştırma",
     "ad": "Acele Kamulaştırma",
@@ -20739,278 +19515,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "r29u55a94u1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Kahramanmaraş / Malatya / Afyonkarahisar",
-    "aciklama": "Kahramanmaraş, Malatya ve Afyonkarahisar illerindeki doğal gaz boru hattı projeleri kapsamında güzergahlara isabet eden taşınmazlar ile sabit tesisler ve yardımcı altyapı alanları BOTAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 39.1213,
-      "lng": 37.2156
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rcrpd1z4rt1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Batman",
-    "aciklama": "TEİAŞ'a ait 154 kV Aydınkonak TM İrtibat Hatları Projesi kapsamında Batman'da yer alan taşınmazların direk yerleri mülkiyet şeklinde, iletken salınım gabarileri irtifak hakkı kurulmak suretiyle acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 37.92,
-      "lng": 40.6
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rwuq5o656u1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Mardin",
-    "aciklama": "Mardin ilinde iki ayrı TEİAŞ projesi kapsamında taşınmazlar acele kamulaştırılacak: 154 kV İsdemir Mardin-2 GES TM–Mardin-2 TM Enerji İletim Hattı ve 154 kV (Kızıltepe–Çırçıp) Brş.N.–Akalın Enerji İletim Hattı.",
-    "koordinatlar": {
-      "lat": 37.31,
-      "lng": 40.73
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r3259ugvfu1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Bilecik",
-    "aciklama": "Bilecik'te bağlantı anlaşması kapsamındaki 154 kV Söğüt TM–Metristepe RES TM enerji iletim hattı projesi için taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.1553,
-      "lng": 29.9736
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rd7788xaak1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ankara",
-    "aciklama": "Ankara Nallıhan ilçesi sınırları içindeki S:200809574 sayılı IV. grup linyit madeni işletme ruhsat sahasındaki madencilik faaliyeti için ihtiyaç duyulan taşınmazlar MAPEG tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.03,
-      "lng": 32.55
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rtvjr6l5hw1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Sinop",
-    "aciklama": "Sinop Türkeli ilçesinde 154 kV Türkeli TM İrtibatları Projesi kapsamında taşınmazlar TEİAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.44,
-      "lng": 34.52
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r43rk4texz1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Çanakkale",
-    "aciklama": "Çanakkale'de 400 kV Saros Havza TM İrtibat Hatları Projesi kapsamında güzergah üzerindeki taşınmazlar TEİAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.15,
-      "lng": 26.42
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "re5h752zxv1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Muş",
-    "aciklama": "Muş Bulanık ilçesinde bağlantı anlaşması kapsamında tesis edilecek 154 kV Arakonak-1 GES TM–Bulanık TM enerji iletim hattı için taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 38.6,
-      "lng": 40.22
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rhnt1vj5ci1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Rize",
-    "aciklama": "Rize Çayeli ilçesinde 154 kV Uzundere I-II HES TM–Çayeli TM Enerji İletim Hattı'nın 6 numaralı direğinin deplase edilmesi amacıyla taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 41.07,
-      "lng": 41.14
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "ryc26m7zie1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Diyarbakır / Elazığ",
-    "aciklama": "Diyarbakır ve Elazığ illerindeki doğal gaz boru hattı projeleri kapsamında güzergahlara isabet eden taşınmazlar BOTAŞ tarafından mülkiyet ve irtifak hakkı yoluyla acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 38.17,
-      "lng": 40.214
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "ry332dgelh1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Adana / Afyonkarahisar / Edirne / Karaman / Kırşehir / Konya / Ordu / Sivas",
-    "aciklama": "Enerji nakil hatlarının yapımı amacıyla 8 ilde belirlenen güzergahlara isabet eden taşınmazların elektrik dağıtım tesis yerleri mülkiyet, hat emniyet sahaları irtifak hakkı yoluyla TEDAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 37.08,
-      "lng": 37.38
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rs0iyuqe1k1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Afyonkarahisar",
-    "aciklama": "Afyonkarahisar Şuhut ilçesindeki 4. grup linyit madeni işletme ruhsatlı sahada üretime devam edebilmek için gerekli taşınmazlar MAPEG tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 38.9,
-      "lng": 30.5
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r3anobilbf1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Konya",
-    "aciklama": "Konya'da kurulacak Mavi Hidroelektrik Santrali yardımcı kaynak GES elektrik üretim tesisi için gerekli taşınmazlar EPDK tarafından Hazine adına tescil edilmek üzere acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 37.87,
-      "lng": 30.5
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rqsd6mq56e1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Sakarya / Bursa",
-    "aciklama": "Sakarya Adapazarı ve Bursa Karacabey ilçelerinde kompresör istasyonu projeleri kapsamında taşınmazlar BOTAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.75,
-      "lng": 30.4
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rs1figfkwo1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Bartın",
-    "aciklama": "16 Mayıs 2025 tarihli Resmi Gazete'de yayımlanan Cumhurbaşkanlığı kararıyla TOKİ'nin 250.000 Sosyal Konut Projesi kapsamında Bartın Merkez Balamba Mahallesi'ndeki taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.2,
-      "lng": 29.3
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rkwry3shn11774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ankara",
-    "aciklama": "Ankara Bala ilçesi Yeniyapanşıhlı Mahallesi'nde GES kurulması planlanan alandaki taşınmaz EPDK tarafından Hazine adına tescil edilmek üzere acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 39.91,
-      "lng": 32.85
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rit2e67bz81774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul",
-    "aciklama": "İstanbul Silivri'deki mevcut RES projesinin kapasite artışı için 17 taşınmaz acele kamulaştırılacak. Not: Bu güzergahla ilgili daha önceki bir karar (No: 5177) Danıştay 6. Daire tarafından 2023'te iptal edilmiş; ancak kamu yararı kararları geçerliliğini sürdürdüğünden işlemler devam etmektedir.",
-    "koordinatlar": {
-      "lat": 41.15,
-      "lng": 28.28
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "r729xfbd7x1774077510210",
     "tip": "Acele Kamulaştırma",
     "ad": "Acele Kamulaştırma",
@@ -21019,22 +19523,6 @@
     "koordinatlar": {
       "lat": 40.5,
       "lng": 34.9
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r4kkyyomoe1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Antalya / Aydın / Denizli / Eskişehir / Sivas",
-    "aciklama": "Antalya, Aydın, Denizli, Eskişehir ve Sivas illerinde TEDAŞ tarafından yürütülen elektrik dağıtım projeleri için güzergahlardaki taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 37.12,
-      "lng": 31.55
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -21075,150 +19563,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "r94569222y1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Şırnak",
-    "aciklama": "Türkiye Petrolleri AO (TPAO) tarafından Şırnak Gabar sahasında üretilen ham petrolün boru hatlarıyla Ceyhan Terminali'ne ulaştırılması amacıyla İdil ilçesinde ham petrol depolama ve pompaj istasyonu kurulacak. Bu kapsamda taşınmazlar MAPEG tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 37.34,
-      "lng": 42.45
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rcs89049hm1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Adıyaman",
-    "aciklama": "TPAO'nun Adıyaman'daki petrol işletme ruhsat sahasında yapılması planlanan Karakuş kuyuları elektrik üretim sahası için yaklaşık 38.330 m² alan MAPEG tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 37.76,
-      "lng": 37.7657
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r78vhlf2tm1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Balıkesir",
-    "aciklama": "Balıkesir Bigadiç ilçesinde Eti Maden İşletmeleri tarafından yürütülen Simav açık ocağı faaliyetleri kapsamında Dekapaj Projesi ve yeni cevher stok alanı için taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 39.624,
-      "lng": 27.602
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r5b10jb63n1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Adana / Afyonkarahisar / Aksaray / Hatay / İzmir / Karaman / Kırşehir / Konya / Kütahya / Nevşehir / Niğde",
-    "aciklama": "Enerji nakil hatları yapımı amacıyla Adana, Afyonkarahisar, Aksaray, Hatay, İzmir, Karaman, Kırşehir, Konya, Kütahya, Nevşehir ve Niğde illerinde belirlenen güzergahlara isabet eden taşınmazlar TEDAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.28,
-      "lng": 37.07
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "re0ik4gln81774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Karaman",
-    "aciklama": "Karaman Ayrancı ilçesine bağlı Yarıkkuyu ve Buğdaylı köylerinde bulunan taşınmazlar EPDK tarafından GES kurulması amacıyla acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 37.35,
-      "lng": 44.72
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rrfg28iv9a1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Bursa",
-    "aciklama": "19 Mart 2026 tarihli Cumhurbaşkanı kararıyla Bursa–Emek–Şehir Hastanesi Hafif Raylı Sistem Hattı Projesi kapsamında inşa edilmesi planlanan YHT gar binasına erişim karayolu ve istasyon bağlantı yollarının yapımı amacıyla taşınmazlar Ulaştırma Bakanlığı tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.18,
-      "lng": 29.06
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rm3dqf1u551774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Rize",
-    "aciklama": "Rize Çayeli ilçesinde TEİAŞ enerji iletim hattı güzergahındaki taşınmazlar acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 41.02,
-      "lng": 29.62
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rn3eussdxz1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Ordu",
-    "aciklama": "Ordu Gölköy ilçesi Aydoğan çıkışındaki Enerji Nakil Hattı yenileme projesi kapsamında, mülkiyet ve irtifak hakkı tesisi yapılacak alanlar TEDAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 40.97,
-      "lng": 38.38
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rc36hf7u7y1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Malatya",
-    "aciklama": "Malatya Yazıhan ilçesinde bağlantı anlaşması kapsamındaki 154 kV Keban Noktasına Saplama DDY Yazıhan TM Enerji İletim Hattı Projesi için taşınmazlar TEİAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 37.98,
-      "lng": 38.73
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
     "id": "r73eo9uv6f1774077510210",
     "tip": "Acele Kamulaştırma",
     "ad": "Acele Kamulaştırma",
@@ -21227,22 +19571,6 @@
     "koordinatlar": {
       "lat": 39.76,
       "lng": 34
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "re2klc0ori1774077510210",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Afyonkarahisar / Uşak",
-    "aciklama": "154 kV Afyon1–Uşak Brş.N.–Karma OSB Enerji İletim Hattı Projesi kapsamında Afyonkarahisar'daki güzergah taşınmazları TEİAŞ tarafından acele kamulaştırılacak.",
-    "koordinatlar": {
-      "lat": 39.76,
-      "lng": 30.54
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -22579,40 +20907,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "rnrxwt2gs91774082709827",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekoloji Aktivisti Hasan Tosun Katledildi",
-    "il": "İstanbul",
-    "ilce": "Esenyurt",
-    "aciklama": "Tokatlı gazeteci ve çevre aktivisti Hakan Tosun, İstanbul Esenyurt’ta uğradığı silahlı saldırı sonucu ağır yaralandı ve kaldırıldığı hastanede yapılan tüm müdahalelere rağmen yaşamını yitirdi.\n\nTosun’un ailesi, cinayetin “organize bir saldırı” olduğundan şüpheleniyor. Olayla bağlantılı olarak iki kişi gözaltına alındı.",
-    "koordinatlar": {
-      "lat": 41.042851,
-      "lng": 28.87928
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Manuel"
-  },
-  {
-    "id": "r6k0ajbm6s1774083002354",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ali Ulvi ve Aysin Büyüknohutçu Katledildi",
-    "il": "Antalya",
-    "ilce": "Finike",
-    "aciklama": "Büyüknohutçu cinayeti: 5 yıldır aydınlatılamayan olay! Sedat Peker detayı, itiraf öncesi ölen zanlı ve savcılık kararı...\n16:46\n05 Ağustos 2022\nBüyüknohutçu cinayeti: 5 yıldır aydınlatılamayan olay! Sedat Peker detayı, itiraf öncesi ölen zanlı ve savcılık kararı...\nBüyüknohutçu çiftinin ölümünün üstünden 5 yıl geçti. Zanlı Ali Yamuç her şeyi itiraf edeceğini söyledikten sonra ölü bulundu. Ali Ulvi Büyüknohutçu ve Aysin Büyüknohutçu'nun kızları Emine Büyüknohutçu'nun cinayeti aydınlatma çabaları ise devam ediyor.\n\nAli Ulvi Büyüknohutçu ve eşi Aysin Büyüknohutçu emekliliklerini yeşil bir alanda geçirmek üzere Antalya Finike'ye bağlı Kızılcık yaylasına taşındı. Ancak aile burada yapılan taş ocaklarının yeşili ve evlerini tehdit ettiği gerekçesiyle bir doğa mücadelesine girişti. Özellikle Ali Ulvi Büyüknohutçu bölgedeki taş ocaklarının doğaya verdiği tahribatı gerekçe göstererek harekete geçti.",
-    "koordinatlar": {
-      "lat": 36.323147,
-      "lng": 30.062714
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Manuel"
-  },
-  {
     "id": "rrk5j01qn71774083075837",
     "tip": "Acele Kamulaştırma",
     "ad": "Akbelen Acele Kamulaştırma",
@@ -22628,91 +20922,6 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Manuel"
-  },
-  {
-    "id": "rtvjdohkyz1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kocabaş Traverten Ocakları",
-    "il": "Denizli",
-    "aciklama": "Türkiye'nin en büyük traverten havzası. 6 km²'lik alanda yaklaşık 60 traverten ocağı bulunur. Türkiye traverten rezervinin %50'si Denizli'dedir.",
-    "koordinatlar": {
-      "lat": 37.8862,
-      "lng": 29.1253
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "re79wflyqw1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Çamlık - Hacıbağ Traverten Ocakları",
-    "il": "Burdur",
-    "aciklama": "Burdur'daki traverten ocak bölgesi.",
-    "koordinatlar": {
-      "lat": 37.698,
-      "lng": 30.41
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r63yewbsf31774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Güzelbahçe Andezit / Bazalt Ocakları",
-    "il": "İzmir",
-    "aciklama": "İzmir çevresinde inşaat sektörüne agrega ve yapı taşı temin eden ocak bölgesi.",
-    "koordinatlar": {
-      "lat": 38.3817,
-      "lng": 26.9006
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r40dbmicwn1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Çerkeş - Eskipazar Traverten Ocakları",
-    "il": "Çankırı",
-    "aciklama": "Çankırı'nın kuzeybatısında yer alan traverten ocakları. Roma döneminden bu yana bilinen tarihî bir çıkarım bölgesidir. Türkiye traverten rezervinin %21'i burada.",
-    "koordinatlar": {
-      "lat": 40.8191,
-      "lng": 32.8942
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ru4n49o8nh1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Keçiborlu Kükürt ve Kireçtaşı Ocakları",
-    "il": "Isparta",
-    "aciklama": "Isparta'nın Keçiborlu ilçesinde kükürt ve kireçtaşı çıkarımı yapılır.",
-    "koordinatlar": {
-      "lat": 37.2858,
-      "lng": 30.3958
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
   },
   {
     "id": "rp1y3aoegd1774103538291",
@@ -22749,23 +20958,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rjd3gxxr1y1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Emet Bor Ocakları",
-    "il": "Kütahya",
-    "aciklama": "Türkiye'nin en büyük bor minerallerinden biri. Dünya bor rezervlerinin büyük kısmı bu bölgede yer alır.",
-    "koordinatlar": {
-      "lat": 39.3339,
-      "lng": 29.2586
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rbv8rvcii01774103538291",
     "tip": "Termik Reaktör",
     "ad": "Oltu Taşı Ocakları",
@@ -22774,363 +20966,6 @@
     "koordinatlar": {
       "lat": 40.5456,
       "lng": 41.9869
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rfauimyfpb1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Şenkaya Opal Ocakları",
-    "il": "Erzurum",
-    "aciklama": "Dünyaca nadir bulunan Şenkaya opallerinin çıkarıldığı bölge. Manzara oluşumlarıyla özellikle dikkat çeker.",
-    "koordinatlar": {
-      "lat": 40.4722,
-      "lng": 41.7275
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r4pklmdf9g1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Banaz Kireçtaşı Ocakları",
-    "il": "Uşak",
-    "aciklama": "Uşak ilindeki Banaz ilçesinde kireçtaşı ve doğal taş çıkarımı yapılır.",
-    "koordinatlar": {
-      "lat": 38.5697,
-      "lng": 29.2558
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rsr6twvsfv1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ulubey Traverten Ocakları",
-    "il": "Uşak",
-    "aciklama": "Uşak ilinin Ulubey ilçesinde traverten çıkarımı yapılır.",
-    "koordinatlar": {
-      "lat": 38.665,
-      "lng": 29.1147
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rbao2boa8u1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Bigadiç Bor Ocakları",
-    "il": "Balıkesir",
-    "aciklama": "Türkiye'nin toplam bor mineralinin büyük çoğunluğu Balıkesir Bigadiç'ten çıkarılmaktadır.",
-    "koordinatlar": {
-      "lat": 40.1489,
-      "lng": 28.1547
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rxcmdjgefm1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Akseki Boksit Ocakları",
-    "il": "Antalya",
-    "aciklama": "Türkiye'nin önemli boksit çıkarım bölgelerinden biri.",
-    "koordinatlar": {
-      "lat": 36.8842,
-      "lng": 30.8769
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rveq7crwxg1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kastamonu Kireçtaşı Ocakları",
-    "il": "Kastamonu",
-    "aciklama": "Kuzey Anadolu'da kireçtaşı rezervleri ile bilinen Kastamonu bölgesi.",
-    "koordinatlar": {
-      "lat": 43.4225,
-      "lng": 31.5197
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rnobnhcpz31774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Mut Kireçtaşı ve Traverten Ocakları",
-    "il": "Mersin",
-    "aciklama": "Mersin ilinin Mut ilçesinde traverten ve kireçtaşı çıkarımı yapılır.",
-    "koordinatlar": {
-      "lat": 36.8422,
-      "lng": 35.9783
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rcee09cdpk1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Taşucu Kireçtaşı Ocakları",
-    "il": "Mersin",
-    "aciklama": "Mersin'in Taşucu bölgesinde kireçtaşı çıkarımı yapılır.",
-    "koordinatlar": {
-      "lat": 36.7394,
-      "lng": 34.9167
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rqdvbylhs11774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Eskipazar Traverten Ocakları",
-    "il": "Karabük",
-    "aciklama": "Karabük ilinin Eskipazar ilçesindeki tarihî traverten çıkarım bölgesi.",
-    "koordinatlar": {
-      "lat": 40.5525,
-      "lng": 32.8678
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r4ld2bjkgd1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Göynük Traverten Ocakları",
-    "il": "Bolu",
-    "aciklama": "Bolu iline bağlı Göynük, Çepne ve Mudurnu'da traverten çıkarımı yapılır.",
-    "koordinatlar": {
-      "lat": 40.3908,
-      "lng": 31.0444
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rupkgruxg21774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kahramanmaraş Demir Ocakları",
-    "il": "Kahramanmaraş",
-    "aciklama": "Güney Anadolu'nun önemli demir cevheri çıkarım bölgesi.",
-    "koordinatlar": {
-      "lat": 37.5847,
-      "lng": 36.4872
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rr3u0jyzf41774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Malatya Hekimhan Demir Ocakları",
-    "il": "Malatya",
-    "aciklama": "Malatya'nın Hekimhan ilçesinde ve Hasançelebi'de demir cevheri çıkarımı yapılır.",
-    "koordinatlar": {
-      "lat": 38.3556,
-      "lng": 38.4117
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r8i6hhn6gp1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kırka (Sarıkaya) Bor Ocakları",
-    "il": "Eskişehir",
-    "aciklama": "Dünyanın en büyük tinkal (ham boraks) yataklarından biri. Eti Maden tarafından işletilir.",
-    "koordinatlar": {
-      "lat": 39.9719,
-      "lng": 30.815
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r94lncoxp71774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Toros Dağları Kireçtaşı Ocakları",
-    "il": "Konya / Karaman",
-    "aciklama": "Toros Dağları boyunca uzanan geniş kireçtaşı çıkarım bölgesi.",
-    "koordinatlar": {
-      "lat": 36.6236,
-      "lng": 33.5167
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rty9nrrvkr1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Konya Akşehir Kireçtaşı ve Traverten Ocakları",
-    "il": "Konya",
-    "aciklama": "Konya'nın Akşehir ilçesinde kireçtaşı ve traverten çıkarımı yapılmaktadır.",
-    "koordinatlar": {
-      "lat": 37.9239,
-      "lng": 32.5361
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rgeceinm8l1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sivas Doğanşar Traverten Ocakları",
-    "il": "Sivas",
-    "aciklama": "Sivas ilinin Doğanşar ve Yıldızeli ilçelerinde traverten çıkarımı yapılır.",
-    "koordinatlar": {
-      "lat": 38.7525,
-      "lng": 36.3342
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rsiqa25ofx1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Van Gevaş Traverten Ocakları",
-    "il": "Van",
-    "aciklama": "Van ilinin Gevaş ve Gürpınar ilçelerinde traverten çıkarımı yapılır.",
-    "koordinatlar": {
-      "lat": 38.4944,
-      "lng": 43.3994
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rdgust6wtj1774103538291",
-    "tip": "Ekolojik İhlal",
-    "ad": "Çorum Kireçtaşı Ocakları",
-    "il": "Çorum",
-    "aciklama": "Çorum bölgesinde inşaat sektörüne yönelik kireçtaşı ve agrega üretimi yapılır.",
-    "koordinatlar": {
-      "lat": 40.73,
-      "lng": 34.6844
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r14nb3wh751774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kışladağ Altın Madeni",
-    "il": "Uşak",
-    "aciklama": "Porfiri altın yatağı. Türkiye altın üretiminin büyük bölümünü tek başına karşılar. Eldorado Gold tarafından 2006'dan beri işletilmektedir.",
-    "koordinatlar": {
-      "lat": 38.85,
-      "lng": 29.0833
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r64z2ceir61774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Çöpler Altın Madeni",
-    "il": "Erzincan",
-    "aciklama": "Şubat 2024'te heşleaching setinin çökmesiyle kazaya sahne olmuştur. 43.8-44.6 milyon yıllık Orta Eosen magmatik kompleksinde yer alır.",
-    "koordinatlar": {
-      "lat": 39.1667,
-      "lng": 38.8069
-    },
-    "alan_ha": 0,
-    "durum": "Aktif (2024 sonrası kısmi)",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ro1je7ptih1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Mastra Altın Madeni",
-    "il": "Gümüşhane",
-    "aciklama": "Gümüşhane'nin Kürtün ilçesinde Lidya Madencilik tarafından işletilen yeraltı altın madeni.",
-    "koordinatlar": {
-      "lat": 40.675,
-      "lng": 38.6094
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -23157,23 +20992,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rvj0z6uh0d1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Efemçukuru Altın Madeni",
-    "il": "İzmir",
-    "aciklama": "İzmir Kemalpaşa'da Eldorado Gold tarafından işletilen yüksek tenörlü yeraltı altın madeni.",
-    "koordinatlar": {
-      "lat": 38.3631,
-      "lng": 28.1281
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r9j26gzsv91774103553422",
     "tip": "Termik Reaktör",
     "ad": "Öksüt Altın Madeni",
@@ -23182,91 +21000,6 @@
     "koordinatlar": {
       "lat": 38.5167,
       "lng": 35.5667
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ry37b6b6k81774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Güleman Krom Madeni",
-    "il": "Elazığ",
-    "aciklama": "1915'te Abdullah Hüsrev Güleman tarafından keşfedilen ve 1936'da üretime başlayan, Türkiye'nin en büyük krom kompleksi. Podiform-lentikular kromitiit gövdeleri.",
-    "koordinatlar": {
-      "lat": 38.45,
-      "lng": 39.1333
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ro8815xxem1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Fethiye Krom Madenleri",
-    "il": "Muğla",
-    "aciklama": "Dünyada ilk ticari krom üretiminin başlatıldığı tarihi bölgelerden biri. Aydın, Denizli, Burdur ve Muğla illerindeki ofiyolit kuşağı krom yatakları.",
-    "koordinatlar": {
-      "lat": 36.64,
-      "lng": 29.11
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "reulfxxrdu1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Harmancık-Bursa Krom Madeni",
-    "il": "Bursa",
-    "aciklama": "Türkiye'de krom üretiminin ilk yapıldığı tarihi bölge. Günümüzde de krom çıkarımı devam etmektedir.",
-    "koordinatlar": {
-      "lat": 39.6567,
-      "lng": 29.1478
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rjp0svft491774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Çayeli Bakır-Çinko Madeni",
-    "il": "Rize",
-    "aciklama": "Doğu Pontid metalojenik kuşağındaki Kuroko tipi volkanojenik masif sülfür (VMS) yatağı. ~25 yıl işletilmiştir.",
-    "koordinatlar": {
-      "lat": 41.0603,
-      "lng": 41.6514
-    },
-    "alan_ha": 0,
-    "durum": "Kapalı (rezerv tükendi ~2019)",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rm3xeod6hv1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Murgul-Çakmakkaya Bakır Madeni",
-    "il": "Artvin",
-    "aciklama": "Doğu Pontid kuşağında Kuroko tipi Cu-Zn-Pb masif sülfür yatağı. Damar ve Çakmakkaya açık ocaklarından oluşur. 2500+ kişi istihdamı.",
-    "koordinatlar": {
-      "lat": 41.2094,
-      "lng": 41.3981
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -23344,40 +21077,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rn3w23ph5y1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Hekimhan-Hasançelebi Demir Madeni",
-    "il": "Malatya",
-    "aciklama": "Malatya Hekimhan ve Hasançelebi'de demir cevheri (hematit-manyetit) çıkarımı yapılmaktadır. Demir-çelik sektörünün önemli hammadde kaynağıdır.",
-    "koordinatlar": {
-      "lat": 38.3556,
-      "lng": 38.4117
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rna4y2gh1s1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kahramanmaraş Demir Madeni",
-    "il": "Kahramanmaraş",
-    "aciklama": "Kahramanmaraş çevresindeki hematit ve manyetit içerikli demir cevheri yatakları.",
-    "koordinatlar": {
-      "lat": 37.5847,
-      "lng": 36.4872
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rixkfvehhf1774103553422",
     "tip": "Termik Reaktör",
     "ad": "Zonguldak Taş Kömürü Havzası",
@@ -23429,23 +21128,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r21iksu39y1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Tunçbilek Linyit Madeni",
-    "il": "Kütahya",
-    "aciklama": "1939'da Etibank tarafından başlatılan linyit çıkarımı; TKİ bünyesinde Garp Linyitleri İşletmesi tarafından sürdürülmektedir.",
-    "koordinatlar": {
-      "lat": 39.5342,
-      "lng": 29.2183
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r0p7pxxjcf1774103553422",
     "tip": "Termik Reaktör",
     "ad": "Seyitömer Linyit Madeni",
@@ -23474,108 +21156,6 @@
     },
     "alan_ha": 0,
     "durum": "Aktif (Termik santral kapatıldı, madene devam)",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rnkvdk8aw31774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Çan Linyit Madeni",
-    "il": "Çanakkale",
-    "aciklama": "Çanakkale'nin Çan ilçesinde TKİ tarafından işletilen linyit açık ocağı.",
-    "koordinatlar": {
-      "lat": 39.7331,
-      "lng": 27.7281
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rclng9v46m1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Beypazarı Linyit Madeni",
-    "il": "Ankara",
-    "aciklama": "Ankara'nın Beypazarı ilçesinde linyit çıkarımı yapılmaktadır. Aynı havzada trona (doğal soda külü) yatakları da bulunmaktadır.",
-    "koordinatlar": {
-      "lat": 39.81,
-      "lng": 31.92
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rw69but11w1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kırka (Sarıkaya) Bor Madeni",
-    "il": "Eskişehir",
-    "aciklama": "Türkiye dünya bor rezervlerinin %73'üne sahiptir. Kırka, dünyanın en büyük tek tinkal yatağıdır. Eti Maden tarafından işletilmektedir.",
-    "koordinatlar": {
-      "lat": 39.9719,
-      "lng": 30.815
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rtck2bmeci1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Emet Bor Madeni",
-    "il": "Kütahya",
-    "aciklama": "Kütahya Emet'teki kolemanit ve üleksit yatakları; endüstriyel hammadde ve nükleer enerji uygulamalarında stratejik öneme sahiptir.",
-    "koordinatlar": {
-      "lat": 39.3339,
-      "lng": 29.2586
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rw0z9o47ba1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Bigadiç Bor Madeni",
-    "il": "Balıkesir",
-    "aciklama": "Balıkesir'in Bigadiç ve Susurluk ilçelerindeki bor yatakları; kolemanit ve üleksit içerir.",
-    "koordinatlar": {
-      "lat": 40.1489,
-      "lng": 28.1547
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "roeq8dwror1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Beypazarı-Kazan Trona (Soda Külü) Madeni",
-    "il": "Ankara",
-    "aciklama": "Dünyanın ikinci büyük doğal soda külü (trona) rezervi. Türkiye'yi soda külünde dünya ihracat lideri konumuna getirmiştir.",
-    "koordinatlar": {
-      "lat": 39.9644,
-      "lng": 31.9256
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
@@ -23633,23 +21213,6 @@
     "alt_kategori": null
   },
   {
-    "id": "roypwpkobj1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Aydın-Muğla Zımparatası Ocakları",
-    "il": "Aydın / Muğla / İzmir",
-    "aciklama": "Aydın, Muğla ve İzmir çevresindeki doğal korindon (zımparatası) yatakları. Aşındırıcı malzeme sektörü için stratejik hammadde.",
-    "koordinatlar": {
-      "lat": 37.7556,
-      "lng": 27.92
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r8eouq49xr1774103553422",
     "tip": "İklim Olayları",
     "ad": "Eskişehir Lületaşı (Sepiyolit) Madeni",
@@ -23701,23 +21264,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rngy5nrnst1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Şenkaya Opal Madeni",
-    "il": "Erzurum",
-    "aciklama": "Erzurum Şenkaya'daki nadir zümrüt ve manzara opal yatakları. İç yapısındaki özgün görüntülerle dünya koleksiyoncuları tarafından yüksek fiyatlarla aranmaktadır.",
-    "koordinatlar": {
-      "lat": 40.4722,
-      "lng": 41.7275
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r6gola5oz81774103553422",
     "tip": "İklim Olayları",
     "ad": "Amasya Çeltek Linyit Madeni",
@@ -23729,91 +21275,6 @@
     },
     "alan_ha": 0,
     "durum": "Tarihsel / Kısmen Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rnhaa3bgy51774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kırşehir Manganez Madeni",
-    "il": "Kırşehir",
-    "aciklama": "Ankara çevresinde ve Kırşehir'de manganez yatakları bulunmaktadır. Çelik üretiminde kullanılan temel alaşım metali.",
-    "koordinatlar": {
-      "lat": 39.9225,
-      "lng": 32.4556
-    },
-    "alan_ha": 0,
-    "durum": "Kısmen Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rjgbnwaq9n1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Siirt-Madenköy Bakır-Çinko Madeni",
-    "il": "Siirt",
-    "aciklama": "Siirt'in Madenköy ilçesinde bakır ve çinko çıkarımı yapılmaktadır. Güneydoğu Anadolu'nun önemli metalik maden sahalarından biridir.",
-    "koordinatlar": {
-      "lat": 37.5547,
-      "lng": 42.5069
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ryzovh2zvl1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Batman Petrol Sahaları",
-    "il": "Batman",
-    "aciklama": "Batman ve çevresindeki Güneydoğu Anadolu petrol havzası. TPAO tarafından işletilen en aktif yerli petrol sahaları.",
-    "koordinatlar": {
-      "lat": 37.9167,
-      "lng": 42.3
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rac4pkvddw1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Adıyaman Petrol Sahaları",
-    "il": "Adıyaman",
-    "aciklama": "Adıyaman ve çevresindeki petrol kuyu sahaları. Güneydoğu Anadolu'nun Batman ile birlikte ikinci önemli petrol üretim bölgesi.",
-    "koordinatlar": {
-      "lat": 37.765,
-      "lng": 38.2806
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r2ax8ofo6g1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Silopi Gilsonit Madeni",
-    "il": "Şırnak",
-    "aciklama": "Şırnak'ın Silopi ilçesinde doğal asfaltin bir türü olan gilsonit çıkarılmaktadır. Boya, mürekkep ve asfalt sektöründe kullanılmaktadır.",
-    "koordinatlar": {
-      "lat": 37.2544,
-      "lng": 42.16
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
@@ -23854,91 +21315,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r63jx03uyd1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kırklareli-Lüleburgaz Doğalgaz Sahası",
-    "il": "Kırklareli",
-    "aciklama": "Hamitabat ve Lüleburgaz bölgesindeki Trakya doğalgaz havzası; Türkiye'nin en büyük yerli doğalgaz kaynağı olup İstanbul'a gaz temin etmektedir.",
-    "koordinatlar": {
-      "lat": 40.5,
-      "lng": 26.5667
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rovq9yqhkv1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Denizli Jeotermal Sahaları",
-    "il": "Denizli",
-    "aciklama": "Büyük Menderes grabeninde Türkiye'nin en önemli jeotermal enerji bölgesi. Kızıldere'de 1984'te kurulan ilk jeotermal santral burada işletilmektedir.",
-    "koordinatlar": {
-      "lat": 37.8769,
-      "lng": 29.2639
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r51g8sl90b1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Gediz-Alaşehir Jeotermal Sahaları",
-    "il": "Manisa",
-    "aciklama": "Gediz graben sistemi boyunca uzanan yüksek entalipili jeotermal sahalar. Alaşehir ve Salihli ilçelerinde elektrik üretimi yapılmaktadır.",
-    "koordinatlar": {
-      "lat": 38.6206,
-      "lng": 27.9853
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r7ecpjdaba1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ağrı Altın Yatağı",
-    "il": "Ağrı",
-    "aciklama": "Haziran 2021'de açıklanan ve 1.2 milyar dolar değerinde olduğu tahmin edilen büyük altın yatağı. Henüz arama ve geliştirme aşamasındadır.",
-    "koordinatlar": {
-      "lat": 39.5,
-      "lng": 43.65
-    },
-    "alan_ha": 0,
-    "durum": "Arama Aşamasında",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rd4ot19kmb1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sivas-Kangal Demir-Kurşun-Çinko Madeni",
-    "il": "Sivas",
-    "aciklama": "Sivas-Kangal bölgesindeki demir, kurşun ve çinko içerikli cevher yatakları.",
-    "koordinatlar": {
-      "lat": 40.3592,
-      "lng": 38.4731
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r5nfopwjrg1774103553422",
     "tip": "Termik Reaktör",
     "ad": "Orhaneli Linyit Madeni",
@@ -23956,176 +21332,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rgqahtbex91774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ilgın Linyit Madeni",
-    "il": "Konya",
-    "aciklama": "Konya'nın Ilgın ilçesindeki linyit açık ocağı. TKİ bünyesinde işletilmektedir.",
-    "koordinatlar": {
-      "lat": 37.6086,
-      "lng": 32.5222
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rjur0v97jn1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Tunceli-Ovacık Altın Madeni",
-    "il": "Tunceli",
-    "aciklama": "Türkiye'de siyanür kullanmadan üretim yapan ilk altın madeni. Koza Altın tarafından işletilmekte; biyooksitasyon yöntemi kullanılmaktadır.",
-    "koordinatlar": {
-      "lat": 38.0564,
-      "lng": 40.3964
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ry0wpnrfy81774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Bilecik-Söğüt Nikel Madeni",
-    "il": "Bilecik",
-    "aciklama": "Bilecik-Söğüt bölgesindeki nikel yatakları MTA tarafından tespit edilmiştir. Elektrikli araç pil sektöründe artan taleple birlikte önemi artmaktadır.",
-    "koordinatlar": {
-      "lat": 40.0167,
-      "lng": 30.78
-    },
-    "alan_ha": 0,
-    "durum": "Arama / Geliştirme",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rvd7wz9w5n1774103553422",
-    "tip": "Ekolojik İhlal",
-    "ad": "Akseki Boksit Madeni",
-    "il": "Antalya",
-    "aciklama": "Antalya'nın Akseki ilçesinde Toros kireçtaşları içinde oluşmuş karst kökenli boksit yatakları.",
-    "koordinatlar": {
-      "lat": 37.5544,
-      "lng": 33.62
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rsp7rje7g71774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kızıldere 3 JES",
-    "il": "Denizli",
-    "aciklama": "Türkiye'nin en büyük tek jeotermal santrali. Büyük Menderes Grabeni'nin doğu kesiminde yer alır. Yılda 80.000 ton kuru buz üretimine de katkı sağlar.",
-    "koordinatlar": {
-      "lat": 37.9499,
-      "lng": 28.8432
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r758ohv7dp1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Efeler Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Türkiye'nin en büyük ikinci jeotermal santrali. Germencik-Ömerbeyli alanında Büyük Menderes Grabeni üzerinde konumlanmıştır.",
-    "koordinatlar": {
-      "lat": 37.8694,
-      "lng": 28.0831
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rkijwio9i21774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kızıldere 2 Jeotermal Enerji Santrali",
-    "il": "Denizli",
-    "aciklama": "Kızıldere sahasının ikinci fazı. Üçlü flash teknolojisiyle yüksek verim sağlar. Kızıldere-3 ile birlikte toplam 245 MW kurulu güç oluşturur.",
-    "koordinatlar": {
-      "lat": 37.9499,
-      "lng": 28.8354
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rn5wb8os5v1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Pamukören Jeotermal Santrali",
-    "il": "Aydın",
-    "aciklama": "Germencik bölgesinde ilk büyük ikili çevrim santrali. Çelikler Enerji'nin Pamukören kompleksinin ana ünitesidir.",
-    "koordinatlar": {
-      "lat": 37.855,
-      "lng": 28.1019
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ru4w4jzctu1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Efe 8 JES",
-    "il": "Aydın",
-    "aciklama": "Mogan Enerji'nin Germencik bölgesindeki Efe serisi santrallerinin en büyüğü.",
-    "koordinatlar": {
-      "lat": 37.878,
-      "lng": 28.0755
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rm8q91jme51774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Mis 3 JES",
-    "il": "Manisa",
-    "aciklama": "Gediz Grabeni'ndeki Alaşehir jeotermal sahasında Soyak Enerji tarafından işletilen büyük kapasiteli santral.",
-    "koordinatlar": {
-      "lat": 38.289,
-      "lng": 28.445
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rck7h043ej1774103567563",
     "tip": "İklim Olayları",
     "ad": "Galip Hoca Germencik JES",
@@ -24137,1094 +21343,6 @@
     },
     "alan_ha": 0,
     "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rpb5xfowro1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Alaşehir Jeotermal Enerji Santrali",
-    "il": "Manisa",
-    "aciklama": "Gediz Grabeni'nin Alaşehir kolunda Zorlu Enerji tarafından işletilen öncü santral.",
-    "koordinatlar": {
-      "lat": 38.3514,
-      "lng": 28.5253
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rcbvlilgd71774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Maren Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Kipaş Holding'in Germencik bölgesindeki en büyük kapasiteli santrali.",
-    "koordinatlar": {
-      "lat": 37.891,
-      "lng": 28.058
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rcebmqv4yk1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Dora 3 Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "MB Holding'in Dora serisi santrallerinin en büyüğü. Germencik'in güney kesiminde yer alır.",
-    "koordinatlar": {
-      "lat": 37.86,
-      "lng": 28.0498
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rberaekfsh1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Melih Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Kipaş Holding'in Germencik sahasındaki ikinci büyük kapasiteli santrali.",
-    "koordinatlar": {
-      "lat": 37.865,
-      "lng": 28.073
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rmuyqlyboi1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Pamukören 4 JES",
-    "il": "Aydın",
-    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki dördüncü ünite.",
-    "koordinatlar": {
-      "lat": 37.851,
-      "lng": 28.1074
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rmmtxiv7r41774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Pamukören 5 JES",
-    "il": "Aydın",
-    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki beşinci ünite.",
-    "koordinatlar": {
-      "lat": 37.848,
-      "lng": 28.111
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rpztjm60vj1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ala 2 Jeotermal Santrali",
-    "il": "Manisa",
-    "aciklama": "Maspo Enerji'nin Alaşehir-Gediz Grabeni sahasındaki santrali.",
-    "koordinatlar": {
-      "lat": 38.3278,
-      "lng": 28.4891
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rf6gs9wap51774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Salihli 3 JES",
-    "il": "Manisa",
-    "aciklama": "Sanko Enerji'nin Salihli jeotermal sahasındaki en büyük ünitesi.",
-    "koordinatlar": {
-      "lat": 38.48,
-      "lng": 28.1386
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r759hgqm8f1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Türkerler Jeotermal Enerji Santrali - 3",
-    "il": "Manisa",
-    "aciklama": "Türkerler Holding'in Alaşehir sahasındaki en büyük kapasiteli ünitesi. Tamamlandığında 120 MW toplam kapasite hedeflenmektedir.",
-    "koordinatlar": {
-      "lat": 38.34,
-      "lng": 28.502
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r8cs5krvrc1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Greeneco 5 JES",
-    "il": "Denizli",
-    "aciklama": "Greeneco Enerji'nin Tekkehamam sahasındaki beşinci ünitesi. CO2 emisyonu olmayan kapalı çevrim binary teknolojisi kullanılmaktadır.",
-    "koordinatlar": {
-      "lat": 37.937,
-      "lng": 28.855
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rzd78423ua1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Greeneco 6 JES",
-    "il": "Denizli",
-    "aciklama": "2250 hektarlık yatırım alanında Greeneco'nun altıncı ünitesi.",
-    "koordinatlar": {
-      "lat": 37.934,
-      "lng": 28.862
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r7llgentbc1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Greeneco 3 Jeotermal Santrali",
-    "il": "Denizli",
-    "aciklama": "Denizli'nin elektrik ihtiyacının %70'ini karşılayan Kızıldere-Tekkehamam kompleksindeki üçüncü Greeneco ünitesi.",
-    "koordinatlar": {
-      "lat": 37.942,
-      "lng": 28.848
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rf45lyi48z1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Greeneco Jeotermal Enerji Santrali (1-2)",
-    "il": "Denizli",
-    "aciklama": "Greeneco Enerji'nin Tekkehamam sahasındaki ilk ve ikinci üniteleri. Sahadaki toplam potansiyel 200 MW olarak değerlendirilmektedir.",
-    "koordinatlar": {
-      "lat": 37.945,
-      "lng": 28.841
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rre5aqupw71774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "3S Kale Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Germencik sahasında 3S Kale Enerji tarafından işletilen orta kapasiteli santral.",
-    "koordinatlar": {
-      "lat": 37.872,
-      "lng": 27.991
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r3ehlqgtq61774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Efe 7 Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Mogan Enerji'nin Germencik sahasındaki yedinci Efe serisi ünitesi.",
-    "koordinatlar": {
-      "lat": 37.876,
-      "lng": 28.068
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r1s7h0w1501774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Enerjeo Kemaliye Santrali",
-    "il": "Manisa",
-    "aciklama": "Manisa Sarıgöl bölgesindeki Gediz Grabeni jeotermal sahasında işletilen santral.",
-    "koordinatlar": {
-      "lat": 38.295,
-      "lng": 28.56
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rwjhnh6eok1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ken 3 JES",
-    "il": "Aydın",
-    "aciklama": "Kipaş Holding'in Ken serisi santrallerinin üçüncü ünitesi.",
-    "koordinatlar": {
-      "lat": 37.901,
-      "lng": 28.084
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "robuyt674c1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Mehmethan Jeotermal Santrali",
-    "il": "Aydın",
-    "aciklama": "Kipaş Holding'in Germencik kompleksindeki en son eklenen 25 MW'lık ünitelerden biri.",
-    "koordinatlar": {
-      "lat": 37.904,
-      "lng": 28.077
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rn2q4b9u7t1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Salihli 2 JES",
-    "il": "Manisa",
-    "aciklama": "Sanko Enerji'nin Salihli jeotermal sahasındaki ikinci büyük kapasiteli ünitesi.",
-    "koordinatlar": {
-      "lat": 38.472,
-      "lng": 28.132
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rnzlfe3mi31774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Deniz Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Kipaş Holding'in Germencik bölgesindeki 24 MW kapasiteli santrali.",
-    "koordinatlar": {
-      "lat": 37.907,
-      "lng": 28.063
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r43pu20wrg1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ken Kipaş Jeotermal Santrali",
-    "il": "Aydın",
-    "aciklama": "Kipaş Holding'in kurucu Ken serisi santrali.",
-    "koordinatlar": {
-      "lat": 37.908,
-      "lng": 28.086
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r7hvnvh3cb1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kerem JES",
-    "il": "Aydın",
-    "aciklama": "Kipaş Holding'in Germencik sahasındaki Kerem adlı 24 MW kapasiteli santrali.",
-    "koordinatlar": {
-      "lat": 37.905,
-      "lng": 28.09
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rxtuexzeef1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kubilay Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Çevik Grup tarafından işletilen 24 MW kapasiteli Germencik bölgesi santrali.",
-    "koordinatlar": {
-      "lat": 37.873,
-      "lng": 28.0592
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rovqaqdz1m1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Türkerler Alaşehir 2 JES",
-    "il": "Manisa",
-    "aciklama": "Türkerler Holding'in Alaşehir sahasındaki ikinci büyük kapasiteli ünitesi.",
-    "koordinatlar": {
-      "lat": 38.355,
-      "lng": 28.478
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rowpafkwxk1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Türkerler Alaşehir JES",
-    "il": "Manisa",
-    "aciklama": "Türkerler Holding'in Alaşehir sahasındaki kurucu jeotermal santrali.",
-    "koordinatlar": {
-      "lat": 38.36,
-      "lng": 28.47
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r9rej26z8y1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Özmen 1 Jeotermal Enerji Santrali",
-    "il": "Manisa",
-    "aciklama": "Özmen Holding ve Sis Enerji ortaklığıyla işletilen Alaşehir sahasındaki santral.",
-    "koordinatlar": {
-      "lat": 38.35,
-      "lng": 28.46
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r3qumtikkl1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Efe 6 JES",
-    "il": "Aydın",
-    "aciklama": "Mogan Enerji'nin altıncı Efe serisi ünitesi.",
-    "koordinatlar": {
-      "lat": 37.871,
-      "lng": 28.072
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rptrzsiaob1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Pamukören 2 Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki ikinci ünite.",
-    "koordinatlar": {
-      "lat": 37.85,
-      "lng": 28.096
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r18zsnqx9u1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Pamukören 3 JES",
-    "il": "Aydın",
-    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki üçüncü ünite.",
-    "koordinatlar": {
-      "lat": 37.847,
-      "lng": 28.1
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rw40q4vo231774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sultanhisar 2 JES",
-    "il": "Aydın",
-    "aciklama": "Çelikler Enerji'nin Sultanhisar sahasındaki ikinci ünitesi.",
-    "koordinatlar": {
-      "lat": 37.856,
-      "lng": 28.116
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r4i2p630tc1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Nezihe Beren JES",
-    "il": "Aydın",
-    "aciklama": "Kipaş Holding'in en yeni 20 MW kapasiteli Germencik sahasındaki ünitelerinden biri.",
-    "koordinatlar": {
-      "lat": 37.895,
-      "lng": 28.065
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r0djdt6q8z1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Baklacı Jeotermal Santrali",
-    "il": "Manisa",
-    "aciklama": "Manisa'nın Turgutlu ilçesi yakınında Gediz Grabeni sahasında işletilen santral.",
-    "koordinatlar": {
-      "lat": 38.415,
-      "lng": 28.298
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rkrex2ffdf1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Özmen 3 JES",
-    "il": "Manisa",
-    "aciklama": "Özmen Holding ve Sis Enerji ortaklığının üçüncü ünitesi.",
-    "koordinatlar": {
-      "lat": 38.32,
-      "lng": 28.48
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rfhc53cu9h1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kuyucak Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Turcas Enerji'nin Aydın Kuyucak ilçesindeki jeotermal elektrik santrali.",
-    "koordinatlar": {
-      "lat": 37.779,
-      "lng": 28.203
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r3qs6eehmw1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Dora 4 Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "MB Holding'in Dora serisi dördüncü ünitesi.",
-    "koordinatlar": {
-      "lat": 37.868,
-      "lng": 28.054
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rtgbqpu3hd1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kızıldere (Zorlu) JES",
-    "il": "Denizli",
-    "aciklama": "Zorlu Enerji'nin Kızıldere özelleştirmesiyle devraldığı tarihi santral. 2006'da özelleştirilerek Zorlu'ya devredilmiştir.",
-    "koordinatlar": {
-      "lat": 37.9499,
-      "lng": 28.84
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rr8zjhpuhv1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sanko Salihli JES",
-    "il": "Manisa",
-    "aciklama": "Sanko Enerji'nin Salihli jeotermal sahasındaki kurucu ünitesi.",
-    "koordinatlar": {
-      "lat": 38.465,
-      "lng": 28.125
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rpwfmj5y0k1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sultanhisar Jeotermal Santrali",
-    "il": "Aydın",
-    "aciklama": "Çelikler Enerji'nin Sultanhisar sahasındaki kurucu ünitesi.",
-    "koordinatlar": {
-      "lat": 37.859,
-      "lng": 28.113
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "roqlxrvug91774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Buharkent Jeotermal Santrali",
-    "il": "Aydın",
-    "aciklama": "Limak Enerji tarafından Aydın Buharkent'te işletilen, bölgenin ilk özel yatırım jeotermal santrallerinden biridir.",
-    "koordinatlar": {
-      "lat": 37.852,
-      "lng": 28.043
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rrbkzyvty51774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Gümüşköy Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "BM Holding Enerji Grubu tarafından Aydın Sultanhisar'da işletilen jeotermal santral.",
-    "koordinatlar": {
-      "lat": 37.792,
-      "lng": 28.131
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rsur5xjp2g1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Mis 1 Jeotermal Santrali",
-    "il": "Manisa",
-    "aciklama": "Soyak Enerji'nin Gediz-Alaşehir sahasındaki ilk jeotermal santrali.",
-    "koordinatlar": {
-      "lat": 38.27,
-      "lng": 28.438
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r86fgqgfeo1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Karkey Umurlu Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "Karadeniz Enerji'nin Aydın Umurlu bölgesindeki jeotermal santrali.",
-    "koordinatlar": {
-      "lat": 37.909,
-      "lng": 28.0395
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r7mf6qkhqz1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "RSC Seferihisar JES",
-    "il": "İzmir",
-    "aciklama": "İzmir Seferihisar'da yer alan, Türkiye'de İzmir kent bölgesine en yakın jeotermal elektrik santrallerinden biri.",
-    "koordinatlar": {
-      "lat": 38.195,
-      "lng": 26.845
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rsgw15w35c1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Umurlu 2 JES",
-    "il": "Aydın",
-    "aciklama": "Karadeniz Enerji'nin Umurlu sahasındaki ikinci jeotermal ünitesi.",
-    "koordinatlar": {
-      "lat": 37.912,
-      "lng": 28.041
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rj7ixatc2d1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "İda Jeotermal Santrali",
-    "il": "Çanakkale",
-    "aciklama": "Çanakkale'nin jeotermal potansiyelinin değerlendirildiği Ayvacık-Tuzla bölgesindeki santrali.",
-    "koordinatlar": {
-      "lat": 39.595,
-      "lng": 26.418
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rjismi0gnd1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kiper 1 JES",
-    "il": "Aydın",
-    "aciklama": "Kipaş Holding'in Germencik sahasındaki küçük kapasiteli pilot ünitelerinden biri.",
-    "koordinatlar": {
-      "lat": 37.902,
-      "lng": 28.092
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rmv4wxmfle1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Maspo Enerji JES 4",
-    "il": "Manisa",
-    "aciklama": "Gürmen Group - Maspo Enerji ortaklığının dördüncü jeotermal ünitesi.",
-    "koordinatlar": {
-      "lat": 38.31,
-      "lng": 28.51
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r41xmbjle71774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Dora 2 Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "MB Holding'in Dora serisinin ikinci ünitesi; Türkiye'nin ilk ikili çevrim jeotermal santrallerinden biridir.",
-    "koordinatlar": {
-      "lat": 37.865,
-      "lng": 28.049
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r4jg16229t1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Babadere Jeotermal Enerji Santrali",
-    "il": "Çanakkale",
-    "aciklama": "Çanakkale'nin Babadere bölgesinde MTN Enerji tarafından işletilen jeotermal santral.",
-    "koordinatlar": {
-      "lat": 39.785,
-      "lng": 26.522
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rzuvkw4rmb1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Dora 1 Jeotermal Enerji Santrali",
-    "il": "Aydın",
-    "aciklama": "MB Holding'in Germencik sahasındaki kurucu flash santrali. Türkiye'nin ilk özel yatırım jeotermal santrallerinden biridir.",
-    "koordinatlar": {
-      "lat": 37.86,
-      "lng": 28.0445
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rm2zsazsft1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Tuzla Jeotermal Enerji Santrali",
-    "il": "Çanakkale",
-    "aciklama": "Çanakkale'nin Ayvacık ilçesi Tuzla köyündeki jeotermal saha. Türkiye'nin Çanakkale bölgesindeki ilk jeotermal elektrik santrali.",
-    "koordinatlar": {
-      "lat": 39.6025,
-      "lng": 26.396
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ri1clbca9a1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kızıldere JES (Aydem)",
-    "il": "Denizli",
-    "aciklama": "Türkiye'nin ve MTA'nın ilk jeotermal santrali. 1984'te devlet eliyle kurulmuş, ardından özelleştirilerek Aydem Enerji'ye devredilmiştir.",
-    "koordinatlar": {
-      "lat": 37.949,
-      "lng": 28.828
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rp3jlqrn601774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Tosunlar JES",
-    "il": "Denizli",
-    "aciklama": "Kızıldere-Tekkehamam bölgesinin güney kesimindeki küçük kapasiteli binary santral.",
-    "koordinatlar": {
-      "lat": 37.92,
-      "lng": 28.873
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rwny1wq6ze1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Emirler 1 JES",
-    "il": "Denizli",
-    "aciklama": "Tamamlandığında 9.9 MW kapasiteye ulaşacak Emirler Enerji santrali. Şu an 3.5 MW işletmede.",
-    "koordinatlar": {
-      "lat": 37.93,
-      "lng": 28.88
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede (Genişleme Sürüyor)",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r8od2ayasb1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Transmark JES",
-    "il": "Çanakkale",
-    "aciklama": "Transmark Turkey'nin Çanakkale Ayvacık sahasındaki mevcut santrali. Ön lisans alınan Transmark 2 JES ile 19 MW'a çıkma hedefi bulunmaktadır.",
-    "koordinatlar": {
-      "lat": 39.64,
-      "lng": 26.41
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede (Genişleme Planı Var)",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rbkyzcfgea1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Afjet Afjes JES",
-    "il": "Afyonkarahisar",
-    "aciklama": "Afyonkarahisar'ın Ömer-Gecek jeotermal sahasında kurulu, Türkiye'nin kamu tarafından işletilen tek küçük ölçekli jeotermal elektrik santrali.",
-    "koordinatlar": {
-      "lat": 38.758,
-      "lng": 30.535
-    },
-    "alan_ha": 0,
-    "durum": "İşletmede",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rr0y1x0i2z1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Alkan Jeotermal Santrali (İnşaat Halinde)",
-    "il": "Manisa",
-    "aciklama": "Zorlu Enerji'nin Alaşehir sahasındaki yeni gelişim projesi. Yapım aşamasında; tamamlandığında 18.6 MW kapasiteye ulaşacaktır.",
-    "koordinatlar": {
-      "lat": 38.335,
-      "lng": 28.456
-    },
-    "alan_ha": 0,
-    "durum": "İnşaat Halinde",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rox6su9scb1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Efe 9 JES (Üretim Lisanslı)",
-    "il": "Aydın",
-    "aciklama": "Mogan Enerji'nin üretim lisansı almış Efe serisinin dokuzuncu ünitesi. Devreye alınma sürecinde.",
-    "koordinatlar": {
-      "lat": 37.881,
-      "lng": 28.054
-    },
-    "alan_ha": 0,
-    "durum": "Üretim Lisansı Alındı",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rm64zd28ob1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "HEG Kütahya Jeotermal (Üretim Lisanslı)",
-    "il": "Aydın",
-    "aciklama": "Genç Grup Enerji'nin üretim lisansı almış jeotermal projesi.",
-    "koordinatlar": {
-      "lat": 37.887,
-      "lng": 28.036
-    },
-    "alan_ha": 0,
-    "durum": "Üretim Lisansı Alındı",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ry5ityvm3x1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "OME T-01 JES (Üretim Lisanslı)",
-    "il": "Manisa",
-    "aciklama": "Open Mountain Energy'nin Alaşehir sahasındaki T-01 projesi; 2024'te dünya sıralamasında Türkiye'nin kapasitesini artıran yeni santrallerden biri olarak anıldı.",
-    "koordinatlar": {
-      "lat": 38.308,
-      "lng": 28.515
-    },
-    "alan_ha": 0,
-    "durum": "Üretim Lisansı Alındı",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ruktm2a0k61774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Greeneco 7 JES (Ön Lisanslı)",
-    "il": "Denizli",
-    "aciklama": "Greeneco'nun en büyük planlı ünitesi. 2024 raporlarında Türkiye'nin yeni kapasitesine katkı sağlayan santrallerden biri olarak anıldı.",
-    "koordinatlar": {
-      "lat": 37.915,
-      "lng": 28.87
-    },
-    "alan_ha": 0,
-    "durum": "Ön Lisans",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rk9qpx6okz1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Tekkehamam 2 JES (Ön Lisanslı)",
-    "il": "Denizli",
-    "aciklama": "Zorlu Enerji'nin Tekkehamam sahasında planladığı ikinci büyük genişleme projesi.",
-    "koordinatlar": {
-      "lat": 37.94,
-      "lng": 28.89
-    },
-    "alan_ha": 0,
-    "durum": "Ön Lisans",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r1c2hqdl6h1774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "HEZ Moralı JES (Ön Lisanslı)",
-    "il": "Aydın",
-    "aciklama": "HEZ Enerji'nin 2024'te adından söz ettiren yeni jeotermal projesi.",
-    "koordinatlar": {
-      "lat": 37.905,
-      "lng": 28.029
-    },
-    "alan_ha": 0,
-    "durum": "Ön Lisans",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r69jp7a5g61774103567563",
-    "tip": "Ekolojik İhlal",
-    "ad": "Enerjikan JES (Ön Lisanslı)",
-    "il": "Balıkesir",
-    "aciklama": "Balıkesir Bigadiç bölgesinde geliştirilen yeni jeotermal proje. Ege-Marmara bölgelerinin kesişimindeki jeotermal potansiyeli değerlendirmektedir.",
-    "koordinatlar": {
-      "lat": 38.405,
-      "lng": 28.205
-    },
-    "alan_ha": 0,
-    "durum": "Ön Lisans",
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
@@ -26891,6 +23009,1672 @@
     },
     "alan_ha": 0,
     "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r5gtgprptu1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Erzincan",
+    "aciklama": "Anagold Madencilik'in işlettiği siyanürlü altın madeni boru hattında meydana gelen yırtılma sonucunda firmanın beyanına göre 20 m³, bilirkişi incelemesine göre en az 210 m³ siyanürlü çözelti çevreye yayıldı. Fırat Nehri'ne sızdığı iddia edildi. Bakanlık, şirkete en üst sınırdan 16,4 milyon TL para cezası kesti; maden 88 gün kapatıldı. Sorumlular UCM'ye taşındı.",
+    "koordinatlar": {
+      "lat": 39.2833,
+      "lng": 38.5641
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Su ve Toprak Kirliliği"
+  },
+  {
+    "id": "rs2s7nof2z1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Erzincan",
+    "aciklama": "10 milyon m³ hacmindeki siyanürlü yığın liç sahası 14:28'de çökerek 800 metre boyunca Sabırlı Deresi'ne aktı. 9 işçi göçük altında kaldı; son ceset 116 gün sonra çıkarıldı. Şirket lisansı iptal edildi ancak 1 milyon dolar ceza sonrası operasyonları yeniden başlatmasına izin verildi. Stop Ecocide International konuyu ekokirım örnek vakası ilan etti.",
+    "koordinatlar": {
+      "lat": 39.2833,
+      "lng": 38.5641
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Su ve Toprak Kirliliği / İşçi Ölümü"
+  },
+  {
+    "id": "rldjf1036n1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Balıkesir / Çanakkale",
+    "aciklama": "Alamos Gold şirketinin Kaz Dağları'nda başlattığı altın madeni projesi için ÇED onayı alınmadan 195.000'i aşkın ağaç kesildi. 'Kaz Dağları Nöbeti' adıyla ülke gündemini saran protesto dalgası çıktı. Danıştay 2020'de ÇED kararını iptal etti.",
+    "koordinatlar": {
+      "lat": 39.7006,
+      "lng": 26.9728
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ekosistem Tahribatı / Kaçak Madencilik"
+  },
+  {
+    "id": "rlsjn989vf1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul / Kocaeli / Bursa / Yalova",
+    "aciklama": "Onlarca yıllık arıtılmamış atık su deşarjları ve deniz ısınmasının birleşimi, 2021'de Marmara'nın tarihinin en büyük müsilaj felaketiyle sonuçlandı. Deniz tabanı ekosistemi çöktü, balıkçılık ve turizm ağır zarar gördü. Stop Ecocide International bu vakayı ekokırım örneği olarak belgeledi.",
+    "koordinatlar": {
+      "lat": 41.02,
+      "lng": 28.92
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Endüstriyel ve Belediye Atık Suyu Deşarjı"
+  },
+  {
+    "id": "rxfg3eex4u1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Termik Reaktör",
+    "il": "Kahramanmaraş",
+    "aciklama": "Greenpeace Akdeniz ve Avrupa Çevre Ajansı verilerine göre Afşin-Elbistan A ve B santralleri, Avrupa'nın sağlık riski en yüksek kömür santrallerinden biri. Türkiye'de PM2.5 için yasal sınır bulunmuyor. Santral, AB emisyon standartlarını sürekli aşıyor.",
+    "koordinatlar": {
+      "lat": 37.9208,
+      "lng": 38.3695
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kömür Yakıtlı Santral Emisyonu"
+  },
+  {
+    "id": "rmcgsfwzb71774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Termik Reaktör",
+    "il": "Manisa",
+    "aciklama": "Greenpeace verilerine göre Soma, Avrupa'nın sağlık riski ikinci yüksek kömür santrali. Çevre hukuku kuruluşlarının açtığı davalar sonuçsuz kaldı.",
+    "koordinatlar": {
+      "lat": 38.9522,
+      "lng": 27.8681
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kömür Yakıtlı Santral Emisyonu"
+  },
+  {
+    "id": "rh0hk4c1zp1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Antalya",
+    "aciklama": "Antalya çevresi orman alanlarında tespit edilen kaçak katı atık döküm noktaları, OGM ve Bakanlık denetimleriyle kayıt altına alındı. Tıbbi ve tehlikeli atık dökümü de gündeme geldi.",
+    "koordinatlar": {
+      "lat": 36.5824,
+      "lng": 30.7327
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kaçak Çöp Döküm"
+  },
+  {
+    "id": "rzccha7z291774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Adıyaman",
+    "aciklama": "Adıyaman Çelikhan'da faaliyette olan altın madeninin atık havuzundan sızıntı tespit edildi; Tohma Çayı balık ölümleri ve kirlilik belirtildi.",
+    "koordinatlar": {
+      "lat": 37.07,
+      "lng": 37.53
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Toprak ve Su Kirliliği"
+  },
+  {
+    "id": "rclbm1r0zs1774103833436",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş-Mermer Ocağı",
+    "il": "Malatya",
+    "aciklama": "ÇED belgesi olmaksızın açılan mermer ocakları, dere yatakları yakınında kazı yaparak su kirliliğine yol açtı.",
+    "koordinatlar": {
+      "lat": 37.565,
+      "lng": 37.775
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "ÇED İhlali / Su Kirliliği"
+  },
+  {
+    "id": "rakfdef2yv1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Şırnak",
+    "aciklama": "Stop Ecocide International ve bianet raporlarına göre Şırnak ve çevre ormanlık alanlarda gerçekleştirilen operasyonlar kapsamında geniş meşe orman alanları tahrip edildi. Sivil toplum ve ekokirım inisiyatifi konuyu parlamentoya taşıdı.",
+    "koordinatlar": {
+      "lat": 37.3,
+      "lng": 42.2
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Güvenlik Operasyonları Kapsamında Orman Tahribatı"
+  },
+  {
+    "id": "rp3v6vgptu1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Kahramanmaraş / Hatay / Adıyaman",
+    "aciklama": "Internationalist Standpoint ve Stop Ecocide raporlarına göre 6 Şubat depremi sonrasında asbestos içeren enkaz, tehlikeli atık yönetimi kuralları gözetilmeden çevreye dağıtıldı. Ekipman kullanan ve bölgede yaşayan on binlerce kişi maruz kaldı.",
+    "koordinatlar": {
+      "lat": 36.7971,
+      "lng": 38.3743
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Asbest / Tehlikeli Atık Yönetimi"
+  },
+  {
+    "id": "rwbds99vyj1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Balıkesir",
+    "aciklama": "Marmara'ya akan akarsuların kaynağına yakın alanlarda ÇED belgesi eksiklikleriyle yürütülen maden arama faaliyetleri köylü şikayetleri ve hukuki süreçlere yol açtı.",
+    "koordinatlar": {
+      "lat": 38.9667,
+      "lng": 27.5333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "ÇED İhlali / Orman Tahribatı"
+  },
+  {
+    "id": "rbtd9tao831774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Hatay",
+    "aciklama": "Deprem inşaat sürecinde ortaya çıkan malzeme açığı, Hatay'da özellikle Asi Nehri'nden kaçak kum ve çakıl çıkarımını artırdı.",
+    "koordinatlar": {
+      "lat": 36.2,
+      "lng": 36.16
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kaçak Kum ve Çakıl Çıkarımı"
+  },
+  {
+    "id": "rza9c1yyi81774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Termik Reaktör",
+    "il": "Ankara",
+    "aciklama": "Termik santral kül sahalarından sızan kirletici ağır metaller yeraltı suyuna karışarak tarım arazilerini etkiledi.",
+    "koordinatlar": {
+      "lat": 39.94,
+      "lng": 32.82
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kül Havuzu Sızıntısı"
+  },
+  {
+    "id": "rdjen3p3u41774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İzmir",
+    "aciklama": "İzmir Körfezi'nde tespit edilen petrol türevi kirlilik lekesi MARPOL ihlali kapsamında soruşturuldu; kuş ve deniz yaşamında tahribat gözlendi.",
+    "koordinatlar": {
+      "lat": 38.42,
+      "lng": 26.96
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Gemi Kaynaklı Kirlilik"
+  },
+  {
+    "id": "r92qdiupwo1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Malatya",
+    "aciklama": "OGM ve jandarma operasyonunda kaçak kesim yapılan ormanlık alanda yüzlerce ağaç kütüğü ve kaçak kereste ele geçirildi; şüpheliler gözaltına alındı.",
+    "koordinatlar": {
+      "lat": 38.294,
+      "lng": 36.9071
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kaçak Orman Ürünleri Ticareti"
+  },
+  {
+    "id": "r0yk13bcp71774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "İstanbul Boğazı ve Marmara'da av yasağı dönemlerinde, yasaklı av araçlarıyla (sürükleme ağı, elektrik, dinamit) gerçekleştirilen kaçak balıkçılık her yıl binlerce ceza gerektiriyor.",
+    "koordinatlar": {
+      "lat": 41,
+      "lng": 29
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kaçak Avcılık / Su Ürünleri İhlali"
+  },
+  {
+    "id": "r6697e830g1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Elazığ",
+    "aciklama": "Keban Barajı çevresindeki maden ve sanayi tesislerinin atık deşarjları baraj suyunu olumsuz etkiledi. Balık ölümleri belgelendi.",
+    "koordinatlar": {
+      "lat": 37.56,
+      "lng": 40.22
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Maden ve Sanayi Atığı"
+  },
+  {
+    "id": "r1r772uyk41774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Burdur",
+    "aciklama": "Türkiye'nin en hızlı küçülen gölü olan Burdur Gölü, aşırı sulama suyu çekimi ve tarımsal kirlilik nedeniyle son 50 yılda yüzey alanının yarısını yitirdi. Flamingo ve diğer su kuşlarının üreme alanı tehdit altında.",
+    "koordinatlar": {
+      "lat": 37.75,
+      "lng": 30.56
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Toprak Kirliliği / Göl Ekosistemi Tahribatı"
+  },
+  {
+    "id": "rc1iumblhb1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Kayseri",
+    "aciklama": "Kayseri sanayi bölgesinde lisanssız araçlarla taşınan tehlikeli atıkların ormanlık alanlara ve tarlalara bırakıldığı tespit edildi; operasyon sonrası gözaltılar yapıldı.",
+    "koordinatlar": {
+      "lat": 38.74,
+      "lng": 35.4
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Tehlikeli Atık Kaçak Bertarafı"
+  },
+  {
+    "id": "rsi26rb8h71774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Adana",
+    "aciklama": "Adana OSB'de faaliyet gösteren tekstil ve kimya firmalarının arıtılmamış atık suları Seyhan Nehri'ni kirletti; balık ölümleri ve kötü koku şikayetleri belgelendi.",
+    "koordinatlar": {
+      "lat": 37.06,
+      "lng": 36.88
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Sanayi Atık Suyu Deşarjı"
+  },
+  {
+    "id": "ruptwq7vfl1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Muğla",
+    "aciklama": "Gökova Özel Çevre Koruma Bölgesi sınırları içinde izinsiz kum çıkarımı ve altyapı çalışmaları kıyı ekosistemi tahribatına yol açtı.",
+    "koordinatlar": {
+      "lat": 37.06,
+      "lng": 29.01
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kıyı Ekosistemi Tahribatı"
+  },
+  {
+    "id": "rg133mths71774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Erzincan / Tunceli",
+    "aciklama": "2022 siyanür sızıntısının uzun vadeli etkileri 2023'te Munzur Vadisi'nde de gözlemlenmeye devam etti; sivil toplum kuruluşları su numunelerindeki aşırı ağır metal düzeylerini belgeledi.",
+    "koordinatlar": {
+      "lat": 39.65,
+      "lng": 39.14
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Nehir Kirliliği"
+  },
+  {
+    "id": "r3vjvztd681774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Muğla",
+    "aciklama": "Yasal güvence altındaki tescilli zeytinlik alanları imara açılarak kaçak yapılaşmaya konu edildi; Zeytin Kanunu ihlali kapsamında davalar açıldı.",
+    "koordinatlar": {
+      "lat": 37.05,
+      "lng": 27.2
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Zeytinlik Tahribatı"
+  },
+  {
+    "id": "r484885gm01774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Termik Reaktör",
+    "il": "Zonguldak",
+    "aciklama": "Karadeniz kömür havzasında ruhsatsız yürütülen kömür çıkarım faaliyetleri hem çevresel hem de iş güvenliği ihlallerine neden oldu.",
+    "koordinatlar": {
+      "lat": 41.3,
+      "lng": 31.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ruhsatsız Kömür Çıkarımı / Kömür Tozu"
+  },
+  {
+    "id": "r1bqa0alny1774103833436",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "İstanbul Pendik sahiline kaçak inşaat molozunun dökülmesi kıyı mevzuatı ihlali kapsamında soruşturmaya konu oldu.",
+    "koordinatlar": {
+      "lat": 40.93,
+      "lng": 29.1
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kaçak İnşaat Atığı Dökümü"
+  },
+  {
+    "id": "rkbjhp5qho1774103867108",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul / Kocaeli / Yalova / Bursa",
+    "aciklama": "İklim değişikliğinin tetiklediği deniz suyu ısınması ve aşırı besin yükü nedeniyle Marmara Denizi tarihinin en büyük müsilaj (deniz salyası) felaketiyle yüz yüze geldi. Balıkçılık ve turizm ağır zarar gördü; deniz tabanı ekosistemi ciddi ölçüde bozuldu.",
+    "koordinatlar": {
+      "lat": 41.02,
+      "lng": 28.92
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1trwm6m6p1774103867108",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Kahramanmaraş / Hatay / Adıyaman / Malatya / Gaziantep / Adana / Diyarbakır / Kilis / Osmaniye / Şanlıurfa / Elazığ",
+    "aciklama": "Türkiye Cumhuriyeti tarihinin en yıkıcı depremi. 11 ili etkileyen iki büyük sarsıntı 9 saat arayla geldi; resmi rakamlara göre 53.537 kişi hayatını kaybetti, yaklaşık 300.000 bina yıkıldı veya ağır hasar gördü.",
+    "koordinatlar": {
+      "lat": 37.5853,
+      "lng": 36.9371
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ra8709gqp31774103897822",
+    "tip": "Jeotermal",
+    "ad": "Kızıldere 3 JES",
+    "il": "Denizli",
+    "aciklama": "Türkiye'nin en büyük tek jeotermal santrali. Büyük Menderes Grabeni'nin doğu kesiminde yer alır. Yılda 80.000 ton kuru buz üretimine de katkı sağlar.",
+    "koordinatlar": {
+      "lat": 37.9499,
+      "lng": 28.8432
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7jooq3u6e1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Efeler Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Türkiye'nin en büyük ikinci jeotermal santrali. Germencik-Ömerbeyli alanında Büyük Menderes Grabeni üzerinde konumlanmıştır.",
+    "koordinatlar": {
+      "lat": 37.8694,
+      "lng": 28.0831
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r8rzl7l5821774103897822",
+    "tip": "Jeotermal",
+    "ad": "Kızıldere 2 Jeotermal Enerji Santrali",
+    "il": "Denizli",
+    "aciklama": "Kızıldere sahasının ikinci fazı. Üçlü flash teknolojisiyle yüksek verim sağlar. Kızıldere-3 ile birlikte toplam 245 MW kurulu güç oluşturur.",
+    "koordinatlar": {
+      "lat": 37.9499,
+      "lng": 28.8354
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r2a07pntjw1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Pamukören Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Germencik bölgesinde ilk büyük ikili çevrim santrali. Çelikler Enerji'nin Pamukören kompleksinin ana ünitesidir.",
+    "koordinatlar": {
+      "lat": 37.855,
+      "lng": 28.1019
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7ukatk8ww1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Efe 8 JES",
+    "il": "Aydın",
+    "aciklama": "Mogan Enerji'nin Germencik bölgesindeki Efe serisi santrallerinin en büyüğü.",
+    "koordinatlar": {
+      "lat": 37.878,
+      "lng": 28.0755
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "re87bvu7vr1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Mis 3 JES",
+    "il": "Manisa",
+    "aciklama": "Gediz Grabeni'ndeki Alaşehir jeotermal sahasında Soyak Enerji tarafından işletilen büyük kapasiteli santral.",
+    "koordinatlar": {
+      "lat": 38.289,
+      "lng": 28.445
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ri21bic6eq1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Alaşehir Jeotermal Enerji Santrali",
+    "il": "Manisa",
+    "aciklama": "Gediz Grabeni'nin Alaşehir kolunda Zorlu Enerji tarafından işletilen öncü santral.",
+    "koordinatlar": {
+      "lat": 38.3514,
+      "lng": 28.5253
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r11fx8bvpo1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Maren Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik bölgesindeki en büyük kapasiteli santrali.",
+    "koordinatlar": {
+      "lat": 37.891,
+      "lng": 28.058
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rx8nyd38ad1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Dora 3 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "MB Holding'in Dora serisi santrallerinin en büyüğü. Germencik'in güney kesiminde yer alır.",
+    "koordinatlar": {
+      "lat": 37.86,
+      "lng": 28.0498
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "reuvldcjgm1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Melih Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik sahasındaki ikinci büyük kapasiteli santrali.",
+    "koordinatlar": {
+      "lat": 37.865,
+      "lng": 28.073
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rer2oba80x1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Pamukören 4 JES",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki dördüncü ünite.",
+    "koordinatlar": {
+      "lat": 37.851,
+      "lng": 28.1074
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rm6po9e60c1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Pamukören 5 JES",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki beşinci ünite.",
+    "koordinatlar": {
+      "lat": 37.848,
+      "lng": 28.111
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rc4u1qw47w1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Ala 2 Jeotermal Santrali",
+    "il": "Manisa",
+    "aciklama": "Maspo Enerji'nin Alaşehir-Gediz Grabeni sahasındaki santrali.",
+    "koordinatlar": {
+      "lat": 38.3278,
+      "lng": 28.4891
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rh7hf975cf1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Salihli 3 JES",
+    "il": "Manisa",
+    "aciklama": "Sanko Enerji'nin Salihli jeotermal sahasındaki en büyük ünitesi.",
+    "koordinatlar": {
+      "lat": 38.48,
+      "lng": 28.1386
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r32pwhrvot1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Türkerler Jeotermal Enerji Santrali - 3",
+    "il": "Manisa",
+    "aciklama": "Türkerler Holding'in Alaşehir sahasındaki en büyük kapasiteli ünitesi. Tamamlandığında 120 MW toplam kapasite hedeflenmektedir.",
+    "koordinatlar": {
+      "lat": 38.34,
+      "lng": 28.502
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rajnzy7jgs1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Greeneco 5 JES",
+    "il": "Denizli",
+    "aciklama": "Greeneco Enerji'nin Tekkehamam sahasındaki beşinci ünitesi. CO2 emisyonu olmayan kapalı çevrim binary teknolojisi kullanılmaktadır.",
+    "koordinatlar": {
+      "lat": 37.937,
+      "lng": 28.855
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rg5qwabjbi1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Greeneco 6 JES",
+    "il": "Denizli",
+    "aciklama": "2250 hektarlık yatırım alanında Greeneco'nun altıncı ünitesi.",
+    "koordinatlar": {
+      "lat": 37.934,
+      "lng": 28.862
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4n57dgsai1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Greeneco 3 Jeotermal Santrali",
+    "il": "Denizli",
+    "aciklama": "Denizli'nin elektrik ihtiyacının %70'ini karşılayan Kızıldere-Tekkehamam kompleksindeki üçüncü Greeneco ünitesi.",
+    "koordinatlar": {
+      "lat": 37.942,
+      "lng": 28.848
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r0mlzdw0hy1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Greeneco Jeotermal Enerji Santrali (1-2)",
+    "il": "Denizli",
+    "aciklama": "Greeneco Enerji'nin Tekkehamam sahasındaki ilk ve ikinci üniteleri. Sahadaki toplam potansiyel 200 MW olarak değerlendirilmektedir.",
+    "koordinatlar": {
+      "lat": 37.945,
+      "lng": 28.841
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rne6lxbi691774103897822",
+    "tip": "Jeotermal",
+    "ad": "3S Kale Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Germencik sahasında 3S Kale Enerji tarafından işletilen orta kapasiteli santral.",
+    "koordinatlar": {
+      "lat": 37.872,
+      "lng": 27.991
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r9za05bzod1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Efe 7 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Mogan Enerji'nin Germencik sahasındaki yedinci Efe serisi ünitesi.",
+    "koordinatlar": {
+      "lat": 37.876,
+      "lng": 28.068
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rrxjjx20xg1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Enerjeo Kemaliye Santrali",
+    "il": "Manisa",
+    "aciklama": "Manisa Sarıgöl bölgesindeki Gediz Grabeni jeotermal sahasında işletilen santral.",
+    "koordinatlar": {
+      "lat": 38.295,
+      "lng": 28.56
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r5nfqxnnsy1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Ken 3 JES",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Ken serisi santrallerinin üçüncü ünitesi.",
+    "koordinatlar": {
+      "lat": 37.901,
+      "lng": 28.084
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ry58b1v3nq1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Mehmethan Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik kompleksindeki en son eklenen 25 MW'lık ünitelerden biri.",
+    "koordinatlar": {
+      "lat": 37.904,
+      "lng": 28.077
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpk0m36t541774103897822",
+    "tip": "Jeotermal",
+    "ad": "Salihli 2 JES",
+    "il": "Manisa",
+    "aciklama": "Sanko Enerji'nin Salihli jeotermal sahasındaki ikinci büyük kapasiteli ünitesi.",
+    "koordinatlar": {
+      "lat": 38.472,
+      "lng": 28.132
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r3hscahzru1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Deniz Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik bölgesindeki 24 MW kapasiteli santrali.",
+    "koordinatlar": {
+      "lat": 37.907,
+      "lng": 28.063
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r0kb271mbb1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Ken Kipaş Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in kurucu Ken serisi santrali.",
+    "koordinatlar": {
+      "lat": 37.908,
+      "lng": 28.086
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rsqwpykw901774103897822",
+    "tip": "Jeotermal",
+    "ad": "Kerem JES",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik sahasındaki Kerem adlı 24 MW kapasiteli santrali.",
+    "koordinatlar": {
+      "lat": 37.905,
+      "lng": 28.09
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rckxwif2kk1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Kubilay Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Çevik Grup tarafından işletilen 24 MW kapasiteli Germencik bölgesi santrali.",
+    "koordinatlar": {
+      "lat": 37.873,
+      "lng": 28.0592
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rl3euab4i11774103897822",
+    "tip": "Jeotermal",
+    "ad": "Türkerler Alaşehir 2 JES",
+    "il": "Manisa",
+    "aciklama": "Türkerler Holding'in Alaşehir sahasındaki ikinci büyük kapasiteli ünitesi.",
+    "koordinatlar": {
+      "lat": 38.355,
+      "lng": 28.478
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rwq92wxc9x1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Türkerler Alaşehir JES",
+    "il": "Manisa",
+    "aciklama": "Türkerler Holding'in Alaşehir sahasındaki kurucu jeotermal santrali.",
+    "koordinatlar": {
+      "lat": 38.36,
+      "lng": 28.47
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rm2iyxy7rg1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Özmen 1 Jeotermal Enerji Santrali",
+    "il": "Manisa",
+    "aciklama": "Özmen Holding ve Sis Enerji ortaklığıyla işletilen Alaşehir sahasındaki santral.",
+    "koordinatlar": {
+      "lat": 38.35,
+      "lng": 28.46
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rjwutp92t01774103897822",
+    "tip": "Jeotermal",
+    "ad": "Efe 6 JES",
+    "il": "Aydın",
+    "aciklama": "Mogan Enerji'nin altıncı Efe serisi ünitesi.",
+    "koordinatlar": {
+      "lat": 37.871,
+      "lng": 28.072
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rzqfxk9xe41774103897822",
+    "tip": "Jeotermal",
+    "ad": "Pamukören 2 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki ikinci ünite.",
+    "koordinatlar": {
+      "lat": 37.85,
+      "lng": 28.096
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r6fvvcnweq1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Pamukören 3 JES",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Pamukören kompleksindeki üçüncü ünite.",
+    "koordinatlar": {
+      "lat": 37.847,
+      "lng": 28.1
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rmtx8shmi41774103897822",
+    "tip": "Jeotermal",
+    "ad": "Sultanhisar 2 JES",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Sultanhisar sahasındaki ikinci ünitesi.",
+    "koordinatlar": {
+      "lat": 37.856,
+      "lng": 28.116
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgf1sea5u41774103897822",
+    "tip": "Jeotermal",
+    "ad": "Nezihe Beren JES",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in en yeni 20 MW kapasiteli Germencik sahasındaki ünitelerinden biri.",
+    "koordinatlar": {
+      "lat": 37.895,
+      "lng": 28.065
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rmuzv86faw1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Baklacı Jeotermal Santrali",
+    "il": "Manisa",
+    "aciklama": "Manisa'nın Turgutlu ilçesi yakınında Gediz Grabeni sahasında işletilen santral.",
+    "koordinatlar": {
+      "lat": 38.415,
+      "lng": 28.298
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgwtyoei741774103897822",
+    "tip": "Jeotermal",
+    "ad": "Özmen 3 JES",
+    "il": "Manisa",
+    "aciklama": "Özmen Holding ve Sis Enerji ortaklığının üçüncü ünitesi.",
+    "koordinatlar": {
+      "lat": 38.32,
+      "lng": 28.48
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpdiwtouxh1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Kuyucak Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Turcas Enerji'nin Aydın Kuyucak ilçesindeki jeotermal elektrik santrali.",
+    "koordinatlar": {
+      "lat": 37.779,
+      "lng": 28.203
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rmpz3s2d9b1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Dora 4 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "MB Holding'in Dora serisi dördüncü ünitesi.",
+    "koordinatlar": {
+      "lat": 37.868,
+      "lng": 28.054
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rfqt7qzbj41774103897822",
+    "tip": "Jeotermal",
+    "ad": "Kızıldere (Zorlu) JES",
+    "il": "Denizli",
+    "aciklama": "Zorlu Enerji'nin Kızıldere özelleştirmesiyle devraldığı tarihi santral. 2006'da özelleştirilerek Zorlu'ya devredilmiştir.",
+    "koordinatlar": {
+      "lat": 37.9499,
+      "lng": 28.84
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rtps7mxbl71774103897822",
+    "tip": "Jeotermal",
+    "ad": "Sanko Salihli JES",
+    "il": "Manisa",
+    "aciklama": "Sanko Enerji'nin Salihli jeotermal sahasındaki kurucu ünitesi.",
+    "koordinatlar": {
+      "lat": 38.465,
+      "lng": 28.125
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r0q5x26v301774103897822",
+    "tip": "Jeotermal",
+    "ad": "Sultanhisar Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Çelikler Enerji'nin Sultanhisar sahasındaki kurucu ünitesi.",
+    "koordinatlar": {
+      "lat": 37.859,
+      "lng": 28.113
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpf69xgqld1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Buharkent Jeotermal Santrali",
+    "il": "Aydın",
+    "aciklama": "Limak Enerji tarafından Aydın Buharkent'te işletilen, bölgenin ilk özel yatırım jeotermal santrallerinden biridir.",
+    "koordinatlar": {
+      "lat": 37.852,
+      "lng": 28.043
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "riqr3lxsc41774103897822",
+    "tip": "Jeotermal",
+    "ad": "Gümüşköy Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "BM Holding Enerji Grubu tarafından Aydın Sultanhisar'da işletilen jeotermal santral.",
+    "koordinatlar": {
+      "lat": 37.792,
+      "lng": 28.131
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rsjvsegmdp1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Mis 1 Jeotermal Santrali",
+    "il": "Manisa",
+    "aciklama": "Soyak Enerji'nin Gediz-Alaşehir sahasındaki ilk jeotermal santrali.",
+    "koordinatlar": {
+      "lat": 38.27,
+      "lng": 28.438
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rray852zzp1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Karkey Umurlu Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "Karadeniz Enerji'nin Aydın Umurlu bölgesindeki jeotermal santrali.",
+    "koordinatlar": {
+      "lat": 37.909,
+      "lng": 28.0395
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "re22r4wzm71774103897822",
+    "tip": "Jeotermal",
+    "ad": "RSC Seferihisar JES",
+    "il": "İzmir",
+    "aciklama": "İzmir Seferihisar'da yer alan, Türkiye'de İzmir kent bölgesine en yakın jeotermal elektrik santrallerinden biri.",
+    "koordinatlar": {
+      "lat": 38.195,
+      "lng": 26.845
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rxcswsjofi1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Umurlu 2 JES",
+    "il": "Aydın",
+    "aciklama": "Karadeniz Enerji'nin Umurlu sahasındaki ikinci jeotermal ünitesi.",
+    "koordinatlar": {
+      "lat": 37.912,
+      "lng": 28.041
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgcu49rnhg1774103897822",
+    "tip": "Jeotermal",
+    "ad": "İda Jeotermal Santrali",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale'nin jeotermal potansiyelinin değerlendirildiği Ayvacık-Tuzla bölgesindeki santrali.",
+    "koordinatlar": {
+      "lat": 39.595,
+      "lng": 26.418
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ruim9ik7ok1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Kiper 1 JES",
+    "il": "Aydın",
+    "aciklama": "Kipaş Holding'in Germencik sahasındaki küçük kapasiteli pilot ünitelerinden biri.",
+    "koordinatlar": {
+      "lat": 37.902,
+      "lng": 28.092
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r5l19ws63y1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Maspo Enerji JES 4",
+    "il": "Manisa",
+    "aciklama": "Gürmen Group - Maspo Enerji ortaklığının dördüncü jeotermal ünitesi.",
+    "koordinatlar": {
+      "lat": 38.31,
+      "lng": 28.51
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbmtrnjvv11774103897822",
+    "tip": "Jeotermal",
+    "ad": "Dora 2 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "MB Holding'in Dora serisinin ikinci ünitesi; Türkiye'nin ilk ikili çevrim jeotermal santrallerinden biridir.",
+    "koordinatlar": {
+      "lat": 37.865,
+      "lng": 28.049
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "reoy6r7qkm1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Babadere Jeotermal Enerji Santrali",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale'nin Babadere bölgesinde MTN Enerji tarafından işletilen jeotermal santral.",
+    "koordinatlar": {
+      "lat": 39.785,
+      "lng": 26.522
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rte2jykyd01774103897822",
+    "tip": "Jeotermal",
+    "ad": "Dora 1 Jeotermal Enerji Santrali",
+    "il": "Aydın",
+    "aciklama": "MB Holding'in Germencik sahasındaki kurucu flash santrali. Türkiye'nin ilk özel yatırım jeotermal santrallerinden biridir.",
+    "koordinatlar": {
+      "lat": 37.86,
+      "lng": 28.0445
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rscq3nhvs51774103897822",
+    "tip": "Jeotermal",
+    "ad": "Tuzla Jeotermal Enerji Santrali",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale'nin Ayvacık ilçesi Tuzla köyündeki jeotermal saha. Türkiye'nin Çanakkale bölgesindeki ilk jeotermal elektrik santrali.",
+    "koordinatlar": {
+      "lat": 39.6025,
+      "lng": 26.396
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpsdziz7tw1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Kızıldere JES (Aydem)",
+    "il": "Denizli",
+    "aciklama": "Türkiye'nin ve MTA'nın ilk jeotermal santrali. 1984'te devlet eliyle kurulmuş, ardından özelleştirilerek Aydem Enerji'ye devredilmiştir.",
+    "koordinatlar": {
+      "lat": 37.949,
+      "lng": 28.828
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rku27alpk71774103897822",
+    "tip": "Jeotermal",
+    "ad": "Tosunlar JES",
+    "il": "Denizli",
+    "aciklama": "Kızıldere-Tekkehamam bölgesinin güney kesimindeki küçük kapasiteli binary santral.",
+    "koordinatlar": {
+      "lat": 37.92,
+      "lng": 28.873
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rhgcqr1xup1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Emirler 1 JES",
+    "il": "Denizli",
+    "aciklama": "Tamamlandığında 9.9 MW kapasiteye ulaşacak Emirler Enerji santrali. Şu an 3.5 MW işletmede.",
+    "koordinatlar": {
+      "lat": 37.93,
+      "lng": 28.88
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede (Genişleme Sürüyor)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbq8io27sw1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Transmark JES",
+    "il": "Çanakkale",
+    "aciklama": "Transmark Turkey'nin Çanakkale Ayvacık sahasındaki mevcut santrali. Ön lisans alınan Transmark 2 JES ile 19 MW'a çıkma hedefi bulunmaktadır.",
+    "koordinatlar": {
+      "lat": 39.64,
+      "lng": 26.41
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede (Genişleme Planı Var)",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rb9xoqapti1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Afjet Afjes JES",
+    "il": "Afyonkarahisar",
+    "aciklama": "Afyonkarahisar'ın Ömer-Gecek jeotermal sahasında kurulu, Türkiye'nin kamu tarafından işletilen tek küçük ölçekli jeotermal elektrik santrali.",
+    "koordinatlar": {
+      "lat": 38.758,
+      "lng": 30.535
+    },
+    "alan_ha": 0,
+    "durum": "İşletmede",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ri98vnci361774103897822",
+    "tip": "Jeotermal",
+    "ad": "Alkan Jeotermal Santrali (İnşaat Halinde)",
+    "il": "Manisa",
+    "aciklama": "Zorlu Enerji'nin Alaşehir sahasındaki yeni gelişim projesi. Yapım aşamasında; tamamlandığında 18.6 MW kapasiteye ulaşacaktır.",
+    "koordinatlar": {
+      "lat": 38.335,
+      "lng": 28.456
+    },
+    "alan_ha": 0,
+    "durum": "İnşaat Halinde",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rddmtlamuu1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Efe 9 JES (Üretim Lisanslı)",
+    "il": "Aydın",
+    "aciklama": "Mogan Enerji'nin üretim lisansı almış Efe serisinin dokuzuncu ünitesi. Devreye alınma sürecinde.",
+    "koordinatlar": {
+      "lat": 37.881,
+      "lng": 28.054
+    },
+    "alan_ha": 0,
+    "durum": "Üretim Lisansı Alındı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpeb4mstpx1774103897822",
+    "tip": "Jeotermal",
+    "ad": "HEG Kütahya Jeotermal (Üretim Lisanslı)",
+    "il": "Aydın",
+    "aciklama": "Genç Grup Enerji'nin üretim lisansı almış jeotermal projesi.",
+    "koordinatlar": {
+      "lat": 37.887,
+      "lng": 28.036
+    },
+    "alan_ha": 0,
+    "durum": "Üretim Lisansı Alındı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnpo9b908t1774103897822",
+    "tip": "Jeotermal",
+    "ad": "OME T-01 JES (Üretim Lisanslı)",
+    "il": "Manisa",
+    "aciklama": "Open Mountain Energy'nin Alaşehir sahasındaki T-01 projesi; 2024'te dünya sıralamasında Türkiye'nin kapasitesini artıran yeni santrallerden biri olarak anıldı.",
+    "koordinatlar": {
+      "lat": 38.308,
+      "lng": 28.515
+    },
+    "alan_ha": 0,
+    "durum": "Üretim Lisansı Alındı",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r9e3ti5r2x1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Greeneco 7 JES (Ön Lisanslı)",
+    "il": "Denizli",
+    "aciklama": "Greeneco'nun en büyük planlı ünitesi. 2024 raporlarında Türkiye'nin yeni kapasitesine katkı sağlayan santrallerden biri olarak anıldı.",
+    "koordinatlar": {
+      "lat": 37.915,
+      "lng": 28.87
+    },
+    "alan_ha": 0,
+    "durum": "Ön Lisans",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7pav0tals1774103897822",
+    "tip": "Jeotermal",
+    "ad": "Tekkehamam 2 JES (Ön Lisanslı)",
+    "il": "Denizli",
+    "aciklama": "Zorlu Enerji'nin Tekkehamam sahasında planladığı ikinci büyük genişleme projesi.",
+    "koordinatlar": {
+      "lat": 37.94,
+      "lng": 28.89
+    },
+    "alan_ha": 0,
+    "durum": "Ön Lisans",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rghgjl74ox1774103897822",
+    "tip": "Jeotermal",
+    "ad": "HEZ Moralı JES (Ön Lisanslı)",
+    "il": "Aydın",
+    "aciklama": "HEZ Enerji'nin 2024'te adından söz ettiren yeni jeotermal projesi.",
+    "koordinatlar": {
+      "lat": 37.905,
+      "lng": 28.029
+    },
+    "alan_ha": 0,
+    "durum": "Ön Lisans",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rrxzyz1l701774103897822",
+    "tip": "Jeotermal",
+    "ad": "Enerjikan JES (Ön Lisanslı)",
+    "il": "Balıkesir",
+    "aciklama": "Balıkesir Bigadiç bölgesinde geliştirilen yeni jeotermal proje. Ege-Marmara bölgelerinin kesişimindeki jeotermal potansiyeli değerlendirmektedir.",
+    "koordinatlar": {
+      "lat": 38.405,
+      "lng": 28.205
+    },
+    "alan_ha": 0,
+    "durum": "Ön Lisans",
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
