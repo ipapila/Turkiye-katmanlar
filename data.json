@@ -22630,57 +22630,6 @@
     "kaynak": "Manuel"
   },
   {
-    "id": "rlk3zh5oi61774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "İscehisar Mermer Ocakları",
-    "il": "Afyonkarahisar",
-    "aciklama": "Türkiye'nin en önemli beyaz mermer bölgelerinden biri. Afyon Şeker mermeriyle dünyaca tanınır.",
-    "koordinatlar": {
-      "lat": 38.8625,
-      "lng": 30.7847
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r4ryesya9z1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Sandıklı Mermer Ocakları",
-    "il": "Afyonkarahisar",
-    "aciklama": "25.9 milyon m³ rezerv kapasitesiyle Afyon'un en büyük mermer bölgesi.",
-    "koordinatlar": {
-      "lat": 38.4625,
-      "lng": 30.2642
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rpyjnf93gr1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Sinanpaşa Mermer Ocakları",
-    "il": "Afyonkarahisar",
-    "aciklama": "Afyonkarahisar ilinin önemli mermer ocak bölgelerinden biri.",
-    "koordinatlar": {
-      "lat": 38.59,
-      "lng": 30.51
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rtvjdohkyz1774103538291",
     "tip": "Ekolojik İhlal",
     "ad": "Kocabaş Traverten Ocakları",
@@ -22689,125 +22638,6 @@
     "koordinatlar": {
       "lat": 37.8862,
       "lng": 29.1253
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rz1yfllecu1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Babadağ Mermer Ocakları",
-    "il": "Denizli",
-    "aciklama": "Denizli'nin önemli mermer ocak bölgesi.",
-    "koordinatlar": {
-      "lat": 37.8061,
-      "lng": 29.0986
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rsatlawvw81774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Çameli Mermer Ocakları",
-    "il": "Denizli",
-    "aciklama": "Denizli ilindeki önemli mermer bölgelerinden biri.",
-    "koordinatlar": {
-      "lat": 37.58,
-      "lng": 29.553
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rzzbxj4niu1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Marmara Adası Mermer Ocakları",
-    "il": "Balıkesir",
-    "aciklama": "Türkiye'nin en eski mermer bölgesi. Bizans, Roma, Selçuklu ve Osmanlı dönemlerinden beri kullanılmaktadır. Türkiye mermer ocaklarının %27'si Balıkesir iline aittir.",
-    "koordinatlar": {
-      "lat": 40.64,
-      "lng": 27.595
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rwftctf5501774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Dursunbey Mermer Ocakları",
-    "il": "Balıkesir",
-    "aciklama": "Balıkesir'in iç kısımlarındaki önemli doğal taş bölgesi.",
-    "koordinatlar": {
-      "lat": 39.5833,
-      "lng": 28.0578
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rf33komki31774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Fethiye Mermer Ocakları",
-    "il": "Muğla",
-    "aciklama": "Muğla ilinin önemli beyaz mermer ocak bölgesi. Krom yatakları da içerir.",
-    "koordinatlar": {
-      "lat": 36.6212,
-      "lng": 29.1239
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rg7mptg3hr1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Köyceğiz Mermer Ocakları",
-    "il": "Muğla",
-    "aciklama": "Muğla'nın Köyceğiz ilçesindeki doğal taş bölgesi.",
-    "koordinatlar": {
-      "lat": 36.9614,
-      "lng": 28.6836
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r4gvmi5svt1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Bucak Mermer Ocakları",
-    "il": "Burdur",
-    "aciklama": "Burdur Beji olarak dünyaca tanınan, yüksek kalite ve sert yapısıyla öne çıkan mermer bölgesi.",
-    "koordinatlar": {
-      "lat": 37.4581,
-      "lng": 30.5914
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -22834,91 +22664,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r1ygngon241774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Söğüt Mermer Ocakları",
-    "il": "Bilecik",
-    "aciklama": "Türkiye mermer rezervlerinin %12'sini barındıran Bilecik ilinin önemli ocak bölgesi.",
-    "koordinatlar": {
-      "lat": 40.0189,
-      "lng": 30.1808
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r8kclhv55u1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Osmaneli Mermer Ocakları",
-    "il": "Bilecik",
-    "aciklama": "Bilecik ilinin Osmaneli ilçesindeki mermer ocak bölgesi.",
-    "koordinatlar": {
-      "lat": 40.378,
-      "lng": 30.01
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rih6z0r7s21774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Mihalgazi Mermer Ocakları",
-    "il": "Eskişehir",
-    "aciklama": "Eskişehir ilinin mermer ocaklarının yoğunlaştığı başlıca ilçesi. Türkiye rezervlerinin %4'ü burada.",
-    "koordinatlar": {
-      "lat": 40.0711,
-      "lng": 30.5403
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rgb2e37yv51774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Harmancık Krom ve Mermer Ocakları",
-    "il": "Bursa",
-    "aciklama": "Uludağ Siyah Mermer ile ünlü bölge. Aynı zamanda krom ocakları da barındırır.",
-    "koordinatlar": {
-      "lat": 39.6567,
-      "lng": 29.1478
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "re7425a4kl1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Orhaneli Mermer Ocakları",
-    "il": "Bursa",
-    "aciklama": "Bursa'nın Orhaneli ilçesindeki doğal taş ve krom bölgesi.",
-    "koordinatlar": {
-      "lat": 40.2044,
-      "lng": 28.9597
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r63yewbsf31774103538291",
     "tip": "Ekolojik İhlal",
     "ad": "Güzelbahçe Andezit / Bazalt Ocakları",
@@ -22927,23 +22672,6 @@
     "koordinatlar": {
       "lat": 38.3817,
       "lng": 26.9006
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rqbe55efrw1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Ödemiş Mermer Ocakları",
-    "il": "İzmir",
-    "aciklama": "İzmir ilinin Ödemiş ilçesindeki mermer ocak bölgesi.",
-    "koordinatlar": {
-      "lat": 38.6353,
-      "lng": 27.9081
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -22970,23 +22698,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rz3zvpv3ds1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Isparta Pembe Mermer Ocakları",
-    "il": "Isparta",
-    "aciklama": "Açık pembe ve şeftali tonlarıyla özgün İsparta pembe mermeri çıkarılır.",
-    "koordinatlar": {
-      "lat": 37.7648,
-      "lng": 30.5566
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "ru4n49o8nh1774103538291",
     "tip": "Ekolojik İhlal",
     "ad": "Keçiborlu Kükürt ve Kireçtaşı Ocakları",
@@ -22995,23 +22706,6 @@
     "koordinatlar": {
       "lat": 37.2858,
       "lng": 30.3958
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rct7vo0z1i1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Elazığ Kiraz Mermer Ocakları",
-    "il": "Elazığ",
-    "aciklama": "Kırmızı-kiraz rengindeki eşsiz mermeriyle dünyaca tanınan önemli bir doğu Anadolu ocak bölgesi.",
-    "koordinatlar": {
-      "lat": 38.681,
-      "lng": 39.2264
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -23072,23 +22766,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r8zxctbrbk1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Kütahya Mermer Ocakları",
-    "il": "Kütahya",
-    "aciklama": "Kütahya mermer rezervleri Ege Bölgesi içinde önemli yer tutar.",
-    "koordinatlar": {
-      "lat": 39.7089,
-      "lng": 29.5697
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rbv8rvcii01774103538291",
     "tip": "Termik Reaktör",
     "ad": "Oltu Taşı Ocakları",
@@ -23114,57 +22791,6 @@
     "koordinatlar": {
       "lat": 40.4722,
       "lng": 41.7275
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rflqjnt5ep1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Hatay Erzin Traverten Ocakları",
-    "il": "Hatay",
-    "aciklama": "Hatay ilindeki Erzin bölgesinde traverten ve Toros Siyah mermeri çıkarılır.",
-    "koordinatlar": {
-      "lat": 36.4012,
-      "lng": 36.3498
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rqzmsbuw4j1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Milas Boksit ve Mermer Ocakları",
-    "il": "Muğla",
-    "aciklama": "Dünyaca tanınan Milas Bej ve Milas Lila mermer çeşitleri bu bölgeden çıkarılır.",
-    "koordinatlar": {
-      "lat": 28.4244,
-      "lng": 30.6572
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r1nanbw5fw1774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Milas Mermer Ocakları",
-    "il": "Muğla",
-    "aciklama": "Dünyaca ünlü Milas mermerleri bu bölgede çıkarılır.",
-    "koordinatlar": {
-      "lat": 37.306,
-      "lng": 28.4244
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -23216,23 +22842,6 @@
     "koordinatlar": {
       "lat": 40.1489,
       "lng": 28.1547
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rshdcgicz41774103538291",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Alanya Kireçtaşı ve Mermer Ocakları",
-    "il": "Antalya",
-    "aciklama": "Antalya'nın Alanya bölgesinde beyaz kireçtaşı ve bej mermer çıkarılır.",
-    "koordinatlar": {
-      "lat": 36.5441,
-      "lng": 32.0069
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -26429,6 +26038,856 @@
     "koordinatlar": {
       "lat": 37.5544,
       "lng": 33.62
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rb9s5fsc7a1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "İscehisar Mermer Ocakları",
+    "il": "Afyonkarahisar",
+    "aciklama": "Türkiye'nin en önemli beyaz mermer bölgelerinden biri. Afyon Şeker mermeriyle dünyaca tanınır.",
+    "koordinatlar": {
+      "lat": 38.8625,
+      "lng": 30.7847
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rrbpcljekt1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Sandıklı Mermer Ocakları",
+    "il": "Afyonkarahisar",
+    "aciklama": "25.9 milyon m³ rezerv kapasitesiyle Afyon'un en büyük mermer bölgesi.",
+    "koordinatlar": {
+      "lat": 38.4625,
+      "lng": 30.2642
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rz518zhwg21774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Sinanpaşa Mermer Ocakları",
+    "il": "Afyonkarahisar",
+    "aciklama": "Afyonkarahisar ilinin önemli mermer ocak bölgelerinden biri.",
+    "koordinatlar": {
+      "lat": 38.59,
+      "lng": 30.51
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rnxw4dh5vl1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kocabaş Traverten Ocakları",
+    "il": "Denizli",
+    "aciklama": "Türkiye'nin en büyük traverten havzası. 6 km²'lik alanda yaklaşık 60 traverten ocağı bulunur. Türkiye traverten rezervinin %50'si Denizli'dedir.",
+    "koordinatlar": {
+      "lat": 37.8862,
+      "lng": 29.1253
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rix6eb141r1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Babadağ Mermer Ocakları",
+    "il": "Denizli",
+    "aciklama": "Denizli'nin önemli mermer ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 37.8061,
+      "lng": 29.0986
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rcmqcl36aw1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Çameli Mermer Ocakları",
+    "il": "Denizli",
+    "aciklama": "Denizli ilindeki önemli mermer bölgelerinden biri.",
+    "koordinatlar": {
+      "lat": 37.58,
+      "lng": 29.553
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ruhq6n1ivz1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Marmara Adası Mermer Ocakları",
+    "il": "Balıkesir",
+    "aciklama": "Türkiye'nin en eski mermer bölgesi. Bizans, Roma, Selçuklu ve Osmanlı dönemlerinden beri kullanılmaktadır. Türkiye mermer ocaklarının %27'si Balıkesir iline aittir.",
+    "koordinatlar": {
+      "lat": 40.64,
+      "lng": 27.595
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ro4tnac56e1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Dursunbey Mermer Ocakları",
+    "il": "Balıkesir",
+    "aciklama": "Balıkesir'in iç kısımlarındaki önemli doğal taş bölgesi.",
+    "koordinatlar": {
+      "lat": 39.5833,
+      "lng": 28.0578
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4uvy8mmtm1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Fethiye Mermer Ocakları",
+    "il": "Muğla",
+    "aciklama": "Muğla ilinin önemli beyaz mermer ocak bölgesi. Krom yatakları da içerir.",
+    "koordinatlar": {
+      "lat": 36.6212,
+      "lng": 29.1239
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rzh29vj3pf1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Köyceğiz Mermer Ocakları",
+    "il": "Muğla",
+    "aciklama": "Muğla'nın Köyceğiz ilçesindeki doğal taş bölgesi.",
+    "koordinatlar": {
+      "lat": 36.9614,
+      "lng": 28.6836
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rud3ogjfa11774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Bucak Mermer Ocakları",
+    "il": "Burdur",
+    "aciklama": "Burdur Beji olarak dünyaca tanınan, yüksek kalite ve sert yapısıyla öne çıkan mermer bölgesi.",
+    "koordinatlar": {
+      "lat": 37.4581,
+      "lng": 30.5914
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rmphmtjloa1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Çamlık - Hacıbağ Traverten Ocakları",
+    "il": "Burdur",
+    "aciklama": "Burdur'daki traverten ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 37.698,
+      "lng": 30.41
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkclw4jnsb1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Söğüt Mermer Ocakları",
+    "il": "Bilecik",
+    "aciklama": "Türkiye mermer rezervlerinin %12'sini barındıran Bilecik ilinin önemli ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 40.0189,
+      "lng": 30.1808
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkcfa7y4yk1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Osmaneli Mermer Ocakları",
+    "il": "Bilecik",
+    "aciklama": "Bilecik ilinin Osmaneli ilçesindeki mermer ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 40.378,
+      "lng": 30.01
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rqfxdq0h1u1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mihalgazi Mermer Ocakları",
+    "il": "Eskişehir",
+    "aciklama": "Eskişehir ilinin mermer ocaklarının yoğunlaştığı başlıca ilçesi. Türkiye rezervlerinin %4'ü burada.",
+    "koordinatlar": {
+      "lat": 40.0711,
+      "lng": 30.5403
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4tzhnbgdb1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Harmancık Krom ve Mermer Ocakları",
+    "il": "Bursa",
+    "aciklama": "Uludağ Siyah Mermer ile ünlü bölge. Aynı zamanda krom ocakları da barındırır.",
+    "koordinatlar": {
+      "lat": 39.6567,
+      "lng": 29.1478
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rtrc31e1s71774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Orhaneli Mermer Ocakları",
+    "il": "Bursa",
+    "aciklama": "Bursa'nın Orhaneli ilçesindeki doğal taş ve krom bölgesi.",
+    "koordinatlar": {
+      "lat": 40.2044,
+      "lng": 28.9597
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r3cx4gu6aa1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Güzelbahçe Andezit / Bazalt Ocakları",
+    "il": "İzmir",
+    "aciklama": "İzmir çevresinde inşaat sektörüne agrega ve yapı taşı temin eden ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 38.3817,
+      "lng": 26.9006
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7c0ml6o9h1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Ödemiş Mermer Ocakları",
+    "il": "İzmir",
+    "aciklama": "İzmir ilinin Ödemiş ilçesindeki mermer ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 38.6353,
+      "lng": 27.9081
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rqtxv1jew51774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Çerkeş - Eskipazar Traverten Ocakları",
+    "il": "Çankırı",
+    "aciklama": "Çankırı'nın kuzeybatısında yer alan traverten ocakları. Roma döneminden bu yana bilinen tarihî bir çıkarım bölgesidir. Türkiye traverten rezervinin %21'i burada.",
+    "koordinatlar": {
+      "lat": 40.8191,
+      "lng": 32.8942
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rput5alkzt1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Isparta Pembe Mermer Ocakları",
+    "il": "Isparta",
+    "aciklama": "Açık pembe ve şeftali tonlarıyla özgün İsparta pembe mermeri çıkarılır.",
+    "koordinatlar": {
+      "lat": 37.7648,
+      "lng": 30.5566
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgmb3hkc6o1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Keçiborlu Kükürt ve Kireçtaşı Ocakları",
+    "il": "Isparta",
+    "aciklama": "Isparta'nın Keçiborlu ilçesinde kükürt ve kireçtaşı çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 37.2858,
+      "lng": 30.3958
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r9x6efjkvl1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Elazığ Kiraz Mermer Ocakları",
+    "il": "Elazığ",
+    "aciklama": "Kırmızı-kiraz rengindeki eşsiz mermeriyle dünyaca tanınan önemli bir doğu Anadolu ocak bölgesi.",
+    "koordinatlar": {
+      "lat": 38.681,
+      "lng": 39.2264
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r6vvpyiubr1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Amasra Taş Kömürü / Kireçtaşı Ocakları",
+    "il": "Bartın",
+    "aciklama": "Karadeniz kıyısında taş kömürü havzasına yakın kireçtaşı çıkarım bölgesi.",
+    "koordinatlar": {
+      "lat": 41.7481,
+      "lng": 32.3842
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rm4kpx3zfh1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Zonguldak Taş Ocakları",
+    "il": "Zonguldak",
+    "aciklama": "Zonguldak'ın taş kömürü havzasına yakın kireçtaşı ve agrega ocakları.",
+    "koordinatlar": {
+      "lat": 41.45,
+      "lng": 31.7897
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rjwqt2thyq1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Emet Bor Ocakları",
+    "il": "Kütahya",
+    "aciklama": "Türkiye'nin en büyük bor minerallerinden biri. Dünya bor rezervlerinin büyük kısmı bu bölgede yer alır.",
+    "koordinatlar": {
+      "lat": 39.3339,
+      "lng": 29.2586
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rlpa4gvk7x1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kütahya Mermer Ocakları",
+    "il": "Kütahya",
+    "aciklama": "Kütahya mermer rezervleri Ege Bölgesi içinde önemli yer tutar.",
+    "koordinatlar": {
+      "lat": 39.7089,
+      "lng": 29.5697
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rupep6e3uy1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Oltu Taşı Ocakları",
+    "il": "Erzurum",
+    "aciklama": "Dünyada yalnızca Erzurum'da bulunan ve kuyumculukta kullanılan özgün Oltu taşı ocakları.",
+    "koordinatlar": {
+      "lat": 40.5456,
+      "lng": 41.9869
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rymgd23yyx1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Şenkaya Opal Ocakları",
+    "il": "Erzurum",
+    "aciklama": "Dünyaca nadir bulunan Şenkaya opallerinin çıkarıldığı bölge. Manzara oluşumlarıyla özellikle dikkat çeker.",
+    "koordinatlar": {
+      "lat": 40.4722,
+      "lng": 41.7275
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r87hyaao351774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Hatay Erzin Traverten Ocakları",
+    "il": "Hatay",
+    "aciklama": "Hatay ilindeki Erzin bölgesinde traverten ve Toros Siyah mermeri çıkarılır.",
+    "koordinatlar": {
+      "lat": 36.4012,
+      "lng": 36.3498
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rapgu5i05f1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Milas Boksit ve Mermer Ocakları",
+    "il": "Muğla",
+    "aciklama": "Dünyaca tanınan Milas Bej ve Milas Lila mermer çeşitleri bu bölgeden çıkarılır.",
+    "koordinatlar": {
+      "lat": 28.4244,
+      "lng": 30.6572
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "razc0c47ny1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Milas Mermer Ocakları",
+    "il": "Muğla",
+    "aciklama": "Dünyaca ünlü Milas mermerleri bu bölgede çıkarılır.",
+    "koordinatlar": {
+      "lat": 37.306,
+      "lng": 28.4244
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rhuk4ctvp01774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Banaz Kireçtaşı Ocakları",
+    "il": "Uşak",
+    "aciklama": "Uşak ilindeki Banaz ilçesinde kireçtaşı ve doğal taş çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.5697,
+      "lng": 29.2558
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ruukgs8avc1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Ulubey Traverten Ocakları",
+    "il": "Uşak",
+    "aciklama": "Uşak ilinin Ulubey ilçesinde traverten çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.665,
+      "lng": 29.1147
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rru344ub501774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Bigadiç Bor Ocakları",
+    "il": "Balıkesir",
+    "aciklama": "Türkiye'nin toplam bor mineralinin büyük çoğunluğu Balıkesir Bigadiç'ten çıkarılmaktadır.",
+    "koordinatlar": {
+      "lat": 40.1489,
+      "lng": 28.1547
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r47uvp2kfy1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Alanya Kireçtaşı ve Mermer Ocakları",
+    "il": "Antalya",
+    "aciklama": "Antalya'nın Alanya bölgesinde beyaz kireçtaşı ve bej mermer çıkarılır.",
+    "koordinatlar": {
+      "lat": 36.5441,
+      "lng": 32.0069
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkgixhwupk1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Akseki Boksit Ocakları",
+    "il": "Antalya",
+    "aciklama": "Türkiye'nin önemli boksit çıkarım bölgelerinden biri.",
+    "koordinatlar": {
+      "lat": 36.8842,
+      "lng": 30.8769
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rpku1ta4mg1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kastamonu Kireçtaşı Ocakları",
+    "il": "Kastamonu",
+    "ilce": "Küre",
+    "aciklama": "Kuzey Anadolu'da kireçtaşı rezervleri ile bilinen Kastamonu bölgesi.",
+    "koordinatlar": {
+      "lat": 41.808685,
+      "lng": 33.69421
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rr61xbqd3f1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mut Kireçtaşı ve Traverten Ocakları",
+    "il": "Mersin",
+    "aciklama": "Mersin ilinin Mut ilçesinde traverten ve kireçtaşı çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 36.8422,
+      "lng": 35.9783
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1ezlq7qkc1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taşucu Kireçtaşı Ocakları",
+    "il": "Mersin",
+    "aciklama": "Mersin'in Taşucu bölgesinde kireçtaşı çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 36.7394,
+      "lng": 34.9167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rw8xrfdmk41774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Eskipazar Traverten Ocakları",
+    "il": "Karabük",
+    "aciklama": "Karabük ilinin Eskipazar ilçesindeki tarihî traverten çıkarım bölgesi.",
+    "koordinatlar": {
+      "lat": 40.5525,
+      "lng": 32.8678
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ryu2lgyvgc1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Göynük Traverten Ocakları",
+    "il": "Bolu",
+    "aciklama": "Bolu iline bağlı Göynük, Çepne ve Mudurnu'da traverten çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 40.3908,
+      "lng": 31.0444
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rbqn3y20av1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kahramanmaraş Demir Ocakları",
+    "il": "Kahramanmaraş",
+    "aciklama": "Güney Anadolu'nun önemli demir cevheri çıkarım bölgesi.",
+    "koordinatlar": {
+      "lat": 37.5847,
+      "lng": 36.4872
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r7a994kgat1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Malatya Hekimhan Demir Ocakları",
+    "il": "Malatya",
+    "aciklama": "Malatya'nın Hekimhan ilçesinde ve Hasançelebi'de demir cevheri çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.3556,
+      "lng": 38.4117
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rponatdjio1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kırka (Sarıkaya) Bor Ocakları",
+    "il": "Eskişehir",
+    "aciklama": "Dünyanın en büyük tinkal (ham boraks) yataklarından biri. Eti Maden tarafından işletilir.",
+    "koordinatlar": {
+      "lat": 39.9719,
+      "lng": 30.815
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rfb2mmente1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Toros Dağları Kireçtaşı Ocakları",
+    "il": "Konya / Karaman",
+    "aciklama": "Toros Dağları boyunca uzanan geniş kireçtaşı çıkarım bölgesi.",
+    "koordinatlar": {
+      "lat": 36.6236,
+      "lng": 33.5167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "retvu38xt01774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Konya Akşehir Kireçtaşı ve Traverten Ocakları",
+    "il": "Konya",
+    "aciklama": "Konya'nın Akşehir ilçesinde kireçtaşı ve traverten çıkarımı yapılmaktadır.",
+    "koordinatlar": {
+      "lat": 37.9239,
+      "lng": 32.5361
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ri2emd204l1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Sivas Doğanşar Traverten Ocakları",
+    "il": "Sivas",
+    "aciklama": "Sivas ilinin Doğanşar ve Yıldızeli ilçelerinde traverten çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.7525,
+      "lng": 36.3342
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rlmz88cyjb1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Van Gevaş Traverten Ocakları",
+    "il": "Van",
+    "aciklama": "Van ilinin Gevaş ve Gürpınar ilçelerinde traverten çıkarımı yapılır.",
+    "koordinatlar": {
+      "lat": 38.4944,
+      "lng": 43.3994
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rusgol5l8r1774103717150",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Çorum Kireçtaşı Ocakları",
+    "il": "Çorum",
+    "aciklama": "Çorum bölgesinde inşaat sektörüne yönelik kireçtaşı ve agrega üretimi yapılır.",
+    "koordinatlar": {
+      "lat": 40.73,
+      "lng": 34.6844
     },
     "alan_ha": 0,
     "durum": "Aktif",
