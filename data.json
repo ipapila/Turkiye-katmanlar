@@ -24670,5 +24670,328 @@
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "Belediye ve Sanayi Atık Suyu"
+  },
+  {
+    "id": "r4zjxrlk7q1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Gökova Özel Çevre Koruma Bölgesi",
+    "il": "Muğla",
+    "aciklama": "Muğla ilinin güneybatısında yer alan, otantik koyları, makileri ve zengin deniz biyoçeşitliliğiyle Ege'nin en önemli kıyı koruma alanlarından biri. Posidonia deniz çayırları Akdeniz'in en geniş ve sağlıklı yataklarından birini oluşturmaktadır.",
+    "koordinatlar": {
+      "lat": 37.08,
+      "lng": 28.45
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rmzjoo0hsr1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Köyceğiz-Dalyan Özel Çevre Koruma Bölgesi",
+    "il": "Muğla",
+    "aciklama": "Dalyan Çayı deltası, Köyceğiz Gölü ve İztuzu kumsalını kapsayan bu alan, Türkiye'nin en kritik deniz kaplumbağası (Caretta caretta) yumurtlama bölgelerinden biridir. Likya kaya mezarları ve Kaunos antik kenti bölgede tarihsel değer de katmaktadır.",
+    "koordinatlar": {
+      "lat": 36.85,
+      "lng": 28.67
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rzdeyr9ivj1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Fethiye-Göcek Özel Çevre Koruma Bölgesi",
+    "il": "Muğla",
+    "aciklama": "Ölüdeniz lagünü ve Göcek körfezi başta olmak üzere Türkiye'nin en tanınmış turizm bölgelerinden birini kapsamaktadır. Sedir ormanları ve fauna çeşitliliği bakımından kritik önem taşır. Göcek kapalı körfezi, 12 koy ve 6 adacıkla Türkiye'nin en korunaklı sulama yollarından biridir.",
+    "koordinatlar": {
+      "lat": 36.75,
+      "lng": 29.2
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rb6lipszpb1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Patara Özel Çevre Koruma Bölgesi",
+    "il": "Antalya / Muğla",
+    "aciklama": "18 km uzunluğuyla Türkiye'nin en uzun sahillerinden biri olan Patara, aynı zamanda Likya Birliği başkenti olan tarihi Patara antik kentini de barındırmaktadır. Apollo kehanel tapınağının bulunduğu ve Noel Baba'nın (Aziz Nikola) doğduğu yer olarak bilinmektedir. Deniz kaplumbağası için kritik yuvarlama alanı.",
+    "koordinatlar": {
+      "lat": 36.32,
+      "lng": 29.33
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ruqqja6pqk1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Kaş-Kekova Özel Çevre Koruma Bölgesi",
+    "il": "Antalya",
+    "aciklama": "Kekova Adası'nın altında yatan Dolichiste antik kentinin batık kalıntıları, dünyanın en önemli su altı arkeoloji bölgelerinden biridir. Bölge aynı zamanda zengin endemik bitki çeşitliliğiyle de öne çıkmaktadır. Kekova körfezi son derece kırılgan bir ekosistem barındırır.",
+    "koordinatlar": {
+      "lat": 36.2,
+      "lng": 29.91
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rof5jj4ui71774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Göksu Deltası Özel Çevre Koruma Bölgesi",
+    "il": "Mersin",
+    "aciklama": "Türkiye'nin en önemli sulak alanlarından biri. Dünyada kritik düzeyde nesli tehlike altında olan kelaynak kuşunun kışlama alanıdır. 330'dan fazla kuş türüyle önemli bir göç koridorunda yer almaktadır. Akdeniz'in en zengin biyolojik çeşitlilik deltalarından sayılmaktadır.",
+    "koordinatlar": {
+      "lat": 36.37,
+      "lng": 34.19
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r9y9lxqsj01774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Gölbaşı Özel Çevre Koruma Bölgesi",
+    "il": "Ankara",
+    "aciklama": "Ankara'nın güneyinde yer alan Mogan ve Eymir Gölleri çevresini kapsayan şehre en yakın ÖÇKB. Yalnızca bu bölgede yaşayan Ankara endemik bitkisi olan 'Sevgi Çiçeği' (Colchicum ankara) ile tanınmaktadır. Şehir sakinleri için önemli yeşil alan işlevi görmektedir.",
+    "koordinatlar": {
+      "lat": 39.88,
+      "lng": 32.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rsfd8qdky21774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Datça-Bozburun Özel Çevre Koruma Bölgesi",
+    "il": "Muğla",
+    "aciklama": "1.444 km² ile Türkiye'nin en büyük ikinci ÖÇKB'si. Ege ve Akdeniz'in kesiştiği noktada yer alan ve uzun yıllar karayolu bağlantısı olmadığından doğallığını koruyabilmiş iki yarımada. Datça Yarımadası, ünlü Knidos antik kenti dahil 3.000 yıllık yerleşim izleri taşımaktadır.",
+    "koordinatlar": {
+      "lat": 36.75,
+      "lng": 27.82
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rta0f4f8ix1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Belek Özel Çevre Koruma Bölgesi",
+    "il": "Antalya",
+    "aciklama": "Antalya'nın Serik ilçesinde yer alan Belek, dünyaca ünlü golf tatil köyleri ile kapsamlı bir kıyı kızılçam ormanı arasındaki hassas gerilim noktasında bulunmaktadır. Caretta caretta'nın Antalya kıyılarındaki önemli yumurtlama alanlarından biridir.",
+    "koordinatlar": {
+      "lat": 36.87,
+      "lng": 31.08
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "raah8aihbz1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Ihlara Özel Çevre Koruma Bölgesi",
+    "il": "Aksaray",
+    "aciklama": "Kapadokya volkanik platosunda Melendiz Suyu'nun oyduğu 14 km uzunluğundaki derin kanyon. Bizans döneminden kalma 100'den fazla kaya kilisesiyle eşsiz bir dini ve doğal miras alanıdır. Türkiye'nin 19 ÖÇKB'si arasında en küçük alana sahip olanıdır.",
+    "koordinatlar": {
+      "lat": 38.26,
+      "lng": 38.37
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rot5mrx7te1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Foça Özel Çevre Koruma Bölgesi",
+    "il": "İzmir",
+    "aciklama": "Foça, Akdeniz'in en tehlikede olan memelisi olan Akdeniz foku (Monachus monachus) için Türkiye'nin en önemli yaşam ve üreme alanıdır. Dünyada bu türün 700'den az bireyi kalmış olup Foça'daki koloni bu küçük popülasyon için kritik önem taşımaktadır.",
+    "koordinatlar": {
+      "lat": 38.67,
+      "lng": 26.72
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r5zybcy03y1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Pamukkale Özel Çevre Koruma Bölgesi",
+    "il": "Denizli",
+    "aciklama": "Termal suların binlerce yıl boyunca oluşturduğu beyaz travertenler ve doğal havuzların yanı sıra Roma-Bizans dönemi Hierapolis antik kentini barındırmaktadır. UNESCO'nun hem doğal hem kültürel miras listesine aynı anda giren birkaç alandan biridir.",
+    "koordinatlar": {
+      "lat": 37.925,
+      "lng": 29.112
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rswse4v6rl1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Uzungöl Özel Çevre Koruma Bölgesi",
+    "il": "Trabzon",
+    "aciklama": "1.090 m rakımda doğal bir sediment kapanmasıyla oluşmuş Uzungöl, Doğu Karadeniz'in simgesi haline gelmiş bir dağ gölüdür. Yoğun turizm baskısıyla karşı karşıya olan bu alan, özgün Karadeniz orman ekosistemi ve biyoçeşitliliğini barındırmaktadır.",
+    "koordinatlar": {
+      "lat": 38.57,
+      "lng": 38.48
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r1eclf4qhg1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Tuz Gölü Özel Çevre Koruma Bölgesi",
+    "il": "Ankara / Konya / Aksaray",
+    "aciklama": "7.414 km² ile Türkiye'nin en büyük ÖÇKB'si ve Avrupa'nın en büyük tuz göllerinden biri. Türkiye tuz üretiminin önemli bir kısmı buradan karşılanmaktadır. Her yıl binlerce flamingonun üreme ve besleme alanı olan göl, yaz kuraklıklarına bağlı ciddi çekilme sorunuyla karşı karşıyadır.",
+    "koordinatlar": {
+      "lat": 38.75,
+      "lng": 33.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r65phqsjae1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Saros Körfezi Özel Çevre Koruma Bölgesi",
+    "il": "Çanakkale / Edirne",
+    "aciklama": "Türkiye'nin en temiz deniz sularından birine sahip olan Saros Körfezi, Ege ile Marmara'nın kesişiminde yer almakta ve benzersiz bir oşinografik önem taşımaktadır. Çevre sanayi tesisi bulunmaması ve kıyıda nüfus yoğunluğunun az olması nedeniyle Türkiye kıyılarının en el değmemiş bölgelerinden biridir.",
+    "koordinatlar": {
+      "lat": 40.68,
+      "lng": 26.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rhw2cwh68r1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Finike Denizaltı Dağları Özel Çevre Koruma Bölgesi",
+    "il": "Antalya",
+    "aciklama": "Türkiye'nin deniz alanında ilan edilen ilk özel çevre koruma bölgesi. Finike açıklarındaki Akdeniz'de yer alan denizaltı dağları ve bankları, derin deniz biyoçeşitliliği, nadir ekosistemler ve nesli azalan türler bakımından kritik öneme sahiptir. Aichi Hedefleri ve Barselona Sözleşmesi yükümlülüklerinin yerine getirilmesinde kilit rol üstlenmektedir.",
+    "koordinatlar": {
+      "lat": 36.45,
+      "lng": 30.35
+    },
+    "alan_ha": 1122885,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ryd87evvzn1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Salda Gölü Özel Çevre Koruma Bölgesi",
+    "il": "Burdur",
+    "aciklama": "Soda (natron) içeriğiyle olağandışı kimyasal bileşime sahip kratik bir tektona göl. Gölün beyaz kumları karbonatlı hidromagnezit mineralinden oluşmaktadır. NASA, Mars'taki Jezero Krateri'ne benzettiği için Salda Gölü'nü Mars araştırmalarında referans alan olarak kullanmaktadır. Yoğun turizm ilgisi nedeniyle ÖÇKB statüsüne kavuşturulmuştur.",
+    "koordinatlar": {
+      "lat": 37.54,
+      "lng": 29.68
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r8bhy7lga01774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Karaburun-Ildır Körfezi Özel Çevre Koruma Bölgesi",
+    "il": "İzmir",
+    "aciklama": "Karaburun Yarımadası ve Ildır Körfezi'ni kapsayan bu ÖÇKB, nesli tükenme tehlikesinde olan Akdeniz fokunun üreme ve yaşam alanlarından biri olma özelliğini taşımaktadır. 15 endemik, 4 nadir, 5 CITES listeli bitki türü barındırmaktadır. Yarımadadaki Bozdağ kütlesi ve ormanlar yaban hayatı açısından kritiktir.",
+    "koordinatlar": {
+      "lat": 38.45,
+      "lng": 26.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "r4yxjc429v1774104564932",
+    "tip": "Kıyı Koruma Alanı",
+    "ad": "Marmara Denizi ve Adalar Özel Çevre Koruma Bölgesi",
+    "il": "İstanbul / Bursa / Balıkesir / Kocaeli / Tekirdağ / Çanakkale / Yalova / Sakarya",
+    "aciklama": "Dünyada bir ülkenin egemenlik sınırları içinde bulunan tek iç deniz olma özelliğiyle Marmara, Karadeniz ile Akdeniz arasındaki biyolojik koridor işlevi görür. 2016-2019 yıllarında Akdeniz genelinde toplu ölümlere yol açan parazit nedeniyle nesli kritik düzeyde tehlikeye düşen Pinna nobilis midyesinin son küresel sığınağı burası olmuştur. 2021'deki müsilaj felaketi ÖÇKB statüsünün aciliyetini gözler önüne sermiştir.",
+    "koordinatlar": {
+      "lat": 40.7,
+      "lng": 28
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
   }
 ]
