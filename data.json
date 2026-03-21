@@ -18574,11 +18574,12 @@
     "id": "rdqnqoneei1774074019083",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
-    "il": "Burdur / Afyonkarahisar",
+    "il": "Burdur",
+    "ilce": "Burdur Merkez",
     "aciklama": "Burdur Gölü son yıllardaki kuraklığın simgesi hâline geldi; göl yüzeyi dramatik biçimde daraldı, bölge ekosistemi tehlike altına girdi.",
     "koordinatlar": {
-      "lat": 37.52,
-      "lng": 29.12
+      "lat": 37.705553,
+      "lng": 30.121765
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -19695,17 +19696,17 @@
     "tip": "İklim Olayları",
     "ad": "Keçiborlu Kükürt Madeni",
     "il": "Isparta",
+    "ilce": "Keçiborlu",
     "aciklama": "Isparta'nın Keçiborlu ilçesinde kükürt çıkarımı yapılmaktadır. Tarım gübresi ve kimya sanayii için önemli bir girdi maddesidir.",
     "koordinatlar": {
-      "lat": 37.2858,
-      "lng": 30.3958
+      "lat": 37.952929,
+      "lng": 30.288277
     },
     "alan_ha": 0,
-    "durum": "Tarihsel / Kısmen Aktif",
+    "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "r8eouq49xr1774103553422",
@@ -21616,17 +21617,17 @@
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
     "il": "Antalya",
+    "ilce": "Konyaaltı",
     "aciklama": "Antalya çevresi orman alanlarında tespit edilen kaçak katı atık döküm noktaları, OGM ve Bakanlık denetimleriyle kayıt altına alındı. Tıbbi ve tehlikeli atık dökümü de gündeme geldi.",
     "koordinatlar": {
-      "lat": 36.5824,
-      "lng": 30.7327
+      "lat": 36.73008,
+      "lng": 30.465088
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kaçak Çöp Döküm"
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "rzccha7z291774103833436",
@@ -21820,17 +21821,17 @@
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
     "il": "Burdur",
+    "ilce": "",
     "aciklama": "Türkiye'nin en hızlı küçülen gölü olan Burdur Gölü, aşırı sulama suyu çekimi ve tarımsal kirlilik nedeniyle son 50 yılda yüzey alanının yarısını yitirdi. Flamingo ve diğer su kuşlarının üreme alanı tehdit altında.",
     "koordinatlar": {
-      "lat": 37.75,
-      "lng": 30.56
+      "lat": 37.752258,
+      "lng": 30.215149
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Toprak Kirliliği / Göl Ekosistemi Tahribatı"
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "rc1iumblhb1774103833436",
@@ -21871,17 +21872,17 @@
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
     "il": "Muğla",
+    "ilce": "Marmaris",
     "aciklama": "Gökova Özel Çevre Koruma Bölgesi sınırları içinde izinsiz kum çıkarımı ve altyapı çalışmaları kıyı ekosistemi tahribatına yol açtı.",
     "koordinatlar": {
-      "lat": 37.06,
-      "lng": 29.01
+      "lat": 36.995972,
+      "lng": 28.260956
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kıyı Ekosistemi Tahribatı"
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "rg133mths71774103833436",
@@ -21903,19 +21904,19 @@
   {
     "id": "r3vjvztd681774103833436",
     "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal Akbelen",
     "il": "Muğla",
+    "ilce": "Milas",
     "aciklama": "Yasal güvence altındaki tescilli zeytinlik alanları imara açılarak kaçak yapılaşmaya konu edildi; Zeytin Kanunu ihlali kapsamında davalar açıldı.",
     "koordinatlar": {
-      "lat": 37.05,
-      "lng": 27.2
+      "lat": 37.210644,
+      "lng": 27.929993
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Zeytinlik Tahribatı"
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "r484885gm01774103833436",
@@ -25135,17 +25136,17 @@
     "tip": "İklim Olayları",
     "ad": "Burdur Gölü Ramsar Alanı",
     "il": "Burdur",
+    "ilce": "",
     "aciklama": "1984-2023 arası yüzey alanı %42.5 azalmış. Dikkuyruk ördek için küresel ölçekte kritik alan.",
     "koordinatlar": {
-      "lat": 37.7337,
-      "lng": 30.1781
+      "lat": 37.784011,
+      "lng": 30.2845
     },
     "alan_ha": 24800,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "rygn6zcv3w1774105334505",
@@ -25424,34 +25425,34 @@
     "tip": "Ekolojik İhlal",
     "ad": "Akyaka (Gökova) Tabiat Parkı",
     "il": "Muğla",
+    "ilce": "Marmaris",
     "aciklama": "Gökova Körfezi'ne dökülen Azmak Deresi, Türkiye'nin en temiz doğal su kaynaklarından biridir. ÖÇKB ile iç içe.",
     "koordinatlar": {
-      "lat": 37,
-      "lng": 28.6
+      "lat": 37.032158,
+      "lng": 28.298035
     },
     "alan_ha": 2500,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "rnp00srzsu1774105334505",
     "tip": "Ekolojik İhlal",
     "ad": "Bafa Gölü Tabiat Parkı",
-    "il": "Muğla / Aydın",
+    "il": "Aydın",
+    "ilce": "Didim",
     "aciklama": "Eskiden Miletos Körfezi olan, zamanla tatlı/acı suya dönüşmüş tektona göl. İçindeki adacıklarda Herakleia antik kenti bulunur.",
     "koordinatlar": {
-      "lat": 37.15,
-      "lng": 27.2
+      "lat": 37.503189,
+      "lng": 27.445221
     },
     "alan_ha": 39000,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "rq3rb2nw751774105334505",
@@ -25645,17 +25646,17 @@
     "tip": "Ekolojik İhlal",
     "ad": "Kızıldağ Milli Parkı",
     "il": "Isparta",
+    "ilce": "Aksu",
     "aciklama": "Beyşehir Gölü'ne nazır 55.000 ha'lık büyük orman parkı. Güneybatı Anadolu'nun en geniş sedir ormanlarından biri.",
     "koordinatlar": {
-      "lat": 37.8,
-      "lng": 31.15
+      "lat": 37.722935,
+      "lng": 31.27533
     },
     "alan_ha": 55105,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "rj8prx693z1774106026688",
@@ -25679,17 +25680,17 @@
     "tip": "Ekolojik İhlal",
     "ad": "Kovada Gölü Milli Parkı",
     "il": "Isparta",
+    "ilce": "Eğirdir",
     "aciklama": "Eğirdir Gölü'nün artığı olan tektonik kökenli saf göl. Susuzluğun hiç yaşanmadığı, Isparta'nın mücevheri.",
     "koordinatlar": {
-      "lat": 37.8667,
-      "lng": 30.9
+      "lat": 37.63816,
+      "lng": 30.874329
     },
     "alan_ha": 6550,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "r0cyfz5ghe1774106026688",
@@ -25985,17 +25986,17 @@
     "tip": "Ekolojik İhlal",
     "ad": "Marmaris Milli Parkı",
     "il": "Muğla",
+    "ilce": "Ula",
     "aciklama": "Marmaris ve Hisarönü körfezini çevreleyen yarımada ve körfez ekosistemi. Yoğun yat turizminin baskısına karşı koruma kalkanı.",
     "koordinatlar": {
-      "lat": 36.8333,
-      "lng": 28.3
+      "lat": 37.054903,
+      "lng": 28.371849
     },
     "alan_ha": 30250,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "kaynak": "Dosya içe aktarma"
   },
   {
     "id": "rgj390qhad1774106026688",
