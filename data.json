@@ -21229,10 +21229,11 @@
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
     "il": "Antalya",
+    "ilce": "",
     "aciklama": "Antalya çevresi orman alanlarında tespit edilen kaçak katı atık döküm noktaları, OGM ve Bakanlık denetimleriyle kayıt altına alındı. Tıbbi ve tehlikeli atık dökümü de gündeme geldi.",
     "koordinatlar": {
-      "lat": 36.5824,
-      "lng": 30.7327
+      "lat": 36.662911,
+      "lng": 30.49942
     },
     "alan_ha": 0,
     "durum": "Aktif",
