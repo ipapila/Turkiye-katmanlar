@@ -20087,5 +20087,805 @@
     "eklenme": "2026-03-19",
     "kaynak": "Shapefile/GeoJSON",
     "count": 3
+  },
+  {
+    "id": "rxfo6a4g8r1774074019083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul / Kocaeli / Yalova / Bursa",
+    "aciklama": "İklim değişikliğinin tetiklediği deniz suyu ısınması ve aşırı besin yükü nedeniyle Marmara Denizi tarihinin en büyük müsilaj (deniz salyası) felaketiyle yüz yüze geldi. Balıkçılık ve turizm ağır zarar gördü; deniz tabanı ekosistemi ciddi ölçüde bozuldu.",
+    "koordinatlar": {
+      "lat": 41.02,
+      "lng": 28.92
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rlq54eza3s1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Giresun",
+    "aciklama": "Şiddetli yağış Giresun'u besleyen dereleri taşırdı; Dereli ilçesinde köprüler yıkıldı, evler sürüklendi.",
+    "koordinatlar": {
+      "lat": 39.75,
+      "lng": 40.98
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rhl8wvhtct1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Rize / Artvin",
+    "aciklama": "Rize ve Artvin illerinde yoğun yağış heyelan ve taşkınlara neden oldu; köy yolları ve köprüler hasar gördü.",
+    "koordinatlar": {
+      "lat": 41.02,
+      "lng": 41.22
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r6gljmqk1q1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Antalya",
+    "aciklama": "Manavgat'tan başlayan yangın hızla büyüdü, birçok köy ve tatil beldesi tahliye edildi. Türkiye tarihinin en büyük orman yangınlarından biri.",
+    "koordinatlar": {
+      "lat": 36.8841,
+      "lng": 31.1565
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rvtey5s6351774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Muğla",
+    "aciklama": "53 ili etkileyen 2021 yangın felaketi içinde en ağır hasarın yaşandığı il Muğla oldu. Ege'nin ormanlık alanları büyük tahribat gördü.",
+    "koordinatlar": {
+      "lat": 36.9,
+      "lng": 28.97
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ri6kpko5981774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Kastamonu / Bartın / Sinop",
+    "aciklama": "Tarihi yağış rekoru kıran afet, Bartın Irmağı'nın taşmasına yol açtı. Bozkurt ilçesi büyük ölçüde yıkıldı; binalar ve köprüler sürüklendi.",
+    "koordinatlar": {
+      "lat": 41.3887,
+      "lng": 32.6141
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r8psimtnzt1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "İstanbul",
+    "aciklama": "İstanbul barajlarının doluluk oranı Şubat 2021'de %25'e düştü; su tasarrufu uyarıları yayımlandı, kısıtlama tartışmaları gündeme geldi.",
+    "koordinatlar": {
+      "lat": 41.082,
+      "lng": 29.088
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rf7fx80xtt1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Edirne / Kırklareli",
+    "aciklama": "Kuzey Batı Trakya'da şiddetli yağışlar taşkına neden oldu; köyler tahliye edildi.",
+    "koordinatlar": {
+      "lat": 41.68,
+      "lng": 26.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rg1iz7qo2q1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Hatay / Adana",
+    "aciklama": "Nisan yağışları Hatay ve Adana'da büyük taşkınlara yol açtı; yollar kapandı, tarım arazileri hasar gördü.",
+    "koordinatlar": {
+      "lat": 37.06,
+      "lng": 36.34
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r0m2xgn2iv1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Bursa",
+    "aciklama": "Uludağ eteklerinde şiddetli rüzgârla yayılan yangın köyleri tahliye ettirdi.",
+    "koordinatlar": {
+      "lat": 40.1826,
+      "lng": 28.9553
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rg3ksv391u1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Muğla",
+    "aciklama": "Bodrum yarımadası çevresindeki makilik alanlar yandı; tatil tesisleri tahliye edildi.",
+    "koordinatlar": {
+      "lat": 37.0411,
+      "lng": 27.4297
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rdsez58hgj1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Antalya",
+    "aciklama": "Aralık ayında 24 saatte 200 mm'yi aşan yağış Antalya merkez ve ilçelerinde büyük taşkına neden oldu.",
+    "koordinatlar": {
+      "lat": 36.88,
+      "lng": 30.65
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rb0d17q1xf1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Kahramanmaraş / Gaziantep / Adıyaman",
+    "aciklama": "Güneydoğu'da alışılmadık yoğun kar, ulaşımı felç etti ve tarım alanlarına zarar verdi.",
+    "koordinatlar": {
+      "lat": 37.78,
+      "lng": 38.39
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rixqdpvnby1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Konya / Isparta / Aksaray",
+    "aciklama": "Beyşehir Gölü su seviyesi son 30 yılın en düşüğüne geriledi; buğday ve şeker pancarı üretimi büyük zarar gördü.",
+    "koordinatlar": {
+      "lat": 37.87,
+      "lng": 32.48
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r245q86hvj1774074019083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Kahramanmaraş / Hatay / Adıyaman / Malatya / Gaziantep / Adana / Diyarbakır / Kilis / Osmaniye / Şanlıurfa / Elazığ",
+    "aciklama": "Türkiye Cumhuriyeti tarihinin en yıkıcı depremi. 11 ili etkileyen iki büyük sarsıntı 9 saat arayla geldi; resmi rakamlara göre 53.537 kişi hayatını kaybetti, yaklaşık 300.000 bina yıkıldı veya ağır hasar gördü.",
+    "koordinatlar": {
+      "lat": 37.5853,
+      "lng": 36.9371
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rh0nu6uxdz1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Hatay",
+    "aciklama": "6 Şubat depremi sonrasında İskenderun Limanı depolama tesisinde çıkan yangın günlerce söndürülemedi; ciddi hava kirliliği yarattı ve bölgeyi ek krizle vurdu.",
+    "koordinatlar": {
+      "lat": 36.1613,
+      "lng": 36.2021
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rypcws0ia61774074019083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Malatya",
+    "aciklama": "6 Şubat ana şokunun artçısı olan 6.4 büyüklüğündeki sarsıntı, daha önce hasar görmüş binaların çökmesine yol açtı.",
+    "koordinatlar": {
+      "lat": 38.294,
+      "lng": 36.9071
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r7keu64b1r1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Çanakkale",
+    "aciklama": "Kızılkeçili'de 1.300 ha, Kayadere'de 2.100 ha olmak üzere iki büyük yangın 2023 yazında Çanakkale ormanlarını vurdu.",
+    "koordinatlar": {
+      "lat": 40.15,
+      "lng": 26.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r0qlxrpwlz1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Kastamonu / Samsun / Amasya",
+    "aciklama": "Temmuz 2023'te yüksek yağış miktarı Karadeniz'in birçok ilinde taşkına neden oldu; altyapı ve tarım arazileri büyük zarar gördü.",
+    "koordinatlar": {
+      "lat": 41.2867,
+      "lng": 35.4711
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rz791sidi51774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Şanlıurfa / Adıyaman",
+    "aciklama": "Ani sel baskınlarında hayatını kaybedenlerin büyük bölümü araçlarında mahsur kalan kişilerdi. Depremden yeni çıkmış bölgede ikinci büyük felaket.",
+    "koordinatlar": {
+      "lat": 37.1591,
+      "lng": 38.8026
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rbwp6jf0451774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Aydın / Manisa / İzmir",
+    "aciklama": "2023 yaz kuraklığı Ege bölgesinin incir, üzüm ve pamuk üretimini ciddi biçimde düşürdü.",
+    "koordinatlar": {
+      "lat": 37.856,
+      "lng": 27.8394
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rfb0vbv7lg1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "İstanbul",
+    "aciklama": "İstanbul barajları Eylül 2023'te 2014'ten bu yana en düşük seviyeyi gördü; uzun vadeli su kısıtlaması riski oluştu.",
+    "koordinatlar": {
+      "lat": 41.082,
+      "lng": 29.088
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r2wnoa8nmp1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "İzmir",
+    "aciklama": "İzmir Menderes ilçesinde çıkan yangında 3 OGM çalışanı hayatını kaybetti; bölge büyük yıkım yaşadı.",
+    "koordinatlar": {
+      "lat": 38.4192,
+      "lng": 27.1384
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r9damdmh2e1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Bursa",
+    "aciklama": "Nisan 2024'te kısa sürede düşen aşırı yağış Bursa'da ani sel oluşturdu; araçlar sürüklendi, bodrum katları su altında kaldı.",
+    "koordinatlar": {
+      "lat": 40.1826,
+      "lng": 28.7372
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ro1xkcouje1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Elazığ / Malatya / Erzincan / Erzurum",
+    "aciklama": "2024 yazında Doğu Anadolu'da yağış açığı büyüdü; hidroelektrik üretimi düştü, sulamalı tarım ciddi sorunlarla karşılaştı.",
+    "koordinatlar": {
+      "lat": 38.36,
+      "lng": 40.26
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rdqnqoneei1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Burdur / Afyonkarahisar",
+    "aciklama": "Burdur Gölü son yıllardaki kuraklığın simgesi hâline geldi; göl yüzeyi dramatik biçimde daraldı, bölge ekosistemi tehlike altına girdi.",
+    "koordinatlar": {
+      "lat": 37.52,
+      "lng": 29.12
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ri4vapu0sl1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Gaziantep / Şanlıurfa / Diyarbakır / Adıyaman",
+    "aciklama": "2024 yılının rekor sıcaklıkları Güneydoğu'yu vurdu; tarım ürünleri yandı, hastaneye kaldırılan hasta sayısı arttı.",
+    "koordinatlar": {
+      "lat": 37.02,
+      "lng": 39.75
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rzhge7j56n1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Uşak",
+    "aciklama": "AFAD'ın Ocak 2025'te açıkladığı 2024 yıl bilanço verilerine göre Uşak başta olmak üzere pek çok ilde sel müdahalesi yapıldı.",
+    "koordinatlar": {
+      "lat": 39.4144,
+      "lng": 28.75
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rhhlpq0amr1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Hatay",
+    "aciklama": "Deprem yaralarını sarmakta olan Hatay, 2024 Mart ayı yağışlarında yeniden sel baskınıyla karşılaştı; konteyner kentler su baskınından etkilendi.",
+    "koordinatlar": {
+      "lat": 36.802,
+      "lng": 35.908
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rylqcj2pgj1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Ankara / Konya / Eskişehir",
+    "aciklama": "2025 yılı başında İç Anadolu barajlarının doluluk oranı endişe verici seviyelere geriledi; bazı belediyelerde su tasarrufu çağrısı yapıldı.",
+    "koordinatlar": {
+      "lat": 39.9334,
+      "lng": 32.856
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rjededbklf1774074019083",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Samsun / Ordu",
+    "aciklama": "2025 yaz başında Karadeniz'de şiddetli yağışlar yeniden taşkına neden oldu; fındık bahçeleri hasar gördü.",
+    "koordinatlar": {
+      "lat": 41.22,
+      "lng": 36.34
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rhlzj2ob071774074034022",
+    "tip": "HES",
+    "ad": "Keban Hidroelektrik Santrali",
+    "il": "Elazığ",
+    "aciklama": "Türkiye'nin ilk büyük barajlarından, Fırat Nehri üzerinde",
+    "koordinatlar": {
+      "lat": 38.5,
+      "lng": 38.6833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r9fsh385di1774074034022",
+    "tip": "HES",
+    "ad": "Karakaya Hidroelektrik Santrali",
+    "il": "Diyarbakır",
+    "aciklama": "Fırat Nehri üzerinde, Keban'ın mansabında",
+    "koordinatlar": {
+      "lat": 37.9167,
+      "lng": 38.25
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rjsc88ivku1774074034022",
+    "tip": "HES",
+    "ad": "Atatürk Hidroelektrik Santrali",
+    "il": "Şanlıurfa",
+    "aciklama": "Türkiye'nin en büyük HES'i, Fırat Nehri",
+    "koordinatlar": {
+      "lat": 37.4833,
+      "lng": 38.3167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r96qvln2zw1774074034022",
+    "tip": "HES",
+    "ad": "Altınkaya Hidroelektrik Santrali",
+    "il": "Samsun",
+    "aciklama": "Kızılırmak üzerinde, 1988'de devreye alındı",
+    "koordinatlar": {
+      "lat": 35.7259,
+      "lng": 41.3642
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rrlk3iwln41774074034022",
+    "tip": "HES",
+    "ad": "Köklüce Hidroelektrik Santrali",
+    "il": "Tokat",
+    "aciklama": "Yeşilırmak üzerinde, 1988'de faaliyete geçti",
+    "koordinatlar": {
+      "lat": 36.9269,
+      "lng": 40.4942
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rbi2difbgw1774074034022",
+    "tip": "HES",
+    "ad": "Deriner Hidroelektrik Santrali",
+    "il": "Artvin",
+    "aciklama": "Çoruh Nehri üzerinde, çift eğrilikli kemer baraj",
+    "koordinatlar": {
+      "lat": 41.65,
+      "lng": 41.62
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rm8ul2v6ix1774074034022",
+    "tip": "HES",
+    "ad": "Oymapınar Hidroelektrik Santrali",
+    "il": "Antalya",
+    "aciklama": "Manavgat Nehri üzerinde",
+    "koordinatlar": {
+      "lat": 36.9,
+      "lng": 31.7
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r193jo0cd91774074034022",
+    "tip": "HES",
+    "ad": "Hasanlar Hidroelektrik Santrali",
+    "il": "Düzce",
+    "aciklama": "Bolu civarında, küçük ölçekli tesis",
+    "koordinatlar": {
+      "lat": 41.22,
+      "lng": 30.96
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r5eycdu92m1774074034022",
+    "tip": "HES",
+    "ad": "Gökçekaya Hidroelektrik Santrali",
+    "il": "Eskişehir",
+    "aciklama": "Sakarya Nehri üzerinde",
+    "koordinatlar": {
+      "lat": 40.0333,
+      "lng": 31.1667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "ryym82enfz1774074045149",
+    "tip": "GES",
+    "ad": "Karapınar Güneş Enerji Santrali (Kalyon)",
+    "il": "Konya",
+    "aciklama": "Türkiye'nin en büyük GES'i, 2022'de devreye alındı.",
+    "koordinatlar": {
+      "lat": 37.7167,
+      "lng": 33.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rdn8qgzwgv1774074045149",
+    "tip": "GES",
+    "ad": "Yeşilhisar Güneş Enerji Santrali (Kalyon)",
+    "il": "Kayseri",
+    "aciklama": "Kalyon'un Kayseri'deki büyük GES projesi.",
+    "koordinatlar": {
+      "lat": 38.3875,
+      "lng": 35.4889
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rluvdz9qnm1774074045149",
+    "tip": "GES",
+    "ad": "Aksaray Güneş Enerji Santrali (Enerjisa)",
+    "il": "Aksaray",
+    "aciklama": "Enerjisa'nın 2017'de devreye aldığı GES.",
+    "koordinatlar": {
+      "lat": 38.6167,
+      "lng": 34.8333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rgoyx7eie81774074045149",
+    "tip": "GES",
+    "ad": "Yozgat Güneş Enerji Santrali (YEO)",
+    "il": "Yozgat",
+    "aciklama": "Yozgat Sorgun'da kurulu GES.",
+    "koordinatlar": {
+      "lat": 39.3833,
+      "lng": 34.8
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rsolg4vpwb1774074045149",
+    "tip": "GES",
+    "ad": "Niğde Güneş Enerji Santrali (Natenergy)",
+    "il": "Niğde",
+    "aciklama": "Natenergy tarafından işletilen GES.",
+    "koordinatlar": {
+      "lat": 37.75,
+      "lng": 35.3167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r2piqzexr91774074045149",
+    "tip": "GES",
+    "ad": "Muğla Güneş Enerji Santrali (Limak)",
+    "il": "Muğla",
+    "aciklama": "Limak'ın Muğla Ortaca'da işlettiği GES.",
+    "koordinatlar": {
+      "lat": 36.86,
+      "lng": 28.62
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rn1pvgwp7u1774074045149",
+    "tip": "GES",
+    "ad": "Adana Güneş Enerji Santrali (Enerjisa)",
+    "il": "Adana",
+    "aciklama": "Adana Osmaniye sınırında kurulu GES.",
+    "koordinatlar": {
+      "lat": 37.25,
+      "lng": 35.1
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "roa3b9jlj71774074045149",
+    "tip": "GES",
+    "ad": "Balıkesir Güneş Enerji Santrali (Akfen)",
+    "il": "Balıkesir",
+    "aciklama": "Akfen'in Balıkesir'deki GES'i.",
+    "koordinatlar": {
+      "lat": 39.65,
+      "lng": 27.85
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "rrpe0fs7351774074045149",
+    "tip": "GES",
+    "ad": "İstanbul Güneş Enerji Santrali (Sabancı)",
+    "il": "İstanbul",
+    "aciklama": "Sabancı'nın Tuzla'daki çatı GES'i, örnek teşkil ediyor.",
+    "koordinatlar": {
+      "lat": 41.0167,
+      "lng": 29.0167
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
+  },
+  {
+    "id": "r786vfzr0h1774074045149",
+    "tip": "GES",
+    "ad": "Konya Ereğli Güneş Enerji Santrali (YEO)",
+    "il": "Konya",
+    "aciklama": "YEO Teknoloji'nin Ereğli'deki GES'i.",
+    "koordinatlar": {
+      "lat": 37.85,
+      "lng": 32.85
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-21",
+    "kaynak": "Dosya içe aktarma"
   }
 ]
