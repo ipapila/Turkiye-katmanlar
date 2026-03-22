@@ -28688,5 +28688,23 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "rkwabdvurd1774181677829",
+    "tip": "Kıyı İhlalleri",
+    "ad": "BYT Peyzaj Hafriyat - Vogue Otel",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "İnşa Tarihi: 1 Ocak 1970 Muğla İli, Bodrum İlçesi, Torba Mahallesi, Kaynar Mevkiinde, BYT Peyzaj Hafriyat İnşaat Proje tanıtım dosyasının konusu; 187.785,63 m² alanda faaliyet gösteren turizm konaklama tesisinin, Usuluk Koyu Tabiat Parkı sınırlarının 29,21 hektara genişletilmesi ve 120 ada 3 parsel önündeki kamuya ait alanların dahil edilmesi ile tesis toplam alanının 32,6 hektar (326.275,430 m²) olarak revizesi ve, Vogue Hotel adıyla biliniyor. ÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.082297,
+      "lng": 27.47818
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
