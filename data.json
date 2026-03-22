@@ -498,7 +498,7 @@
     "ad": "Germencik Jeotermal Santrali",
     "il": "Aydın",
     "ilce": "",
-    "aciklama": "Türkiye'nin en büyük jeotermal santrali. 232 MW.",
+    "aciklama": "Türkiye'nin en büyük jeotermal santrali. 232 MW.\nDünyada kilometrekare başına en fazla Jeotermal Enerji Santralinin (JES) düştüğü Aydın'ın Germencik ilçesinde, tarım alanlarını ve su kaynaklarını yok eden çevre felaketleri hız kesmeden devam ediyor.\n\nBölge halkının ve Germencik Çevre Derneği Başkanı Halil Çetinkaya’nın son bir iki ay içerisinde paylaştığı görüntüler, JES borularındaki patlamaların ve zehirli gaz salınımlarının artık sürekli hale gelen bir çevre katliamı olduğunu gözler önüne seriyor.",
     "koordinatlar": {
       "lat": 37.87,
       "lng": 27.6
@@ -506,7 +506,7 @@
     "alan_ha": 380,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-19",
+    "eklenme": "2026-03-22",
     "kaynak": "MTA"
   },
   {
