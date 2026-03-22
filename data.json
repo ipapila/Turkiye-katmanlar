@@ -28706,5 +28706,23 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "ryhataeqni1774181785615",
+    "tip": "RES",
+    "ad": "Yıldız Enerji - Güllük RES",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "İnşa Tarihi: 1 Ocak 1970\nProje: Güllük Rüzgâr Enerji Santrali (RES) ve 4,5 Km Enerji İletim Hattı Projesi (8 Adet Türbin, 33 MW) Adres: Muğla İli, Bodrum İlçesi, Güvercinlik Mahallesi, İzin Tepe, Moralıncı Tepe, Sivri Tepe, Ardıç Tepe, Yılanlı Tepe, Küçüktırman Tepe, Düz Tepe, Denizgören Tepe ve Kocasarnıç Tepe Mevkiileri\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.098729,
+      "lng": 27.509766
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
