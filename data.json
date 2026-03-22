@@ -28544,5 +28544,23 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "rurq3igqs11774174348491",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "DOST Mermer (2014) ÇED Alanı",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "I., II. ve V. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\n2014 yılında planlanan proje ile: Faaliyet sahibi D.O.S.T Mad. İnş. İth. İhr.San. ve Tic. Ltd. Şti. tarafından Muğla İli, Bodrum İlçesi, Peksimet Mahallesi, Bozdağ Mevkiinde bulunan ve 22,6 ha alanda II. Grup Mermer (Andezit-Kalker) maden sahası ve 395.000 ton/yıl kapasitede kırma-eleme tesisi işletilecektir.\nÇED Gereklidir",
+    "koordinatlar": {
+      "lat": 37.034145,
+      "lng": 27.26562
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
