@@ -28619,7 +28619,7 @@
   },
   {
     "id": "r3bumpkntb1774176669799",
-    "tip": "Ekolojik İhlal",
+    "tip": "Kıyı İhlalleri",
     "ad": "Birleşik Gayrimenkul - 277 Konut",
     "il": "Muğla",
     "ilce": "Bodrum",
@@ -28627,6 +28627,42 @@
     "koordinatlar": {
       "lat": 37.126039,
       "lng": 27.320938
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rjy202araz1774176755364",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Yusuf Öztürk - Duvartaşı Ocağı",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nDekoratif Duvartaşı Ocağı ve Pasa Geri Kazanım Tesisi; Muğla İli, Bodrum İlçesi, Göl Mahallesi; ER.3405805 nolu 99,1 ha‟lık ruhsat sahasının 24,79 hektarlık kısmında, Yusuf Öztürk tarafından “Dekoratif Duvartaşı Ocağı ve Pasa Geri Kazanım Tesisi” işletmeciliği yapılması planlanmaktadır.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.109271,
+      "lng": 27.371664
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r01ce8gbv51774176840570",
+    "tip": "Kıyı İhlalleri",
+    "ad": "The BO VİERA - Besa Marin",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "Turizm / Turistik Tesisler\nİnşa Tarihi: 1 Ocak 1970\nTHE BO VİERA PROJESİ; Muğla İli, Bodrum İlçesi, Türkbükü Mahallesi, Hebil Mevkii (309 Ada 1 ve 2 parsel, 305 ada 3 parseller)\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.152689,
+      "lng": 27.363253
     },
     "alan_ha": 0,
     "durum": "Aktif",
