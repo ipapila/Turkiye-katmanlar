@@ -28527,5 +28527,23 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null,
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "rk1fmkqm241774173731891",
+    "tip": "Termik Reaktör",
+    "ad": "Yatağın Termik Enerji Santrali",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "Enerji / Güneş Enerji Santralleri\nİnşa Tarihi: 1 Ocak 1970\nYatağan Termik Enerji Üretim A.Ş. tarafından Muğla ili, Yatağan ilçesinde 674,9800 MWm/666,0000 MWe mevcut kurulu gücüyle faaliyet gösteren “Yatağan Termik Enerji Santrali”ne kendi maden ruhsat sahası dahilinde olmak üzere toplam 99,9 MWm/85,0 MWe gücünde olacak şekilde 3 alanda (GES-1, GES-2, GES-3) güneş enerjisi santrali (GES) ünitesi ilave edilmesi suretiyle “Yatağan Termik Enerji Santrali Yardımcı Kaynak Güneş Enerji Santrali Projesi (99,9 MWm/85,0 MWe-149,5 ha)” nin gerçekleştirilmesi planlanmaktadır.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.341503,
+      "lng": 28.047066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
