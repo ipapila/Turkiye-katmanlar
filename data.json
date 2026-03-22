@@ -28583,7 +28583,7 @@
   },
   {
     "id": "r37zk0yi7g1774176436096",
-    "tip": "Ekolojik İhlal",
+    "tip": "Kıyı İhlalleri",
     "ad": "Ant Aspat – Konaklama (Radisson Collection Hotel)",
     "il": "Muğla",
     "ilce": "Bodrum",
@@ -28591,6 +28591,42 @@
     "koordinatlar": {
       "lat": 36.979724,
       "lng": 27.311454
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rs1wx69mkr1774176531708",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Gökçebel Yat Limanı",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "Kıyı / Limanlar (Yat Limanları Dahil)\nİnşa Tarihi: 1 Ocak 1970\nUNITED Bodrum Turizm A.Ş. tarafından Muğla ili, Bodrum ilçesi, Muğla ili, Bodrum ilçesi, Dirmil (Eski Gökçebel) Mahallesi Mevkii’nde, kıyı kenar çizgisinin deniz tarafında ve kıyı kenar çizgisinin kara tarafında bulunan 779 Ada 1 parselde “Gökçebel Yat Limanı (Otel Dahil) Projesi”nin tesis edilmesi ve işletilmesi planlanmaktadır. ÇED Başvuru Dosyası Bakanlığa sunulmuş olup Bakanlıkça incelenen ÇED Başvuru Dosyası formata uygun bulunmuş ve 24.02.2021 tarihinde Halkın Katılımı Toplantısı gerçekleştirilmiştir. Planlanan projeye ilişkin T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı’nın 17.03.2021 tarih ve E-547521 sayılı yazısı ile ÇED sürecinin sonlandırıldığı bildirilmiş olup T.C. Muğla 2. İdare Mahkemesinin 2021/480 Esas No’lu ve 2023/2522 No’lu Kararı ile davaya konu süreç sonlandırma işleminin iptaline karar verilmiştir. T.C. Muğla 2. İdare Mahkemesinin 2021/480 Esas No’lu ve 2023/2522 No’lu Kararı neticesinde, ÇED sürecinin devam edebileceğine ilişkin T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı’nın 15.04.2024 tarih ve 9223832 sayılı yazısı bulunmaktadır. Gelinen süreçte, yatırımcı firma talebi ile yeterlik sahibi müşavir firmada değişikliğe gidilme durumu hasıl olmuş. Sürecin bundan sonraki aşamasının Çınar Mühendislik Müşavirlik A.Ş. tarafından yürütülebileceği konusunda uygunluk alınmıştır.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.130658,
+      "lng": 27.312055
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r3bumpkntb1774176669799",
+    "tip": "Ekolojik İhlal",
+    "ad": "Birleşik Gayrimenkul - 277 Konut",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "Konut / Toplu Konut Projeleri\nİnşa Tarihi: 1 Ocak 1970\nBirleşik Gayrimenkul Geliştirme ve İnşaat A.Ş. - 277 Adet Konut (Villa - Rezidans) ve 7 Ticaret Ünite Gökçebel Mahallesi, N18c12a3d,N18c12a3b,N18c12a3a,N18c12a3c Pafta, 577 Ada, 184 Parsel Bodrum/MUĞLA\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.126039,
+      "lng": 27.320938
     },
     "alan_ha": 0,
     "durum": "Aktif",
