@@ -29030,5 +29030,95 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "r3fc7x33ht1774184947646",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Demircioğlu - Blok Mermer (S.202001131)",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nBlok Mermer (180.000 m3/yıl Pasa) Üretimi); Proje konusu faaliyet 25.11.2014 tarih ve 29186 sayılı Resmi Gazetede yayınlanan “Çevresel Etki Değerlendirmesi Yönetmeliği’ Ek-2 Listesi Madde 49 Madencilik projeleri a bendi (Değişik:RG-14/6/2018-30451) Madenlerin çıkarılması (Ek-1 listesinde yer almayanlar)” ve Madde 55 “Maden, petrol ve jeotermal kaynak arama projeleri, (Sismik, elektrik, manyetik, elektromanyetik, jeofizik vb. yöntemle yapılan aramalar hariç)” kapsamında kalmakta olup, ilgili yönetmelik gereği Ek-IV formatında Proje Tanıtım Dosyası hazırlanmıştır.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.328673,
+      "lng": 27.957802
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r6a8w2rp831774184982654",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Özcan - Mermer Ocağı (2021)",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nS.58762 (ER.2147667) Ruhsat II-B Grup Maden (Mermer) Ocağı Kapasite Artışı İşletme Projesi; Muğla İli, Yatağan İlçesi, Kozağaç Mahallesi; Proje konusu, faaliyet sahibi MEHMET ÖZCAN tarafından Muğla İli, Yatağan ilçesi, Kozağaç Mahallesinde bulunan S.58762 (ER.2147667) numaralı sahada kapasite artışı planlanan açık ocak işletme usulü üretim projesidir\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.324168,
+      "lng": 27.969818
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r81sqg648g1774185193083",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Simay – Mermer (ER.3328240)",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje konusu, faaliyet sahibi SİMAY MADENCİLİK İNŞAAT DANIŞMANLIK SANAYİ VE TİCARET ANONİM ŞİRKETİ tarafından Muğla İli, Milas İlçesi, Korucuk Mahallesi Mevkii’nde bulunan S.201600232 (ER.3328240) numaralı sahada planlanan maden arama ve açık ocak işletme usulü üretim projesidir\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 37.313588,
+      "lng": 27.955828
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "ruri42ggvc1774185269207",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "BA DE Grup - Mermer (ER.3384159)",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProjeye konu faaliyet; Muğla İli, Milas İlçesi, Korucuk Mahallesi Mevkii’nde BA DE Grup Madencilik İnşaat ve Ticaret Limited Şirketi tarafından 201901148 (Er.3384159) numaralı ruhsat sahasında planlanan II-B Grup (Mermer) Maden Ocağı İşletme projesidir. Aynı şirkete ait S.201901157 (ER: 3384158) Ruhsat Nolu II B Grubu Maden (Mermer) Ocağı ile S.201901148 (ER.3384159) Ruhsat Numaralı Sahada II. Grup (Mermer) Maden Ocağı İşletme Projelerin ruhsat ve ÇED alanlar birbirine bitişik\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.323212,
+      "lng": 27.938147
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rl91ircry01774185301233",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Türker Çınar - Mermer - Milas - 2021",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nS.201901735 (ER.3386605) Ruhsat II-B Grup Maden (Mermer) Ocağı Arama ve İşletme Projesi; Muğla İli, Milas İlçesi, Kayabaşı Mahallesi Mevkii;\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.342048,
+      "lng": 27.936687
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
