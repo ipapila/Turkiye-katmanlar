@@ -23068,8 +23068,8 @@
     "ilce": "Milas",
     "aciklama": "Yasal güvence altındaki tescilli zeytinlik alanları imara açılarak kaçak yapılaşmaya konu edildi; Zeytin Kanunu ihlali kapsamında davalar açıldı.",
     "koordinatlar": {
-      "lat": 37.210644,
-      "lng": 27.929993
+      "lat": 37.173175,
+      "lng": 27.860899
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -28915,6 +28915,42 @@
     "koordinatlar": {
       "lat": 37.134319,
       "lng": 27.8936
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "ru4sngkekl1774184185546",
+    "tip": "RES",
+    "ad": "Lodos - RES (2022 - iptal)",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nProje Muğla İli, Milas ilçesi Kabaağaç ve Yoğunoluk mevkilerinde (Sandal ve Kartal dağı) kalacak şekilde [10 x (4.800kWm, 4.800kWe) + 1 x (1.500kWm, 1.500kWe)] toplamda (49,5 MWm/49,5 MWe) 11 adet rüzgâr türbini olarak planlanmıştır. 3 Mayıs 2023 ÇED süreci İADE/İPTAL edilmiştir\nHalkın Katılım Toplantısı",
+    "koordinatlar": {
+      "lat": 37.185621,
+      "lng": 27.931366
+    },
+    "alan_ha": 0,
+    "durum": "İptal",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rmkwafnpgt1774184258860",
+    "tip": "HES",
+    "ad": "Bodrum Barajı",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "Su / İçme Kullanma Sulama Barajları\nİnşa Tarihi: 1 Ocak 1970\nDSİ (Devlet Su İşleri) Genel Müdürlüğü, DSİ 21. Aydın Bölge Müdürlüğü tarafından Muğla İli Milas İlçesi ile Bodrum İlçesi sınırları içerisinde Bodrum Yarımadası’nın içmesuyunu temini amacıyla Kayaderesi Çayı üzerinde Bodrum Barajı’nın yapılması planlanmaktadır. ÇED olumlu kararı T.C. Muğla 1. İdsari Mahkemesi tarafından 21.3.2023 tarihinde ESAS NO : 2022/156 KARAR NO : 2023/691 ile oy birliğile iptal edildi . 2009/7 genelgesi kapsamında ÇED süreci devam ettirildi ve 11.11.2024 tarihinde güncellenen ÇED raporu yayımlandı, 22.11.2024'te İnceleme Değerlendirme Kurul toplantısı yapıldı ve 29.4.2025'te tekrar projeye ÇED olumlu kararı verildi.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.218573,
+      "lng": 27.948875
     },
     "alan_ha": 0,
     "durum": "Aktif",
