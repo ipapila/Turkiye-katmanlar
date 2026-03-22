@@ -19221,23 +19221,6 @@
     "ekolojik_ihlal": false
   },
   {
-    "id": "rlq54eza3s1774074019083",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "Giresun",
-    "aciklama": "Şiddetli yağış Giresun'u besleyen dereleri taşırdı; Dereli ilçesinde köprüler yıkıldı, evler sürüklendi.",
-    "koordinatlar": {
-      "lat": 39.75,
-      "lng": 40.98
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "ekolojik_ihlal": false
-  },
-  {
     "id": "rhl8wvhtct1774074019083",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
@@ -19343,16 +19326,17 @@
     "id": "rg1iz7qo2q1774074019083",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
-    "il": "Hatay / Adana",
+    "il": "Adana",
+    "ilce": "Ceyhan",
     "aciklama": "Nisan yağışları Hatay ve Adana'da büyük taşkınlara yol açtı; yollar kapandı, tarım arazileri hasar gördü.",
     "koordinatlar": {
-      "lat": 37.06,
-      "lng": 36.34
+      "lat": 36.995972,
+      "lng": 36.01593
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
     "ekolojik_ihlal": false
   },
@@ -19565,15 +19549,16 @@
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
     "il": "Bursa",
+    "ilce": "Nilüfer",
     "aciklama": "Nisan 2024'te kısa sürede düşen aşırı yağış Bursa'da ani sel oluşturdu; araçlar sürüklendi, bodrum katları su altında kaldı.",
     "koordinatlar": {
-      "lat": 40.1826,
-      "lng": 28.7372
+      "lat": 40.13899,
+      "lng": 28.855591
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
     "ekolojik_ihlal": false
   },
@@ -19616,16 +19601,17 @@
     "id": "ri4vapu0sl1774074019083",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
-    "il": "Gaziantep / Şanlıurfa / Diyarbakır / Adıyaman",
+    "il": "Gaziantep",
+    "ilce": "Nizip",
     "aciklama": "2024 yılının rekor sıcaklıkları Güneydoğu'yu vurdu; tarım ürünleri yandı, hastaneye kaldırılan hasta sayısı arttı.",
     "koordinatlar": {
-      "lat": 37.02,
-      "lng": 39.75
+      "lat": 37.07271,
+      "lng": 37.834167
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
     "ekolojik_ihlal": false
   },
@@ -19633,16 +19619,17 @@
     "id": "rzhge7j56n1774074019083",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
-    "il": "Uşak",
+    "il": "Kütahya",
+    "ilce": "Gediz",
     "aciklama": "AFAD'ın Ocak 2025'te açıkladığı 2024 yıl bilanço verilerine göre Uşak başta olmak üzere pek çok ilde sel müdahalesi yapıldı.",
     "koordinatlar": {
-      "lat": 39.4144,
-      "lng": 28.75
+      "lat": 38.814031,
+      "lng": 29.311523
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
     "ekolojik_ihlal": false
   },
@@ -19651,15 +19638,16 @@
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
     "il": "Hatay",
+    "ilce": "Belen",
     "aciklama": "Deprem yaralarını sarmakta olan Hatay, 2024 Mart ayı yağışlarında yeniden sel baskınıyla karşılaştı; konteyner kentler su baskınından etkilendi.",
     "koordinatlar": {
-      "lat": 36.802,
-      "lng": 35.908
+      "lat": 36.438961,
+      "lng": 36.123047
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
     "ekolojik_ihlal": false
   },
@@ -19684,16 +19672,17 @@
     "id": "rjededbklf1774074019083",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
-    "il": "Samsun / Ordu",
+    "il": "Ordu",
+    "ilce": "Altınordu",
     "aciklama": "2025 yaz başında Karadeniz'de şiddetli yağışlar yeniden taşkına neden oldu; fındık bahçeleri hasar gördü.",
     "koordinatlar": {
-      "lat": 41.22,
-      "lng": 36.34
+      "lat": 40.967456,
+      "lng": 37.858887
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
     "ekolojik_ihlal": false
   },
@@ -20429,23 +20418,6 @@
     "ekolojik_ihlal": false
   },
   {
-    "id": "rcwihv4w0s1774076919857",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "Gaziantep",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.9626,
-      "lng": 37.5067
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "ekolojik_ihlal": false
-  },
-  {
     "id": "rffkiifykg1774076919857",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
@@ -20544,24 +20516,6 @@
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
-    "ekolojik_ihlal": false
-  },
-  {
-    "id": "r9d0sjz3hj1774103553422",
-    "tip": "İklim Olayları",
-    "ad": "Kirazlı Altın Madeni",
-    "il": "Çanakkale",
-    "aciklama": "Çanakkale Bayramiç'te Alamos Gold iştiraki tarafından geliştirilen açık ocak altın projesi. Çevresel tartışmalar nedeniyle durdu.",
-    "koordinatlar": {
-      "lat": 39.8583,
-      "lng": 26.975
-    },
-    "alan_ha": 0,
-    "durum": "Ruhsat Askıda / Tartışmalı",
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
@@ -20897,17 +20851,17 @@
     "tip": "İklim Olayları",
     "ad": "Balya Kurşun-Çinko Madeni",
     "il": "Balıkesir",
+    "ilce": "",
     "aciklama": "Antik çağdan beri işletilen tarihi kurşun-çinko-gümüş madeni. 19-20. yüzyılda yabancı şirketlerin yönetiminde önemli üretim yapılmıştır.",
     "koordinatlar": {
-      "lat": 40.7628,
-      "lng": 28.4869
+      "lat": 39.981329,
+      "lng": 28.053589
     },
     "alan_ha": 0,
-    "durum": "Kapalı (Tarihsel)",
+    "durum": "",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
     "ekolojik_ihlal": false
   },
   {
@@ -27372,17 +27326,17 @@
     "tip": "İklim Olayları",
     "ad": "Karagöl-Sahara Milli Parkı",
     "il": "Artvin",
+    "ilce": "Şavşat",
     "aciklama": "Karagöl + Sahara Yaylası iki sahadan oluşur. Çevresindeki köylerde geleneksel kütük evler. Ortaçağ kaya manastırına 1.5 saatlik yürüyüş.",
     "koordinatlar": {
-      "lat": 41.15,
-      "lng": 42.4833
+      "lat": 41.216112,
+      "lng": 42.457352
     },
     "alan_ha": 3251,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
     "ekolojik_ihlal": false
   },
   {
@@ -27678,17 +27632,17 @@
     "tip": "İklim Olayları",
     "ad": "Malazgirt Meydan Muharebesi Tarihi Milli Parkı",
     "il": "Muş",
+    "ilce": "Malazgirt",
     "aciklama": "26 Ağustos 1071'de Selçuklu Sultanı Alp Arslan'ın Bizans imparatorunu esir aldığı tarihi zafer alanı. Türklerin Anadolu'ya yerleşmesinin dönüm noktası.",
     "koordinatlar": {
-      "lat": 38.9333,
-      "lng": 42.5333
+      "lat": 39.120472,
+      "lng": 42.540436
     },
     "alan_ha": 238,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
     "ekolojik_ihlal": false
   },
   {
@@ -27952,6 +27906,384 @@
     "koordinatlar": {
       "lat": 37.5,
       "lng": 36.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "ruhgd8coqd1774164784470",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Burdur / Afyonkarahisar",
+    "aciklama": "Burdur Gölü son yıllardaki kuraklığın simgesi hâline geldi; göl yüzeyi dramatik biçimde daraldı, bölge ekosistemi tehlike altına girdi.",
+    "koordinatlar": {
+      "lat": 37.52,
+      "lng": 29.12
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rl5bmv5xiy1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Ocak 2026'da Antalya Kaş ilçesinde etkili olan hortum ve fırtına, zeytinlik ve bademlik alanlarda büyük tahribata yol açtı. TZOB verilerine göre 5.000 dekardan fazla tarım arazisi zarar gördü, 1.437 çiftçi etkilendi. [citation:1]",
+    "koordinatlar": {
+      "lat": 36.2333,
+      "lng": 29.7833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rirf5q7a801774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Ocak 2026'da Manavgat ilçesinde etkili olan hortum, tarım alanlarına ve seralara zarar verdi. [citation:1]",
+    "koordinatlar": {
+      "lat": 36.7833,
+      "lng": 31.7833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rro9dz9f131774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Samsun",
+    "ilce": "Canik",
+    "aciklama": "Ocak 2026 son haftasında Samsun, Sinop, Kastamonu, Ordu, Giresun, Trabzon'da güney yönlerden kuvvetli rüzgar ve fırtına etkili oldu. İçişleri Bakanlığı 9 il için 'sarı' kodlu uyarı yayımladı. [citation:1]",
+    "koordinatlar": {
+      "lat": 41.182788,
+      "lng": 36.342773
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rg8cbvjhd21774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "2025 yılında Antalya'da aşırı yağışlar sonucu meydana gelen sel felaketi, altyapı hasarına ve tarım arazilerinde kayıplara yol açtı.",
+    "koordinatlar": {
+      "lat": 36.9,
+      "lng": 32
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r0xnka7g9o1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "2021 yazında Antalya Manavgat'ta çıkan orman yangını, Türkiye'nin en büyük orman yangınlarından biridir. 60.000 hektardan fazla alan kül oldu, çok sayıda can ve mal kaybı yaşandı.",
+    "koordinatlar": {
+      "lat": 40.65,
+      "lng": 27.85
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r7bh98nu0h1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "2021 Manavgat yangınında en ağır tahribatın yaşandığı bölge.",
+    "koordinatlar": {
+      "lat": 36.65,
+      "lng": 31.6
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rn330h05l11774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "2021 yazında Antalya merkezde etkili olan orman yangını, yerleşim alanlarını tehdit etti.",
+    "koordinatlar": {
+      "lat": 36.9,
+      "lng": 30.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rh505lmx691774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "2021 yangın sezonunda Akseki ilçesinde çıkan yangın, ormanlık alanlarda tahribata yol açtı.",
+    "koordinatlar": {
+      "lat": 36.75,
+      "lng": 31.65
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rk5ui09ul31774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Antalya Alanya ilçesinde 2021 yazında çıkan yangın, turistik bölgeleri etkiledi.",
+    "koordinatlar": {
+      "lat": 37.2,
+      "lng": 31.85
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rkfa6w29nc1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Marmaris'te çıkan orman yangını, 2021 yangın sezonunda Muğla'da en büyük tahribata yol açan yangınlardan biridir.",
+    "koordinatlar": {
+      "lat": 36.9,
+      "lng": 29.45
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r1pt6ginbh1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Yatağan ilçesinde çıkan yangın, orman ve tarım alanlarını etkiledi.",
+    "koordinatlar": {
+      "lat": 37.25,
+      "lng": 29.15
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r0957yktcw1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Köyceğiz ilçesinde çıkan yangın, sulak alan ekosistemine yakın bölgelerde etkili oldu.",
+    "koordinatlar": {
+      "lat": 37.05,
+      "lng": 28.65
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rgdl0p36si1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "2021 yangın sezonunda Isparta'da çıkan yangın, ormanlık alanlarda hasara yol açtı.",
+    "koordinatlar": {
+      "lat": 37.85,
+      "lng": 30.55
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rcgdif6kwz1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Gündoğmuş ilçesinde çıkan yangın, ormanlık alanlarda etkili oldu.",
+    "koordinatlar": {
+      "lat": 37.0667,
+      "lng": 32.1833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rgv7kp02371774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Giresun'da aşırı yağışlar sonucu meydana gelen sel ve heyelan felaketi, çok sayıda can kaybına ve büyük altyapı hasarına yol açtı.",
+    "koordinatlar": {
+      "lat": 40.95,
+      "lng": 38.25
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "ryxd7xfufd1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Tunceli'de aşırı yağışlar sonucu sel ve heyelan meydana geldi.",
+    "koordinatlar": {
+      "lat": 39.1667,
+      "lng": 39.4667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rum97fogsf1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Ordu'da aşırı yağışlar sonucu meydana gelen sel ve heyelan felaketi, çok sayıda can kaybına ve altyapı hasarına yol açtı.",
+    "koordinatlar": {
+      "lat": 41,
+      "lng": 37.3833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rvru3krzfg1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "Tokat",
+    "ilce": "",
+    "aciklama": "Tokat'ta aşırı yağışlar sonucu sel meydana geldi, tarım arazileri zarar gördü.",
+    "koordinatlar": {
+      "lat": 40.313043,
+      "lng": 36.732788
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r37mrlue2i1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "İzmir'de aşırı yağışlar sonucu sel ve su baskınları meydana geldi.",
+    "koordinatlar": {
+      "lat": 38.2167,
+      "lng": 27.3667
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r7inu5pcxf1774165411442",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Konya Kapalı Havzası'nda yeraltı suyu aşırı çekimi ve iklim değişikliği kaynaklı kuraklık nedeniyle Meke Gölü tamamen kurumuş, obruk oluşumları artmıştır. Kuraklık hâlen devam etmektedir.",
+    "koordinatlar": {
+      "lat": 39,
+      "lng": 33
     },
     "alan_ha": 0,
     "durum": "Aktif",
