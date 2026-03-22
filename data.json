@@ -29120,5 +29120,59 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "rqiumwj0a61774185360051",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.312521,
+      "lng": 27.95204
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rryom0axmq1774185377346",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.314032,
+      "lng": 27.983937
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rvduhfln601774185429594",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Egetaş – Doğaltaş (ER 3413857)",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nMuğla İli, Yatağan İlçesi, Gökgedik Köyü RN:202200050 (ER:3413857) numaralı numaralı maden sahasında ruhsat sahibi EGETAŞ LOJİSTİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ tarafından “RN:202200050 (ER:3413857) Ruhsat Numaralı II-B Grubu Doğaltaş Ocağı Ve İşleme Tesisi” projesinin gerçekleştirilmesi planlanmaktadır.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.362381,
+      "lng": 28.019686
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
