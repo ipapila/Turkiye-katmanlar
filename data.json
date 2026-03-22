@@ -28562,5 +28562,23 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "rmndh3gfa21774176361049",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Muttaş - Gümbet Yat/Tekne Bağlama İskelesi",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "Kıyı / Limanlar (Yat Limanları Dahil)\nİnşa Tarihi: 1 Ocak 1970\nYat/Tekne Bağlama İskelesi Bodrum, Eskiçeşme Mahallesi, Gümbet Mevkii;\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 37.030514,
+      "lng": 27.403679
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
