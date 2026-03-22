@@ -28724,5 +28724,95 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "rbtjba6rhn1774182996109",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Demireller - Maden Kırma - Milas - 2021",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / III. ve IV. Grup Maden Kırma Eleme Yıkama\nİnşa Tarihi: 1 Ocak 1970\nKırma- Eleme- Yıkama Ve Depolama Tesisi Projesi; Milas İlçesi, Güllük Mahallesi, 106 Ada 31 parsel ve 106 Ada 32 Parsel; NOT: Korunan Alanlar Proje konusu faaliyet alanı korunan alanlar kapsamında kalmamakta olup, faaliyet alanına en yakın korunan alan 57 metre mesafede bulunan Güllük Deltasıdır.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.247001,
+      "lng": 27.625251
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rurni6sr4n1774183080201",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Er Madencilik - Dolamit - 2020",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / Maden Ocağı (Kömür Hariç)\nİnşa Tarihi: 1 Ocak 1970\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.18463,
+      "lng": 27.627439
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rtzsz29rfb1774183184824",
+    "tip": "RES",
+    "ad": "G Enerji – Sarpege RES",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nMuğla İli, Bodrum İlçesi, Mazı Mahallesi sınırları içerisinde, G Enerji Yatırımları San. ve Tic. A.Ş. tarafından, “Sarpege Rüzgar Enerji Santrali (10 Adet Türbin - 10 MWm / 10 MWe)” projesinin gerçekleştirilmesi planlanmaktadır. Proje Mayıs 2023 tarihinde sunulmuştur, ancak ÇED raporu özel formatı verildikten sonra 1 yıl içerisinde ÇED raporu sunulmadığı nedeniyle 13.9.2024 tarihinde iptal edildi. Eylül 2024 proje aynı koordinatlar ile tekrar sunuldu.\nİnceleme Değerlendirme Kurulu Toplantısı",
+    "koordinatlar": {
+      "lat": 37.026403,
+      "lng": 27.650528
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rh033csl861774183226763",
+    "tip": "RES",
+    "ad": "EN2 – Arturna RES",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nMuğla İli, Bodrum ve Milas İlçeleri sınırları içerisinde “EN 2 Rüzgar Enerjisi Yatırım Anonim Şirketi” tarafından “Arturna Rüzgar Enerji Santralı (23 Adet Türbin - 96,6 MWm / 69 MWe) PROJESİ” nin yapılması ve işletilmesi planlanmaktadır. 7 Şubat 2023 tarihinde başlayan proje için 8 Mart 2023 tarihinde Halkın Katılım Toplantısı gerçekleşti, ancak proje 24 Nisan 2023 tarihinde iptal edildi. Proje 27 Nisan 2023’te yeniden başlatıldı. İki projede koordinat ve kapasite farkı yoktur.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.038736,
+      "lng": 27.698936
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "ratw05ki0o1774183294104",
+    "tip": "RES",
+    "ad": "YEKA yenilenebilir enerji kaynak alanları",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "21 Mart 2021 tarihinde yenilenebilir enerji kaynak alanları Resmi Gazete'de yayımlandı. Muğla İlinde bulunanlar haritaya işlendi. Arturna YEKA için 14.7.2023 tarihinde koordinat değişikliğine gidildi.\nÇED Durumu Bilinmiyor",
+    "koordinatlar": {
+      "lat": 37.029966,
+      "lng": 27.698936
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
