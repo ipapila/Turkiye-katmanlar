@@ -28958,5 +28958,77 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "rw5apbig6f1774184575969",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Akar İnşaat - Mermer Ocağ",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nS.202001188 (ER.3396414) No.Lu Ruhsat IIB Grup Maden (Mermer) Ocağı Arama Ve İşletme Projesi; Muğla İli, Milas İlçesi, Çamlıbelen Mahallesi Mevkii\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.203945,
+      "lng": 27.896175
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r9tvyzntjw1774184649171",
+    "tip": "Maden Ocağı",
+    "ad": "İbrahim Yırık - Boksit",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProjeye konu olan faaliyet sahibi İbrahim Yırık tarafından Muğla İli, Yatağan İlçesi, Bencik Mahallesi civarında bulunan S.201700746 (ER.3354849) ruhsat numaralı sahada planlanan IV.Grup Maden (Boksit) Ocağı ve Kırma-Eleme-Yıkama Tesisi Alan Artışı projesidir.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.256839,
+      "lng": 27.952652
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rkmf978kjo1774184765194",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mustafa Yüksel - Mermer Ocağı",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nS.20053864 (ER.3066103) No.lu II-A Grubu İşletme Ruhsatlı Sahada Mermer Ocağı Alansal Artışı, Kalker Ocağı, Kırma Eleme Tesisi Ve Mermer Kesme İşleme Tesisi Projesi; Muğla İli, Milas İlçesi, Menteş Mahallesi, Dömete Sırtı Mevkii\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.283887,
+      "lng": 27.839699
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rttbeh8k9f1774184851165",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Akar İnşaat - Mermer Ocağı-1188",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nS.202001188 (ER.3396414) No.Lu Ruhsat IIB Grup Maden (Mermer) Ocağı Arama Ve İşletme Projesi; Muğla İli, Milas İlçesi, Çamlıbelen Mahallesi Mevkii\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.247821,
+      "lng": 27.90081
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
