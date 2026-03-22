@@ -28670,5 +28670,23 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "r4twi5psp41774181525564",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Cennet Koyu – Konaklama Tesisi",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "Turizm / Turistik Tesisler\nİnşa Tarihi: 1 Ocak 1970\nDosyaya konu proje; Muğla İli, Bodrum İlçesi, Göl Mahallesi, Gökburun Mevkii, 306 ada 1 parselde, Cengiz İnşaat Sanayi ve Ticaret A.Ş. tarafından planlanan Turizm Konaklama Tesisi projesidir.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.122275,
+      "lng": 27.430115
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
