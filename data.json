@@ -28311,5 +28311,221 @@
     "eklenme": "2026-03-22",
     "kaynak": "https://seckinhabertv.com/haber-bilecikte-koylulerden-gubretasa-maden-tepkisi-buyuyor-videolu-haber-173557.html",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "rxhgtso8dv1774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Elmalı - Lyca Bej / Hera Beige Bölgesi",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.1,
+      "lng": 29.95
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "riiimxf65m1774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "İbradı - Naya / Aytap Emperador Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.1,
+      "lng": 31.42
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r03irveyfv1774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "İbradı - Derebucak Emperador Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.08,
+      "lng": 31.4
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r77zyejeje1774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Finike - Alacadağ Limra / Limestone Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.28,
+      "lng": 30.18
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rkmboxeh221774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Finike - Adalya Limestone / Finike Ocağı",
+    "il": "Antalya",
+    "ilce": "Finike",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.367825,
+      "lng": 30.107131
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r88huf7rqo1774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kaş - Gökçeyazı Mermer Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.25,
+      "lng": 29.65
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rwsb4trb6b1774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Korkuteli - Capuccino Mermer Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.05,
+      "lng": 30.2
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "ruqfirdjmm1774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Akseki - Jupiter Black Mermer Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.15,
+      "lng": 31.75
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rmvc50s6ho1774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Demre - Genel Taş/Mermer Yoğun Bölge",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.26,
+      "lng": 29.98
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r9dzyuz4c01774170436264",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Finike - Boldağ Mevkii Planlı/Var Olan Ocaklar",
+    "il": "Antalya",
+    "ilce": "Finike",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.275832,
+      "lng": 30.095243
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rzxrw337x01774171343563",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Siyanürlü altın madenciliği ve ormansızlaşma etkisi.",
+    "koordinatlar": {
+      "lat": 39.704,
+      "lng": 26.804
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rqz5bjcwp21774171343564",
+    "tip": "İklim Olayları",
+    "ad": "İklim Olayları",
+    "il": "",
+    "aciklama": "Aşırı kirlilik ve iklim etkisiyle müsilaj oluşumu.",
+    "koordinatlar": {
+      "lat": 40.2,
+      "lng": 29
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
   }
 ]
