@@ -23138,7 +23138,7 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
     "ekolojik_ihlal": false
   },
@@ -23176,7 +23176,7 @@
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "Kaçak İnşaat Atığı Dökümü",
-    "ekolojik_ihlal": false
+    "ekolojik_ihlal": true
   },
   {
     "id": "rkbjhp5qho1774103867108",
@@ -27852,5 +27852,113 @@
     "eklenme": "2026-03-22",
     "kaynak": "https://www.instagram.com/akcaysulakalanisavunmasi?igsh=dmRsZ3lycHZ6aWN5",
     "ekolojik_ihlal": true
+  },
+  {
+    "id": "rhn927r4df1774164595019",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "Cerattepe bölgesinde yürütülen altın madeni faaliyetleri, ormansızlaşma, toprak ve su kirliliği ile biyoçeşitlilik kaybına yol açmaktadır. Maden sahası, Karadeniz'in eşsiz yağmur ormanları ekosistemi içinde yer almaktadır.",
+    "koordinatlar": {
+      "lat": 41.12666,
+      "lng": 41.18998
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r1nlfkdfdn1774164595019",
+    "tip": "Termik Reaktör",
+    "ad": "Termik Reaktör",
+    "il": "",
+    "aciklama": "Yeniköy ve Kemerköy termik santrallerine kömür sağlamak amacıyla Akbelen Ormanı'nda ağaç kesimi ve hafriyat yapılmaktadır. Ormanın tamamına yakını yok edilmiş, yerel halk ve çevre örgütlerinin direnişi sürmektedir.",
+    "koordinatlar": {
+      "lat": 37.14332,
+      "lng": 27.98002
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rb0opxy2mj1774164595019",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "Çoruh Nehri üzerinde inşa edilen Yusufeli Barajı, vadinin tamamen sular altında kalmasına, tarihi Yusufeli ilçesinin taşınmasına ve tarım arazileri ile ormanlık alanların yok olmasına neden olmuştur.",
+    "koordinatlar": {
+      "lat": 40.78,
+      "lng": 41.57
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "riwoilii0l1774164595019",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "Aliağa'da bulunan rafineri, petrokimya tesisleri, gemi söküm alanları ve enerji santralleri hava, su ve toprak kirliliğine yol açmaktadır. Bölge halkında kanser ve solunum yolu hastalıkları oranları yüksektir.",
+    "koordinatlar": {
+      "lat": 38.8,
+      "lng": 26.9
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rtpg7zdu771774164595019",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "İstanbul'un kuzeyindeki orman alanları, üçüncü köprü, havalimanı, yeni yerleşimler ve maden ocakları nedeniyle parçalanmakta ve yok olmaktadır. Su havzaları tehdit altındadır.",
+    "koordinatlar": {
+      "lat": 41.13,
+      "lng": 28.97
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rfu18rx5wv1774164595019",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "Kahramanmaraş'ın Andırın, Onikişubat ve Dulkadiroğlu ilçelerinde faaliyet gösteren maden ocakları, ormanlık alanların tahribatına, dere yataklarının kirlenmesine ve toz sorununa neden olmaktadır.",
+    "koordinatlar": {
+      "lat": 37.5,
+      "lng": 36.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null,
+    "ekolojik_ihlal": false
   }
 ]
