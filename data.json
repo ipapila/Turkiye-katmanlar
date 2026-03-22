@@ -20456,15 +20456,16 @@
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
     "il": "Burdur",
+    "ilce": "Çeltikçi",
     "aciklama": "Burdur Çeltikçi ilçesinde kurulması planlanan RMS-A doğal gaz dağıtım tesisi için Konak Mahallesi'ndeki 162 ada, 12 parsel numaralı taşınmaz EPDK tarafından Hazine adına tescil edilmek üzere acele kamulaştırılacak.",
     "koordinatlar": {
-      "lat": 40.18,
-      "lng": 30.07
+      "lat": 37.532599,
+      "lng": 30.488434
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
     "ekolojik_ihlal": false
   },
@@ -28291,6 +28292,24 @@
     "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null,
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r9l77rcjax1774166165087",
+    "tip": "Maden Ocağı",
+    "ad": "Altın Madeni",
+    "il": "Bilecik",
+    "ilce": "Pazaryeri",
+    "aciklama": "Bilecik’in Pazaryeri ilçesine bağlı Bozcaarmut köyünde, Gübretaş tarafından yürütülen altın arama sondaj çalışmalarına yönelik tepkiler her geçen gün artıyor. Bölgedeki gerginlik, komşu köylerin de sürece dahil olmasıyla büyümeye başladı.\nDaha fazlasını keşfedin\nGazeteler\nGazete\n\nSon olarak Kınık ve Alınca köyü sakinleri, yürütülen çalışmalar hakkında kendilerine bugüne kadar hiçbir resmi bilgilendirme yapılmadığını öne sürerek firmaya tepki gösterdi. Köylüler, Bozcaarmut ile aralarında yaklaşık 8 kilometre mesafe bulunmasına rağmen yapılacak maden faaliyetlerinin kendi yaşam alanlarını da doğrudan etkileyeceğini dile getirdi.\n\n“Toprağımızı, suyumuzu riske atmayın” diyerek seslerini yükselten vatandaşlar, bölgelerinde altın madeni istemediklerini açık bir dille ifade etti. Özellikle tarım ve hayvancılıkla geçimini sağlayan köylüler, olası bir maden faaliyetinin doğaya ve yeraltı su kaynaklarına zarar vereceğinden endişe ediyor.",
+    "koordinatlar": {
+      "lat": 39.98054,
+      "lng": 29.824705
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "https://seckinhabertv.com/haber-bilecikte-koylulerden-gubretasa-maden-tepkisi-buyuyor-videolu-haber-173557.html",
     "ekolojik_ihlal": false
   }
 ]
