@@ -28580,5 +28580,23 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "r37zk0yi7g1774176436096",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ant Aspat – Konaklama (Radisson Collection Hotel)",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "Turizm / Turistik Tesisler\nİnşa Tarihi: 1 Ocak 1970\nDosyaya konu proje; Muğla İli, Bodrum İlçesi, Akyarlar Mahallesi, Tuzla Aspat Mevkii, 404 ada 1 numaralı parsel, 407 ada 2, 4 ve 6 numaralı parsellerde, ANT ASPAT Yapı ve Turizm A.Ş. tarafından planlanan Turizm Konaklama Tesisi ve Toplu Konut Projesi ile Yat Yanaşma Yeri ve Mahmuz Projesidir. Proje alanında 2018’den beri çeşitli ÇED süreçleri yürütülmüş olup, ÇED gerekli değildir kararlar alınmıştır. 27.08.2018 tarihinde; 07.06.2018 tarih ve E.2018177 sayılı ÇED Gerekli Değildir ve 27.03.2020 tarihinde, 24.01.2020 tarih ve E.202037 sayılı “ÇED Gerekli Değildir” kararların iptaline istinaden Türk Mühendis ve Mimar Odaları Birliği tarafından davalar açılmıştır. Temyiz sonucunda her iki karar kesin olarak iptal edilmiştir. “Turizm Konaklama Tesisi ve Toplu konut Proje Revizyonu ve Yat Yanaşma Yeri ve Mahmuz Projesi” hakkında Muğla Valiliği’nin vermiş olduğu 02.01.2023 tarih ve çevresel Etki Değerlendirmesi Gerekli Değildir” iptaline istinaden Türk Mühendis ve Mimar Odaları Birliği ve Muğla Büyükşehir Belediyesi tarafından ayrı ayrı dava açılmıştır. Her iki davanın ilk mahkeme tarafından ret edilme kararları temyiz aşamasında bozulmuştur. ÇED alanı oluşturan parsellerin ve mahmuzun koordinatları karışık verildiğinden ancak yat yanaşma yeri haritaya yüklenmiştir.\nİnceleme Değerlendirme Kurulu Toplantısı",
+    "koordinatlar": {
+      "lat": 36.979724,
+      "lng": 27.311454
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
