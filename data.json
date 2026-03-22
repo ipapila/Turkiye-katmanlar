@@ -28814,5 +28814,113 @@
     "eklenme": "2026-03-22",
     "kaynak": "Manuel",
     "ekolojik_ihlal": false
+  },
+  {
+    "id": "r2u267e4b71774183339897",
+    "tip": "RES",
+    "ad": "EN2 – Arturna II RES",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nMuğla İli, Bodrum ve Milas İlçeleri sınırları içerisinde “EN 2 Rüzgar Enerjisi Yatırım Anonim Şirketi” tarafından “Arturna II Rüzgar Enerji Santralı (22 Adet Türbin – 92,4 MWm / 66 MWe) PROJESİ” nin yapılması ve işletilmesi planlanmaktadır. 7 Şubat 2023 tarihinde başlayan proje için 8 Mart 2023 tarihinde Halkın Katılım Toplantısı gerçekleşti, ancak proje 24 Nisan 2023 tarihinde iptal edildi. Proje 27 Nisan 2023’te yeniden başlatıldı. İki proje arasında koordinat ve kapasite farkı yoktur.",
+    "koordinatlar": {
+      "lat": 37.039558,
+      "lng": 27.718849
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rhhopni5zq1774183456292",
+    "tip": "Termik Reaktör",
+    "ad": "Yeniköy Termik Santralı (1986) ve Kemerköy (Gökova) TS (1994) Kömür Sahaları",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / Kömür Ocağı\nİnşa Tarihi: 1 Ocak 1970\nNe termik santral ne bu proje altında girilen kömür ocaklar için bir ÇED süreci gerçekleşmedi! Ruhsat alanların koordinatları (durum Aralık 2020) yüklendi\nÇED Durumu Bilinmiyor",
+    "koordinatlar": {
+      "lat": 37.066684,
+      "lng": 27.877808
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rbewwx6jh51774183705733",
+    "tip": "HES",
+    "ad": "Bodrum Barajı",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "Su / İçme Kullanma Sulama Barajları\nİnşa Tarihi: 1 Ocak 1970\nDSİ (Devlet Su İşleri) Genel Müdürlüğü, DSİ 21. Aydın Bölge Müdürlüğü tarafından Muğla İli Milas İlçesi ile Bodrum İlçesi sınırları içerisinde Bodrum Yarımadası’nın içmesuyunu temini amacıyla Kayaderesi Çayı üzerinde Bodrum Barajı’nın yapılması planlanmaktadır. ÇED olumlu kararı T.C. Muğla 1. İdsari Mahkemesi tarafından 21.3.2023 tarihinde ESAS NO : 2022/156 KARAR NO : 2023/691 ile oy birliğile iptal edildi . 2009/7 genelgesi kapsamında ÇED süreci devam ettirildi ve 11.11.2024 tarihinde güncellenen ÇED raporu yayımlandı, 22.11.2024'te İnceleme Değerlendirme Kurul toplantısı yapıldı ve 29.4.2025'te tekrar projeye ÇED olumlu kararı verildi.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.058722,
+      "lng": 27.984216
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rys8o9lr4z1774183753770",
+    "tip": "HES",
+    "ad": "Kül Barajı",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.058602,
+      "lng": 27.89596
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r9mq802dyn1774183929908",
+    "tip": "GES",
+    "ad": "YK Elektrik – Kemerköy GES",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "Enerji / Güneş Enerji Santralleri\nİnşa Tarihi: 1 Ocak 1970\nYeniköy Kemerköy Elektrik Üretim ve Ticaret A.Ş. tarafından Muğla ili, Milas ilçesinde 684,65 MWm / 675,208 MWe mevcut kurulu gücüyle faaliyet gösteren “Kemerköy Termik Santrali” ne kendi maden ruhsat sahası dâhilinde olmak üzere toplam 25,9212 MWm / 25,9212 MWe gücünde olacak şekilde 2 poligonda (GES-1, GES-2) güneş enerjisi santrali (GES) ünitesi ilave edilmesi suretiyle “Kemerköy Termik Santrali Yardımcı Kaynak Güneş Enerji Santrali Projesi (25,9212 MWm / 25,9212 MWe – 28,74 ha) ‘nin gerçekleştirilmesi planlanmaktadır.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.080585,
+      "lng": 27.932053
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "r7k82x44pa1774183981386",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "YK Elektrik – Kalker Ocağı",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nYeniköy Kemerköy Elektrik Üretim ve Tic. A.Ş. tarafından Muğla İli, Milas İlçesi, Sekköy Mahallesi, Pirenlitepe Mevkii, sınırları dâhilinde gerçekleştirilmesi planlanan “S.72706 Kalker (Kireçtaşı) Ocağı ve Kırma Eleme Tesisi Kapasite Artışı” projesidir. Kalker (Kireçtaşı) Ocağı Malaklar İnş. Taah. Gıd. Mad. San. ve Tic. A.Ş tarafından işletilmektedir. Projenin ÇED alanı ruhsat alanın tamamını kapsamaktadır.\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 37.134319,
+      "lng": 27.8936
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
   }
 ]
