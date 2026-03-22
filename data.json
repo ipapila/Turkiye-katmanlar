@@ -14226,20 +14226,19 @@
   {
     "id": "ra290gjkyo1774037434486",
     "tip": "RES",
-    "ad": "RES (5 türbin, Muğla)",
+    "ad": "Bodrum Geriş Rüzgar Enerji Santrali RES (5 türbin, Muğla)",
     "il": "Muğla",
     "ilce": "Bodrum",
-    "aciklama": "(Birleştirilmiş 5 türbin, Muğla)",
+    "aciklama": "(Birleştirilmiş 5 türbin, Muğla)\nEnerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nRüzgar Elektrik Üretim A.Ş. tarafından Muğla ili, Bodrum ilçesi, İnlikaya Mahallesi, Karakuzu ve Geriş Mevkiinde kurulum çalışmaları devam eden Geriş RES (Rüzgar Enerji Santrali) Projesi’nde Revizyon planlanmaktadır. Ruhsat Alanının koordinatları 2017 Revizyon Projesinde bulunmadığından 2014 Proje Tanıtım Dosyasından alındı. Revizyon ile T8 nolu türbin iptal edilmiştir. Bazı türbinlerin yeri değiştirilmiştir.Halihazırda geçerli olan “ÇED Gerekli Değildir” kararındaki 13 türbin sayısı azalarak, 12 adet olmuştur. Ayrıca projenin kapasitesi yalnızca kullanılacak türbin tipi değiştirilerek 11,2 MWm’den 40,8 MWm’ye çıkarılmıştır.\nÇED Gerekli Değildir",
     "koordinatlar": {
-      "lat": 37.072615199999994,
-      "lng": 27.278619600000003
+      "lat": 37.0726152,
+      "lng": 27.2786196
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "8402546911",
-    "eklenme": "2026-03-19",
+    "eklenme": "2026-03-22",
     "kaynak": "Shapefile/GeoJSON",
-    "count": 5,
     "ekolojik_ihlal": false
   },
   {
@@ -20686,24 +20685,6 @@
     "ekolojik_ihlal": false
   },
   {
-    "id": "r808ii30dh1774103553422",
-    "tip": "Termik Reaktör",
-    "ad": "Yatağan Linyit Madeni",
-    "il": "Muğla",
-    "aciklama": "Muğla Yatağan ve Milas'taki Yeniköy linyit sahaları. Termik santral kirlilik gerekçesiyle kapatılmıştır.",
-    "koordinatlar": {
-      "lat": 37.3667,
-      "lng": 28.2333
-    },
-    "alan_ha": 0,
-    "durum": "Aktif (Termik santral kapatıldı, madene devam)",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
-    "ekolojik_ihlal": false
-  },
-  {
     "id": "rntxt51uyx1774103553422",
     "tip": "İklim Olayları",
     "ad": "Tuz Gölü Kaya Tuzu / Tuz Üretimi",
@@ -22328,17 +22309,17 @@
     "tip": "Taş-Mermer Ocağı",
     "ad": "Milas Mermer Ocakları",
     "il": "Muğla",
+    "ilce": "Menteşe",
     "aciklama": "Dünyaca ünlü Milas mermerleri bu bölgede çıkarılır.",
     "koordinatlar": {
-      "lat": 37.306,
-      "lng": 28.4244
+      "lat": 37.312223,
+      "lng": 28.403478
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
     "ekolojik_ihlal": false
   },
   {
@@ -28538,6 +28519,24 @@
     "koordinatlar": {
       "lat": 37.341503,
       "lng": 28.047066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-22",
+    "kaynak": "Manuel",
+    "ekolojik_ihlal": false
+  },
+  {
+    "id": "rjz0ppx13b1774174148853",
+    "tip": "Maden Ocağı",
+    "ad": "I., II. ve V. Grup Madenler / Maden Ocağı (Kömür Hariç)",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "I., II. ve V. Grup Madenler / Maden Ocağı (Kömür Hariç)\nİnşa Tarihi: 1 Ocak 1970\nProje: Doğaltaş (Kalker) Ocağı Kapasite Artırım Faaliyeti (2014) Adresi: Muğla İli Bodrum İlcesi, Ortakent Mahallesi, Kapudere Mevkii,\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.071683,
+      "lng": 27.342224
     },
     "alan_ha": 0,
     "durum": "Aktif",
