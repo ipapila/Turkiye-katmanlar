@@ -28028,18 +28028,18 @@
     "id": "r7bh98nu0h1774165411442",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
-    "il": "",
+    "il": "Antalya",
+    "ilce": "Manavgat",
     "aciklama": "2021 Manavgat yangınında en ağır tahribatın yaşandığı bölge.",
     "koordinatlar": {
-      "lat": 36.65,
-      "lng": 31.6
+      "lat": 36.861493,
+      "lng": 31.36734
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
     "ekolojik_ihlal": false
   },
   {
@@ -28064,18 +28064,18 @@
     "id": "rh505lmx691774165411442",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
-    "il": "",
+    "il": "Antalya",
+    "ilce": "Akseki",
     "aciklama": "2021 yangın sezonunda Akseki ilçesinde çıkan yangın, ormanlık alanlarda tahribata yol açtı.",
     "koordinatlar": {
-      "lat": 36.75,
-      "lng": 31.65
+      "lat": 37.021743,
+      "lng": 31.760101
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
     "ekolojik_ihlal": false
   },
   {
@@ -28172,18 +28172,18 @@
     "id": "rcgdif6kwz1774165411442",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
-    "il": "",
+    "il": "Antalya",
+    "ilce": "Gündoğmuş",
     "aciklama": "Gündoğmuş ilçesinde çıkan yangın, ormanlık alanlarda etkili oldu.",
     "koordinatlar": {
-      "lat": 37.0667,
-      "lng": 32.1833
+      "lat": 36.842263,
+      "lng": 32.038879
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-22",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
     "ekolojik_ihlal": false
   },
   {
