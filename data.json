@@ -21451,142 +21451,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r5gtgprptu1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Erzincan",
-    "aciklama": "Anagold Madencilik'in işlettiği siyanürlü altın madeni boru hattında meydana gelen yırtılma sonucunda firmanın beyanına göre 20 m³, bilirkişi incelemesine göre en az 210 m³ siyanürlü çözelti çevreye yayıldı. Fırat Nehri'ne sızdığı iddia edildi. Bakanlık, şirkete en üst sınırdan 16,4 milyon TL para cezası kesti; maden 88 gün kapatıldı. Sorumlular UCM'ye taşındı.",
-    "koordinatlar": {
-      "lat": 39.2833,
-      "lng": 38.5641
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Su ve Toprak Kirliliği"
-  },
-  {
-    "id": "rs2s7nof2z1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Erzincan",
-    "aciklama": "10 milyon m³ hacmindeki siyanürlü yığın liç sahası 14:28'de çökerek 800 metre boyunca Sabırlı Deresi'ne aktı. 9 işçi göçük altında kaldı; son ceset 116 gün sonra çıkarıldı. Şirket lisansı iptal edildi ancak 1 milyon dolar ceza sonrası operasyonları yeniden başlatmasına izin verildi. Stop Ecocide International konuyu ekokirım örnek vakası ilan etti.",
-    "koordinatlar": {
-      "lat": 39.2833,
-      "lng": 38.5641
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Su ve Toprak Kirliliği / İşçi Ölümü"
-  },
-  {
-    "id": "rldjf1036n1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Balıkesir / Çanakkale",
-    "aciklama": "Alamos Gold şirketinin Kaz Dağları'nda başlattığı altın madeni projesi için ÇED onayı alınmadan 195.000'i aşkın ağaç kesildi. 'Kaz Dağları Nöbeti' adıyla ülke gündemini saran protesto dalgası çıktı. Danıştay 2020'de ÇED kararını iptal etti.",
-    "koordinatlar": {
-      "lat": 39.7006,
-      "lng": 26.9728
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Ekosistem Tahribatı / Kaçak Madencilik"
-  },
-  {
-    "id": "rlsjn989vf1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul / Kocaeli / Bursa / Yalova",
-    "aciklama": "Onlarca yıllık arıtılmamış atık su deşarjları ve deniz ısınmasının birleşimi, 2021'de Marmara'nın tarihinin en büyük müsilaj felaketiyle sonuçlandı. Deniz tabanı ekosistemi çöktü, balıkçılık ve turizm ağır zarar gördü. Stop Ecocide International bu vakayı ekokırım örneği olarak belgeledi.",
-    "koordinatlar": {
-      "lat": 41.02,
-      "lng": 28.92
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Endüstriyel ve Belediye Atık Suyu Deşarjı"
-  },
-  {
-    "id": "rxfg3eex4u1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Termik Reaktör",
-    "il": "Kahramanmaraş",
-    "aciklama": "Greenpeace Akdeniz ve Avrupa Çevre Ajansı verilerine göre Afşin-Elbistan A ve B santralleri, Avrupa'nın sağlık riski en yüksek kömür santrallerinden biri. Türkiye'de PM2.5 için yasal sınır bulunmuyor. Santral, AB emisyon standartlarını sürekli aşıyor.",
-    "koordinatlar": {
-      "lat": 37.9208,
-      "lng": 38.3695
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kömür Yakıtlı Santral Emisyonu"
-  },
-  {
-    "id": "rmcgsfwzb71774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Termik Reaktör",
-    "il": "Manisa",
-    "aciklama": "Greenpeace verilerine göre Soma, Avrupa'nın sağlık riski ikinci yüksek kömür santrali. Çevre hukuku kuruluşlarının açtığı davalar sonuçsuz kaldı.",
-    "koordinatlar": {
-      "lat": 38.9522,
-      "lng": 27.8681
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kömür Yakıtlı Santral Emisyonu"
-  },
-  {
-    "id": "rh0hk4c1zp1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Antalya",
-    "ilce": "Konyaaltı",
-    "aciklama": "Antalya çevresi orman alanlarında tespit edilen kaçak katı atık döküm noktaları, OGM ve Bakanlık denetimleriyle kayıt altına alındı. Tıbbi ve tehlikeli atık dökümü de gündeme geldi.",
-    "koordinatlar": {
-      "lat": 36.73008,
-      "lng": 30.465088
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rzccha7z291774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Adıyaman",
-    "aciklama": "Adıyaman Çelikhan'da faaliyette olan altın madeninin atık havuzundan sızıntı tespit edildi; Tohma Çayı balık ölümleri ve kirlilik belirtildi.",
-    "koordinatlar": {
-      "lat": 37.07,
-      "lng": 37.53
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Toprak ve Su Kirliliği"
-  },
-  {
     "id": "rclbm1r0zs1774103833436",
     "tip": "Taş-Mermer Ocağı",
     "ad": "Taş-Mermer Ocağı",
@@ -21602,329 +21466,6 @@
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "ÇED İhlali / Su Kirliliği"
-  },
-  {
-    "id": "rakfdef2yv1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Şırnak",
-    "aciklama": "Stop Ecocide International ve bianet raporlarına göre Şırnak ve çevre ormanlık alanlarda gerçekleştirilen operasyonlar kapsamında geniş meşe orman alanları tahrip edildi. Sivil toplum ve ekokirım inisiyatifi konuyu parlamentoya taşıdı.",
-    "koordinatlar": {
-      "lat": 37.3,
-      "lng": 42.2
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Güvenlik Operasyonları Kapsamında Orman Tahribatı"
-  },
-  {
-    "id": "rp3v6vgptu1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Kahramanmaraş / Hatay / Adıyaman",
-    "aciklama": "Internationalist Standpoint ve Stop Ecocide raporlarına göre 6 Şubat depremi sonrasında asbestos içeren enkaz, tehlikeli atık yönetimi kuralları gözetilmeden çevreye dağıtıldı. Ekipman kullanan ve bölgede yaşayan on binlerce kişi maruz kaldı.",
-    "koordinatlar": {
-      "lat": 36.7971,
-      "lng": 38.3743
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Asbest / Tehlikeli Atık Yönetimi"
-  },
-  {
-    "id": "rwbds99vyj1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Balıkesir",
-    "aciklama": "Marmara'ya akan akarsuların kaynağına yakın alanlarda ÇED belgesi eksiklikleriyle yürütülen maden arama faaliyetleri köylü şikayetleri ve hukuki süreçlere yol açtı.",
-    "koordinatlar": {
-      "lat": 38.9667,
-      "lng": 27.5333
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "ÇED İhlali / Orman Tahribatı"
-  },
-  {
-    "id": "rbtd9tao831774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Hatay",
-    "aciklama": "Deprem inşaat sürecinde ortaya çıkan malzeme açığı, Hatay'da özellikle Asi Nehri'nden kaçak kum ve çakıl çıkarımını artırdı.",
-    "koordinatlar": {
-      "lat": 36.2,
-      "lng": 36.16
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kaçak Kum ve Çakıl Çıkarımı"
-  },
-  {
-    "id": "rza9c1yyi81774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Termik Reaktör",
-    "il": "Ankara",
-    "aciklama": "Termik santral kül sahalarından sızan kirletici ağır metaller yeraltı suyuna karışarak tarım arazilerini etkiledi.",
-    "koordinatlar": {
-      "lat": 39.94,
-      "lng": 32.82
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kül Havuzu Sızıntısı"
-  },
-  {
-    "id": "rdjen3p3u41774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İzmir",
-    "aciklama": "İzmir Körfezi'nde tespit edilen petrol türevi kirlilik lekesi MARPOL ihlali kapsamında soruşturuldu; kuş ve deniz yaşamında tahribat gözlendi.",
-    "koordinatlar": {
-      "lat": 38.42,
-      "lng": 26.96
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Gemi Kaynaklı Kirlilik"
-  },
-  {
-    "id": "r92qdiupwo1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Malatya",
-    "aciklama": "OGM ve jandarma operasyonunda kaçak kesim yapılan ormanlık alanda yüzlerce ağaç kütüğü ve kaçak kereste ele geçirildi; şüpheliler gözaltına alındı.",
-    "koordinatlar": {
-      "lat": 38.294,
-      "lng": 36.9071
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kaçak Orman Ürünleri Ticareti"
-  },
-  {
-    "id": "r0yk13bcp71774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul",
-    "aciklama": "İstanbul Boğazı ve Marmara'da av yasağı dönemlerinde, yasaklı av araçlarıyla (sürükleme ağı, elektrik, dinamit) gerçekleştirilen kaçak balıkçılık her yıl binlerce ceza gerektiriyor.",
-    "koordinatlar": {
-      "lat": 41,
-      "lng": 29
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kaçak Avcılık / Su Ürünleri İhlali"
-  },
-  {
-    "id": "r6697e830g1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Elazığ",
-    "aciklama": "Keban Barajı çevresindeki maden ve sanayi tesislerinin atık deşarjları baraj suyunu olumsuz etkiledi. Balık ölümleri belgelendi.",
-    "koordinatlar": {
-      "lat": 37.56,
-      "lng": 40.22
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Maden ve Sanayi Atığı"
-  },
-  {
-    "id": "r1r772uyk41774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Burdur",
-    "ilce": "",
-    "aciklama": "Türkiye'nin en hızlı küçülen gölü olan Burdur Gölü, aşırı sulama suyu çekimi ve tarımsal kirlilik nedeniyle son 50 yılda yüzey alanının yarısını yitirdi. Flamingo ve diğer su kuşlarının üreme alanı tehdit altında.",
-    "koordinatlar": {
-      "lat": 37.752258,
-      "lng": 30.215149
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rc1iumblhb1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Kayseri",
-    "aciklama": "Kayseri sanayi bölgesinde lisanssız araçlarla taşınan tehlikeli atıkların ormanlık alanlara ve tarlalara bırakıldığı tespit edildi; operasyon sonrası gözaltılar yapıldı.",
-    "koordinatlar": {
-      "lat": 38.74,
-      "lng": 35.4
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Tehlikeli Atık Kaçak Bertarafı"
-  },
-  {
-    "id": "rsi26rb8h71774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Adana",
-    "aciklama": "Adana OSB'de faaliyet gösteren tekstil ve kimya firmalarının arıtılmamış atık suları Seyhan Nehri'ni kirletti; balık ölümleri ve kötü koku şikayetleri belgelendi.",
-    "koordinatlar": {
-      "lat": 37.06,
-      "lng": 36.88
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Sanayi Atık Suyu Deşarjı"
-  },
-  {
-    "id": "ruptwq7vfl1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Muğla",
-    "ilce": "Marmaris",
-    "aciklama": "Gökova Özel Çevre Koruma Bölgesi sınırları içinde izinsiz kum çıkarımı ve altyapı çalışmaları kıyı ekosistemi tahribatına yol açtı.",
-    "koordinatlar": {
-      "lat": 36.995972,
-      "lng": 28.260956
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rg133mths71774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Erzincan / Tunceli",
-    "aciklama": "2022 siyanür sızıntısının uzun vadeli etkileri 2023'te Munzur Vadisi'nde de gözlemlenmeye devam etti; sivil toplum kuruluşları su numunelerindeki aşırı ağır metal düzeylerini belgeledi.",
-    "koordinatlar": {
-      "lat": 39.65,
-      "lng": 39.14
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Nehir Kirliliği"
-  },
-  {
-    "id": "r3vjvztd681774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal Akbelen",
-    "il": "Muğla",
-    "ilce": "Milas",
-    "aciklama": "Yasal güvence altındaki tescilli zeytinlik alanları imara açılarak kaçak yapılaşmaya konu edildi; Zeytin Kanunu ihlali kapsamında davalar açıldı.",
-    "koordinatlar": {
-      "lat": 37.173175,
-      "lng": 27.860899
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r484885gm01774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Termik Reaktör",
-    "il": "Zonguldak",
-    "aciklama": "Karadeniz kömür havzasında ruhsatsız yürütülen kömür çıkarım faaliyetleri hem çevresel hem de iş güvenliği ihlallerine neden oldu.",
-    "koordinatlar": {
-      "lat": 41.3,
-      "lng": 31.5
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Ruhsatsız Kömür Çıkarımı / Kömür Tozu"
-  },
-  {
-    "id": "r1bqa0alny1774103833436",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul",
-    "aciklama": "İstanbul Pendik sahiline kaçak inşaat molozunun dökülmesi kıyı mevzuatı ihlali kapsamında soruşturmaya konu oldu.",
-    "koordinatlar": {
-      "lat": 40.93,
-      "lng": 29.1
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kaçak İnşaat Atığı Dökümü"
-  },
-  {
-    "id": "rkbjhp5qho1774103867108",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İstanbul / Kocaeli / Yalova / Bursa",
-    "aciklama": "İklim değişikliğinin tetiklediği deniz suyu ısınması ve aşırı besin yükü nedeniyle Marmara Denizi tarihinin en büyük müsilaj (deniz salyası) felaketiyle yüz yüze geldi. Balıkçılık ve turizm ağır zarar gördü; deniz tabanı ekosistemi ciddi ölçüde bozuldu.",
-    "koordinatlar": {
-      "lat": 41.02,
-      "lng": 28.92
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r1trwm6m6p1774103867108",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Kahramanmaraş / Hatay / Adıyaman / Malatya / Gaziantep / Adana / Diyarbakır / Kilis / Osmaniye / Şanlıurfa / Elazığ",
-    "aciklama": "Türkiye Cumhuriyeti tarihinin en yıkıcı depremi. 11 ili etkileyen iki büyük sarsıntı 9 saat arayla geldi; resmi rakamlara göre 53.537 kişi hayatını kaybetti, yaklaşık 300.000 bina yıkıldı veya ağır hasar gördü.",
-    "koordinatlar": {
-      "lat": 37.5853,
-      "lng": 36.9371
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
   },
   {
     "id": "ra8709gqp31774103897822",
@@ -24528,91 +24069,6 @@
     "alt_kategori": "Enerji - Dağıtım"
   },
   {
-    "id": "rtanvxrr0g1774104102992",
-    "tip": "Ekolojik İhlal",
-    "ad": "İklim Olayları",
-    "il": "Gaziantep",
-    "aciklama": "Gaziantep OSB'nin tekstil ve boyama tesislerinden deşarj edilen arıtılmamış atık su Sacur Çayı'nı kirletti. Bakanlık denetimleri ceza kesti ancak sistematik yaptırım uygulanamadı.",
-    "koordinatlar": {
-      "lat": 37.2,
-      "lng": 38.4
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Nehir Kirliliği"
-  },
-  {
-    "id": "rqa3r9lkrs1774104102992",
-    "tip": "Ekolojik İhlal",
-    "ad": "Taş-Mermer Ocağı",
-    "il": "Malatya",
-    "aciklama": "ÇED belgesi olmaksızın açılan mermer ocakları, dere yatakları yakınında kazı yaparak su kirliliğine yol açtı.",
-    "koordinatlar": {
-      "lat": 37.565,
-      "lng": 37.775
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "ÇED İhlali / Su Kirliliği"
-  },
-  {
-    "id": "rcfrm6y78h1774104102992",
-    "tip": "Ekolojik İhlal",
-    "ad": "İklim Olayları",
-    "il": "Hatay",
-    "aciklama": "6 Şubat depremi sonrasında İskenderun Limanı depolama sahalarında çıkan yangın 5 günü aşkın süre söndürülemedi. Toksik dumana maruz kalan binlerce kişi şikayette bulundu.",
-    "koordinatlar": {
-      "lat": 36.59,
-      "lng": 36.2021
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kimyasal Yangın / Depo Yangını"
-  },
-  {
-    "id": "rr6sbgcvm51774104102992",
-    "tip": "Ekolojik İhlal",
-    "ad": "İklim Olayları",
-    "il": "Mersin",
-    "aciklama": "Caretta caretta deniz kaplumbağasının üreme alanlarına yakın bölgelerde imar planı dışı yapılaşma gerçekleştirildi. WWF-Türkiye ve TEMA konuyu raporladı.",
-    "koordinatlar": {
-      "lat": 37,
-      "lng": 35.32
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kıyı Mevzuatı İhlali"
-  },
-  {
-    "id": "rrvosacy6k1774104102992",
-    "tip": "Ekolojik İhlal",
-    "ad": "İklim Olayları",
-    "il": "Ankara / Kırıkkale",
-    "aciklama": "Türkiye'nin en uzun nehrinin havzasında yetersiz atık su arıtımı ve kaçak deşarjlar su kalitesini bozuyor. Su çerçeve direktifine uyum için AB süreci devam ediyor.",
-    "koordinatlar": {
-      "lat": 39.48,
-      "lng": 33.22
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Belediye ve Sanayi Atık Suyu"
-  },
-  {
     "id": "r4zjxrlk7q1774104564932",
     "tip": "Özel Çevre Koruma Alanı",
     "ad": "Gökova Özel Çevre Koruma Bölgesi",
@@ -25004,57 +24460,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r3pei75o8z1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sultan Sazlığı Ramsar Alanı",
-    "il": "Kayseri",
-    "aciklama": "Erciyes Dağı eteklerinde kapalı havzada oluşmuş; 5 farklı habitat içerir. Afrika-Avrupa göç yolunun önemli kesişim noktası.",
-    "koordinatlar": {
-      "lat": 38.3336,
-      "lng": 35.2661
-    },
-    "alan_ha": 17200,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rmsgek3b4h1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kuş Gölü (Manyas) Ramsar Alanı — Kuş Cenneti Milli Parkı",
-    "il": "Balıkesir",
-    "aciklama": "Türkiye'nin ilk milli parkı olan Kuş Cenneti buradadır (1959). Göçmen kuşların ana konaklama noktası.",
-    "koordinatlar": {
-      "lat": 40.1953,
-      "lng": 27.9678
-    },
-    "alan_ha": 20400,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "riv6syaq0b1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Seyfe Gölü Ramsar Alanı",
-    "il": "Kırşehir",
-    "aciklama": "Adacıklarda binlerce kuş yumurtlama alanı. Türkiye'nin en önemli flamingo kolonilerinden biri.",
-    "koordinatlar": {
-      "lat": 39.215,
-      "lng": 34.39
-    },
-    "alan_ha": 10700,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rikrqmcpsd1774105334505",
     "tip": "İklim Olayları",
     "ad": "Göksu Deltası Ramsar Alanı",
@@ -25087,160 +24492,6 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rygn6zcv3w1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kızılırmak Deltası Ramsar Alanı",
-    "il": "Samsun",
-    "aciklama": "Türkiye'nin en önemli Ramsar alanı olarak nitelendirilen kuzey kıyı deltası. 50+ km sahil, 20+ göl.",
-    "koordinatlar": {
-      "lat": 41.65,
-      "lng": 36.05
-    },
-    "alan_ha": 21700,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rj4jqhn3881774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Uluabat Gölü Ramsar Alanı",
-    "il": "Bursa",
-    "aciklama": "Türkiye'nin en büyük nilüfer yatakları ve sazlıkları bu gölün çevresindedir.",
-    "koordinatlar": {
-      "lat": 40.1726,
-      "lng": 28.5908
-    },
-    "alan_ha": 19900,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r36mft33wy1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Akyatan Lagünü Ramsar Alanı",
-    "il": "Adana",
-    "aciklama": "Türkiye'nin en büyük lagün gölü. İki deniz kaplumbağası türünün yaşam alanı.",
-    "koordinatlar": {
-      "lat": 36.65,
-      "lng": 35.65
-    },
-    "alan_ha": 14700,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rekpjy0i941774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Gediz Deltası Ramsar Alanı",
-    "il": "İzmir",
-    "ilce": "",
-    "aciklama": "İzmir Körfezi'nin kuzeyinde Gediz Nehri'nin denize döküldüğü delta. Flamingo bakımından kritik.",
-    "koordinatlar": {
-      "lat": 38.452513,
-      "lng": 26.913414
-    },
-    "alan_ha": 14900,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r2xmcqoo211774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Yumurtalık Lagünleri Ramsar Alanı",
-    "il": "Adana",
-    "aciklama": "Çukurova Deltası içinde. Kızamık kuşunun 9 endemik korumalı bitkisi. Yumurtalık Milli Parkı ile örtüşür.",
-    "koordinatlar": {
-      "lat": 36.677,
-      "lng": 35.635
-    },
-    "alan_ha": 19800,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rh6w7k7ujc1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kızören Obruğu Ramsar Alanı",
-    "il": "Konya",
-    "aciklama": "Dünyanın en büyük kraterlerinden birinin üzerinde oluşan obruk gölü. 10 km çapında karstik yapı.",
-    "koordinatlar": {
-      "lat": 38.1748,
-      "lng": 33.186
-    },
-    "alan_ha": 105,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rlqvrrxcei1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Meke Maar (Meke Gölü) Ramsar Alanı",
-    "il": "Konya",
-    "aciklama": "1984-2023 arası su yüzeyi %95.72 azalmış. Türkiye'nin en fazla küçülen Ramsar alanı.",
-    "koordinatlar": {
-      "lat": 37.6861,
-      "lng": 33.6403
-    },
-    "alan_ha": 350,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rle61zr0gk1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kuyucuk Gölü Ramsar Alanı",
-    "il": "Kars",
-    "aciklama": "Türkiye'nin Ramsar alanları arasında su yüzeyi en fazla artan ender alan.",
-    "koordinatlar": {
-      "lat": 40.7389,
-      "lng": 43.4543
-    },
-    "alan_ha": 171,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r0y4g4evip1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Nemrut Kalderası Ramsar Alanı",
-    "il": "Bitlis",
-    "aciklama": "Dünyanın ikinci büyük kaldera gölünü barındırır. Soğuk ve sıcak su kaynakları biyoçeşitlilik sağlar.",
-    "koordinatlar": {
-      "lat": 38.6194,
-      "lng": 42.2222
-    },
-    "alan_ha": 15000,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
   },
   {
     "id": "rcl3mdip111774105334505",
@@ -25295,279 +24546,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rn91kqure01774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Yumurtalık Lagünleri Milli Parkı",
-    "il": "Adana",
-    "aciklama": "Türkiye'nin 40. milli parkı. Seyhan ve Ceyhan nehirleri alüvyonuyla oluşmuş Çukurova Deltası içinde.",
-    "koordinatlar": {
-      "lat": 36.8,
-      "lng": 35.62
-    },
-    "alan_ha": 19800,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rp78qslj2n1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Manyas Kuş Gölü Milli Parkı (Kuş Cenneti)",
-    "il": "Balıkesir",
-    "aciklama": "Türkiye'nin ve Ortadoğu'nun ilk milli parkı. Göç eden kuşlar için olmazsa olmaz bir durak.",
-    "koordinatlar": {
-      "lat": 40.1953,
-      "lng": 27.9678
-    },
-    "alan_ha": 10420,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r3cvwx8ulp1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sultan Sazlığı Milli Parkı",
-    "il": "Kayseri",
-    "aciklama": "Türkiye'nin en geniş ve en zengin karasal sulak alan ekosistemi. Erciyes Dağı manzarası eşliğinde flamingo.",
-    "koordinatlar": {
-      "lat": 38.3336,
-      "lng": 35.2661
-    },
-    "alan_ha": 17200,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r5h542qbt51774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kızılırmak Deltası Kuş Cenneti Milli Parkı",
-    "il": "Samsun",
-    "aciklama": "Türkiye'nin en önemli Ramsar alanı. 50+ km sahil. Nehrin taşıdığı sedimanların durdurulması delta erozyon sorununa yol açmış.",
-    "koordinatlar": {
-      "lat": 41.67,
-      "lng": 34.1
-    },
-    "alan_ha": 21700,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rahvrgd14i1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Akyaka (Gökova) Tabiat Parkı",
-    "il": "Muğla",
-    "ilce": "Marmaris",
-    "aciklama": "Gökova Körfezi'ne dökülen Azmak Deresi, Türkiye'nin en temiz doğal su kaynaklarından biridir. ÖÇKB ile iç içe.",
-    "koordinatlar": {
-      "lat": 37.032158,
-      "lng": 28.298035
-    },
-    "alan_ha": 2500,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rnp00srzsu1774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Bafa Gölü Tabiat Parkı",
-    "il": "Aydın",
-    "ilce": "Didim",
-    "aciklama": "Eskiden Miletos Körfezi olan, zamanla tatlı/acı suya dönüşmüş tektona göl. İçindeki adacıklarda Herakleia antik kenti bulunur.",
-    "koordinatlar": {
-      "lat": 37.503189,
-      "lng": 27.445221
-    },
-    "alan_ha": 39000,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rq3rb2nw751774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Akyatan-Tuzla Lagün Tabiat Parkı",
-    "il": "Adana",
-    "aciklama": "Çukurova Deltası'nın en önemli lagün komplekslerinden biri. Türkiye'nin en büyük lagünü Akyatan Gölü burada.",
-    "koordinatlar": {
-      "lat": 36.67,
-      "lng": 37.33
-    },
-    "alan_ha": 9000,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r1ifmc87c51774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Uluabat Gölü (Apolyont) Tabiat Parkı",
-    "il": "Bursa",
-    "aciklama": "İçme suyu kalitesi doğrulayıcısı olarak nilüfer yatakları. 1984-2023 arası %21.2 su yüzeyi kaybı.",
-    "koordinatlar": {
-      "lat": 40.26,
-      "lng": 29.04
-    },
-    "alan_ha": 19900,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rbu3h5po951774105334505",
-    "tip": "Ekolojik İhlal",
-    "ad": "Gediz Deltası Tabiat Parkı ve Kuş Cenneti",
-    "il": "İzmir",
-    "ilce": "",
-    "aciklama": "İzmir'in kuzeybatısında. Flamingo için Türkiye'nin en kritik üreme ve besleme alanlarından biri.",
-    "koordinatlar": {
-      "lat": 38.444178,
-      "lng": 26.92749
-    },
-    "alan_ha": 14900,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ryc2e4qxrw1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Yozgat Çamlığı Milli Parkı",
-    "il": "Yozgat",
-    "aciklama": "Türkiye'nin ilk milli parkı ve 267 ha ile en küçüğü. İç Anadolu steplerinde nadir bulunan Kafkas Çamı bireylerini barındırır.",
-    "koordinatlar": {
-      "lat": 39.8167,
-      "lng": 34.8
-    },
-    "alan_ha": 267,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rajl6qeo5m1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Karatepe-Aslantaş Milli Parkı",
-    "il": "Osmaniye",
-    "aciklama": "Demir Çağı Hitit kalıntıları ve Karatepe Yazıtları. Çukurova deltasına yakın, Aslantaş Barajı çevresinde.",
-    "koordinatlar": {
-      "lat": 37.4,
-      "lng": 36.1667
-    },
-    "alan_ha": 4145,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r6c21opo461774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Soğuksu Milli Parkı",
-    "il": "Ankara",
-    "aciklama": "Ankara'ya 80 km mesafede, Kızılcahamam kaplıcalarıyla bütünleşik yaylalık alan.",
-    "koordinatlar": {
-      "lat": 40.56,
-      "lng": 32.6
-    },
-    "alan_ha": 1187,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r9wc65nihc1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kuşcenneti (Manyas Gölü) Milli Parkı",
-    "il": "Balıkesir",
-    "aciklama": "Türkiye'nin 4. milli parkı fakat Ortadoğu'nun ilk milli parkı unvanını taşır. Sığ Marmara gölünde 240+ kuş türü.",
-    "koordinatlar": {
-      "lat": 40.1953,
-      "lng": 27.9678
-    },
-    "alan_ha": 24047,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rzm9p632441774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Uludağ Milli Parkı",
-    "il": "Bursa",
-    "aciklama": "Marmara Bölgesi'nin en yüksek dağı (2543 m). Türkiye'nin en büyük kış sporları merkezi. 580 yaşlık İnkaya Çınarı anıt ağaç.",
-    "koordinatlar": {
-      "lat": 40.15,
-      "lng": 29.2167
-    },
-    "alan_ha": 12762,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ra2po0j1wd1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Yedigöller Milli Parkı",
-    "il": "Bolu",
-    "aciklama": "Büyükgöl, Seringöl, Deringöl, Nazlıgöl, İncegöl, Küçükgöl, Sazlıgöl'den oluşur. Sonbahar renkleriyle ünlü kamp alanı.",
-    "koordinatlar": {
-      "lat": 40.9333,
-      "lng": 31.7333
-    },
-    "alan_ha": 2019,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rj7yvqcduu1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Dilek Yarımadası — Büyük Menderes Deltası Milli Parkı",
-    "il": "Aydın",
-    "aciklama": "Samsun Dağları'nın Ege uzantısı. Maki florasının doğal hâli. 6 dünya endemiği bitki. Akdeniz foku için mağara habitatı.",
-    "koordinatlar": {
-      "lat": 37.6,
-      "lng": 27.25
-    },
-    "alan_ha": 27598,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r6honfkqop1774106026688",
     "tip": "Milli Park",
     "ad": "Spil Dağı Milli Parkı",
@@ -25586,74 +24564,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rg90meqt381774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kızıldağ Milli Parkı",
-    "il": "Isparta",
-    "ilce": "Aksu",
-    "aciklama": "Beyşehir Gölü'ne nazır 55.000 ha'lık büyük orman parkı. Güneybatı Anadolu'nun en geniş sedir ormanlarından biri.",
-    "koordinatlar": {
-      "lat": 37.722935,
-      "lng": 31.27533
-    },
-    "alan_ha": 55105,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rj8prx693z1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Güllük Dağı — Termessos Milli Parkı",
-    "il": "Antalya",
-    "aciklama": "Likya'nın alınmaz kalesi Termessos antik kenti burada. İskender bile bu kenti almaktan vazgeçmiştir. Yüksek dağ ve kanyonlardaki otantik antik kent kalıntıları.",
-    "koordinatlar": {
-      "lat": 37.0667,
-      "lng": 30.4667
-    },
-    "alan_ha": 6700,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rpz5ch89131774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kovada Gölü Milli Parkı",
-    "il": "Isparta",
-    "ilce": "Eğirdir",
-    "aciklama": "Eğirdir Gölü'nün artığı olan tektonik kökenli saf göl. Susuzluğun hiç yaşanmadığı, Isparta'nın mücevheri.",
-    "koordinatlar": {
-      "lat": 37.63816,
-      "lng": 30.874329
-    },
-    "alan_ha": 6550,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "r0cyfz5ghe1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Munzur Vadisi Milli Parkı",
-    "il": "Tunceli / Erzincan",
-    "aciklama": "62.000 ha ile Türkiye'nin büyük milli parklarından. Munzur Çayı rafting güzergâhı. Dağ geçitlerinde kristal su kaynakları.",
-    "koordinatlar": {
-      "lat": 39.2667,
-      "lng": 39.3333
-    },
-    "alan_ha": 62674,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rj6aqisrox1774106026688",
     "tip": "İklim Olayları",
     "ad": "Beydağları Sahil (Olympos) Milli Parkı",
@@ -25664,23 +24574,6 @@
       "lng": 30.5333
     },
     "alan_ha": 31165,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r7bj1h625h1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Köprülü Kanyon Milli Parkı",
-    "il": "Antalya",
-    "aciklama": "14 km uzunluğu ve 100 m+ duvar yüksekliğiyle Türkiye'nin en uzun kanyonlarından. Köprüçay'da yıllık 100.000+ rafting katılımcısı.",
-    "koordinatlar": {
-      "lat": 37.2667,
-      "lng": 31.4
-    },
-    "alan_ha": 35719,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
@@ -25706,40 +24599,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rje8iavxco1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ilgaz Dağı Milli Parkı",
-    "il": "Kastamonu / Çankırı",
-    "aciklama": "Kastamonu'ya 38 km. Kış sporları merkezi. Ilgaz kayak merkezi.",
-    "koordinatlar": {
-      "lat": 41.0833,
-      "lng": 33.6333
-    },
-    "alan_ha": 1117,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rc3edw7cqa1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Başkomutan Tarihi Milli Parkı",
-    "il": "Afyonkarahisar / Kütahya / Uşak",
-    "aciklama": "Türkiye Kurtuluş Savaşı'nın son ve belirleyici muharebesi alanı. Kocatepe Anıtı ve Dumlupınar Müzesi içerir.",
-    "koordinatlar": {
-      "lat": 38.9333,
-      "lng": 30.2833
-    },
-    "alan_ha": 34833,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r2w494hgd51774106026688",
     "tip": "İklim Olayları",
     "ad": "Göreme Tarihi Milli Parkı",
@@ -25757,57 +24616,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rgkglzyw6l1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Altındere Vadisi Milli Parkı (Sümela)",
-    "il": "Trabzon",
-    "aciklama": "270 m yükseklikte dikey kaya yüzeyine inşa edilmiş Sümela Manastırı (MS 386). Ortaçağ Rum Ortodoks mimarisinin Anadolu'daki en etkileyici örneği.",
-    "koordinatlar": {
-      "lat": 40.7167,
-      "lng": 39.6333
-    },
-    "alan_ha": 4468,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rseitmlta61774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Boğazköy-Alacahöyük Milli Parkı",
-    "il": "Çorum",
-    "aciklama": "MÖ 2. binyıl Hitit İmparatorluğu'nun başkenti Hattuşa. Dünyanın bilinen ilk anlaşması (Kadeş Antlaşması) bu imparatorluktan kaldı.",
-    "koordinatlar": {
-      "lat": 40.0333,
-      "lng": 34.6167
-    },
-    "alan_ha": 2600,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r6l9xr5t421774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Nemrut Dağı Milli Parkı",
-    "il": "Adıyaman",
-    "aciklama": "MÖ 1. yüzyılda Kral Antiokhos I tarafından inşa ettirilen 8-9 m'lik dev tanrı heykelleri ve 50 m yüksekliğindeki tümülüs.",
-    "koordinatlar": {
-      "lat": 37.9667,
-      "lng": 38.7333
-    },
-    "alan_ha": 13827,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r906toincq1774106026688",
     "tip": "İklim Olayları",
     "ad": "Beyşehir Gölü Milli Parkı",
@@ -25818,58 +24626,6 @@
       "lng": 31.4667
     },
     "alan_ha": 88750,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ry5n7f4fee1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kazdağı (İda Dağı) Milli Parkı",
-    "il": "Çanakkale",
-    "ilce": "",
-    "aciklama": "Truva Savaşı'na sahne olan Troya'nın arka alanı. Homeros'un İlyada destanında geçen Ida Dağı. Kazdağı Göknarı sadece burada yetişir.",
-    "koordinatlar": {
-      "lat": 39.926588,
-      "lng": 26.265564
-    },
-    "alan_ha": 20935,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rpuw90azkc1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Altınbeşik Mağarası Milli Parkı",
-    "il": "Antalya",
-    "aciklama": "2500 m uzunluğunda 3 katlı mağara. Alt seviye tamamen su altında ve Türkiye'nin en büyük yeraltı gölü. Dünyanın 3. büyük yeraltı gölü.",
-    "koordinatlar": {
-      "lat": 37.0667,
-      "lng": 31.45
-    },
-    "alan_ha": 1147,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rl1i1wp5m91774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Hatila Vadisi Milli Parkı",
-    "il": "Artvin",
-    "aciklama": "Türkiye'nin en yüksek cam seyir terası (220 m). Akdeniz bitki türlerini de barındıran Karadeniz vadisi. Kanyonculuk merkezi.",
-    "koordinatlar": {
-      "lat": 41.2167,
-      "lng": 41.8
-    },
-    "alan_ha": 16944,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-21",
@@ -25911,57 +24667,6 @@
     "alt_kategori": null
   },
   {
-    "id": "ryz3zugz2h1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Aladağlar Milli Parkı",
-    "il": "Adana / Niğde",
-    "aciklama": "Türkiye'nin en zorlu kaya tırmanışı ve kanyon alanı. Kapuzbaşı Şelalesi (7 kat, 70-100 m toplam). Emli Vadisi kanyoncular arasında efsane.",
-    "koordinatlar": {
-      "lat": 37.7333,
-      "lng": 35.25
-    },
-    "alan_ha": 54614,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rl7tjwtjhv1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Marmaris Milli Parkı",
-    "il": "Muğla",
-    "ilce": "Ula",
-    "aciklama": "Marmaris ve Hisarönü körfezini çevreleyen yarımada ve körfez ekosistemi. Yoğun yat turizminin baskısına karşı koruma kalkanı.",
-    "koordinatlar": {
-      "lat": 37.054903,
-      "lng": 28.371849
-    },
-    "alan_ha": 30250,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma"
-  },
-  {
-    "id": "rgj390qhad1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Saklıkent Milli Parkı",
-    "il": "Muğla / Antalya",
-    "aciklama": "18 km uzunluğu ve bazı noktalarda 300 m yüksekliğiyle Türkiye'nin en uzun ikinci kanyonu. Dondurucu soğuk su içinde yürüyüş turu.",
-    "koordinatlar": {
-      "lat": 36.4,
-      "lng": 29.4167
-    },
-    "alan_ha": 1196,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rtg0p4gj0e1774106026688",
     "tip": "Milli Park",
     "ad": "Troya Tarihi Milli Parkı",
@@ -25976,74 +24681,6 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r2hax04d0v1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Honaz Dağı Milli Parkı",
-    "il": "Denizli",
-    "aciklama": "Pamukkale'ye yakın Honaz Dağı. Colossae antik kenti kalıntıları ve Hıristiyanlığın ilk mektuplarından birinin (Colossalılar Mektubu) yazıldığı yer.",
-    "koordinatlar": {
-      "lat": 37.7,
-      "lng": 29.2667
-    },
-    "alan_ha": 6972,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r2a0mzahxp1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Küre Dağları Milli Parkı",
-    "il": "Kastamonu / Bartın",
-    "aciklama": "Kuzey Anadolu'nun yüksek yaylasında Valla (11 km) ve Horma kanyonları. Kanyoncular ve trekkerlar için üs.",
-    "koordinatlar": {
-      "lat": 41.85,
-      "lng": 33.6
-    },
-    "alan_ha": 37753,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rxg73wxilc1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sarıkamış-Allahuekber Dağları Milli Parkı",
-    "il": "Erzurum / Kars",
-    "aciklama": "1914-15 kışında donarak şehit olan ~90.000 Türk askerinin şehitliği. Sarıçam'ın ülkedeki en yüksek rakımlı saf orman meşceresi.",
-    "koordinatlar": {
-      "lat": 40.3833,
-      "lng": 42.6667
-    },
-    "alan_ha": 22520,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rc6hr3b4d21774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ağrı Dağı Milli Parkı",
-    "il": "Ağrı / Iğdır",
-    "aciklama": "5137 m ile Türkiye'nin ve Avrupa Kıtası'nın en yüksek zirvesi. Dünyanın 2. en büyük volkanik dağı. Kutsal dağ efsaneleri. İshak Paşa Sarayı park sınırlarında.",
-    "koordinatlar": {
-      "lat": 39.7333,
-      "lng": 44.2333
-    },
-    "alan_ha": 88015,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
   },
@@ -26066,23 +24703,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rlv5lxhvsy1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Tek Tek Dağları Milli Parkı",
-    "il": "Şanlıurfa",
-    "aciklama": "Şanlıurfa ovasına hâkim bazalt yaylalar. Prehistorik kaya resimleri, Hitit çağına uzanan arkeolojik buluntular.",
-    "koordinatlar": {
-      "lat": 37.1833,
-      "lng": 38.7833
-    },
-    "alan_ha": 26182,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rz43eygq7x1774106026688",
     "tip": "Orman Alanı",
     "ad": "İğneada Longoz Ormanları Milli Parkı",
@@ -26097,74 +24717,6 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rqc5ff49ca1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Yumurtalık Lagünleri Milli Parkı",
-    "il": "Adana",
-    "aciklama": "Çukurova Deltası içinde. 9 endemik bitki türü. Hem Caretta caretta hem Chelonia mydas kaplumbağası. Yumurtalık Petrol Terminali komşuluğundaki kırılgan ekosistem.",
-    "koordinatlar": {
-      "lat": 36.8,
-      "lng": 35.635
-    },
-    "alan_ha": 19800,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "razq67vecq1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Nene Hatun Tarihi Milli Parkı",
-    "il": "Erzurum",
-    "aciklama": "Aziziye ve Mecidiye Tabyaları'nın bulunduğu 387 ha'lık tarihi alan. Nene Hatun'un kahramanlığıyla tarihe geçen 1877-78 savaş alanı.",
-    "koordinatlar": {
-      "lat": 39.9081,
-      "lng": 41.2722
-    },
-    "alan_ha": 387,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rewxrixpuv1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sakarya Meydan Muharebesi Tarihi Milli Parkı",
-    "il": "Ankara",
-    "aciklama": "23 Temmuz–13 Eylül 1921 arası Türk-Yunan Sakarya Savaşı. Türklerin son savunma savaşı. Atatürk'ün Başkomutan unvanıyla yönetti.",
-    "koordinatlar": {
-      "lat": 39.5833,
-      "lng": 32.0167
-    },
-    "alan_ha": 13850,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r7pj9zn6m11774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kop Dağı Müdafaası Tarihi Milli Parkı",
-    "il": "Bayburt / Erzurum",
-    "aciklama": "1. Dünya Savaşı'nda Kop Dağı geçidinde verilen savunma muharebeleri. Bayburt-Erzurum hattı. Karlı dağ geçidinde şehitler.",
-    "koordinatlar": {
-      "lat": 40.25,
-      "lng": 40.3333
-    },
-    "alan_ha": 6335,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
   },
@@ -26186,142 +24738,6 @@
     "kaynak": "Dosya içe aktarma"
   },
   {
-    "id": "r86a4kk4mt1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "İstiklal Yolu Tarihi Milli Parkı",
-    "il": "Kastamonu / Çankırı",
-    "aciklama": "Kurtuluş Savaşı'nda cepheye silah ve erzak taşınan İstiklal Yolu. 31 köyde geçer. Her yıl Kastamonu Valiliği'nce yürüyüş etkinliği düzenlenir.",
-    "koordinatlar": {
-      "lat": 41.4167,
-      "lng": 33.7167
-    },
-    "alan_ha": 236,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rm84ohva1q1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Botan Vadisi Milli Parkı",
-    "il": "Siirt",
-    "aciklama": "29 km'lik kanyon güzergâhı. Ksenofon'un Anabasis destanında geçen tarihi güzergah. Tarihi Botan Beyliği merkezi. Rafting, yamaç paraşütü.",
-    "koordinatlar": {
-      "lat": 37.85,
-      "lng": 41.5833
-    },
-    "alan_ha": 11358,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r31cu5pf2c1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Hakkari Cilo ve Sat Dağları Milli Parkı",
-    "il": "Hakkari",
-    "aciklama": "3.400 m+ ortama yüksekliğiyle Türkiye'nin en yüksek milli parkı. Türkiye'nin 2. yüksek zirvesi Uludoruk (Reşko, 4135 m). 20.000 yıllık buzullar. Sat gölleri.",
-    "koordinatlar": {
-      "lat": 37.55,
-      "lng": 44.1
-    },
-    "alan_ha": 27500,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ru5vxylk0n1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Sarıçalı Dağı Milli Parkı",
-    "il": "Ankara",
-    "aciklama": "Ankara'ya 185 km uzaklıkta, Nallıhan'a 25 km'de. 1740 m rakım. Uyuzsuyu Şelalesi ile peyzaj değeri yüksek alan.",
-    "koordinatlar": {
-      "lat": 40.1833,
-      "lng": 31.9333
-    },
-    "alan_ha": 1024,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rcab9ooue21774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Derebucak Çamlık Mağaraları Milli Parkı",
-    "il": "Konya",
-    "aciklama": "Konya'nın Toros Dağları eteklerinde. 2022'de Türkiye'nin 47. milli parkı oldu.",
-    "koordinatlar": {
-      "lat": 37.4167,
-      "lng": 31.8167
-    },
-    "alan_ha": 1147,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rov78owhuw1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Abant Gölü Milli Parkı",
-    "il": "Bolu",
-    "aciklama": "1328 m rakımda Kuzey Anadolu fay hattı üzerinde tektonik kökenli heyelan gölü. Bolu'ya 35 km. İstanbul ve Ankara'ya en yakın büyük doğal göl.",
-    "koordinatlar": {
-      "lat": 40.5833,
-      "lng": 31.2167
-    },
-    "alan_ha": 1262,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r4c5l6ybc71774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Akdağ Milli Parkı",
-    "il": "Denizli / Afyonkarahisar",
-    "aciklama": "Türkiye'nin 4 akbaba türünün birlikte yuva yaptığı tek milli parkı. 20 yılda kızıl geyik popülasyonu büyük artış gösterdi. Tokalı ve Karanlıkdere kanyonları.",
-    "koordinatlar": {
-      "lat": 38.2833,
-      "lng": 29.2
-    },
-    "alan_ha": 15933,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r6qmrvtm0u1774106026688",
-    "tip": "Ekolojik İhlal",
-    "ad": "Geben Vadisi Milli Parkı",
-    "il": "Giresun",
-    "aciklama": "30 Mayıs 2025'te ilan edilen Türkiye'nin 50. ve en son milli parkı. Giresun iline bağlı Geben Vadisi. Alan bilgisi henüz tam olarak yayımlanmamıştır.",
-    "koordinatlar": {
-      "lat": 40.5667,
-      "lng": 38.5
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r8rkz7zfcy1774157364264",
     "tip": "Sulak Alan",
     "ad": "Akcay sazligi ve Sulak alani",
@@ -26339,23 +24755,6 @@
     "kaynak": "https://www.instagram.com/akcaysulakalanisavunmasi?igsh=dmRsZ3lycHZ6aWN5"
   },
   {
-    "id": "rhn927r4df1774164595019",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "Cerattepe bölgesinde yürütülen altın madeni faaliyetleri, ormansızlaşma, toprak ve su kirliliği ile biyoçeşitlilik kaybına yol açmaktadır. Maden sahası, Karadeniz'in eşsiz yağmur ormanları ekosistemi içinde yer almaktadır.",
-    "koordinatlar": {
-      "lat": 41.12666,
-      "lng": 41.18998
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r1nlfkdfdn1774164595019",
     "tip": "Termik Reaktör",
     "ad": "Termik Reaktör",
@@ -26364,75 +24763,6 @@
     "koordinatlar": {
       "lat": 37.14332,
       "lng": 27.98002
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rb0opxy2mj1774164595019",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "Çoruh Nehri üzerinde inşa edilen Yusufeli Barajı, vadinin tamamen sular altında kalmasına, tarihi Yusufeli ilçesinin taşınmasına ve tarım arazileri ile ormanlık alanların yok olmasına neden olmuştur.",
-    "koordinatlar": {
-      "lat": 40.78,
-      "lng": 41.57
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "riwoilii0l1774164595019",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "İzmir",
-    "ilce": "Aliağa",
-    "aciklama": "Aliağa'da bulunan rafineri, petrokimya tesisleri, gemi söküm alanları ve enerji santralleri hava, su ve toprak kirliliğine yol açmaktadır. Bölge halkında kanser ve solunum yolu hastalıkları oranları yüksektir.",
-    "koordinatlar": {
-      "lat": 38.800119,
-      "lng": 26.934357
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Atık Suçu/Kaçak Döküm"
-  },
-  {
-    "id": "rtpg7zdu771774164595019",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "İstanbul'un kuzeyindeki orman alanları, üçüncü köprü, havalimanı, yeni yerleşimler ve maden ocakları nedeniyle parçalanmakta ve yok olmaktadır. Su havzaları tehdit altındadır.",
-    "koordinatlar": {
-      "lat": 41.13,
-      "lng": 28.97
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rfu18rx5wv1774164595019",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "Kahramanmaraş'ın Andırın, Onikişubat ve Dulkadiroğlu ilçelerinde faaliyet gösteren maden ocakları, ormanlık alanların tahribatına, dere yataklarının kirlenmesine ve toz sorununa neden olmaktadır.",
-    "koordinatlar": {
-      "lat": 37.5,
-      "lng": 36.5
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -27647,5 +25977,655 @@
     "belge_no": "",
     "eklenme": "2026-03-22",
     "kaynak": "Manuel"
+  },
+  {
+    "id": "rl4cv7gbso1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Erzincan",
+    "aciklama": "Anagold Madencilik'in işlettiği siyanürlü altın madeni boru hattında meydana gelen yırtılma sonucunda firmanın beyanına göre 20 m³, bilirkişi incelemesine göre en az 210 m³ siyanürlü çözelti çevreye yayıldı. Fırat Nehri'ne sızdığı iddia edildi. Bakanlık, şirkete en üst sınırdan 16,4 milyon TL para cezası kesti; maden 88 gün kapatıldı. Sorumlular UCM'ye taşındı.",
+    "koordinatlar": {
+      "lat": 39.2833,
+      "lng": 38.5641
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Su ve Toprak Kirliliği"
+  },
+  {
+    "id": "ruxeim3ar61774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Erzincan",
+    "aciklama": "10 milyon m³ hacmindeki siyanürlü yığın liç sahası 14:28'de çökerek 800 metre boyunca Sabırlı Deresi'ne aktı. 9 işçi göçük altında kaldı; son ceset 116 gün sonra çıkarıldı. Şirket lisansı iptal edildi ancak 1 milyon dolar ceza sonrası operasyonları yeniden başlatmasına izin verildi. Stop Ecocide International konuyu ekokirım örnek vakası ilan etti.",
+    "koordinatlar": {
+      "lat": 39.2833,
+      "lng": 38.5641
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Su ve Toprak Kirliliği / İşçi Ölümü"
+  },
+  {
+    "id": "r72jexwttt1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Balıkesir / Çanakkale",
+    "aciklama": "Alamos Gold şirketinin Kaz Dağları'nda başlattığı altın madeni projesi için ÇED onayı alınmadan 195.000'i aşkın ağaç kesildi. 'Kaz Dağları Nöbeti' adıyla ülke gündemini saran protesto dalgası çıktı. Danıştay 2020'de ÇED kararını iptal etti.",
+    "koordinatlar": {
+      "lat": 39.7006,
+      "lng": 26.9728
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ekosistem Tahribatı / Kaçak Madencilik"
+  },
+  {
+    "id": "r840xgyuwu1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul / Kocaeli / Bursa / Yalova",
+    "aciklama": "Onlarca yıllık arıtılmamış atık su deşarjları ve deniz ısınmasının birleşimi, 2021'de Marmara'nın tarihinin en büyük müsilaj felaketiyle sonuçlandı. Deniz tabanı ekosistemi çöktü, balıkçılık ve turizm ağır zarar gördü. Stop Ecocide International bu vakayı ekokırım örneği olarak belgeledi.",
+    "koordinatlar": {
+      "lat": 41.02,
+      "lng": 28.92
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Endüstriyel ve Belediye Atık Suyu Deşarjı"
+  },
+  {
+    "id": "rnv23jchde1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Termik Reaktör",
+    "il": "Kahramanmaraş",
+    "aciklama": "Greenpeace Akdeniz ve Avrupa Çevre Ajansı verilerine göre Afşin-Elbistan A ve B santralleri, Avrupa'nın sağlık riski en yüksek kömür santrallerinden biri. Türkiye'de PM2.5 için yasal sınır bulunmuyor. Santral, AB emisyon standartlarını sürekli aşıyor.",
+    "koordinatlar": {
+      "lat": 37.9208,
+      "lng": 38.3695
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kömür Yakıtlı Santral Emisyonu"
+  },
+  {
+    "id": "re4ojk0qj01774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Termik Reaktör",
+    "il": "Manisa",
+    "aciklama": "Greenpeace verilerine göre Soma, Avrupa'nın sağlık riski ikinci yüksek kömür santrali. Çevre hukuku kuruluşlarının açtığı davalar sonuçsuz kaldı.",
+    "koordinatlar": {
+      "lat": 38.9522,
+      "lng": 27.8681
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kömür Yakıtlı Santral Emisyonu"
+  },
+  {
+    "id": "rtejv16o0x1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim Olayları",
+    "il": "Gaziantep",
+    "aciklama": "Gaziantep OSB'nin tekstil ve boyama tesislerinden deşarj edilen arıtılmamış atık su Sacur Çayı'nı kirletti. Bakanlık denetimleri ceza kesti ancak sistematik yaptırım uygulanamadı.",
+    "koordinatlar": {
+      "lat": 37.2,
+      "lng": 38.4
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Nehir Kirliliği"
+  },
+  {
+    "id": "rfg8pfez2s1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Antalya",
+    "ilce": "Kemer",
+    "aciklama": "Antalya çevresi orman alanlarında tespit edilen kaçak katı atık döküm noktaları, OGM ve Bakanlık denetimleriyle kayıt altına alındı. Tıbbi ve tehlikeli atık dökümü de gündeme geldi.",
+    "koordinatlar": {
+      "lat": 36.760891,
+      "lng": 30.546112
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm"
+  },
+  {
+    "id": "rxxcv1ovwi1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Adıyaman",
+    "aciklama": "Adıyaman Çelikhan'da faaliyette olan altın madeninin atık havuzundan sızıntı tespit edildi; Tohma Çayı balık ölümleri ve kirlilik belirtildi.",
+    "koordinatlar": {
+      "lat": 37.07,
+      "lng": 37.53
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Toprak ve Su Kirliliği"
+  },
+  {
+    "id": "rr1pniggz81774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Taş-Mermer Ocağı",
+    "il": "Malatya",
+    "aciklama": "ÇED belgesi olmaksızın açılan mermer ocakları, dere yatakları yakınında kazı yaparak su kirliliğine yol açtı.",
+    "koordinatlar": {
+      "lat": 37.565,
+      "lng": 37.775
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "ÇED İhlali / Su Kirliliği"
+  },
+  {
+    "id": "rivvw73g6t1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Şırnak",
+    "aciklama": "Stop Ecocide International ve bianet raporlarına göre Şırnak ve çevre ormanlık alanlarda gerçekleştirilen operasyonlar kapsamında geniş meşe orman alanları tahrip edildi. Sivil toplum ve ekokirım inisiyatifi konuyu parlamentoya taşıdı.",
+    "koordinatlar": {
+      "lat": 37.3,
+      "lng": 42.2
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Güvenlik Operasyonları Kapsamında Orman Tahribatı"
+  },
+  {
+    "id": "rlp6l350g01774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Kahramanmaraş / Hatay / Adıyaman",
+    "aciklama": "Internationalist Standpoint ve Stop Ecocide raporlarına göre 6 Şubat depremi sonrasında asbestos içeren enkaz, tehlikeli atık yönetimi kuralları gözetilmeden çevreye dağıtıldı. Ekipman kullanan ve bölgede yaşayan on binlerce kişi maruz kaldı.",
+    "koordinatlar": {
+      "lat": 36.7971,
+      "lng": 38.3743
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Asbest / Tehlikeli Atık Yönetimi"
+  },
+  {
+    "id": "r4txoiim4n1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim Olayları",
+    "il": "Hatay",
+    "aciklama": "6 Şubat depremi sonrasında İskenderun Limanı depolama sahalarında çıkan yangın 5 günü aşkın süre söndürülemedi. Toksik dumana maruz kalan binlerce kişi şikayette bulundu.",
+    "koordinatlar": {
+      "lat": 36.59,
+      "lng": 36.2021
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kimyasal Yangın / Depo Yangını"
+  },
+  {
+    "id": "rifh0woxxe1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Balıkesir",
+    "aciklama": "Marmara'ya akan akarsuların kaynağına yakın alanlarda ÇED belgesi eksiklikleriyle yürütülen maden arama faaliyetleri köylü şikayetleri ve hukuki süreçlere yol açtı.",
+    "koordinatlar": {
+      "lat": 38.9667,
+      "lng": 27.5333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "ÇED İhlali / Orman Tahribatı"
+  },
+  {
+    "id": "r12vursyja1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Hatay",
+    "aciklama": "Deprem inşaat sürecinde ortaya çıkan malzeme açığı, Hatay'da özellikle Asi Nehri'nden kaçak kum ve çakıl çıkarımını artırdı.",
+    "koordinatlar": {
+      "lat": 36.2,
+      "lng": 36.16
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kaçak Kum ve Çakıl Çıkarımı"
+  },
+  {
+    "id": "rzgds4cr7m1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Termik Reaktör",
+    "il": "Ankara",
+    "aciklama": "Termik santral kül sahalarından sızan kirletici ağır metaller yeraltı suyuna karışarak tarım arazilerini etkiledi.",
+    "koordinatlar": {
+      "lat": 39.94,
+      "lng": 32.82
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kül Havuzu Sızıntısı"
+  },
+  {
+    "id": "rbeeq6o8nv1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İzmir",
+    "ilce": "Aliağa",
+    "aciklama": "İzmir Körfezi'nde tespit edilen petrol türevi kirlilik lekesi MARPOL ihlali kapsamında soruşturuldu; kuş ve deniz yaşamında tahribat gözlendi.",
+    "koordinatlar": {
+      "lat": 38.42,
+      "lng": 26.96
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm"
+  },
+  {
+    "id": "r81nsu3wpj1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Malatya",
+    "aciklama": "OGM ve jandarma operasyonunda kaçak kesim yapılan ormanlık alanda yüzlerce ağaç kütüğü ve kaçak kereste ele geçirildi; şüpheliler gözaltına alındı.",
+    "koordinatlar": {
+      "lat": 38.294,
+      "lng": 36.9071
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kaçak Orman Ürünleri Ticareti"
+  },
+  {
+    "id": "rkb3wk9hx41774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim Olayları",
+    "il": "Mersin",
+    "aciklama": "Caretta caretta deniz kaplumbağasının üreme alanlarına yakın bölgelerde imar planı dışı yapılaşma gerçekleştirildi. WWF-Türkiye ve TEMA konuyu raporladı.",
+    "koordinatlar": {
+      "lat": 37,
+      "lng": 35.32
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kıyı Mevzuatı İhlali"
+  },
+  {
+    "id": "rxx5qye3mm1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "İstanbul Boğazı ve Marmara'da av yasağı dönemlerinde, yasaklı av araçlarıyla (sürükleme ağı, elektrik, dinamit) gerçekleştirilen kaçak balıkçılık her yıl binlerce ceza gerektiriyor.",
+    "koordinatlar": {
+      "lat": 41,
+      "lng": 29
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kaçak Avcılık / Su Ürünleri İhlali"
+  },
+  {
+    "id": "rz1bbb461a1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Elazığ",
+    "aciklama": "Keban Barajı çevresindeki maden ve sanayi tesislerinin atık deşarjları baraj suyunu olumsuz etkiledi. Balık ölümleri belgelendi.",
+    "koordinatlar": {
+      "lat": 37.56,
+      "lng": 40.22
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Maden ve Sanayi Atığı"
+  },
+  {
+    "id": "rbz7rnwspm1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Burdur",
+    "aciklama": "Türkiye'nin en hızlı küçülen gölü olan Burdur Gölü, aşırı sulama suyu çekimi ve tarımsal kirlilik nedeniyle son 50 yılda yüzey alanının yarısını yitirdi. Flamingo ve diğer su kuşlarının üreme alanı tehdit altında.",
+    "koordinatlar": {
+      "lat": 37.75,
+      "lng": 30.56
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Toprak Kirliliği / Göl Ekosistemi Tahribatı"
+  },
+  {
+    "id": "r5ua5wg9841774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Kayseri",
+    "aciklama": "Kayseri sanayi bölgesinde lisanssız araçlarla taşınan tehlikeli atıkların ormanlık alanlara ve tarlalara bırakıldığı tespit edildi; operasyon sonrası gözaltılar yapıldı.",
+    "koordinatlar": {
+      "lat": 38.74,
+      "lng": 35.4
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Tehlikeli Atık Kaçak Bertarafı"
+  },
+  {
+    "id": "rjgdnqa3521774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Adana",
+    "aciklama": "Adana OSB'de faaliyet gösteren tekstil ve kimya firmalarının arıtılmamış atık suları Seyhan Nehri'ni kirletti; balık ölümleri ve kötü koku şikayetleri belgelendi.",
+    "koordinatlar": {
+      "lat": 37.06,
+      "lng": 36.88
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Sanayi Atık Suyu Deşarjı"
+  },
+  {
+    "id": "r0t0pey28y1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim Olayları",
+    "il": "Ankara / Kırıkkale",
+    "aciklama": "Türkiye'nin en uzun nehrinin havzasında yetersiz atık su arıtımı ve kaçak deşarjlar su kalitesini bozuyor. Su çerçeve direktifine uyum için AB süreci devam ediyor.",
+    "koordinatlar": {
+      "lat": 39.48,
+      "lng": 33.22
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Belediye ve Sanayi Atık Suyu"
+  },
+  {
+    "id": "ra1t6kkj6i1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Özel Çevre Koruma Alanı",
+    "il": "Muğla",
+    "ilce": "Ula",
+    "aciklama": "Gökova Özel Çevre Koruma Bölgesi sınırları içinde izinsiz kum çıkarımı ve altyapı çalışmaları kıyı ekosistemi tahribatına yol açtı.",
+    "koordinatlar": {
+      "lat": 37.029144,
+      "lng": 28.337173
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Su Kirliliği"
+  },
+  {
+    "id": "r7t8e8rgvr1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Erzincan / Tunceli",
+    "aciklama": "2022 siyanür sızıntısının uzun vadeli etkileri 2023'te Munzur Vadisi'nde de gözlemlenmeye devam etti; sivil toplum kuruluşları su numunelerindeki aşırı ağır metal düzeylerini belgeledi.",
+    "koordinatlar": {
+      "lat": 39.65,
+      "lng": 39.14
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Nehir Kirliliği"
+  },
+  {
+    "id": "rfyu5aix0k1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "Yasal güvence altındaki tescilli zeytinlik alanları imara açılarak kaçak yapılaşmaya konu edildi; Zeytin Kanunu ihlali kapsamında davalar açıldı.",
+    "koordinatlar": {
+      "lat": 37.333041,
+      "lng": 27.6828
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim"
+  },
+  {
+    "id": "rxzvw2rbwh1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Termik Reaktör",
+    "il": "Zonguldak",
+    "aciklama": "Karadeniz kömür havzasında ruhsatsız yürütülen kömür çıkarım faaliyetleri hem çevresel hem de iş güvenliği ihlallerine neden oldu.",
+    "koordinatlar": {
+      "lat": 41.3,
+      "lng": 31.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ruhsatsız Kömür Çıkarımı / Kömür Tozu"
+  },
+  {
+    "id": "rog90bsxim1774237988061",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "İstanbul",
+    "aciklama": "İstanbul Pendik sahiline kaçak inşaat molozunun dökülmesi kıyı mevzuatı ihlali kapsamında soruşturmaya konu oldu.",
+    "koordinatlar": {
+      "lat": 40.93,
+      "lng": 29.1
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kaçak İnşaat Atığı Dökümü"
+  },
+  {
+    "id": "rza9vvnz2i1774238301242",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Finike - Adalya Limestone / Finike Ocağı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.3,
+      "lng": 30.17
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "relqbrljyh1774238301242",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Finike - Boldağ Mevkii Planlı/Var Olan Ocaklar",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.35,
+      "lng": 30.2
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rs3oqc2nww1774238338317",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "Cerattepe bölgesinde yürütülen altın madeni faaliyetleri, ormansızlaşma, toprak ve su kirliliği ile biyoçeşitlilik kaybına yol açmaktadır. Maden sahası, Karadeniz'in eşsiz yağmur ormanları ekosistemi içinde yer almaktadır.",
+    "koordinatlar": {
+      "lat": 41.12666,
+      "lng": 41.18998
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rxmigq9qsk1774238338317",
+    "tip": "Ekolojik İhlal",
+    "ad": "Termik Reaktör",
+    "il": "",
+    "aciklama": "Yeniköy ve Kemerköy termik santrallerine kömür sağlamak amacıyla Akbelen Ormanı'nda ağaç kesimi ve hafriyat yapılmaktadır. Ormanın tamamına yakını yok edilmiş, yerel halk ve çevre örgütlerinin direnişi sürmektedir.",
+    "koordinatlar": {
+      "lat": 37.14332,
+      "lng": 27.98002
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rt99z1r74i1774238338317",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "Çoruh Nehri üzerinde inşa edilen Yusufeli Barajı, vadinin tamamen sular altında kalmasına, tarihi Yusufeli ilçesinin taşınmasına ve tarım arazileri ile ormanlık alanların yok olmasına neden olmuştur.",
+    "koordinatlar": {
+      "lat": 40.78,
+      "lng": 41.57
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rkqgufli331774238338317",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "Aliağa'da bulunan rafineri, petrokimya tesisleri, gemi söküm alanları ve enerji santralleri hava, su ve toprak kirliliğine yol açmaktadır. Bölge halkında kanser ve solunum yolu hastalıkları oranları yüksektir.",
+    "koordinatlar": {
+      "lat": 38.8,
+      "lng": 26.9
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "ro5ainbj1n1774238338317",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "İstanbul'un kuzeyindeki orman alanları, üçüncü köprü, havalimanı, yeni yerleşimler ve maden ocakları nedeniyle parçalanmakta ve yok olmaktadır. Su havzaları tehdit altındadır.",
+    "koordinatlar": {
+      "lat": 41.13,
+      "lng": 28.97
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
+  },
+  {
+    "id": "rl0ded5vm31774238338317",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekolojik İhlal",
+    "il": "",
+    "aciklama": "Kahramanmaraş'ın Andırın, Onikişubat ve Dulkadiroğlu ilçelerinde faaliyet gösteren maden ocakları, ormanlık alanların tahribatına, dere yataklarının kirlenmesine ve toz sorununa neden olmaktadır.",
+    "koordinatlar": {
+      "lat": 37.5,
+      "lng": 36.5
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": null
   }
 ]
