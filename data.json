@@ -48078,5 +48078,77 @@
     "eklenme": "2026-03-23",
     "kaynak": "Manuel",
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rt05umqq0p1774243896848",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Finike",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.479983,
+      "lng": 30.113118
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "r7c74f4tuc1774243937967",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Kumluca",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.498735,
+      "lng": 30.198627
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "r5fioo726c1774243949544",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Finike",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.496252,
+      "lng": 30.193348
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "r45ptsjmp61774243959343",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Finike",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.503289,
+      "lng": 30.18631
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   }
 ]
