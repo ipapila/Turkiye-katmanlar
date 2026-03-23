@@ -1395,13 +1395,13 @@
     "ilce": "Yatağan",
     "aciklama": "Termik santral arazisinde GES dönüşümü.",
     "koordinatlar": {
-      "lat": 37.36,
-      "lng": 28.27
+      "lat": 37.368946,
+      "lng": 28.274002
     },
     "alan_ha": 420,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-17",
+    "eklenme": "2026-03-23",
     "kaynak": "TEDAŞ",
     "alt_kategori": ""
   },
@@ -13996,25 +13996,6 @@
     "alt_kategori": ""
   },
   {
-    "id": "rimklydg4g1774037434486",
-    "tip": "RES",
-    "ad": "RES (9 türbin, Muğla)",
-    "il": "Muğla",
-    "ilce": "Köyceğiz",
-    "aciklama": "(Birleştirilmiş 9 türbin, Muğla)",
-    "koordinatlar": {
-      "lat": 37.22093211111111,
-      "lng": 28.464008222222226
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "5049099264",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON",
-    "count": 9,
-    "alt_kategori": ""
-  },
-  {
     "id": "r9vbvi6xry1774037434486",
     "tip": "RES",
     "ad": "RES (9 türbin, Muğla)",
@@ -20026,23 +20007,6 @@
     "alt_kategori": ""
   },
   {
-    "id": "rkbm2lk2gl1774074216618",
-    "tip": "Termik Reaktör",
-    "ad": "Yatağan Termik Santrali",
-    "il": "Muğla",
-    "aciklama": "Kömür yakıtlı",
-    "koordinatlar": {
-      "lat": 39.85,
-      "lng": 27.8667
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": ""
-  },
-  {
     "id": "rguskmuylc1774074216618",
     "tip": "Termik Reaktör",
     "ad": "Kemerköy Termik Santrali",
@@ -20064,15 +20028,16 @@
     "tip": "Termik Reaktör",
     "ad": "Yeniköy Termik Santrali",
     "il": "Muğla",
+    "ilce": "Milas",
     "aciklama": "Yeniköy, Muğla",
     "koordinatlar": {
-      "lat": 37.8167,
-      "lng": 27.5167
+      "lat": 37.034008,
+      "lng": 27.900295
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": ""
   },
@@ -21833,19 +21798,20 @@
   {
     "id": "rzh29vj3pf1774103717150",
     "tip": "Taş-Mermer Ocağı",
-    "ad": "Köyceğiz Mermer Ocakları",
+    "ad": "Efes – Olivin (RN:201900459)",
     "il": "Muğla",
-    "aciklama": "Muğla'nın Köyceğiz ilçesindeki doğal taş bölgesi.",
+    "ilce": "Köyceğiz",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje, Muğla İli Köyceğiz İlçesi Mevkiinde EFES Endüstri Mineralleri San. ve Tic. A.Ş. tarafından yapılması planlanan “RN:201900459 (ER:3337290) Ruhsat Numaralı, IV. Grup Olivin Ocağı ve Kırma Eleme Tesisi” faaliyetine ilişkindir. Bu amaçla 1753,81 hektarlık Arama Ruhsat alanı içerisinde 24 hektarlık belirlenen ÇED İzin Alanında üretim faaliyetleri yapılacaktır.\nÇED Süreci Başladı",
     "koordinatlar": {
-      "lat": 36.9614,
-      "lng": 28.6836
+      "lat": 37.011874,
+      "lng": 28.875847
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rud3ogjfa11774103717150",
@@ -26858,24 +26824,6 @@
     "alt_kategori": ""
   },
   {
-    "id": "rmkwafnpgt1774184258860",
-    "tip": "HES",
-    "ad": "Bodrum Barajı",
-    "il": "Muğla",
-    "ilce": "Yatağan",
-    "aciklama": "Su / İçme Kullanma Sulama Barajları\nİnşa Tarihi: 1 Ocak 1970\nDSİ (Devlet Su İşleri) Genel Müdürlüğü, DSİ 21. Aydın Bölge Müdürlüğü tarafından Muğla İli Milas İlçesi ile Bodrum İlçesi sınırları içerisinde Bodrum Yarımadası’nın içmesuyunu temini amacıyla Kayaderesi Çayı üzerinde Bodrum Barajı’nın yapılması planlanmaktadır. ÇED olumlu kararı T.C. Muğla 1. İdsari Mahkemesi tarafından 21.3.2023 tarihinde ESAS NO : 2022/156 KARAR NO : 2023/691 ile oy birliğile iptal edildi . 2009/7 genelgesi kapsamında ÇED süreci devam ettirildi ve 11.11.2024 tarihinde güncellenen ÇED raporu yayımlandı, 22.11.2024'te İnceleme Değerlendirme Kurul toplantısı yapıldı ve 29.4.2025'te tekrar projeye ÇED olumlu kararı verildi.\nÇED Raporu Onaylandı",
-    "koordinatlar": {
-      "lat": 37.218573,
-      "lng": 27.948875
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Manuel",
-    "alt_kategori": ""
-  },
-  {
     "id": "rw5apbig6f1774184575969",
     "tip": "Taş-Mermer Ocağı",
     "ad": "Akar İnşaat - Mermer Ocağ",
@@ -29224,23 +29172,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r58go7fnlp1774238794127",
-    "tip": "GES",
-    "ad": "Yatağan GES",
-    "il": "Muğla",
-    "aciklama": "Termik santral arazisinde GES dönüşümü.",
-    "koordinatlar": {
-      "lat": 37.36,
-      "lng": 28.27
-    },
-    "alan_ha": 420,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "ry4ugm2y971774238794127",
     "tip": "GES",
     "ad": "Milas GES Sahası",
@@ -30687,20 +30618,21 @@
   },
   {
     "id": "rolvzwwing1774238794127",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
+    "tip": "GES",
+    "ad": "Yatağan Termik Enerji - GES",
     "il": "Muğla",
-    "aciklama": "",
+    "ilce": "Menteşe",
+    "aciklama": "Enerji / Güneş Enerji Santralleri\nİnşa Tarihi: 1 Ocak 1970\nYatağan Termik Enerji Üretim A.Ş. tarafından Muğla ili, Yatağan ilçesinde 674,9800 MWm/666,0000 MWe mevcut kurulu gücüyle faaliyet gösteren “Yatağan Termik Enerji Santrali”ne kendi maden ruhsat sahası dahilinde olmak üzere toplam 99,9 MWm/85,0 MWe gücünde olacak şekilde 3 alanda (GES-1, GES-2, GES-3) güneş enerjisi santrali (GES) ünitesi ilave edilmesi suretiyle “Yatağan Termik Enerji Santrali Yardımcı Kaynak Güneş Enerji Santrali Projesi (99,9 MWm/85,0 MWe-149,5 ha)” nin gerçekleştirilmesi planlanmaktadır.\nÇED Raporu Onaylandı",
     "koordinatlar": {
-      "lat": 37.232789,
-      "lng": 28.189201
+      "lat": 37.240442,
+      "lng": 28.177614
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rcdlso260e1774238794127",
@@ -41261,57 +41193,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rpdyolcihs1774238794129",
-    "tip": "RES",
-    "ad": "RES (9 türbin, Muğla)",
-    "il": "Muğla",
-    "aciklama": "(Birleştirilmiş 9 türbin, Muğla)\n(Birleştirilmiş 3 türbin, Muğla)",
-    "koordinatlar": {
-      "lat": 37.247086,
-      "lng": 28.453826
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "5049099270",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rnk3jet63t1774238794129",
-    "tip": "RES",
-    "ad": "RES (3 türbin, Muğla)",
-    "il": "Muğla",
-    "aciklama": "(Birleştirilmiş 3 türbin, Muğla)\n(Birleştirilmiş 3 türbin, Muğla)",
-    "koordinatlar": {
-      "lat": 37.255605,
-      "lng": 28.437751
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "5049099277",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r2dpbxa5f51774238794129",
-    "tip": "RES",
-    "ad": "RES (4 türbin, Muğla)",
-    "il": "Muğla",
-    "aciklama": "(Birleştirilmiş 4 türbin, Muğla)\n(Birleştirilmiş 2 türbin, Muğla)",
-    "koordinatlar": {
-      "lat": 37.193264,
-      "lng": 28.483085
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "5050178655",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r97hb5y1le1774238794129",
     "tip": "RES",
     "ad": "RES (11 türbin, Muğla)",
@@ -48217,6 +48098,528 @@
     "koordinatlar": {
       "lat": 36.424183,
       "lng": 30.241756
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r6x9yn8xuh1774244552321",
+    "tip": "Termik Reaktör",
+    "ad": "Yeniköy Termik Santrali",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.13774,
+      "lng": 27.876606
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rs7k74nfnn1774244642706",
+    "tip": "GES",
+    "ad": "Regnum – GES 1, 2 ve 3",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "Enerji / Güneş Enerji Santralleri\nİnşa Tarihi: 1 Ocak 1970\nRegnum Gayrimenkul Geliştirme İnş. San. ve Dış Tic. A.Ş. tarafından Muğla İli, Milas İlçesi, Kayadere Mahallesi, 101 Ada 496 Nolu Parselde “Regnum 1 GES (0,594 MWm / 0,39 MWe-0,78 ha), Regnum 2 GES (1,4058 MWm / 0,8 MWe-1,60 ha) ve Regnum 3 GES (1,4058 MWm / 0,95 MWe-1,90 ha) Projesi” nin yapılması ve işletilmesi planlanmaktadır.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.213994,
+      "lng": 27.844634
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "ro4fn0oojx1774244683241",
+    "tip": "GES",
+    "ad": "Regnum – GES 1, 2 ve 3",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.216266,
+      "lng": 27.844548
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "r88yym2j5r1774244749213",
+    "tip": "Sulak Alan",
+    "ad": "Bodrum Barajı",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "Su / İçme Kullanma Sulama Barajları\nİnşa Tarihi: 1 Ocak 1970\nDSİ (Devlet Su İşleri) Genel Müdürlüğü, DSİ 21. Aydın Bölge Müdürlüğü tarafından Muğla İli Milas İlçesi ile Bodrum İlçesi sınırları içerisinde Bodrum Yarımadası’nın içmesuyunu temini amacıyla Kayaderesi Çayı üzerinde Bodrum Barajı’nın yapılması planlanmaktadır. ÇED olumlu kararı T.C. Muğla 1. İdsari Mahkemesi tarafından 21.3.2023 tarihinde ESAS NO : 2022/156 KARAR NO : 2023/691 ile oy birliğile iptal edildi . 2009/7 genelgesi kapsamında ÇED süreci devam ettirildi ve 11.11.2024 tarihinde güncellenen ÇED raporu yayımlandı, 22.11.2024'te İnceleme Değerlendirme Kurul toplantısı yapıldı ve 29.4.2025'te tekrar projeye ÇED olumlu kararı verildi.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.194715,
+      "lng": 27.873173
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "riqhmjs55c1774244863572",
+    "tip": "Sulak Alan",
+    "ad": "Bodrum Barajı",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "Su / İçme Kullanma Sulama Barajları\nİnşa Tarihi: 1 Ocak 1970\nDSİ (Devlet Su İşleri) Genel Müdürlüğü, DSİ 21. Aydın Bölge Müdürlüğü tarafından Muğla İli Milas İlçesi ile Bodrum İlçesi sınırları içerisinde Bodrum Yarımadası’nın içmesuyunu temini amacıyla Kayaderesi Çayı üzerinde Bodrum Barajı’nın yapılması planlanmaktadır. ÇED olumlu kararı T.C. Muğla 1. İdsari Mahkemesi tarafından 21.3.2023 tarihinde ESAS NO : 2022/156 KARAR NO : 2023/691 ile oy birliğile iptal edildi . 2009/7 genelgesi kapsamında ÇED süreci devam ettirildi ve 11.11.2024 tarihinde güncellenen ÇED raporu yayımlandı, 22.11.2024'te İnceleme Değerlendirme Kurul toplantısı yapıldı ve 29.4.2025'te tekrar projeye ÇED olumlu kararı verildi.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.220692,
+      "lng": 27.940807
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rn4srbn7a01774245024384",
+    "tip": "Maden Ocağı",
+    "ad": "Bıçakçılar - Boksit - 2014",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.221307,
+      "lng": 28.110924
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "r9nkd8damj1774245149236",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Ermaş - Coante Composit",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "I., II. ve V. Grup Madenler / Mermer ve Dekoratif Taşları Kesme, İşleme ve Sayalama Tesisleri\nİnşa Tarihi: 1 Ocak 1970\nProje konusu, faaliyet sahibi ERMAŞ MADENCİLİK TURİZM SAN. VE TİC. A.Ş. tarafından Muğla İli, Menteşe İlçesi, Bayır Mahallesi, Haranıpınarı Mevkiinde, N20A25C4D Pafta, 141 Ada, 3 ve 12 Parseller ile 140 Ada, 15 Parselde kayıtlı toplam 52.391,43 m2 tapulu alanda “Coante Kompozit Plaka Üretim Tesisi” kapasite artırımı projesidir.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.252365,
+      "lng": 28.228469
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rlzg0fh7491774245288097",
+    "tip": "Ekolojik İhlal",
+    "ad": "MUSKİ – Arıtma Çamuru Kurutma-Yakma Tesisi",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "Atık / Atık Bertaraf/Geri Kazanım/Depolama Tesisi Projeleri\nİnşa Tarihi: 1 Ocak 1970\nAdres: Muğla, Yatağan İlçesi, Akyol Mahallesi Arıtma Çamuru Kurutma, Yakma ve Enerji Üretim Tesisinin, Yatağan Atıksu Arıtma Tesisi sınırları içerisinde bulunan 2.550,49 m² ’lik boş alana kurulması planlanmaktadır. Tesis Muğla İli ve İlçelerinde bulunan 27 adet evsel atıksu arıtma tesislerinde oluşan çamur hesaplamalarına göre 200 ton / gün çamur kapasiteli tesis olarak planlanmıştır. ÇED raporu için nihai karar 16/12/2021 tarihinde, proje için ÇED olumlu kararı 01/08/2024 tarihinde verilmiştir.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.339899,
+      "lng": 28.119249
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "remotrj7f01774245347487",
+    "tip": "Maden Ocağı",
+    "ad": "FC Ticaret - Zımpara Taşı",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nYatağan İlçesi, Dere Mahallesi, N20-A2,N20-A3 Paftaları Ruhsat alanı 785,25 ha alan kaplamakta olup ruhsat alanı içerisinde toplamda 24,68 hektarlık alan ÇED İzin Alanı ve 1,771 hektarlık Kırma-Eleme ve Mikronize Tesis Alanı belirlenmiştir.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.35433,
+      "lng": 28.139763
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rjki3zd9rq1774245397820",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Özkar - Kırma Eleme ve Diğer Tesisler",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "I., II. ve V. Grup Madenler / I., II. ve V. Grup Maden Kırma Eleme Yıkama\nİnşa Tarihi: 1 Ocak 1970\nProje: ER.3371277 No.lu ve S.49700 (2384072) No.lu Ruhsat Sahalarında Kırma Eleme Tesisi Kapasite Artışı, Hazır Beton Tesisi, Asfalt Plent Tesisi, Mekanik Plentmiks Tesisi, Kireç Üretim Tesisi Ve Beton Parke Büz Üretim Projesi Adres: Muğla İli, Yatağan İlçesi, Kafacacakaplancık Mahallesi Mevkii Söz konusu proje iki tane (ER.3371277 numaralı ve S.49700 (2384072) numaralı) ruhsat sahalarının içinde belirlenmiş olan toplam 262.135,181 m2’lik sahada (ÇED Alanı) planlanmaktadır\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.365178,
+      "lng": 28.16534
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rtiuliw3f51774245565569",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Sarıotluk Mağarası Koruma Alanı",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.377592,
+      "lng": 28.138819
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rgjefh9hyj1774245658687",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Muğla Çimento",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "anayi / Çimento Tesisleri\nİnşa Tarihi: 1 Ocak 1970\nProjeye konu olan faaliyet; Muğla İli, Menteşe İlçesi, Bayır Mahallesi ile Yatağan İlçesi, Deştin Mahallesi Mevkii‟nde 1.700.000 ton/yıl klinker, 2.500.000 ton/yıl çimento üretim kapasiteli “Entegre Çimento Fabrikası ve Hammadde Ocakları‟nın” kurulmasıdır. Fabrikanın kurulacağı alan, Bayır Mahallesi mücavir alanı dâhilinde olup Muğla Çimento San. ve Tic. A.Ş.‟ye ait tapulu arazi içerisinde yer almaktadır. ÇED raporu 31.12.2014 tarihinde onaylanmıştır, onay duyurusu 28.12.2021 tarihinde Muğla Valiliği ÇŞİD Müdürlüğü tarafından yapılmıştır. ÇED rapor Muğla 2 İdare Mahkemesi tarafından E:2022/2222, K:2023/1222 ve E:2022/2242, K:2023/1255 kararlarla iptal edilmiştir. Proje sahibi tarafından 2009/7 sayılı Genelgeye dayanarak güncellenmiş ÇED raporu sunuldu. ÇED süreci yeniden İDK toplantısı ile devam edilmiştir. Daha önce planlan 13 adet hammadde ocağı 2024 yılı ÇED raporunda altıya düşürüldü (4 adet kalker, 2 adet kil ocağı). Tesis sahasının alanı 15,31 hektar, hammadde sahaları 428,17 hektardır.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.30997,
+      "lng": 28.259239
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "r80bv2jllw1774245781458",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Keynak Keyik - Mermer - Yatağan",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nII-B Grubu Maden (Mermer) Ocağı S:201800507(ER:3365424); Yatağan , Deştin Mahallesi, Topankır Tepesi Mevkii\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.341639,
+      "lng": 28.332539
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rzu4nbi79j1774245818314",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kommersan – Mermer (S.65467, S.69293, S.200611395, S.201200764, S.201001150)",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nKommersan Mermer Maden İşletmeleri San. Ve Tic. A.Ş. tarafından Muğla İli, Yatağan İlçesi, Deştin Mahallesi, Başdan Gediği Mevkii civarında, 1/25.000 ölçekli memleket haritasının N20-b4 paftasında yer alan S.65467 (ER.2520355), S.69293 (ER.2146351), S.200611395 (ER.3123981), S.201200764 (ER.3252128) ve S.201001150 (ER.3242124) Ruhsat No.Lu Sahalarda II-B Grubu Maden (Mermer) Ocağı Kapasite Artırımı, Mermer Kesme–İşleme Fabrikası Ve Kırma Eleme Tesisi Projesi planlanmaktadır. Alan bir biriyle bitişik 5 ruhsat alanından oluşmaktadır. Mevcut ÇED alanları, mevcut ÇED kapsam dışı alanları ve talep edilen yeni ÇED alanlar ile birlikte ruhsat alanların büyük bir bölümü ÇED alan ile doldurulmaktadır.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.349418,
+      "lng": 28.331165
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rq744fay2u1774245852098",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Bıçakçılar - Mermer Ocağı: Kapasite Artışı",
+    "il": "Muğla",
+    "ilce": "Kavaklıdere",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\n64257 RUHSAT NUMARALI MERMER OCAĞI KAPASİTE ARTIŞI; Muğla, Yatağan ilcesi, Esenköy Mah.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.37234,
+      "lng": 28.311424
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "r8fo25ubmg1774245917810",
+    "tip": "RES",
+    "ad": "Lodos – RES (2024)",
+    "il": "Muğla",
+    "ilce": "Kavaklıdere",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nProje alanı Aydın N20-b1 ve N20-b4 paftalarında Muğla ili, Yatağan, Kavaklıdere ve Menteşe ilçelerinde yer almaktadır. Lodos RES santral sahasında 10 adet [9 x (5MWm/5MWe) + 1 x (4,5MWm, 4,5MWe)] toplamda (49,5 MWm/49,5 MWe) rüzgâr türbini kurulması planlanmaktadır. Lodos RES Projesi daha önce iki defa iptal edilmiştir: Lodos Yenilenebilir Enerji ve Elektrik Üretim A.Ş. tarafından, ilk olarak; Muğla İli, Bodrum İlçesi, Çiftlikköy Mevkiinde, 49,5 MWm/49,5 MWe kurulu güçteki “Lodos RES” projesi için 03.02.2020 tarihinde e-ÇED, id=28728 numarası ile başvuru yapılmıştır. Ancak önlisans türbin koordinatlarının Muğla Büyükşehir Belediyesi’nin İlke Kararı’nda belirlenen RES yapılabilir alan sınırları içinde olmaması ve bazı direklerin turizm bölgesinde kalmasından dolayı söz konusu proje iptal edilmiştir. Daha sonra projenin yeri Muğla İli, Milas ilçesi Kabaağaç ve Yoğunoluk mevkilerinde (Sandal ve Kartal dağı) kalacak şekilde 24.11.2022 tarihinde e-ÇED, id=42045 numarası ile başvuru yapılmıştır. Ancak söz konusu proje için hazırlanan TÜBİTAK Radar Performans ve İz Analiz Merkezinden (RAPSİM) alınan teknik etkileşim analiz raporuna göre, proje direklerinin Milas Küçüksungurtepe PSR sistem performansını olumsuz yönde etkileyerek hava seyrüsefer emniyeti için gerekli performans kriterlerini ihlal edeceği için söz konusu proje tekrar iptal edilmiştir. Bu giriş 2024 yılında yeniden başlatılan ÇED sürecine aittir.\nHalkın Katılım Toplantısı",
+    "koordinatlar": {
+      "lat": 37.42089,
+      "lng": 28.32962
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rqo4ea3b9l1774245945958",
+    "tip": "RES",
+    "ad": "Gökzirve – RES (2022)",
+    "il": "Muğla",
+    "ilce": "Kavaklıdere",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nGÖKZİRVE ENERJİ A.Ş. tarafından Muğla İli; Menteşe İlçesi, Muğlakarlığı Tepe Ve Sakar Tepe Mevkiinde, Gökzirve RES Kapasite Artışı (mevcut 7 adet türbine (Her biri 4 MWm/3,6 MWe) 3 adet ilave türbin (Her biri 5,56 MWm/5,56 MWe) ile kapasite artışının yapılması ve 28 MWm/25,2 MWe olan kurulu gücün 44,68 MWm/41,88 MWe’ye çıkartılması). planlanmaktadır. Gökzirve RES Lisans Alanı 1.232,54 hektardır. Mevcut türbinler için Bodrum Rüzgar Enerjisinden Elektrik Üretimi Santrali Ltd.Şti. adına 29.03.2017 tarih ve 2017120 nolu “ÇED Gerekli Değildir” kararı alınmıştır O projenin Proje Tanıtım Dosyası \"Bodrum Rüzgar Enerji Santralı (2017): PTD dosyası\" olarak sunulmuştur. ÇED başvuru dosyasında mevcut türbin T3 için verilen koordinat hatalıdır, Türbin ÇED alanın dışında kalmaktadır!\nİnceleme Değerlendirme Kurulu Toplantısı",
+    "koordinatlar": {
+      "lat": 37.382434,
+      "lng": 28.346786
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "relbrafzhk1774245989631",
+    "tip": "RES",
+    "ad": "Asia Global – Özlüce RES",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nAsia Global Enerji Yatırım Anonim Şirketi tarafından Muğla İli, Menteşe İlçesi, Yeşilyurt, Şenyayla ve Özlüce Mahalleleri mevkiinde 10 adet türbinden oluşan “Özlüce RES ve Enerji Depolama Tesisi (10 adet türbin-50 MWm/50 MWe) Projesi” nin yapılması ve işletilmesi planlanmaktadır. Santral sahası toplam 1384,21 hektardır.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.31352,
+      "lng": 28.437595
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r0cvst5hlj1774246087754",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Orman İnşaat - Mermer (RN.201901846)",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nOrman İnşaat Madencilik Telekomünikasyon Sanayi ve Ticaret Limited Şirketi tarafından; Muğla İli, Menteşe İlçesi, Şenyayla Mahallesi sınırları içerisindeki RN.201901846 Ruhsat ve ER:3386164 Erişim Nolu II-B Grup maden sahasında Mermer Ocağı işletmesi planlanmaktadır.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.339524,
+      "lng": 28.489952
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rn8mmlw5ld1774246123203",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Maren - Kalsit Ocağı",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nS.87797(ER.3350247) VE S.87806(3364222) NOLU RUHSAT SAHASINDA II-C GRUBU MADEN (KALSİT) OCAĞI; Menteşe ilcesi, Göktepe Mah.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.402074,
+      "lng": 28.55896
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ril7epsths1774246439992",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Alfa - Olivin",
+    "il": "Muğla",
+    "ilce": "Köyceğiz",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje sahibi: Alfa-Olivin Endüstriyel Mineral Madencilik Ak. İnş. Tem. Gıda Taş. San. Tiç. Ltd. Şti Adres: Muğla İli Köyceğiz ilçesi Mevcut Olivin ocağın kapasite artışı için 11.8.2020 ÇED başvuru ve 4.9.2020 tarihinde Halkın Katılım Toplantısı yapıldı. Ondan sonra proje iptal edildi. Aynı ruhsat alan içinde 12.10.2020 tekrar kapasite artışı için farklı bir ÇED alanı için başvuru yapıldı. Bu başvuru süreci devam etmektedir. İki tane IDK toplantısı yapıldı: 25/012/2022 ve 24/05/2022 Projede ruhsat alanı, mevcut ÇED alanı ve başvuruya ait yeni ÇED alanı mevcut.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.068601,
+      "lng": 28.815079
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "retlmlbqcg1774246471087",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Efes - Olivin (RN 200809719)",
+    "il": "Muğla",
+    "ilce": "Köyceğiz",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / III. ve IV. Grup Maden Arama\nİnşa Tarihi: 1 Ocak 1970\nProje: 200809719 Ruhsat Numaralı IV. Grup Olivin Ocağı ve Kırma Eleme Tesisi Adres: Muğla İli, Köyceğiz İlçesi, Çamovası Mahallesi Mevkii\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.06504,
+      "lng": 28.851471
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rka0g0bpss1774246504005",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "ETİ – Krom (S.200807209) - Ocak 2022",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje konusu faaliyet; Muğla İli, Köyceğiz İlçesi, Yayla Mahallesi sınırları dahilinde Eti Krom A.Ş. tarafından işletilmesi planlanan “S.200807209 Numaralı Krom Ocağı Yeraltı İşletmeciliği” projesidir. Proje kapsamında 2 poligonda toplam 23,99 hektarlık alanda proje sahibi tarafından beyan edilen 350 m3/yıl (1400 ton/yıl) tüvenan cevher üretilmesi planlanmaktadır. ÇED gereklidir kararı üzere 31.8.2022 tarihinde ÇED süreci yeniden başlamıştır, ancak süreci 13.10.2022 tarihinde Bakanlık tarafından iptal edilmiştir. 30.04.2024 tarihinde yeniden başlatılan ÇED süreci dosyadaki eksiklikler giderilmediği için 14.06.2024 tarihinde bakanlığını E-ÇED sayfasına yansıtılmadan sonlandırılmıştır. 6.9.2024 tarihinde ÇED süreci tekrar başlatılmış. (bakınız: ETİ – Krom (S.200807209) – 09/2024)\nÇED Gereklidir",
+    "koordinatlar": {
+      "lat": 37.109408,
+      "lng": 28.809929
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r7gd734r9b1774246539217",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "ETİ – Krom (S.200807209) – 09/2024",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nETİ KROM A.Ş. tarafından Muğla İli, Köyceğiz İlçesi, Yayla Mahallesi sınırlarında N21c4 paftasında RN: 200807209 ve ER. 3160232 numaralı IV(c). Grup 217,33 hektar ruhsat alanında yeraltı üretim yöntemi ile 23,95 hektarlık ÇED alanında krom ocağı işletilmesi planlanmaktadır. İlk defa 3.1.2022 tarihinde ÇED süreci başlatılmıştı. Projeyi çevresel etkileri ön inceleme ve değerlendirmeye tabi tutulduktan sonra 20.4.2022 tarihinde “ÇED gereklidir” kararı verilmişti. 31.8.2022 tarihinde ÇED süreci yeniden başlamıştır, ancak ÇED süreci 13.10.2022 tarihinde Bakanlık tarafından iptal edilmiştir. 30.04.2024 tarihinde yeniden ÇED başvurusunda bulunulmuş. ÇED Başvuru Dosyası 07.06.2024 tarihinde gerekli düzenlemelerin yapılması için iade edilmiştir. Başvuru dosyası belirtilen süreler (30 gün) içerisinde sunulmadığından, ÇED Süreci 14.06.2024 tarihinde bakanlığını E-ÇED sayfasına yansıtılmadan sonlandırılmıştır. 6.9.2024 tarihinde ÇED süreci tekrar başlatılmış.\nHalkın Katılım Toplantısı",
+    "koordinatlar": {
+      "lat": 37.124191,
+      "lng": 28.806152
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r81inczpe31774246576848",
+    "tip": "RES",
+    "ad": "EN2 – Gaia RES",
+    "il": "Muğla",
+    "ilce": "Ula",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nMuğla İli, Köyceğiz ve Ula İlçeleri sınırları içerisinde Turgut Mahallesi ve Kavakçalı Mahallesi mevkilerinde “EN 2 RÜZGAR ENERJİSİ YATIRIM ANONİM ŞİRKETİ” tarafından “GAİA RÜZGÂR ENERJİ SANTRALİ (20 ADET TÜRBİN – 84 MWm / 61 MWe) PROJESİ” nin yapılması ve işletilmesi planlanmaktadır. Planlanan proje kapsamında her biri 4,2 MWm/3,0 MWe gücünde olan 19 adet türbin ve 4,2 MWm/4,0 MWe gücünde olan 1 adet türbin olmak üzere toplam 20 adet türbin kurulması planlanmaktadır.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 37.153202,
+      "lng": 28.709335
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r1ur8zqnsr1774246615132",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mine Yatırım – Krom",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje kapsamında; Muğla İli, Menteşe İlçesi, Karacaören Mahallesi Mevkii, N21c1 ve N21d2 paftasında yer alan 1588,71 hektar büyüklüğündeki İR: 200807168 (EN: 3160220) numaralı ruhsat sahası içerisinde mevcut durumda 48,3 hektarlık alanda pasa dahil üretim miktarı 30.000 ton/yıl olan Krom Ocağı için ÇED Gerekli Değildir Kararı alınmış sahada, iş bu proje ile 1.074,78 hektarlık alanda pasa dahil toplam 160.000 ton/yıl üretim kapasitesi olan “Krom Ocağı Kapasite Artışı” faaliyeti planlanmaktadır.\nİnceleme Değerlendirme Kurulu Toplantısı",
+    "koordinatlar": {
+      "lat": 37.173449,
+      "lng": 28.77491
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r4xqlrqf001774246641441",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "ETİ – Krom (S.200810161) - Ocak 2022",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje konusu faaliyet; Muğla İli, Merkez İlçesi sınırları dahilinde ETİ Krom A.Ş. tarafından gerçekleştirilmesi planlanan “S.200810161 Numaralı Krom Ocağı Yeraltı İşletmeciliği” projesidir. Proje kapsamında toplam 23,9 hektarlık alanda proje sahibi tarafından beyan edilen 500 m3/yıl (2.000 ton/yıl) tüvenan krom cevheri üretilmesi planlanmaktadır.\nÇED Gereklidir",
+    "koordinatlar": {
+      "lat": 37.21912,
+      "lng": 28.759117
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r14zwksj0o1774246699125",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Akuvamarin - Mermer",
+    "il": "Muğla",
+    "ilce": "Köyceğiz",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje: 201800298 (ER:3365647) Ruhsat Numaralı Mermer Ocağı Arama ve İşletme Adres: Köyceğiz ilçesi, Otmanlar Mahallesi\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.051889,
+      "lng": 28.964081
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r2g32ehlok1774246772812",
+    "tip": "Maden Ocağı",
+    "ad": "İntermetal - Krom - 2021",
+    "il": "Muğla",
+    "ilce": "Köyceğiz",
+    "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje: S.85948 (ER:3365741) Ruhsat Numaralı Sahada IV. Grup Maden (Krom) Ocağı Kapasite Artışı Projesi Adres: Muğla İli, Köyceğiz İlçesi, Karaçam Mahallesi S.2000804332 ve S.200703659 numaralı ruhsat alanlar S.85948 numaralı saha olarak birleştirilmiş ve 2021 yılında kapasite artırımı talebi yapıldı. S.2000804332 ruhsat alan içinde bulunan proje alanı için ilk ÇED gerekli değildir kararı 2015 yılında alındı\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.010229,
+      "lng": 29.047165
     },
     "alan_ha": 0,
     "durum": "Aktif",
