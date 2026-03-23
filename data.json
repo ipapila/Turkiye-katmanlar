@@ -27758,17 +27758,18 @@
     "tip": "Ekolojik İhlal",
     "ad": "Yırca Zeytinliği Tahribatı",
     "il": "Manisa",
+    "ilce": "Soma",
     "aciklama": "2014'te termik santral için zeytinlik alanın imhası.",
     "koordinatlar": {
-      "lat": 39.18,
-      "lng": 27.6
+      "lat": 39.19611,
+      "lng": 27.688251
     },
     "alan_ha": 6,
     "durum": "Kapatıldı",
     "belge_no": "ÇB-İHL-2014-001",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   },
   {
     "id": "rv9ds93ezo1774238794127",
@@ -45976,5 +45977,113 @@
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
+  },
+  {
+    "id": "regxn2us2k1774239191724",
+    "tip": "Maden Ocağı",
+    "ad": "Ege Linyit İşletmesi SOMA",
+    "il": "Manisa",
+    "ilce": "Soma",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.112481,
+      "lng": 27.57019
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rq8j913vav1774239376489",
+    "tip": "Maden Ocağı",
+    "ad": "Soma Kül Barajı",
+    "il": "Manisa",
+    "ilce": "Soma",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.238369,
+      "lng": 27.626581
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "r9jf3urbt81774239639683",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Ören – Kalker - İPTAL",
+    "il": "Muğla",
+    "ilce": "Datça",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nSöz konusu proje, Muğla İli, Datça İlçesi, Mesudiye Mahallesi Mevkii dahilinde Ören Turizm Tic. Beton Mad. İşl. Ltd. Şti. uhdesinde bulunan 79527 numaralı II-a Grubu işletme ruhsatlı saha dahilinde “Kalker Ocağı ve Kırma Eleme Tesisi Alan Artışı” çalışmalarını kapsamaktadır. Proje alan artıma projesi, kapasite artırılmayacaktır. Proje'nin ÇED süreci proje sahibinin talebi üzere 2.3.2023'te sonlandırılmıştır.\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 36.712639,
+      "lng": 27.578452
+    },
+    "alan_ha": 0,
+    "durum": "İptal",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": null
+  },
+  {
+    "id": "rwpwet7g0q1774239700615",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Özberk - Kalker",
+    "il": "Muğla",
+    "ilce": "Datça",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nII-A Grubu Kalker Ocağı ve Kırma-Eleme Tesisi (ER:3395194); Özberk İnşaat Turizm Ticaret Madencilik ve San. Ltd. Şti Özberk İnşaat Turizm Ticaret Madencilik ve San. Ltd. Şti. tarafından, Muğla İli, Datça İlçesi, İskele Mh. Mevkii, sınırları içerisinde, 88873 Sicil ve 3395194 erişim numaralı II-A Grup ruhsat sahası içerisinde “II-A Grubu Kalker Ocağı ve Kırma Eleme Tesisi” yapılması planlanmaktadır. Faaliyetin planlandığı ruhsat sahasında, 62,03 ha alana sahip olmaklabirlikte,ruhsat sahası içerisinde 2 poligon olarak patlatmalı açık ocak işletmeciliği ile malzeme çıkarılması ve Ek-1’de koordinatları verilen 395.000 ton/yıl kapasiteli kırma eleme tesisinde boyutlandırılarak piyasaya verilmesi hedeflenmektedir\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 36.719158,
+      "lng": 27.662866
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": null
+  },
+  {
+    "id": "r6mh90i2nn1774239749416",
+    "tip": "RES",
+    "ad": "Hisarüstü – Acar RES (İptal)",
+    "il": "Muğla",
+    "ilce": "Datça",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nHisarüstü Enerji Yatırımları A.Ş. tarafından; Muğla İli, Datça İlçesi, Karaköy Mahallesi, Uzundere, Güzne, Uzunkurtderesi, Kızılağaç Mevkileri, Reşadiye Mahallesi, Tekir Mevki ile Kızlan Mahallesi Mevkii’nde “Acar Rüzgar Enerji Santrali Depolamalı Elektrik Üretim Tesisi” nin yatırıma geçirilmesi planlanmaktadır. Projede toplam 7 adet türbin ve lityum iyon teknolojisi elektrik depolama tesisi kurulacak olup, Rüzgar Enerji Santralinin kurulu gücü 29,7 MWm/29,7 MWe, Elektrik Depolama Tesisi (EDT) kapasitesi ise 29,7 MWe/29,7 MWh olacaktır. ÇED süreci 12.8.2024 tarihinde mevzuata uygun olmadığı gerekçesiyle iptal edildi\nHalkın Katılım Toplantısı",
+    "koordinatlar": {
+      "lat": 36.79334,
+      "lng": 27.640915
+    },
+    "alan_ha": 0,
+    "durum": "İptal",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": null
+  },
+  {
+    "id": "rgfr8oeez01774239998831",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kızılbük Resort",
+    "il": "Muğla",
+    "ilce": "Marmaris",
+    "aciklama": "Turizm / Turistik Tesisler\nİnşa Tarihi: 1 Ocak 1970\nKIZILBÜK Gayrimenkul Yatırım Ortaklığı A.Ş tarafından Muğla İli, Marmaris İlçesi, İçmeler Mahallesi Kızılkum Mevkiinde MARMARİS KIZILBÜK RESORT OTEL VE DEVREMÜLK (205 Odalı Otel ve 1407 Adet Devremülk) projesi planlanmıştı. Proje için 13.8.2021 tarihinde verilen “ÇED gerekli değildir” kararı 07.07.2022 tarihinde Muğla 3. İdare Mahkemesi’nin 2021/1000 Esas No’lu 2022/1046 Nolu Kararı ile iptal edildi. 8.9.2022 tarihinde aynı mevkiinde 1598 nolu parselde (9.509 m²) ve 2518 nolu parselde (163.968,72 m²) toplam 173.477,72 m²’lik alanda “Marmaris Kızılbük Resort Otel ve Devremülk (206 Odalı Otel ve 1323 Adet Devremülk (Konut)) projesi olarak ÇED süreci ÇED yönetmelik Ek-1 kapsamında yeniden başlatıldı.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 36.793804,
+      "lng": 28.248875
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim"
   }
 ]
