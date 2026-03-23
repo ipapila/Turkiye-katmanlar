@@ -48627,5 +48627,23 @@
     "eklenme": "2026-03-23",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "rljocadfpk1774260645628",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kaçak döküm",
+    "il": "Antalya",
+    "ilce": "Kepez",
+    "aciklama": "Kepez - Kızıllı Çevresi: Antalya'nın ana katı atık bertaraf tesislerinin bulunduğu bu bölgenin yakınlarındaki ormanlık sınır hatlarında, zaman zaman kaçak dökümlerin yaşandığı ve denetimlerin bu hatlarda yoğunlaştığı bilinmektedir.",
+    "koordinatlar": {
+      "lat": 37.10311,
+      "lng": 30.71125
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm"
   }
 ]
