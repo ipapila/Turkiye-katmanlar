@@ -25592,20 +25592,21 @@
   },
   {
     "id": "re8t1mno601774105334505",
-    "tip": "İklim Olayları",
+    "tip": "Milli Park",
     "ad": "Beydağları Sahil Milli Parkı",
     "il": "Antalya",
+    "ilce": "Kemer",
     "aciklama": "Antik Likya bölgesi. Homeros'un anlatısındaki efsanevi Yanartaş (sönmeyen alev) burada. Deniz kaplumbağası yumurtlama sahilleri koruma altında.",
     "koordinatlar": {
-      "lat": 36.54,
-      "lng": 30.56
+      "lat": 36.568391,
+      "lng": 30.543022
     },
     "alan_ha": 31166,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "ru4qn2lli31774105334505",
@@ -25645,20 +25646,21 @@
   },
   {
     "id": "rj6aqisrox1774106026688",
-    "tip": "İklim Olayları",
+    "tip": "Milli Park",
     "ad": "Beydağları Sahil (Olympos) Milli Parkı",
     "il": "Antalya",
+    "ilce": "Kemer",
     "aciklama": "Olympos, Phaselis, İdyros antik kentleri + Homer'in anlatısındaki Yanartaş (Chimaera). Caretta caretta'nın Çıralı ve Tekirova sahillerinde yuvalaması.",
     "koordinatlar": {
-      "lat": 36.4833,
-      "lng": 30.5333
+      "lat": 36.483279,
+      "lng": 30.497103
     },
     "alan_ha": 31165,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r577mn36sy1774106026688",
@@ -48150,5 +48152,77 @@
     "eklenme": "2026-03-23",
     "kaynak": "Manuel",
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rcebrq11jc1774244016292",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Kumluca",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.384064,
+      "lng": 30.382519
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rfmk3s3rjj1774244034327",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Kumluca",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.426756,
+      "lng": 30.381317
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rdyfxtz1ub1774244075030",
+    "tip": "HES",
+    "ad": "Baraj",
+    "il": "Antalya",
+    "ilce": "Kumluca",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.421947,
+      "lng": 30.349957
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rl1j9y8ko41774244125308",
+    "tip": "HES",
+    "ad": "HES",
+    "il": "Antalya",
+    "ilce": "Kumluca",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.424183,
+      "lng": 30.241756
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-23",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
