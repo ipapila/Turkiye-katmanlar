@@ -286,17 +286,17 @@
     "id": "r51ch4sq6q1773928264740",
     "tip": "Sulak Alan",
     "ad": "Tuz Gölü",
-    "il": "Ankara",
-    "ilce": "",
+    "il": "Konya",
+    "ilce": "Cihanbeyli",
     "aciklama": "Türkiye'nin ikinci büyük gölü. Ramsar alanı.",
     "koordinatlar": {
-      "lat": 38.78,
-      "lng": 33.38
+      "lat": 38.732661,
+      "lng": 33.348999
     },
     "alan_ha": 166000,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-19",
+    "eklenme": "2026-03-24",
     "kaynak": "Çevre Bakanlığı",
     "alt_kategori": ""
   },
@@ -398,13 +398,13 @@
     "ilce": "",
     "aciklama": "Doğu Karadeniz'in yoğun orman örtüsü.",
     "koordinatlar": {
-      "lat": 41.18,
-      "lng": 41.82
+      "lat": 41.163406,
+      "lng": 41.839542
     },
     "alan_ha": 92000,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-19",
+    "eklenme": "2026-03-24",
     "kaynak": "OGM",
     "alt_kategori": ""
   },
@@ -4137,24 +4137,6 @@
     "alt_kategori": ""
   },
   {
-    "id": "osm_kv_1744041858",
-    "tip": "Kültür Varlığı",
-    "ad": "მემედ აბაშიძის სახლ-მუზეუმი",
-    "il": "Türkiye",
-    "ilce": "",
-    "aciklama": "Muze | OSM ID: 1744041858",
-    "koordinatlar": {
-      "lat": 41.652003,
-      "lng": 41.639404
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1744041858",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM/Muze",
-    "alt_kategori": ""
-  },
-  {
     "id": "osm_kv_1770612643",
     "tip": "Kültür Varlığı",
     "ad": "Osmanlı Bankası Müzesi",
@@ -5014,38 +4996,20 @@
     "alt_kategori": ""
   },
   {
-    "id": "src_d23346811439",
-    "tip": "HES",
-    "ad": "Artvin Yusufeli Barajı ve HES",
-    "il": "Artvin",
-    "ilce": "Yusufeli",
-    "aciklama": "Çoruh Nehri üzerinde. 558 MW. Yusufeli ilçesini su altına aldı.",
-    "koordinatlar": {
-      "lat": 40.75,
-      "lng": 41.43
-    },
-    "alan_ha": 10600,
-    "durum": "Aktif",
-    "belge_no": "DSİ-HES-002",
-    "eklenme": "2025-01-01",
-    "kaynak": "DSİ",
-    "alt_kategori": ""
-  },
-  {
     "id": "src_a9a295811439",
     "tip": "HES",
     "ad": "Deriner Barajı ve HES",
     "il": "Artvin",
-    "ilce": "Artvin Merkez",
+    "ilce": "",
     "aciklama": "Çoruh üzerinde 670 MW. Türkiye'nin en yüksek barajı.",
     "koordinatlar": {
-      "lat": 40.87,
-      "lng": 41.2
+      "lat": 41.17158,
+      "lng": 41.869025
     },
     "alan_ha": 5700,
     "durum": "Aktif",
     "belge_no": "DSİ-HES-003",
-    "eklenme": "2025-01-01",
+    "eklenme": "2026-03-24",
     "kaynak": "DSİ",
     "alt_kategori": ""
   },
@@ -7576,19 +7540,18 @@
     "id": "r8r3rc8uwf1774037434483",
     "tip": "RES",
     "ad": "Rüzgâr Türbini (3 türbin, Antalya)",
-    "il": "Antalya",
-    "ilce": "",
+    "il": "Konya",
+    "ilce": "Beyşehir",
     "aciklama": "(Birleştirilmiş 3 türbin, Antalya)",
     "koordinatlar": {
-      "lat": 37.594894000000004,
-      "lng": 31.665008333333333
+      "lat": 37.594286,
+      "lng": 31.665548
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "6926324719",
-    "eklenme": "2026-03-19",
+    "eklenme": "2026-03-24",
     "kaynak": "Shapefile/GeoJSON",
-    "count": 3,
     "alt_kategori": ""
   },
   {
@@ -8698,18 +8661,17 @@
     "tip": "RES",
     "ad": "RES (7 türbin, Balıkesir)",
     "il": "Balıkesir",
-    "ilce": "",
+    "ilce": "Altıeylül",
     "aciklama": "(Birleştirilmiş 7 türbin, Balıkesir)",
     "koordinatlar": {
-      "lat": 39.640495,
-      "lng": 27.81038542857143
+      "lat": 39.638959,
+      "lng": 27.811278
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "5442896867",
-    "eklenme": "2026-03-19",
+    "eklenme": "2026-03-24",
     "kaynak": "Shapefile/GeoJSON",
-    "count": 7,
     "alt_kategori": ""
   },
   {
@@ -19751,23 +19713,6 @@
     "alt_kategori": ""
   },
   {
-    "id": "rbi2difbgw1774074034022",
-    "tip": "HES",
-    "ad": "Deriner Hidroelektrik Santrali",
-    "il": "Artvin",
-    "aciklama": "Çoruh Nehri üzerinde, çift eğrilikli kemer baraj",
-    "koordinatlar": {
-      "lat": 41.65,
-      "lng": 41.62
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": ""
-  },
-  {
     "id": "rm8ul2v6ix1774074034022",
     "tip": "HES",
     "ad": "Oymapınar Hidroelektrik Santrali",
@@ -19997,23 +19942,6 @@
     "koordinatlar": {
       "lat": 38.6503,
       "lng": 38.2406
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": ""
-  },
-  {
-    "id": "rguskmuylc1774074216618",
-    "tip": "Termik Reaktör",
-    "ad": "Kemerköy Termik Santrali",
-    "il": "Muğla",
-    "aciklama": "Kemerköy, Muğla",
-    "koordinatlar": {
-      "lat": 38.3,
-      "lng": 27.2833
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -20983,17 +20911,18 @@
     "tip": "Maden Ocağı",
     "ad": "Murgul-Çakmakkaya Bakır Madeni",
     "il": "Artvin",
+    "ilce": "Murgul",
     "aciklama": "Doğu Pontid kuşağında Kuroko tipi Cu-Zn-Pb masif sülfür yatağı. Damar ve Çakmakkaya açık ocaklarından oluşur. 2500+ kişi istihdamı.",
     "koordinatlar": {
-      "lat": 41.2094,
-      "lng": 41.3981
+      "lat": 41.237867,
+      "lng": 41.559048
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rnbt6exp3i1774103612604",
@@ -21765,17 +21694,18 @@
     "tip": "Taş-Mermer Ocağı",
     "ad": "Dursunbey Mermer Ocakları",
     "il": "Balıkesir",
+    "ilce": "Dursunbey",
     "aciklama": "Balıkesir'in iç kısımlarındaki önemli doğal taş bölgesi.",
     "koordinatlar": {
-      "lat": 39.5833,
-      "lng": 28.0578
+      "lat": 39.575329,
+      "lng": 28.558273
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r4uvy8mmtm1774103717150",
@@ -23676,23 +23606,6 @@
     "koordinatlar": {
       "lat": 37.905,
       "lng": 28.029
-    },
-    "alan_ha": 0,
-    "durum": "Ön Lisans",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rrxzyz1l701774103897822",
-    "tip": "Jeotermal",
-    "ad": "Enerjikan JES (Ön Lisanslı)",
-    "il": "Balıkesir",
-    "aciklama": "Balıkesir Bigadiç bölgesinde geliştirilen yeni jeotermal proje. Ege-Marmara bölgelerinin kesişimindeki jeotermal potansiyeli değerlendirmektedir.",
-    "koordinatlar": {
-      "lat": 38.405,
-      "lng": 28.205
     },
     "alan_ha": 0,
     "durum": "Ön Lisans",
@@ -27261,23 +27174,6 @@
     "alt_kategori": "Kimyasal Yangın / Depo Yangını"
   },
   {
-    "id": "rifh0woxxe1774237988061",
-    "tip": "Ekolojik İhlal",
-    "ad": "Ekolojik İhlal",
-    "il": "Balıkesir",
-    "aciklama": "Marmara'ya akan akarsuların kaynağına yakın alanlarda ÇED belgesi eksiklikleriyle yürütülen maden arama faaliyetleri köylü şikayetleri ve hukuki süreçlere yol açtı.",
-    "koordinatlar": {
-      "lat": 38.9667,
-      "lng": 27.5333
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "ÇED İhlali / Orman Tahribatı"
-  },
-  {
     "id": "r12vursyja1774237988061",
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
@@ -27625,18 +27521,19 @@
     "id": "rt99z1r74i1774238338317",
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
-    "il": "",
+    "il": "Artvin",
+    "ilce": "Yusufeli",
     "aciklama": "Çoruh Nehri üzerinde inşa edilen Yusufeli Barajı, vadinin tamamen sular altında kalmasına, tarihi Yusufeli ilçesinin taşınmasına ve tarım arazileri ile ormanlık alanların yok olmasına neden olmuştur.",
     "koordinatlar": {
-      "lat": 40.78,
-      "lng": 41.57
+      "lat": 40.807833,
+      "lng": 41.54686
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rkqgufli331774238338317",
@@ -28591,23 +28488,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rxln7yfieu1774238794127",
-    "tip": "Maden Ocağı",
-    "ad": "Hopa Altın Madeni",
-    "il": "Artvin",
-    "aciklama": "Karadeniz bölgesinde altın işletmesi. Çevresel tartışmalı saha.",
-    "koordinatlar": {
-      "lat": 41.4,
-      "lng": 41.38
-    },
-    "alan_ha": 420,
-    "durum": "Aktif",
-    "belge_no": "MTA-AU-001",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rn47kahy3b1774238794127",
     "tip": "Maden Ocağı",
     "ad": "Uşak Eşme Altın Madeni",
@@ -28837,17 +28717,18 @@
     "tip": "Ekolojik İhlal",
     "ad": "Artvin Cerattepe Maden Tehdidi",
     "il": "Artvin",
+    "ilce": "",
     "aciklama": "Bakır madeni projesi Kafkasör mesire alanı ve orman tehdidi.",
     "koordinatlar": {
-      "lat": 41.2,
-      "lng": 41.82
+      "lat": 41.163956,
+      "lng": 41.798472
     },
     "alan_ha": 860,
     "durum": "Yargıda",
     "belge_no": "ÇB-İHL-2016-001",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rw0m7om22n1774238794127",
@@ -31908,34 +31789,18 @@
     "tip": "HES",
     "ad": "Artvin Yusufeli Barajı ve HES",
     "il": "Artvin",
+    "ilce": "Yusufeli",
     "aciklama": "Çoruh Nehri üzerinde. 558 MW. Yusufeli ilçesini su altına aldı.",
     "koordinatlar": {
-      "lat": 40.75,
-      "lng": 41.43
+      "lat": 40.81251,
+      "lng": 41.548705
     },
     "alan_ha": 10600,
     "durum": "Aktif",
     "belge_no": "DSİ-HES-002",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rqoty60jyf1774238794128",
-    "tip": "HES",
-    "ad": "Deriner Barajı ve HES",
-    "il": "Artvin",
-    "aciklama": "Çoruh üzerinde 670 MW. Türkiye'nin en yüksek barajı.",
-    "koordinatlar": {
-      "lat": 40.87,
-      "lng": 41.2
-    },
-    "alan_ha": 5700,
-    "durum": "Aktif",
-    "belge_no": "DSİ-HES-003",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rxe5iuki061774238794128",
@@ -34714,18 +34579,19 @@
     "id": "rzn23msxe71774238794128",
     "tip": "RES",
     "ad": "Rüzgâr Türbini (3 türbin, Antalya)",
-    "il": "Antalya",
+    "il": "Konya",
+    "ilce": "Beyşehir",
     "aciklama": "(Birleştirilmiş 3 türbin, Antalya)\n(Birleştirilmiş 2 türbin, Antalya)",
     "koordinatlar": {
-      "lat": 37.593839,
-      "lng": 31.665845
+      "lat": 37.591179,
+      "lng": 31.667769
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "6926324719",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rxp5shsxwd1774238794128",
@@ -35412,17 +35278,18 @@
     "tip": "RES",
     "ad": "RES (7 türbin, Balıkesir)",
     "il": "Balıkesir",
+    "ilce": "Altıeylül",
     "aciklama": "(Birleştirilmiş 7 türbin, Balıkesir)\n(Birleştirilmiş 3 türbin, Balıkesir)",
     "koordinatlar": {
-      "lat": 39.640555,
-      "lng": 27.811008
+      "lat": 39.640025,
+      "lng": 27.814615
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "5442896867",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rcp7r0nsst1774238794128",
@@ -49246,6 +49113,24 @@
     "koordinatlar": {
       "lat": 37.051067,
       "lng": 28.931122
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rverqvgw2u1774331620717",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Şavakçı Maden İşletmesi",
+    "il": "Balıkesir",
+    "ilce": "Bigadiç",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.461379,
+      "lng": 28.13736
     },
     "alan_ha": 0,
     "durum": "Aktif",
