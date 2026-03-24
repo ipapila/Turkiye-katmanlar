@@ -5225,15 +5225,14 @@
     "ilce": "Bergama",
     "aciklama": "(Birleştirilmiş 15 türbin, İzmir)",
     "koordinatlar": {
-      "lat": 39.03855793333334,
-      "lng": 27.0293916
+      "lat": 39.040036,
+      "lng": 27.02847
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "1932056395",
-    "eklenme": "2026-03-19",
+    "eklenme": "2026-03-24",
     "kaynak": "Shapefile/GeoJSON",
-    "count": 15,
     "alt_kategori": ""
   },
   {
@@ -28647,17 +28646,18 @@
     "tip": "Maden Ocağı",
     "ad": "Erzincan İliç Altın Madeni",
     "il": "Erzincan",
+    "ilce": "İliç",
     "aciklama": "2024 heyelanı felaketi yaşanan altın madeni sahası.",
     "koordinatlar": {
-      "lat": 39.45,
-      "lng": 38.55
+      "lat": 39.438712,
+      "lng": 38.533945
     },
     "alan_ha": 780,
     "durum": "Durduruldu",
     "belge_no": "MTA-AU-004",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rih6rjauef1774238794127",
@@ -28766,17 +28766,18 @@
     "tip": "Ekolojik İhlal",
     "ad": "Erzincan İliç Altın Madeni Heyelanı",
     "il": "Erzincan",
+    "ilce": "İliç",
     "aciklama": "Şubat 2024'te Çöpler Altın Madeni'nde büyük heyelan. 9 işçi hayatını kaybetti. Siyanür sızıntısı riski.",
     "koordinatlar": {
-      "lat": 39.45,
-      "lng": 38.55
+      "lat": 39.43195,
+      "lng": 38.55566
     },
     "alan_ha": 780,
     "durum": "Yargıda",
     "belge_no": "ÇB-İHL-2024-001",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r0aolg8psb1774238794127",
@@ -32119,17 +32120,18 @@
     "tip": "RES",
     "ad": "Rüzgâr Türbini (15 türbin, İzmir)",
     "il": "İzmir",
+    "ilce": "",
     "aciklama": "(Birleştirilmiş 15 türbin, İzmir)\n(Birleştirilmiş 3 türbin, İzmir)",
     "koordinatlar": {
-      "lat": 39.037943,
-      "lng": 27.028603
+      "lat": 39.037678,
+      "lng": 27.032365
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "1932056395",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rxbzecbrli1774238794128",
@@ -48645,5 +48647,113 @@
     "eklenme": "2026-03-23",
     "kaynak": "Manuel",
     "alt_kategori": "Atık Suçu/Kaçak Döküm"
+  },
+  {
+    "id": "rvvm55ym9e1774325623853",
+    "tip": "Maden Ocağı",
+    "ad": "Tüprag Kışladağ Altın Madeni",
+    "il": "Uşak",
+    "ilce": "Eşme",
+    "aciklama": "Devasa açık ocak, su tüketimi",
+    "koordinatlar": {
+      "lat": 38.481545,
+      "lng": 29.149132
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "reg7zesge71774325842818",
+    "tip": "Maden Ocağı",
+    "ad": "Çöpler ALtın Madeni",
+    "il": "Erzincan",
+    "ilce": "İliç",
+    "aciklama": "Atık barajı sızıntısı ve heyelan riski",
+    "koordinatlar": {
+      "lat": 39.422138,
+      "lng": 38.526821
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rvt5av6gjb1774326291896",
+    "tip": "Maden Ocağı",
+    "ad": "Tüplrağ Efemçukuru Altın Madeni",
+    "il": "İzmir",
+    "ilce": "Menderes",
+    "aciklama": "Yer altı su havzası yakınlığı",
+    "koordinatlar": {
+      "lat": 38.286433,
+      "lng": 26.974504
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rsnh4i2rr71774326453363",
+    "tip": "Maden Ocağı",
+    "ad": "Koza Altın Çukuralan Altın Madeni",
+    "il": "İzmir",
+    "ilce": "Dikili",
+    "aciklama": "Yer altı su havzası yakınlığı",
+    "koordinatlar": {
+      "lat": 39.206253,
+      "lng": 26.968088
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rigctt3wyq1774326561089",
+    "tip": "Maden Ocağı",
+    "ad": "Türk  Altın İşletmeleri Ovacık Madeni",
+    "il": "İzmir",
+    "ilce": "Bergama",
+    "aciklama": "Yer altı su havzası yakınlığı",
+    "koordinatlar": {
+      "lat": 39.077909,
+      "lng": 27.073874
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rx3szy693r1774327170754",
+    "tip": "Maden Ocağı",
+    "ad": "Yeniköy Termik Santralı (1986) ve Kemerköy (Gökova) TS (1994) Kömür Sahaları",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / Kömür Ocağı\nİnşa Tarihi: 1 Ocak 1970\nNe termik santral ne bu proje altında girilen kömür ocaklar için bir ÇED süreci gerçekleşmedi! Ruhsat alanların koordinatları (durum Aralık 2020) yüklendi\nÇED Durumu Bilinmiyor",
+    "koordinatlar": {
+      "lat": 37.042572,
+      "lng": 27.88888
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   }
 ]
