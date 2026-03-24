@@ -26890,9 +26890,9 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-22",
+    "eklenme": "2026-03-24",
     "kaynak": "Manuel",
-    "alt_kategori": ""
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim"
   },
   {
     "id": "r3fc7x33ht1774184947646",
@@ -30381,9 +30381,10 @@
   },
   {
     "id": "rkmh7iadlo1774238794127",
-    "tip": "Maden Ocağı",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Maden Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.283648,
@@ -30392,16 +30393,17 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r8t8emtht31774238794127",
-    "tip": "Maden Ocağı",
-    "ad": "Maden Ocağı",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mustafa Yüksel - Mermer Ocağı",
     "il": "Muğla",
-    "aciklama": "",
+    "ilce": "",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nS.20053864 (ER.3066103) No.lu II-A Grubu İşletme Ruhsatlı Sahada Mermer Ocağı Alansal Artışı, Kalker Ocağı, Kırma Eleme Tesisi Ve Mermer Kesme İşleme Tesisi Projesi; Muğla İli, Milas İlçesi, Menteş Mahallesi, Dömete Sırtı Mevkii\nÇED Gerekli Değildir",
     "koordinatlar": {
       "lat": 37.289624,
       "lng": 27.837982
@@ -30409,15 +30411,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r4wb34ryky1774238794127",
-    "tip": "Maden Ocağı",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Maden Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.27938,
@@ -30426,9 +30429,9 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r0gtganmcz1774238794127",
@@ -48203,16 +48206,16 @@
     "tip": "Maden Ocağı",
     "ad": "Bıçakçılar - Boksit - 2014",
     "il": "Muğla",
-    "ilce": "Yatağan",
+    "ilce": "Menteşe",
     "aciklama": "Petrol-Doğalgaz - III. ve IV. Grup Madenler / IV. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nÇED Gerekli Değildir",
     "koordinatlar": {
-      "lat": 37.221307,
-      "lng": 28.110924
+      "lat": 37.203261,
+      "lng": 28.111954
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Manuel",
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   },
@@ -48755,5 +48758,167 @@
     "eklenme": "2026-03-24",
     "kaynak": "Manuel",
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rwrflpnbhj1774327665471",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Doğan Yapı - Kalker Ocağı - Milas",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nS.69922 (ER.2552649) Nolu Ruhsat Sahasında II-A Grubu Maden (Kalker)Ocağı Alan Artırımı Projesi; Milas ilçesi, Avşar Mahallesi, Sarnıç Mevkii; Proje ile ocak alanında artış yapılacak olup, Mevcut ÇED kararlarına esas belirtilen üretim tekniği ile ocak üretim kapasitesi ve kırma eleme tesisi kapasitesinde herhangi bir değişiklik yapılmayacaktır. Mevcut 24,38 ha ÇED alanına 0,53 ha alan ilavesi ile toplam ÇED alanı 24,91 ha alan olacaktır.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.282658,
+      "lng": 27.695074
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rs481s5viu1774327740325",
+    "tip": "Sulak Alan",
+    "ad": "Bargilya Boğaziçi Sulak Alanı",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.20955,
+      "lng": 27.606583
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rfgnw9dovs1774327795215",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Aybil Maden - Kum-Çakıl",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nER.3396858 ERİŞİM NOLU KUM-ÇAKIL OCAĞI; Milas İlçesi, Bahçeburun Mahallesi, (N19-B4 NOLU PAFTA, ER.3396858 ERİŞİM NOLU SAHA)\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.350509,
+      "lng": 27.750607
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rlbs2jc6xg1774327838913",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "CML - Mermer Ocağı",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nMuğla İli, Milas İlçesi, Kırcağız Mahallesi, Kavacık Mevkii -- Ruhsat sahası 99,69 hektarlık alan için T.C. Enerji ve Tabii Kaynaklar Bakanlığı Maden ve Petrol İşleri Genel Müdürlüğü tarafından II-B Grubu Arama Ruhsatı verilmiştir. Ruhsat Sahasının 15,47 Hektarlık Kısmında 20.000 m3/yıl Blok Mermer (180.000 m3/yıl Pasa) Üretimi\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 37.347507,
+      "lng": 27.842102
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rg7uo0l1fu1774328291743",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Omeks - Mermer - Menteşe",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\n202001787 (ER.3399084) RUHSAT NUMARALI II-B GRUBU 24,88 HEKTAR 810.000 TON/YIL KAPASİTELİ MERMER OCAĞI; Menteşe, Çırpı Mahallesi Mevkii, 202001787 Ruhsat numaralı ve 24,88 Hektar ÇED Alanı\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 37.188425,
+      "lng": 28.05685
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rlyb4foxuo1774328351616",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Applestone - Mermer",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "I., II. ve V. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nII-B GRUBU MADEN (MERMER) OCAĞI S.201901249 (ER:3385544: Applestone Lojistik İthalat İhracat Sanayi ve Ticaret Limited Şirketi Enerji ve Tabii Kaynaklar Bakanlığı, Maden ve Petrol İşleri Genel Müdürlüğü tarafından 29.08.2019 tarihinden 29.08.2021 tarihine kadar geçerli II-B grubu AramaRuhsatı alınmıştır. Arama Ruhsatı Ek:2’te sunulmuştur. Proje kapsamında 98,38 Ha.’lık ruhsat alanının, 24,38 Ha.’lık kısmında mermer üretim faaliyeti gerçekleştirilmesi planlanmaktadır. Proje kapsamında mermer rezerv alanında yapılan çalışmalar ve proje yakın çevresindeki aynı formasyonda çalışan diğer mermer üretim ocaklarından edinilen veriler kapsamında ocak veriminin %10 olacağı öngörülmektedir\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.219257,
+      "lng": 28.128433
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r9f0ze7h3e1774328451792",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "BG-Taş - Mermer Ocağı",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nRN:202001111 NOLU MERMER OCAĞI; Menteşe İlçesi, Şenyayla  Mahallesi G-TAŞ Madencilik San. ve Tic. Ltd. Şti. tarafından, Muğla İli, Menteşe İlçesi, Şenyayla Mahallesi sınırlarında bulunan II-b grubu arama ruhsatlı maden sahası içerisinde; “RN:202001111 Nolu Mermer Ocağı” projesi planlanmaktadır. Söz konusu faaliyetin planlandığı alana, Maden ve Petrol İşleri Genel Müdürlüğü tarafından BG-TAŞ Madencilik San. ve Tic. Ltd. Şti. adına 202001111 ruhsat numarası (ER: 3339644) ile 23.09.2022 tarihine kadar geçerli olmak üzere II-b grubu arama ruhsatı düzenlenmiştir (Bkz. Ek-8). Yüzölçümü; 62,24 ha büyüklüğünde olan arama ruhsat II-b grubu maden sahası içerisinde iki poligonlu proje alanı belirlenmiştir. Proje alanı olarak belirlenen poligonların yüzölçümleri sırasıyla 19,16 ha ile 5,69 ha olup proje alanı toplamda 24,85 ha olarak planlanmıştır.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.339046,
+      "lng": 28.416138
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rhy1vvnfjn1774328518811",
+    "tip": "RES",
+    "ad": "Gökzirve – RES (2022)",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "Enerji / Rüzgar Enerji Santraller\nİnşa Tarihi: 1 Ocak 1970\nGÖKZİRVE ENERJİ A.Ş. tarafından Muğla İli; Menteşe İlçesi, Muğlakarlığı Tepe Ve Sakar Tepe Mevkiinde, Gökzirve RES Kapasite Artışı (mevcut 7 adet türbine (Her biri 4 MWm/3,6 MWe) 3 adet ilave türbin (Her biri 5,56 MWm/5,56 MWe) ile kapasite artışının yapılması ve 28 MWm/25,2 MWe olan kurulu gücün 44,68 MWm/41,88 MWe’ye çıkartılması). planlanmaktadır. Gökzirve RES Lisans Alanı 1.232,54 hektardır. Mevcut türbinler için Bodrum Rüzgar Enerjisinden Elektrik Üretimi Santrali Ltd.Şti. adına 29.03.2017 tarih ve 2017120 nolu “ÇED Gerekli Değildir” kararı alınmıştır O projenin Proje Tanıtım Dosyası \"Bodrum Rüzgar Enerji Santralı (2017): PTD dosyası\" olarak sunulmuştur. ÇED başvuru dosyasında mevcut türbin T3 için verilen koordinat hatalıdır, Türbin ÇED alanın dışında kalmaktadır!\nİnceleme Değerlendirme Kurulu Toplantısı",
+    "koordinatlar": {
+      "lat": 37.351328,
+      "lng": 28.431931
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r2yw90wcw41774328667065",
+    "tip": "RES",
+    "ad": "YEKA yenilenebilir enerji kaynak alanları",
+    "il": "Muğla",
+    "ilce": "Menteşe",
+    "aciklama": "21 Mart 2021 tarihinde yenilenebilir enerji kaynak alanları Resmi Gazete'de yayımlandı. Muğla İlinde bulunanlar haritaya işlendi. Arturna YEKA için 14.7.2023 tarihinde koordinat değişikliğine gidildi.\nÇED Durumu Bilinmiyor",
+    "koordinatlar": {
+      "lat": 37.188767,
+      "lng": 28.585739
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
