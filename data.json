@@ -29465,52 +29465,55 @@
     "id": "rimr28uery1774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Mermer Ocağı",
-    "il": "Antalya",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.369224,
-      "lng": 29.239039
+      "lat": 36.368913,
+      "lng": 29.240971
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r8shy1p3mh1774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Mermer Ocağı",
-    "il": "Antalya",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.369881,
-      "lng": 29.247665
+      "lat": 36.368775,
+      "lng": 29.24758
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "reydvd5mgf1774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Mermer Ocağı",
-    "il": "Antalya",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.36525,
-      "lng": 29.2308
+      "lat": 36.364697,
+      "lng": 29.229555
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r3ui1so0wk1774238794127",
@@ -29550,69 +29553,73 @@
     "id": "rcqjaqgwm91774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Mermer Ocağı",
-    "il": "Antalya",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.445616,
-      "lng": 29.26083
+      "lat": 36.446763,
+      "lng": 29.261656
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rzw96n7hjt1774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Taş Ocağı",
-    "il": "Antalya",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.425892,
-      "lng": 29.212282
+      "lat": 36.425426,
+      "lng": 29.211617
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r91j24p5w21774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "Fethiye",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.441999,
-      "lng": 29.178346
+      "lat": 36.441861,
+      "lng": 29.178593
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rnd75ddavi1774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "Fethiye",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.439531,
-      "lng": 29.1734
+      "lat": 36.439643,
+      "lng": 29.173599
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rx01zl8f791774238794127",
@@ -29623,40 +29630,6 @@
     "koordinatlar": {
       "lat": 36.613805,
       "lng": 29.225092
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rd0j1qk6be1774238794127",
-    "tip": "Ekolojik İhlal",
-    "ad": "Taş Ocağı",
-    "il": "Antalya",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.507015,
-      "lng": 29.471855
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rbih43nulr1774238794127",
-    "tip": "Ekolojik İhlal",
-    "ad": "Taş Ocağı",
-    "il": "Antalya",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.499218,
-      "lng": 29.398813
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -48605,13 +48578,13 @@
     "ilce": "Köyceğiz",
     "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje: 201800298 (ER:3365647) Ruhsat Numaralı Mermer Ocağı Arama ve İşletme Adres: Köyceğiz ilçesi, Otmanlar Mahallesi\nÇED Gerekli Değildir",
     "koordinatlar": {
-      "lat": 37.051889,
-      "lng": 28.964081
+      "lat": 37.102289,
+      "lng": 28.929405
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-24",
     "kaynak": "Manuel",
     "alt_kategori": ""
   },
@@ -48985,6 +48958,294 @@
     "koordinatlar": {
       "lat": 36.727603,
       "lng": 29.19136
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rg1w6me4xb1774328990435",
+    "tip": "Maden Ocağı",
+    "ad": "Seydikemer Belediyesi – Serpantin (ER 3321657)",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nSeydikemer Belediye Başkanlığı tarafından; Muğla İli, Seydikemer İlçesi, Uğurlu Mahallesi sınırları içerisindeki ER.3321657 Erişim Nolu ve 48/2015-02 Hammadde İzin numaralı II A. Grup maden sahasında Serpantin Ocağı Alan Genişletilmesi yapılması planlanmaktadır. Bu proje ile ruhsat ÇED alanı ruhsat sınırına kadar genişletilecektir.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 36.623519,
+      "lng": 29.350662
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r1frue5ewm1774329072291",
+    "tip": "HES",
+    "ad": "Çökek - Buldurat HES",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "Enerji / Hidroelektrik Santraller\nİnşa Tarihi: 1 Ocak 1970\nProje: Buldurat Regulatörü ve Hidroelektrik Santralı (6.15 MWm-5.90 MWe) Adres: Muğla İli, Seydikemer İlçesi, Batı Akdeniz Havzası, Dikilitaş Dere üzerinde Proje Buldurat 1 (Regulatörü, İletim Borusu ve Santral Bina Sahası) ve Buldurat 2 (Regulatörü, İletim Borusu ve Santral Bina Sahası) ‘den oluşmaktadır İlk proje başvurusu 10.6.2016 tarihinde yapılmış, ancak 12.10.2018 tarihinde MEVZUATTAN İADE / İPTAL edilmiştir. Ancak o karardan önce 31.08.2018 tarihinde proje için yeniden başvuru yapıldı.\nİnceleme Değerlendirme Kurulu Toplantısı",
+    "koordinatlar": {
+      "lat": 36.562385,
+      "lng": 29.421666
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r1lqttta0s1774329106576",
+    "tip": "HES",
+    "ad": "Çökek - Buldurat HES",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "Enerji / Hidroelektrik Santraller\nİnşa Tarihi: 1 Ocak 1970\nProje: Buldurat Regulatörü ve Hidroelektrik Santralı (6.15 MWm-5.90 MWe) Adres: Muğla İli, Seydikemer İlçesi, Batı Akdeniz Havzası, Dikilitaş Dere üzerinde Proje Buldurat 1 (Regulatörü, İletim Borusu ve Santral Bina Sahası) ve Buldurat 2 (Regulatörü, İletim Borusu ve Santral Bina Sahası) ‘den oluşmaktadır İlk proje başvurusu 10.6.2016 tarihinde yapılmış, ancak 12.10.2018 tarihinde MEVZUATTAN İADE / İPTAL edilmiştir. Ancak o karardan önce 31.08.2018 tarihinde proje için yeniden başvuru yapıldı.\nİnceleme Değerlendirme Kurulu Toplantısı",
+    "koordinatlar": {
+      "lat": 36.562703,
+      "lng": 29.423608
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rc5el47xvt1774329178880",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Aklar - Kum-Çakıl Ocağı",
+    "il": "Antalya",
+    "ilce": "Kaş",
+    "aciklama": "I., II. ve V. Grup Madenler / I. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje konusu Muğla İli. Seydikemer İlçesi. Korubükü Mahallesi mevkiinde 1/25.000 ölçekli memleket haritalarının P22b1 no.lu paftasında Aklar Kum İnş. Hafr. Nak. Tahh. Tic. Ltd. Şti. tarafından ‘I (A) Grubu Kum-Çakıl Ocağı’ projesidir. Muğla İli. Seydikemer İlçesi. Korubükü Mahallesi Mevkii\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 36.4663,
+      "lng": 29.370575
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "ri2kj5rxrj1774329385560",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Hedef Akdeniz - Kalker",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nT.C. Enerji ve Tabii Kaynaklar Bakanlığı Maden İşleri Genel Müdürlüğü tarafından 31.08.2021 tarihinde 10 yıl süre ile geçerli 94,63 hektarlık alan için II-A Grubu İşletme Ruhsatı verilmişitr (Bkz.Ek-2Ö). Muğla İli, Seydikemer İlçesi, İzzettin Mahallesi\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 36.430053,
+      "lng": 29.248438
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "repfw1yh021774329478327",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Seydikemer Belediyesi – Kalker Ocağı (3340603)",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nSeydikemer Belediye Başkanlığı tarafından; Muğla İli, Seydikemer İlçesi, Kabaağaç Mahallesi sınırları içerisindeki ER.3340603 Erişim Nolu ve 48/2016-12 Hammadde İzin numaralı II A. Grup maden sahasında Kalker Ocağı Alan Genişletilmesi yapılması planlanmaktadır.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 36.501633,
+      "lng": 29.260883
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ru0bx0p6g71774329642516",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kanal Mermer (S:202001016)",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nII-B Grubu Maden (Mermer) Ocağı (S:202001016 (ER:3397041)); Muğla İli, Seydikemer İlçesi, Çökek Mahallesi,(S:202001016 (ER:3397041)) Ruhsat Numaralı Saha 99,91 hektarlık ruhsat alanının 24,72 hektarlık ÇED alanında üretim faaliyetleri yapılacak olup, üretim kapasitesi ise blok mermer, moloz ve pasa dahil 200.000 m3/yıl(540.000 ton/yıl) olarak belirlenmiştir.... 16.09.2020 tarihinde 2 yıl (16.09.2022 tarihine kadar) süre ile geçerli olmak üzere II-B Grubu Arama Ruhsatı verilmiştir.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 36.678883,
+      "lng": 29.565496
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r9luk5vzel1774329670390",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Batı Ege - Mermer (RN 202001756)",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje: II-B Grubu Maden (Mermer) Ocağı (AR:202001756 Ruhsat Numaralı Saha) Adres: Muğla İli, Seydikemer İlçesi, Çökek Mahallesi Mevkii\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 36.683839,
+      "lng": 29.575195
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r3bvnfomrp1774329714001",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Batı Ege - Mermer (AR202001755)",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje: II-B Grubu Maden (Mermer) Ocağı (AR:202001755 Ruhsat Numaralı Saha) Adres: Muğla İli, Seydikemer İlçesi, Çökek Mahallesi ÇED başvurusu ruhsat alan içinde iki ayrı poligon kapsamaktadır ÇED 1 ve CED 2 sahası.\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 36.708889,
+      "lng": 29.597168
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rpenk3040s1774329792665",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Batı Ege - Mermer (AR202001755)",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje: II-B Grubu Maden (Mermer) Ocağı (AR:202001755 Ruhsat Numaralı Saha) Adres: Muğla İli, Seydikemer İlçesi, Çökek Mahallesi ÇED başvurusu ruhsat alan içinde iki ayrı poligon kapsamaktadır ÇED 1 ve CED 2 sahası.\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 36.706687,
+      "lng": 29.569359
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rn9elca7031774329833756",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kanal Mermer (S:202001017)",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nII-B Grubu Maden (Mermer) Ocağı (S:202001017) (ER:3396980); Seydikemer ilçesi. Çökek Mahallesi; 99.68 hektarlık ruhsat alanının 24.84 hektarlık ÇED alanında üretim faaliyetleri yapılacak olup. üretim kapasitesi ise blok mermer. moloz ve pasa dahil 200.000 m3/yıl (540.000 ton/yıl) olarak belirlenmiştir. S:202001017 (ER:3396980) numaralı saha için 16.09.2020 tarihinde 2 yıl (16.09.2022 tarihine kadar) süre ile geçerli olmak üzere II-B Grubu Arama Ruhsatı verilmiştir.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 36.715563,
+      "lng": 29.557343
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rlxwc3e31r1774329902667",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Armes Madencilik - Mermer - 2018",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje: 200805904 Ruhsat Numaralı II-B Grubu Mermer Ocağı Kapasite Artırımı ve Alan Genişletmesi Adres: Muğla İli, Seydikemer İlçesi, Sahilceylan Mah. Karabel Mevkii 2015 yılında aynı ruhsat alan içinde bir ÇED alanı için ÇED gerekli değildir kararı alındı. Bu alan yeni ÇED başvuru alanın içindedir.\nÇED Raporu Onaylandı",
+    "koordinatlar": {
+      "lat": 36.797189,
+      "lng": 29.467649
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rk4a87imv21774329947646",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "JTM Madencilik - Mermer Ocağı",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nII-B Grubu Maden (Mermer) Ocağı ve Kırma Eleme Tesisi ; Muğla İli, Seydikemer İlçesi, Ören Mah. S:202001703 (ER:3399346) Numaralı Saha Muğla İli, Seydikemer İlçesi, Ören Mah, S:202001703 (ER:3399346) numaralı yapılması Muğla İli, Seydikemer İlçesi, Ören Mah, S:202001703 (ER:3399346) sahada JTM Madencilik Enerji İnş. İth. İhr. San. Ve Tic. Ltd. Şti. tarafından planlanan II-B Grubu Maden (Mermer) Ocağı ve Kırma Eleme Tesisi projesidir. Bu kapsamda 99,89 hektarlık ruhsat alanının 16,14 hektarlık ÇED alanında üretim faaliyetleri yapılacak olup, üretim kapasitesi ise blok mermer, moloz ve pasa dahil 200.000 m3/yıl (540.000 ton/yıl), Kırma Eleme Tesisinin kapasitesi ise 350.000 ton/yıl olarak planlanmıştır.\nÇED Süreci Başladı",
+    "koordinatlar": {
+      "lat": 36.797739,
+      "lng": 29.401474
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rkxsj4ab8d1774330001892",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kanal Mermer (S:202001015)",
+    "il": "Burdur",
+    "ilce": "Altınyayla",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nII-B Grubu Maden (Mermer) Ocağı (S:202001015 (ER:3397379)); MUĞLA İLİ, SEYDİŞEHİR İLÇESİ, ÖREN MAHALLESİ, S:202001015 (ER:3397379) NUMARALI SAHA 90,19 hektarlık ruhsat alanının 24,94 hektarlık ÇED alanında üretim faaliyetleri yapılacak olup, üretim kapasitesi ise blok mermer, moloz ve pasa dahil 100.000 m3/yıl (270.000 ton/yıl) olarak belirlenmiştir... 16.09.2020 S:202001015 (ER:3397379)tarihinde 2 yıl (16.09.2022 tarihine kadar) süre ile geçerli olmak üzere II-B Grubu Arama Ruhsatı verilmiştir.\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 36.85957,
+      "lng": 29.384651
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rigqbf43ik1774330216868",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Asyamer - Mermer",
+    "il": "Muğla",
+    "ilce": "Köyceğiz",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje: ER. 3340391 (AR. 201701169) No.lu Ruhsat II-B Grup Maden (Mermer) Ocağı Arama ve İşletme Adres: Muğla İli, Köyceğiz İlçesi, Otomanlar Mah., Akkaya Tepesi Mevkii\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.033255,
+      "lng": 28.969231
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rkqxoj8r291774330245283",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Akuvamarin - Mermer",
+    "il": "Muğla",
+    "ilce": "Köyceğiz",
+    "aciklama": "I., II. ve V. Grup Madenler / II. Grup Madenler\nİnşa Tarihi: 1 Ocak 1970\nProje: 201800298 (ER:3365647) Ruhsat Numaralı Mermer Ocağı Arama ve İşletme Adres: Köyceğiz ilçesi, Otmanlar Mahallesi\nÇED Gerekli Değildir",
+    "koordinatlar": {
+      "lat": 37.051067,
+      "lng": 28.931122
     },
     "alan_ha": 0,
     "durum": "Aktif",
