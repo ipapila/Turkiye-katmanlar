@@ -3,14 +3,14 @@ import requests
 import os
 import base64
 
-# GitHub bilgileri (repository owner ve name workflow içinde zaten belli)
-REPO_OWNER = "ipapila"          # kendi kullanıcı adınız veya organizasyon adı
+# GitHub bilgileri
+REPO_OWNER = "ipapila"          # kendi kullanıcı adınız
 REPO_NAME = "Turkiye-katmanlar" # repo adı
-FILE_PATH = "data.json"         # güncellenecek dosya yolu
+FILE_PATH = "data.json"
 
 def get_remote_data():
     url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{FILE_PATH}"
-    headers = {"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}"}
+    headers = {"Authorization": f"Bearer {os.environ.get('GITHUB_TOKEN')}"}
     resp = requests.get(url, headers=headers)
     if resp.status_code == 200:
         data = resp.json()
@@ -24,7 +24,7 @@ def get_remote_data():
 
 def update_remote_data(new_data, sha):
     url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{FILE_PATH}"
-    headers = {"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}", "Content-Type": "application/json"}
+    headers = {"Authorization": f"Bearer {os.environ.get('GITHUB_TOKEN')}", "Content-Type": "application/json"}
     content = base64.b64encode(json.dumps(new_data, ensure_ascii=False, indent=2).encode()).decode()
     payload = {
         "message": "Veri otomatik güncellendi",
@@ -44,8 +44,7 @@ def main():
     # Burada data üzerinde istediğiniz değişiklikleri yapın
     # Örnek: tüm kayıtlara yeni bir alan eklemek
     for item in data:
-        item["son_guncelleme"] = "2025-03-23"
-    # Değişiklikleri GitHub'a gönder
+        item["son_guncelleme"] = "2025-03-25"
     update_remote_data(data, sha)
 
 if __name__ == "__main__":
