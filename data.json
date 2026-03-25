@@ -1142,23 +1142,6 @@
     "kaynak": "Çevre Bakanlığı"
   },
   {
-    "id": "r36c0z3sz0",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Fethiye-Göcek ÖÇKA",
-    "il": "Muğla",
-    "ilce": "Fethiye",
-    "aciklama": "Göcek körfezi ve adacıkları, Ölüdeniz lagünü.",
-    "koordinatlar": {
-      "lat": 36.72,
-      "lng": 29.1
-    },
-    "alan_ha": 30000,
-    "durum": "Aktif",
-    "belge_no": "1988/12945",
-    "eklenme": "2026-03-17",
-    "kaynak": "Çevre Bakanlığı"
-  },
-  {
     "id": "risa28d43i",
     "tip": "Özel Çevre Koruma Alanı",
     "ad": "Sandras Dağı Tabiat Parkı",
@@ -1305,13 +1288,13 @@
     "ilce": "Fethiye",
     "aciklama": "Kızılçam ve sedir ormanları.",
     "koordinatlar": {
-      "lat": 36.64,
-      "lng": 29.12
+      "lat": 36.610223,
+      "lng": 29.115486
     },
     "alan_ha": 62000,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-17",
+    "eklenme": "2026-03-25",
     "kaynak": "OGM",
     "alt_kategori": ""
   },
@@ -20839,23 +20822,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rykc7pzvyx1774103612604",
-    "tip": "Maden Ocağı",
-    "ad": "Fethiye Krom Madenleri",
-    "il": "Muğla",
-    "aciklama": "Dünyada ilk ticari krom üretiminin başlatıldığı tarihi bölgelerden biri. Aydın, Denizli, Burdur ve Muğla illerindeki ofiyolit kuşağı krom yatakları.",
-    "koordinatlar": {
-      "lat": 36.64,
-      "lng": 29.11
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rs3b39cis41774103612604",
     "tip": "Maden Ocağı",
     "ad": "Harmancık-Bursa Krom Madeni",
@@ -21689,23 +21655,6 @@
     "eklenme": "2026-03-24",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": ""
-  },
-  {
-    "id": "r4uvy8mmtm1774103717150",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Fethiye Mermer Ocakları",
-    "il": "Muğla",
-    "aciklama": "Muğla ilinin önemli beyaz mermer ocak bölgesi. Krom yatakları da içerir.",
-    "koordinatlar": {
-      "lat": 36.6212,
-      "lng": 29.1239
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
   },
   {
     "id": "rzh29vj3pf1774103717150",
@@ -28901,40 +28850,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r2v1ab35qn1774238794127",
-    "tip": "Sulak Alan",
-    "ad": "Dalaman Çayı Deltası",
-    "il": "Muğla",
-    "aciklama": "Su kuşları için önemli habitat.",
-    "koordinatlar": {
-      "lat": 36.772,
-      "lng": 28.76
-    },
-    "alan_ha": 2400,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rftb18ud181774238794127",
-    "tip": "Orman Alanı",
-    "ad": "Fethiye Orman İşletmesi",
-    "il": "Muğla",
-    "aciklama": "Kızılçam ve sedir ormanları.",
-    "koordinatlar": {
-      "lat": 36.64,
-      "lng": 29.12
-    },
-    "alan_ha": 62000,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rw07nnaa871774238794127",
     "tip": "Orman Alanı",
     "ad": "Milas Orman İşletmesi",
@@ -29294,8 +29209,8 @@
   },
   {
     "id": "rimr28uery1774238794127",
-    "tip": "Ekolojik İhlal",
-    "ad": "Mermer Ocağı",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Ermaş Patara Ocak ve Fabrika",
     "il": "Muğla",
     "ilce": "Seydikemer",
     "aciklama": "",
@@ -29306,14 +29221,14 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-24",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": ""
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   },
   {
     "id": "r8shy1p3mh1774238794127",
-    "tip": "Ekolojik İhlal",
-    "ad": "Mermer Ocağı",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Hitusa Taş ve Madencilik Patara Ocağı",
     "il": "Muğla",
     "ilce": "Seydikemer",
     "aciklama": "",
@@ -29324,25 +29239,7 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-24",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": ""
-  },
-  {
-    "id": "reydvd5mgf1774238794127",
-    "tip": "Ekolojik İhlal",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
-    "ilce": "Seydikemer",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.364697,
-      "lng": 29.229555
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-24",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": ""
   },
@@ -31544,23 +31441,6 @@
     "alan_ha": 14900,
     "durum": "Aktif",
     "belge_no": "WDPA-555624432",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rq4pj64bio1774238794128",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Fethiye-Göcek ÖÇKA",
-    "il": "Muğla",
-    "aciklama": "Caretta caretta yuvalama sahası ve koy ekosistemi.",
-    "koordinatlar": {
-      "lat": 36.75,
-      "lng": 29.12
-    },
-    "alan_ha": 30000,
-    "durum": "Aktif",
-    "belge_no": "WDPA-555624433",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
@@ -49630,5 +49510,41 @@
     "eklenme": "2026-03-25",
     "kaynak": "Manuel",
     "alt_kategori": "Kıyı İhlali"
+  },
+  {
+    "id": "rce5ky0msn1774451602543",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş ocağı",
+    "il": "Antalya",
+    "ilce": "Kaş",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.226602,
+      "lng": 29.635298
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rs7u6f8grb1774452228936",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Muğla",
+    "ilce": "Seydikemer",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.442431,
+      "lng": 29.267385
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
