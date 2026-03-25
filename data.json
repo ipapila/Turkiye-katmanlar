@@ -4871,23 +4871,6 @@
     "kaynak": "WDPA"
   },
   {
-    "id": "src_c986dd811439",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Kaş-Kekova ÖÇKA",
-    "il": "Antalya",
-    "ilce": "Kaş",
-    "aciklama": "Deniz kaplumbağası ve Akdeniz foku habitatı.",
-    "koordinatlar": {
-      "lat": 36.2,
-      "lng": 29.65
-    },
-    "alan_ha": 35000,
-    "durum": "Aktif",
-    "belge_no": "WDPA-555624434",
-    "eklenme": "2025-01-01",
-    "kaynak": "WDPA"
-  },
-  {
     "id": "src_7f0fd811439",
     "tip": "Nükleer Enerji",
     "ad": "Akkuyu Nükleer Güç Santrali",
@@ -49395,5 +49378,257 @@
     "eklenme": "2026-03-25",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "rfbeklrxni1774449973790",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Alagözler Taş Ocağı",
+    "il": "Bartın",
+    "ilce": "Bartın Merkez",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.655792,
+      "lng": 32.266932
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r9n78ztz6u1774450069336",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Bartın",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.633022,
+      "lng": 32.295341
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ruvwsc9s7w1774450158941",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mustafa Yılmaz Madencilik",
+    "il": "Bartın",
+    "ilce": "Bartın Merkez",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.678746,
+      "lng": 32.265816
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rzo4s35qpv1774450212295",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Bartın",
+    "ilce": "Bartın Merkez",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.692799,
+      "lng": 32.257082
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r01cybm9x31774450307863",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Serik",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.169482,
+      "lng": 31.031291
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ru5hyu3a5k1774450427003",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Döşemealtı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.132506,
+      "lng": 30.539846
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ri7h2u4psc1774450461589",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Antataş Madencilik",
+    "il": "Antalya",
+    "ilce": "Döşemealtı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.151047,
+      "lng": 30.524333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r0tmrv11ef1774450493240",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Döşemealtı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.17138,
+      "lng": 30.501523
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rtw3kzf3331774450535703",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Burdur",
+    "ilce": "Bucak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.233062,
+      "lng": 30.450325
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rjo6onxtuy1774450667286",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Terramine Madencilik",
+    "il": "Antalya",
+    "ilce": "Korkuteli",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.02373,
+      "lng": 30.428653
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rr8joq69hc1774450693839",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Korkuteli",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.016363,
+      "lng": 30.420756
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rr6i2bg7p61774450713248",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Korkuteli",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.011137,
+      "lng": 30.393333
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rbyy24ro871774450833951",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer",
+    "il": "Antalya",
+    "ilce": "Korkuteli",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.96006,
+      "lng": 30.337801
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rn55umm7sm1774451186982",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Limanağzı",
+    "il": "Antalya",
+    "ilce": "Kaş",
+    "aciklama": "Antalya’nın Kaş ilçesinde, Kaş–Kekova Özel Çevre Koruma Bölgesi sınırları içinde yer alan Limanağzı’nda yürütülen yol ve inşai faaliyetler kamuoyunda büyük tartışma yarattı. Kaş Çevre ve Kültür Derneği, bölgenin siyasi nüfuz ve kişisel çıkarlar uğruna geri dönülmez biçimde tahrip edildiğini belirterek, eski Kültür ve Turizm Bakanı Erkan Mumcu’ya ait arazi üzerinde izinsiz ve hukuka aykırı faaliyetler yürütüldüğünü açıkladı.\nEŞSİZ BİR KÜLTÜREL MİRAS\n\nDernek tarafından yapılan açıklamada Limanağzı’nın, 3. Derece Doğal Sit, içinde üç adet 1. Derece Arkeolojik Sit ve bir adet Tarihi Sit alanı barındıran, büyük bölümü orman ve zeytinliklerden oluşan, çok sayıda koruma mevzuatıyla güvence altına alınmış eşsiz bir doğal ve kültürel miras olduğu vurgulandı.",
+    "koordinatlar": {
+      "lat": 36.171417,
+      "lng": 29.650469
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": "Kıyı İhlali"
   }
 ]
