@@ -1745,24 +1745,6 @@
     "alt_kategori": ""
   },
   {
-    "id": "osm_kv_275565117",
-    "tip": "Kültür Varlığı",
-    "ad": "Ευπαλίνειο όρυγμα - Efpalinos' tunnel",
-    "il": "Περιφέρεια Βόρειου Αιγαίου",
-    "ilce": "Περιφερειακή Ενότητα Σάμου",
-    "aciklama": "Arkeolojik Alan | OSM ID: 275565117",
-    "koordinatlar": {
-      "lat": 37.694593,
-      "lng": 26.930005
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "275565117",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM/Arkeolojik Alan",
-    "alt_kategori": ""
-  },
-  {
     "id": "osm_kv_364713466",
     "tip": "Kültür Varlığı",
     "ad": "Ναός Διονύσου του Βρησαγενούς",
@@ -1902,24 +1884,6 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "599846748",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM/Arkeolojik Alan",
-    "alt_kategori": ""
-  },
-  {
-    "id": "osm_kv_601589472",
-    "tip": "Kültür Varlığı",
-    "ad": "Römisches Bad",
-    "il": "Περιφέρεια Βόρειου Αιγαίου",
-    "ilce": "Περιφερειακή Ενότητα Σάμου",
-    "aciklama": "Arkeolojik Alan | OSM ID: 601589472",
-    "koordinatlar": {
-      "lat": 37.690855,
-      "lng": 26.929699
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "601589472",
     "eklenme": "2026-03-20",
     "kaynak": "OSM/Arkeolojik Alan",
     "alt_kategori": ""
@@ -2987,42 +2951,6 @@
     "alt_kategori": ""
   },
   {
-    "id": "osm_kv_436153191",
-    "tip": "Kültür Varlığı",
-    "ad": "Ancient Agora",
-    "il": "Περιφέρεια Βόρειου Αιγαίου",
-    "ilce": "Περιφερειακή Ενότητα Σάμου",
-    "aciklama": "Tarihi Kalinti | OSM ID: 436153191",
-    "koordinatlar": {
-      "lat": 37.690849,
-      "lng": 26.938422
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "436153191",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM/Tarihi Kalinti",
-    "alt_kategori": ""
-  },
-  {
-    "id": "osm_kv_438074945",
-    "tip": "Kültür Varlığı",
-    "ad": "Temple of Aphrodite",
-    "il": "Περιφέρεια Βόρειου Αιγαίου",
-    "ilce": "Περιφερειακή Ενότητα Σάμου",
-    "aciklama": "Tarihi Kalinti | OSM ID: 438074945",
-    "koordinatlar": {
-      "lat": 37.690301,
-      "lng": 26.938861
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "438074945",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM/Tarihi Kalinti",
-    "alt_kategori": ""
-  },
-  {
     "id": "osm_kv_457790717",
     "tip": "Kültür Varlığı",
     "ad": "Early Christian Basilica",
@@ -3792,24 +3720,6 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "875872272",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM/Muze",
-    "alt_kategori": ""
-  },
-  {
-    "id": "osm_kv_915637380",
-    "tip": "Kültür Varlığı",
-    "ad": "Archaeological Museum",
-    "il": "Περιφέρεια Βόρειου Αιγαίου",
-    "ilce": "Περιφερειακή Ενότητα Σάμου",
-    "aciklama": "Muze | OSM ID: 915637380",
-    "koordinatlar": {
-      "lat": 37.691187,
-      "lng": 26.94028
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "915637380",
     "eklenme": "2026-03-20",
     "kaynak": "OSM/Muze",
     "alt_kategori": ""
@@ -25389,17 +25299,18 @@
     "tip": "İklim Olayları",
     "ad": "Dilek Yarımadası — Büyük Menderes Deltası Milli Parkı",
     "il": "Aydın",
+    "ilce": "Söke",
     "aciklama": "Maki florasının en sağlıklı örnekleri. 6'sı yalnızca burada yaşayan bitki türleri. Akdeniz foku için mağara habitatı. Samsun Dağları'nın Ege'ye uzantısı.",
     "koordinatlar": {
-      "lat": 37.6,
-      "lng": 27.25
+      "lat": 37.60172,
+      "lng": 27.233047
     },
     "alan_ha": 27675,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "re8t1mno601774105334505",
@@ -28195,23 +28106,6 @@
     "alan_ha": 87250,
     "durum": "Aktif",
     "belge_no": "OGM-MP-1993",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rfkyq2p2z71774238794127",
-    "tip": "Milli Park",
-    "ad": "Dilek Yarımadası - Büyük Menderes Deltası MiP",
-    "il": "Aydın",
-    "aciklama": "Ege'de önemli milli park ve delta ekosistemi.",
-    "koordinatlar": {
-      "lat": 37.67,
-      "lng": 27.18
-    },
-    "alan_ha": 27574,
-    "durum": "Aktif",
-    "belge_no": "OGM-MP-1966",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
@@ -49433,6 +49327,24 @@
     "koordinatlar": {
       "lat": 37.50673,
       "lng": 27.870083
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rmdmi1poc91774453675382",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Pomza Export",
+    "il": "İzmir",
+    "ilce": "Menderes",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.220785,
+      "lng": 27.111597
     },
     "alan_ha": 0,
     "durum": "Aktif",
