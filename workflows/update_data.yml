@@ -28,3 +28,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/guncelle.py   # scripts klasöründeki betik
+permissions:
+  contents: write
