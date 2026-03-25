@@ -49251,5 +49251,149 @@
     "eklenme": "2026-03-25",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "r1l5dofx1z1774422480400",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.861493,
+      "lng": 30.334926
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r2boncl0cf1774422492324",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.870489,
+      "lng": 30.358744
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r6oiryg15o1774422503236",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.875776,
+      "lng": 30.361319
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ri3jn36wnx1774422513137",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.888013,
+      "lng": 30.36546
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rfkklv151j1774422602743",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.846144,
+      "lng": 30.329797
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rbupfhez1g1774422622133",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.840236,
+      "lng": 30.353465
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r9j8yp4eo41774422647483",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.832525,
+      "lng": 30.418589
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rnpmwt0psk1774422689693",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.882792,
+      "lng": 30.428771
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
