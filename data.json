@@ -28131,40 +28131,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r5lgoqgbq11774238794127",
-    "tip": "GES",
-    "ad": "GES",
-    "il": "Antalya",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.738747,
-      "lng": 29.89706
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r7uhbljxa21774238794127",
-    "tip": "GES",
-    "ad": "GES",
-    "il": "Antalya",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.745143,
-      "lng": 29.900322
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rbl7gzf9zo1774238794127",
     "tip": "Maden Ocağı",
     "ad": "kömür ocağı",
@@ -29125,18 +29091,19 @@
     "id": "r5ow68v4qq1774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Fethiye Kireçtaşı Ocağı",
-    "il": "Antalya",
+    "il": "Muğla",
+    "ilce": "Fethiye",
     "aciklama": "Yapı malzemesi ve agrega üretimi.",
     "koordinatlar": {
-      "lat": 36.66,
-      "lng": 29.2
+      "lat": 36.659537,
+      "lng": 29.199944
     },
     "alan_ha": 190,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   },
   {
     "id": "rqpvdh9sdk1774238794127",
@@ -29506,18 +29473,19 @@
     "id": "rx01zl8f791774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Mermer Ocağı",
-    "il": "Antalya",
+    "il": "Muğla",
+    "ilce": "Fethiye",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.613805,
-      "lng": 29.225092
+      "lat": 36.61167,
+      "lng": 29.225006
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rkrlh1nrrh1774238794127",
@@ -34554,23 +34522,6 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "12285837713",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rltogaixd91774238794128",
-    "tip": "RES",
-    "ad": "Elmalı RES (1 türbin, Antalya)",
-    "il": "Antalya",
-    "aciklama": "Elmalı yaylasında rüzgar enerji santrali.\n(Birleştirilmiş 1 türbin, Antalya)\n(Birleştirilmiş 2 türbin, Antalya)",
-    "koordinatlar": {
-      "lat": 36.72,
-      "lng": 29.88
-    },
-    "alan_ha": 480,
-    "durum": "Aktif",
-    "belge_no": "",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
@@ -49136,6 +49087,168 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-24",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r4r9ofwsgf1774421956725",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.749785,
+      "lng": 29.903326
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rq9ojv8htu1774421988810",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.751556,
+      "lng": 29.918046
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r2h2p2jke31774422003884",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.754977,
+      "lng": 29.931607
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rrqev7ztoe1774422019061",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.758278,
+      "lng": 29.935341
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r1xyb0xqzc1774422034463",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.770878,
+      "lng": 29.951842
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rceuvxhvt71774422075198",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.558601,
+      "lng": 29.759517
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ruyj8zim4m1774422093165",
+    "tip": "GES",
+    "ad": "Mermer",
+    "il": "Antalya",
+    "ilce": "Kaş",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.554534,
+      "lng": 29.729004
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rsoykj9r9o1774422121087",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.571217,
+      "lng": 29.764838
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rpal29fo0g1774422312797",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Kumluca",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.322438,
+      "lng": 30.415907
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
     "kaynak": "Manuel",
     "alt_kategori": ""
   }
