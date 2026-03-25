@@ -1,32 +1,20 @@
 name: Veri Güncelleme
 
 on:
-  push:
-    branches: [ main ]
-  workflow_dispatch:    # manuel tetikleme için
+  workflow_dispatch:
 
 permissions:
-  contents: write        # GitHub'a yazma izni
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Depoyu klonla
-        uses: actions/checkout@v4
-
-      - name: Python kurulumu
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
-      - name: Bağımlılıkları yükle
-        run: pip install requests
-
-      - name: Güncelleme betiğini çalıştır
+      - run: pip install requests
+      - run: python scripts/guncelle.py
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-        run: python scripts/guncelle.py   # scripts klasöründeki betik
-permissions:
-  contents: write
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
