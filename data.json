@@ -1132,14 +1132,15 @@
     "ilce": "Köyceğiz",
     "aciklama": "Caretta caretta yuvalama sahası, İztuzu plajı.",
     "koordinatlar": {
-      "lat": 36.83,
-      "lng": 28.62
+      "lat": 36.821103,
+      "lng": 28.614578
     },
     "alan_ha": 34000,
     "durum": "Aktif",
     "belge_no": "1988/12945",
-    "eklenme": "2026-03-17",
-    "kaynak": "Çevre Bakanlığı"
+    "eklenme": "2026-03-25",
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": ""
   },
   {
     "id": "risa28d43i",
@@ -27621,23 +27622,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r59u3x9yx31774238794127",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Gökova ÖÇKA",
-    "il": "Muğla",
-    "aciklama": "Gökova körfezi ve deniz ekosistemi.",
-    "koordinatlar": {
-      "lat": 37,
-      "lng": 28.3
-    },
-    "alan_ha": 120000,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r612zxm2291774238794127",
     "tip": "Sulak Alan",
     "ad": "Belek Sulak Alanları",
@@ -28663,23 +28647,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rzvs3e6rxz1774238794127",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Gökova ÖÇKA",
-    "il": "Muğla",
-    "aciklama": "Gökova körfezi ve çevresi.",
-    "koordinatlar": {
-      "lat": 37.03,
-      "lng": 28.2
-    },
-    "alan_ha": 260000,
-    "durum": "Aktif",
-    "belge_no": "1988/12945",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rcqmqkxkf71774238794127",
     "tip": "Özel Çevre Koruma Alanı",
     "ad": "Datça-Bozburun ÖÇKA",
@@ -28690,23 +28657,6 @@
       "lng": 27.68
     },
     "alan_ha": 97400,
-    "durum": "Aktif",
-    "belge_no": "1988/12945",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rasofew9701774238794127",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Köyceğiz-Dalyan ÖÇKA",
-    "il": "Muğla",
-    "aciklama": "Caretta caretta yuvalama sahası, İztuzu plajı.",
-    "koordinatlar": {
-      "lat": 36.83,
-      "lng": 28.62
-    },
-    "alan_ha": 34000,
     "durum": "Aktif",
     "belge_no": "1988/12945",
     "eklenme": "2026-03-23",
@@ -28816,23 +28766,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rfbnyk1fse1774238794127",
-    "tip": "Sulak Alan",
-    "ad": "Köyceğiz Gölü",
-    "il": "Muğla",
-    "aciklama": "Ramsar alanı, tatlı su gölü.",
-    "koordinatlar": {
-      "lat": 36.96,
-      "lng": 28.57
-    },
-    "alan_ha": 5215,
-    "durum": "Aktif",
-    "belge_no": "Ramsar 1994",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rmjs5loj131774238794127",
     "tip": "Sulak Alan",
     "ad": "Bafa Gölü (Muğla Kısmı)",
@@ -28850,23 +28783,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rw07nnaa871774238794127",
-    "tip": "Orman Alanı",
-    "ad": "Milas Orman İşletmesi",
-    "il": "Muğla",
-    "aciklama": "Kızılçam ağırlıklı ormanlık alan.",
-    "koordinatlar": {
-      "lat": 37.16,
-      "lng": 27.79
-    },
-    "alan_ha": 48000,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rthhih7z961774238794127",
     "tip": "Orman Alanı",
     "ad": "Marmaris Orman İşletmesi",
@@ -28877,23 +28793,6 @@
       "lng": 28.35
     },
     "alan_ha": 37000,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rbezgoohuc1774238794127",
-    "tip": "Orman Alanı",
-    "ad": "Köyceğiz Sığla Ormanları",
-    "il": "Muğla",
-    "aciklama": "Endemik sığla (liquidambar) ormanları.",
-    "koordinatlar": {
-      "lat": 36.97,
-      "lng": 28.68
-    },
-    "alan_ha": 29000,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-23",
@@ -29038,23 +28937,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r1naehbzph1774238794127",
-    "tip": "GES",
-    "ad": "Bodrum GES",
-    "il": "Muğla",
-    "aciklama": "Arazi GES.",
-    "koordinatlar": {
-      "lat": 37.06,
-      "lng": 27.39
-    },
-    "alan_ha": 95,
-    "durum": "Planlama",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rstuutv1181774238794127",
     "tip": "Maden Ocağı",
     "ad": "Kavaklıdere Krom Madeni",
@@ -29116,57 +28998,6 @@
       "lng": 28.29
     },
     "alan_ha": 120,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rvcvhreamc1774238794127",
-    "tip": "GES",
-    "ad": "FVE = Fotovoltaik Enerji",
-    "il": "Muğla",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.063944,
-      "lng": 27.296348
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rmc7wljpqg1774238794127",
-    "tip": "GES",
-    "ad": "FVE = Fotovoltaik Enerji",
-    "il": "Muğla",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.063705,
-      "lng": 27.298493
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ri23iknkjj1774238794127",
-    "tip": "GES",
-    "ad": "FVE = Fotovoltaik Enerji",
-    "il": "Muğla",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.034916,
-      "lng": 27.271328
-    },
-    "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-23",
@@ -29573,9 +29404,10 @@
   },
   {
     "id": "rb4nhajt901774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.386049,
@@ -29584,15 +29416,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r5gtz537dj1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.391556,
@@ -29601,15 +29434,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rl4kg5g0no1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.395391,
@@ -29618,15 +29452,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rk7myclha81774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.395323,
@@ -29635,15 +29470,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r2lfj402jf1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.40221,
@@ -29652,15 +29488,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rom83bnf7l1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.409914,
@@ -29669,15 +29506,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rat1dw63oe1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.418709,
@@ -29686,15 +29524,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r6yx3hhu6k1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.446243,
@@ -29703,15 +29542,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rrzfwjj37v1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.452649,
@@ -29720,15 +29560,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r3huzcawp71774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.461642,
@@ -29737,15 +29578,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "ri8u17fo1t1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.472951,
@@ -29754,15 +29596,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rkobum951h1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.468319,
@@ -29771,15 +29614,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rlfdieqfob1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.459053,
@@ -29788,15 +29632,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r3avtmxz6z1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.458372,
@@ -29805,15 +29650,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rujk71zxer1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.428524,
@@ -29822,15 +29668,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r26loa0mxc1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.430296,
@@ -29839,15 +29686,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r8edmb1b761774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.444199,
@@ -29856,32 +29704,34 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rryik784nz1774238794127",
-    "tip": "Ekolojik İhlal",
-    "ad": "Mermer Ocağı",
-    "il": "Muğla",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Sibelko Turkey Alipaşa Sarıkısık Ocakları",
+    "il": "Aydın",
+    "ilce": "Karpuzlu",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 37.468182,
-      "lng": 27.842789
+      "lat": 37.471588,
+      "lng": 27.845449
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "ryxba2vbri1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Maden Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.44747,
@@ -29890,15 +29740,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rfnbm85boa1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.45224,
@@ -29907,15 +29758,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r732ghreur1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.463516,
@@ -29924,15 +29776,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rqycoiwyb01774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.462664,
@@ -29941,15 +29794,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rt8pvf6izq1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.461574,
@@ -29958,15 +29812,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rsgy1scvt91774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Taş Ocağı",
     "il": "Muğla",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.423105,
@@ -29975,15 +29830,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "r99e2o3r991774238794127",
-    "tip": "Ekolojik İhlal",
-    "ad": "Taş Ocağı",
+    "tip": "Maden Ocağı",
+    "ad": "Kaltun Madencilik Sarıkısık Tesisleri",
     "il": "Muğla",
+    "ilce": "Milas",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.440962,
@@ -29992,15 +29848,16 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "ri0828ro3g1774238794127",
     "tip": "Maden Ocağı",
-    "ad": "Maden Alanı",
-    "il": "Muğla",
+    "ad": "Imerys Ceramics Turkey",
+    "il": "Aydın",
+    "ilce": "Karpuzlu",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.451695,
@@ -30009,9 +29866,9 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-25",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rjldwlya531774238794127",
@@ -40954,23 +40811,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r3h7d5l65i1774238794129",
-    "tip": "RES",
-    "ad": "RES (5 türbin, Muğla)",
-    "il": "Muğla",
-    "aciklama": "(Birleştirilmiş 5 türbin, Muğla)\n(Birleştirilmiş 3 türbin, Muğla)",
-    "koordinatlar": {
-      "lat": 37.072959,
-      "lng": 27.279362
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "8402546911",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rh4ysvj8ad1774238794129",
     "tip": "RES",
     "ad": "RES (5 türbin, Muğla)",
@@ -49539,6 +49379,60 @@
     "koordinatlar": {
       "lat": 36.442431,
       "lng": 29.267385
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rhuanmp9xr1774452666841",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.136269,
+      "lng": 27.614672
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rzzuv6no1p1774452704509",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Aydın",
+    "ilce": "Didim",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.402594,
+      "lng": 27.488533
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rnw7g8xc7s1774453009677",
+    "tip": "Maden Ocağı",
+    "ad": "Maden Ocağı",
+    "il": "Aydın",
+    "ilce": "Karpuzlu",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.50673,
+      "lng": 27.870083
     },
     "alan_ha": 0,
     "durum": "Aktif",
