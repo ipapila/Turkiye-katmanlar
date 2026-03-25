@@ -26,7 +26,7 @@ jobs:
 
       - name: Güncelleme betiğini çalıştır
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
         run: python scripts/guncelle.py   # scripts klasöründeki betik
 permissions:
   contents: write
