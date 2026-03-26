@@ -29587,17 +29587,18 @@
     "tip": "Ekolojik İhlal",
     "ad": "Moonlight Plajı Ağaç Katliamı",
     "il": "Antalya",
+    "ilce": "Kemer",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.596115,
-      "lng": 30.574973
+      "lat": 36.597794,
+      "lng": 30.574608
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-26",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "rk1zxwvf5k1774238794128",
@@ -49546,7 +49547,7 @@
     },
     "alan_ha": 0,
     "durum": "Aktif",
-    "belge_no": "",
+    "belge_no": "https://youtube.com/shorts/Uv0ZxPIxFr0?si=4NztkFg0AUedCx0K",
     "eklenme": "2026-03-26",
     "kaynak": "Manuel",
     "alt_kategori": ""
