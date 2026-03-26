@@ -19107,23 +19107,6 @@
     "alt_kategori": ""
   },
   {
-    "id": "r8psimtnzt1774074019083",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "İstanbul",
-    "aciklama": "İstanbul barajlarının doluluk oranı Şubat 2021'de %25'e düştü; su tasarrufu uyarıları yayımlandı, kısıtlama tartışmaları gündeme geldi.",
-    "koordinatlar": {
-      "lat": 41.082,
-      "lng": 29.088
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": ""
-  },
-  {
     "id": "rf7fx80xtt1774074019083",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
@@ -21221,23 +21204,6 @@
     },
     "alan_ha": 0,
     "durum": "Tarihsel / Kapalı",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rzlkfh60dy1774103612604",
-    "tip": "Maden Ocağı",
-    "ad": "Balya Kurşun-Çinko Madeni",
-    "il": "Balıkesir",
-    "aciklama": "Antik çağdan beri işletilen tarihi kurşun-çinko-gümüş madeni. 19-20. yüzyılda yabancı şirketlerin yönetiminde önemli üretim yapılmıştır.",
-    "koordinatlar": {
-      "lat": 40.7628,
-      "lng": 28.4869
-    },
-    "alan_ha": 0,
-    "durum": "Kapalı (Tarihsel)",
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
@@ -24359,23 +24325,6 @@
     "alt_kategori": "Enerji - Dağıtım"
   },
   {
-    "id": "r2c80zpluw1774104034931",
-    "tip": "Acele Kamulaştırma",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.7477,
-      "lng": 37.0179
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Enerji - Dağıtım"
-  },
-  {
     "id": "r86z8hgmyt1774104034931",
     "tip": "Acele Kamulaştırma",
     "ad": "Ekolojik İhlal",
@@ -25124,23 +25073,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rc50fd8uzd1774105334505",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Marmara Denizi ve Adalar Özel Çevre Koruma Bölgesi",
-    "il": "İstanbul / Bursa / Balıkesir (çok il)",
-    "aciklama": "Dünyada bir ülke sınırları içindeki tek iç deniz. Müsilaj felaketi (2021) sonrası ÖÇKB ilan edildi. Pinna nobilis'in son küresel sığınağı.",
-    "koordinatlar": {
-      "lat": 40.7,
-      "lng": 28
-    },
-    "alan_ha": 1224600,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rikrqmcpsd1774105334505",
     "tip": "İklim Olayları",
     "ad": "Göksu Deltası Ramsar Alanı",
@@ -25389,24 +25321,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rz43eygq7x1774106026688",
-    "tip": "Orman Alanı",
-    "ad": "İğneada Longoz Ormanları Milli Parkı",
-    "il": "Kırklareli",
-    "ilce": "",
-    "aciklama": "Türkiye'de en iyi korunan longoz ormanı. Kuzey Anadolu Karadeniz kıyısında kumsal + lagün + orman kombinasyonu eşsiz ekosistem.",
-    "koordinatlar": {
-      "lat": 41.89,
-      "lng": 27.96
-    },
-    "alan_ha": 3155,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rwcvik7nit1774106026688",
     "tip": "İklim Olayları",
     "ad": "Malazgirt Meydan Muharebesi Tarihi Milli Parkı",
@@ -25550,34 +25464,17 @@
     "id": "r0xnka7g9o1774165411442",
     "tip": "İklim Olayları",
     "ad": "İklim Olayları",
-    "il": "",
-    "aciklama": "2021 yazında Antalya Manavgat'ta çıkan orman yangını, Türkiye'nin en büyük orman yangınlarından biridir. 60.000 hektardan fazla alan kül oldu, çok sayıda can ve mal kaybı yaşandı.",
-    "koordinatlar": {
-      "lat": 40.65,
-      "lng": 27.85
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-22",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r7bh98nu0h1774165411442",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
     "il": "Antalya",
     "ilce": "Manavgat",
-    "aciklama": "2021 Manavgat yangınında en ağır tahribatın yaşandığı bölge.",
+    "aciklama": "2021 yazında Antalya Manavgat'ta çıkan orman yangını, Türkiye'nin en büyük orman yangınlarından biridir. 60.000 hektardan fazla alan kül oldu, çok sayıda can ve mal kaybı yaşandı.",
     "koordinatlar": {
-      "lat": 36.861493,
-      "lng": 31.36734
+      "lat": 36.86836,
+      "lng": 31.38279
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-22",
+    "eklenme": "2026-03-26",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": ""
   },
@@ -27144,17 +27041,18 @@
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
     "il": "İstanbul",
+    "ilce": "Pendik",
     "aciklama": "İstanbul Pendik sahiline kaçak inşaat molozunun dökülmesi kıyı mevzuatı ihlali kapsamında soruşturmaya konu oldu.",
     "koordinatlar": {
-      "lat": 40.93,
-      "lng": 29.1
+      "lat": 40.887303,
+      "lng": 29.243889
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-26",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Kaçak İnşaat Atığı Dökümü"
+    "alt_kategori": ""
   },
   {
     "id": "rs3oqc2nww1774238338317",
@@ -30819,23 +30717,6 @@
     "alan_ha": 300,
     "durum": "İptal",
     "belge_no": "GEM-TR-NUC-002",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r0yjwbxtbx1774238794128",
-    "tip": "Nükleer Enerji",
-    "ad": "Igneada Nükleer Güç Santrali (Planlanan)",
-    "il": "Kırklareli",
-    "aciklama": "Planlanan üçüncü nükleer santral sahası.",
-    "koordinatlar": {
-      "lat": 41.88,
-      "lng": 28.02
-    },
-    "alan_ha": 250,
-    "durum": "Planlama",
-    "belge_no": "GEM-TR-NUC-003",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
