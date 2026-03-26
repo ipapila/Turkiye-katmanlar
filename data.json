@@ -49532,5 +49532,23 @@
     "eklenme": "2026-03-26",
     "kaynak": "Manuel",
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rv56mljzjf1774527612674",
+    "tip": "Ekolojik İhlal",
+    "ad": "Idyros Antik Kenti / Otel İnşaatı",
+    "il": "Antalya",
+    "ilce": "Kemer",
+    "aciklama": "İdyros Antik Kenti’nde bugün çok çarpıcı bir tabloyla karşı karşıyayız.\nBir yanda müze tarafından yürütülen arkeolojik kazılar…\n\nDiğer yanda aynı alanı kapsayan otel inşaatı. Üstelik bu proje, 1969 yılından kalma bir ÇED muafiyetine dayandırılıyor. Oysa o dönemde ne çevresel etki değerlendirmesi vardı, ne de bu alanın barındırdığı kültürel miras bugünkü gibi biliniyordu.\n\nBugün ise aynı yerde hem kazı yapılıyor hem de yapılaşma sürdürülüyor.\nİdyros Antik Kenti’ne Dokunma Hareketi olarak imar kararına ve ÇED muafiyetine karşı davalarımızı açtık.\n\nŞimdi ise, ortaya çıkan yeni bulgular ve devam eden kazılar ışığında,\nkoruma kurulunun bu sürece imkân veren kararına karşı\nyeni bir dava daha açıyoruz.\n\nBu adım, alanın bütüncül olarak korunması açısından kritik.\nSüreç zamanla yarışıyor. Ve her an geri dönülmesi zor adımlar atılıyor.",
+    "koordinatlar": {
+      "lat": 36.596115,
+      "lng": 30.573621
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
