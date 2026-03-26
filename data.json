@@ -20374,23 +20374,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rixkfvehhf1774103553422",
-    "tip": "Termik Reaktör",
-    "ad": "Zonguldak Taş Kömürü Havzası",
-    "il": "Zonguldak",
-    "aciklama": "1829'da Uzun Mehmet tarafından keşfedilen, 1848'de işletmeye açılan Türkiye'nin tek bitümlü kömür kaynağı. Tarihsel olarak çelik üretimine kritik katkı sağlamıştır.",
-    "koordinatlar": {
-      "lat": 41.4519,
-      "lng": 31.7292
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rbmulwwyx51774103553422",
     "tip": "Termik Reaktör",
     "ad": "Afşin-Elbistan Linyit Havzası",
@@ -20946,23 +20929,6 @@
     "koordinatlar": {
       "lat": 39.9719,
       "lng": 30.815
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rftvoni85y1774103612604",
-    "tip": "Maden Ocağı",
-    "ad": "Emet Bor Madeni",
-    "il": "Kütahya",
-    "aciklama": "Kütahya Emet'teki kolemanit ve üleksit yatakları; endüstriyel hammadde ve nükleer enerji uygulamalarında stratejik öneme sahiptir.",
-    "koordinatlar": {
-      "lat": 39.3339,
-      "lng": 29.2586
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -24274,23 +24240,6 @@
     "alt_kategori": "Enerji - İletim"
   },
   {
-    "id": "r4f3em08y21774104034931",
-    "tip": "Acele Kamulaştırma",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.81,
-      "lng": 35.19
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Tarım - Sulama"
-  },
-  {
     "id": "r2194ftxx11774104034931",
     "tip": "Acele Kamulaştırma",
     "ad": "Ekolojik İhlal",
@@ -24333,23 +24282,6 @@
     "koordinatlar": {
       "lat": 41.0731,
       "lng": 28.2454
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Enerji - Rüzgar"
-  },
-  {
-    "id": "r9efrfu5471774104034931",
-    "tip": "Acele Kamulaştırma",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 40.5506,
-      "lng": 34.9556
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -24733,23 +24665,6 @@
     "alt_kategori": "Ulaşım - Demiryolu"
   },
   {
-    "id": "rdt8t24ysm1774104034931",
-    "tip": "Acele Kamulaştırma",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.9914,
-      "lng": 35.3308
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Enerji - Dağıtım"
-  },
-  {
     "id": "r3kp3lo3u91774104034931",
     "tip": "Acele Kamulaştırma",
     "ad": "Ekolojik İhlal",
@@ -24758,23 +24673,6 @@
     "koordinatlar": {
       "lat": 38.7507,
       "lng": 30.5567
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Enerji - Dağıtım"
-  },
-  {
-    "id": "rui11d71q21774104034931",
-    "tip": "Acele Kamulaştırma",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 38.3682,
-      "lng": 34.037
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -24826,23 +24724,6 @@
     "koordinatlar": {
       "lat": 39.4167,
       "lng": 29.9833
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Enerji - Dağıtım"
-  },
-  {
-    "id": "r4esibxkkt1774104034931",
-    "tip": "Acele Kamulaştırma",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 38.6241,
-      "lng": 34.7239
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -27533,23 +27414,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r2ufaktvo81774238794127",
-    "tip": "GES",
-    "ad": "İzmir Aliağa GES",
-    "il": "İzmir",
-    "aciklama": "Aliağa sanayi bölgesi GES sahası.",
-    "koordinatlar": {
-      "lat": 38.85,
-      "lng": 26.97
-    },
-    "alan_ha": 420,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rjfejy4und1774238794127",
     "tip": "Jeotermal",
     "ad": "Ilıca Kaplıcası",
@@ -28027,23 +27891,6 @@
     "alt_kategori": null
   },
   {
-    "id": "ry3rwbhzpp1774238794127",
-    "tip": "Milli Park",
-    "ad": "Aladağlar Milli Parkı",
-    "il": "Adana",
-    "aciklama": "Toros dağlarının yüksek zirvelerini barındırır.",
-    "koordinatlar": {
-      "lat": 37.73,
-      "lng": 35.13
-    },
-    "alan_ha": 55080,
-    "durum": "Aktif",
-    "belge_no": "OGM-MP-2021",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r537i482qy1774238794127",
     "tip": "Milli Park",
     "ad": "Beyşehir Gölü Milli Parkı",
@@ -28056,23 +27903,6 @@
     "alan_ha": 87250,
     "durum": "Aktif",
     "belge_no": "OGM-MP-1993",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rgi00f8abs1774238794127",
-    "tip": "Milli Park",
-    "ad": "Ilgaz Dağı Milli Parkı",
-    "il": "Kastamonu",
-    "aciklama": "Karadeniz bölgesi dağ ekosistemi.",
-    "koordinatlar": {
-      "lat": 41.08,
-      "lng": 33.72
-    },
-    "alan_ha": 1072,
-    "durum": "Aktif",
-    "belge_no": "OGM-MP-1976",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
@@ -28095,40 +27925,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rbyk0qe3p11774238794127",
-    "tip": "Milli Park",
-    "ad": "Spil Dağı Milli Parkı",
-    "il": "Manisa",
-    "aciklama": "Ege'nin önemli ormanlık dağı.",
-    "koordinatlar": {
-      "lat": 38.63,
-      "lng": 27.48
-    },
-    "alan_ha": 10700,
-    "durum": "Aktif",
-    "belge_no": "OGM-MP-1966",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rdrc7r7epq1774238794127",
-    "tip": "Milli Park",
-    "ad": "Yozgat Çamlığı Milli Parkı",
-    "il": "Yozgat",
-    "aciklama": "İç Anadolu'nun ender orman ekosistemi.",
-    "koordinatlar": {
-      "lat": 39.82,
-      "lng": 34.8
-    },
-    "alan_ha": 264,
-    "durum": "Aktif",
-    "belge_no": "OGM-MP-1970",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rvkrs41aed1774238794127",
     "tip": "Milli Park",
     "ad": "Altındere Vadisi Milli Parkı",
@@ -28141,23 +27937,6 @@
     "alan_ha": 4457,
     "durum": "Aktif",
     "belge_no": "OGM-MP-1987",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ryqjmiqbn61774238794127",
-    "tip": "Milli Park",
-    "ad": "Küre Dağları Milli Parkı",
-    "il": "Kastamonu",
-    "aciklama": "Türkiye'nin büyük milli parklarından biri.",
-    "koordinatlar": {
-      "lat": 41.72,
-      "lng": 33.42
-    },
-    "alan_ha": 37753,
-    "durum": "Aktif",
-    "belge_no": "OGM-MP-2000",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
@@ -28346,23 +28125,6 @@
     "alan_ha": 240,
     "durum": "Aktif",
     "belge_no": "MTA-JEO-002",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rv0qq5t9p11774238794127",
-    "tip": "Jeotermal",
-    "ad": "Aydın Salavatlı Jeotermal",
-    "il": "Aydın",
-    "aciklama": "Türkiye'nin en verimli jeotermal sahalarından.",
-    "koordinatlar": {
-      "lat": 37.92,
-      "lng": 27.7
-    },
-    "alan_ha": 320,
-    "durum": "Aktif",
-    "belge_no": "MTA-JEO-003",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
@@ -29732,23 +29494,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rmosjvrc5d1774238794127",
-    "tip": "GES",
-    "ad": "GES",
-    "il": "Muğla",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.401349,
-      "lng": 27.904555
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rp3lrcsws81774238794127",
     "tip": "Maden Ocağı",
     "ad": "Maden Ocağı",
@@ -29862,57 +29607,6 @@
     "koordinatlar": {
       "lat": 37.313861,
       "lng": 27.986813
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rbu7f5fvvn1774238794127",
-    "tip": "GES",
-    "ad": "GES",
-    "il": "Muğla",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.311984,
-      "lng": 27.978852
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rzhdmgxo8h1774238794127",
-    "tip": "GES",
-    "ad": "GES",
-    "il": "Muğla",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.31369,
-      "lng": 27.997241
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rvhipc97iy1774238794127",
-    "tip": "GES",
-    "ad": "GES",
-    "il": "Muğla",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.312837,
-      "lng": 28.014622
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -30212,23 +29906,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rd97wdmcc11774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "Hadrianopolis",
-    "il": "Karabük",
-    "aciklama": "Arkeolojik Alan | OSM ID: 1461413594",
-    "koordinatlar": {
-      "lat": 40.925982,
-      "lng": 32.491373
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1461413594",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r89hb75k5a1774238794128",
     "tip": "Kültür Varlığı",
     "ad": "Αρχαίο Θέατρο",
@@ -30394,40 +30071,6 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "317003607",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rjiq6p15v41774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "Eski Porsuk",
-    "il": "Niğde",
-    "aciklama": "Tarihi Kalinti | OSM ID: 318636398",
-    "koordinatlar": {
-      "lat": 37.537084,
-      "lng": 34.567118
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "318636398",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r4npvgnxxv1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "Eski Küllü",
-    "il": "Kayseri",
-    "aciklama": "Tarihi Kalinti | OSM ID: 319084276",
-    "koordinatlar": {
-      "lat": 38.786146,
-      "lng": 35.082227
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "319084276",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
@@ -31347,23 +30990,6 @@
     "alan_ha": 5600,
     "durum": "Aktif",
     "belge_no": "DSİ-HES-004",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rrc6skhb9t1774238794128",
-    "tip": "HES",
-    "ad": "Kargı Barajı ve HES",
-    "il": "Kastamonu",
-    "aciklama": "Gökırmak üzerinde 116 MW.",
-    "koordinatlar": {
-      "lat": 41.63,
-      "lng": 34.48
-    },
-    "alan_ha": 580,
-    "durum": "Aktif",
-    "belge_no": "DSİ-HES-005",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
