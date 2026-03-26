@@ -28423,23 +28423,6 @@
     "alt_kategori": null
   },
   {
-    "id": "ry4ugm2y971774238794127",
-    "tip": "GES",
-    "ad": "Milas GES Sahası",
-    "il": "Muğla",
-    "aciklama": "Tarım dışı arazide büyük ölçekli GES.",
-    "koordinatlar": {
-      "lat": 37.18,
-      "lng": 27.69
-    },
-    "alan_ha": 280,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rfjcfk0ukk1774238794127",
     "tip": "Maden Ocağı",
     "ad": "Yatağan Linyit Madeni",
