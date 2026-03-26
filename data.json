@@ -27806,40 +27806,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rinogiwj2s1774238794127",
-    "tip": "Milli Park",
-    "ad": "Kaçkar Dağları Milli Parkı",
-    "il": "Rize",
-    "aciklama": "Doğu Karadeniz'in en yüksek dağı ve yaylaları.",
-    "koordinatlar": {
-      "lat": 40.83,
-      "lng": 41.12
-    },
-    "alan_ha": 51550,
-    "durum": "Aktif",
-    "belge_no": "OGM-MP-1994",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rvkrs41aed1774238794127",
-    "tip": "Milli Park",
-    "ad": "Altındere Vadisi Milli Parkı",
-    "il": "Trabzon",
-    "aciklama": "Sümela Manastırı ve derin kanyon.",
-    "koordinatlar": {
-      "lat": 40.68,
-      "lng": 39.65
-    },
-    "alan_ha": 4457,
-    "durum": "Aktif",
-    "belge_no": "OGM-MP-1987",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rwxpjt03ca1774238794127",
     "tip": "Milli Park",
     "ad": "Hatila Vadisi Milli Parkı",
@@ -49548,5 +49514,23 @@
     "eklenme": "2026-03-26",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "r77rajxv9u1774503302294",
+    "tip": "Maden Ocağı",
+    "ad": "Demir Madeni",
+    "il": "Sivas",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.422536,
+      "lng": 38.074493
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   }
 ]
