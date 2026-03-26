@@ -27891,9 +27891,10 @@
   },
   {
     "id": "rf5mw2mz1p1774238794127",
-    "tip": "Ekolojik İhlal",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Taş Ocağı",
     "il": "Antalya",
+    "ilce": "",
     "aciklama": "",
     "koordinatlar": {
       "lat": 37.038873,
@@ -27902,9 +27903,9 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-03-26",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   },
   {
     "id": "rbl7gzf9zo1774238794127",
@@ -49366,6 +49367,564 @@
     "koordinatlar": {
       "lat": 36.848582,
       "lng": 30.539117
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r03gxj6ci01774498223914",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.845628,
+      "lng": 30.543108
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rtzsqql2431774498579170",
+    "tip": "Kültür Varlığı",
+    "ad": "Karain Mağarası",
+    "il": "Antalya",
+    "ilce": "Döşemealtı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.077504,
+      "lng": 30.569705
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r5axrr8ghv1774498684620",
+    "tip": "Kültür Varlığı",
+    "ad": "Kırkgöz Han Kervansaray",
+    "il": "Antalya",
+    "ilce": "Döşemealtı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.111478,
+      "lng": 30.585562
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rjnq159szk1774498864719",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Ekşili Kanyonu",
+    "il": "Antalya",
+    "ilce": "Döşemealtı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.159137,
+      "lng": 30.700436
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r63gqjewgt1774498939751",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Ekşili Şelalesi",
+    "il": "Antalya",
+    "ilce": "Aksu",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.152984,
+      "lng": 30.717891
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rz7iedkk431774498967975",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Kiremit Oluk Kanyonu",
+    "il": "Antalya",
+    "ilce": "Aksu",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.150654,
+      "lng": 30.71758
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r0j3e8w9x61774499003680",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Gavurun Pınarı",
+    "il": "Antalya",
+    "ilce": "Aksu",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.151817,
+      "lng": 30.718374
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rxvkoojvob1774499195185",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Döşemealtı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.190921,
+      "lng": 30.720992
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rdt4r5os9a1774499222745",
+    "tip": "Kültür Varlığı",
+    "ad": "Aşar Dağı Tarihi Alan",
+    "il": "Antalya",
+    "ilce": "Döşemealtı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.185083,
+      "lng": 30.707206
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rptadvqt671774499330018",
+    "tip": "Kültür Varlığı",
+    "ad": "Kocain Mağarası",
+    "il": "Antalya",
+    "ilce": "Döşemealtı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.232695,
+      "lng": 30.71154
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rea24epmac1774499438921",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Alistone Mermer Karaseki",
+    "il": "Burdur",
+    "ilce": "Bucak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.338705,
+      "lng": 30.750561
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r1thwc618y1774499501150",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Burdur",
+    "ilce": "Bucak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.323835,
+      "lng": 30.778799
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rmayiz69ng1774499542716",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Burdur",
+    "ilce": "Bucak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.322905,
+      "lng": 30.782919
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rk5n3d8epm1774499557082",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Burdur",
+    "ilce": "Bucak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.316387,
+      "lng": 30.794678
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rhe6slv2vm1774499647852",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Maki Doğaltaş San. Tic.",
+    "il": "Burdur",
+    "ilce": "Bucak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.420984,
+      "lng": 30.683634
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rjkiy2fsgy1774499678517",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Portsan Traverten Ocağı",
+    "il": "Burdur",
+    "ilce": "Bucak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.493384,
+      "lng": 30.662842
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rhhdyquyjt1774499758039",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Rock Mermer",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.516398,
+      "lng": 29.949503
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rqqhs0kxfj1774499777568",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Cekicler Marble Burdur Beige Quarry",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.509862,
+      "lng": 29.930019
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rzpbpflb4q1774499800561",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "İltaş Marble çeltek",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.515853,
+      "lng": 29.930706
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "roph1syb3n1774499823959",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Fimar Marble Burdur Quarry",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.51473,
+      "lng": 29.923325
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rdk1naqub61774499847043",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Birdal Mermer Maden Ocağı",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.53185,
+      "lng": 29.940662
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rrznau9oem1774499902717",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Başaranlar A.Ş. Yukarı Müslümler Karia Cream Ocağı",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.62307,
+      "lng": 29.939375
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rxufdbdl011774499940683",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Isik mermer",
+    "il": "Burdur",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.621506,
+      "lng": 29.987526
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rcyrxqx31a1774499965903",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Işık mermer 2",
+    "il": "Burdur",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.631499,
+      "lng": 29.983492
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ryezsau6fn1774499992215",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "CRT CERİT MARBLE",
+    "il": "Burdur",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.634694,
+      "lng": 29.9786
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "re3nnhcuy01774500023713",
+    "tip": "GES",
+    "ad": "LTI Turkey Hanwha Q Cell PV Station",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.639723,
+      "lng": 29.95491
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rklc0owevm1774500061725",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Aytaş Akın Mermer Yaylabeli Ocağı",
+    "il": "Burdur",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.656781,
+      "lng": 29.994564
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r2aakhp8gg1774500087778",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Çicekmersan-1",
+    "il": "Burdur",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.672408,
+      "lng": 29.984779
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rb303jaj671774500112140",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Heyma madencilik",
+    "il": "Burdur",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.681103,
+      "lng": 29.989758
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r8i5c9zf9c1774500141978",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Akemar madencilik",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.657053,
+      "lng": 29.97139
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rfdkhllpp51774500187335",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.586112,
+      "lng": 29.922681
     },
     "alan_ha": 0,
     "durum": "Aktif",
