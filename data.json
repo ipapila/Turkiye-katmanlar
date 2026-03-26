@@ -27276,23 +27276,6 @@
     "alt_kategori": "Kaçak İnşaat Atığı Dökümü"
   },
   {
-    "id": "relqbrljyh1774238301242",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Finike - Boldağ Mevkii Planlı/Var Olan Ocaklar",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.35,
-      "lng": 30.2
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rs3oqc2nww1774238338317",
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
@@ -49316,6 +49299,78 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-25",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r34swev40r1774498029350",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.819403,
+      "lng": 30.504613
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r3cndl7l0u1774498101607",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.892252,
+      "lng": 30.501856
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rms406l10x1774498136537",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Antalya Belediyesi Boğaçayı Şantiyesi",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.860875,
+      "lng": 30.584757
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rms2ofigz61774498193169",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Karayolları Taş Ocağı ve Kırma eleme tesisi",
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.848582,
+      "lng": 30.539117
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
     "kaynak": "Manuel",
     "alt_kategori": ""
   }
