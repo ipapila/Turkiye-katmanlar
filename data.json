@@ -49932,5 +49932,131 @@
     "eklenme": "2026-03-26",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "rhdpvjm0xs1774500259702",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Burdur",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.605732,
+      "lng": 30.004563
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ryq27sgg0u1774500286014",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Burdur",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.627998,
+      "lng": 30.017524
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r1na28hu5w1774500329055",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Burdur",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.633232,
+      "lng": 30.02718
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "re4cji1msq1774501673011",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Aytaş Akın Mermer / Alanköy Ocağı",
+    "il": "Burdur",
+    "ilce": "Yeşilova",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.687217,
+      "lng": 29.826851
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rs0d6bm4au1774501690920",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Hurok marble Grey quarry",
+    "il": "Denizli",
+    "ilce": "Çardak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.695163,
+      "lng": 29.805908
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ra7ywx3qaq1774501736491",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer",
+    "il": "Afyonkarahisar",
+    "ilce": "Başmakçı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.785707,
+      "lng": 29.904442
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r6gbdyz0ku1774501759340",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mermer",
+    "il": "Denizli",
+    "ilce": "Çardak",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.767424,
+      "lng": 29.87041
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-26",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
