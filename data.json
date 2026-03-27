@@ -27278,23 +27278,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rk7t0of7561774238794127",
-    "tip": "Orman Alanı",
-    "ad": "Kemer Ormanları",
-    "il": "Antalya",
-    "aciklama": "Sedir ve kızılçam ormanları.",
-    "koordinatlar": {
-      "lat": 36.594685,
-      "lng": 30.55727
-    },
-    "alan_ha": 48000,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rm9np9vmfa1774238794127",
     "tip": "HES",
     "ad": "Oymapınar Barajı ve HES",
@@ -29590,13 +29573,13 @@
     "ilce": "Kemer",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 36.597794,
-      "lng": 30.574608
+      "lat": 36.59667,
+      "lng": 30.575294
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-26",
+    "eklenme": "2026-03-27",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": ""
   },
