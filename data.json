@@ -197,23 +197,6 @@
     "kaynak": "Çevre Bakanlığı"
   },
   {
-    "id": "rr19d552do1773928264740",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Patara ÖÇKA",
-    "il": "Antalya",
-    "ilce": "Kaş",
-    "aciklama": "Antik Patara ve Türkiye'nin en uzun plajı.",
-    "koordinatlar": {
-      "lat": 36.294651,
-      "lng": 29.309464
-    },
-    "alan_ha": 18500,
-    "durum": "Aktif",
-    "belge_no": "1990/478",
-    "eklenme": "2026-03-19",
-    "kaynak": "Çevre Bakanlığı"
-  },
-  {
     "id": "rhpe2cls3v1773928264740",
     "tip": "Özel Çevre Koruma Alanı",
     "ad": "Kekova ÖÇKA",
@@ -24753,18 +24736,19 @@
     "id": "rb6lipszpb1774104564932",
     "tip": "Özel Çevre Koruma Alanı",
     "ad": "Patara Özel Çevre Koruma Bölgesi",
-    "il": "Antalya / Muğla",
+    "il": "Antalya",
+    "ilce": "Kaş",
     "aciklama": "18 km uzunluğuyla Türkiye'nin en uzun sahillerinden biri olan Patara, aynı zamanda Likya Birliği başkenti olan tarihi Patara antik kentini de barındırmaktadır. Apollo kehanel tapınağının bulunduğu ve Noel Baba'nın (Aziz Nikola) doğduğu yer olarak bilinmektedir. Deniz kaplumbağası için kritik yuvarlama alanı.",
     "koordinatlar": {
-      "lat": 36.32,
-      "lng": 29.33
+      "lat": 36.297141,
+      "lng": 29.302425
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-27",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": ""
   },
   {
     "id": "ruqqja6pqk1774104564932",
@@ -27227,40 +27211,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rposl6vul61774238794127",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Patara ÖÇKA",
-    "il": "Antalya",
-    "aciklama": "Antik Patara ve Türkiye'nin en uzun plajı.",
-    "koordinatlar": {
-      "lat": 36.294651,
-      "lng": 29.309464
-    },
-    "alan_ha": 18500,
-    "durum": "Aktif",
-    "belge_no": "1990/478",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r0d803sz6z1774238794127",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Kekova ÖÇKA",
-    "il": "Antalya",
-    "aciklama": "Batık şehir ve eşsiz kıyı alanı.",
-    "koordinatlar": {
-      "lat": 36.188875,
-      "lng": 29.873543
-    },
-    "alan_ha": 31177,
-    "durum": "Aktif",
-    "belge_no": "1990/478",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r612zxm2291774238794127",
     "tip": "Sulak Alan",
     "ad": "Belek Sulak Alanları",
@@ -28083,23 +28033,6 @@
     "alt_kategori": null
   },
   {
-    "id": "raennbidms1774238794127",
-    "tip": "Milli Park",
-    "ad": "Saklıkent Milli Parkı",
-    "il": "Muğla",
-    "aciklama": "Türkiye'nin en derin kanyonu. 18 km uzunluğunda dar kanyon.",
-    "koordinatlar": {
-      "lat": 36.451,
-      "lng": 29.182
-    },
-    "alan_ha": 11400,
-    "durum": "Aktif",
-    "belge_no": "1996/8501",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rcqmqkxkf71774238794127",
     "tip": "Özel Çevre Koruma Alanı",
     "ad": "Datça-Bozburun ÖÇKA",
@@ -28652,23 +28585,6 @@
     "alt_kategori": null
   },
   {
-    "id": "r1069eiiv21774238794127",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Araksa",
-    "il": "Antalya",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.745839,
-      "lng": 29.369051
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "r5bgjw38ux1774238794127",
     "tip": "Ekolojik İhlal",
     "ad": "Taş Ocağı",
@@ -28796,23 +28712,6 @@
     "koordinatlar": {
       "lat": 36.665261,
       "lng": 29.370575
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rid9wlaka11774238794127",
-    "tip": "Özel Çevre Koruma Alanı",
-    "ad": "Kayaköy Harabeleri",
-    "il": "Muğla",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.574465,
-      "lng": 29.090713
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -45972,24 +45871,6 @@
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   },
   {
-    "id": "r79b0sv1os1774242817251",
-    "tip": "Taş-Mermer Ocağı",
-    "ad": "Mermer Ocağı",
-    "il": "Antalya",
-    "ilce": "Kaş",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.222655,
-      "lng": 29.715872
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-23",
-    "kaynak": "Manuel",
-    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
-  },
-  {
     "id": "r63bv17ofe1774242839955",
     "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer Ocağı",
@@ -47468,7 +47349,7 @@
   {
     "id": "rvt5av6gjb1774326291896",
     "tip": "Maden Ocağı",
-    "ad": "Tüplrağ Efemçukuru Altın Madeni",
+    "ad": "Tüprağ Efemçukuru Altın Madeni",
     "il": "İzmir",
     "ilce": "Menderes",
     "aciklama": "Yer altı su havzası yakınlığı",
@@ -47479,7 +47360,7 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-24",
+    "eklenme": "2026-03-27",
     "kaynak": "Manuel",
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   },
