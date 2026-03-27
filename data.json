@@ -49569,5 +49569,23 @@
     "eklenme": "2026-03-27",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "rzo1hckqco1774603483598",
+    "tip": "Maden Ocağı",
+    "ad": "Eti Barır Adıyaman",
+    "il": "Adıyaman",
+    "ilce": "Çelikhan",
+    "aciklama": "Depremin büyük yıkımlar yarattığı Semsûr’da, madencilik faaliyetleri kıskacında. Son yıllarda hızlı bir artışın gözlemlendiği taş ocakları, kentin habitat ve ekosistemini darmadağın ediyor. En somut örneği Semsûr merkez ile Çêlîk (Çelikhan) ilçesi arasındaki yolun 27 kilometrelik kısmında 7 taş ocağı ve Eti Bakır işletmesine bağlı bir maden ocağı yer alıyor.",
+    "koordinatlar": {
+      "lat": 37.936134,
+      "lng": 38.231478
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
   }
 ]
