@@ -49613,5 +49613,23 @@
     "eklenme": "2026-03-27",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "rv779xrc181774622176948",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "ADO Mining Co. - Antalya Grinding & Packaging Plant",
+    "il": "Antalya",
+    "ilce": "Kepez",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.897692,
+      "lng": 30.613489
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
