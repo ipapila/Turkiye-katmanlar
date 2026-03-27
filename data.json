@@ -49451,5 +49451,167 @@
     "eklenme": "2026-03-27",
     "kaynak": "Manuel",
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rvqcjw9vm71774620834048",
+    "tip": "Maden Ocağı",
+    "ad": "Folkmine A.Ş. Altın Madeni",
+    "il": "Kütahya",
+    "ilce": "Tavşanlı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.66759,
+      "lng": 29.400401
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "raxu3f4u681774621013736",
+    "tip": "Maden Ocağı",
+    "ad": "Tümad İvrindi Altın Madeni",
+    "il": "Balıkesir",
+    "ilce": "Burhaniye",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.421342,
+      "lng": 27.184811
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rvecajk6nc1774621430778",
+    "tip": "Maden Ocağı",
+    "ad": "TÜMAD Madencilik San. ve Tic. A.Ş. Ivrindi Altın GümüşMadeni",
+    "il": "Balıkesir",
+    "ilce": "Burhaniye",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.391101,
+      "lng": 27.172451
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ru5b3klbaa1774621458938",
+    "tip": "Maden Ocağı",
+    "ad": "KSE Maden",
+    "il": "Balıkesir",
+    "ilce": "Burhaniye",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.40125,
+      "lng": 27.198629
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r2hwuezyfm1774621615313",
+    "tip": "Maden Ocağı",
+    "ad": "BRG KURŞUN MADENCİLİK TAŞ OCAĞI",
+    "il": "Balıkesir",
+    "ilce": "Ayvalık",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.309365,
+      "lng": 26.946566
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ras4opt4fp1774621819749",
+    "tip": "Maden Ocağı",
+    "ad": "Kozak Madencilik & Enerji A.Ş.",
+    "il": "İzmir",
+    "ilce": "Bergama",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.286765,
+      "lng": 27.069207
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rgrxc89b1h1774621857133",
+    "tip": "Maden Ocağı",
+    "ad": "OLYMPOS MADENCİLİK",
+    "il": "İzmir",
+    "ilce": "Bergama",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.286325,
+      "lng": 27.064261
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ruwr4lrzo11774621897882",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Flora Stone Granit Madencilik",
+    "il": "İzmir",
+    "ilce": "Bergama",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.28865,
+      "lng": 27.070109
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r3smo9ds351774621952589",
+    "tip": "Maden Ocağı",
+    "ad": "Hasbay Madencilik Ltd.şti.",
+    "il": "İzmir",
+    "ilce": "Bergama",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.293292,
+      "lng": 27.096491
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
