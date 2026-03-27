@@ -49551,5 +49551,23 @@
     "eklenme": "2026-03-26",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "r5o3l5l8lh1774603088541",
+    "tip": "GES",
+    "ad": "Çanakyayla GES projesi",
+    "il": "Bitlis",
+    "ilce": "Adilcevaz",
+    "aciklama": "Bitlis’in Adilcevaz ilçesine bağlı Çanakyayla Köyü’nde Kiler Holding tarafından yapılmak istenen 85 mw kapasiteli Çanakyayla Güneş Enerjisi Santrali projesi, yenilenebilir enerji söylemi altında köyün müşterek varlığı olan merayı, kapitalist üretim ilişkilerinin yeniden üretildiği bir mekâna dönüştüren bir müdahale.\n\nBitlis’te ormanların rant ve güvenlik politikalarıyla tahrip edilmesi, nehirlerin HES projeleriyle akışlarının kesilmesi nasıl sistematik bir müdahale biçimi oluşturduysa, bugün de köylülerin temel geçim kaynağı olan meralar benzer bir anlayışla sermayenin yeni hedefi haline gelmiş durumdadır.",
+    "koordinatlar": {
+      "lat": 38.904927,
+      "lng": 42.706261
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-27",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
