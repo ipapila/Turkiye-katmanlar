@@ -56584,5 +56584,24 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": ""
+  },
+  {
+    "id": "rzsn2e3x2p1774711448552",
+    "tip": "Ekolojik İhlal",
+    "ad": "Osmanağa Koyuna iş makineleri girdi",
+    "il": "Muğla",
+    "ilce": "Fethiye",
+    "aciklama": "Muğla – Fethiye ilçesine bağlı Göcek Özel Çevre Koruma Bölgesi sınırları içerisinde yer alan Osmanağa Koyu’nda, 26 Mart sabahı erken saatlerde iş makineleriyle başlatılan çalışmalar bugün de devam etti. Çalışmalara tepki gösteren yurttaşlar bölgeye gitmek istedi ancak Jandarma barikatıyla karşılaştı. Alana kara yoluyla girişin kapatılmasına tepki gösteren vatandaşlar, tekneyle bölgeye ulaşmaya çalışarak denizde eylem yaptı.",
+    "koordinatlar": {
+      "lat": 36.732762,
+      "lng": 28.918065
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_link": "https://www.evrensel.net/haber/5977153/osmanaga-koyuna-is-makineleriyle-girildi-kara-yoluyla-ulasamayan-vatandaslar-denizde-eylem-yapti"
   }
 ]
