@@ -211,6 +211,8 @@ body.pkmode #map{cursor:crosshair !important;}
 <!-- Modal (Ekle/Düzenle) -->
 <div id="mov"><div id="modal"><div class="mhd"><h2 id="mtit">Yeni Alan Ekle</h2><button class="mcls" id="mcls">✕</button></div><div class="mbd"><div class="fgrid"><div class="fg full"><label>Alan Adı *</label><input type="text" id="fad"/></div><div class="fg"><label>Alan Türü *</label><select id="ftip"><option>Ekolojik İhlal</option><option>İklim Olayları</option><option>Acele Kamulaştırma</option><option>Kültür Varlığı</option><option>Milli Park</option><option>Özel Çevre Koruma Alanı</option><option>Maden Ocağı</option><option>Taş-Mermer Ocağı</option><option>Termik Reaktör</option><option>HES</option><option>GES</option><option>RES</option><option>Nükleer Enerji</option><option>Jeotermal</option><option>Orman Alanı</option><option>Sulak Alan</option><option>Kıyı İhlalleri</option></select></div><div class="fg"><label>Alt Kategori</label><select id="faltkat"><option value="">— Seçin —</option><option>Endüstriyel Kirlilik / Maden Suçu</option><option>Su Kirliliği</option><option>Orman Suçları/Yasadışı Kesim</option><option>Atık Suçu/Kaçak Döküm</option><option>Hava Kirliliği</option><option>Deniz Kirliliği</option><option>Yaban Hayatı Suçu</option><option>Kıyı İhlali</option><option>Gemi Sökümü</option></select></div><div class="fg"><label>İl *</label><select id="fil2" onchange="updateFormIlce()"></select></div><div class="fg"><label>İlçe</label><select id="filce2"><option value="">— Önce İl Seçin —</option></select></div><div class="fg"><label>Alan (ha)</label><input type="number" id="falan"/></div><div class="fg"><label>Durum</label><select id="fdrm2"><option>Aktif</option><option>Planlama</option><option>İptal</option><option>Devam Ediyor</option><option>Durduruldu</option><option>Yargıda</option><option>Kapatıldı</option></select></div><div class="fg"><label>Belge / Karar No</label><input type="text" id="fblg"/></div><div class="fg"><label>Kaynak</label><input type="text" id="fkyn"/></div><div class="fg"><label>Enlem (Lat)</label><input type="number" step="0.00001" id="flat"/></div><div class="fg"><label>Boylam (Lng)</label><input type="number" step="0.00001" id="flng"/></div>
 <div class="fg full"><button class="pkbtn" id="pkbtn">📍 Haritadan Konum Seç</button><div class="chint">Butona basıp haritada tıklayarak koordinat belirleyin.</div></div>
+<!-- YENİ: KAYNAK LİNKİ ALANI -->
+<div class="fg full"><label>🔗 Kaynak Linki</label><input type="url" id="fkaynak_link" placeholder="https://..."/><div class="chint">Kaynağın web adresi (varsa)</div></div>
 <div class="fg full"><label>Açıklama</label><textarea id="faclm"></textarea></div></div></div><div class="mft"><button class="bcn" id="mcan">İptal</button><button class="bsv" id="msav">💾 Kaydet</button></div></div></div>
 
 <!-- Kategori Eşleştirme Modalı (içe aktarım) -->
@@ -364,10 +366,11 @@ const ILCELER = {
 // ---------- HARİTA ----------
 const map = L.map('map',{center:[39.0,35.0],zoom:6});
 
-// TEMEL KATMANLAR
+// TEMEL KATMANLAR - yeni "OSM Humanitarian" eklendi
 const baseMaps = {
   "OSM Standart": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution:'© OpenStreetMap contributors', subdomains:'abc', maxZoom:19}),
   "OSM Türkiye": L.tileLayer('https://tile.openstreetmap.de/{z}/{x}/{y}.png', {attribution:'© OpenStreetMap DE contributors', maxZoom:19}),
+  "OSM Humanitarian": L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {attribution:'© OpenStreetMap contributors, Humanitarian Style', maxZoom:19}),
   "Uydu (Esri)": L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {attribution:'© Esri World Imagery', maxZoom:19}),
   "Topoğrafik": L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {attribution:'© Esri World Topo', maxZoom:19}),
   "CartoDB": L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {attribution:'© CartoDB © OpenStreetMap', subdomains:'abcd', maxZoom:20})
@@ -397,7 +400,11 @@ function popHtml(r){
   } else if (Array.isArray(r.alt_kategori) && r.alt_kategori.length) {
     altKatHtml = `<div class="pr"><strong>Alt Kategori:</strong>${r.alt_kategori.join(', ')}</div>`;
   }
-  return `<div class="pw"><div class="ptit">${r.ad}</div><span class="pbdg" style="background:${t.color}">${t.icon} ${r.tip}</span><div class="pr"><strong>İl:</strong>${r.il||'—'}${r.ilce?' / '+r.ilce:''}</div><div class="pr"><strong>Alan:</strong>${r.alan_ha?Number(r.alan_ha).toLocaleString('tr-TR')+' ha':'—'}</div><div class="pr"><strong>Durum:</strong><span style="color:${dc};font-weight:600">${r.durum||'—'}</span></div>${altKatHtml}${r.belge_no?`<div class="pr"><strong>Belge:</strong>${r.belge_no}</div>`:''}${r.kaynak?`<div class="pr"><strong>Kaynak:</strong>${r.kaynak}</div>`:''}${r.aciklama?`<div class="pr" style="margin-top:5px;">${r.aciklama}</div>`:''}<div class="pa" style="display:flex; gap:5px; flex-wrap:wrap; margin-top:8px;"><button class="pb pbe" onclick="requireAdmin(()=>doEdit('${r.id}'))">✏️ Düzenle</button><button class="pb pbd" onclick="requireAdmin(()=>doDel('${r.id}'))">🗑️ Sil</button></div></div>`;
+  let linkHtml = '';
+  if (r.kaynak_link && r.kaynak_link.trim()) {
+    linkHtml = `<div class="pr"><strong>🔗 Link:</strong> <a href="${r.kaynak_link}" target="_blank" rel="noopener noreferrer">Kaynağa Git</a></div>`;
+  }
+  return `<div class="pw"><div class="ptit">${r.ad}</div><span class="pbdg" style="background:${t.color}">${t.icon} ${r.tip}</span><div class="pr"><strong>İl:</strong>${r.il||'—'}${r.ilce?' / '+r.ilce:''}</div><div class="pr"><strong>Alan:</strong>${r.alan_ha?Number(r.alan_ha).toLocaleString('tr-TR')+' ha':'—'}</div><div class="pr"><strong>Durum:</strong><span style="color:${dc};font-weight:600">${r.durum||'—'}</span></div>${altKatHtml}${r.belge_no?`<div class="pr"><strong>Belge:</strong>${r.belge_no}</div>`:''}${r.kaynak?`<div class="pr"><strong>Kaynak:</strong>${r.kaynak}</div>`:''}${linkHtml}${r.aciklama?`<div class="pr" style="margin-top:5px;">${r.aciklama}</div>`:''}<div class="pa" style="display:flex; gap:5px; flex-wrap:wrap; margin-top:8px;"><button class="pb pbe" onclick="requireAdmin(()=>doEdit('${r.id}'))">✏️ Düzenle</button><button class="pb pbd" onclick="requireAdmin(()=>doDel('${r.id}'))">🗑️ Sil</button></div></div>`;
 }
 function addMkr(r){
   if(!r.koordinatlar?.lat) return;
@@ -471,6 +478,8 @@ function migrateCategories(records) {
     } else if (r.alt_kategori === undefined) {
       r.alt_kategori = '';
     }
+    // kaynak_link alanı varsa koru, yoksa ekle
+    if (r.kaynak_link === undefined) r.kaynak_link = '';
     const { ekolojik_ihlal, ...clean } = r;
     return clean;
   });
@@ -480,14 +489,14 @@ function migrateCategories(records) {
 function fixCoords(records){return records;}
 const acelePoints = [];
 const SAMPLE_DATA = migrateCategories([
-  {id:uid(), tip:'Ekolojik İhlal', ad:'Kaçak Avcılık', il:'Muğla', ilce:'Bodrum', alan_ha:0, durum:'Aktif', aciklama:'Yaban hayatı kaçakçılığı', koordinatlar:{lat:37.038,lng:27.431}, eklenme:tod(), alt_kategori:'Yaban Hayatı Suçu'},
-  {id:uid(), tip:'İklim Olayları', ad:'Orman Yangını (2023)', il:'Antalya', ilce:'Manavgat', alan_ha:15000, durum:'Devam Ediyor', aciklama:'Aşırı sıcaklık nedeniyle çıkan yangın', koordinatlar:{lat:36.785,lng:31.443}, eklenme:tod(), alt_kategori:''},
-  {id:uid(), tip:'Termik Reaktör', ad:'Yatağan Termik Santrali', il:'Muğla', ilce:'Yatağan', alan_ha:120, durum:'Aktif', aciklama:'Kömür yakıtlı termik santral', koordinatlar:{lat:37.340,lng:28.142}, eklenme:tod(), alt_kategori:'Hava Kirliliği'},
-  {id:uid(), tip:'RES', ad:'Balıkesir RES', il:'Balıkesir', alan_ha:50, durum:'Aktif', koordinatlar:{lat:39.645,lng:27.891}, eklenme:tod(), alt_kategori:''},
-  {id:uid(), tip:'Milli Park', ad:'Belgrad Ormanı', il:'İstanbul', ilce:'Sarıyer', alan_ha:5442, durum:'Aktif', koordinatlar:{lat:41.1844,lng:28.9795}, eklenme:tod(), alt_kategori:''}
+  {id:uid(), tip:'Ekolojik İhlal', ad:'Kaçak Avcılık', il:'Muğla', ilce:'Bodrum', alan_ha:0, durum:'Aktif', aciklama:'Yaban hayatı kaçakçılığı', koordinatlar:{lat:37.038,lng:27.431}, eklenme:tod(), alt_kategori:'Yaban Hayatı Suçu', kaynak_link:'https://example.com/rapor1'},
+  {id:uid(), tip:'İklim Olayları', ad:'Orman Yangını (2023)', il:'Antalya', ilce:'Manavgat', alan_ha:15000, durum:'Devam Ediyor', aciklama:'Aşırı sıcaklık nedeniyle çıkan yangın', koordinatlar:{lat:36.785,lng:31.443}, eklenme:tod(), alt_kategori:'', kaynak_link:'https://example.com/yangin'},
+  {id:uid(), tip:'Termik Reaktör', ad:'Yatağan Termik Santrali', il:'Muğla', ilce:'Yatağan', alan_ha:120, durum:'Aktif', aciklama:'Kömür yakıtlı termik santral', koordinatlar:{lat:37.340,lng:28.142}, eklenme:tod(), alt_kategori:'Hava Kirliliği', kaynak_link:''},
+  {id:uid(), tip:'RES', ad:'Balıkesir RES', il:'Balıkesir', alan_ha:50, durum:'Aktif', koordinatlar:{lat:39.645,lng:27.891}, eklenme:tod(), alt_kategori:'', kaynak_link:''},
+  {id:uid(), tip:'Milli Park', ad:'Belgrad Ormanı', il:'İstanbul', ilce:'Sarıyer', alan_ha:5442, durum:'Aktif', koordinatlar:{lat:41.1844,lng:28.9795}, eklenme:tod(), alt_kategori:'', kaynak_link:'https://example.com/belgrad'}
 ]);
 acelePoints.forEach(p => {
-  SAMPLE_DATA.push({id:uid(), tip:'Acele Kamulaştırma', ad:p.ad, il:p.il, ilce:p.ilce, alan_ha:0, durum:'Aktif', aciklama:`${p.alt_kategori} - ${p.kurum} (${p.tarih})`, koordinatlar:p.koordinatlar, alt_kategori:'', kaynak:'Resmi Gazete'});
+  SAMPLE_DATA.push({id:uid(), tip:'Acele Kamulaştırma', ad:p.ad, il:p.il, ilce:p.ilce, alan_ha:0, durum:'Aktif', aciklama:`${p.alt_kategori} - ${p.kurum} (${p.tarih})`, koordinatlar:p.koordinatlar, alt_kategori:'', kaynak:'Resmi Gazete', kaynak_link:''});
 });
 
 async function load(){
@@ -617,10 +626,10 @@ function updateFormIlce(){
   if(il && ILCELER[il]) ILCELER[il].forEach(ilce=>{const o=document.createElement('option');o.value=ilce;o.textContent=ilce;sel.appendChild(o);});
 }
 function openAdd(){editId=null;document.getElementById('mtit').textContent='➕ Yeni Alan Ekle';clrF();document.getElementById('mov').classList.add('open');}
-function doEdit(id){const r=data.find(d=>d.id===id);if(!r)return;editId=id;document.getElementById('mtit').textContent='✏️ Alanı Düzenle';document.getElementById('fad').value=r.ad||'';document.getElementById('ftip').value=r.tip||'';document.getElementById('faltkat').value=r.alt_kategori||'';document.getElementById('fil2').value=r.il||'';updateFormIlce();document.getElementById('filce2').value=r.ilce||'';document.getElementById('falan').value=r.alan_ha||'';document.getElementById('fdrm2').value=r.durum||'Aktif';document.getElementById('fblg').value=r.belge_no||'';document.getElementById('fkyn').value=r.kaynak||'';document.getElementById('faclm').value=r.aciklama||'';document.getElementById('flat').value=r.koordinatlar?.lat||'';document.getElementById('flng').value=r.koordinatlar?.lng||'';document.getElementById('mov').classList.add('open');mkrs[id]?.closePopup();}
+function doEdit(id){const r=data.find(d=>d.id===id);if(!r)return;editId=id;document.getElementById('mtit').textContent='✏️ Alanı Düzenle';document.getElementById('fad').value=r.ad||'';document.getElementById('ftip').value=r.tip||'';document.getElementById('faltkat').value=r.alt_kategori||'';document.getElementById('fil2').value=r.il||'';updateFormIlce();document.getElementById('filce2').value=r.ilce||'';document.getElementById('falan').value=r.alan_ha||'';document.getElementById('fdrm2').value=r.durum||'Aktif';document.getElementById('fblg').value=r.belge_no||'';document.getElementById('fkyn').value=r.kaynak||'';document.getElementById('fkaynak_link').value=r.kaynak_link||'';document.getElementById('faclm').value=r.aciklama||'';document.getElementById('flat').value=r.koordinatlar?.lat||'';document.getElementById('flng').value=r.koordinatlar?.lng||'';document.getElementById('mov').classList.add('open');mkrs[id]?.closePopup();}
 function closeMod(){document.getElementById('mov').classList.remove('open');if(pkMode)exitPk();editId=null;}
 function clrF(){
-  ['fad','ftip','faltkat','fil2','falan','fblg','fkyn','faclm','flat','flng'].forEach(i=>document.getElementById(i).value='');
+  ['fad','ftip','faltkat','fil2','falan','fblg','fkyn','fkaynak_link','faclm','flat','flng'].forEach(i=>document.getElementById(i).value='');
   document.getElementById('fdrm2').value='Aktif';
   document.getElementById('filce2').innerHTML='<option value="">— İlçe Seçin —</option>';
 }
@@ -632,7 +641,7 @@ function savRec(){
   const lat=parseFloat(document.getElementById('flat').value);
   const lng=parseFloat(document.getElementById('flng').value);
   const altKat = document.getElementById('faltkat').value.trim() || '';
-  const rec={id:editId||uid(), tip, ad, il, ilce:document.getElementById('filce2').value||'', aciklama:document.getElementById('faclm').value.trim(), koordinatlar:(lat&&lng)?{lat,lng}:{}, alan_ha:parseFloat(document.getElementById('falan').value)||0, durum:document.getElementById('fdrm2').value, belge_no:document.getElementById('fblg').value.trim(), eklenme:tod(), kaynak:document.getElementById('fkyn').value.trim()||'Manuel', alt_kategori:altKat};
+  const rec={id:editId||uid(), tip, ad, il, ilce:document.getElementById('filce2').value||'', aciklama:document.getElementById('faclm').value.trim(), koordinatlar:(lat&&lng)?{lat,lng}:{}, alan_ha:parseFloat(document.getElementById('falan').value)||0, durum:document.getElementById('fdrm2').value, belge_no:document.getElementById('fblg').value.trim(), eklenme:tod(), kaynak:document.getElementById('fkyn').value.trim()||'Manuel', alt_kategori:altKat, kaynak_link:document.getElementById('fkaynak_link').value.trim()};
   if(editId){
     const idx=data.findIndex(d=>d.id===editId);
     if(idx>=0){
@@ -740,7 +749,8 @@ function processGeoJSON(parsed){
       belge_no:String(p.osm_id||p.belge_no||''),
       eklenme:tod(),
       kaynak:'Dosya içe aktarma',
-      alt_kategori: altKategori
+      alt_kategori: altKategori,
+      kaynak_link:p.kaynak_link||p.link||p.url||''
     };
   }).filter(Boolean);
   if(!imported.length){ ntf('Koordinat içeren kayıt bulunamadı','err'); return; }
@@ -833,7 +843,7 @@ function impD(file){
   }
   const r=new FileReader();
   r.onload=e=>{
-    try{const parsed=JSON.parse(e.target.result);if(parsed.type==='FeatureCollection'&&Array.isArray(parsed.features))processGeoJSON(parsed);else if(Array.isArray(parsed)){parsed.forEach(d=>{if(!d.id)d.id=uid();if(d.alt_kategori && Array.isArray(d.alt_kategori)) d.alt_kategori = d.alt_kategori.join(', ');});if(!parsed.length)throw new Error();showCatMap(parsed);}else throw new Error();}catch(err){ntf('Geçersiz dosya formatı','err');}
+    try{const parsed=JSON.parse(e.target.result);if(parsed.type==='FeatureCollection'&&Array.isArray(parsed.features))processGeoJSON(parsed);else if(Array.isArray(parsed)){parsed.forEach(d=>{if(!d.id)d.id=uid();if(d.alt_kategori && Array.isArray(d.alt_kategori)) d.alt_kategori = d.alt_kategori.join(', ');if(d.kaynak_link===undefined) d.kaynak_link='';});if(!parsed.length)throw new Error();showCatMap(parsed);}else throw new Error();}catch(err){ntf('Geçersiz dosya formatı','err');}
   };
   r.readAsText(file);
 }
