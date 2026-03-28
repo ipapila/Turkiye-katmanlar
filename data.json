@@ -30381,23 +30381,6 @@
     "alt_kategori": null
   },
   {
-    "id": "resn4hy6r91774238794128",
-    "tip": "GES",
-    "ad": "Şanlıurfa Birecik GES",
-    "il": "Şanlıurfa",
-    "aciklama": "500 MW kapasiteli büyük GES sahası.",
-    "koordinatlar": {
-      "lat": 37.02,
-      "lng": 37.92
-    },
-    "alan_ha": 8000,
-    "durum": "Aktif",
-    "belge_no": "GEM-TR-SOL-002",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rjujk5igv01774238794128",
     "tip": "HES",
     "ad": "Ilısu Barajı ve HES",
