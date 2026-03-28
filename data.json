@@ -52875,5 +52875,24 @@
     "kaynak": "Manuel",
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
     "kaynak_link": "https://www.mezopotamyaajansi44.com/tum-haberler/content/view/307102"
+  },
+  {
+    "id": "r3d58umkpd1774682833270",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Öztürk Maden Kum Çakıl Ocağı",
+    "il": "Antalya",
+    "ilce": "Serik",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.036081,
+      "lng": 31.091116
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
   }
 ]
