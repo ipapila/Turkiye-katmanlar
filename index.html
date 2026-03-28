@@ -366,11 +366,12 @@ const ILCELER = {
 // ---------- HARİTA ----------
 const map = L.map('map',{center:[39.0,35.0],zoom:6});
 
-// TEMEL KATMANLAR - yeni "OSM Humanitarian" eklendi
+// TEMEL KATMANLAR - Google Uydu eklendi
 const baseMaps = {
   "OSM Standart": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution:'© OpenStreetMap contributors', subdomains:'abc', maxZoom:19}),
   "OSM Türkiye": L.tileLayer('https://tile.openstreetmap.de/{z}/{x}/{y}.png', {attribution:'© OpenStreetMap DE contributors', maxZoom:19}),
   "OSM Humanitarian": L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {attribution:'© OpenStreetMap contributors, Humanitarian Style', maxZoom:19}),
+  "Google Uydu": L.tileLayer('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {attribution:'Google', maxZoom:21}),
   "Uydu (Esri)": L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {attribution:'© Esri World Imagery', maxZoom:19}),
   "Topoğrafik": L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {attribution:'© Esri World Topo', maxZoom:19}),
   "CartoDB": L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {attribution:'© CartoDB © OpenStreetMap', subdomains:'abcd', maxZoom:20})
@@ -378,6 +379,8 @@ const baseMaps = {
 baseMaps["OSM Standart"].addTo(map);
 const wdpaLayer = L.tileLayer.wms('https://geoserver.unepwcmc.org/wdpa/ows?', {layers:'WDPA:WDPA_poly_Latest',format:'image/png',transparent:true,opacity:0.5,attribution:'© UNEP-WCMC WDPA',maxZoom:20});
 const overlays = {"🛡️ Koruma Alanı Sınırları (WDPA)": wdpaLayer};
+// WDPA katmanını varsayılan olarak açık yap
+wdpaLayer.addTo(map);
 L.control.layers(baseMaps, overlays, {position:'topright'}).addTo(map);
 map.on('mousemove',e=>document.getElementById('cbar').textContent=`Enlem: ${e.latlng.lat.toFixed(5)} | Boylam: ${e.latlng.lng.toFixed(5)}`);
 map.on('click',e=>{if(pkMode&&pkCb){pkCb(e.latlng.lat,e.latlng.lng);exitPk();}});
