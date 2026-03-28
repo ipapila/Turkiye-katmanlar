@@ -49631,5 +49631,23 @@
     "eklenme": "2026-03-27",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "rektjhtwu91774673652272",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Karaköse Madencilik",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.271646,
+      "lng": 36.09601
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
