@@ -49649,5 +49649,113 @@
     "eklenme": "2026-03-28",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "r2m5urdqcp1774673716733",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "ADY Taş Ocağı",
+    "il": "Hatay",
+    "ilce": "Samandağ",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.140855,
+      "lng": 35.950184
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r2ujr8ckuy1774673906978",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "AYM Sanayi ve Madencilik İşletmeleri A.Ş. Kuruyer Taş Ocağı Tesisi",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.203006,
+      "lng": 36.214886
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rck5qawlkj1774673936621",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Ustaoğlu Madencilik",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.211178,
+      "lng": 36.198578
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r8ycne320u1774674049704",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Karaköse Taş Ocağı",
+    "il": "Hatay",
+    "ilce": "Yayladağı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.023002,
+      "lng": 36.040478
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r1d5n4i95q1774674158253",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Dağdüzü Madencilik Hazır Beton Taş Ocağı",
+    "il": "Hatay",
+    "ilce": "Yayladağı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.062821,
+      "lng": 36.106052
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rl3g7gfz6l1774674226809",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Anka Kum Taş Ocağı Madencilik Ltd. Şti.",
+    "il": "Hatay",
+    "ilce": "İskenderun",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.588793,
+      "lng": 36.208792
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
