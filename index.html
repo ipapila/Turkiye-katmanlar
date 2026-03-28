@@ -386,11 +386,11 @@ map.on('mousemove',e=>document.getElementById('cbar').textContent=`Enlem: ${e.la
 map.on('click',e=>{if(pkMode&&pkCb){pkCb(e.latlng.lat,e.latlng.lng);exitPk();}});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&pkMode)exitPk();});
 
-// KATMAN GRUPLARI
+// KATMAN GRUPLARI - Varsayılan açık katmanlar: Ekolojik İhlal, İklim Olayları, Acele Kamulaştırma
 TYPES.forEach(t=>{
   lgs[t.key]=L.markerClusterGroup({maxClusterRadius:55,iconCreateFunction(c){return L.divIcon({html:`<div style="background:${t.color};color:#fff;border-radius:50%;width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:.72rem;font-weight:700;border:2px solid rgba(255,255,255,.4);box-shadow:0 2px 8px rgba(0,0,0,.35)">${c.getChildCount()}</div>`,className:'',iconSize:[32,32]});}});
   lgs[t.key].addTo(map);
-  vis[t.key] = (t.key === 'Ekolojik İhlal' || t.key === 'İklim Olayları');
+  vis[t.key] = (t.key === 'Ekolojik İhlal' || t.key === 'İklim Olayları' || t.key === 'Acele Kamulaştırma');
 });
 
 function mkIcon(type){const t=TM[type]||{color:'#888',icon:'📍'};return L.divIcon({html:`<div style="background:${t.color};border-radius:50% 50% 50% 0;transform:rotate(-45deg);width:30px;height:30px;border:2px solid rgba(255,255,255,.45);box-shadow:0 3px 10px rgba(0,0,0,.4);display:flex;align-items:center;justify-content:center;"><span style="transform:rotate(45deg);font-size:.85rem">${t.icon}</span></div>`,className:'',iconSize:[30,30],iconAnchor:[15,30],popupAnchor:[0,-32]});}
@@ -475,13 +475,11 @@ function migrateCategories(records) {
     if (r.tip === 'Kıyı Koruma Alanı' || r.tip === 'Tabiatı Koruma Alanı' || r.tip === 'Özel Çevre Koruma Alanı') {
       return { ...r, tip: 'Özel Çevre Koruma Alanı' };
     }
-    // alt_kategori'yi string'e dönüştür (eski dizi varsa birleştir)
     if (Array.isArray(r.alt_kategori)) {
       r.alt_kategori = r.alt_kategori.join(', ');
     } else if (r.alt_kategori === undefined) {
       r.alt_kategori = '';
     }
-    // kaynak_link alanı varsa koru, yoksa ekle
     if (r.kaynak_link === undefined) r.kaynak_link = '';
     const { ekolojik_ihlal, ...clean } = r;
     return clean;
