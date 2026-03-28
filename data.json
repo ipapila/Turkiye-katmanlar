@@ -49901,5 +49901,77 @@
     "eklenme": "2026-03-28",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "rou41kbfgl1774675376117",
+    "tip": "Sulak Alan",
+    "ad": "Milleyha Sulak Alanı",
+    "il": "Hatay",
+    "ilce": "Samandağ",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.069949,
+      "lng": 35.955076
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r7qw3q7e7w1774675425825",
+    "tip": "Sulak Alan",
+    "ad": "Harbiye Şelalesi",
+    "il": "Hatay",
+    "ilce": "Defne",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.130068,
+      "lng": 36.144408
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "roeoarky4f1774675477061",
+    "tip": "Sulak Alan",
+    "ad": "Alan Yaylası",
+    "il": "Hatay",
+    "ilce": "Kırıkhan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.61663,
+      "lng": 36.342773
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rgk60fmcz21774675542810",
+    "tip": "Sulak Alan",
+    "ad": "Geçilmez Kanyonu",
+    "il": "Hatay",
+    "ilce": "Dörtyol",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.880633,
+      "lng": 36.314385
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
