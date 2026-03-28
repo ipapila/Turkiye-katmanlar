@@ -49757,5 +49757,149 @@
     "eklenme": "2026-03-28",
     "kaynak": "Manuel",
     "alt_kategori": ""
+  },
+  {
+    "id": "rhpc07bnca1774674290246",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Bozkayalar Taşocağı Harf. Nak. Taah. İnş. Malz. İmalt San. Tic. Ltd. Şti.",
+    "il": "Hatay",
+    "ilce": "Kırıkhan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.550741,
+      "lng": 36.386633
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ret39xh4a31774674320418",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Ceylanlı Kuvarsit Ocağı",
+    "il": "Hatay",
+    "ilce": "Kırıkhan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.554809,
+      "lng": 36.355391
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rkegfw5inb1774674382213",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Oyma Maden Ocağı",
+    "il": "Hatay",
+    "ilce": "İskenderun",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.692021,
+      "lng": 36.218609
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rkiywwluwr1774674487128",
+    "tip": "Maden Ocağı",
+    "ad": "Maden Ocağı",
+    "il": "Hatay",
+    "ilce": "Kırıkhan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.50648,
+      "lng": 36.341121
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rnyy09usj71774674715882",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Sultan Madencilik",
+    "il": "Hatay",
+    "ilce": "Erzin",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.968512,
+      "lng": 36.213598
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r4c8sdncxr1774674841226",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Mimaray taş ocağı",
+    "il": "Hatay",
+    "ilce": "Yayladağı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.06603,
+      "lng": 36.143303
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r1cgbie47l1774674870138",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Tarih Madencilik",
+    "il": "Hatay",
+    "ilce": "Yayladağı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.063896,
+      "lng": 36.142552
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rs1rxg3ehl1774675104155",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "ASLAR TAŞ OCAGI",
+    "il": "Hatay",
+    "ilce": "Kırıkhan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.460019,
+      "lng": 36.494093
+    },
+    "alan_ha": 0,
+    "durum": "Kapatıldı",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
   }
 ]
