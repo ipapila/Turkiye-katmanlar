@@ -3168,24 +3168,6 @@
     "alt_kategori": ""
   },
   {
-    "id": "osm_kv_571209545",
-    "tip": "Kültür Varlığı",
-    "ad": "الخريبات",
-    "il": "İdlip",
-    "ilce": "منطقة حارم",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571209545",
-    "koordinatlar": {
-      "lat": 36.077623,
-      "lng": 36.585937
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571209545",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM/Tarihi Kalinti",
-    "alt_kategori": ""
-  },
-  {
     "id": "osm_kv_571209561",
     "tip": "Kültür Varlığı",
     "ad": "جووانية",
@@ -10508,25 +10490,6 @@
     "eklenme": "2026-03-19",
     "kaynak": "Shapefile/GeoJSON",
     "count": 3,
-    "alt_kategori": ""
-  },
-  {
-    "id": "rj7ve9jv8h1774037434484",
-    "tip": "RES",
-    "ad": "Rüzgâr Türbini (16 türbin, Hatay)",
-    "il": "Hatay",
-    "ilce": "",
-    "aciklama": "(Birleştirilmiş 16 türbin, Hatay)",
-    "koordinatlar": {
-      "lat": 36.423520624999995,
-      "lng": 36.1158429375
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "4843195176",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON",
-    "count": 16,
     "alt_kategori": ""
   },
   {
@@ -27671,23 +27634,6 @@
     "alt_kategori": null
   },
   {
-    "id": "rdxe2io28e1774238794127",
-    "tip": "Sulak Alan",
-    "ad": "Akyatan Lagünü",
-    "il": "Adana",
-    "aciklama": "Ramsar alanı. Flamingo beslenme alanı.",
-    "koordinatlar": {
-      "lat": 36.72,
-      "lng": 35.62
-    },
-    "alan_ha": 14700,
-    "durum": "Aktif",
-    "belge_no": "Ramsar-TR-004",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
     "id": "rd015ame6c1774238794127",
     "tip": "Sulak Alan",
     "ad": "Uluabat Gölü",
@@ -29954,210 +29900,6 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "567059515",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rxoxqaz0xk1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "خربة سرجبلي",
-    "il": "İdlip",
-    "aciklama": "Tarihi Kalinti | OSM ID: 567062321",
-    "koordinatlar": {
-      "lat": 36.25,
-      "lng": 36.716667
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "567062321",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rcya42yar61774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "خربة العريمة",
-    "il": "Halep",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571209298",
-    "koordinatlar": {
-      "lat": 36.316667,
-      "lng": 37.016667
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571209298",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "ru8g59pezn1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "بقدينة",
-    "il": "Halep",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571209330",
-    "koordinatlar": {
-      "lat": 36.249654,
-      "lng": 36.919
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571209330",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r07rbrtydb1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "الشيخ بركات",
-    "il": "Halep",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571209429",
-    "koordinatlar": {
-      "lat": 36.275695,
-      "lng": 36.821924
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571209429",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rv7p17hgxu1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "قشر",
-    "il": "Halep",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571209432",
-    "koordinatlar": {
-      "lat": 36.233333,
-      "lng": 37.066667
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571209432",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rsimnwmmre1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "الخريبات",
-    "il": "İdlip",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571209545",
-    "koordinatlar": {
-      "lat": 36.077623,
-      "lng": 36.585937
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571209545",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r4advra2lk1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "جووانية",
-    "il": "İdlip",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571209561",
-    "koordinatlar": {
-      "lat": 36.085653,
-      "lng": 36.568873
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571209561",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rvudflchle1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "البريج",
-    "il": "Halep",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571209793",
-    "koordinatlar": {
-      "lat": 36.150364,
-      "lng": 37.082903
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571209793",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "r7f5i37nuo1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "الشيخ سليمان",
-    "il": "Halep",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571209997",
-    "koordinatlar": {
-      "lat": 36.275337,
-      "lng": 36.908813
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571209997",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rekz1o4b6i1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "قاطورة",
-    "il": "Halep",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571210522",
-    "koordinatlar": {
-      "lat": 36.302871,
-      "lng": 36.831389
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571210522",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "riwfovqxaf1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "دير سمعان",
-    "il": "Halep",
-    "aciklama": "Tarihi Kalinti | OSM ID: 571210531",
-    "koordinatlar": {
-      "lat": 36.325107,
-      "lng": 36.836112
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "571210531",
-    "eklenme": "2026-03-23",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
-  },
-  {
-    "id": "rozjbx3zhs1774238794128",
-    "tip": "Kültür Varlığı",
-    "ad": "خربة عسان",
-    "il": "Halep",
-    "aciklama": "Tarihi Kalinti | OSM ID: 572538908",
-    "koordinatlar": {
-      "lat": 36.064786,
-      "lng": 37.164256
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "572538908",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": null
@@ -49966,6 +49708,276 @@
     "koordinatlar": {
       "lat": 36.880633,
       "lng": 36.314385
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rdpkil1wfn1774675666601",
+    "tip": "Sulak Alan",
+    "ad": "Soğukoluk piknik alanı",
+    "il": "Hatay",
+    "ilce": "Belen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.485142,
+      "lng": 36.160909
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rjor7j75d81774675761036",
+    "tip": "Sulak Alan",
+    "ad": "Atatürk Parkı",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.199317,
+      "lng": 36.157143
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rkq0v9jqt71774675844550",
+    "tip": "Sulak Alan",
+    "ad": "Musa Ağacı",
+    "il": "Hatay",
+    "ilce": "Samandağ",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.128837,
+      "lng": 35.972264
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r6io7nkrth1774675919568",
+    "tip": "Sulak Alan",
+    "ad": "Erzin İçmeleri",
+    "il": "Hatay",
+    "ilce": "Erzin",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.954736,
+      "lng": 36.244766
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r1gh4f2mng1774675967551",
+    "tip": "Sulak Alan",
+    "ad": "İskenderun Millet Parkı",
+    "il": "Hatay",
+    "ilce": "İskenderun",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.588345,
+      "lng": 36.163859
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rwur42gxxi1774676088933",
+    "tip": "Sulak Alan",
+    "ad": "Aksazbatakligi",
+    "il": "Hatay",
+    "ilce": "Kırıkhan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.522329,
+      "lng": 36.400065
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rya34vtuyp1774676180026",
+    "tip": "Sulak Alan",
+    "ad": "Beşikli Mağara",
+    "il": "Hatay",
+    "ilce": "Samandağ",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.12057,
+      "lng": 35.928533
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rb979u1i8j1774676227920",
+    "tip": "Sulak Alan",
+    "ad": "Karabasmak Batakligi",
+    "il": "Hatay",
+    "ilce": "Dörtyol",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.879518,
+      "lng": 36.124463
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rbhniojwsx1774676287300",
+    "tip": "Sulak Alan",
+    "ad": "Karabasamak Batakligi",
+    "il": "Hatay",
+    "ilce": "Dörtyol",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.899764,
+      "lng": 36.216248
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r8ruzyfpf51774676363973",
+    "tip": "Sulak Alan",
+    "ad": "kanyon park",
+    "il": "Hatay",
+    "ilce": "İskenderun",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.672416,
+      "lng": 36.223539
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rfoly7fzi61774676451432",
+    "tip": "Kültür Varlığı",
+    "ad": "Konacik Sütunlu Liman",
+    "il": "Hatay",
+    "ilce": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.359721,
+      "lng": 35.81897
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rydksnk8wh1774676510171",
+    "tip": "Sulak Alan",
+    "ad": "Urochishche Aksaz-Bataklağı",
+    "il": "Hatay",
+    "ilce": "Kırıkhan",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.527191,
+      "lng": 36.374359
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rrj7gmtk5q1774676580610",
+    "tip": "Kültür Varlığı",
+    "ad": "Antakya Kalesi",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.204148,
+      "lng": 36.180854
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r37uv3fz5b1774676731176",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Karaçay Şelalesi",
+    "il": "Osmaniye",
+    "ilce": "Osmaniye Merkez",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.024261,
+      "lng": 36.322603
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Manuel",
+    "alt_kategori": ""
+  },
+  {
+    "id": "ra8j4wtzwz1774676898151",
+    "tip": "Sulak Alan",
+    "ad": "Meyanlypey",
+    "il": "Hatay",
+    "ilce": "Hassa",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.853699,
+      "lng": 36.621208
     },
     "alan_ha": 0,
     "durum": "Aktif",
