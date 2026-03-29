@@ -56603,5 +56603,24 @@
     "kaynak": "Manuel",
     "alt_kategori": "Kıyı İhlali",
     "kaynak_link": "https://www.evrensel.net/haber/5977153/osmanaga-koyuna-is-makineleriyle-girildi-kara-yoluyla-ulasamayan-vatandaslar-denizde-eylem-yapti"
+  },
+  {
+    "id": "rjk29id98v1774766310170",
+    "tip": "Ekolojik İhlal",
+    "ad": "Cizre’de petrol boru hattı patladı",
+    "il": "Şırnak",
+    "ilce": "",
+    "aciklama": "Şırnak’ın Cizre ilçesinde ham petrol boru hattında meydana gelen patlak çevre felaketine neden oldu. Cizre ile Kasrik beldesi arasında kalan bölgede, Türkiye Petrolleri Anonim Ortaklığı’na (TPAO) ait ham petrol boru hattında sızıntı meydana geldi. Henüz belirlenemeyen bir nedenle boru hattında oluşan patlak sonrası çevreye yayılan petrol, kısa sürede Dicle Nehri’ne ulaştı.",
+    "koordinatlar": {
+      "lat": 37.26531,
+      "lng": 42.19162
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-29",
+    "kaynak": "Manuel",
+    "alt_kategori": "Su Kirliliği",
+    "kaynak_link": "https://ilketv.com.tr/cizrede-petrol-boru-hatti-patladi-dicle-nehrine-tonlarca-petrol-akti/"
   }
 ]
