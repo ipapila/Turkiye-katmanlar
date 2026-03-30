@@ -56641,5 +56641,151 @@
     "kaynak": "Manuel",
     "alt_kategori": "",
     "kaynak_link": "https://www.facebook.com/story.php?story_fbid=25844169331948524&id=100003464310695&rdid=QxGGdfzobEZJvjBh"
+  },
+  {
+    "id": "r0jp3z04cl1774843958765",
+    "tip": "GES",
+    "ad": "Demre GES",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.2472,
+      "lng": 29.9805
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r3u5t7d5hf1774843958765",
+    "tip": "GES",
+    "ad": "Elmalı GES",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.7365,
+      "lng": 29.9143
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rxpjuj5psw1774843958765",
+    "tip": "GES",
+    "ad": "Alanya GES",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.5432,
+      "lng": 32.0014
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rl08sdem2m1774843958765",
+    "tip": "GES",
+    "ad": "Korkuteli GES Sahası",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.0648,
+      "lng": 30.2511
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rwno85dfq51774843958765",
+    "tip": "GES",
+    "ad": "Aksu Tarımsal GES",
+    "il": "Antalya",
+    "ilce": "Aksu",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.961723,
+      "lng": 30.844975
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rkk0f6sw3f1774843958765",
+    "tip": "GES",
+    "ad": "Serik Sera Üstü GES",
+    "il": "Antalya",
+    "ilce": "Serik",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.91648,
+      "lng": 31.034918
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rlgxym1w6s1774843958765",
+    "tip": "GES",
+    "ad": "Manavgat GES Sahası",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.7867,
+      "lng": 31.4433
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rhq6yifjct1774843958765",
+    "tip": "GES",
+    "ad": "Finike GES",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.3092,
+      "lng": 30.1486
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
   }
 ]
