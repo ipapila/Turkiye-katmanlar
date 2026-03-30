@@ -57092,5 +57092,24 @@
     "kaynak": "Manuel",
     "alt_kategori": "",
     "kaynak_link": ""
+  },
+  {
+    "id": "r4s609bmt71774861033829",
+    "tip": "Ekolojik İhlal",
+    "ad": "Cizre'de Petrol Sızıntısı",
+    "il": "Şırnak",
+    "ilce": "Cizre",
+    "aciklama": "30 Mart 2026\nİnsan Hakları Derneği\n\nŞırnak’ın Cizre ilçesinde, Dicle Nehri’ne ham petrol sızıntısının karıştığının tespit edilmesi ve bu nedenle içme suyu arıtma tesisinin tedbiren durdurulması, yalnızca teknik bir çevre sorunu değil; doğrudan doğruya yaşam hakkını, sağlık hakkını ve temiz çevrede yaşama hakkını tehdit eden ciddi bir insan hakları ihlalidir.\n\nDicle Nehri, Mezopotamya coğrafyasının en önemli yaşam damarlarından biridir. Bu nehirde meydana gelen herhangi bir kirlilik, yalnızca Cizre halkını değil, nehir havzası boyunca yaşayan tüm canlıları ve toplulukları etkileyen geniş ölçekli bir ekolojik yıkım riskini barındırmaktadır.\n\nTemiz suya erişim, uluslararası hukukta temel bir insan hakkıdır. Birleşmiş Milletler Genel Kurulu’nun 2010 yılında kabul ettiği karar ile suya ve sanitasyona erişim, yaşam hakkının ayrılmaz bir parçası olarak tanımlanmıştır.\n\nPetrol türevleri suya karıştığında ciddi toksik etkiler yaratabilir. Bu nedenle devletin önleme, koruma ve etkin müdahale yükümlülüğü hayati önem taşımaktadır.\n\nSağlıklı bir çevrede yaşama hakkı temel bir haktır. Dicle Nehri’nde meydana gelen bu kirlilik, ekosistemi ve bölge halkının yaşamını tehdit etmektedir.",
+    "koordinatlar": {
+      "lat": 37.334951,
+      "lng": 42.193336
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "Su Kirliliği",
+    "kaynak_link": "https://www.ihd.org.tr/cizrede-petrol-sizintisi-yasam-hakkina-ve-cevreye-yonelik-acik-bir-tehdit/"
   }
 ]
