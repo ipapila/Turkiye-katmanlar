@@ -22802,18 +22802,19 @@
     "id": "rgmb3hkc6o1774103717150",
     "tip": "Taş-Mermer Ocağı",
     "ad": "Keçiborlu Kükürt ve Kireçtaşı Ocakları",
-    "il": "Isparta",
+    "il": "Antalya",
+    "ilce": "Korkuteli",
     "aciklama": "Isparta'nın Keçiborlu ilçesinde kükürt ve kireçtaşı çıkarımı yapılır.",
     "koordinatlar": {
-      "lat": 37.2858,
-      "lng": 30.3958
+      "lat": 37.298295,
+      "lng": 30.384922
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-03-30",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
+    "alt_kategori": "",
     "kaynak_link": ""
   },
   {
@@ -50795,7 +50796,7 @@
   {
     "id": "rtw3kzf3331774450535703",
     "tip": "Taş-Mermer Ocağı",
-    "ad": "Taş Ocağı",
+    "ad": "Çimento Fabrikası Ocağı",
     "il": "Burdur",
     "ilce": "Bucak",
     "aciklama": "",
@@ -50806,7 +50807,7 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-25",
+    "eklenme": "2026-03-30",
     "kaynak": "Manuel",
     "alt_kategori": "",
     "kaynak_link": ""
@@ -57007,6 +57008,82 @@
     "koordinatlar": {
       "lat": 37.910126,
       "lng": 30.393355
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rziout8s6o1774845034990",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.896598,
+      "lng": 30.395308
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r3cdm6yp2l1774845065765",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kartaş Hazır Beton",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.897309,
+      "lng": 30.390308
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rnpombx6ou1774845267354",
+    "tip": "Kültür Varlığı",
+    "ad": "Sagalassos Antik Kenti",
+    "il": "Burdur",
+    "ilce": "Ağlasun",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.676942,
+      "lng": 30.51929
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rpeq9ngqbr1774845489211",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Burdur",
+    "ilce": "Burdur Merkez",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.702447,
+      "lng": 30.351276
     },
     "alan_ha": 0,
     "durum": "Aktif",
