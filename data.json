@@ -57111,5 +57111,24 @@
     "kaynak": "Manuel",
     "alt_kategori": "Su Kirliliği",
     "kaynak_link": "https://www.ihd.org.tr/cizrede-petrol-sizintisi-yasam-hakkina-ve-cevreye-yonelik-acik-bir-tehdit/"
+  },
+  {
+    "id": "r767hns84v1774861448145",
+    "tip": "Ekolojik İhlal",
+    "ad": "Granikos/Kocabaşcayı Cengiz Holding altın madenine tahsis edildi",
+    "il": "Çanakkale",
+    "ilce": "Biga",
+    "aciklama": "Granikos nehri/Kocabaşçayı havzasında bulundular, binlerce yıl yöre halkına can damari olan ve bugun de yöre halkina ıcme suyu saglayan Granikos/Kocabaşcayı Cengiz holding altin madenine tahsis edildi.",
+    "koordinatlar": {
+      "lat": 40.39415,
+      "lng": 27.297421
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_link": "https://www.facebook.com/share/p/17sUfKs8VC/"
   }
 ]
