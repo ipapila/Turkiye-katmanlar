@@ -50433,7 +50433,7 @@
   },
   {
     "id": "ruyj8zim4m1774422093165",
-    "tip": "GES",
+    "tip": "Taş-Mermer Ocağı",
     "ad": "Mermer",
     "il": "Antalya",
     "ilce": "Kaş",
@@ -50445,7 +50445,7 @@
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-25",
+    "eklenme": "2026-03-30",
     "kaynak": "Manuel",
     "alt_kategori": "",
     "kaynak_link": ""
@@ -56785,6 +56785,234 @@
     "belge_no": "",
     "eklenme": "2026-03-30",
     "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r0a3u8ae9h1774844280089",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.69196,
+      "lng": 29.920084
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r8x58qep021774844303382",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.718672,
+      "lng": 29.93283
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rg0zv9i9jd1774844423798",
+    "tip": "GES",
+    "ad": "Meysak Soğuk Hava Deposu",
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.703352,
+      "lng": 29.926881
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rprgdhiy5r1774844663971",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.876717,
+      "lng": 30.494957
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "riin8b7jrg1774844679437",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.886954,
+      "lng": 30.505793
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rslnj723zn1774844697613",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Göltaş Çimento Taş Ocağı",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.889368,
+      "lng": 30.490708
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rg9wdo3ged1774844772482",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.898021,
+      "lng": 30.459337
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r2ei9ucvyd1774844788882",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.895514,
+      "lng": 30.471096
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rtb65syymj1774844811108",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.907468,
+      "lng": 30.480709
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "roytaovvt91774844892184",
+    "tip": "GES",
+    "ad": "GES",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.892771,
+      "lng": 30.427451
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r3jazbg7z01774844953835",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "İZTON Yapı A.Ş.",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.893694,
+      "lng": 30.423342
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rqnrzricuy1774844990830",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.910126,
+      "lng": 30.393355
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-30",
+    "kaynak": "Manuel",
     "alt_kategori": "",
     "kaynak_link": ""
   }
