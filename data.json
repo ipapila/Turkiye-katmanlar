@@ -57130,5 +57130,24 @@
     "kaynak": "Manuel",
     "alt_kategori": "Kıyı İhlali",
     "kaynak_link": "https://www.facebook.com/share/p/17sUfKs8VC/"
+  },
+  {
+    "id": "rp366bjqys1774930289045",
+    "tip": "Ekolojik İhlal",
+    "ad": "Siyanürlü Altın araması",
+    "il": "Bilecik",
+    "ilce": "Pazaryeri",
+    "aciklama": "Bilecik ili pazaryeri ilçesine bağlı Bozccarmut köyünde siyanürle altın madeni arma yapılıyor",
+    "koordinatlar": {
+      "lat": 39.969622,
+      "lng": 29.767628
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-03-31",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_link": ""
   }
 ]
