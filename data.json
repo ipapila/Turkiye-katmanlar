@@ -57149,5 +57149,24 @@
     "kaynak": "Manuel",
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
     "kaynak_link": ""
+  },
+  {
+    "id": "r8x3nopdwl1775142265696",
+    "tip": "Ekolojik İhlal",
+    "ad": "01 Adana: Avrupa’nın Çöpü, Çukurova’nın Kaderi",
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "aciklama": "Adana denince akla bir sürü özel kelime geliyor. Yemekten, sıcağa; tarımdan, festivallere… Ama son yıllarda Adana’ya bir sıfat daha eklendi, kimsenin ağzına almaktan hoşlanmadığı bir sıfat: Avrupa’nın çöplüğü.",
+    "koordinatlar": {
+      "lat": 36.921352,
+      "lng": 35.397949
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-02",
+    "kaynak": "Manuel",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm",
+    "kaynak_link": "https://medium.com/@yesilpolitikanotlari/cop31e-do%C4%9Fru-01-adana-avrupan%C4%B1n-%C3%A7%C3%B6p%C3%BC-%C3%A7ukurova-n%C4%B1n-kaderi-0651bf0a4888"
   }
 ]
