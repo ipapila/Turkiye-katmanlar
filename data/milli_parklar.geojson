@@ -1,0 +1,1000 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "kaynak": "MilliParklar-DKMP",
+    "url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar",
+    "guncelleme": "2026-04-16T12:45:34.956144Z",
+    "açıklama": "Türkiye Milli Parkları",
+    "kategori": "Koruma"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8,
+          39.8167
+        ]
+      },
+      "properties": {
+        "sira": 1,
+        "ad": "Yozgat Çamlığı Milli Parkı",
+        "il": "Yozgat",
+        "alan_ha": 267,
+        "ilan_tarihi": "1958-02-05",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1667,
+          37.4
+        ]
+      },
+      "properties": {
+        "sira": 2,
+        "ad": "Karatepe-Aslantaş Milli Parkı",
+        "il": "Osmaniye",
+        "alan_ha": 4145,
+        "ilan_tarihi": "1958-05-29",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6,
+          40.56
+        ]
+      },
+      "properties": {
+        "sira": 3,
+        "ad": "Soğuksu Milli Parkı",
+        "il": "Ankara",
+        "alan_ha": 1187,
+        "ilan_tarihi": "1959-02-19",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9678,
+          40.1953
+        ]
+      },
+      "properties": {
+        "sira": 4,
+        "ad": "Kuşcenneti (Manyas Gölü) Milli Parkı",
+        "il": "Balıkesir",
+        "alan_ha": 24047,
+        "ilan_tarihi": "1959-07-27",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2167,
+          40.15
+        ]
+      },
+      "properties": {
+        "sira": 5,
+        "ad": "Uludağ Milli Parkı",
+        "il": "Bursa",
+        "alan_ha": 12762,
+        "ilan_tarihi": "1961-09-20",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7333,
+          40.9333
+        ]
+      },
+      "properties": {
+        "sira": 6,
+        "ad": "Yedigöller Milli Parkı",
+        "il": "Bolu",
+        "alan_ha": 2019,
+        "ilan_tarihi": "1965-04-29",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.25,
+          37.6
+        ]
+      },
+      "properties": {
+        "sira": 7,
+        "ad": "Dilek Yarımadası-Büyük Menderes Deltası Milli Parkı",
+        "il": "Aydın",
+        "alan_ha": 27598,
+        "ilan_tarihi": "1966-05-19",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7,
+          38.5833
+        ]
+      },
+      "properties": {
+        "sira": 8,
+        "ad": "Spil Dağı Milli Parkı",
+        "il": "Manisa",
+        "alan_ha": 6860,
+        "ilan_tarihi": "1968-04-22",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.15,
+          37.8
+        ]
+      },
+      "properties": {
+        "sira": 9,
+        "ad": "Kızıldağ Milli Parkı",
+        "il": "Isparta",
+        "alan_ha": 55105,
+        "ilan_tarihi": "1969-05-09",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4667,
+          37.0667
+        ]
+      },
+      "properties": {
+        "sira": 10,
+        "ad": "Güllük Dağı-Termessos Milli Parkı",
+        "il": "Antalya",
+        "alan_ha": 6700,
+        "ilan_tarihi": "1970-11-03",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9,
+          37.8667
+        ]
+      },
+      "properties": {
+        "sira": 11,
+        "ad": "Kovada Gölü Milli Parkı",
+        "il": "Isparta",
+        "alan_ha": 6550,
+        "ilan_tarihi": "1970-11-03",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3333,
+          39.2667
+        ]
+      },
+      "properties": {
+        "sira": 12,
+        "ad": "Munzur Vadisi Milli Parkı",
+        "il": "Tunceli",
+        "alan_ha": 62674,
+        "ilan_tarihi": "1971-12-21",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5333,
+          36.4833
+        ]
+      },
+      "properties": {
+        "sira": 13,
+        "ad": "Beydağları Sahil Milli Parkı",
+        "il": "Antalya",
+        "alan_ha": 31165,
+        "ilan_tarihi": "1972-03-16",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4,
+          37.2667
+        ]
+      },
+      "properties": {
+        "sira": 14,
+        "ad": "Köprülü Kanyon Milli Parkı",
+        "il": "Antalya",
+        "alan_ha": 35719,
+        "ilan_tarihi": "1973-12-12",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.42,
+          40.2833
+        ]
+      },
+      "properties": {
+        "sira": 15,
+        "ad": "Gelibolu Yarımadası Tarihi Milli Parkı",
+        "il": "Çanakkale",
+        "alan_ha": 33439,
+        "ilan_tarihi": "1973",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6333,
+          41.0833
+        ]
+      },
+      "properties": {
+        "sira": 16,
+        "ad": "Ilgaz Dağı Milli Parkı",
+        "il": "Kastamonu",
+        "alan_ha": 1117,
+        "ilan_tarihi": "1976-06-02",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2833,
+          38.9333
+        ]
+      },
+      "properties": {
+        "sira": 17,
+        "ad": "Başkomutan Tarihi Milli Parkı",
+        "il": "Afyonkarahisar",
+        "alan_ha": 34833,
+        "ilan_tarihi": "1981-11-08",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.85,
+          38.65
+        ]
+      },
+      "properties": {
+        "sira": 18,
+        "ad": "Göreme Tarihi Milli Parkı",
+        "il": "Nevşehir",
+        "alan_ha": 9614,
+        "ilan_tarihi": "1986-11-25",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6333,
+          40.7167
+        ]
+      },
+      "properties": {
+        "sira": 19,
+        "ad": "Altındere Vadisi Milli Parkı",
+        "il": "Trabzon",
+        "alan_ha": 4468,
+        "ilan_tarihi": "1987-09-09",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6167,
+          40.0333
+        ]
+      },
+      "properties": {
+        "sira": 20,
+        "ad": "Boğazköy-Alacahöyük Milli Parkı",
+        "il": "Çorum",
+        "alan_ha": 2600,
+        "ilan_tarihi": "1988-09-21",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7333,
+          37.9667
+        ]
+      },
+      "properties": {
+        "sira": 21,
+        "ad": "Nemrut Dağı Milli Parkı",
+        "il": "Adıyaman",
+        "alan_ha": 13827,
+        "ilan_tarihi": "1988-12-07",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4667,
+          37.7167
+        ]
+      },
+      "properties": {
+        "sira": 22,
+        "ad": "Beyşehir Gölü Milli Parkı",
+        "il": "Konya",
+        "alan_ha": 88750,
+        "ilan_tarihi": "1993-02-20",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9,
+          39.7833
+        ]
+      },
+      "properties": {
+        "sira": 23,
+        "ad": "Kazdağı Milli Parkı",
+        "il": "Balıkesir",
+        "alan_ha": 20935,
+        "ilan_tarihi": "1994-04-17",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.45,
+          37.0667
+        ]
+      },
+      "properties": {
+        "sira": 24,
+        "ad": "Altınbeşik Mağarası Milli Parkı",
+        "il": "Antalya",
+        "alan_ha": 1147,
+        "ilan_tarihi": "1994-08-31",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8,
+          41.2167
+        ]
+      },
+      "properties": {
+        "sira": 25,
+        "ad": "Hatila Vadisi Milli Parkı",
+        "il": "Artvin",
+        "alan_ha": 16944,
+        "ilan_tarihi": "1994-08-31",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4833,
+          41.15
+        ]
+      },
+      "properties": {
+        "sira": 26,
+        "ad": "Karagöl-Sahara Milli Parkı",
+        "il": "Artvin",
+        "alan_ha": 3251,
+        "ilan_tarihi": "1994-08-31",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.15,
+          40.8667
+        ]
+      },
+      "properties": {
+        "sira": 27,
+        "ad": "Kaçkar Dağları Milli Parkı",
+        "il": "Rize",
+        "alan_ha": 51550,
+        "ilan_tarihi": "1994-08-31",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25,
+          37.7333
+        ]
+      },
+      "properties": {
+        "sira": 28,
+        "ad": "Aladağlar Milli Parkı",
+        "il": "Adana",
+        "alan_ha": 54614,
+        "ilan_tarihi": "1995",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3,
+          36.8333
+        ]
+      },
+      "properties": {
+        "sira": 29,
+        "ad": "Marmaris Milli Parkı",
+        "il": "Muğla",
+        "alan_ha": 30250,
+        "ilan_tarihi": "1996",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4167,
+          36.4
+        ]
+      },
+      "properties": {
+        "sira": 30,
+        "ad": "Saklıkent Milli Parkı",
+        "il": "Muğla",
+        "alan_ha": 1196,
+        "ilan_tarihi": "1996-06-06",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2333,
+          39.95
+        ]
+      },
+      "properties": {
+        "sira": 31,
+        "ad": "Troya Tarihi Milli Parkı",
+        "il": "Çanakkale",
+        "alan_ha": 10462,
+        "ilan_tarihi": "1996-11-07",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2667,
+          37.7
+        ]
+      },
+      "properties": {
+        "sira": 32,
+        "ad": "Honaz Dağı Milli Parkı",
+        "il": "Denizli",
+        "alan_ha": 6972,
+        "ilan_tarihi": "1998-04-21",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6,
+          41.85
+        ]
+      },
+      "properties": {
+        "sira": 33,
+        "ad": "Küre Dağları Milli Parkı",
+        "il": "Kastamonu",
+        "alan_ha": 37753,
+        "ilan_tarihi": "2000",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.6667,
+          40.3833
+        ]
+      },
+      "properties": {
+        "sira": 34,
+        "ad": "Sarıkamış-Allahuekber Dağları Milli Parkı",
+        "il": "Kars",
+        "alan_ha": 22520,
+        "ilan_tarihi": "2004-10-19",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2333,
+          39.7333
+        ]
+      },
+      "properties": {
+        "sira": 35,
+        "ad": "Ağrı Dağı Milli Parkı",
+        "il": "Ağrı",
+        "alan_ha": 88015,
+        "ilan_tarihi": "2004-11-17",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3833,
+          40.9667
+        ]
+      },
+      "properties": {
+        "sira": 36,
+        "ad": "Gala Gölü Milli Parkı",
+        "il": "Edirne",
+        "alan_ha": 5936,
+        "ilan_tarihi": "2005",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2661,
+          38.3336
+        ]
+      },
+      "properties": {
+        "sira": 37,
+        "ad": "Sultan Sazlığı Milli Parkı",
+        "il": "Kayseri",
+        "alan_ha": 17200,
+        "ilan_tarihi": "2006-03-17",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7833,
+          37.1833
+        ]
+      },
+      "properties": {
+        "sira": 38,
+        "ad": "Tek Tek Dağları Milli Parkı",
+        "il": "Şanlıurfa",
+        "alan_ha": 26182,
+        "ilan_tarihi": "2007-05-29",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.96,
+          41.89
+        ]
+      },
+      "properties": {
+        "sira": 39,
+        "ad": "İğneada Longoz Ormanları Milli Parkı",
+        "il": "Kırklareli",
+        "alan_ha": 3155,
+        "ilan_tarihi": "2007-11-03",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.635,
+          36.8
+        ]
+      },
+      "properties": {
+        "sira": 40,
+        "ad": "Yumurtalık Lagünleri Milli Parkı",
+        "il": "Adana",
+        "alan_ha": 19800,
+        "ilan_tarihi": "2009-10-16",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.2722,
+          39.9081
+        ]
+      },
+      "properties": {
+        "sira": 41,
+        "ad": "Nene Hatun Tarihi Milli Parkı",
+        "il": "Erzurum",
+        "alan_ha": 387,
+        "ilan_tarihi": "2009-06-06",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0167,
+          39.5833
+        ]
+      },
+      "properties": {
+        "sira": 42,
+        "ad": "Sakarya Meydan Muharebesi Tarihi Milli Parkı",
+        "il": "Ankara",
+        "alan_ha": 13850,
+        "ilan_tarihi": "2015-02-08",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3333,
+          40.25
+        ]
+      },
+      "properties": {
+        "sira": 43,
+        "ad": "Kop Dağı Müdafaası Tarihi Milli Parkı",
+        "il": "Bayburt",
+        "alan_ha": 6335,
+        "ilan_tarihi": "2016-11-15",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5333,
+          38.9333
+        ]
+      },
+      "properties": {
+        "sira": 44,
+        "ad": "Malazgirt Meydan Muharebesi Tarihi Milli Parkı",
+        "il": "Muş",
+        "alan_ha": 238,
+        "ilan_tarihi": "2018-03-17",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7167,
+          41.4167
+        ]
+      },
+      "properties": {
+        "sira": 45,
+        "ad": "İstiklal Yolu Tarihi Milli Parkı",
+        "il": "Kastamonu",
+        "alan_ha": 236,
+        "ilan_tarihi": "2018-11-02",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.5833,
+          37.85
+        ]
+      },
+      "properties": {
+        "sira": 46,
+        "ad": "Botan Vadisi Milli Parkı",
+        "il": "Siirt",
+        "alan_ha": 11358,
+        "ilan_tarihi": "2019-08-15",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1,
+          37.55
+        ]
+      },
+      "properties": {
+        "sira": 47,
+        "ad": "Hakkari Cilo ve Sat Dağları Milli Parkı",
+        "il": "Hakkari",
+        "alan_ha": 27500,
+        "ilan_tarihi": "2020-09-26",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9333,
+          40.1833
+        ]
+      },
+      "properties": {
+        "sira": 48,
+        "ad": "Sarıçalı Dağı Milli Parkı",
+        "il": "Ankara",
+        "alan_ha": 1024,
+        "ilan_tarihi": "2021-10-28",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8167,
+          37.4167
+        ]
+      },
+      "properties": {
+        "sira": 49,
+        "ad": "Derebucak Çamlık Mağaraları Milli Parkı",
+        "il": "Konya",
+        "alan_ha": 1147,
+        "ilan_tarihi": "2022-06-07",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2167,
+          40.5833
+        ]
+      },
+      "properties": {
+        "sira": 50,
+        "ad": "Abant Gölü Milli Parkı",
+        "il": "Bolu",
+        "alan_ha": 1262,
+        "ilan_tarihi": "2022-06-09",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2,
+          38.2833
+        ]
+      },
+      "properties": {
+        "sira": 51,
+        "ad": "Akdağ Milli Parkı",
+        "il": "Denizli",
+        "alan_ha": 15933,
+        "ilan_tarihi": "2024-01-17",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5,
+          40.5667
+        ]
+      },
+      "properties": {
+        "sira": 52,
+        "ad": "Geben Vadisi Milli Parkı",
+        "il": "Giresun",
+        "alan_ha": null,
+        "ilan_tarihi": "2025-05-30",
+        "kategori": "Milli Park",
+        "kaynak_url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar"
+      }
+    }
+  ]
+}
