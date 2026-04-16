@@ -1,0 +1,57 @@
+name: Gunluk Cevre Veri Taramasi
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  tara:
+    name: Veri Tara ve Guncelle
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - name: Repo kodunu al
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Python 3.11 kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Bagimliliklari yukle
+        run: pip install -r tarama_sistemi/requirements.txt
+
+      - name: Chrome kur
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      - name: Tarama calistir
+        working-directory: tarama_sistemi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+          GITHUB_DATA_PATH: data
+        run: python main.py
+
+      - name: Log dosyalarini sakla
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tarama-loglari-${{ github.run_number }}
+          path: tarama_sistemi/logs/
+          retention-days: 14
+
+      - name: Degisen dosyalari commit et
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Otomatik guncelleme [skip ci]"
+          file_pattern: "tarama_sistemi/data/*.geojson"
+          commit_user_name: "cevre-bot"
+          commit_user_email: "bot@noreply.github.com"
