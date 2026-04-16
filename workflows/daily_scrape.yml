@@ -1,0 +1,108 @@
+name: 🌿 Günlük Çevre Veri Taraması
+
+on:
+  # Her gün TSİ 03:30'da çalış (UTC 00:30)
+  schedule:
+    - cron: "30 0 * * *"
+
+  # Elle tetikleme — hangi tarayıcıları çalıştıracağını seçebilirsin
+  workflow_dispatch:
+    inputs:
+      scrapers:
+        description: "Tarayıcılar (boş = tümü; örn: jes ramsar milli_park)"
+        required: false
+        default: ""
+      dry_run:
+        description: "Dry-run (GitHub'a push etme)"
+        type: boolean
+        default: false
+
+jobs:
+  tara:
+    name: Veri Tara & Güncelle
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      # ── 1. Kod ──────────────────────────────────────────────────────────
+      - name: 📥 Repo kodu al
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python ortamı ────────────────────────────────────────────────
+      - name: 🐍 Python 3.11 kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 📦 Bağımlılıkları yükle
+        run: |
+          pip install --upgrade pip
+          pip install -r tarama_sistemi/requirements.txt
+
+      # ── 3. Chrome (Selenium için) ────────────────────────────────────────
+      - name: 🌐 Chrome kur
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      # ── 4. Geocode önbelleği ────────────────────────────────────────────
+      - name: 📍 Geocode cache yükle
+        uses: actions/cache@v4
+        with:
+          path: tarama_sistemi/data/geocode_cache.json
+          key: geocode-cache-v1
+          restore-keys: geocode-cache-
+
+      # ── 5. Tarama ───────────────────────────────────────────────────────
+      - name: 🔍 Tarama çalıştır
+        working-directory: tarama_sistemi
+        env:
+          GITHUB_TOKEN:     ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO:      ${{ github.repository }}
+          GITHUB_DATA_PATH: data
+        run: |
+          SCRAPER_ARG=""
+          DRY_RUN_ARG=""
+
+          if [ -n "${{ github.event.inputs.scrapers }}" ]; then
+            SCRAPER_ARG="--scrapers ${{ github.event.inputs.scrapers }}"
+          fi
+
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_RUN_ARG="--dry-run"
+          fi
+
+          python main.py $SCRAPER_ARG $DRY_RUN_ARG
+
+      # ── 6. Log artifact ────────────────────────────────────────────────
+      - name: 📋 Log dosyalarını sakla
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tarama-loglari-${{ github.run_number }}
+          path: tarama_sistemi/logs/
+          retention-days: 14
+
+      # ── 7. Değişen GeoJSON'ları commit et ──────────────────────────────
+      - name: 💾 Değişen dosyaları commit et
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🌿 Otomatik güncelleme — ${{ github.run_number }} [skip ci]"
+          file_pattern: "tarama_sistemi/data/*.geojson tarama_sistemi/data/geocode_cache.json"
+          commit_user_name: "cevre-bot"
+          commit_user_email: "bot@noreply.github.com"
+
+  # ── Hata bildirimi ───────────────────────────────────────────────────────
+  bildirim:
+    name: Hata Bildirimi
+    needs: tara
+    if: failure()
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🔴 Tarama başarısız
+        run: |
+          echo "::error::Günlük tarama başarısız oldu! Log artifact'ını kontrol et."
