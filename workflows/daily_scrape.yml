@@ -1,4 +1,5 @@
-name: 🌿 Günlük Çevre Veri Taraması
+   ../../.github/workflows/daily_scrape.yml
+   name: 🌿 Günlük Çevre Veri Taraması
 
 on:
   # Her gün TSİ 03:30'da çalış (UTC 00:30)
