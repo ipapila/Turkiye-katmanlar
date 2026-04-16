@@ -1,0 +1,392 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "kaynak": "ÖÇKB-csb.gov.tr",
+    "url": "https://ockb.csb.gov.tr",
+    "guncelleme": "2026-04-16T12:56:24.145567Z",
+    "açıklama": "Özel Çevre Koruma Bölgeleri",
+    "kategori": "Koruma"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.45,
+          37.08
+        ]
+      },
+      "properties": {
+        "id": "A-01",
+        "ad": "Gökova ÖÇKB",
+        "il": "Muğla",
+        "alan_km2": 576.9,
+        "tarih": "1988-07-05",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.67,
+          36.85
+        ]
+      },
+      "properties": {
+        "id": "A-02",
+        "ad": "Köyceğiz-Dalyan ÖÇKB",
+        "il": "Muğla",
+        "alan_km2": 461.46,
+        "tarih": "1988-07-05",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2,
+          36.75
+        ]
+      },
+      "properties": {
+        "id": "A-03",
+        "ad": "Fethiye-Göcek ÖÇKB",
+        "il": "Muğla",
+        "alan_km2": 816.02,
+        "tarih": "1988-07-05",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33,
+          36.32
+        ]
+      },
+      "properties": {
+        "id": "A-04",
+        "ad": "Patara ÖÇKB",
+        "il": "Antalya",
+        "alan_km2": 189.81,
+        "tarih": "1990-03-02",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.91,
+          36.2
+        ]
+      },
+      "properties": {
+        "id": "A-05",
+        "ad": "Kaş-Kekova ÖÇKB",
+        "il": "Antalya",
+        "alan_km2": 258.3,
+        "tarih": "1990-03-02",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5,
+          36.2
+        ]
+      },
+      "properties": {
+        "id": "A-06",
+        "ad": "Göksu Deltası ÖÇKB",
+        "il": "Mersin",
+        "alan_km2": 226.31,
+        "tarih": "1990-03-02",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5,
+          39.88
+        ]
+      },
+      "properties": {
+        "id": "A-07",
+        "ad": "Gölbaşı ÖÇKB",
+        "il": "Ankara",
+        "alan_km2": 273.94,
+        "tarih": "1990-11-21",
+        "kiyi_deniz": false,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.82,
+          36.75
+        ]
+      },
+      "properties": {
+        "id": "A-08",
+        "ad": "Datça-Bozburun ÖÇKB",
+        "il": "Muğla",
+        "alan_km2": 1443.89,
+        "tarih": "1990-01-18",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.08,
+          36.87
+        ]
+      },
+      "properties": {
+        "id": "A-09",
+        "ad": "Belek ÖÇKB",
+        "il": "Antalya",
+        "alan_km2": 111.79,
+        "tarih": "1990-11-21",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.36,
+          38.355
+        ]
+      },
+      "properties": {
+        "id": "A-10",
+        "ad": "Ihlara ÖÇKB",
+        "il": "Aksaray",
+        "alan_km2": 54.64,
+        "tarih": "1990-11-21",
+        "kiyi_deniz": false,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.72,
+          38.67
+        ]
+      },
+      "properties": {
+        "id": "A-11",
+        "ad": "Foça ÖÇKB",
+        "il": "İzmir",
+        "alan_km2": 71.44,
+        "tarih": "1990-11-21",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.112,
+          37.925
+        ]
+      },
+      "properties": {
+        "id": "A-12",
+        "ad": "Pamukkale ÖÇKB",
+        "il": "Denizli",
+        "alan_km2": 66.56,
+        "tarih": "1990-11-21",
+        "kiyi_deniz": false,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.28,
+          40.57
+        ]
+      },
+      "properties": {
+        "id": "A-13",
+        "ad": "Uzungöl ÖÇKB",
+        "il": "Trabzon",
+        "alan_km2": 149.12,
+        "tarih": "2004-01-07",
+        "kiyi_deniz": false,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5,
+          38.75
+        ]
+      },
+      "properties": {
+        "id": "A-14",
+        "ad": "Tuz Gölü ÖÇKB",
+        "il": "Konya",
+        "alan_km2": 7414.4,
+        "tarih": "2000-11-02",
+        "kiyi_deniz": false,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55,
+          40.68
+        ]
+      },
+      "properties": {
+        "id": "A-15",
+        "ad": "Saros Körfezi ÖÇKB",
+        "il": "Çanakkale",
+        "alan_km2": 730.21,
+        "tarih": "2010-12-22",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.35,
+          36.45
+        ]
+      },
+      "properties": {
+        "id": "A-16",
+        "ad": "Finike Denizaltı Dağları ÖÇKB",
+        "il": "Antalya",
+        "alan_km2": 11228.85,
+        "tarih": "2013-08-16",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68,
+          37.54
+        ]
+      },
+      "properties": {
+        "id": "A-17",
+        "ad": "Salda Gölü ÖÇKB",
+        "il": "Burdur",
+        "alan_km2": 62.0,
+        "tarih": "2019-04-20",
+        "kiyi_deniz": false,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55,
+          38.45
+        ]
+      },
+      "properties": {
+        "id": "A-18",
+        "ad": "Karaburun-Ildır Körfezi ÖÇKB",
+        "il": "İzmir",
+        "alan_km2": 760.0,
+        "tarih": "2019-03-14",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0,
+          40.7
+        ]
+      },
+      "properties": {
+        "id": "A-19",
+        "ad": "Marmara Denizi ve Adalar ÖÇKB",
+        "il": "İstanbul",
+        "alan_km2": 12246.0,
+        "tarih": "2021-11-04",
+        "kiyi_deniz": true,
+        "kategori": "ÖÇKB",
+        "kaynak_url": "https://ockb.csb.gov.tr"
+      }
+    }
+  ]
+}
