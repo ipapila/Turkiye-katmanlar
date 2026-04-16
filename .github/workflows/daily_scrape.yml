@@ -14,12 +14,12 @@ jobs:
       contents: write
     steps:
       - name: Repo kodunu al
-        uses: actions/checkout@v4
+        uses: aactions/checkout@v4.2.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Python 3.11 kur
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.4.0
         with:
           python-version: "3.11"
           cache: pip
@@ -42,14 +42,14 @@ jobs:
 
       - name: Log dosyalarini sakla
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4.6.2
         with:
           name: tarama-loglari-${{ github.run_number }}
           path: tarama_sistemi/logs/
           retention-days: 14
 
       - name: Degisen dosyalari commit et
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
           commit_message: "Otomatik guncelleme [skip ci]"
           file_pattern: "tarama_sistemi/data/*.geojson"
