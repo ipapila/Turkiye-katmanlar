@@ -55,3 +55,4 @@ jobs:
           file_pattern: "tarama_sistemi/data/*.geojson"
           commit_user_name: "cevre-bot"
           commit_user_email: "bot@noreply.github.com"
+          push_options: "--force"
