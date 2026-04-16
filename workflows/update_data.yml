@@ -1,4 +1,5 @@
-name: Veri Güncelleme
+   ../../.github/workflows/daily_scrape.yml
+   name: Veri Güncelleme
 
 on:
   workflow_dispatch:
