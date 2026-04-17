@@ -95,6 +95,11 @@ def tarayici_calistir(ad: str, sinif, dosya: str, meta: dict, dry_run: bool) -> 
 
         geojson = tarayici.to_geojson(ham_veri, metadata=meta)
         cikti = DATA_DIR / dosya
+        
+        onceki = len(geojson["features"])
+        geojson["features"] = deduplicate(geojson["features"])
+        if len(geojson["features"]) < onceki:
+            logger.warning(f"[{ad}] {onceki - len(geojson['features'])} duplicate temizlendi.")
 
         if not dry_run:
             cikti.write_text(
