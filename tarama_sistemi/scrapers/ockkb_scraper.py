@@ -49,10 +49,7 @@ class OCKBScraper(BaseScraper):
 
     def scrape(self) -> list[dict]:
         logger.info(f"[{self.name}] tarama başlıyor…")
-
-        # Canlı siteden yeni ÖÇKB eklenip eklenmediğini kontrol et
         self._canli_kontrol()
-
         features = []
         for s in OCKKB_SEED:
             features.append({
@@ -60,26 +57,22 @@ class OCKBScraper(BaseScraper):
                 "kategori": "ÖÇKB",
                 "kaynak_url": OCKB_BASE,
             })
-
         logger.success(f"[{self.name}] {len(features)} ÖÇKB hazır.")
         return features
 
     def _canli_kontrol(self):
-    """Yeni ÖÇKB ilan edilip edilmediğini kontrol eder."""
-    try:
-        soup = self._soup(self.base_url)
-        metin = soup.get_text(" ")
-        m = re.search(r"(\d+)\s+(?:adet\s+)?özel\s+çevre\s+koruma", metin, re.IGNORECASE)
-        if m:
-            sayi = int(m.group(1))
-            if sayi > 1000:
-                logger.debug(
-                    f"[{self.name}] Canlı kontrolde bulunan {sayi} değeri yıl gibi görünüyor, yoksayıldı."
-                )
-            elif sayi > len(OCKKB_SEED):
-                logger.warning(
-                    f"[{self.name}] ÖÇKB sayısı {sayi}'e çıkmış! "
-                    f"Seed güncellenmeli (şu an {len(OCKKB_SEED)})."
-                )
-    except Exception as e:
-        logger.warning(f"[{self.name}] Canlı kontrol hatası: {e} — seed verisi kullanılıyor.")
+        try:
+            soup = self._soup(self.base_url)
+            metin = soup.get_text(" ")
+            m = re.search(r"(\d+)\s+(?:adet\s+)?özel\s+çevre\s+koruma", metin, re.IGNORECASE)
+            if m:
+                sayi = int(m.group(1))
+                if sayi > 1000:
+                    logger.debug(f"[{self.name}] {sayi} değeri yıl gibi görünüyor, yoksayıldı.")
+                elif sayi > len(OCKKB_SEED):
+                    logger.warning(
+                        f"[{self.name}] ÖÇKB sayısı {sayi}'e çıkmış! "
+                        f"Seed güncellenmeli (şu an {len(OCKKB_SEED)})."
+                    )
+        except Exception as e:
+            logger.warning(f"[{self.name}] Canlı kontrol hatası: {e} — seed verisi kullanılıyor.")
