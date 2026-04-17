@@ -1,5 +1,10 @@
 name: Gunluk Cevre Veri Taramasi
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  ...
 on:
   schedule:
     - cron: "30 0 * * *"
