@@ -1,21 +1,6 @@
 """
 main.py — Tarama Orkestratörü
 
-def deduplicate(features: list) -> list:
-    """Aynı koordinata veya aynı ada sahip tekrar eden kayıtları temizler."""
-    goruldu = set()
-    temiz = []
-    for f in features:
-        props = f.get("properties", {})
-        geo = f.get("geometry", {})
-        coords = tuple(geo.get("coordinates", [])) if geo else ()
-        ad = props.get("ad") or props.get("name") or props.get("adi") or ""
-        anahtar = (coords, ad.strip().lower())
-        if anahtar not in goruldu:
-            goruldu.add(anahtar)
-            temiz.append(f)
-    return temiz
-
 Tüm tarayıcıları çalıştırır, çıktıları birleştirir ve
 GitHub'daki veri deposunu günceller.
 
@@ -82,6 +67,32 @@ TARAYICILAR = {
 }
 
 
+def deduplicate(features: list, ad: str) -> list:
+    """Aynı koordinat veya aynı ada sahip tekrar eden kayıtları temizler."""
+    goruldu = set()
+    temiz = []
+    for f in features:
+        props = f.get("properties", {})
+        geo = f.get("geometry", {})
+        coords = tuple(geo.get("coordinates", [])) if geo else ()
+        isim = (
+            props.get("ad")
+            or props.get("name")
+            or props.get("adi")
+            or props.get("santral_adi")
+            or ""
+        )
+        anahtar = (coords, isim.strip().lower())
+        if anahtar not in goruldu:
+            goruldu.add(anahtar)
+            temiz.append(f)
+
+    temizlenen = len(features) - len(temiz)
+    if temizlenen > 0:
+        logger.warning(f"[{ad}] {temizlenen} duplicate temizlendi ({len(features)} → {len(temiz)} nokta).")
+    return temiz
+
+
 def tarayici_calistir(ad: str, sinif, dosya: str, meta: dict, dry_run: bool) -> dict | None:
     """Tek bir tarayıcıyı çalıştırır; GeoJSON üretir ve diske yazar."""
     logger.info(f"━━ [{ad}] başlıyor ━━")
@@ -94,12 +105,11 @@ def tarayici_calistir(ad: str, sinif, dosya: str, meta: dict, dry_run: bool) -> 
             return None
 
         geojson = tarayici.to_geojson(ham_veri, metadata=meta)
+
+        # Duplicate temizle
+        geojson["features"] = deduplicate(geojson["features"], ad)
+
         cikti = DATA_DIR / dosya
-        
-        onceki = len(geojson["features"])
-        geojson["features"] = deduplicate(geojson["features"])
-        if len(geojson["features"]) < onceki:
-            logger.warning(f"[{ad}] {onceki - len(geojson['features'])} duplicate temizlendi.")
 
         if not dry_run:
             cikti.write_text(
@@ -155,8 +165,8 @@ def _github_push(sonuclar: dict):
     """Değişen GeoJSON dosyalarını GitHub repo'ya yükler."""
     import os
     token = os.getenv("GITHUB_TOKEN")
-    repo_adi = os.getenv("GITHUB_REPO")          # örn: "ekopoli/albatur-papila"
-    veri_klasoru = os.getenv("GITHUB_DATA_PATH", "data")  # repo içi hedef klasör
+    repo_adi = os.getenv("GITHUB_REPO")
+    veri_klasoru = os.getenv("GITHUB_DATA_PATH", "data")
 
     if not token or not repo_adi:
         logger.warning("GITHUB_TOKEN veya GITHUB_REPO tanımlı değil — push atlandı.")
