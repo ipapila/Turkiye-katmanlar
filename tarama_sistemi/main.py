@@ -1,6 +1,21 @@
 """
 main.py — Tarama Orkestratörü
 
+def deduplicate(features: list) -> list:
+    """Aynı koordinata veya aynı ada sahip tekrar eden kayıtları temizler."""
+    goruldu = set()
+    temiz = []
+    for f in features:
+        props = f.get("properties", {})
+        geo = f.get("geometry", {})
+        coords = tuple(geo.get("coordinates", [])) if geo else ()
+        ad = props.get("ad") or props.get("name") or props.get("adi") or ""
+        anahtar = (coords, ad.strip().lower())
+        if anahtar not in goruldu:
+            goruldu.add(anahtar)
+            temiz.append(f)
+    return temiz
+
 Tüm tarayıcıları çalıştırır, çıktıları birleştirir ve
 GitHub'daki veri deposunu günceller.
 
