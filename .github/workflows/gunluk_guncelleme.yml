@@ -1,0 +1,66 @@
+name: Günlük Ekoloji Haritası Güncellemesi
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # Her gün 03:00 UTC (06:00 Türkiye)
+  workflow_dispatch:        # Manuel tetikleme
+    inputs:
+      scrapers:
+        description: 'Scraper listesi (boş = hepsi, örn: jes ramsar maden)'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Dry-run modu (GitHub yazma)'
+        type: boolean
+        default: false
+
+jobs:
+  tara-ve-guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Repoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Bağımlılıkları yükle
+        run: |
+          pip install -r tarama_sistemi/requirements.txt
+
+      - name: Chrome kur (Selenium için)
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Entegratörü çalıştır
+        working-directory: tarama_sistemi
+        env:
+          GITHUB_TOKEN: ${{ secrets.SCRAPER_TOKEN }}
+        run: |
+          SCRAPERS="${{ github.event.inputs.scrapers }}"
+          DRY_RUN="${{ github.event.inputs.dry_run }}"
+
+          CMD="python veri_entegratoru.py"
+
+          if [ -n "$SCRAPERS" ]; then
+            CMD="$CMD --scrapers $SCRAPERS"
+          fi
+
+          if [ "$DRY_RUN" = "true" ]; then
+            CMD="$CMD --dry-run"
+          fi
+
+          echo "Çalıştırılıyor: $CMD"
+          $CMD
+
+      - name: Logs kaydet
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tarama-logu-${{ github.run_id }}
+          path: tarama_sistemi/logs/
+          retention-days: 14
