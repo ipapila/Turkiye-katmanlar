@@ -1,7 +1,7 @@
 name: Gunluk Cevre Veri Taramasi
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "0 6 * * *"   # 06:00 UTC = 09:00 Türkiye saati
   workflow_dispatch:
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -32,7 +32,7 @@ jobs:
         with:
           chrome-version: stable
 
-      - name: Tarama calistir (GeoJSON dosyaları)
+      - name: Tarama calistir (GeoJSON dosyalari)
         working-directory: tarama_sistemi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
