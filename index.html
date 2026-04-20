@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ekoloji Haritası</title>
+<title>Ekoloji Haritası - Gerçek Tarama Aktif</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css">
@@ -144,11 +144,15 @@ body.pkmode #map{cursor:crosshair !important;}
 #catModal{position:fixed;inset:0;background:rgba(0,0,0,.7);backdrop-filter:blur(5px);z-index:5000;display:none;align-items:center;justify-content:center;}
 .catModalContent{background:var(--bg2);border-radius:14px;width:400px;max-width:90vw;max-height:70vh;overflow:auto;padding:20px;}
 .catItem{display:flex;justify-content:space-between;align-items:center;padding:8px;border-bottom:1px solid var(--border);}
+/* Tarama modalı için ek stiller */
+#scanOv .scan-chk-lbl{display:flex;align-items:center;gap:6px;padding:6px 10px;background:var(--bg3);border:1px solid var(--border);border-radius:8px;cursor:pointer;font-size:.78rem;color:var(--dim);transition:.15s;}
+#scanOv .scan-chk-lbl:hover{border-color:var(--borderh);color:var(--text);}
+#scanOv .scan-chk-lbl input{accent-color:var(--accent);}
+#apiKeyArea input{background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:7px 10px;color:var(--text);width:100%;font-size:.75rem;}
 </style>
 </head>
 <body data-theme="dark">
 <div id="app">
-
 <div id="header">
   <button id="paneltog" title="Menü">☰</button>
   <h1>🌿 <span>Ekoloji</span> Haritası</h1>
@@ -198,7 +202,7 @@ body.pkmode #map{cursor:crosshair !important;}
         <button class="hbtn" id="rstbtn">🔄 Tümünü Sil</button>
       </div>
 
-      <!-- Otomatik Tarama butonu - artık sadece uyarı veriyor -->
+      <!-- Otomatik Tarama (Google Custom Search ile) -->
       <div class="sec admin-only" style="display:none">Otomatik Tarama</div>
       <div class="dtb admin-only" style="display:none">
         <button class="hbtn" id="scanbtn" style="flex:1;background:linear-gradient(135deg,rgba(102,126,234,.18),rgba(79,209,197,.18));border-color:var(--accent2);color:var(--accent);">🔍 Kaynak Tara</button>
@@ -236,6 +240,58 @@ body.pkmode #map{cursor:crosshair !important;}
 <!-- Kategori Silme Modalı -->
 <div id="catModal"><div class="catModalContent"><h3 style="margin-bottom:12px;">🗑️ Kategori Sil</h3><div id="catList"></div><div style="margin-top:16px;text-align:right;"><button class="bcn" onclick="closeCatModal()">Kapat</button></div></div></div>
 
+<!-- Tarama Modalı (Google API anahtarı istenir) -->
+<div id="scanOv" style="position:fixed;inset:0;background:rgba(0,0,0,.78);backdrop-filter:blur(7px);z-index:4500;display:none;align-items:center;justify-content:center;">
+  <div style="background:var(--bg2);border:1px solid var(--borderh);border-radius:14px;width:640px;max-width:96vw;max-height:90vh;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 16px 60px rgba(0,0,0,.6);">
+    <div class="mhd" style="background:linear-gradient(135deg,rgba(102,126,234,.12),rgba(79,209,197,.08));border-bottom:1px solid var(--border);">
+      <h2 style="display:flex;align-items:center;gap:9px;"><span style="font-size:1.15rem">🔍</span> Otomatik Veri Tarama (Google)</h2>
+      <button class="mcls" id="closeScanModalBtn">✕</button>
+    </div>
+    <div class="mbd" style="display:flex;flex-direction:column;gap:16px;">
+      <div id="apiKeyArea">
+        <div class="sec">Google API Anahtarı ve Arama Motoru ID</div>
+        <input type="text" id="googleApiKey" placeholder="Google API Anahtarı (Custom Search JSON API)" style="margin-bottom:6px;">
+        <input type="text" id="googleCx" placeholder="Arama Motoru ID (cx)" style="margin-bottom:6px;">
+        <div class="chint">🔑 <a href="https://developers.google.com/custom-search/v1/overview" target="_blank">API anahtarı al</a> | <a href="https://programmablesearchengine.google.com/" target="_blank">cx al</a> (ücretsiz 100 sorgu/gün)</div>
+      </div>
+      <div>
+        <div class="sec" style="margin-top:0;">Kategoriler</div>
+        <div id="scanCats" style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:5px;">
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Acele Kamulaştırma" checked> ⚡ Acele Kamulaştırma</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Maden Ocağı" checked> ⛏️ Maden Ocağı</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Ekolojik İhlal" checked> ⚠️ Ekolojik İhlal</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="RES" checked> 💨 RES</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="GES" checked> ☀️ GES</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="HES" checked> 💧 HES</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Jeotermal"> 🌋 Jeotermal</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Termik Reaktör"> 🔥 Termik Reaktör</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="İklim Olayları"> 🌡️ İklim Olayları</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Kıyı İhlalleri"> 🌊 Kıyı İhlalleri</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Taş-Mermer Ocağı"> 🪨 Taş-Mermer Ocağı</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Orman Alanı"> 🌳 Orman Alanı</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Sulak Alan"> 🦢 Sulak Alan</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Özel Çevre Koruma Alanı"> 🛡️ Özel Koruma</label>
+          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Kültür Varlığı"> 🏛️ Kültür Varlığı</label>
+        </div>
+      </div>
+      <div>
+        <div class="sec">Tarih Aralığı (son günler)</div>
+        <input type="number" id="scanDays" value="30" min="1" max="365" style="background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:7px;width:100px;"> gün
+      </div>
+      <div id="scanLogArea" style="display:none;">
+        <div class="sec">İşlem Logu</div>
+        <div style="background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:10px 12px;max-height:110px;overflow-y:auto;">
+          <div id="scanLog" style="font-size:.72rem;color:var(--dim);font-family:monospace;line-height:1.9;"></div>
+        </div>
+      </div>
+    </div>
+    <div class="mft">
+      <button class="bcn" id="cancelScanBtn">İptal</button>
+      <button class="bsv" id="scanRunBtn">🔍 Tara</button>
+    </div>
+  </div>
+</div>
+
 <!-- Confirm Modal -->
 <div id="cov"><div id="cbox"><h3>⚠️ Onay</h3><p id="ctxt"></p><div class="cbtns"><button class="bcn" id="ccan">İptal</button><button class="bdng" id="cok">Onayla</button></div></div></div>
 <div id="notif"></div>
@@ -270,12 +326,6 @@ const SK = 'turkiye_harita_v1';
 function uid(){return 'r'+Math.random().toString(36).substr(2,9)+Date.now();}
 function tod(){return new Date().toISOString().split('T')[0];}
 function ntf(msg,type='ok'){const el=document.createElement('div');el.className=`ni ${type}`;el.textContent=(type==='ok'?'✅ ':'⚠️ ')+msg;document.getElementById('notif').appendChild(el);setTimeout(()=>el.remove(),3500);}
-
-const ALT_KATEGORILER = [
-  'Endüstriyel Kirlilik / Maden Suçu','Su Kirliliği','Orman Suçları/Yasadışı Kesim',
-  'Atık Suçu/Kaçak Döküm','Hava Kirliliği','Deniz Kirliliği','Yaban Hayatı Suçu',
-  'Kıyı İhlali','Gemi Sökümü'
-];
 
 let data=[], mkrs={}, lgs={}, vis={}, editId=null, pkMode=false, pkCb=null, confCb=null;
 let fTxt='', fIl='', fIlce='', fDrm='';
@@ -831,21 +881,141 @@ function closeAdminMod(){document.getElementById('adminov').style.display='none'
 function adminLogout(){isAdmin=false;updateAdminUI();ntf('Çıkış yapıldı','ok');}
 function updateAdminUI(){const btn=document.getElementById('adminbtn');if(isAdmin){btn.textContent='🔓 Çıkış';btn.style.borderColor='var(--success)';}else{btn.textContent='🔒 Admin';btn.style.borderColor='';}document.querySelectorAll('.admin-only').forEach(el=>el.style.display=isAdmin?'':'none');}
 
-// ========== TARAMA ÖZELLİĞİ DEVRE DIŞI ==========
-// Artık doğrudan tarayıcıda çalışmayacağı için kullanıcıya yönlendirme mesajı veriyoruz.
-function openScanModal(){
-  ntf('🔍 Otomatik tarama özelliği doğrudan tarayıcıda çalışmamaktadır. Lütfen verilerinizi manuel olarak girin veya JSON/GeoJSON dosyası yükleyin.', 'err');
-  // İsteğe bağlı: Modal açmak yerine sadece uyarı verip kapatıyoruz.
-  // Eğer eski modal'ı göstermek istemiyorsanız, hiçbir şey yapmayın.
+// ========== GOOGLE CUSTOM SEARCH ILE GERÇEK TARAMA ==========
+let scanLogDiv = null;
+function addScanLog(msg){
+  if(!scanLogDiv) scanLogDiv = document.getElementById('scanLog');
+  const time = new Date().toLocaleTimeString('tr-TR');
+  scanLogDiv.innerHTML += `<div>[${time}] ${msg}</div>`;
+  scanLogDiv.scrollTop = scanLogDiv.scrollHeight;
+  document.getElementById('scanLogArea').style.display = 'block';
 }
-// runScan fonksiyonunu tamamen pasifleştir
+
 async function runScan(){
-  ntf('Tarama özelliği kullanılamıyor. Veri eklemek için "Yeni Alan Ekle" butonunu veya JSON/GeoJSON yükleme seçeneğini kullanın.', 'err');
+  const apiKey = document.getElementById('googleApiKey').value.trim();
+  const cx = document.getElementById('googleCx').value.trim();
+  if(!apiKey || !cx){
+    ntf('Lütfen Google API Anahtarı ve Arama Motoru ID girin','err');
+    return;
+  }
+  const selectedCats = [...document.querySelectorAll('#scanCats input:checked')].map(el=>el.value);
+  if(!selectedCats.length){ ntf('En az bir kategori seçin','err'); return; }
+  const days = parseInt(document.getElementById('scanDays').value) || 30;
+  const fromDate = new Date(); fromDate.setDate(fromDate.getDate() - days);
+  const fromDateStr = fromDate.toISOString().split('T')[0];
+  
+  document.getElementById('scanRunBtn').disabled = true;
+  document.getElementById('scanRunBtn').textContent = '⏳ Taranıyor...';
+  document.getElementById('scanLog').innerHTML = '';
+  scanLogDiv = document.getElementById('scanLog');
+  
+  addScanLog(`🔍 Tarama başladı: ${selectedCats.join(', ')} (son ${days} gün)`);
+  
+  let allItems = [];
+  for(let cat of selectedCats){
+    // Her kategori için farklı arama sorguları
+    let queries = [];
+    if(cat === 'Acele Kamulaştırma') queries = ['acele kamulaştırma ilanı', 'kamulaştırma kararı', 'acele el koyma'];
+    else if(cat === 'Maden Ocağı') queries = ['maden ruhsatı', 'maden işletme izni', 'maden sahası'];
+    else if(cat === 'Ekolojik İhlal') queries = ['ekolojik ihlal', 'çevre suçu', 'kaçak atık', 'doğa tahribatı'];
+    else if(cat === 'RES') queries = ['RES projesi', 'rüzgar enerjisi santrali', 'türbin kurulumu'];
+    else if(cat === 'GES') queries = ['GES projesi', 'güneş enerjisi santrali', 'solar tarla'];
+    else if(cat === 'HES') queries = ['HES projesi', 'hidroelektrik santrali', 'baraj'];
+    else queries = [`${cat} Türkiye`, `${cat} çevre`];
+    
+    for(let q of queries){
+      const url = `https://www.googleapis.com/customsearch/v1?key=${apiKey}&cx=${cx}&q=${encodeURIComponent(q + ' site:resmigazete.gov.tr OR site:csb.gov.tr OR site:mapeg.gov.tr OR site:epdk.gov.tr')}&sort=date&num=10`;
+      try{
+        addScanLog(`🌐 Arama: ${q}`);
+        const response = await fetch(url);
+        if(!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        if(data.items && data.items.length){
+          for(let item of data.items){
+            allItems.push({
+              title: item.title,
+              link: item.link,
+              snippet: item.snippet,
+              date: item.pagemap?.metatags?.[0]?.['article:published_time']?.substring(0,10) || fromDateStr,
+              category: cat
+            });
+          }
+          addScanLog(`   → ${data.items.length} sonuç bulundu`);
+        } else {
+          addScanLog(`   → 0 sonuç`);
+        }
+        await new Promise(r=>setTimeout(r,500)); // rate limit
+      } catch(e){
+        addScanLog(`   ❌ Hata: ${e.message}`);
+      }
+    }
+  }
+  
+  addScanLog(`✅ Toplam ${allItems.length} potansiyel kayıt bulundu. İşleniyor...`);
+  
+  // Basit çıkarım: Başlık ve snippet'ten konum ve alan adı tahmini
+  let imported = [];
+  for(let item of allItems){
+    let text = (item.title + ' ' + item.snippet).toLowerCase();
+    let il = null;
+    for(let city of Object.keys(ILCELER)){
+      if(text.includes(city.toLowerCase())){
+        il = city;
+        break;
+      }
+    }
+    if(!il) continue;
+    let ad = item.title.length > 60 ? item.title.substring(0,57)+'...' : item.title;
+    // Rastgele koordinat (gerçek konum için il merkezi alınabilir)
+    let lat = 39.0, lng = 35.0;
+    if(il === 'İstanbul') { lat=41.0082; lng=28.9784; }
+    else if(il === 'Ankara') { lat=39.9334; lng=32.8597; }
+    else if(il === 'İzmir') { lat=38.4189; lng=27.1287; }
+    else if(il === 'Bursa') { lat=40.1826; lng=29.0665; }
+    else if(il === 'Antalya') { lat=36.8969; lng=30.7133; }
+    else if(il === 'Adana') { lat=37.0; lng=35.3213; }
+    else if(il === 'Muğla') { lat=37.2153; lng=28.3636; }
+    else { lat = 39.0 + (Math.random() - 0.5)*2; lng = 35.0 + (Math.random()-0.5)*3; }
+    
+    imported.push({
+      id: uid(),
+      tip: item.category,
+      ad: ad,
+      il: il,
+      ilce: '',
+      alan_ha: 0,
+      durum: 'Aktif',
+      belge_no: '',
+      eklenme: tod(),
+      kaynak: 'Google Arama',
+      kaynak_link: item.link,
+      aciklama: item.snippet.substring(0,150),
+      alt_kategori: '',
+      koordinatlar: {lat: lat, lng: lng},
+      sabit: false
+    });
+  }
+  
+  if(imported.length === 0){
+    ntf('Hiçbir kayıt çıkarılamadı (il bilgisi bulunamadı).','err');
+  } else {
+    addScanLog(`📌 ${imported.length} kayıt işlendi, kategori eşleştirme açılıyor...`);
+    showCatMap(imported);
+  }
+  
+  document.getElementById('scanRunBtn').disabled = false;
+  document.getElementById('scanRunBtn').textContent = '🔍 Tara';
 }
-// Diğer yardımcı fonksiyonlar (scanSelAll vb.) çalışmayacak, ancak hata vermemeleri için boş fonksiyon olarak tanımlayalım.
-function scanSelAll(val){}
-function closeScanModal(){}
-// ========== TARAMA SONU ==========
+
+function openScanModal(){
+  document.getElementById('scanOv').style.display = 'flex';
+}
+function closeScanModal(){
+  document.getElementById('scanOv').style.display = 'none';
+}
+function scanSelAll(val){
+  document.querySelectorAll('#scanCats input[type=checkbox]').forEach(cb=>cb.checked=val);
+}
 
 // ---------- EVENTLER ----------
 let dark=true;
@@ -861,6 +1031,9 @@ document.getElementById('delCatBtn').addEventListener('click',()=>requireAdmin(o
 document.getElementById('groupResBtn').addEventListener('click',()=>requireAdmin(()=>groupRESData(2000)));
 document.getElementById('rstbtn').addEventListener('click',()=>requireAdmin(rstD));
 document.getElementById('scanbtn').addEventListener('click',()=>requireAdmin(openScanModal));
+document.getElementById('closeScanModalBtn').addEventListener('click',closeScanModal);
+document.getElementById('cancelScanBtn').addEventListener('click',closeScanModal);
+document.getElementById('scanRunBtn').addEventListener('click',runScan);
 document.getElementById('mcls').addEventListener('click',closeMod);
 document.getElementById('mcan').addEventListener('click',closeMod);
 document.getElementById('msav').addEventListener('click',savRec);
