@@ -57503,5 +57503,185 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "Hortum",
     "kaynak_link": "https://mgm.gov.tr"
+  },
+  {
+    "id": "rhrhqvfwqd1776705108357",
+    "tip": "HES",
+    "ad": "Kızılırmak HES Projesi Genişletme",
+    "il": "Ankara",
+    "aciklama": "Kızılırmak üzerinde planlanan HES projesinde kapasite artırımı çalışmaları başlatıldı.",
+    "koordinatlar": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "alan_ha": 450,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "05.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://dsi.gov.tr"
+  },
+  {
+    "id": "r4kjnjc2na1776705108357",
+    "tip": "GES",
+    "ad": "Çatalca Güneş Enerji Santrali",
+    "il": "İstanbul",
+    "aciklama": "50 MW kapasiteli güneş enerji santrali kurulum çalışmaları devam ediyor.",
+    "koordinatlar": {
+      "lat": 41.0082,
+      "lng": 28.9784
+    },
+    "alan_ha": 120,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "08.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://epdk.gov.tr"
+  },
+  {
+    "id": "r3qkhkduca1776705108357",
+    "tip": "Maden Ocağı",
+    "ad": "Hatay Bakır Madeni İşletmesi",
+    "il": "Hatay",
+    "aciklama": "Bakır madeni işletme ruhsatı mahkeme kararı ile durduruldu.",
+    "koordinatlar": {
+      "lat": 36.1612,
+      "lng": 36.2012
+    },
+    "alan_ha": 85,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "15.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://enerji.gov.tr"
+  },
+  {
+    "id": "rxm4mtroz81776705108357",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Antalya Mermer Ocağı",
+    "il": "Antalya",
+    "aciklama": "Çevresel etki değerlendirmesi yetersizliği nedeniyle mermer ocağı faaliyeti durduruldu.",
+    "koordinatlar": {
+      "lat": 36.8969,
+      "lng": 30.7133
+    },
+    "alan_ha": 60,
+    "durum": "Durduruldu",
+    "belge_no": "",
+    "eklenme": "18.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://csb.gov.tr"
+  },
+  {
+    "id": "rmw0ysdtaa1776705108357",
+    "tip": "Jeotermal",
+    "ad": "Bursa Jeotermal Enerji Santrali",
+    "il": "Bursa",
+    "aciklama": "15 MW kapasiteli jeotermal enerji santrali üretim kapasitesini artırdı.",
+    "koordinatlar": {
+      "lat": 40.6191,
+      "lng": 29.3759
+    },
+    "alan_ha": 25,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "10.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://jesder.org"
+  },
+  {
+    "id": "rxsm6dwsqs1776705108357",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Foça Kıyı Dolgu Alanı",
+    "il": "İzmir",
+    "aciklama": "İzinsiz kıyı dolgusu tespit edildi, durdurma kararı verildi.",
+    "koordinatlar": {
+      "lat": 38.4192,
+      "lng": 27.1428
+    },
+    "alan_ha": 15,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "14.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://izmir.csb.gov.tr"
+  },
+  {
+    "id": "rqz80xdmnb1776705108357",
+    "tip": "Orman Alanı",
+    "ad": "Bartın Orman Koruma Sahası",
+    "il": "Bartın",
+    "aciklama": "Yeni koruma statüsü verilen orman alanında koruma önlemleri artırıldı.",
+    "koordinatlar": {
+      "lat": 41.3547,
+      "lng": 31.6056
+    },
+    "alan_ha": 2500,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "07.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://ogm.gov.tr"
+  },
+  {
+    "id": "r78em0f8kf1776705108357",
+    "tip": "HES",
+    "ad": "Seyhan HES Projesi",
+    "il": "Adana",
+    "aciklama": "Seyhan Nehri üzerinde planlanan hidroelektrik santral projesi ön çalışmaları başladı.",
+    "koordinatlar": {
+      "lat": 36.2032,
+      "lng": 35.3213
+    },
+    "alan_ha": 680,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "16.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://eie.gov.tr"
+  },
+  {
+    "id": "rrv84oen191776705108357",
+    "tip": "Ekolojik İhlal",
+    "ad": "Mersin Endüstriyel Atık Sahası",
+    "il": "Mersin",
+    "aciklama": "Kimyasal atıkların kaçak depolandığı tesis mühürlendi, soruşturma başlatıldı.",
+    "koordinatlar": {
+      "lat": 36.3498,
+      "lng": 33.4203
+    },
+    "alan_ha": 35,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "19.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm",
+    "kaynak_link": "https://mersin.csb.gov.tr"
+  },
+  {
+    "id": "racsvtji141776705108357",
+    "tip": "RES",
+    "ad": "Karabiga Rüzgar Enerji Santrali",
+    "il": "Çanakkale",
+    "aciklama": "75 MW kapasiteli rüzgar enerji santrali ticari işletmeye açıldı.",
+    "koordinatlar": {
+      "lat": 39.4208,
+      "lng": 26.8142
+    },
+    "alan_ha": 300,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "12.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://tureb.com.tr"
   }
 ]
