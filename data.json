@@ -204,7 +204,9 @@
     "durum": "Aktif",
     "belge_no": "1990/478",
     "eklenme": "2026-03-19",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rhpe2cls3v1773928264740",
@@ -221,7 +223,9 @@
     "durum": "Aktif",
     "belge_no": "1990/478",
     "eklenme": "2026-03-19",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "r8ldpun5nx1773928264740",
@@ -238,7 +242,9 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-19",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rxax5lk7cq1773928264740",
@@ -255,7 +261,9 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-19",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rjom30dndz1773928264740",
@@ -1032,7 +1040,9 @@
     "durum": "Aktif",
     "belge_no": "OGM-TKA-001",
     "eklenme": "2025-01-01",
-    "kaynak": "OGM"
+    "kaynak": "OGM",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "src_ba14c0811439",
@@ -1049,7 +1059,9 @@
     "durum": "Aktif",
     "belge_no": "OGM-TKA-002",
     "eklenme": "2025-01-01",
-    "kaynak": "OGM"
+    "kaynak": "OGM",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "src_9d19f8811439",
@@ -1142,7 +1154,9 @@
     "durum": "Aktif",
     "belge_no": "1988/12945",
     "eklenme": "2026-03-17",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rgp3j985ye",
@@ -1159,7 +1173,9 @@
     "durum": "Aktif",
     "belge_no": "1988/12945",
     "eklenme": "2026-03-17",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rjk5g590t5",
@@ -1177,7 +1193,8 @@
     "belge_no": "1988/12945",
     "eklenme": "2026-03-25",
     "kaynak": "Çevre Bakanlığı",
-    "alt_kategori": ""
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "risa28d43i",
@@ -1194,7 +1211,9 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-17",
-    "kaynak": "OGM"
+    "kaynak": "OGM",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "r9dqwi1rg4",
@@ -1211,7 +1230,9 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-17",
-    "kaynak": "OGM"
+    "kaynak": "OGM",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rmnp0t87s6",
@@ -1228,7 +1249,9 @@
     "durum": "Aktif",
     "belge_no": "3621",
     "eklenme": "2026-03-17",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "r93qbgvif9",
@@ -1245,7 +1268,9 @@
     "durum": "Aktif",
     "belge_no": "3621",
     "eklenme": "2026-03-17",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rp5gdr3g4g",
@@ -1262,7 +1287,9 @@
     "durum": "Aktif",
     "belge_no": "3621",
     "eklenme": "2026-03-17",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rh2r0rofrp",
@@ -1469,7 +1496,9 @@
     "durum": "Aktif",
     "belge_no": "3621",
     "eklenme": "2026-03-17",
-    "kaynak": "Çevre Bakanlığı"
+    "kaynak": "Çevre Bakanlığı",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rrbz1j4duk1773732276487",
@@ -1581,7 +1610,9 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rm36eeus7n1773810599920",
@@ -1598,7 +1629,9 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rudodoj97r1773810865648",
@@ -1653,7 +1686,9 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "r5u0cgqm4z1773812210283",
@@ -1670,7 +1705,9 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-03-18",
-    "kaynak": "Manuel"
+    "kaynak": "Manuel",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rsqoht1uql1773812265634",
@@ -4917,7 +4954,9 @@
     "durum": "Aktif",
     "belge_no": "WDPA-555624430",
     "eklenme": "2025-01-01",
-    "kaynak": "WDPA"
+    "kaynak": "WDPA",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "src_b8381d811439",
@@ -4934,7 +4973,9 @@
     "durum": "Aktif",
     "belge_no": "WDPA-555624431",
     "eklenme": "2025-01-01",
-    "kaynak": "WDPA"
+    "kaynak": "WDPA",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "src_180322811439",
@@ -4951,7 +4992,9 @@
     "durum": "Aktif",
     "belge_no": "WDPA-555624432",
     "eklenme": "2025-01-01",
-    "kaynak": "WDPA"
+    "kaynak": "WDPA",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "src_9749ab811439",
@@ -4968,7 +5011,9 @@
     "durum": "Aktif",
     "belge_no": "WDPA-555624433",
     "eklenme": "2025-01-01",
-    "kaynak": "WDPA"
+    "kaynak": "WDPA",
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "src_7f0fd811439",
@@ -25984,7 +26029,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rmzjoo0hsr1774104564932",
@@ -26001,7 +26047,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rzdeyr9ivj1774104564932",
@@ -26018,7 +26065,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rb6lipszpb1774104564932",
@@ -26036,7 +26084,8 @@
     "belge_no": "",
     "eklenme": "2026-03-27",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": ""
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "ruqqja6pqk1774104564932",
@@ -26053,7 +26102,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rof5jj4ui71774104564932",
@@ -26070,7 +26120,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "r9y9lxqsj01774104564932",
@@ -26087,7 +26138,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rsfd8qdky21774104564932",
@@ -26104,7 +26156,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rta0f4f8ix1774104564932",
@@ -26121,7 +26174,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "raah8aihbz1774104564932",
@@ -26138,7 +26192,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rot5mrx7te1774104564932",
@@ -26155,7 +26210,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "r5zybcy03y1774104564932",
@@ -26172,7 +26228,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rswse4v6rl1774104564932",
@@ -26189,7 +26246,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "r1eclf4qhg1774104564932",
@@ -26206,7 +26264,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "r65phqsjae1774104564932",
@@ -26223,7 +26282,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rhw2cwh68r1774104564932",
@@ -26240,7 +26300,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "ryd87evvzn1774104564932",
@@ -26257,7 +26318,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "r8bhy7lga01774104564932",
@@ -26274,7 +26336,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "r4yxjc429v1774104564932",
@@ -26291,7 +26354,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rw3khmrtc81774105334505",
@@ -26308,7 +26372,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "r440btwksv1774105334505",
@@ -26325,7 +26390,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "risfsl7hr21774105334505",
@@ -26342,7 +26408,8 @@
     "belge_no": "",
     "eklenme": "2026-03-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rikrqmcpsd1774105334505",
@@ -28618,7 +28685,8 @@
     "belge_no": "1990/478",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "r612zxm2291774238794127",
@@ -29488,7 +29556,8 @@
     "belge_no": "1988/12945",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rvgp1omsqu1774238794127",
@@ -29505,7 +29574,8 @@
     "belge_no": "1988/12945",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rgodwukfa81774238794127",
@@ -30052,7 +30122,8 @@
     "belge_no": "",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "r5bgjw38ux1774238794127",
@@ -30725,7 +30796,8 @@
     "belge_no": "",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rp3lrcsws81774238794127",
@@ -31845,7 +31917,8 @@
     "belge_no": "WDPA-555624430",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rgmpjld9p11774238794128",
@@ -31862,7 +31935,8 @@
     "belge_no": "WDPA-555624431",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rgymmgn7rb1774238794128",
@@ -31879,7 +31953,8 @@
     "belge_no": "WDPA-555624432",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rphnd2sg9e1774238794128",
@@ -31896,7 +31971,8 @@
     "belge_no": "WDPA-555624434",
     "eklenme": "2026-03-23",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null
+    "alt_kategori": null,
+    "kaynak_link": ""
   },
   {
     "id": "rx9zy4hsd71774238794128",
@@ -49271,7 +49347,8 @@
     "belge_no": "",
     "eklenme": "2026-03-23",
     "kaynak": "Manuel",
-    "alt_kategori": ""
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rgjefh9hyj1774245658687",
@@ -50904,7 +50981,8 @@
     "belge_no": "",
     "eklenme": "2026-03-25",
     "kaynak": "Manuel",
-    "alt_kategori": "Kıyı İhlali"
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_link": ""
   },
   {
     "id": "rce5ky0msn1774451602543",
@@ -51169,7 +51247,8 @@
     "belge_no": "",
     "eklenme": "2026-03-26",
     "kaynak": "Manuel",
-    "alt_kategori": ""
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "r63gqjewgt1774498939751",
@@ -51187,7 +51266,8 @@
     "belge_no": "",
     "eklenme": "2026-03-26",
     "kaynak": "Manuel",
-    "alt_kategori": ""
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rz7iedkk431774498967975",
@@ -51205,7 +51285,8 @@
     "belge_no": "",
     "eklenme": "2026-03-26",
     "kaynak": "Manuel",
-    "alt_kategori": ""
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "r0j3e8w9x61774499003680",
@@ -51223,7 +51304,8 @@
     "belge_no": "",
     "eklenme": "2026-03-26",
     "kaynak": "Manuel",
-    "alt_kategori": ""
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "rxvkoojvob1774499195185",
@@ -52704,7 +52786,8 @@
     "belge_no": "",
     "eklenme": "2026-03-28",
     "kaynak": "Manuel",
-    "alt_kategori": ""
+    "alt_kategori": "",
+    "kaynak_link": ""
   },
   {
     "id": "ra8j4wtzwz1774676898151",
@@ -57168,5 +57251,257 @@
     "kaynak": "Manuel",
     "alt_kategori": "Atık Suçu/Kaçak Döküm",
     "kaynak_link": "https://medium.com/@yesilpolitikanotlari/cop31e-do%C4%9Fru-01-adana-avrupan%C4%B1n-%C3%A7%C3%B6p%C3%BC-%C3%A7ukurova-n%C4%B1n-kaderi-0651bf0a4888"
+  },
+  {
+    "id": "r7c4wxpurr1776704221812",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstanbul Boğazı'nda Gemi Kaynaklı Deniz Kirliliği",
+    "il": "İstanbul",
+    "aciklama": "Boğaz'da gemi kaynaklı yakıt sızıntısı tespit edildi. Deniz ekosistemi zarar gördü.",
+    "koordinatlar": {
+      "lat": 41.0082,
+      "lng": 28.9784
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "15.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Deniz Kirliliği",
+    "kaynak_link": "https://csb.gov.tr"
+  },
+  {
+    "id": "rh2i7wlt0x1776704221812",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa Uludağ Orman Alanı Kaçak Kesim",
+    "il": "Bursa",
+    "aciklama": "Uludağ Milli Parkı sınırında kaçak ağaç kesimi tespit edildi. Soruşturma başlatıldı.",
+    "koordinatlar": {
+      "lat": 40.1885,
+      "lng": 29.1244
+    },
+    "alan_ha": 25,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "13.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "kaynak_link": "https://ogm.gov.tr"
+  },
+  {
+    "id": "r3w7387wqy1776704221812",
+    "tip": "İklim Olayları",
+    "ad": "Mersin Orman Yangını",
+    "il": "Mersin",
+    "aciklama": "Erdemli ilçesinde çıkan orman yangını kontrol altına alınmaya çalışılıyor. 150 hektar alan etkilendi.",
+    "koordinatlar": {
+      "lat": 36.2012,
+      "lng": 35.3213
+    },
+    "alan_ha": 150,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "11.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Orman Yangını",
+    "kaynak_link": "https://ogm.gov.tr"
+  },
+  {
+    "id": "rtnescxhlp1776704221812",
+    "tip": "Ekolojik İhlal",
+    "ad": "İzmir Körfezi Endüstriyel Atık Dökümü",
+    "il": "İzmir",
+    "aciklama": "Körfez'e endüstriyel atık döken firma tespit edildi. Çevre kirliliği oluştu.",
+    "koordinatlar": {
+      "lat": 38.4192,
+      "lng": 27.1428
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "09.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Su Kirliliği",
+    "kaynak_link": "https://izmir.bel.tr"
+  },
+  {
+    "id": "r84cj4v8do1776704221812",
+    "tip": "Ekolojik İhlal",
+    "ad": "Antalya Kıyı Alanı Kaçak Dolgu",
+    "il": "Antalya",
+    "aciklama": "Kıyı kenar çizgisinde kaçak dolgu yapılması durduruldu. Çevre zarar görmüştü.",
+    "koordinatlar": {
+      "lat": 36.8969,
+      "lng": 30.7133
+    },
+    "alan_ha": 5,
+    "durum": "Durduruldu",
+    "belge_no": "",
+    "eklenme": "07.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_link": "https://csb.gov.tr"
+  },
+  {
+    "id": "rvlv1v6tm91776704221812",
+    "tip": "İklim Olayları",
+    "ad": "Ankara Sel Felaketi",
+    "il": "Ankara",
+    "aciklama": "Şiddetli yağışlar sonucu sel oluştu. Çevre ve altyapı zarar gördü.",
+    "koordinatlar": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "05.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Sel/Taşkın",
+    "kaynak_link": "https://afad.gov.tr"
+  },
+  {
+    "id": "rnr8jsr0a21776704221812",
+    "tip": "Ekolojik İhlal",
+    "ad": "Hatay Samandağ Kıyı Kirliliği",
+    "il": "Hatay",
+    "aciklama": "Samandağ kıyılarında plastik ve kimyasal atık kirliliği tespit edildi.",
+    "koordinatlar": {
+      "lat": 36.1612,
+      "lng": 36.2018
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "03.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Deniz Kirliliği",
+    "kaynak_link": "https://hatay.gov.tr"
+  },
+  {
+    "id": "rv9hfh81381776704221812",
+    "tip": "Ekolojik İhlal",
+    "ad": "Muğla Bodrum Yaban Hayatı İhlali",
+    "il": "Muğla",
+    "aciklama": "Caretta caretta yuvalarına zarar verilmesi tespit edildi. Sorumlular hakkında işlem başlatıldı.",
+    "koordinatlar": {
+      "lat": 36.8915,
+      "lng": 28.3665
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "01.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Yaban Hayatı Suçu",
+    "kaynak_link": "https://milliparklar.gov.tr"
+  },
+  {
+    "id": "r7b85zkvok1776704934558",
+    "tip": "İklim Olayları",
+    "ad": "İstanbul Şiddetli Fırtına",
+    "il": "İstanbul",
+    "aciklama": "İstanbul'da etkili olan şiddetli fırtına nedeniyle ağaçlar devrildi ve çatılar uçtu.",
+    "koordinatlar": {
+      "lat": 41.0082,
+      "lng": 28.9784
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "05.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Şiddetli Fırtına",
+    "kaynak_link": "https://mgm.gov.tr"
+  },
+  {
+    "id": "rh8qrtit8f1776704934558",
+    "tip": "İklim Olayları",
+    "ad": "Ankara Dolu Yağışı",
+    "il": "Ankara",
+    "aciklama": "Ankara'da etkili olan dolu yağışı araçlara ve tarım alanlarına zarar verdi.",
+    "koordinatlar": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "08.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Dolu",
+    "kaynak_link": "https://afad.gov.tr"
+  },
+  {
+    "id": "r5d903r2kf1776704934558",
+    "tip": "İklim Olayları",
+    "ad": "Hatay Sel Baskını",
+    "il": "Hatay",
+    "aciklama": "Hatay'da şiddetli yağışlar sonucu sel baskını yaşandı, birçok ev sular altında kaldı.",
+    "koordinatlar": {
+      "lat": 36.1612,
+      "lng": 36.2048
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "12.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Sel/Taşkın",
+    "kaynak_link": "https://afad.gov.tr"
+  },
+  {
+    "id": "rz4yr1ebco1776704934558",
+    "tip": "İklim Olayları",
+    "ad": "Antalya Orman Yangını",
+    "il": "Antalya",
+    "aciklama": "Antalya Manavgat'ta çıkan orman yangını 1500 hektar alanı etkiledi.",
+    "koordinatlar": {
+      "lat": 36.8969,
+      "lng": 30.7133
+    },
+    "alan_ha": 1500,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "15.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Orman Yangını",
+    "kaynak_link": "https://ogm.gov.tr"
+  },
+  {
+    "id": "rp1rfmtazz1776704934558",
+    "tip": "İklim Olayları",
+    "ad": "Kayseri Heyelan",
+    "il": "Kayseri",
+    "aciklama": "Kayseri Develi'de yoğun yağışlar sonucu heyelan meydana geldi, köy yolu kapandı.",
+    "koordinatlar": {
+      "lat": 38.7312,
+      "lng": 35.3213
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "18.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Heyelan",
+    "kaynak_link": "https://afad.gov.tr"
+  },
+  {
+    "id": "rqmbtjh40i1776704934558",
+    "tip": "İklim Olayları",
+    "ad": "İzmir Hortum",
+    "il": "İzmir",
+    "aciklama": "İzmir Çeşme'de deniz üzerinde oluşan hortum kıyıya yaklaştı, hasara neden oldu.",
+    "koordinatlar": {
+      "lat": 38.4237,
+      "lng": 27.1428
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "10.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Hortum",
+    "kaynak_link": "https://mgm.gov.tr"
   }
 ]
