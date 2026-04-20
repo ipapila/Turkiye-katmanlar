@@ -144,10 +144,6 @@ body.pkmode #map{cursor:crosshair !important;}
 #catModal{position:fixed;inset:0;background:rgba(0,0,0,.7);backdrop-filter:blur(5px);z-index:5000;display:none;align-items:center;justify-content:center;}
 .catModalContent{background:var(--bg2);border-radius:14px;width:400px;max-width:90vw;max-height:70vh;overflow:auto;padding:20px;}
 .catItem{display:flex;justify-content:space-between;align-items:center;padding:8px;border-bottom:1px solid var(--border);}
-/* Tarama modal özel stil */
-#scanOv .scan-chk-lbl{display:flex;align-items:center;gap:6px;padding:6px 10px;background:var(--bg3);border:1px solid var(--border);border-radius:8px;cursor:pointer;font-size:.78rem;color:var(--dim);transition:.15s;}
-#scanOv .scan-chk-lbl:hover{border-color:var(--borderh);color:var(--text);}
-#scanOv .scan-chk-lbl input{accent-color:var(--accent);}
 </style>
 </head>
 <body data-theme="dark">
@@ -202,7 +198,7 @@ body.pkmode #map{cursor:crosshair !important;}
         <button class="hbtn" id="rstbtn">🔄 Tümünü Sil</button>
       </div>
 
-      <!-- ── YENİ: Otomatik Tarama ── -->
+      <!-- Otomatik Tarama butonu - artık sadece uyarı veriyor -->
       <div class="sec admin-only" style="display:none">Otomatik Tarama</div>
       <div class="dtb admin-only" style="display:none">
         <button class="hbtn" id="scanbtn" style="flex:1;background:linear-gradient(135deg,rgba(102,126,234,.18),rgba(79,209,197,.18));border-color:var(--accent2);color:var(--accent);">🔍 Kaynak Tara</button>
@@ -239,80 +235,6 @@ body.pkmode #map{cursor:crosshair !important;}
 
 <!-- Kategori Silme Modalı -->
 <div id="catModal"><div class="catModalContent"><h3 style="margin-bottom:12px;">🗑️ Kategori Sil</h3><div id="catList"></div><div style="margin-top:16px;text-align:right;"><button class="bcn" onclick="closeCatModal()">Kapat</button></div></div></div>
-
-<!-- ── YENİ: Otomatik Tarama Modalı ── -->
-<div id="scanOv" style="position:fixed;inset:0;background:rgba(0,0,0,.78);backdrop-filter:blur(7px);z-index:4500;display:none;align-items:center;justify-content:center;">
-  <div style="background:var(--bg2);border:1px solid var(--borderh);border-radius:14px;width:640px;max-width:96vw;max-height:90vh;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 16px 60px rgba(0,0,0,.6);">
-    <div class="mhd" style="background:linear-gradient(135deg,rgba(102,126,234,.12),rgba(79,209,197,.08));border-bottom:1px solid var(--border);">
-      <h2 style="display:flex;align-items:center;gap:9px;"><span style="font-size:1.15rem">🔍</span> Otomatik Veri Tarama</h2>
-      <button class="mcls" onclick="closeScanModal()">✕</button>
-    </div>
-    <div class="mbd" style="display:flex;flex-direction:column;gap:16px;">
-
-      <!-- Kaynaklar -->
-      <div>
-        <div class="sec" style="margin-top:0;">Kaynaklar</div>
-        <div id="scanSources" style="display:grid;grid-template-columns:1fr 1fr;gap:6px;">
-          <label class="scan-chk-lbl"><input type="checkbox" value="resmigazete" checked> 📜 Resmî Gazete</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="ced" checked> 🏛️ ÇED Kararları</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="mapeg" checked> ⛏️ MAPEG (Maden)</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="epdk" checked> ⚡ EPDK (Enerji)</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="haberler" checked> 📰 Çevre Haberleri</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="nasa"> 🔥 NASA FIRMS (Yangın)</label>
-        </div>
-      </div>
-
-      <!-- Kategoriler -->
-      <div>
-        <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
-          <div class="sec" style="margin:0;flex:1;">Kategoriler</div>
-          <button onclick="scanSelAll(true)" style="background:none;border:none;color:var(--accent);font-size:.72rem;cursor:pointer;padding:2px 6px;">Tümü</button>
-          <button onclick="scanSelAll(false)" style="background:none;border:none;color:var(--muted);font-size:.72rem;cursor:pointer;padding:2px 6px;">Temizle</button>
-        </div>
-        <div id="scanCats" style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:5px;">
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Acele Kamulaştırma" checked> ⚡ Acele Kamulaştırma</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Maden Ocağı" checked> ⛏️ Maden Ocağı</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Ekolojik İhlal" checked> ⚠️ Ekolojik İhlal</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="RES" checked> 💨 RES</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="GES" checked> ☀️ GES</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="HES" checked> 💧 HES</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Jeotermal"> 🌋 Jeotermal</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Termik Reaktör"> 🔥 Termik Reaktör</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="İklim Olayları"> 🌡️ İklim Olayları</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Kıyı İhlalleri"> 🌊 Kıyı İhlalleri</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Taş-Mermer Ocağı"> 🪨 Taş-Mermer Ocağı</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Orman Alanı"> 🌳 Orman Alanı</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Sulak Alan"> 🦢 Sulak Alan</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Özel Çevre Koruma Alanı"> 🛡️ Özel Koruma</label>
-          <label class="scan-chk-lbl" style="font-size:.72rem;padding:5px 8px;"><input type="checkbox" value="Kültür Varlığı"> 🏛️ Kültür Varlığı</label>
-        </div>
-      </div>
-
-      <!-- Tarih -->
-      <div>
-        <div class="sec" style="margin-top:0;">Tarih Aralığı</div>
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
-          <div><div style="font-size:.65rem;color:var(--muted);margin-bottom:3px;">Başlangıç</div>
-            <input type="date" id="scanStartDate" style="width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:7px 8px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.78rem;outline:none;cursor:pointer;"/></div>
-          <div><div style="font-size:.65rem;color:var(--muted);margin-bottom:3px;">Bitiş</div>
-            <input type="date" id="scanEndDate" style="width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:7px 8px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.78rem;outline:none;cursor:pointer;"/></div>
-        </div>
-      </div>
-
-      <!-- Log -->
-      <div id="scanLogArea" style="display:none;">
-        <div class="sec" style="margin-top:0;">İşlem Logu</div>
-        <div style="background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:10px 12px;max-height:110px;overflow-y:auto;">
-          <div id="scanLog" style="font-size:.72rem;color:var(--dim);font-family:monospace;line-height:1.9;"></div>
-        </div>
-      </div>
-    </div>
-    <div class="mft">
-      <button class="bcn" onclick="closeScanModal()">İptal</button>
-      <button class="bsv" id="scanRunBtn" onclick="runScan()">🔍 Tara</button>
-    </div>
-  </div>
-</div>
 
 <!-- Confirm Modal -->
 <div id="cov"><div id="cbox"><h3>⚠️ Onay</h3><p id="ctxt"></p><div class="cbtns"><button class="bcn" id="ccan">İptal</button><button class="bdng" id="cok">Onayla</button></div></div></div>
@@ -547,7 +469,6 @@ const SAMPLE_DATA=migrateCategories([
   {id:uid(),tip:'Milli Park',ad:'Belgrad Ormanı',il:'İstanbul',ilce:'Sarıyer',alan_ha:5442,durum:'Aktif',koordinatlar:{lat:41.1844,lng:28.9795},eklenme:tod(),alt_kategori:'',kaynak_link:'',sabit:true}
 ]);
 
-// ── DÜZELTME 1: load() — GitHub + yerel veriyi birleştir ──────────────────
 async function load(){
   try{
     const res=await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${repoPath}?t=${Date.now()}`);
@@ -556,7 +477,6 @@ async function load(){
       if(Array.isArray(remote)&&remote.length){
         let fixed=fixCoords(remote);
         fixed=migrateCategories(fixed);
-        // Yerel depodan GitHub'da olmayan kayıtları koru
         const localRaw=localStorage.getItem(SK);
         if(localRaw){
           try{
@@ -734,7 +654,6 @@ function doEdit(id){const r=data.find(d=>d.id===id);if(!r)return;editId=id;docum
 function closeMod(){document.getElementById('mov').classList.remove('open');if(pkMode)exitPk();editId=null;}
 function clrF(){['fad','ftip','faltkat','fil2','falan','fblg','fkyn','fkaynak_link','faclm','flat','flng'].forEach(i=>document.getElementById(i).value='');document.getElementById('fdrm2').value='Aktif';document.getElementById('filce2').innerHTML='<option value="">— İlçe Seçin —</option>';}
 
-// ── DÜZELTME 2: savRec() — sabit:true + GitHub ipucu ──────────────────────
 function savRec(){
   const ad=document.getElementById('fad').value.trim();
   const tip=document.getElementById('ftip').value;
@@ -912,121 +831,21 @@ function closeAdminMod(){document.getElementById('adminov').style.display='none'
 function adminLogout(){isAdmin=false;updateAdminUI();ntf('Çıkış yapıldı','ok');}
 function updateAdminUI(){const btn=document.getElementById('adminbtn');if(isAdmin){btn.textContent='🔓 Çıkış';btn.style.borderColor='var(--success)';}else{btn.textContent='🔒 Admin';btn.style.borderColor='';}document.querySelectorAll('.admin-only').forEach(el=>el.style.display=isAdmin?'':'none');}
 
-// ── YENİ: Otomatik Tarama Fonksiyonları ──────────────────────────────────
+// ========== TARAMA ÖZELLİĞİ DEVRE DIŞI ==========
+// Artık doğrudan tarayıcıda çalışmayacağı için kullanıcıya yönlendirme mesajı veriyoruz.
 function openScanModal(){
-  const end=new Date();
-  const start=new Date(end.getTime()-14*24*60*60*1000);
-  document.getElementById('scanStartDate').value=start.toISOString().split('T')[0];
-  document.getElementById('scanEndDate').value=end.toISOString().split('T')[0];
-  document.getElementById('scanLogArea').style.display='none';
-  document.getElementById('scanLog').innerHTML='';
-  document.getElementById('scanRunBtn').disabled=false;
-  document.getElementById('scanRunBtn').textContent='🔍 Tara';
-  document.getElementById('scanOv').style.display='flex';
+  ntf('🔍 Otomatik tarama özelliği doğrudan tarayıcıda çalışmamaktadır. Lütfen verilerinizi manuel olarak girin veya JSON/GeoJSON dosyası yükleyin.', 'err');
+  // İsteğe bağlı: Modal açmak yerine sadece uyarı verip kapatıyoruz.
+  // Eğer eski modal'ı göstermek istemiyorsanız, hiçbir şey yapmayın.
 }
-function closeScanModal(){document.getElementById('scanOv').style.display='none';}
-function scanSelAll(val){document.querySelectorAll('#scanCats input[type=checkbox]').forEach(cb=>cb.checked=val);}
-function addScanLog(msg){
-  const log=document.getElementById('scanLog');
-  const time=new Date().toLocaleTimeString('tr-TR');
-  log.innerHTML+=`<div>[${time}] ${msg}</div>`;
-  log.scrollTop=log.scrollHeight;
-  document.getElementById('scanLogArea').style.display='block';
-}
-
+// runScan fonksiyonunu tamamen pasifleştir
 async function runScan(){
-  const selectedSources=[...document.querySelectorAll('#scanSources input:checked')].map(el=>el.value);
-  const selectedCats=[...document.querySelectorAll('#scanCats input:checked')].map(el=>el.value);
-  const startDate=document.getElementById('scanStartDate').value;
-  const endDate=document.getElementById('scanEndDate').value;
-
-  if(!selectedSources.length){ntf('En az bir kaynak seçin','err');return;}
-  if(!selectedCats.length){ntf('En az bir kategori seçin','err');return;}
-
-  document.getElementById('scanRunBtn').disabled=true;
-  document.getElementById('scanRunBtn').textContent='⏳ Taranıyor...';
-  document.getElementById('scanLog').innerHTML='';
-
-  const sourceMap={
-    resmigazete:'Resmî Gazete (resmigazete.gov.tr) — acele kamulaştırma, maden ruhsatı, enerji lisans kararları, orman tahsisleri',
-    ced:'ÇED Kararları (csb.gov.tr/ced) — çevresel etki değerlendirme olumlu/olumsuz kararları',
-    mapeg:'MAPEG (mapeg.gov.tr) — maden arama ve işletme ruhsatları',
-    epdk:'EPDK (epdk.gov.tr) — RES, GES, HES, JES enerji üretim lisansları',
-    haberler:'Güncel çevre ihlali ve ekoloji haberleri (bianet.org, gazeteduvar.com.tr, diken.com.tr, ekolojimagazin.com)',
-    nasa:'NASA FIRMS — Türkiye aktif yangın ve ısı anomalisi noktaları'
-  };
-  const srcDesc=selectedSources.map(s=>sourceMap[s]||s).join('\n- ');
-  const catDesc=selectedCats.join(', ');
-  const today=tod();
-
-  const prompt=`Sen bir Türkiye ekoloji ve çevre veri tarayıcısısın. Aşağıdaki kaynaklarda ${startDate} ile ${endDate} tarihleri arasında yayınlanmış verileri web araması yaparak tara:
-- ${srcDesc}
-
-Yalnızca şu kategorilere ait verileri bul: ${catDesc}
-
-Her bulgu için web araması yaparak doğrula. Bulduğun verileri YALNIZCA geçerli bir JSON dizisi olarak döndür. Hiçbir açıklama, markdown backtick veya ek metin yazma — sadece [ ... ] dizisi:
-
-[{"id":"r000","tip":"<kategori>","ad":"Proje adı","il":"İl","ilce":"İlçe","koordinatlar":{"lat":39.0,"lng":35.0},"alan_ha":0,"durum":"Aktif","belge_no":"","eklenme":"${today}","kaynak":"Kaynak adı","kaynak_link":"https://...","aciklama":"1-2 cümle özet","alt_kategori":"","sabit":true}]
-
-Geçerli tip değerleri (birebir bu yazımı kullan):
-Ekolojik İhlal, İklim Olayları, Acele Kamulaştırma, Kültür Varlığı, Milli Park, Özel Çevre Koruma Alanı, Maden Ocağı, Taş-Mermer Ocağı, Termik Reaktör, HES, GES, RES, Nükleer Enerji, Jeotermal, Orman Alanı, Sulak Alan, Kıyı İhlalleri
-
-Koordinatlar için il veya ilçe merkezini kullan. Bilinmiyorsa {"lat":0,"lng":0} yaz.
-En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri ekle.`;
-
-  addScanLog('🌐 Claude API\'ye bağlanılıyor...');
-
-  try{
-    const response=await fetch('https://api.anthropic.com/v1/messages',{
-      method:'POST',
-      headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({
-        model:'claude-sonnet-4-20250514',
-        max_tokens:8000,
-        tools:[{'type':'web_search_20250305','name':'web_search'}],
-        messages:[{role:'user',content:prompt}]
-      })
-    });
-
-    if(!response.ok){
-      const errTxt=await response.text();
-      throw new Error(`API ${response.status}: ${errTxt.substring(0,200)}`);
-    }
-
-    const apiData=await response.json();
-    addScanLog('✅ Yanıt alındı — işleniyor...');
-
-    // Yapılan aramaları logla
-    const searches=(apiData.content||[]).filter(b=>b.type==='tool_use'&&b.name==='web_search');
-    searches.forEach(s=>addScanLog(`🔍 Arama: "${s.input?.query||''}"`));
-
-    // Metin bloklarından JSON çıkar
-    const texts=(apiData.content||[]).filter(b=>b.type==='text').map(b=>b.text).join('');
-    // JSON dizisi bul
-    const jsonMatch=texts.match(/\[\s*\{[\s\S]*?\}\s*\]/);
-    if(!jsonMatch) throw new Error('Yanıtta JSON dizisi bulunamadı. Başka kaynaklar veya kategoriler deneyin.');
-
-    let records=JSON.parse(jsonMatch[0]);
-    if(!Array.isArray(records)||!records.length) throw new Error('Tarama sonuç döndürmedi.');
-
-    // ID yenile ve sabit:true garantile
-    records=records.map(r=>({...r,id:uid(),sabit:true,eklenme:r.eklenme||today}));
-
-    addScanLog(`✅ ${records.length} kayıt bulundu! Kategori eşleştirme açılıyor...`);
-    ntf(`${records.length} kayıt bulundu`,'ok');
-
-    setTimeout(()=>{
-      closeScanModal();
-      showCatMap(records);
-    },600);
-
-  }catch(err){
-    addScanLog(`❌ Hata: ${err.message}`);
-    ntf(`Tarama hatası: ${err.message}`,'err');
-    document.getElementById('scanRunBtn').disabled=false;
-    document.getElementById('scanRunBtn').textContent='🔍 Tara';
-  }
+  ntf('Tarama özelliği kullanılamıyor. Veri eklemek için "Yeni Alan Ekle" butonunu veya JSON/GeoJSON yükleme seçeneğini kullanın.', 'err');
 }
+// Diğer yardımcı fonksiyonlar (scanSelAll vb.) çalışmayacak, ancak hata vermemeleri için boş fonksiyon olarak tanımlayalım.
+function scanSelAll(val){}
+function closeScanModal(){}
+// ========== TARAMA SONU ==========
 
 // ---------- EVENTLER ----------
 let dark=true;
