@@ -977,16 +977,16 @@ En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri 
   addScanLog('🌐 Claude API\'ye bağlanılıyor...');
 
   try{
-    const response=await fetch('https://api.anthropic.com/v1/messages',{
-      method:'POST',
-      headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({
-        model:'claude-sonnet-4-20250514',
-        max_tokens:8000,
-        tools:[{'type':'web_search_20250305','name':'web_search'}],
-        messages:[{role:'user',content:prompt}]
-      })
-    });
+const response = await fetch("https://api.anthropic.com/v1/messages", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "x-api-key": apiKey,
+    "anthropic-version": "2023-06-01",
+    "anthropic-dangerous-direct-browser-access": "true"  // ← BU SATIR EKSİK
+  },
+  body: JSON.stringify({ ... })
+});
 
     if(!response.ok){
       const errTxt=await response.text();
