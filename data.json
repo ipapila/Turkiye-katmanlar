@@ -57729,18 +57729,20 @@
     "tip": "Orman Alanı",
     "ad": "Hatay Orman Yangını Müdahalesi",
     "il": "Hatay",
+    "ilce": "Antakya",
     "aciklama": "Samandağ'da çıkan orman yangınında 150 hektar alan zarar gördü, söndürme çalışmaları sürüyor.",
     "koordinatlar": {
-      "lat": 36.1612,
-      "lng": 36.2012
+      "lat": 36.261992,
+      "lng": 36.013184
     },
     "alan_ha": 150,
     "durum": "Devam Ediyor",
     "belge_no": "",
-    "eklenme": "21.04.2026",
+    "eklenme": "2026-04-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
-    "kaynak_link": "https://ogm.gov.tr"
+    "kaynak_link": "https://ogm.gov.tr",
+    "sabit": true
   },
   {
     "id": "rqk0877lvb1776745186413",
@@ -57785,18 +57787,20 @@
     "tip": "GES",
     "ad": "Mersin Güneş Enerji Santrali Kurulumu",
     "il": "Mersin",
+    "ilce": "Akdeniz",
     "aciklama": "Silifke'de 50 MW kapasiteli güneş enerji santrali kurulum çalışmaları devam ediyor.",
     "koordinatlar": {
-      "lat": 36.7955,
-      "lng": 35.3213
+      "lat": 36.958671,
+      "lng": 34.683838
     },
     "alan_ha": 200,
     "durum": "Devam Ediyor",
     "belge_no": "",
-    "eklenme": "20.04.2026",
+    "eklenme": "2026-04-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
-    "kaynak_link": "https://enerji.gov.tr"
+    "kaynak_link": "https://enerji.gov.tr",
+    "sabit": true
   },
   {
     "id": "rpojmp1j1p1776747008085",
@@ -57897,5 +57901,95 @@
     "aciklama": "TEİAŞ her yıl 1 Nisan'a kadar rüzgar enerjisi için sisteme bağlanabilecek kapasiteleri açıklıyor.",
     "alt_kategori": "",
     "sabit": true
+  },
+  {
+    "id": "rxdyfi9t781776748798749",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Kanal İstanbul Güzergahı Acele Kamulaştırma",
+    "il": "İstanbul",
+    "aciklama": "Kanal İstanbul projesi kapsamında Küçükçekmece-Arnavutköy güzergahında acele kamulaştırma kararı alındı.",
+    "koordinatlar": {
+      "lat": 41.0082,
+      "lng": 28.9784
+    },
+    "alan_ha": 2500,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "11.12.2024",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.cumhuriyet.com.tr"
+  },
+  {
+    "id": "rdtrwq1wb11776748798749",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ankara-Niğde Otoyolu Acele Kamulaştırma",
+    "il": "Ankara",
+    "aciklama": "Ankara-Niğde otoyolu projesi için Polatlı ilçesinde tarım arazilerinin acele kamulaştırılması kararı verildi.",
+    "koordinatlar": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "alan_ha": 850,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "09.12.2024",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.hurriyet.com.tr"
+  },
+  {
+    "id": "rbmq5ruiqr1776748798749",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Hatay Havalimanı Genişletme Acele Kamulaştırma",
+    "il": "Hatay",
+    "aciklama": "Hatay Havalimanı genişletme projesi kapsamında Reyhanlı'da zeytinlik alanların acele kamulaştırılması planlanıyor.",
+    "koordinatlar": {
+      "lat": 36.1612,
+      "lng": 36.2014
+    },
+    "alan_ha": 450,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "08.12.2024",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.sabah.com.tr"
+  },
+  {
+    "id": "rradm8nkvr1776748798749",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Antalya Çevreyolu Acele Kamulaştırma",
+    "il": "Antalya",
+    "aciklama": "Antalya çevreyolu projesi için Aksu ilçesinde orman alanlarının acele kamulaştırma süreci başlatıldı.",
+    "koordinatlar": {
+      "lat": 36.8969,
+      "lng": 30.7133
+    },
+    "alan_ha": 320,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "10.12.2024",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.milliyet.com.tr"
+  },
+  {
+    "id": "rezreingab1776748798749",
+    "tip": "Acele Kamulaştırma",
+    "ad": "İzmir-Manisa Hızlı Tren Acele Kamulaştırma",
+    "il": "İzmir",
+    "aciklama": "İzmir-Manisa hızlı tren projesi için Menemen'de sulak alan yakınlarında acele kamulaştırma kararı alındı.",
+    "koordinatlar": {
+      "lat": 38.4237,
+      "lng": 27.1428
+    },
+    "alan_ha": 680,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "07.12.2024",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.sozcu.com.tr"
   }
 ]
