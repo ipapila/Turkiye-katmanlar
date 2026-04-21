@@ -57689,29 +57689,31 @@
     "tip": "Ekolojik İhlal",
     "ad": "Ankara Çayı Endüstriyel Atık Dökümü",
     "il": "Ankara",
+    "ilce": "Etimesgut",
     "aciklama": "Etimesgut'ta bir fabrikadan Ankara Çayı'na endüstriyel atık boşaltıldığı tespit edildi.",
     "koordinatlar": {
-      "lat": 39.9334,
-      "lng": 32.8597
+      "lat": 39.962912,
+      "lng": 32.635574
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "20.04.2026",
+    "eklenme": "2026-04-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Endüstriyel Kirlilik",
-    "kaynak_link": "https://csb.gov.tr"
+    "alt_kategori": "",
+    "kaynak_link": "https://csb.gov.tr",
+    "sabit": true
   },
   {
     "id": "rvez8la7kx1776745186413",
     "tip": "İklim Olayları",
     "ad": "İstanbul Karadeniz Kıyısında Şiddetli Fırtına",
     "il": "İstanbul",
-    "ilce": "",
+    "ilce": "Beykoz",
     "aciklama": "Sarıyer sahilinde 80 km/h hızında rüzgar ve 3 metre dalga yüksekliği kaydedildi.",
     "koordinatlar": {
-      "lat": 41.257162,
-      "lng": 29.295044
+      "lat": 41.22231,
+      "lng": 29.274445
     },
     "alan_ha": 0,
     "durum": "Aktif",
