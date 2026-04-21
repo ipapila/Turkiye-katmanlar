@@ -57683,5 +57683,113 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": "https://tureb.com.tr"
+  },
+  {
+    "id": "rj4hb8475i1776745186413",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ankara Çayı Endüstriyel Atık Dökümü",
+    "il": "Ankara",
+    "aciklama": "Etimesgut'ta bir fabrikadan Ankara Çayı'na endüstriyel atık boşaltıldığı tespit edildi.",
+    "koordinatlar": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "20.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Endüstriyel Kirlilik",
+    "kaynak_link": "https://csb.gov.tr"
+  },
+  {
+    "id": "rvez8la7kx1776745186413",
+    "tip": "İklim Olayları",
+    "ad": "İstanbul Karadeniz Kıyısında Şiddetli Fırtına",
+    "il": "İstanbul",
+    "aciklama": "Sarıyer sahilinde 80 km/h hızında rüzgar ve 3 metre dalga yüksekliği kaydedildi.",
+    "koordinatlar": {
+      "lat": 41.0082,
+      "lng": 29.0875
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "20.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Şiddetli Fırtına",
+    "kaynak_link": "https://mgm.gov.tr"
+  },
+  {
+    "id": "rkn3lalf2i1776745186413",
+    "tip": "Orman Alanı",
+    "ad": "Hatay Orman Yangını Müdahalesi",
+    "il": "Hatay",
+    "aciklama": "Samandağ'da çıkan orman yangınında 150 hektar alan zarar gördü, söndürme çalışmaları sürüyor.",
+    "koordinatlar": {
+      "lat": 36.1612,
+      "lng": 36.2012
+    },
+    "alan_ha": 150,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "21.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://ogm.gov.tr"
+  },
+  {
+    "id": "rqk0877lvb1776745186413",
+    "tip": "Kıyı İhlalleri",
+    "ad": "İzmir Çeşme Kıyı Dolgusu",
+    "il": "İzmir",
+    "aciklama": "Çeşme'de ruhsatsız kıyı dolgusu yapıldığı tespit edildi, işlem başlatıldı.",
+    "koordinatlar": {
+      "lat": 38.4237,
+      "lng": 27.1428
+    },
+    "alan_ha": 25,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "20.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://csb.gov.tr"
+  },
+  {
+    "id": "rpinxkxb4p1776745186413",
+    "tip": "Maden Ocağı",
+    "ad": "Antalya Kemer Maden Ocağı Genişletme",
+    "il": "Antalya",
+    "aciklama": "Kemer'deki maden ocağı için genişletme planı hazırlandı, çevresel etki değerlendirmesi sürüyor.",
+    "koordinatlar": {
+      "lat": 36.8969,
+      "lng": 30.7133
+    },
+    "alan_ha": 80,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "21.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://enerji.gov.tr"
+  },
+  {
+    "id": "r42tom010h1776745186413",
+    "tip": "GES",
+    "ad": "Mersin Güneş Enerji Santrali Kurulumu",
+    "il": "Mersin",
+    "aciklama": "Silifke'de 50 MW kapasiteli güneş enerji santrali kurulum çalışmaları devam ediyor.",
+    "koordinatlar": {
+      "lat": 36.7955,
+      "lng": 35.3213
+    },
+    "alan_ha": 200,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "20.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://enerji.gov.tr"
   }
 ]
