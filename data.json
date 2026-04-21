@@ -57707,18 +57707,20 @@
     "tip": "İklim Olayları",
     "ad": "İstanbul Karadeniz Kıyısında Şiddetli Fırtına",
     "il": "İstanbul",
+    "ilce": "",
     "aciklama": "Sarıyer sahilinde 80 km/h hızında rüzgar ve 3 metre dalga yüksekliği kaydedildi.",
     "koordinatlar": {
-      "lat": 41.0082,
-      "lng": 29.0875
+      "lat": 41.257162,
+      "lng": 29.295044
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "20.04.2026",
+    "eklenme": "2026-04-21",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Şiddetli Fırtına",
-    "kaynak_link": "https://mgm.gov.tr"
+    "alt_kategori": "",
+    "kaynak_link": "https://mgm.gov.tr",
+    "sabit": true
   },
   {
     "id": "rkn3lalf2i1776745186413",
