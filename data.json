@@ -57761,18 +57761,20 @@
     "tip": "Maden Ocağı",
     "ad": "Antalya Kemer Maden Ocağı Genişletme",
     "il": "Antalya",
+    "ilce": "Kemer",
     "aciklama": "Kemer'deki maden ocağı için genişletme planı hazırlandı, çevresel etki değerlendirmesi sürüyor.",
     "koordinatlar": {
-      "lat": 36.8969,
-      "lng": 30.7133
+      "lat": 36.610016,
+      "lng": 30.531006
     },
     "alan_ha": 80,
     "durum": "Planlama",
     "belge_no": "",
-    "eklenme": "21.04.2026",
+    "eklenme": "2026-04-21",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
-    "kaynak_link": "https://enerji.gov.tr"
+    "kaynak_link": "https://enerji.gov.tr",
+    "sabit": true
   },
   {
     "id": "r42tom010h1776745186413",
