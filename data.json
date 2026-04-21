@@ -57991,5 +57991,77 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": "https://www.sozcu.com.tr"
+  },
+  {
+    "id": "rxmevjd8kb1776787275245",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Kille Koyu Yat Bağlama İskelesi Projesi",
+    "il": "Muğla",
+    "aciklama": "186 yat kapasiteli iskele projesi için ÇED süreci başlatılan Kille Koyu'nda vatandaşlar insan zinciri oluşturarak protestoda bulundu.",
+    "koordinatlar": {
+      "lat": 36.82,
+      "lng": 28.85
+    },
+    "alan_ha": 5,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "21.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/cevre/dalaman-da-yat-baglama-iskelesine-protesto-insan-zinciri-olusturuldu-2461528"
+  },
+  {
+    "id": "r2rospzxx31776787275245",
+    "tip": "Maden Ocağı",
+    "ad": "Zonguldak Kaçak Maden Ocakları İmha Edildi",
+    "il": "Zonguldak",
+    "aciklama": "İl Emniyet ve Jandarma ekiplerince tespit edilen 7 ruhsatsız maden ocağı kapatılarak TTK ekiplerince imha edildi.",
+    "koordinatlar": {
+      "lat": 41.45,
+      "lng": 31.8
+    },
+    "alan_ha": 0,
+    "durum": "İptal",
+    "belge_no": "",
+    "eklenme": "21.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://anlatilaninotesi.com.tr/20251215/zonguldakta-ruhsatsiz-isletilen-7-maden-ocagi-kapatilarak-imha-edildi-1101826881.html"
+  },
+  {
+    "id": "rcms0sq5rk1776787275245",
+    "tip": "Ekolojik İhlal",
+    "ad": "İliç Maden Faciası Davası",
+    "il": "Erzincan",
+    "aciklama": "9 işçinin yaşamını yitirdiği maden faciası davası kapsamında savcı 12 sanığa 22 yıl 6'şar ay, 1 sanığa 24 yıl hapis cezası talep etti.",
+    "koordinatlar": {
+      "lat": 39.85,
+      "lng": 38.2
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "21.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Maden Suçu",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/turkiye/ilic-davasinda-12-saniga-22-yil-6-sar-ay-1-saniga-24-yil-hapis-istendi-2493193"
+  },
+  {
+    "id": "r9fsrfcz1k1776787275245",
+    "tip": "Ekolojik İhlal",
+    "ad": "Doruk Madencilik İşçileri Gözaltı",
+    "il": "Ankara",
+    "aciklama": "Haklarını alamadıkları için Eskişehir'den Ankara'ya yürüyen Bağımsız Maden-İş üyesi işçiler gözaltına alındı.",
+    "koordinatlar": {
+      "lat": 39.92,
+      "lng": 32.85
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "21.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "İşçi Hakları Suçu",
+    "kaynak_link": "https://www.haberler.com/guncel/madenciler-ankara-da-gozaltina-alindi-tkp-tepki-gosterdi-19767994-haberi/"
   }
 ]
