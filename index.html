@@ -980,7 +980,7 @@ En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri 
 // API anahtarını al
 let anthropicKey = sessionStorage.getItem('anthropic_key');
 if (!anthropicKey) {
-  anthropicKey = prompt('Anthropic API anahtarınızı girin (sk-ant-...):');
+  anthropicKey = window.prompt('Anthropic API anahtarınızı girin (sk-ant-...):');
   if (!anthropicKey) { 
     addScanLog('❌ API anahtarı girilmedi.'); 
     document.getElementById('scanRunBtn').disabled = false;
