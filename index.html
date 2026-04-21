@@ -584,7 +584,7 @@ async function load(){
     ntf(`${data.length} kayıt yüklendi`,'ok');renderAll();
   }
 }
-function saveLocal(){localStorage.setItem(SK,JSON.stringify(data));ntf('Yerel kaydedildi','ok');}
+function saveLocal(){localStorage.setItem(SK,JSON.stringify(data));ntf('Yerel kaydedildi','ok');if(githubToken)syncToGitHub();}
 function exportJSON(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));a.download=`turkiye-alan-${tod()}.json`;a.click();ntf('JSON indirildi','ok');}
 function exportGeoJSON(){const features=data.filter(r=>r.koordinatlar?.lat).map(r=>({type:'Feature',properties:{...r,koordinatlar:undefined},geometry:{type:'Point',coordinates:[r.koordinatlar.lng,r.koordinatlar.lat]}}));const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify({type:'FeatureCollection',features},null,2)],{type:'application/geo+json'}));a.download=`turkiye-alan-${tod()}.geojson`;a.click();ntf('GeoJSON indirildi','ok');}
 async function syncToGitHub(){
