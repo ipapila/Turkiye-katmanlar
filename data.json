@@ -57791,5 +57791,105 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": "https://enerji.gov.tr"
+  },
+  {
+    "id": "rpojmp1j1p1776747008085",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ordu Gölköy Sosyal Konut Projesi",
+    "il": "Ordu",
+    "ilce": "Gölköy",
+    "koordinatlar": {
+      "lat": 40.6936,
+      "lng": 37.6171
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11148",
+    "eklenme": "2026-04-03",
+    "kaynak": "Resmi Gazete",
+    "kaynak_link": "https://www.resmigazete.gov.tr/03.04.2026",
+    "aciklama": "Toplu Konut İdaresi Başkanlığı tarafından sosyal konut projesinin gerçekleştirilmesi amacıyla acele kamulaştırma.",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "ripvgsquwi1776747008085",
+    "tip": "Maden Ocağı",
+    "ad": "Diyarbakır Çınar Şükürlü Petrol Kuyusu",
+    "il": "Diyarbakır",
+    "ilce": "Çınar",
+    "koordinatlar": {
+      "lat": 37.3139,
+      "lng": 40.4306
+    },
+    "alan_ha": 1.5,
+    "durum": "Aktif",
+    "belge_no": "11036",
+    "eklenme": "2026-04-12",
+    "kaynak": "Resmi Gazete",
+    "kaynak_link": "https://resmigazete.gov.tr/12.03.2026",
+    "aciklama": "TPO petrol arama ruhsatı kapsamında Şükürlü-5 kuyusu lokasyon sahası yapımı için acele kamulaştırma.",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rhmhdyb7711776747008085",
+    "tip": "Ekolojik İhlal",
+    "ad": "Akbelen Ormanı Direnişi",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "koordinatlar": {
+      "lat": 37.3167,
+      "lng": 27.7833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "Bianet",
+    "kaynak_link": "https://bianet.org/haber/esra-isik-in-tutuklanmasina-karsi-ortak-ses-iktidar-yasam-savunucularini-hedef-aliyor-318241",
+    "aciklama": "Yaşam savunucusu Esra Işık'ın tutuklanması üzerine ekoloji örgütlerinin ortak tepkisi. Termik santral için orman yok ediliyor.",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r2146myre41776747008085",
+    "tip": "Ekolojik İhlal",
+    "ad": "Diyarbakır ÇED Olumlu Kararı",
+    "il": "Diyarbakır",
+    "ilce": "Bağlar",
+    "koordinatlar": {
+      "lat": 37.9144,
+      "lng": 40.2306
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-07",
+    "kaynak": "Çevre Şehircilik İl Müdürlüğü",
+    "kaynak_link": "https://diyarbakir.csb.gov.tr/",
+    "aciklama": "Diyarbakır Bağlar İlçesi Topraktaş Mahallesi için ÇED olumlu kararı verildi.",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r4tsohj4t41776747008085",
+    "tip": "RES",
+    "ad": "2026 Yılı RES Önlisans Başvuruları",
+    "il": "Çeşitli",
+    "ilce": "Çeşitli",
+    "koordinatlar": {
+      "lat": 39,
+      "lng": 35
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "EPDK",
+    "kaynak_link": "https://www.epdk.gov.tr/Detay/Icerik/21-3/lisans-islemleri-basvuru-prosedurleri",
+    "aciklama": "TEİAŞ her yıl 1 Nisan'a kadar rüzgar enerjisi için sisteme bağlanabilecek kapasiteleri açıklıyor.",
+    "alt_kategori": "",
+    "sabit": true
   }
 ]
