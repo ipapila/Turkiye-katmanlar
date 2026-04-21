@@ -359,7 +359,7 @@ let data=[], mkrs={}, lgs={}, vis={}, editId=null, pkMode=false, pkCb=null, conf
 let fTxt='', fIl='', fIlce='', fDrm='';
 let fBasTarih='', fBitTarih='', fSadeceYeni=false;
 let isAdmin=false, pendingAdminAction=null;
-let githubToken = sessionStorage.getItem('github_token') || null;
+let githubToken = localStorage.getItem('github_token') || null;
 let repoOwner = 'ipapila', repoName = 'Turkiye-katmanlar', repoPath = 'data.json';
 
 const ILCELER = {
@@ -588,7 +588,7 @@ function saveLocal(){localStorage.setItem(SK,JSON.stringify(data));ntf('Yerel ka
 function exportJSON(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));a.download=`turkiye-alan-${tod()}.json`;a.click();ntf('JSON indirildi','ok');}
 function exportGeoJSON(){const features=data.filter(r=>r.koordinatlar?.lat).map(r=>({type:'Feature',properties:{...r,koordinatlar:undefined},geometry:{type:'Point',coordinates:[r.koordinatlar.lng,r.koordinatlar.lat]}}));const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify({type:'FeatureCollection',features},null,2)],{type:'application/geo+json'}));a.download=`turkiye-alan-${tod()}.geojson`;a.click();ntf('GeoJSON indirildi','ok');}
 async function syncToGitHub(){
-  if(!githubToken){const token=prompt('GitHub kişisel erişim tokenı girin:');if(!token)return;githubToken=token;sessionStorage.setItem('github_token',githubToken);}
+  if(!githubToken){const token=prompt('GitHub kişisel erişim tokenı girin:');if(!token)return;githubToken=token;localStorage.setItem('github_token',githubToken);}
   const apiUrl=`https://api.github.com/repos/${repoOwner}/${repoName}/contents/${repoPath}`;
   let sha=null;
   try{const getRes=await fetch(apiUrl,{headers:{Authorization:`Bearer ${githubToken}`}});if(getRes.ok){const info=await getRes.json();sha=info.sha;}else if(getRes.status!==404)throw new Error(`HTTP ${getRes.status}`);}catch(e){ntf(`SHA alınamadı: ${e.message}`,'err');return;}
@@ -978,7 +978,7 @@ En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri 
 
   try{
 // API anahtarını al
-let anthropicKey = sessionStorage.getItem('anthropic_key');
+let anthropicKey = localStorage.getItem('anthropic_key');
 if (!anthropicKey) {
   anthropicKey = window.prompt('Anthropic API anahtarınızı girin (sk-ant-...):');
   if (!anthropicKey) { 
@@ -987,7 +987,7 @@ if (!anthropicKey) {
     document.getElementById('scanRunBtn').textContent = '🔍 Tara';
     return; 
   }
-  sessionStorage.setItem('anthropic_key', anthropicKey);
+  localStorage.setItem('anthropic_key', anthropicKey);;
 }
 
 const response = await fetch("https://api.anthropic.com/v1/messages", {
