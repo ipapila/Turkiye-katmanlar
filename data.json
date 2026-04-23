@@ -58063,5 +58063,221 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "İşçi Hakları Suçu",
     "kaynak_link": "https://www.haberler.com/guncel/madenciler-ankara-da-gozaltina-alindi-tkp-tepki-gosterdi-19767994-haberi/"
+  },
+  {
+    "id": "rf1dn1e6u31776937257953",
+    "tip": "Maden Ocağı",
+    "ad": "Kelhalil Köyü Kalker Ocağı İptali",
+    "il": "Malatya",
+    "aciklama": "Kelhalil Köyü kalker ocağı yıkama tesisi projesi mahkeme kararıyla iptal edildi. Çevre koruma platformu kazanımı elde etti.",
+    "koordinatlar": {
+      "lat": 37.8985,
+      "lng": 38.2234
+    },
+    "alan_ha": 0,
+    "durum": "İptal",
+    "belge_no": "",
+    "eklenme": "10.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.malatyatime.com/haber/mahkeme-kelhalil-koyundeki-maden-projesine-dur-dedi-115241"
+  },
+  {
+    "id": "rpcbkv4tov1776937257953",
+    "tip": "Maden Ocağı",
+    "ad": "Demad Demir ve Kuvars Ocağı",
+    "il": "Malatya",
+    "aciklama": "Gövdeli Mahallesi'nde Demad Madencilik'in demir ocağına ilave kuvars ocağı projesi için ÇED olumlu kararı alındı.",
+    "koordinatlar": {
+      "lat": 38.7512,
+      "lng": 37.5736
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "13.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.malatyanethaber.com.tr/malatya-nin-ced-karnesi-belli-oldu-hangi-projeler-gecti/107296"
+  },
+  {
+    "id": "rcwjkediss1776937257953",
+    "tip": "GES",
+    "ad": "Migros 2 Güneş Enerjisi Santrali",
+    "il": "Malatya",
+    "aciklama": "Kılıçlı Mahallesi'nde 16,99 MWp kurulu güce sahip güneş enerjisi santrali projesi için ÇED olumlu kararı verildi.",
+    "koordinatlar": {
+      "lat": 38.789,
+      "lng": 37.5125
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "13.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.malatyanethaber.com.tr/malatya-nin-ced-karnesi-belli-oldu-hangi-projeler-gecti/107296"
+  },
+  {
+    "id": "r5bxvdl8o81776937257953",
+    "tip": "Ekolojik İhlal",
+    "ad": "Giresun Çatalağaç Köyü Su Kirliliği",
+    "il": "Giresun",
+    "aciklama": "Maden şirketinin köydeki su kaynaklarını kirletmesi sonucu balıkların ölümü ve çevre tahribatı yaşanıyor.",
+    "koordinatlar": {
+      "lat": 40.5472,
+      "lng": 40.9175
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "20.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Su Kirliliği",
+    "kaynak_link": "https://www.giresun28haber.com/esma-aydindan-carpici-tespit-su-icen-oluyor/"
+  },
+  {
+    "id": "rqj2t21ylg1776937257953",
+    "tip": "Maden Ocağı",
+    "ad": "Ordu Maden Ruhsat İhaleleri 2026",
+    "il": "Ordu",
+    "aciklama": "8-9 Nisan 2026'da MAPEG tarafından Ordu genelinde toplu maden sahası ihaleleri yapıldı. Çevre örgütlerinden tepki geldi.",
+    "koordinatlar": {
+      "lat": 40.9115,
+      "lng": 37.8814
+    },
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "08.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/turkiye/ordu-icin-yapilan-maden-ruhsat-ihalelerine-tepki-kurtulus-topragimizi-ve-suyumuzu-korumak-sistemi-degistirmekle-olur-2490774"
+  },
+  {
+    "id": "rnaz5kqunt1776937257953",
+    "tip": "Maden Ocağı",
+    "ad": "Giresun Maden Sahaları İhaleleri",
+    "il": "Giresun",
+    "aciklama": "1-2 Nisan 2026'da MAPEG ihaleleriyle Giresun genelinde 11 yeni maden sahası ihale edildi. İlin %85'i maden sahası ilan edildi.",
+    "koordinatlar": {
+      "lat": 40.7306,
+      "lng": 38.3864
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "01.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.gundem28.com/yazi/toprak-mi-maden-mi"
+  },
+  {
+    "id": "rxz849dzts1776937257953",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Dalaman Kille Koyu Yat İskelesi Protestosu",
+    "il": "Muğla",
+    "aciklama": "Kille Koyu'na yapılması planlanan yat bağlama iskelesi protesto edildi. Yüzlerce vatandaş insan zinciri oluşturdu.",
+    "koordinatlar": {
+      "lat": 37.0969,
+      "lng": 28.2236
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "22.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r7ktdeux3c1776937257953",
+    "tip": "Acele Kamulaştırma",
+    "ad": "İkizköy Akbelen Ormanı Acele Kamulaştırma",
+    "il": "Muğla",
+    "aciklama": "740 dönümlük Akbelen Ormanı çevresindeki İkizköy için Cumhurbaşkanı imzasıyla acele kamulaştırma kararı alındı.",
+    "koordinatlar": {
+      "lat": 37.7725,
+      "lng": 27.5073
+    },
+    "alan_ha": 740,
+    "durum": "Aktif",
+    "belge_no": "10 Ocak 2026",
+    "eklenme": "10.01.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://yeniyasamgazetesi9.com/yer-alti-kaynaklari-bolusturuluyor-aslan-payi-akplilere-cengiz-ve-limak-holdinge-verildi/"
+  },
+  {
+    "id": "rfr25whx8v1776937257953",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Ordu Harşit Vadisi Atık Sızıntısı",
+    "il": "Ordu",
+    "aciklama": "Harşit Vadisi'nde maden faaliyetlerinden kaynaklanan atık sızıntıları derelere karışarak tarım alanlarını ve su kaynaklarını tehdit ediyor.",
+    "koordinatlar": {
+      "lat": 40.7528,
+      "lng": 37.2118
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "20.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.gundem28.com/yazi/toprak-mi-maden-mi"
+  },
+  {
+    "id": "r334dqox5i1776937257953",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "İzmir Urla Doğal Sit Alanı Villa Projesi",
+    "il": "İzmir",
+    "aciklama": "Kuşçular ve Yağcılar köylerinde 15 hektarlık doğal sit alanı yapılaşmaya açıldı. 85 adet villa yapılacak.",
+    "koordinatlar": {
+      "lat": 38.8992,
+      "lng": 26.8075
+    },
+    "alan_ha": 15,
+    "durum": "Aktif",
+    "belge_no": "13 Mart 2026",
+    "eklenme": "13.03.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://yeniyasamgazetesi9.com/yer-alti-kaynaklari-bolusturuluyor-aslan-payi-akplilere-cengiz-ve-limak-holdinge-verildi/"
+  },
+  {
+    "id": "rkj36qg0z91776937257953",
+    "tip": "Jeotermal",
+    "ad": "İzmir Seferihisar Orhanlı JES Davası",
+    "il": "İzmir",
+    "aciklama": "Orhanlı köyünde halk 6 yıldır jeotermal enerji santralına karşı hukuk mücadelesi veriyor. Zeytincilik ve arıcılık tehdit altında.",
+    "koordinatlar": {
+      "lat": 37.9472,
+      "lng": 28.8936
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "20.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://yeniyasamgazetesi9.com/yer-alti-kaynaklari-bolusturuluyor-aslan-payi-akplilere-cengiz-ve-limak-holdinge-verildi/"
+  },
+  {
+    "id": "rwxlp36iy51776937257954",
+    "tip": "İklim Olayları",
+    "ad": "İstanbul Orman Bölgesi 2025 Yangınları",
+    "il": "İstanbul",
+    "aciklama": "2025 yılında İstanbul Orman Bölge Müdürlüğü kontrol alanında 185 yangında 4539,40 hektar etkilendi.",
+    "koordinatlar": {
+      "lat": 41.2096,
+      "lng": 29.9144
+    },
+    "alan_ha": 4539,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "02.04.2026",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Orman Yangını",
+    "kaynak_link": "https://www.ahaber.com.tr/yasam/2026/04/02/turkiyede-2025te-cikan-orman-yangini-verileri-1933u-ihmal-dikkatsizlik-kasit-ve-kazadan-cikti"
   }
 ]
