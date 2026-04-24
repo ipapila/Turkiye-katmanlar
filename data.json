@@ -2261,25 +2261,6 @@
     "kaynak_link": ""
   },
   {
-    "id": "osm_kv_1113655025",
-    "tip": "Kültür Varlığı",
-    "ad": "Herakleia Salbace Hieron",
-    "il": "Denizli",
-    "ilce": "",
-    "aciklama": "Arkeolojik Alan | OSM ID: 1113655025",
-    "koordinatlar": {
-      "lat": 37.628455,
-      "lng": 29.036814
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "1113655025",
-    "eklenme": "2026-03-20",
-    "kaynak": "OSM/Arkeolojik Alan",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
     "id": "osm_kv_1113672626",
     "tip": "Kültür Varlığı",
     "ad": "Herakleia Salbace",
