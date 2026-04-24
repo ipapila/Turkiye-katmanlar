@@ -58279,5 +58279,594 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "Orman Yangını",
     "kaynak_link": "https://www.ahaber.com.tr/yasam/2026/04/02/turkiyede-2025te-cikan-orman-yangini-verileri-1933u-ihmal-dikkatsizlik-kasit-ve-kazadan-cikti"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "Çorum-Samsun Hızlı Tren Hattı 1. Etap (Çorum-Havza) Acele Kamulaştırma",
+    "il": "Çorum",
+    "ilce": "Mecitözü",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11167",
+    "eklenme": "2026-04-17",
+    "kaynak": "Resmî Gazete / RayHaber",
+    "kaynak_link": "https://rayhaber.com/2026/04/corum-samsun-hizli-tren-hattinda-ilk-etap-icin-acele-kamulastirma/",
+    "aciklama": "17 Nisan 2026 tarihli Resmî Gazete'de yayımlanan Cumhurbaşkanı Kararı (11167). Çorum'dan başlayıp Mecitözü ve Merzifon üzerinden Samsun/Havza'ya uzanan hattın TCDD tarafından kamulaştırılması.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 40.5475,
+      "lng": 34.95435
+    },
+    "id": "rczj6g30781777003246611"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "TEİAŞ Muğla-Köyceğiz 154 kV Enerji İletim Hattı Acele Kamulaştırma",
+    "il": "Muğla",
+    "ilce": "Köyceğiz",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11171",
+    "eklenme": "2026-04-17",
+    "kaynak": "Resmî Gazete / Muğla Gazetesi",
+    "kaynak_link": "https://www.muglagazetesi.com.tr/mugla-haberleri/muglada-enerji-hatti-projesi-koycegiz-ve-dalaman-icin-acele-kamulastirma-211727h",
+    "aciklama": "17 Nisan 2026 tarihli Resmî Gazete'de yayımlanan Karar 11171. Muğla Güney-Dalaman branşman noktası-Köyceğiz enerji iletim hattı için direk noktaları mülk, salınım gabarisi irtifak hakkı olarak kamulaştırılacak.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.95981,
+      "lng": 28.69068
+    },
+    "id": "r161pkleoy1777003246622"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "TEİAŞ Edirne RES-Saros Havza 400 kV Enerji İletim Hattı Acele Kamulaştırma",
+    "il": "Edirne",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11170",
+    "eklenme": "2026-04-17",
+    "kaynak": "Resmî Gazete / Yeni Çağ Gazetesi",
+    "kaynak_link": "https://www.yenicaggazetesi.com/enerji-hatlari-icin-dev-adim-mugla-ve-edirnede-acele-kamulastirma-karari-1019978h.htm",
+    "aciklama": "17 Nisan 2026 tarihli RG. '400 kV R24-Edirne RES TM-Saros Havza TM Enerji İletim Hattı Projesi' kapsamında Edirne'de taşınmazlar kamulaştırılacak.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 41.67955,
+      "lng": 26.55538
+    },
+    "id": "rdj2dt7kgx1777003246632"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "Samsun Canik Kentsel Dönüşüm Acele Kamulaştırma",
+    "il": "Samsun",
+    "ilce": "Canik",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11183",
+    "eklenme": "2026-04-24",
+    "kaynak": "Resmî Gazete / Referans Gazetesi",
+    "kaynak_link": "https://www.referansgazetesi.com.tr/24-nisan-resmi-gazete-de-alinan-yeni-kararlar",
+    "aciklama": "24 Nisan 2026 tarihli Resmî Gazete. Samsun/Canik Yeni Mahallesi sınırlarında kentsel dönüşüm projesi kapsamında Samsun Büyükşehir Belediyesi tarafından acele kamulaştırma.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 41.27345,
+      "lng": 36.33327
+    },
+    "id": "rl0fbmzb7m1777003246642"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ankara Mamak Sosyal Konut Projesi Acele Kamulaştırma",
+    "il": "Ankara",
+    "ilce": "Mamak",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11184",
+    "eklenme": "2026-04-24",
+    "kaynak": "Resmî Gazete / Referans Gazetesi",
+    "kaynak_link": "https://www.referansgazetesi.com.tr/24-nisan-resmi-gazete-de-alinan-yeni-kararlar",
+    "aciklama": "24 Nisan 2026 tarihli Resmî Gazete. Mamak/Kızılca, Ortaköy ve Nenek mahallelerinde bağlantı yolları ve sosyal konut projesi için TOKİ tarafından acele kamulaştırma.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 39.9218,
+      "lng": 32.96307
+    },
+    "id": "rasi7aiwdg1777003246653"
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "MAPEG 317. Grup Ordu Maden Sahası İhaleleri",
+    "il": "Ordu",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "317. Grup İhalesi",
+    "eklenme": "2026-04-08",
+    "kaynak": "Cumhuriyet / MAPEG",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/turkiye/ordu-icin-yapilan-maden-ruhsat-ihalelerine-tepki-kurtulus-topragimizi-ve-suyumuzu-korumak-sistemi-degistirmekle-olur-2490774",
+    "aciklama": "8-9 Nisan 2026 tarihinde MAPEG'de Ordu için toplu maden sahası ihalesi yapıldı. Emek Partisi Ordu İl Başkanlığı: 'Parça parça ihale edilen maden sahaları tüm ilçelerde mantar gibi çoğalacak.'",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "koordinatlar": {
+      "lat": 40.98572,
+      "lng": 37.87941
+    },
+    "id": "r9ts0jcuaa1777003246664"
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Demad Madencilik Doğanşehir Demir+Kuvars Ocağı ÇED Olumlu",
+    "il": "Malatya",
+    "ilce": "Doğanşehir",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "S:87510 (Er:3391768)",
+    "eklenme": "2026-04-13",
+    "kaynak": "Malatya Net Haber",
+    "kaynak_link": "https://www.malatyanethaber.com.tr/malatya-nin-ced-karnesi-belli-oldu-hangi-projeler-gecti/107296",
+    "aciklama": "13 Nisan 2026 tarihinde Malatya Valiliği ÇED Olumlu kararı verdi. Gövdeli Mahallesi'nde demir ocağı üretimine ek 2 maden kuvars ocağı projesi.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "koordinatlar": {
+      "lat": 37.8759,
+      "lng": 37.87543
+    },
+    "id": "r44klvha801777003246675"
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Tokat Yazıcık Bentonit Maden Ocağı – Yürütmeyi Durdurma Kararı",
+    "il": "Tokat",
+    "ilce": "Yazıcık",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-04-23",
+    "kaynak": "Cumhuriyet / Haberler.com",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/turkiye/tokat-idare-mahkemesi-yazicik-ta-maden-ocagi-projesine-yurutmeyi-durdurma-karari-verdi-2497631",
+    "aciklama": "Tokat İdare Mahkemesi maden ocağını durdurdu. Gerekçe: Hacı Gölü'nün ekolojik dengesini bozabilecek toz emisyonları, 60.050 ağaç kesilmesi, yetersiz ÇED dosyası.",
+    "alt_kategori": "Su Kirliliği",
+    "koordinatlar": {
+      "lat": 40.3173,
+      "lng": 36.55474
+    },
+    "id": "rpltvfhrc71777003246686"
+  },
+  {
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Kelhalil Köyü Kalker Ocağı Yıkama Tesisi – Mahkeme İptali",
+    "il": "Malatya",
+    "ilce": "Doğanşehir",
+    "alan_ha": 0,
+    "durum": "Durduruldu",
+    "belge_no": "",
+    "eklenme": "2026-04-10",
+    "kaynak": "Malatya Time",
+    "kaynak_link": "https://www.malatyatime.com/haber/mahkeme-kelhalil-koyundeki-maden-projesine-dur-dedi-115241",
+    "aciklama": "10 Nisan 2026 tarihli İdare Mahkemesi kararıyla Kelhalil Köyü kalker ocağına yıkama tesisi eklenmesi projesi iptal edildi. Boksit ocaklarına karşı halkın 7 yıllık hukuk mücadelesi.",
+    "alt_kategori": "Su Kirliliği",
+    "koordinatlar": {
+      "lat": 37.88158,
+      "lng": 37.87247
+    },
+    "id": "rbkmkv4hip1777003246696"
+  },
+  {
+    "tip": "RES",
+    "ad": "Yazbora Armutlu Rüzgar Enerji Santrali ve Elektrik Depolama Tesisi – ÇED Olumlu",
+    "il": "Bursa",
+    "ilce": "Gemlik",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-04-15",
+    "kaynak": "Bursadabugun.com",
+    "kaynak_link": "https://www.bursadabugun.com/haber/bursa-da-881-milyon-tl-lik-yatirima-onay-cikti-49-yil-boyunca-uretim-yapacak-1913142.html",
+    "aciklama": "15 Nisan 2026: Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Orty Enerji'nin Gemlik/Haydariye Mahallesi'ndeki 881 milyon TL'lik RES ve elektrik depolama tesisine 'ÇED Olumlu' kararı verdi. 49 yıl üretim.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 40.43088,
+      "lng": 29.16326
+    },
+    "id": "rr4jgf0zlw1777003246707"
+  },
+  {
+    "tip": "RES",
+    "ad": "Lodos Karaburun RES Genişletme – ÇED Keşif ve Yürütmeyi Durdurma Davası",
+    "il": "İzmir",
+    "ilce": "Karaburun",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "İzmir 7. İdare Mah. 2025/2048",
+    "eklenme": "2026-04-21",
+    "kaynak": "İzmir Son Mühür / Dijital Gaste",
+    "kaynak_link": "https://www.sonmuhur.com/gozler-karaburun-ges-davasinda-bilirkisi-sahada-inceleme-yapti-karaburunlular-uyardi",
+    "aciklama": "21 Nisan 2026 keşif günü Lodos Enerji zeytinlikte yeniden söküm yaptı (önceden 5.647 zeytin sökülmüştü). Karaburun'un %89'unu kaplayan 128 türbinlik RES projesi ÖÇKA sınırları içinde.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 38.64283,
+      "lng": 26.5032
+    },
+    "id": "reuq1o2vly1777003246718"
+  },
+  {
+    "tip": "GES",
+    "ad": "Lodos Karaburun RES Yardımcı GES – ÇED İptal Davası Keşfi",
+    "il": "İzmir",
+    "ilce": "Karaburun",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "İzmir 7. İdare Mah. 2025/2048",
+    "eklenme": "2026-04-21",
+    "kaynak": "Dijital Gaste",
+    "kaynak_link": "https://www.dijitalgaste.com/karaburunda-ges-tartismalari-suruyor-bakanlik-ced-kararini-beklemedi",
+    "aciklama": "Lodos Karaburun RES'e yardımcı GES projesinin ÇED Olumlu kararının iptali davası 21 Nisan 2026'da bilirkişi keşfine girdi. Proje Özel Çevre Koruma Bölgesi, zeytinlik ve mera alanlarını kapsıyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 38.63938,
+      "lng": 26.50397
+    },
+    "id": "rhi95b3xzc1777003246729"
+  },
+  {
+    "tip": "HES",
+    "ad": "EPDK HES Hibrit Dönüşüm 1.300 MW Kapasite Tahsisi",
+    "il": "Ankara",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kurul Kararı 14482",
+    "eklenme": "2026-04-16",
+    "kaynak": "Enerji Ekonomisi / YeşilHaber",
+    "kaynak_link": "https://yesilhaber.net/epdk-hibrit-kapasite-tahsisi-1500-mw/",
+    "aciklama": "16 Nisan 2026 tarihli EPDK Kurul Kararı 14482: Mevcut HES'lere ilave GES kaynağı eklenmesi için 1.300 MW kapasite tahsis edildi. Başvuru yapılabilmek için tesislerin kısmen işletmede olması şartı aranıyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 39.92318,
+      "lng": 32.85154
+    },
+    "id": "rlowdnhhwe1777003246740"
+  },
+  {
+    "tip": "Jeotermal",
+    "ad": "Kırşehir Boztepe Jeotermal Kaynak Arama Ruhsatı İhalesi",
+    "il": "Kırşehir",
+    "ilce": "Boztepe",
+    "alan_ha": 4139,
+    "durum": "Planlama",
+    "belge_no": "RG 14 Nisan 2026",
+    "eklenme": "2026-04-14",
+    "kaynak": "Enerji Ekonomisi / YeşilHaber",
+    "kaynak_link": "https://yesilhaber.net/kirsehir-jeotermal-saha-ihalesi-30-nisan-2026/",
+    "aciklama": "14 Nisan 2026 tarihli Resmî Gazete ile Kırşehir İl Özel İdaresi tarafından 4.139 hektarlık jeotermal arama sahası ihaleye açıldı. Muhammen bedel 1,3 milyon TL; ihale tarihi 30 Nisan 2026.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 39.15502,
+      "lng": 33.88195
+    },
+    "id": "r5wogjte661777003246751"
+  },
+  {
+    "tip": "Jeotermal",
+    "ad": "Margün Enerji Denizli-Manisa 505 MW Jeotermal Ruhsat Devri Tamamlandı",
+    "il": "Denizli",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "KAP açıklaması",
+    "eklenme": "2026-04-22",
+    "kaynak": "TürkHaber",
+    "kaynak_link": "https://www.turkhaber.com/haber/margun-enerji-den-dev-hamle-505-mw-lik-jeotermal-ruhsatlarin-tamami-alindi-4140622.html",
+    "aciklama": "22 Nisan 2026 itibarıyla Margün Enerji (MAGEN) Denizli ve Manisa'daki 9 jeotermal kaynak ruhsatının (toplam 505 MW) tamamını devraldı.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 37.77763,
+      "lng": 29.08805
+    },
+    "id": "rj9d7ngruu1777003246762"
+  },
+  {
+    "tip": "Nükleer Enerji",
+    "ad": "Akkuyu NGS 2. Güç Ünitesi İç Koruma Kabuğu 6. Katman Kurulumu",
+    "il": "Mersin",
+    "ilce": "Gülnar",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-04-17",
+    "kaynak": "Petroturk / Enerji Günlüğü",
+    "kaynak_link": "https://www.petroturk.com/elektrik-haberleri/enerjide-acele-kamulastirma-karari-44",
+    "aciklama": "17 Nisan 2026: Akkuyu NGS 2. Güç Ünitesi'nde iç koruma kabuğunun 6. katmanı kuruldu. 1. ünite işletme lisansı başvurusu eksiklik tamamlama sürecinde.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.14927,
+      "lng": 33.55055
+    },
+    "id": "rupwenbvnm1777003246772"
+  },
+  {
+    "tip": "Ekolojik İhlal",
+    "ad": "Lodos Enerji Karaburun Zeytinlik Söküm (ÇED Davası Sürerken)",
+    "il": "İzmir",
+    "ilce": "Karaburun",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-04-21",
+    "kaynak": "İzmir Son Mühür",
+    "kaynak_link": "https://www.sonmuhur.com/gozler-karaburun-ges-davasinda-bilirkisi-sahada-inceleme-yapti-karaburunlular-uyardi",
+    "aciklama": "21 Nisan 2026 bilirkişi keşfi günü Lodos A.Ş. yeniden zeytinlik söküm yaptı (öncesinde 5.647 zeytin sökülmüştü). ÇED iptal davası sürerken eylem.",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "koordinatlar": {
+      "lat": 38.64172,
+      "lng": 26.50461
+    },
+    "id": "rslg93dcvb1777003246783"
+  },
+  {
+    "tip": "Ekolojik İhlal",
+    "ad": "Tokat Yazıcık Bentonit Madeni Hacı Gölü Su Kirliliği Riski",
+    "il": "Tokat",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-04-23",
+    "kaynak": "Cumhuriyet",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/turkiye/tokat-idare-mahkemesi-yazicik-ta-maden-ocagi-projesine-yurutmeyi-durdurma-karari-verdi-2497631",
+    "aciklama": "Tokat İdare Mahkemesi: Maden toz emisyonları Hacı Gölü'nün ekolojik dengesini bozabilecek; su kalitesi ve yeraltı su sistemine olumsuz etki riski. 60.050 ağaç kesimi öngörülüyordu.",
+    "alt_kategori": "Su Kirliliği",
+    "koordinatlar": {
+      "lat": 40.3177,
+      "lng": 36.55937
+    },
+    "id": "r6a7i5qs0j1777003246794"
+  },
+  {
+    "tip": "Kıyı İhlalleri",
+    "ad": "Rize Çayeli Deniz Dolgusu – ÇED'siz Onay",
+    "il": "Rize",
+    "ilce": "Çayeli",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "Cumhuriyet",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/cevre/rize-cayeli-nde-deniz-dolgusu-projesine-ced-siz-onay-2478944",
+    "aciklama": "Rize/Çayeli Belediyesi'nin deniz dolgusu projesine ÇED yapılmadan onay verildi. Kıyı erozyonunu tetikleme ve denizin kendi kendini yenileme mekanizmasını çökertme riski taşıyor.",
+    "alt_kategori": "Kıyı İhlali",
+    "koordinatlar": {
+      "lat": 41.08444,
+      "lng": 40.7152
+    },
+    "id": "r6a8nm6v2s1777003246805"
+  },
+  {
+    "tip": "Kıyı İhlalleri",
+    "ad": "TEİAŞ Saros Havza Enerji İletim Hattı Saros Körfezi Kıyı Kamulaştırması",
+    "il": "Edirne",
+    "ilce": "Keşan",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11170",
+    "eklenme": "2026-04-17",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.yenicaggazetesi.com/enerji-hatlari-icin-dev-adim-mugla-ve-edirnede-acele-kamulastirma-karari-1019978h.htm",
+    "aciklama": "17 Nisan 2026 RG. Edirne'nin Saros Havzası'na kadar uzanan 400 kV enerji iletim hattı projesi kapsamında kıyı yakını taşınmazlar kamulaştırılacak.",
+    "alt_kategori": "Kıyı İhlali",
+    "koordinatlar": {
+      "lat": 40.59664,
+      "lng": 26.63178
+    },
+    "id": "rols4g589c1777003246816"
+  },
+  {
+    "tip": "İklim Olayları",
+    "ad": "23 Nisan 2026 Toz/Kum Fırtınası – Akdeniz Kıyıları ve Güneydoğu Türkiye",
+    "il": "Adana",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Kapatıldı",
+    "belge_no": "",
+    "eklenme": "2026-04-23",
+    "kaynak": "Haber Global",
+    "kaynak_link": "https://haberglobal.com/gundem/iklim-krizi-kum-firtinalarini-tetikledi-38-milyar-insan-risk-altinda-520523",
+    "aciklama": "23 Nisan 2026: ECMWF verileri Akdeniz kıyıları ve Türkiye-Suriye sınırı yakın bölgede yüksek yüzey toz konsantrasyonu saptadı. İklim krizi kaynaklı kum/toz fırtınası uyarısı.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.99995,
+      "lng": 35.31878
+    },
+    "id": "rza84g60lc1777003246827"
+  },
+  {
+    "tip": "İklim Olayları",
+    "ad": "El Niño Geçişi 2. Çeyrek 2026 – Türkiye Kuraklık Riski",
+    "il": "Konya",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "ECMWF modelleme",
+    "eklenme": "2026-04-12",
+    "kaynak": "Endeks 24",
+    "kaynak_link": "https://www.endeks24.com/dev-iklim-olayi-kapida-turkiye-icin-kuraklik-riski-mi",
+    "aciklama": "Nisan 2026 ECMWF modelleri: 2026 2. çeyrekten itibaren ENSO-nötr'den El Niño'ya geçiş yüksek olasılıklı. Türkiye'de tarımsal üretim ve HES kapasitesinde -%20 daralma riski öngörülüyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 37.87172,
+      "lng": 32.48645
+    },
+    "id": "rkpwarankd1777003246837"
+  },
+  {
+    "tip": "Orman Alanı",
+    "ad": "Ordu MAPEG Maden İhalesi – Ormanlık Alanlar Tehdit Altında",
+    "il": "Ordu",
+    "ilce": "Gürgentepe",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "317. Grup İhalesi",
+    "eklenme": "2026-04-09",
+    "kaynak": "Cumhuriyet",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/turkiye/ordu-icin-yapilan-maden-ruhsat-ihalelerine-tepki-kurtulus-topragimizi-ve-suyumuzu-korumak-sistemi-degistirmekle-olur-2490774",
+    "aciklama": "8-9 Nisan 2026 MAPEG ihaleleriyle Ordu'nun birden fazla ilçesinde ormanlık alanlarda maden ruhsatı verildi. 'Tarım arazileri, ormanlar, sular darmadağın edilecek' (Emek Partisi).",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "koordinatlar": {
+      "lat": 40.72762,
+      "lng": 38.21766
+    },
+    "id": "r8qtidx0nj1777003246848"
+  },
+  {
+    "tip": "Orman Alanı",
+    "ad": "Tokat Yazıcık Bentonit Madeni – 60.050 Ağaç Kesim Riski",
+    "il": "Tokat",
+    "ilce": "Yazıcık",
+    "alan_ha": 0,
+    "durum": "Durduruldu",
+    "belge_no": "",
+    "eklenme": "2026-04-23",
+    "kaynak": "Haberler.com",
+    "kaynak_link": "https://www.haberler.com/guncel/tokat-idare-mahkemesi-nden-bentonit-madeni-projesine-yurutmeyi-durdurma-karari-19775351-haberi/",
+    "aciklama": "Tokat İdare Mahkemesi yürütmeyi durdurdu. Gerekçede ÇED alanında 60.050 ağaç kesilmesi ve ormana zarar verilecek alan genişliği vurgulandı.",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "koordinatlar": {
+      "lat": 40.31419,
+      "lng": 36.55523
+    },
+    "id": "r7mnvy43ya1777003246859"
+  },
+  {
+    "tip": "Sulak Alan",
+    "ad": "Tokat Yazıcık Madeni – Hacı Gölü Ekolojik Denge Tehlikesi",
+    "il": "Tokat",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Durduruldu",
+    "belge_no": "",
+    "eklenme": "2026-04-23",
+    "kaynak": "Haberler.com",
+    "kaynak_link": "https://www.haberler.com/guncel/tokat-idare-mahkemesi-nden-bentonit-madeni-projesine-yurutmeyi-durdurma-karari-19775351-haberi/",
+    "aciklama": "Tokat İdare Mahkemesi: Maden sahasına yakın Hacı Gölü'nün ekolojik dengesi bozulabilir, su kalitesi ve yeraltı su sistemi olumsuz etkilenebilir. Yürütme durduruldu.",
+    "alt_kategori": "Su Kirliliği",
+    "koordinatlar": {
+      "lat": 40.31724,
+      "lng": 36.55833
+    },
+    "id": "ro36glo1z71777003246870"
+  },
+  {
+    "tip": "Termik Reaktör",
+    "ad": "Çayırhan Termik Santrali Kapasite Artışı – Nallıhan Milli Park Sınırına Yakın",
+    "il": "Ankara",
+    "ilce": "Nallıhan",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "Bianet",
+    "kaynak_link": "https://m.bianet.org/bianet/cevre/252523-nallihan-daki-ormanlik-alan-milli-park-oldu",
+    "aciklama": "Çayırhan Termik Santrali Nallıhan Kuş Cenneti'ne 6 km uzaklıkta. Çayırhan-B adlı yeni termik santral planlaması milli park ve sit alanları üzerinde baskı oluşturuyor.",
+    "alt_kategori": "Hava Kirliliği",
+    "koordinatlar": {
+      "lat": 40.18733,
+      "lng": 31.36403
+    },
+    "id": "rpk1kdefve1777003246881"
+  },
+  {
+    "tip": "Termik Reaktör",
+    "ad": "Yeniköy-Kemerköy Termik Santralleri – 2026 Devam Eden Emisyonlar",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "T24 / İklim Haber",
+    "kaynak_link": "https://t24.com.tr/haber/yatagan-yenikoy-ve-kemerkoy-termik-santralleri-nin-bedeli-45-binin-uzerinde-erken-olum-havaya-salinan-360-milyon-ton-karbondioksit,832289",
+    "aciklama": "Muğla'nın Yeniköy ve Kemerköy termik santralleri kömür yakımına devam ediyor. Stratonikeia ve Lagina arkeolojik sit alanlarına yakın linyit madenleri bağlantılı. 2043'e kadar binlerce erken ölüm öngörülüyor.",
+    "alt_kategori": "Hava Kirliliği",
+    "koordinatlar": {
+      "lat": 37.1528,
+      "lng": 27.61346
+    },
+    "id": "r5bsvxljma1777003246892"
+  },
+  {
+    "tip": "Kültür Varlığı",
+    "ad": "Stratonikeia Arkeolojik Sit Alanı – Linyit Madeni ve Termik Santral Baskısı",
+    "il": "Muğla",
+    "ilce": "Yatağan",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "İklim Haber / CAN Europe",
+    "kaynak_link": "https://www.iklimhaber.org/kulturel-miras-kusatma-altinda-komur-madenleri-paha-bicilemez-tarihi-bolgeleri-yok-ediyor/",
+    "aciklama": "Arkeologlar Derneği: Yatağan-Milas bölgesindeki aktif linyit ruhsat alanları Stratonikeia ve Lagina sit alanlarını kapsıyor. Yeniköy-Kemerköy termik baca gazları kültürel miras yapılarına da zarar veriyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 37.33118,
+      "lng": 27.98832
+    },
+    "id": "ragt8ea4hx1777003246903"
+  },
+  {
+    "tip": "Kültür Varlığı",
+    "ad": "Konya Ilgın Termik Santrali – Sit Alanı Derece Düşürme Davası",
+    "il": "Konya",
+    "ilce": "Ilgın",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "İklim Haber",
+    "kaynak_link": "https://www.iklimhaber.org/kulturel-miras-kusatma-altinda-komur-madenleri-paha-bicilemez-tarihi-bolgeleri-yok-ediyor/",
+    "aciklama": "Kültür ve Turizm Bakanlığı, Ilgın termik santrali kömür madenlerine izin için sit alanı derecesi düştü. Mahkeme bu kararı iptal etti; süreç devam ediyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 38.28662,
+      "lng": 31.91908
+    },
+    "id": "rnp29jmv001777003246913"
+  },
+  {
+    "tip": "Milli Park",
+    "ad": "Sarıçalı Dağı Milli Parkı – Çayırhan Termik ve Maden Baskısı",
+    "il": "Ankara",
+    "ilce": "Nallıhan",
+    "alan_ha": 740,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "Bianet",
+    "kaynak_link": "https://m.bianet.org/bianet/cevre/252523-nallihan-daki-ormanlik-alan-milli-park-oldu",
+    "aciklama": "Nallıhan'da 740 ha'lık Sarıçalı Dağı Milli Parkı'na 6 km uzaklıkta Çayırhan-B termik santral kurulumu planlanıyor. Nallıhan Kuş Cenneti de tehdit altında.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 40.18109,
+      "lng": 31.36912
+    },
+    "id": "ryki4wnlpp1777003246924"
+  },
+  {
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Karaburun Yarımadası ÖÇKA – RES ve GES Projesi Tehdidi",
+    "il": "İzmir",
+    "ilce": "Karaburun",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-04-21",
+    "kaynak": "Karaburun Sivil İnisiyatif / İzmir Son Mühür",
+    "kaynak_link": "https://www.sonmuhur.com/gozler-karaburun-ges-davasinda-bilirkisi-sahada-inceleme-yapti-karaburunlular-uyardi",
+    "aciklama": "Nisan 2026: Karaburun ÖÇKA sınırları içinde Lodos Enerji'nin 128 türbinlik RES + GES projesi devam ediyor. 21 Nisan bilirkişi keşfinde ÖÇKA'da zeytinlik söküm ve 'Doğal Karakteri Korunacak Alan' ihlali belgelendi.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 38.63824,
+      "lng": 26.50625
+    },
+    "id": "rwpq2rnw401777003246935"
   }
 ]
