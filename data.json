@@ -8145,26 +8145,6 @@
     "kaynak_link": ""
   },
   {
-    "id": "rzs5o5kes21774037434484",
-    "tip": "RES",
-    "ad": "RES (6 türbin, Balıkesir)",
-    "il": "Balıkesir",
-    "ilce": "",
-    "aciklama": "(Birleştirilmiş 6 türbin, Balıkesir)",
-    "koordinatlar": {
-      "lat": 39.291002500000005,
-      "lng": 27.646441666666664
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "2221895820",
-    "eklenme": "2026-03-19",
-    "kaynak": "Shapefile/GeoJSON",
-    "count": 6,
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
     "id": "rvwls7w53y1774037434484",
     "tip": "RES",
     "ad": "Rüzgâr Türbini (18 türbin, Balıkesir)",
