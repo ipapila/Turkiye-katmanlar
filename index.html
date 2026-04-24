@@ -470,7 +470,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&pkMode)exitPk();});
 TYPES.forEach(t=>{
   lgs[t.key]=L.markerClusterGroup({maxClusterRadius:55,iconCreateFunction(c){return L.divIcon({html:`<div style="background:${t.color};color:#fff;border-radius:50%;width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:.72rem;font-weight:700;border:2px solid rgba(255,255,255,.4);box-shadow:0 2px 8px rgba(0,0,0,.35)">${c.getChildCount()}</div>`,className:'',iconSize:[32,32]});}});
   lgs[t.key].addTo(map);
-  vis[t.key] = (t.key === 'Ekolojik İhlal' || t.key === 'İklim Olayları' || t.key === 'Acele Kamulaştırma');
+  vis[t.key] = true;
 });
 
 function mkIcon(type){const t=TM[type]||{color:'#888',icon:'📍'};return L.divIcon({html:`<div style="background:${t.color};border-radius:50% 50% 50% 0;transform:rotate(-45deg);width:30px;height:30px;border:2px solid rgba(255,255,255,.45);box-shadow:0 3px 10px rgba(0,0,0,.4);display:flex;align-items:center;justify-content:center;"><span style="transform:rotate(45deg);font-size:.85rem">${t.icon}</span></div>`,className:'',iconSize:[30,30],iconAnchor:[15,30],popupAnchor:[0,-32]});}
@@ -524,21 +524,13 @@ function isDuplicateRecord(newRecord, excludeId=null){
 
 function removeDuplicates(){
   const before=data.length;
-  const seen=[];
   const tolerance=0.00001;
+  const seen=[];
   data=data.filter(r=>{
     const isDup=seen.some(s=>{
-      const nameMatch=s.ad.toLowerCase()===r.ad.toLowerCase();
-      const tipMatch=s.tip===r.tip;
-      const ilMatch=s.il===r.il;
-      const ilceMatch=(s.ilce||'')===(r.ilce||'');
-      if(!nameMatch||!tipMatch||!ilMatch||!ilceMatch)return false;
-      const hasCoords=s.koordinatlar?.lat&&r.koordinatlar?.lat;
-      if(hasCoords){
-        const latOk=Math.abs(s.koordinatlar.lat-r.koordinatlar.lat)<tolerance;
-        const lngOk=Math.abs(s.koordinatlar.lng-r.koordinatlar.lng)<tolerance;
-        return latOk&&lngOk;
-      }
+      if(s.ad.toLowerCase()!==r.ad.toLowerCase()||s.tip!==r.tip||s.il!==r.il||(s.ilce||'')!==(r.ilce||''))return false;
+      const hc=s.koordinatlar?.lat&&r.koordinatlar?.lat;
+      if(hc)return Math.abs(s.koordinatlar.lat-r.koordinatlar.lat)<tolerance&&Math.abs(s.koordinatlar.lng-r.koordinatlar.lng)<tolerance;
       return true;
     });
     if(!isDup)seen.push(r);
@@ -550,6 +542,7 @@ function removeDuplicates(){
   ntf(`${removed} çift kayıt silindi, ${data.length} kayıt kaldı`,'ok');
 }
 
+async function reverseGeocode(lat,lng){
   const url=`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lng}&addressdetails=1&accept-language=tr`;
   try{const response=await fetch(url);const data=await response.json();if(data&&data.address){const address=data.address;let city=address.city||address.state||address.province;let district=address.town||address.village||address.suburb||address.municipality;return{city,district};}}catch(error){console.error('Reverse geocode error:',error);}
   return{city:null,district:null};
@@ -578,13 +571,15 @@ const SAMPLE_DATA=migrateCategories([
 // ── DÜZELTME 1: load() — GitHub + yerel veriyi birleştir ──────────────────
 async function load(){
   try{
-    const res=await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${repoPath}?t=${Date.now()}`);
+    const controller=new AbortController();
+    const timer=setTimeout(()=>controller.abort(),5000);
+    const res=await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${repoPath}?t=${Date.now()}`,{signal:controller.signal});
+    clearTimeout(timer);
     if(res.ok){
       const remote=await res.json();
       if(Array.isArray(remote)&&remote.length){
         let fixed=fixCoords(remote);
         fixed=migrateCategories(fixed);
-        // Yerel depodan GitHub'da olmayan kayıtları koru
         const localRaw=localStorage.getItem(SK);
         if(localRaw){
           try{
@@ -606,10 +601,10 @@ async function load(){
     throw new Error();
   }catch(e){
     const local=localStorage.getItem(SK);
-    if(local){let parsed=JSON.parse(local);parsed=migrateCategories(parsed);data=fixCoords(parsed);ntf(`${data.length} kayıt yerel depodan yüklendi`,'ok');renderAll();return;}
+    if(local){try{let parsed=JSON.parse(local);parsed=migrateCategories(parsed);data=fixCoords(parsed);ntf(`${data.length} kayıt yerel depodan yüklendi`,'ok');renderAll();return;}catch(err){}}
     data=fixCoords(JSON.parse(JSON.stringify(SAMPLE_DATA)));
     localStorage.setItem(SK,JSON.stringify(data));
-    ntf(`${data.length} kayıt yüklendi`,'ok');renderAll();
+    ntf(`${data.length} örnek kayıt yüklendi`,'ok');renderAll();
   }
 }
 function saveLocal(){localStorage.setItem(SK,JSON.stringify(data));ntf('Yerel kaydedildi','ok');}
@@ -938,7 +933,20 @@ function requireAdmin(action){if(isAdmin){action();return;}pendingAdminAction=ac
 function checkAdmin(){const v=document.getElementById('adminpass').value;if(v===ADMIN_PASS){isAdmin=true;document.getElementById('adminov').style.display='none';updateAdminUI();if(pendingAdminAction){pendingAdminAction();pendingAdminAction=null;}}else{document.getElementById('adminErr').style.display='block';document.getElementById('adminpass').value='';document.getElementById('adminpass').focus();}}
 function closeAdminMod(){document.getElementById('adminov').style.display='none';pendingAdminAction=null;}
 function adminLogout(){isAdmin=false;updateAdminUI();ntf('Çıkış yapıldı','ok');}
-function updateAdminUI(){const btn=document.getElementById('adminbtn');if(isAdmin){btn.textContent='🔓 Çıkış';btn.style.borderColor='var(--success)';}else{btn.textContent='🔒 Admin';btn.style.borderColor='';}document.querySelectorAll('.admin-only').forEach(el=>el.style.display=isAdmin?'':'none');}
+function updateAdminUI(){
+  const btn=document.getElementById('adminbtn');
+  if(isAdmin){
+    btn.textContent='🔓 Çıkış';
+    btn.style.borderColor='var(--success)';
+    document.querySelectorAll('.admin-only').forEach(el=>{
+      el.style.display=el.classList.contains('dtb')?'flex':'block';
+    });
+  }else{
+    btn.textContent='🔒 Admin';
+    btn.style.borderColor='';
+    document.querySelectorAll('.admin-only').forEach(el=>el.style.display='none');
+  }
+}
 
 // ── YENİ: Otomatik Tarama Fonksiyonları ──────────────────────────────────
 function openScanModal(){
@@ -1069,11 +1077,10 @@ document.getElementById('ghsavebtn').addEventListener('click',()=>requireAdmin(s
 document.getElementById('delCatBtn').addEventListener('click',()=>requireAdmin(openCatModal));
 document.getElementById('groupResBtn').addEventListener('click',()=>requireAdmin(()=>groupRESData(2000)));
 document.getElementById('dedupbtn').addEventListener('click',()=>requireAdmin(()=>{
-  const dups=[];
-  const seen=[];const tolerance=0.00001;
-  data.forEach(r=>{const isDup=seen.some(s=>{const nm=s.ad.toLowerCase()===r.ad.toLowerCase()&&s.tip===r.tip&&s.il===r.il&&(s.ilce||'')===(r.ilce||'');if(!nm)return false;const hc=s.koordinatlar?.lat&&r.koordinatlar?.lat;if(hc){return Math.abs(s.koordinatlar.lat-r.koordinatlar.lat)<tolerance&&Math.abs(s.koordinatlar.lng-r.koordinatlar.lng)<tolerance;}return true;});if(!isDup)seen.push(r);else dups.push(r);});
-  if(!dups.length){ntf('Çift kayıt bulunamadı ✓','ok');return;}
-  document.getElementById('ctxt').textContent=`${dups.length} çift kayıt bulundu. Silinsin mi?`;
+  const tolerance=0.00001;const seen=[];let dupCount=0;
+  data.forEach(r=>{const isDup=seen.some(s=>{if(s.ad.toLowerCase()!==r.ad.toLowerCase()||s.tip!==r.tip||s.il!==r.il||(s.ilce||'')!==(r.ilce||''))return false;const hc=s.koordinatlar?.lat&&r.koordinatlar?.lat;if(hc)return Math.abs(s.koordinatlar.lat-r.koordinatlar.lat)<tolerance&&Math.abs(s.koordinatlar.lng-r.koordinatlar.lng)<tolerance;return true;});if(!isDup)seen.push(r);else dupCount++;});
+  if(!dupCount){ntf('Çift kayıt bulunamadı ✓','ok');return;}
+  document.getElementById('ctxt').textContent=`${dupCount} çift kayıt bulundu. Silinsin mi?`;
   confCb=()=>removeDuplicates();
   document.getElementById('cov').classList.add('open');
 }));
