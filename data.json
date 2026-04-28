@@ -68051,5 +68051,215 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": ""
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "TEİAŞ 154 kV Kırklareli-Pınarhisar Brş.N-Kırklareli OSB Enerji İletim Hattı Acele Kamulaştırma",
+    "il": "Kırklareli",
+    "ilce": "Pınarhisar",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11212 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Enerji Günlüğü / Milli Gazete / Birgun.net",
+    "kaynak_link": "https://www.enerjigunlugu.net/kirklareli-pinarhisar-iletim-hattinda-kamulastirma-basliyor-67922h.htm",
+    "aciklama": "24 Nisan imzalı, 25 Nisan RG'de yayımlandı. 154 kV Kırklareli-Pınarhisar Brş.N-Kırklareli OSB hattının hem Doğu hem Batı güzergâhında direk yerleri mülkiyet, iletken salınım gabarisi irtifak hakkı kurularak TEİAŞ tarafından kamulaştırılacak. Referans: 2022D00-175939-176972.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 41.68243,
+      "lng": 27.58548
+    },
+    "id": "r6zd3r0ekx1777353854973"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "TEİAŞ 154/33 kV Oğulbey Transformatör Merkezi Sahası Acele Kamulaştırma",
+    "il": "Ankara",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11213 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Enerji Günlüğü / Milli Gazete / Birgun.net",
+    "kaynak_link": "https://www.enerjigunlugu.net/ogulbey-transformator-merkezi-icin-kamulastirma-67923h.htm",
+    "aciklama": "154/33 kV Oğulbey Transformatör Merkezi Sahası için taşınmazlar TEİAŞ Genel Müdürlüğü tarafından kamulaştırılacak. Haritada saha Oğulbey PTT Başmüdürlüğü civarında gösterilmektedir. Referans: 25D000012-86.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 39.92244,
+      "lng": 32.85912
+    },
+    "id": "rxkdudkkwa1777353854983"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "Erzurum/Aziziye Ilıca Mahallesi Acele Kamulaştırma – Aziziye Belediyesi",
+    "il": "Erzurum",
+    "ilce": "Aziziye",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11214 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Milli Gazete / Resmi Gazete yansıma kaynakları",
+    "kaynak_link": "https://www.milligazete.com.tr/33234-sayili-resmi-gazetede-bugun-25042026",
+    "aciklama": "Erzurum'un Aziziye ilçesi Ilıca Mahallesi sınırları içindeki taşınmazlar Aziziye Belediye Başkanlığı tarafından acele kamulaştırılıyor. Kararın gerekçesi (belediye projesi, kentsel dönüşüm vb.) RG ilk sayfasında belirtilmemiş; ek bilgi için ilçe belediyesi takibi gerekiyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 39.84472,
+      "lng": 41.31495
+    },
+    "id": "rd4kdbpwwe1777353854994"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "TEDAŞ Kütahya/Simav Trafo Binası ve 12 İl 32 ENH Acele Kamulaştırma",
+    "il": "Kütahya",
+    "ilce": "Simav",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11215 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Enerji Günlüğü / Tokat Haber",
+    "kaynak_link": "https://www.enerjigunlugu.net/tedasa-10-ilde-acele-kamulastirma-yetkisi-67924h.htm",
+    "aciklama": "Simav'da 588.63 m²'lik trafo binası mülk + Aksaray, Aydın, Bolu, Denizli, Düzce, Eskişehir, Kırşehir-Yozgat, Konya, Muğla, Niğde, Sivas ve Tokat illerinde 32 ayrı ENH güzergâhı için direk noktaları mülk, hat emniyet sahaları irtifak hakkı olarak TEDAŞ tarafından kamulaştırılıyor. Tek kararla 12 il etkileniyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 39.09894,
+      "lng": 28.98035
+    },
+    "id": "r9k9lccetn1777353855005"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "TEİAŞ 154/33 kV Arsuz Transformatör Merkezi Sahası Acele Kamulaştırma",
+    "il": "Hatay",
+    "ilce": "Arsuz",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11216 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Enerji Günlüğü",
+    "kaynak_link": "https://www.enerjigunlugu.net/arsuz-transformator-merkezi-sahasina-kamulastirma-67927h.htm",
+    "aciklama": "Hatay/Arsuz Çamlıyayla kesiminde tarım arazileri arasına konumlanan 154/33 kV transformatör merkezi sahası TEİAŞ tarafından kamulaştırılacak. Deprem bölgesi Arsuz'da yeni enerji altyapısı inşası. Referans: 21D000012-71.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.41579,
+      "lng": 36.36549
+    },
+    "id": "r88l0xyt5c1777353855016"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "TEİAŞ 154 kV Zeytinli-Gazdepo Brş.N-Tarsus OSB Enerji İletim Hattı Acele Kamulaştırma",
+    "il": "Mersin",
+    "ilce": "Tarsus",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11217 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Enerji Günlüğü",
+    "kaynak_link": "https://www.enerjigunlugu.net/teiasin-tarsus-osb-iletim-hatti-kamulastirmada-67928h.htm",
+    "aciklama": "Tarsus ilçesinden Tarsus OSB'ye uzanan hat güzergâhında direk noktaları mülk, salınım gabarisi irtifak hakkı olarak kamulaştırılacak. Milliyet/Uzmanpara ayrıca bu sayıda 154 kV Tarsus-Karahan Brş.N-Tarsus OSB Enerji İletim Hattı için de benzer kamulaştırma kararı bulunduğunu aktardı. Referans: 22D000012-61.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.91843,
+      "lng": 34.89819
+    },
+    "id": "ra190ymdws1777353855026"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "Van/Tuşba Kalecik-Şemsibey ve Kalecik Mahalleleri Kentsel Dönüşüm Proje Alanı İlanı",
+    "il": "Van",
+    "ilce": "Tuşba",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar No: 11210-11211 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Milli Gazete / Siirt Haberci",
+    "kaynak_link": "https://www.milligazete.com.tr/33234-sayili-resmi-gazetede-bugun-25042026",
+    "aciklama": "Karar 11210: Van/Tuşba Kalecik ve Şemsibey mahalleleri kentsel dönüşüm ve gelişim proje alanı ilan edildi. Karar 11211: Kalecik Mahallesi için ayrı bir kentsel dönüşüm proje alanı kararı. Deprem gerçeğiyle yaşayan Van'da iki ayrı mahallede eş zamanlı dönüşüm kararı. Mevcut konut dokusunun yıkılıp yeniden yapılanması öngörülüyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 38.4873,
+      "lng": 43.38329
+    },
+    "id": "r4ks99yr931777353855037"
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Madencilik Faaliyetleri İzin Yönetmeliği'nin Yürürlükten Kaldırılması – 21 Yıllık Denetim Çerçevesi Sona Erdi",
+    "il": "Ankara",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar No: 11228 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Marmaris Manşet / Birgun.net",
+    "kaynak_link": "https://marmarismanset.com/haber/27882335/tanaldan-akbelen-tepkisi-koylulerin-direnisi-surerken-madencilik-yonetmeligi-kaldirildi",
+    "aciklama": "2005'ten bu yana yürürlükte olan 'Madencilik Faaliyetleri İzin Yönetmeliği' 25 Nisan 2026'da Cumhurbaşkanı kararıyla tamamen kaldırıldı (Karar 11228). Resmi gerekçe 'bürokratik sadeleştirme'; ancak çevre örgütleri ve CHP bunu 'denetimlerin gevşetilmesi ve madencilik şirketlerine kolaylık' olarak değerlendiriyor. Akbelen direnişinin gündemde olduğu bu hafta yapılması tepki çekti. Artık tüm izinler doğrudan Maden Kanunu ve Maden Yönetmeliği üzerinden yürütülecek.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "koordinatlar": {
+      "lat": 39.92327,
+      "lng": 32.85401
+    },
+    "id": "r9ahmx7e4n1777353855048"
+  },
+  {
+    "tip": "Termik Reaktör",
+    "ad": "Türkiye Taşkömürü Kurumu Ana Statüsünde Değişiklik – TTK Yeniden Yapılandırılıyor",
+    "il": "Zonguldak",
+    "ilce": "",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar No: 11207 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Resmi Gazete yansıma kaynakları",
+    "kaynak_link": "https://www.milligazete.com.tr/33234-sayili-resmi-gazetede-bugun-25042026",
+    "aciklama": "Türkiye Taşkömürü Kurumu'nun ana statüsünde değişiklik yapıldı. TTK, Zonguldak havzasındaki taşkömürü üretimini yürüten kamu kuruluşu; bu değişiklik kurumun yönetim, görev veya mali yapısını etkileyecek. Ayrıntılar için RG tam metni gerekli.",
+    "alt_kategori": "Hava Kirliliği",
+    "koordinatlar": {
+      "lat": 41.45443,
+      "lng": 31.79532
+    },
+    "id": "rabhzd555j1777353855059"
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Konya/Seydişehir ETİ Alüminyum Özel Endüstri Bölgesi İlanı",
+    "il": "Konya",
+    "ilce": "Seydişehir",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar No: 11208 – RG 25 Nisan 2026, Sayı 33234",
+    "eklenme": "2026-04-25",
+    "kaynak": "Resmi Gazete yansıma kaynakları",
+    "kaynak_link": "https://www.milligazete.com.tr/33234-sayili-resmi-gazetede-bugun-25042026",
+    "aciklama": "Konya'nın Seydişehir ilçesinde ETİ Alüminyum A.Ş.'ye ait alanın Özel Endüstri Bölgesi olarak ilanı. ETİ Alüminyum Türkiye'nin tek entegre alüminyum tesisidir; bu karar üretim alanını genişletme veya yeniden yapılandırma kapsamında değerlendiriliyor.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "koordinatlar": {
+      "lat": 37.42331,
+      "lng": 31.84688
+    },
+    "id": "rklkj4rtkg1777353855070"
+  },
+  {
+    "id": "ro21m7mwhl1777355178154",
+    "tip": "Maden Ocağı",
+    "ad": "Korgan Aybastı yaylasında şirket jandarma koruması altında sondaj çalışmasına başladı.",
+    "il": "Ordu",
+    "ilce": "Aybastı",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.677904,
+      "lng": 37.398148
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-28",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_link": "",
+    "sabit": true
   }
 ]
