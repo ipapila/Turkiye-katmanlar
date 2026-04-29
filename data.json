@@ -68261,5 +68261,195 @@
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
     "kaynak_link": "",
     "sabit": true
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Perşembe Yaylası Altın Madeni – Taşzemin Madencilik",
+    "il": "Ordu",
+    "ilce": "Aybastı",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-04-27",
+    "kaynak": "BirGün",
+    "kaynak_link": "https://www.birgun.net/haber/karadeniz-in-altini-oyacaklar-persembe-yaylasi-nda-sondaj-calismasi-basladi-708710",
+    "aciklama": "Taşzemin Madencilik, Nitelikli Doğal Koruma Alanı ve Doğal Sit statüsündeki Perşembe Yaylası'nda siyanürlü altın madeni sondaj çalışması başlattı. Ordu İdare Mahkemesi 2025 Ocak'ta sondaj izinlerini iptal etmesine karşın jandarma korumasıyla bölgeye girildi.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "id": "rc74sekgia1777437318772",
+    "koordinatlar": {
+      "lat": 40.68791,
+      "lng": 37.39148
+    }
+  },
+  {
+    "tip": "Ekolojik İhlal",
+    "ad": "Perşembe Yaylası – Jandarma Korumasıyla Yasadışı Maden Girişi",
+    "il": "Ordu",
+    "ilce": "Korgan",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-27",
+    "kaynak": "Ordu Olay Gazetesi",
+    "kaynak_link": "https://www.orduolay.com/haber/27894421/bu-guzelligi-kiyanin-eli-kirilsin-cennet-yaylamiza-maden-sondaji",
+    "aciklama": "ÇED raporu ve mera izni bulunmayan Taşzemin Madencilik'e jandarma yol açtı; yüzlerce köylü barikat kurdu. ORÇEV: 'Valilik ve kaymakamlık, kolluk gücünü firmanın yasa dışı çalışması için kullanıyor.'",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "id": "rupru74j6l1777437318772",
+    "koordinatlar": {
+      "lat": 40.82832,
+      "lng": 37.31366
+    }
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Kirazlı Altın Madeni – TÜMAD Madencilik",
+    "il": "Çanakkale",
+    "ilce": "Ezine",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-04-25",
+    "kaynak": "Dokuz8Haber",
+    "kaynak_link": "https://www.dokuz8haber.net/kazdaglarindaki-ekoloji-orgutlerinden-kirazlida-calismalara-tepki-satis-hukumsuzdur-tumad-alani-isgal-ediyor",
+    "aciklama": "Alamos Gold'dan devredilen ruhsatla TÜMAD Madencilik, Atikhisar Barajı yakınlarında iş makinesiyle çalışma başlattı. Çevre örgütleri ruhsat devrinin geçersiz olduğunu, yenilenmeden orman izni kullanıldığını belirtiyor.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "id": "rdb9vsdbiw1777437318772",
+    "koordinatlar": {
+      "lat": 39.78923,
+      "lng": 26.34203
+    }
+  },
+  {
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa Kirazlıyayla Maden Atık Barajı Çökmesi",
+    "il": "Bursa",
+    "ilce": "Yenişehir",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-28",
+    "kaynak": "Ekoloji Birliği",
+    "kaynak_link": "https://ekolojibirligi.org/",
+    "aciklama": "Bursa Yenişehir Kirazlıyayla Mahallesi'nde Meyra şirketine ait maden atık barajı çöktü. Şirket 'doğal afet' açıklarken çevre örgütleri denetimsizlik ve teşvik politikalarını sorumlu tutuyor.",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm",
+    "id": "rjcecit0od1777437318772",
+    "koordinatlar": {
+      "lat": 40.26415,
+      "lng": 29.6432
+    }
+  },
+  {
+    "tip": "Jeotermal",
+    "ad": "Varto JES Projesi – 16 Köy Kapsayan Jeotermal Sondaj",
+    "il": "Muş",
+    "ilce": "Varto",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-04-29",
+    "kaynak": "PİRHA",
+    "kaynak_link": "https://pirha.org/kategori/tum-haberler/ekoloji/",
+    "aciklama": "Muş Varto'nun 16 köyünü kapsayan jeotermal sondaj projesine karşı Varto Ekoloji Platformu direniş kararı aldı. Su kaynakları, tarım ve kültürel miras tehdit altında.",
+    "alt_kategori": "",
+    "id": "rud81cv9q81777437318772",
+    "koordinatlar": {
+      "lat": 39.17297,
+      "lng": 41.45906
+    }
+  },
+  {
+    "tip": "GES",
+    "ad": "Dersim Pertek – Özen GES (Kaçak Kurulum)",
+    "il": "Tunceli",
+    "ilce": "Pertek",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-04-29",
+    "kaynak": "PİRHA",
+    "kaynak_link": "https://pirha.org/kategori/tum-haberler/ekoloji/",
+    "aciklama": "Tunceli Pertek Demirsaban köyünde mevzuata aykırı biçimde inşa edilen Özen GES'e Munzur Çevre Derneği itiraz etti. DEM Parti Milletvekili konuyu Bakanlığa taşıdı.",
+    "alt_kategori": "",
+    "id": "rr4wj5rj561777437318772",
+    "koordinatlar": {
+      "lat": 38.85559,
+      "lng": 39.32442
+    }
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Zara Dipsizgöl Selestit Maden Ocağı",
+    "il": "Sivas",
+    "ilce": "Zara",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-04-29",
+    "kaynak": "PİRHA",
+    "kaynak_link": "https://pirha.org/kategori/tum-haberler/ekoloji/",
+    "aciklama": "Sivas Zara Dipsizgöl'deki selestit maden ocağına karşı açılan davada yürütmeyi durdurma talebi reddedildi. Köylüler su kaynakları ve tarım alanları için kaygılanıyor.",
+    "alt_kategori": "Su Kirliliği",
+    "id": "r5s35merqx1777437318772",
+    "koordinatlar": {
+      "lat": 39.89525,
+      "lng": 37.75275
+    }
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Silifke Ovacık Maden Atık Depolama Tesisi",
+    "il": "Mersin",
+    "ilce": "Silifke",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-04-29",
+    "kaynak": "PİRHA",
+    "kaynak_link": "https://pirha.org/kategori/tum-haberler/ekoloji/",
+    "aciklama": "Mersin Silifke Ovacık'ta planlanan maden atık depolama tesisine karşı Mersin Tabip Odası ve Çevre Platformu basın açıklaması yaptı. Halk sağlığı ve su kaynakları üzerindeki tehdit vurgulandı.",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm",
+    "id": "ri90yo3oif1777437318772",
+    "koordinatlar": {
+      "lat": 36.37526,
+      "lng": 33.93603
+    }
+  },
+  {
+    "tip": "Ekolojik İhlal",
+    "ad": "Adana Sarıhamzalı Plastik Atık Yangını",
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "alan_ha": 0,
+    "durum": "Kapatıldı",
+    "belge_no": "",
+    "eklenme": "2026-04-17",
+    "kaynak": "Adana Ekoloji Platformu",
+    "kaynak_link": "https://www.habereguven.com/ekoloji-platformu-atik-plastik-isyerlerinde-cikan-veya-cikarilan-yanginlari-onlemek-mumkundur",
+    "aciklama": "17 Nisan 2026'da Adana Sarıhamzalı'da Avrupa'dan ithal plastik çöp depolayan bir işyerinde büyük yangın çıktı. Zehirli siyah duman saatlerce yayıldı. Platform: 'Yüzyıllardır devam eden sömürgeciliğin yeni biçimi.'",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm",
+    "id": "rlgh150yn41777437318772",
+    "koordinatlar": {
+      "lat": 36.99702,
+      "lng": 35.32453
+    }
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "İkizköy – Akbelen Ormanı Çevresi Acele Kamulaştırma",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "alan_ha": 740,
+    "durum": "Aktif",
+    "belge_no": "2026/CB",
+    "eklenme": "2026-01-10",
+    "kaynak": "Yeni Yaşam Gazetesi",
+    "kaynak_link": "https://yeniyasamgazetesi9.com/yer-alti-kaynaklari-bolusturuluyor-aslan-payi-akplilere-cengiz-ve-limak-holdinge-verildi/",
+    "aciklama": "Muğla Milas İkizköy'de 740 dönümlük Akbelen Ormanı çevresi ve zeytin bahçeleri Cumhurbaşkanı imzasıyla 10 Ocak 2026'da acele kamulaştırmaya tabi tutuldu. Maden faaliyetleri için alan açılıyor.",
+    "alt_kategori": "",
+    "id": "rvh37xuz8t1777437318772",
+    "koordinatlar": {
+      "lat": 37.32009,
+      "lng": 27.78406
+    }
   }
 ]
