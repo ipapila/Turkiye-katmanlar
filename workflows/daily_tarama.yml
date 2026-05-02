@@ -1,0 +1,35 @@
+name: Günlük Ekoloji Taraması
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Her gün 06:00 UTC (09:00 Türkiye)
+  workflow_dispatch:        # Manuel tetikleme
+
+jobs:
+  tarama:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları yükle
+        run: pip install requests beautifulsoup4 feedparser
+
+      - name: Taramayı çalıştır
+        run: python scripts/tarama.py
+
+      - name: Değişiklikleri commit et
+        run: |
+          git config user.name "tarama-bot"
+          git config user.email "bot@ipapila.github.io"
+          git add data/
+          git diff --staged --quiet || git commit -m "🌿 Otomatik tarama: $(date '+%Y-%m-%d')"
+          git push
