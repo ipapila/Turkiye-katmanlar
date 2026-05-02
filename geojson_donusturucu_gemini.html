@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ekoloji Haritası — GeoJSON Dönüştürücü (Gemini)</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d27;
+    --border: #2a2d3e;
+    --accent: #4ade80;
+    --accent2: #60a5fa;
+    --text: #e2e8f0;
+    --muted: #64748b;
+    --error: #f87171;
+    --warn: #fbbf24;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; min-height: 100vh; }
+
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 24px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  header .logo { font-size: 22px; }
+  header h1 { font-size: 16px; font-weight: 600; }
+  header small { color: var(--muted); font-size: 12px; }
+
+  .container { max-width: 960px; margin: 0 auto; padding: 24px; }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .card h2 { font-size: 14px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 14px; }
+
+  /* API Anahtar */
+  .api-row { display: flex; gap: 8px; }
+  .api-row input {
+    flex: 1; background: var(--bg); border: 1px solid var(--border);
+    border-radius: 8px; padding: 10px 14px; color: var(--text); font-size: 14px;
+  }
+  .api-row input:focus { outline: none; border-color: var(--accent2); }
+  .api-row a { color: var(--accent2); font-size: 12px; align-self: center; white-space: nowrap; }
+
+  /* Textarea */
+  textarea {
+    width: 100%; background: var(--bg); border: 1px solid var(--border);
+    border-radius: 8px; padding: 12px; color: var(--text); font-size: 13px;
+    font-family: 'Courier New', monospace; resize: vertical; min-height: 180px;
+  }
+  textarea:focus { outline: none; border-color: var(--accent2); }
+
+  /* Dosya sürükleme */
+  .drop-zone {
+    border: 2px dashed var(--border); border-radius: 10px;
+    padding: 28px; text-align: center; cursor: pointer;
+    transition: border-color .2s;
+  }
+  .drop-zone:hover, .drop-zone.over { border-color: var(--accent); }
+  .drop-zone .icon { font-size: 32px; margin-bottom: 8px; }
+  .drop-zone p { color: var(--muted); font-size: 13px; }
+  .drop-zone input[type=file] { display: none; }
+
+  /* Butonlar */
+  .btn {
+    padding: 10px 20px; border-radius: 8px; border: none; cursor: pointer;
+    font-size: 14px; font-weight: 500; transition: opacity .15s;
+  }
+  .btn:disabled { opacity: .4; cursor: not-allowed; }
+  .btn-primary { background: var(--accent); color: #0f1117; }
+  .btn-secondary { background: var(--surface); color: var(--text); border: 1px solid var(--border); }
+  .btn-danger { background: var(--error); color: #fff; }
+  .btn-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
+
+  /* Log */
+  #log {
+    background: var(--bg); border: 1px solid var(--border); border-radius: 8px;
+    padding: 12px; height: 220px; overflow-y: auto;
+    font-family: monospace; font-size: 12px; color: var(--muted);
+  }
+  #log .ok   { color: var(--accent); }
+  #log .warn { color: var(--warn); }
+  #log .err  { color: var(--error); }
+
+  /* Tablo */
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { background: var(--bg); color: var(--muted); text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); }
+  td { padding: 8px 10px; border-bottom: 1px solid var(--border); }
+  tr:hover td { background: rgba(255,255,255,.02); }
+  .badge {
+    display: inline-block; padding: 2px 8px; border-radius: 20px;
+    font-size: 11px; font-weight: 600;
+  }
+  .badge-ok   { background: rgba(74,222,128,.15); color: var(--accent); }
+  .badge-warn { background: rgba(251,191,36,.15);  color: var(--warn); }
+  .badge-err  { background: rgba(248,113,113,.15); color: var(--error); }
+
+  /* Progress */
+  .progress-bar { background: var(--border); border-radius: 4px; height: 6px; margin-top: 10px; }
+  .progress-fill { background: var(--accent); height: 100%; border-radius: 4px; transition: width .3s; }
+
+  .stat-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 10px; }
+  .stat { background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 10px 16px; }
+  .stat .n { font-size: 22px; font-weight: 700; }
+  .stat .l { font-size: 11px; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<header>
+  <span class="logo">🌿</span>
+  <div>
+    <h1>Ekoloji Haritası — GeoJSON Dönüştürücü</h1>
+    <small>Gemini 1.5 Flash · Ücretsiz API · Türkiye-Katmanlar uyumlu</small>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- API Anahtarı -->
+  <div class="card">
+    <h2>🔑 Gemini API Anahtarı</h2>
+    <div class="api-row">
+      <input type="password" id="apiKey" placeholder="AIza..." />
+      <a href="https://aistudio.google.com/app/apikey" target="_blank">→ Ücretsiz al</a>
+    </div>
+    <p style="margin-top:8px;font-size:12px;color:var(--muted)">
+      Anahtar yalnızca tarayıcında tutulur, hiçbir yere gönderilmez. Günlük 1500 istek ücretsiz.
+    </p>
+  </div>
+
+  <!-- Girdi -->
+  <div class="card">
+    <h2>📄 Veri Girişi</h2>
+    <p style="font-size:13px;color:var(--muted);margin-bottom:12px">
+      Ham metin, haber kopyası, tablo veya yarı yapılandırılmış veri yapıştır. Gemini, koordinatları ve kategorileri otomatik çıkaracak.
+    </p>
+    <textarea id="inputText" placeholder="Örnek:&#10;Kırşehir Boztepe'de 5855 ha'lık altın madeni ÇED olumlu aldı.&#10;Muğla Dalaman Kille Koyu'nda 186 yatlık iskele planlanıyor.&#10;İstanbul Çatalca'da 3 ha orman yandı."></textarea>
+
+    <div class="drop-zone" id="dropZone">
+      <div class="icon">📂</div>
+      <p>JSON veya CSV dosyası sürükle &amp; bırak<br><small>ya da tıkla</small></p>
+      <input type="file" id="fileInput" accept=".json,.csv,.txt">
+    </div>
+
+    <div class="btn-row">
+      <button class="btn btn-primary" id="btnAnaliz" onclick="analizEt()">🔍 Analiz Et & Dönüştür</button>
+      <button class="btn btn-secondary" onclick="ornekYukle()">📋 Örnek Veri</button>
+      <button class="btn btn-secondary" onclick="temizle()">🗑 Temizle</button>
+    </div>
+
+    <div class="progress-bar" id="progressWrap" style="display:none">
+      <div class="progress-fill" id="progressFill" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- Log -->
+  <div class="card">
+    <h2>📟 İşlem Günlüğü</h2>
+    <div id="log"><span class="ok">Hazır. Veri girin ve "Analiz Et" butonuna basın.</span></div>
+  </div>
+
+  <!-- Sonuçlar -->
+  <div class="card" id="sonucCard" style="display:none">
+    <h2>✅ Sonuçlar</h2>
+    <div class="stat-row" id="statRow"></div>
+    <div class="table-wrap">
+      <table id="sonucTablosu">
+        <thead>
+          <tr>
+            <th>#</th><th>Ad</th><th>Kategori</th><th>İl</th>
+            <th>Koordinat</th><th>Durum</th>
+          </tr>
+        </thead>
+        <tbody id="sonucBody"></tbody>
+      </table>
+    </div>
+    <div class="btn-row">
+      <button class="btn btn-primary" onclick="jsonIndir()">⬇ JSON İndir</button>
+      <button class="btn btn-secondary" onclick="panoyaKopyala()">📋 Panoya Kopyala</button>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// ─── Yardımcı ─────────────────────────────────────────────────────────────
+
+let sonuclar = [];
+
+function log(msg, tip = '') {
+  const el = document.getElementById('log');
+  const line = document.createElement('div');
+  if (tip) line.className = tip;
+  line.textContent = `[${new Date().toLocaleTimeString('tr')}] ${msg}`;
+  el.appendChild(line);
+  el.scrollTop = el.scrollHeight;
+}
+
+function progress(pct) {
+  const wrap = document.getElementById('progressWrap');
+  const fill = document.getElementById('progressFill');
+  wrap.style.display = 'block';
+  fill.style.width = pct + '%';
+  if (pct >= 100) setTimeout(() => wrap.style.display = 'none', 800);
+}
+
+function uid(text) {
+  let h = 0;
+  for (let c of text) h = (Math.imul(31, h) + c.charCodeAt(0)) | 0;
+  return 'g' + Math.abs(h).toString(36) + '_' + Date.now().toString(36);
+}
+
+// ─── Dosya sürükleme ──────────────────────────────────────────────────────
+
+const dropZone = document.getElementById('dropZone');
+const fileInput = document.getElementById('fileInput');
+
+dropZone.addEventListener('click', () => fileInput.click());
+dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('over'); });
+dropZone.addEventListener('dragleave', () => dropZone.classList.remove('over'));
+dropZone.addEventListener('drop', e => {
+  e.preventDefault(); dropZone.classList.remove('over');
+  handleFile(e.dataTransfer.files[0]);
+});
+fileInput.addEventListener('change', e => handleFile(e.target.files[0]));
+
+function handleFile(file) {
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = ev => {
+    document.getElementById('inputText').value = ev.target.result;
+    log(`Dosya yüklendi: ${file.name} (${(file.size/1024).toFixed(1)} KB)`, 'ok');
+  };
+  reader.readAsText(file, 'UTF-8');
+}
+
+// ─── Örnek ───────────────────────────────────────────────────────────────
+
+function ornekYukle() {
+  document.getElementById('inputText').value = `Kırşehir Boztepe Kervansaray Dağları'nda DEFAŞ Madencilik'in 5855 hektarlık altın madeni projesine ÇED Olumlu kararı verildi. Seyfe Gölü Ramsar alanını tehdit ediyor.
+
+Muğla Dalaman Kille Koyu'nda 186 yat kapasiteli bağlama iskelesi planlandı. Fethiye-Göcek ÖÇK Bölgesi ve Doğal Sit alanında. Halk protesto etti.
+
+İstanbul Çatalca'da orman yangını çıktı, 3.5 hektar alan zarar gördü.
+
+Bolu Göynük Himmetoğlu linyit ocağı TKİ tarafından 2384 hektara genişletiliyor. ÇED Olumlu.
+
+Balıkesir Ayvalık Kozak Yaylası Bağyüzü mevkiinde granit ocağı planlandı.`;
+  log('Örnek veri yüklendi', 'ok');
+}
+
+function temizle() {
+  document.getElementById('inputText').value = '';
+  document.getElementById('sonucCard').style.display = 'none';
+  sonuclar = [];
+}
+
+// ─── Gemini API çağrısı ───────────────────────────────────────────────────
+
+async function geminiCagri(prompt, apiKey) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+  const resp = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.1, maxOutputTokens: 4000 }
+    })
+  });
+  if (!resp.ok) {
+    const err = await resp.json();
+    throw new Error(err.error?.message || `HTTP ${resp.status}`);
+  }
+  const data = await resp.json();
+  return data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+}
+
+// ─── Ana analiz akışı ─────────────────────────────────────────────────────
+
+async function analizEt() {
+  const apiKey = document.getElementById('apiKey').value.trim();
+  const metin  = document.getElementById('inputText').value.trim();
+
+  if (!apiKey) { alert('Lütfen Gemini API anahtarınızı girin.'); return; }
+  if (!metin)  { alert('Lütfen analiz edilecek metin girin.'); return; }
+
+  document.getElementById('btnAnaliz').disabled = true;
+  document.getElementById('sonucCard').style.display = 'none';
+  sonuclar = [];
+
+  log('Gemini API\'ye bağlanılıyor...', '');
+  progress(10);
+
+  const prompt = `Aşağıdaki Türkçe metinden çevre ve ekoloji olaylarını çıkar. Her olay için JSON objesi üret.
+
+METİN:
+${metin}
+
+KISITLAMALAR:
+- Yalnızca aşağıdaki kategori değerlerinden birini kullan: "Maden Ocağı", "Taş-Mermer Ocağı", "Rüzgar Santrali", "Güneş Santrali", "Hidroelektrik", "Jeotermal", "Termik Santral", "Kıyı İhlalleri", "Ekolojik İhlal", "ÇED", "Acele Kamulaştırma", "Nükleer", "Sulak Alan"
+- koordinatlar: metinden il/ilçe bilgisine göre Türkiye'deki gerçek koordinatları (WGS84) tahmin et, mutlaka doldur
+- alan_ha: hektar sayısı, bilinmiyorsa 0
+- durum: "Aktif", "Planlama", "Yargıda", "Kapatıldı" değerlerinden biri
+
+ÇIKTI: Yalnızca JSON array, başka hiçbir şey yazma, Markdown backtick kullanma.
+Format:
+[
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Olay adı",
+    "il": "İl adı",
+    "ilce": "İlçe adı veya boş",
+    "koordinatlar": {"lat": 39.1234, "lng": 34.5678},
+    "alan_ha": 5855,
+    "durum": "Yargıda",
+    "aciklama": "Kısa açıklama"
+  }
+]`;
+
+  try {
+    progress(40);
+    log('Yapay zeka analiz ediyor...', '');
+    const yanit = await geminiCagri(prompt, apiKey);
+    progress(75);
+
+    // JSON parse
+    let parsed;
+    try {
+      const temiz = yanit.replace(/```json|```/g, '').trim();
+      parsed = JSON.parse(temiz);
+    } catch (e) {
+      // Kısmi parse dene
+      const match = yanit.match(/\[[\s\S]*\]/);
+      if (match) parsed = JSON.parse(match[0]);
+      else throw new Error('JSON parse başarısız: ' + yanit.substring(0, 200));
+    }
+
+    if (!Array.isArray(parsed) || parsed.length === 0) {
+      throw new Error('Hiç kayıt bulunamadı');
+    }
+
+    progress(90);
+    log(`${parsed.length} olay tespit edildi, kayıtlar hazırlanıyor...`, 'ok');
+
+    sonuclar = parsed.map(r => ({
+      id: uid(r.ad + r.il),
+      tip: r.tip || 'Ekolojik İhlal',
+      ad: r.ad || '',
+      il: r.il || '',
+      ilce: r.ilce || '',
+      koordinatlar: r.koordinatlar || { lat: 39.0, lng: 35.0 },
+      alan_ha: r.alan_ha || 0,
+      durum: r.durum || 'Aktif',
+      belge_no: r.belge_no || '',
+      eklenme: new Date().toISOString().slice(0,10),
+      kaynak: 'Manuel Giriş',
+      kaynak_link: '',
+      aciklama: r.aciklama || '',
+      alt_kategori: '',
+      sabit: false,
+    }));
+
+    goster();
+    progress(100);
+    log(`✅ Tamamlandı. ${sonuclar.length} kayıt hazır.`, 'ok');
+
+  } catch (err) {
+    log(`❌ Hata: ${err.message}`, 'err');
+    progress(0);
+    console.error(err);
+  } finally {
+    document.getElementById('btnAnaliz').disabled = false;
+  }
+}
+
+// ─── Tablo gösterimi ──────────────────────────────────────────────────────
+
+function goster() {
+  const card = document.getElementById('sonucCard');
+  const body = document.getElementById('sonucBody');
+  const stats = document.getElementById('statRow');
+  card.style.display = 'block';
+  body.innerHTML = '';
+
+  // İstatistik
+  const cats = {};
+  sonuclar.forEach(r => cats[r.tip] = (cats[r.tip] || 0) + 1);
+  stats.innerHTML = `
+    <div class="stat"><div class="n">${sonuclar.length}</div><div class="l">Toplam Kayıt</div></div>
+    ${Object.entries(cats).map(([c,n]) => `<div class="stat"><div class="n">${n}</div><div class="l">${c}</div></div>`).join('')}
+  `;
+
+  sonuclar.forEach((r, i) => {
+    const koord = r.koordinatlar;
+    const koordinatStr = koord ? `${koord.lat}, ${koord.lng}` : '—';
+    const koordinatBadge = koord && koord.lat !== 39.0
+      ? `<span class="badge badge-ok">✓</span>`
+      : `<span class="badge badge-warn">≈</span>`;
+
+    body.innerHTML += `<tr>
+      <td>${i+1}</td>
+      <td>${r.ad}</td>
+      <td><span class="badge badge-ok">${r.tip}</span></td>
+      <td>${r.il}${r.ilce ? ' / '+r.ilce : ''}</td>
+      <td>${koordinatBadge} ${koordinatStr}</td>
+      <td>${r.durum}</td>
+    </tr>`;
+  });
+
+  card.scrollIntoView({ behavior: 'smooth' });
+}
+
+// ─── İndirme / kopyalama ──────────────────────────────────────────────────
+
+function jsonIndir() {
+  if (!sonuclar.length) return;
+  const blob = new Blob([JSON.stringify(sonuclar, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `tarama_${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+  log('JSON dosyası indirildi.', 'ok');
+}
+
+function panoyaKopyala() {
+  if (!sonuclar.length) return;
+  navigator.clipboard.writeText(JSON.stringify(sonuclar, null, 2))
+    .then(() => log('JSON panoya kopyalandı.', 'ok'))
+    .catch(() => log('Kopyalama başarısız.', 'err'));
+}
+</script>
+</body>
+</html>
