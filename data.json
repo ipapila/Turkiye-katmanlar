@@ -68451,5 +68451,195 @@
       "lat": 37.32009,
       "lng": 27.78406
     }
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "Çorum–Samsun Hızlı Tren Hattı Acele Kamulaştırma",
+    "il": "Amasya",
+    "ilce": "Merkez",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "11167",
+    "eklenme": "2026-04-17",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2026/04/20260417.htm",
+    "aciklama": "Çorum–Havza (Samsun) 1. etap hızlı tren hattı güzergahındaki taşınmazlar TCDD tarafından acele kamulaştırılacak. Karar Amasya, Çorum ve Samsun illerini kapsıyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 40.65445,
+      "lng": 35.83372
+    },
+    "id": "r7k0gnj20k1777692855169"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "Muğla Güney–Dalaman–Köyceğiz 154 kV Enerji İletim Hattı",
+    "il": "Muğla",
+    "ilce": "Köyceğiz",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "11171",
+    "eklenme": "2026-04-17",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.muglagazetesi.com.tr/mugla-haberleri/muglada-enerji-hatti-projesi-koycegiz-ve-dalaman-icin-acele-kamulastirma-211727h",
+    "aciklama": "TEİAŞ'ın 154 kV Muğla Güney–Dalaman–Köyceğiz enerji iletim hattı güzergahındaki taşınmazlar acele kamulaştırılacak. Direk noktaları mülkiyet, salınım gabarisi irtifak hakkı ile alınacak.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.9632,
+      "lng": 28.68399
+    },
+    "id": "rojw9h5thm1777692855179"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "Samsun Canik Kentsel Dönüşüm Acele Kamulaştırma",
+    "il": "Samsun",
+    "ilce": "Canik",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "11183",
+    "eklenme": "2026-04-24",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://t24.com.tr/gundem/resm-gazetede-bugun-24-nisan-2026-resm-gazete-kararlari,1316422",
+    "aciklama": "Samsun Canik Yeni Mahallesi kentsel dönüşüm projesi kapsamında özel mülkler Samsun Büyükşehir Belediyesi tarafından acele kamulaştırılacak. 30 koordinat noktasıyla belirlenen sınır içindeki alanı kapsıyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 41.28421,
+      "lng": 36.38349
+    },
+    "id": "r6xow92wdb1777692855189"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ankara Mamak Sosyal Konut Bağlantı Yolları Kamulaştırma",
+    "il": "Ankara",
+    "ilce": "Mamak",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "11184",
+    "eklenme": "2026-04-24",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://t24.com.tr/gundem/resm-gazetede-bugun-24-nisan-2026-resm-gazete-kararlari,1316422",
+    "aciklama": "Ankara Mamak'ta Kızılca, Ortaköy ve Nenek mahallelerindeki bağlantı yollarına isabet eden taşınmazlar, sosyal konut projesi kapsamında TOKİ tarafından acele kamulaştırılacak.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 39.93763,
+      "lng": 32.90993
+    },
+    "id": "rzdkngja4g1777692855199"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "TEİAŞ Zeytinli–Tarsus OSB 154 kV Enerji İletim Hattı",
+    "il": "Mersin",
+    "ilce": "Tarsus",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "11215",
+    "eklenme": "2026-04-25",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.petroturk.com/elektrik-haberleri/enerjide-acele-kamulastirma-karari-45",
+    "aciklama": "154 kV Zeytinli–Gazdepo Brş.N–Tarsus OSB ve Tarsus–Karahan Brş.N–Tarsus OSB enerji iletim hatları için taşınmazlar acele kamulaştırılacak. Kırklareli–Pınarhisar hattı da aynı kapsamda.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.91357,
+      "lng": 34.89152
+    },
+    "id": "rm7kwmqg1f1777692855210"
+  },
+  {
+    "tip": "Acele Kamulaştırma",
+    "ad": "TEDAŞ Simav Trafo ve 12 İlde 32 ENH Kamulaştırma",
+    "il": "Kütahya",
+    "ilce": "Simav",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "11215",
+    "eklenme": "2026-04-25",
+    "kaynak": "Resmî Gazete / Enerji Günlüğü",
+    "kaynak_link": "https://www.enerjigunlugu.net/tedasa-10-ilde-acele-kamulastirma-yetkisi-67924h.htm",
+    "aciklama": "TEDAŞ'a Kütahya Simav'daki trafo binası (ada/parsel 2/142, 588 m²) ile Aksaray, Aydın, Bolu, Denizli, Düzce, Eskişehir, Konya, Muğla, Niğde, Sivas ve Tokat'taki 32 ayrı ENH için acele kamulaştırma yetkisi verildi.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 39.09137,
+      "lng": 28.97872
+    },
+    "id": "re4n7m4irm1777692855220"
+  },
+  {
+    "tip": "RES",
+    "ad": "Yaylaköy RES Hibrit GES – Karaburun",
+    "il": "İzmir",
+    "ilce": "Karaburun",
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-04-03",
+    "kaynak": "EPDK / Enerji Bülteni",
+    "kaynak_link": "https://www.enerjibulteni.com/2026/04/03/enda-enerji-yaylakoy-res-hibrit-ges-icin-lisans-tadil-onayi-aldi/",
+    "aciklama": "Enda Enerji'nin İzmir Karaburun'daki Yaylaköy RES'ine hibrit bağlanan 6,5 MWp gücünde GES için EPDK lisans tadil onayı verildi. Türbin ve güneş panellerinin birlikte işletileceği hibrit santral.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 38.64165,
+      "lng": 26.51608
+    },
+    "id": "rdlytu8xgg1777692855230"
+  },
+  {
+    "tip": "Nükleer Enerji",
+    "ad": "Akkuyu NGS 1. Ünite – Pasif Isı Alma Sistemi Montajı Tamamlandı",
+    "il": "Mersin",
+    "ilce": "Gülnar",
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-04-30",
+    "kaynak": "Enerji Bülteni",
+    "kaynak_link": "https://www.enerjibulteni.com/2026/04/30/akkuyu-1-unitede-pasif-isi-alma-sistemi-montaji-tamamlandi/",
+    "aciklama": "Rosatom'un inşa ettiği Akkuyu NGS 1. Güç Ünitesi'nde pasif ısı alma sistemi (PHRS) montajı tamamlandı. 90'dan fazla ekipman yerleştirildi. Devreye alma süreci 2026 içinde planlanıyor.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.33063,
+      "lng": 33.39645
+    },
+    "id": "rsxkyoboyy1777692855240"
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Kirazlı Altın Madeni – TÜMAD Ruhsat Devir İtirazı",
+    "il": "Çanakkale",
+    "ilce": "Ezine",
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-04-26",
+    "kaynak": "Çanakkaleli Gazetesi",
+    "kaynak_link": "https://canakkaleli.com.tr/kirazlida-maden-tartismasi-suruyor-devir-islemi-hukumsuzdur/",
+    "aciklama": "Kazdağı Doğal ve Kültürel Varlıkları Koruma Derneği, Alamos Gold'dan TÜMAD'a yapılan ruhsat devrini hükümsüz ilan etti. TÜMAD'ın sahayı usulsüz işgal ettiği belirtildi; MAPEG ruhsat bilgisini 'ticari sır' diyerek açıklamadı.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "koordinatlar": {
+      "lat": 39.79114,
+      "lng": 26.34303
+    },
+    "id": "rebvigeljh1777692855250"
+  },
+  {
+    "tip": "Maden Ocağı",
+    "ad": "Akseki Gidengelmez Dağı Boksit Madeni Kapasite Artışı",
+    "il": "Antalya",
+    "ilce": "Akseki",
+    "alan_ha": 792.99,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-04-25",
+    "kaynak": "Antalya Körfez Gazetesi",
+    "kaynak_link": "https://www.antalyakorfez.com/gidengelmez-daginda-boksit-madeni-tehdidi-kapasite-artisina-gidiliyor",
+    "aciklama": "Eti Alüminyum'un (Cengiz Holding) Akseki'deki 792,99 ha boksit madeni kapasite artışı için ÇED süreci devam ediyor. Saha Gidengelmez Dağı YHGS'yi kapsıyor. 25 Nisan 2026'da Özel Endüstri Bölgesi ilan edildi.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "koordinatlar": {
+      "lat": 37.0497,
+      "lng": 31.79406
+    },
+    "id": "rrgxn3zhse1777692855260"
   }
 ]
