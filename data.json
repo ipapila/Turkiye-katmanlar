@@ -5514,17 +5514,17 @@
     "ilce": "",
     "aciklama": "(Birleştirilmiş 8 türbin, İzmir)",
     "koordinatlar": {
-      "lat": 38.743996749999994,
-      "lng": 26.938989125
+      "lat": 38.745013,
+      "lng": 26.934271
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "1932718904",
-    "eklenme": "2026-03-19",
+    "eklenme": "2026-05-02",
     "kaynak": "Shapefile/GeoJSON",
-    "count": 8,
     "alt_kategori": "",
-    "kaynak_link": ""
+    "kaynak_link": "",
+    "sabit": true
   },
   {
     "id": "r530v01d7g1774037434483",
@@ -32212,18 +32212,20 @@
     "tip": "RES",
     "ad": "Rüzgâr Türbini (8 türbin, İzmir)",
     "il": "İzmir",
+    "ilce": "Aliağa",
     "aciklama": "(Birleştirilmiş 8 türbin, İzmir)\n(Birleştirilmiş 3 türbin, İzmir)",
     "koordinatlar": {
-      "lat": 38.744428,
-      "lng": 26.939578
+      "lat": 38.747281,
+      "lng": 26.943423
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "1932718904",
-    "eklenme": "2026-03-23",
+    "eklenme": "2026-05-02",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
-    "kaynak_link": ""
+    "alt_kategori": "",
+    "kaynak_link": "",
+    "sabit": true
   },
   {
     "id": "reip4seas91774238794128",
