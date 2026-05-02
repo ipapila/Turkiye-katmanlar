@@ -132,6 +132,9 @@
       <input type="password" id="apiKey" placeholder="AIza..." />
       <a href="https://aistudio.google.com/app/apikey" target="_blank">→ Ücretsiz al</a>
     </div>
+    <div class="btn-row" style="margin-top:10px">
+      <button class="btn btn-secondary" onclick="apiTestEt()">🔌 Bağlantıyı Test Et</button>
+    </div>
     <p style="margin-top:8px;font-size:12px;color:var(--muted)">
       Anahtar yalnızca tarayıcında tutulur, hiçbir yere gönderilmez. Günlük 1500 istek ücretsiz.
     </p>
@@ -245,6 +248,18 @@ function handleFile(file) {
 
 // ─── Örnek ───────────────────────────────────────────────────────────────
 
+async function apiTestEt() {
+  const apiKey = document.getElementById('apiKey').value.trim();
+  if (!apiKey) { log('API anahtarı boş!', 'err'); return; }
+  log('Bağlantı test ediliyor...', '');
+  try {
+    const yanit = await geminiCagri('Merhaba, bu bir test. "OK" yaz.', apiKey);
+    log('✅ Bağlantı başarılı! Gemini yanıt verdi: ' + yanit.slice(0,50), 'ok');
+  } catch(e) {
+    log('❌ Bağlantı hatası: ' + e.message, 'err');
+  }
+}
+
 function ornekYukle() {
   document.getElementById('inputText').value = `Kırşehir Boztepe Kervansaray Dağları'nda DEFAŞ Madencilik'in 5855 hektarlık altın madeni projesine ÇED Olumlu kararı verildi. Seyfe Gölü Ramsar alanını tehdit ediyor.
 
@@ -266,22 +281,40 @@ function temizle() {
 
 // ─── Gemini API çağrısı ───────────────────────────────────────────────────
 
+const GEMINI_MODELLER = [
+  'gemini-2.0-flash',
+  'gemini-1.5-flash-latest',
+  'gemini-1.5-flash',
+];
+
 async function geminiCagri(prompt, apiKey) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
-  const resp = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.1, maxOutputTokens: 4000 }
-    })
-  });
-  if (!resp.ok) {
-    const err = await resp.json();
-    throw new Error(err.error?.message || `HTTP ${resp.status}`);
+  let sonHata = null;
+  for (const model of GEMINI_MODELLER) {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
+    log(`Model deneniyor: ${model}`, '');
+    try {
+      const resp = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: { temperature: 0.1, maxOutputTokens: 4000 }
+        })
+      });
+      if (resp.ok) {
+        const data = await resp.json();
+        log(`✓ ${model} yanıt verdi`, 'ok');
+        return data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+      }
+      const err = await resp.json();
+      sonHata = `${model}: ${err.error?.message || 'HTTP ' + resp.status}`;
+      log(`✗ ${sonHata}`, 'warn');
+    } catch (e) {
+      sonHata = `${model}: ${e.message}`;
+      log(`✗ ${sonHata}`, 'warn');
+    }
   }
-  const data = await resp.json();
-  return data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+  throw new Error('Tüm modeller başarısız: ' + sonHata);
 }
 
 // ─── Ana analiz akışı ─────────────────────────────────────────────────────
