@@ -68643,5 +68643,2939 @@
       "lng": 31.79406
     },
     "id": "rrgxn3zhse1777692855260"
+  },
+  {
+    "id": "rc415ohlad1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Acıpınar",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.586,
+      "lng": 34.142
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r26twz4pqw1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Adiyaman Hive",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.925,
+      "lng": 38.62
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "re7hhrkeln1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Afşin Elbistan Termik Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.3537,
+      "lng": 36.981
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rkh6qmp2aj1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Akhisar Asunim",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.93,
+      "lng": 27.971
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rhb5uwcbso1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Aksa Antalya Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.1203,
+      "lng": 30.6016
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rluupluy2x1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Aktaş",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.729,
+      "lng": 29.265
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r2tp63qwxe1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Akçaköy",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.825,
+      "lng": 27.265
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rjkj83n5q71777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Alaşehir",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.4002,
+      "lng": 28.4311
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rpeygq45a61777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Altınekin",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.282,
+      "lng": 32.882
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r8csornhwp1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Altınkaya Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.3668,
+      "lng": 35.7244
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rzn7e54nn31777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ambarlı A Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.9793,
+      "lng": 28.6994
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rch52lfwhh1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ambarlı B Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.9834,
+      "lng": 28.6921
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rjna5caj6x1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Araban",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.4462,
+      "lng": 37.9958
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r2rczexuhl1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Askale",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.938,
+      "lng": 40.6854
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rcbmxqo3no1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Aslantaş Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.9368,
+      "lng": 36.6491
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r53mus4ed31777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Astor",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.3743,
+      "lng": 38.5128
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rqgz4tsgtu1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Atatürk Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.4825,
+      "lng": 38.3186
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rv3y77zg771777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Balabani",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.071,
+      "lng": 27.6465
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rgyfy7harn1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bandirma 2 Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.3083,
+      "lng": 27.7687
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rsu2r6ejed1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bandırma Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.3786,
+      "lng": 27.9116
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r4427kr4m11777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bandırma Kurşunlu",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.7434,
+      "lng": 28.0744
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "reg6djxsoj1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Basoren",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.183,
+      "lng": 35.587
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r1gfc0g7zd1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Batman Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.1602,
+      "lng": 41.2026
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ro2g0junb61777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Baymina Ankara Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.7773,
+      "lng": 32.4022
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rjj0b6215i1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Berke Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.3731,
+      "lng": 36.4615
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rqboww76cq1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Birecik Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.0542,
+      "lng": 37.8901
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r0ny26ybch1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Bolu Göynük power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.2514,
+      "lng": 30.8129
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r5zfum1co21777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Borçka Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.3507,
+      "lng": 41.6834
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r4535uabb21777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bosen Bursa Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.2377,
+      "lng": 28.9534
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rfaa3vc4pq1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Boyabat Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.3391,
+      "lng": 35.0033
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rvbxc4th8v1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bozcaada",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.8311,
+      "lng": 25.9721
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rwpzn726kz1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bozyaka",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.7463,
+      "lng": 26.9403
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rz14roz2uk1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Burdur 18",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.507,
+      "lng": 30.012
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rs9t5ckqxf1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Burdur 5",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.44,
+      "lng": 30
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r0csfh9xqj1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.2952,
+      "lng": 29.0736
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ra1oyo79p61777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Bursa Doğalgaz Termik Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.2394,
+      "lng": 28.9518
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r785bqxsez1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bünyan A",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.675,
+      "lng": 36.012
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ry8s0qzs6e1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Büğet A",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.228,
+      "lng": 35.041
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rcg49373cy1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Cenal power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.4167,
+      "lng": 27.3183
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r33g0uabz11777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Cengiz Enerji Samsun",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.2393,
+      "lng": 36.4799
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rfspyqjthb1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Cihanbeyli",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.656,
+      "lng": 32.807
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rrgk41fmf01777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Cine",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.7,
+      "lng": 28.003
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rocyxvyswe1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Corum",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.4887,
+      "lng": 34.8344
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rm7myvxtua1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Cumra Koyuncu",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.46,
+      "lng": 32.705
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ryucjycl9p1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dayıcık",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.423,
+      "lng": 33.323
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r8h89yg6kc1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Demercit",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.1994,
+      "lng": 36.4873
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rl14ovb1ts1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Deniz",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8592,
+      "lng": 27.6145
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rbip8wjchv1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Denizli Karine",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.845,
+      "lng": 29.311
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rgsjabllpq1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Denizli Prime",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.868,
+      "lng": 29.078
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rixivdcc7e1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Deriner Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.1696,
+      "lng": 41.8697
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rlcwlv20kw1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Derinkuyu Güneş",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.4198,
+      "lng": 34.6869
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rwxw4acvkg1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Devecikonağı Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.8756,
+      "lng": 28.5754
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rpzo5ir1n51777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dicle Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.348,
+      "lng": 40.0197
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r2h3gmfzka1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Dora 3",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.857,
+      "lng": 28.0716
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rz3i7lll331777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Dora 4",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8578,
+      "lng": 28.0921
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rwzkgc7mzv1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Efeler",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8656,
+      "lng": 27.6474
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "revp2so4ad1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekinözü",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.789,
+      "lng": 39.861
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r61yuua0bk1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Enka Adapazarı Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.866,
+      "lng": 30.3873
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rggv79nvi71777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Enka Gebze Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.7638,
+      "lng": 30.393
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r6l4txnbn11777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Enka İzmir Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.7467,
+      "lng": 26.9563
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rxy2npajxa1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Erdemli",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.5465,
+      "lng": 34.1375
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r871zdxlm71777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Erzin Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.9271,
+      "lng": 36.0534
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ryqdu5xg9y1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Eskipazar",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.923,
+      "lng": 32.71
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r8qba4yl5h1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "EÜAS Ambarlı FO Sant. Istanbul",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.9787,
+      "lng": 28.6993
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rkr7szwdwh1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "EÜAS Hopa Termik Sant. Artvin",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.4193,
+      "lng": 41.4393
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rtckwfxpl81777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Eğribayat",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.114,
+      "lng": 32.7823
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rw1eyc1r021777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Fadilli",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.94,
+      "lng": 33.665
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r8lamucaqf1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "GERES",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.2092,
+      "lng": 27.8989
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r1vx52d8m11777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Galip Hoca Germencik",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8845,
+      "lng": 27.6304
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rzzuugbwu81777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gaziantep",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.059,
+      "lng": 37.113
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r168rj98p01777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gezende Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.5285,
+      "lng": 33.1943
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rue2qa87j61777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gökçekaya Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.0332,
+      "lng": 31.016
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rmks20fnla1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Gümüşköy",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8534,
+      "lng": 27.4658
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rtomobq9pa1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Güzelöz",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.3928,
+      "lng": 34.9755
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rxzzff0ddz1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Hamitabat Termik Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.4827,
+      "lng": 27.3366
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rqeracyxvf1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Hasan Uğurlu Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.9367,
+      "lng": 36.6493
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ren99b7auc1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Hirfanlı Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.2731,
+      "lng": 33.5184
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rqlo12w4921777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Hıroğlu A",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.73,
+      "lng": 27.946
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rqa5dfc4db1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ilısu Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.5302,
+      "lng": 41.8529
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r9rfcw3q8i1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Imamoglu",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.3259,
+      "lng": 35.6829
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rcl39sp09o1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Incesu Asunim",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.7427,
+      "lng": 35.1301
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r2p3ltczq31777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Incesu B",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.573,
+      "lng": 35.177
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r872c5f5xk1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kahramanmaraş",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.24,
+      "lng": 36.8
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "raqfgrjla81777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kaman",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.3373,
+      "lng": 33.5449
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rb374atqka1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Kangal power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.0774,
+      "lng": 37.2958
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rtob4tt2xf1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kapidag",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.489,
+      "lng": 27.6896
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rfqpy3sis91777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Karakaya Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.2264,
+      "lng": 39.1353
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rd7pwwswcu1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Karapinar",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.7412,
+      "lng": 33.4837
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rhp5h74v2p1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Karkamış Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.8697,
+      "lng": 38.0307
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rbc1n07lp21777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kayseri 6",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.8115,
+      "lng": 35.2151
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r6qjrmhnb61777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kayseri OSB",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.709,
+      "lng": 35.334
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rzjnpvfrhm1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kayseri OSB2",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.709,
+      "lng": 35.337
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r7zxa8n19d1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Keban Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.8055,
+      "lng": 38.7591
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rtkmv6mume1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Kemerköy power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.0354,
+      "lng": 27.9011
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rztgu8ftl31777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Kizildere 2",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.9499,
+      "lng": 28.8354
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rbj2gl41zp1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Korkuteli",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.122,
+      "lng": 30.2424
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "raj3yoenom1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kula Manisa",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.601,
+      "lng": 28.653
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rkcqe3dlje1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kulu",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.93,
+      "lng": 33.065
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "reuh467h231777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Kütahya",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.51,
+      "lng": 31.9
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rjnylzuz6j1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kılıçkaya Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.242,
+      "lng": 38.1859
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rn9dd6vk7x1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kızören",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.165,
+      "lng": 33.211
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rukhkrdegn1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Kızıldere (Zorlu)",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.9499,
+      "lng": 28.8354
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rztgmusenz1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Makascı Mühendislik",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.5272,
+      "lng": 31.6121
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rcymku0k3v1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Menzelet Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.6766,
+      "lng": 36.8505
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rjso54e0ls1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Muratlı Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.4683,
+      "lng": 41.7137
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rg9nv6xzbi1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "OMV Samsun Doğalgaz Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.24,
+      "lng": 36.4767
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rtbow4d04z1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Obruk",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.162,
+      "lng": 33.1799
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rxcivnupze1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Obruk Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.7702,
+      "lng": 34.7913
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rjsy14j9th1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Orhaneli power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.9502,
+      "lng": 28.8709
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ri96lgi4h91777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Osmaniye",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.1741,
+      "lng": 36.6137
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rz6svfq3el1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Oymapinar Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.9086,
+      "lng": 31.5316
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "redzey98wn1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Pamukören",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.9171,
+      "lng": 28.5297
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rvxmda94zq1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Pamukören 2",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.9171,
+      "lng": 28.5297
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rh6e0xkwtm1777876132083",
+    "tip": "Ekolojik İhlal",
+    "ad": "Pinarkent A",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8219,
+      "lng": 29.2398
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rc9e5ikl551777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Polat power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.616,
+      "lng": 29.4429
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rsems8jj9e1777876132083",
+    "tip": "Termik Reaktör",
+    "ad": "Samsun1-2",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.2408,
+      "lng": 36.457
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rjb3c5xqnw1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sarıoğlan",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.064,
+      "lng": 36.0549
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rvhgvucsfm1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sarıyar Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.04,
+      "lng": 31.4144
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rggze1r4wr1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Savcıllı",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.9678,
+      "lng": 28.7803
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r6e1swoam61777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Seyitömer power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.5736,
+      "lng": 29.8822
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r49642jwl51777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sir",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.5009,
+      "lng": 36.5967
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r98o1sshxa1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sivas",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.773,
+      "lng": 36.927
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rq12w24pec1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Sizir",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.2845,
+      "lng": 35.8487
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rv5la275wj1777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Soma power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.1953,
+      "lng": 27.6357
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rnl0yusgk81777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Suleymanli",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.6451,
+      "lng": 27.1989
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rst3607py01777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Talas",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.6522,
+      "lng": 35.7591
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r2nr81rhgx1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Tarsus",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.037,
+      "lng": 35.036
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ry89k8ymi61777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Tokat",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.1824,
+      "lng": 27.6896
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ruj6t4xn0a1777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Tunçbilek Kütahya power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.6285,
+      "lng": 29.4623
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rylm3am7g41777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Turcas Denizli Doğalgaz S.",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.8504,
+      "lng": 29.4152
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r99tensj0p1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Turhal",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.3353,
+      "lng": 36.2349
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r0v3wznast1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Türkoğlu",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.43,
+      "lng": 36.923
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rbw7k9fgb11777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Unimar Marmara Ereğlisi Doğalgaz Kombine Çevrim Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.0072,
+      "lng": 27.9736
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "reewaaxclh1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Uzunahmet",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.9382,
+      "lng": 41.3985
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r8omacjhu31777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yakutiye",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.145,
+      "lng": 41.455
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rqk2it7cwv1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yalnız A",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.5966,
+      "lng": 39.1689
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rje6m0scg21777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yalnız B",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.614,
+      "lng": 39.173
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rab4nn220r1777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Yatağan power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.3317,
+      "lng": 28.1017
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r0ke6h97g61777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yemişlik",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.6139,
+      "lng": 39.2106
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ryp9rxkcwy1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "YeniFoca",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.715,
+      "lng": 26.807
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rjcf5afywp1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yeniba",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.642,
+      "lng": 26.834
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rqypi00j8x1777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Yeniköy power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.1405,
+      "lng": 27.8719
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rnvunzgdvj1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yesilgolcuk",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.2513,
+      "lng": 34.7845
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r81oa67le61777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Yunus Emre Termik Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.9839,
+      "lng": 31.6349
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r3lple0pho1777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Zonguldak Eren (ZETES)",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.5035,
+      "lng": 31.8875
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "roa1ngsxt01777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Çallıca",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.488,
+      "lng": 30.018
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rieimvjx9c1777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Çan-1 power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.0232,
+      "lng": 26.9768
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rkxgvg7dex1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Çatalan Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.0368,
+      "lng": 35.3414
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rwomna4z561777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Çatalağzı-B power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 41.5174,
+      "lng": 31.9002
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rnrx137ap61777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Çayırhan power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.097,
+      "lng": 31.6954
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rz1t7fsiw01777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "Çolakoğlu Termik Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.6289,
+      "lng": 29.4629
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rni3oj6lq51777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Özlüce Dam",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.1278,
+      "lng": 40.0855
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rmki9tjcz71777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ürgüp A",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.6722,
+      "lng": 35.0698
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rohuitj1xg1777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "İsken Sugözü power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.8346,
+      "lng": 35.8801
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rt54ezqksm1777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "İskenderun Atlas Termik Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.6904,
+      "lng": 36.2084
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r11s0gns431777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "İzdemir Enerji power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.7417,
+      "lng": 26.9294
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rzdqqt6r771777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "İzmit İpekkağıt Termik Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.7882,
+      "lng": 30.026
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rrw4gyyo511777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "İÇDAŞ Bekirli-2 power station",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.3991,
+      "lng": 27.05
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rirxvx2asy1777876132084",
+    "tip": "Termik Reaktör",
+    "ad": "İÇDAŞ Biga Termik Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.0224,
+      "lng": 26.9777
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "ro68c5ugp91777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "İç Anadolu Doğalgaz Kombine Çevrim Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 39.7575,
+      "lng": 33.448
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "riuqv1owkm1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Şahinkaya Köyü",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 38.715,
+      "lng": 39.125
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r8vqn25fya1777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Şanlıurfa OSB Enerji Santrali",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.1103,
+      "lng": 38.652
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "r6gn09i2x01777876132084",
+    "tip": "Ekolojik İhlal",
+    "ad": "Şeyhömer",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 36.3362,
+      "lng": 33.3224
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
   }
 ]
