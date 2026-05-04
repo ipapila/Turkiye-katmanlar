@@ -70283,24 +70283,6 @@
     "kaynak_link": ""
   },
   {
-    "id": "rzjnpvfrhm1777876132083",
-    "tip": "Ekolojik İhlal",
-    "ad": "Kayseri OSB2",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 38.709,
-      "lng": 35.337
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-05-04",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
     "id": "r7zxa8n19d1777876132083",
     "tip": "Ekolojik İhlal",
     "ad": "Keban Dam",
@@ -70327,24 +70309,6 @@
     "koordinatlar": {
       "lat": 37.0354,
       "lng": 27.9011
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-05-04",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
-    "id": "rztgu8ftl31777876132083",
-    "tip": "Termik Reaktör",
-    "ad": "Kizildere 2",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.9499,
-      "lng": 28.8354
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -70646,24 +70610,6 @@
     "id": "redzey98wn1777876132083",
     "tip": "Termik Reaktör",
     "ad": "Pamukören",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 37.9171,
-      "lng": 28.5297
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-05-04",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
-    "id": "rvxmda94zq1777876132083",
-    "tip": "Termik Reaktör",
-    "ad": "Pamukören 2",
     "il": "",
     "aciklama": "",
     "koordinatlar": {
@@ -71544,21 +71490,23 @@
   },
   {
     "id": "r8vqn25fya1777876132084",
-    "tip": "Ekolojik İhlal",
+    "tip": "Termik Reaktör",
     "ad": "Şanlıurfa OSB Enerji Santrali",
-    "il": "",
+    "il": "Şanlıurfa",
+    "ilce": "Eyyübiye",
     "aciklama": "",
     "koordinatlar": {
-      "lat": 37.1103,
-      "lng": 38.652
+      "lat": 37.109955,
+      "lng": 38.650632
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "2026-05-04",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_link": "",
+    "sabit": true
   },
   {
     "id": "r6gn09i2x01777876132084",
@@ -71577,5 +71525,25 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": ""
+  },
+  {
+    "id": "ry00x7mqbs1777877012215",
+    "tip": "Nükleer Enerji",
+    "ad": "Nükleer Santral Çalışması",
+    "il": "Sinop",
+    "ilce": "Sinop Merkez",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 42.049293,
+      "lng": 35.036774
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-04",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_link": "",
+    "sabit": true
   }
 ]
