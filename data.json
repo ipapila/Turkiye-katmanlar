@@ -71545,5 +71545,284 @@
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
     "kaynak_link": "",
     "sabit": true
+  },
+  {
+    "id": "rqlbnz07i91777952959568",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Şemdinli Doğal Gaz Boru Hattı",
+    "il": "Hakkari",
+    "ilce": "Şemdinli",
+    "koordinatlar": {
+      "lat": 37.48405992317163,
+      "lng": 44.56766614683496
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11269-11270",
+    "eklenme": "2026-05-01",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260501.htm",
+    "aciklama": "52.997 metre uzunluğundaki BOTAŞ doğal gaz boru hattı güzergâhında 2942 sayılı Kanun 27. madde kapsamında acele kamulaştırma. Sabit tesisler, ulaşım yolları ve enerji nakil hatları da kapsama alındı.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "renyqlcstw1777952959568",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Kuşçuali–Bedesten Doğal Gaz Loop Boru Hattı",
+    "il": "Ankara",
+    "ilce": "Elmadağ",
+    "koordinatlar": {
+      "lat": 39.92236450172051,
+      "lng": 33.23417311762894
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11269-11270",
+    "eklenme": "2026-05-01",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260501.htm",
+    "aciklama": "5.133 metre uzunluğunda Ankara-Kırıkkale güzergâhı doğal gaz hattı. BOTAŞ tarafından acele kamulaştırma başlatıldı.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r63xefpx5u1777952959568",
+    "tip": "Acele Kamulaştırma",
+    "ad": "154 kV Kulu TM–Kızılırmak Enerji İletim Hattı",
+    "il": "Ankara",
+    "ilce": "Şereflikoçhisar",
+    "koordinatlar": {
+      "lat": 38.93491579524983,
+      "lng": 33.54896146960701
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11271",
+    "eklenme": "2026-05-01",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260501.htm",
+    "aciklama": "TEİAŞ'ın 154 kV enerji iletim hattı için Şereflikoçhisar'da 16 taşınmazın acele kamulaştırılması. Büyükkışla DRES hattı kapsamında.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rz9o9tyx4d1777952959568",
+    "tip": "Acele Kamulaştırma",
+    "ad": "TPAO Petrol Sahası Kamulaştırması – Ergene",
+    "il": "Tekirdağ",
+    "ilce": "Ergene",
+    "koordinatlar": {
+      "lat": 41.31606962731994,
+      "lng": 27.061397569571973
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "MAPEG-2026-05-03",
+    "eklenme": "2026-05-03",
+    "kaynak": "Resmî Gazete / Bloomberg HT",
+    "kaynak_link": "https://www.bloomberght.com/tpao-nun-bazi-sahalari-icin-kamulastirma-karari-3776469",
+    "aciklama": "MAPEG kararıyla TPAO petrol işlemi için Tekirdağ Ergene'de taşınmazların kamulaştırılması. Rayiç haddin üzerinde bedel talep edildiğinden anlaşma yoluyla satın alınamadı.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rq01xoe2wu1777952959568",
+    "tip": "Acele Kamulaştırma",
+    "ad": "TPAO Petrol Sahası Kamulaştırması – Silivri",
+    "il": "İstanbul",
+    "ilce": "Silivri",
+    "koordinatlar": {
+      "lat": 41.07223636805653,
+      "lng": 28.249691908459923
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "MAPEG-2026-05-03",
+    "eklenme": "2026-05-03",
+    "kaynak": "Resmî Gazete / Bloomberg HT",
+    "kaynak_link": "https://www.bloomberght.com/tpao-nun-bazi-sahalari-icin-kamulastirma-karari-3776469",
+    "aciklama": "MAPEG kararıyla TPAO petrol işlemi için İstanbul Silivri'de taşınmazların kamulaştırılması.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rfq3q6ddo21777952959568",
+    "tip": "Acele Kamulaştırma",
+    "ad": "TPAO Petrol Sahası Kamulaştırması – Lüleburgaz",
+    "il": "Kırklareli",
+    "ilce": "Lüleburgaz",
+    "koordinatlar": {
+      "lat": 41.40787019095932,
+      "lng": 27.352460729377448
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "MAPEG-2026-05-03",
+    "eklenme": "2026-05-03",
+    "kaynak": "Resmî Gazete / Bloomberg HT",
+    "kaynak_link": "https://www.bloomberght.com/tpao-nun-bazi-sahalari-icin-kamulastirma-karari-3776469",
+    "aciklama": "MAPEG kararıyla TPAO'nun ruhsat sahalarında petrol-doğalgaz boru hattı için Lüleburgaz'da parsellerin kamulaştırılması.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rb6a0nudfq1777952959568",
+    "tip": "Acele Kamulaştırma",
+    "ad": "TPAO Boru Hattı Kamulaştırması – Adıyaman",
+    "il": "Adıyaman",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 37.766304644258625,
+      "lng": 38.27847322018765
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "MAPEG-2026-05-03",
+    "eklenme": "2026-05-03",
+    "kaynak": "Resmî Gazete / Bloomberg HT",
+    "kaynak_link": "https://www.bloomberght.com/tpao-nun-bazi-sahalari-icin-kamulastirma-karari-3776469",
+    "aciklama": "TPAO'nun Adıyaman sınırlarındaki ruhsat sahasında petrol ve doğalgaz boru hattı için gerekli parselin kamulaştırılması.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "r42brjy7u81777952959568",
+    "tip": "Jeotermal",
+    "ad": "Salihli JES Kapasite Artırımı – Dava",
+    "il": "Manisa",
+    "ilce": "Salihli",
+    "koordinatlar": {
+      "lat": 38.479488686586926,
+      "lng": 28.135944701611876
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "ÇED Olumlu 2026",
+    "eklenme": "2026-01-29",
+    "kaynak": "Manisa Manşet Gazetesi",
+    "kaynak_link": "https://www.manisamansetgazetesi.com/manisa-haberleri/jes-anayasal-hak-ihlali-yapiyor/611423",
+    "aciklama": "Mahkeme kararıyla daha önce iptal edilen proje, ÇED Olumlu kararıyla yeniden devreye alındı. 3 JES + 28 sondaj kuyusu. Türkiye'nin en verimli üzüm havzalarından birindeki tarım ve sulama arazisinde. Salihli Çevre Derneği dava açtı.",
+    "alt_kategori": "Su Kirliliği"
+  },
+  {
+    "id": "r8qdbsx06c1777952959568",
+    "tip": "Ekolojik İhlal",
+    "ad": "Germencik Jeotermal Ağır Metal Kirliliği",
+    "il": "Aydın",
+    "ilce": "Germencik",
+    "koordinatlar": {
+      "lat": 37.87058292958102,
+      "lng": 27.89539736507451
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "TSE Analiz",
+    "eklenme": "2023-05-29",
+    "kaynak": "Hürriyet",
+    "kaynak_link": "https://www.hurriyet.com.tr/gundem/aydinda-artezyen-sulardan-tahlil-icin-alinan-numune-sonuclarinda-agir-metallere-rastlandi-42275243",
+    "aciklama": "Jeotermal santral yakınındaki artezyen kuyularda TSE analizinde demir 20.000 kat, alüminyum 7.500 kat, arsenik 5.300 kat sınır değerin üzerinde çıktı. DSİ tarafından numune alındı, sonuçlar doğrulandı. Büyük Menderes Havzası'nın tarımsal sulama sistemi tehdit altında.",
+    "alt_kategori": "Su Kirliliği"
+  },
+  {
+    "id": "rkxvbjflrv1777952959568",
+    "tip": "İklim Olayları",
+    "ad": "Antalya Serik Orman Yangını",
+    "il": "Antalya",
+    "ilce": "Serik",
+    "koordinatlar": {
+      "lat": 36.91740307047396,
+      "lng": 31.101402958249185
+    },
+    "alan_ha": 2,
+    "durum": "Kapatıldı",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "Hürriyet",
+    "kaynak_link": "https://www.hurriyet.com.tr/haberleri/orman-yangini",
+    "aciklama": "Serik ilçesinde çıkan orman yangını, ekiplerin ve vatandaşların müdahalesiyle yerleşim yerlerine sıçramadan kontrol altına alındı. Yaklaşık 2 hektar alan zarar gördü.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rqgu9nyle21777952959568",
+    "tip": "İklim Olayları",
+    "ad": "Osmaniye Sumbas Orman Yangını",
+    "il": "Osmaniye",
+    "ilce": "Sumbas",
+    "koordinatlar": {
+      "lat": 37.584788747922175,
+      "lng": 36.2487818953172
+    },
+    "alan_ha": 0.4,
+    "durum": "Kapatıldı",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "Hürriyet",
+    "kaynak_link": "https://www.hurriyet.com.tr/haberleri/orman-yangini",
+    "aciklama": "Sumbas ilçesinde çıkan orman yangını 2 saatlik çalışma sonucu kontrol altına alındı. 4 dönüm kızılçam zarar gördü.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rv1tu2k3p61777952959568",
+    "tip": "İklim Olayları",
+    "ad": "Bursa Karacabey Orman Yangını",
+    "il": "Bursa",
+    "ilce": "Karacabey",
+    "koordinatlar": {
+      "lat": 40.21545498943892,
+      "lng": 28.362810824119343
+    },
+    "alan_ha": 0,
+    "durum": "Kapatıldı",
+    "belge_no": "",
+    "eklenme": "2026-04-01",
+    "kaynak": "Hürriyet",
+    "kaynak_link": "https://www.hurriyet.com.tr/haberleri/orman-yangini",
+    "aciklama": "Karacabey kırsal Ekmekçi Mahallesi'nde gece saat 19.00 sıralarında orman yangını çıktı. Ekipler müdahale etti.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "rbwgaunngr1777952959568",
+    "tip": "Maden Ocağı",
+    "ad": "Yenipazar Madencilik Projesi – İnşaat Başladı",
+    "il": "Bilecik",
+    "ilce": "Yenipazar",
+    "koordinatlar": {
+      "lat": 39.99773603136461,
+      "lng": 29.99973434201358
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-03-31",
+    "kaynak": "Madencilik Türkiye",
+    "kaynak_link": "https://madencilikturkiye.com/yenipazar-projesi-tesislerin-insasina-baslaniyor/",
+    "aciklama": "Yenipazar madencilik projesinde tesislerin inşasına Mart 2026'da başlandı.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rvwicijrkk1777952959568",
+    "tip": "Maden Ocağı",
+    "ad": "317. Grup Maden Sahası İhaleleri",
+    "il": "Türkiye",
+    "ilce": "",
+    "koordinatlar": null,
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Nisan 2026",
+    "eklenme": "2026-04-01",
+    "kaynak": "Madencilik Türkiye",
+    "kaynak_link": "https://madencilikturkiye.com",
+    "aciklama": "317. Grup Maden Sahası ihalelerinde ilk 6 günde 2,5 milyar TL gelir elde edildi. MAPEG koordinasyonuyla yeni maden alanları ihaleye açıldı.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "rvfrqa3t041777952959568",
+    "tip": "RES",
+    "ad": "Türkiye Rüzgar Kurulu Güç 14.862 MW – Ocak 2026",
+    "il": "Türkiye",
+    "ilce": "",
+    "koordinatlar": null,
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Ocak 2026",
+    "eklenme": "2026-01-31",
+    "kaynak": "TÜREB",
+    "kaynak_link": "https://www.tureb.tr",
+    "aciklama": "Ocak 2026 sonu itibarıyla Türkiye'nin toplam rüzgar kurulu gücü 14.862 MW. 2025'te 2.142 MW yeni kurulum yapılarak Avrupa'da Almanya'nın ardından ikinci sırada yer alındı. Proje stoğu 25.474 MW'a ulaştı.",
+    "alt_kategori": ""
   }
 ]
