@@ -1005,7 +1005,7 @@ async function runScan(){
   const catDesc=selectedCats.join(', ');
   const today=tod();
 
-  const prompt=`Sen bir Türkiye ekoloji ve çevre veri tarayıcısısın. Aşağıdaki kaynaklarda ${startDate} ile ${endDate} tarihleri arasında yayınlanmış verileri web araması yaparak tara:
+  const sistemPrompt=`Sen bir Türkiye ekoloji ve çevre veri tarayıcısısın. Aşağıdaki kaynaklarda ${startDate} ile ${endDate} tarihleri arasında yayınlanmış verileri web araması yaparak tara:
 - ${srcDesc}
 
 Yalnızca şu kategorilere ait verileri bul: ${catDesc}
@@ -1035,7 +1035,7 @@ En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri 
         model:'claude-sonnet-4-20250514',
         max_tokens:8000,
         tools:[{'type':'web_search_20250305','name':'web_search'}],
-        messages:[{role:'user',content:prompt}]
+        messages:[{role:'user',content:sistemPrompt}]
       })
     });
 
