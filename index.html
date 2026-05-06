@@ -361,6 +361,7 @@ let fTxt='', fIl='', fIlce='', fDrm='';
 let fBasTarih='', fBitTarih='', fSadeceYeni=false;
 let isAdmin=false, pendingAdminAction=null;
 let githubToken = localStorage.getItem('github_token') || null;
+let anthropicApiKey = localStorage.getItem('anthropic_api_key') || null;
 let repoOwner = 'ipapila', repoName = 'Turkiye-katmanlar', repoPath = 'data.json';
 
 const ILCELER = {
@@ -568,7 +569,6 @@ const SAMPLE_DATA=migrateCategories([
   {id:uid(),tip:'Milli Park',ad:'Belgrad Ormanı',il:'İstanbul',ilce:'Sarıyer',alan_ha:5442,durum:'Aktif',koordinatlar:{lat:41.1844,lng:28.9795},eklenme:tod(),alt_kategori:'',kaynak_link:'',sabit:true}
 ]);
 
-// ── DÜZELTME 1: load() — GitHub + yerel veriyi birleştir ──────────────────
 async function load(){
   try{
     const controller=new AbortController();
@@ -757,7 +757,6 @@ function doEdit(id){const r=data.find(d=>d.id===id);if(!r)return;editId=id;docum
 function closeMod(){document.getElementById('mov').classList.remove('open');if(pkMode)exitPk();editId=null;}
 function clrF(){['fad','ftip','faltkat','fil2','falan','fblg','fkyn','fkaynak_link','faclm','flat','flng'].forEach(i=>document.getElementById(i).value='');document.getElementById('fdrm2').value='Aktif';document.getElementById('filce2').innerHTML='<option value="">— İlçe Seçin —</option>';}
 
-// ── DÜZELTME 2: savRec() — sabit:true + GitHub ipucu ──────────────────────
 function savRec(){
   const ad=document.getElementById('fad').value.trim();
   const tip=document.getElementById('ftip').value;
@@ -948,7 +947,7 @@ function updateAdminUI(){
   }
 }
 
-// ── YENİ: Otomatik Tarama Fonksiyonları ──────────────────────────────────
+// ── Otomatik Tarama Fonksiyonları ──────────────────────────────────────────
 function openScanModal(){
   const end=new Date();
   const start=new Date(end.getTime()-14*24*60*60*1000);
@@ -978,6 +977,17 @@ async function runScan(){
 
   if(!selectedSources.length){ntf('En az bir kaynak seçin','err');return;}
   if(!selectedCats.length){ntf('En az bir kategori seçin','err');return;}
+
+  // API anahtarı yoksa kullanıcıdan iste
+  if(!anthropicApiKey){
+    const key=prompt('Anthropic API anahtarınızı girin (sk-ant-...):');
+    if(!key){
+      ntf('API anahtarı gerekli','err');
+      return;
+    }
+    anthropicApiKey=key;
+    localStorage.setItem('anthropic_api_key',anthropicApiKey);
+  }
 
   document.getElementById('scanRunBtn').disabled=true;
   document.getElementById('scanRunBtn').textContent='⏳ Taranıyor...';
@@ -1015,7 +1025,12 @@ En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri 
   try{
     const response=await fetch('https://api.anthropic.com/v1/messages',{
       method:'POST',
-      headers:{'Content-Type':'application/json'},
+      headers:{
+        'Content-Type':'application/json',
+        'x-api-key': anthropicApiKey,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-direct-browser-access': 'true'
+      },
       body:JSON.stringify({
         model:'claude-sonnet-4-20250514',
         max_tokens:8000,
@@ -1025,6 +1040,12 @@ En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri 
     });
 
     if(!response.ok){
+      // 401 hatası → API anahtarı yanlış, temizle
+      if(response.status===401){
+        anthropicApiKey=null;
+        localStorage.removeItem('anthropic_api_key');
+        throw new Error('API anahtarı geçersiz. Lütfen tekrar deneyin ve doğru anahtarı girin.');
+      }
       const errTxt=await response.text();
       throw new Error(`API ${response.status}: ${errTxt.substring(0,200)}`);
     }
@@ -1038,14 +1059,12 @@ En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri 
 
     // Metin bloklarından JSON çıkar
     const texts=(apiData.content||[]).filter(b=>b.type==='text').map(b=>b.text).join('');
-    // JSON dizisi bul
     const jsonMatch=texts.match(/\[\s*\{[\s\S]*?\}\s*\]/);
     if(!jsonMatch) throw new Error('Yanıtta JSON dizisi bulunamadı. Başka kaynaklar veya kategoriler deneyin.');
 
     let records=JSON.parse(jsonMatch[0]);
     if(!Array.isArray(records)||!records.length) throw new Error('Tarama sonuç döndürmedi.');
 
-    // ID yenile ve sabit:true garantile
     records=records.map(r=>({...r,id:uid(),sabit:true,eklenme:r.eklenme||today}));
 
     addScanLog(`✅ ${records.length} kayıt bulundu! Kategori eşleştirme açılıyor...`);
