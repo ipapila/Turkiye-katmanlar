@@ -254,13 +254,14 @@ body.pkmode #map{cursor:crosshair !important;}
       <div>
         <div class="sec" style="margin-top:0;">Kaynaklar</div>
         <div id="scanSources" style="display:grid;grid-template-columns:1fr 1fr;gap:6px;">
-          <label class="scan-chk-lbl"><input type="checkbox" value="resmigazete" checked> 📜 Resmî Gazete</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="ced" checked> 🏛️ ÇED Kararları</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="mapeg" checked> ⛏️ MAPEG (Maden)</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="epdk" checked> ⚡ EPDK (Enerji)</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="haberler" checked> 📰 Çevre Haberleri</label>
-          <label class="scan-chk-lbl"><input type="checkbox" value="nasa"> 🔥 NASA FIRMS (Yangın)</label>
+          <label class="scan-chk-lbl"><input type="checkbox" value="osm_energy" checked> ⚡ OSM Enerji Tesisleri</label>
+          <label class="scan-chk-lbl"><input type="checkbox" value="osm_mine" checked> ⛏️ OSM Maden/Taş Ocakları</label>
+          <label class="scan-chk-lbl"><input type="checkbox" value="osm_nature" checked> 🌿 OSM Doğa Alanları</label>
+          <label class="scan-chk-lbl"><input type="checkbox" value="osm_water" checked> 💧 OSM Su Yapıları (HES)</label>
+          <label class="scan-chk-lbl"><input type="checkbox" value="nasa_fire" checked> 🔥 NASA FIRMS (Yangın)</label>
+          <label class="scan-chk-lbl"><input type="checkbox" value="osm_heritage"> 🏛️ OSM Kültür Mirası</label>
         </div>
+        <div style="font-size:.68rem;color:var(--accent2,#4fc3f7);margin-top:6px;">✅ API anahtarı gerektirmez — OpenStreetMap &amp; NASA açık verileri</div>
       </div>
 
       <!-- Kategoriler -->
@@ -360,7 +361,7 @@ let data=[], mkrs={}, lgs={}, vis={}, editId=null, pkMode=false, pkCb=null, conf
 let fTxt='', fIl='', fIlce='', fDrm='';
 let fBasTarih='', fBitTarih='', fSadeceYeni=false;
 let isAdmin=false, pendingAdminAction=null;
-let githubToken = localStorage.getItem('github_token') || null;
+let githubToken = sessionStorage.getItem('github_token') || null;
 let repoOwner = 'ipapila', repoName = 'Turkiye-katmanlar', repoPath = 'data.json';
 
 const ILCELER = {
@@ -522,10 +523,9 @@ function isDuplicateRecord(newRecord, excludeId=null){
   });
 }
 
+
 function removeDuplicates(){
-  const before=data.length;
-  const tolerance=0.00001;
-  const seen=[];
+  const before=data.length;const tolerance=0.00001;const seen=[];
   data=data.filter(r=>{
     const isDup=seen.some(s=>{
       if(s.ad.toLowerCase()!==r.ad.toLowerCase()||s.tip!==r.tip||s.il!==r.il||(s.ilce||'')!==(r.ilce||''))return false;
@@ -533,15 +533,12 @@ function removeDuplicates(){
       if(hc)return Math.abs(s.koordinatlar.lat-r.koordinatlar.lat)<tolerance&&Math.abs(s.koordinatlar.lng-r.koordinatlar.lng)<tolerance;
       return true;
     });
-    if(!isDup)seen.push(r);
-    return !isDup;
+    if(!isDup)seen.push(r);return !isDup;
   });
   const removed=before-data.length;
   if(removed===0){ntf('Çift kayıt bulunamadı ✓','ok');return;}
-  saveLocal();renderAll();
-  ntf(`${removed} çift kayıt silindi, ${data.length} kayıt kaldı`,'ok');
+  saveLocal();renderAll();ntf(`${removed} çift kayıt silindi, ${data.length} kayıt kaldı`,'ok');
 }
-
 async function reverseGeocode(lat,lng){
   const url=`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lng}&addressdetails=1&accept-language=tr`;
   try{const response=await fetch(url);const data=await response.json();if(data&&data.address){const address=data.address;let city=address.city||address.state||address.province;let district=address.town||address.village||address.suburb||address.municipality;return{city,district};}}catch(error){console.error('Reverse geocode error:',error);}
@@ -571,8 +568,7 @@ const SAMPLE_DATA=migrateCategories([
 // ── DÜZELTME 1: load() — GitHub + yerel veriyi birleştir ──────────────────
 async function load(){
   try{
-    const controller=new AbortController();
-    const timer=setTimeout(()=>controller.abort(),5000);
+    const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),5000);
     const res=await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${repoPath}?t=${Date.now()}`,{signal:controller.signal});
     clearTimeout(timer);
     if(res.ok){
@@ -580,6 +576,7 @@ async function load(){
       if(Array.isArray(remote)&&remote.length){
         let fixed=fixCoords(remote);
         fixed=migrateCategories(fixed);
+        // Yerel depodan GitHub'da olmayan kayıtları koru
         const localRaw=localStorage.getItem(SK);
         if(localRaw){
           try{
@@ -601,17 +598,17 @@ async function load(){
     throw new Error();
   }catch(e){
     const local=localStorage.getItem(SK);
-    if(local){try{let parsed=JSON.parse(local);parsed=migrateCategories(parsed);data=fixCoords(parsed);ntf(`${data.length} kayıt yerel depodan yüklendi`,'ok');renderAll();return;}catch(err){}}
+    if(local){let parsed=JSON.parse(local);parsed=migrateCategories(parsed);data=fixCoords(parsed);ntf(`${data.length} kayıt yerel depodan yüklendi`,'ok');renderAll();return;}
     data=fixCoords(JSON.parse(JSON.stringify(SAMPLE_DATA)));
     localStorage.setItem(SK,JSON.stringify(data));
-    ntf(`${data.length} örnek kayıt yüklendi`,'ok');renderAll();
+    ntf(`${data.length} kayıt yüklendi`,'ok');renderAll();
   }
 }
 function saveLocal(){localStorage.setItem(SK,JSON.stringify(data));ntf('Yerel kaydedildi','ok');}
 function exportJSON(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));a.download=`turkiye-alan-${tod()}.json`;a.click();ntf('JSON indirildi','ok');}
 function exportGeoJSON(){const features=data.filter(r=>r.koordinatlar?.lat).map(r=>({type:'Feature',properties:{...r,koordinatlar:undefined},geometry:{type:'Point',coordinates:[r.koordinatlar.lng,r.koordinatlar.lat]}}));const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify({type:'FeatureCollection',features},null,2)],{type:'application/geo+json'}));a.download=`turkiye-alan-${tod()}.geojson`;a.click();ntf('GeoJSON indirildi','ok');}
 async function syncToGitHub(){
-  if(!githubToken){const token=prompt('GitHub kişisel erişim tokenı girin:');if(!token)return;githubToken=token;localStorage.setItem('github_token', githubToken);}
+  if(!githubToken){const token=prompt('GitHub kişisel erişim tokenı girin:');if(!token)return;githubToken=token;sessionStorage.setItem('github_token',githubToken);}
   const apiUrl=`https://api.github.com/repos/${repoOwner}/${repoName}/contents/${repoPath}`;
   let sha=null;
   try{const getRes=await fetch(apiUrl,{headers:{Authorization:`Bearer ${githubToken}`}});if(getRes.ok){const info=await getRes.json();sha=info.sha;}else if(getRes.status!==404)throw new Error(`HTTP ${getRes.status}`);}catch(e){ntf(`SHA alınamadı: ${e.message}`,'err');return;}
@@ -936,14 +933,10 @@ function adminLogout(){isAdmin=false;updateAdminUI();ntf('Çıkış yapıldı','
 function updateAdminUI(){
   const btn=document.getElementById('adminbtn');
   if(isAdmin){
-    btn.textContent='🔓 Çıkış';
-    btn.style.borderColor='var(--success)';
-    document.querySelectorAll('.admin-only').forEach(el=>{
-      el.style.display=el.classList.contains('dtb')?'flex':'block';
-    });
+    btn.textContent='🔓 Çıkış';btn.style.borderColor='var(--success)';
+    document.querySelectorAll('.admin-only').forEach(el=>{el.style.display=el.classList.contains('dtb')?'flex':'block';});
   }else{
-    btn.textContent='🔒 Admin';
-    btn.style.borderColor='';
+    btn.textContent='🔒 Admin';btn.style.borderColor='';
     document.querySelectorAll('.admin-only').forEach(el=>el.style.display='none');
   }
 }
@@ -973,95 +966,208 @@ function addScanLog(msg){
 async function runScan(){
   const selectedSources=[...document.querySelectorAll('#scanSources input:checked')].map(el=>el.value);
   const selectedCats=[...document.querySelectorAll('#scanCats input:checked')].map(el=>el.value);
-  const startDate=document.getElementById('scanStartDate').value;
-  const endDate=document.getElementById('scanEndDate').value;
-
   if(!selectedSources.length){ntf('En az bir kaynak seçin','err');return;}
-  if(!selectedCats.length){ntf('En az bir kategori seçin','err');return;}
 
   document.getElementById('scanRunBtn').disabled=true;
   document.getElementById('scanRunBtn').textContent='⏳ Taranıyor...';
   document.getElementById('scanLog').innerHTML='';
+  document.getElementById('scanLogArea').style.display='block';
 
-  const sourceMap={
-    resmigazete:'Resmî Gazete (resmigazete.gov.tr) — acele kamulaştırma, maden ruhsatı, enerji lisans kararları, orman tahsisleri',
-    ced:'ÇED Kararları (csb.gov.tr/ced) — çevresel etki değerlendirme olumlu/olumsuz kararları',
-    mapeg:'MAPEG (mapeg.gov.tr) — maden arama ve işletme ruhsatları',
-    epdk:'EPDK (epdk.gov.tr) — RES, GES, HES, JES enerji üretim lisansları',
-    haberler:'Güncel çevre ihlali ve ekoloji haberleri (bianet.org, gazeteduvar.com.tr, diken.com.tr, ekolojimagazin.com)',
-    nasa:'NASA FIRMS — Türkiye aktif yangın ve ısı anomalisi noktaları'
-  };
-  const srcDesc=selectedSources.map(s=>sourceMap[s]||s).join('\n- ');
-  const catDesc=selectedCats.join(', ');
+  const results=[];
   const today=tod();
 
-  const prompt=`Sen bir Türkiye ekoloji ve çevre veri tarayıcısısın. Aşağıdaki kaynaklarda ${startDate} ile ${endDate} tarihleri arasında yayınlanmış verileri web araması yaparak tara:
-- ${srcDesc}
+  // ── OSM Overpass Sorguları ──────────────────────────────────────────────
+  const overpassUrl='https://overpass-api.de/api/interpreter';
 
-Yalnızca şu kategorilere ait verileri bul: ${catDesc}
-
-Her bulgu için web araması yaparak doğrula. Bulduğun verileri YALNIZCA geçerli bir JSON dizisi olarak döndür. Hiçbir açıklama, markdown backtick veya ek metin yazma — sadece [ ... ] dizisi:
-
-[{"id":"r000","tip":"<kategori>","ad":"Proje adı","il":"İl","ilce":"İlçe","koordinatlar":{"lat":39.0,"lng":35.0},"alan_ha":0,"durum":"Aktif","belge_no":"","eklenme":"${today}","kaynak":"Kaynak adı","kaynak_link":"https://...","aciklama":"1-2 cümle özet","alt_kategori":"","sabit":true}]
-
-Geçerli tip değerleri (birebir bu yazımı kullan):
-Ekolojik İhlal, İklim Olayları, Acele Kamulaştırma, Kültür Varlığı, Milli Park, Özel Çevre Koruma Alanı, Maden Ocağı, Taş-Mermer Ocağı, Termik Reaktör, HES, GES, RES, Nükleer Enerji, Jeotermal, Orman Alanı, Sulak Alan, Kıyı İhlalleri
-
-Koordinatlar için il veya ilçe merkezini kullan. Bilinmiyorsa {"lat":0,"lng":0} yaz.
-En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri ekle.`;
-
-  addScanLog('🌐 Claude API\'ye bağlanılıyor...');
-
-  try{
-    const response=await fetch('https://api.anthropic.com/v1/messages',{
-      method:'POST',
-      headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({
-        model:'claude-sonnet-4-20250514',
-        max_tokens:8000,
-        tools:[{'type':'web_search_20250305','name':'web_search'}],
-        messages:[{role:'user',content:prompt}]
-      })
-    });
-
-    if(!response.ok){
-      const errTxt=await response.text();
-      throw new Error(`API ${response.status}: ${errTxt.substring(0,200)}`);
-    }
-
-    const apiData=await response.json();
-    addScanLog('✅ Yanıt alındı — işleniyor...');
-
-    // Yapılan aramaları logla
-    const searches=(apiData.content||[]).filter(b=>b.type==='tool_use'&&b.name==='web_search');
-    searches.forEach(s=>addScanLog(`🔍 Arama: "${s.input?.query||''}"`));
-
-    // Metin bloklarından JSON çıkar
-    const texts=(apiData.content||[]).filter(b=>b.type==='text').map(b=>b.text).join('');
-    // JSON dizisi bul
-    const jsonMatch=texts.match(/\[\s*\{[\s\S]*?\}\s*\]/);
-    if(!jsonMatch) throw new Error('Yanıtta JSON dizisi bulunamadı. Başka kaynaklar veya kategoriler deneyin.');
-
-    let records=JSON.parse(jsonMatch[0]);
-    if(!Array.isArray(records)||!records.length) throw new Error('Tarama sonuç döndürmedi.');
-
-    // ID yenile ve sabit:true garantile
-    records=records.map(r=>({...r,id:uid(),sabit:true,eklenme:r.eklenme||today}));
-
-    addScanLog(`✅ ${records.length} kayıt bulundu! Kategori eşleştirme açılıyor...`);
-    ntf(`${records.length} kayıt bulundu`,'ok');
-
-    setTimeout(()=>{
-      closeScanModal();
-      showCatMap(records);
-    },600);
-
-  }catch(err){
-    addScanLog(`❌ Hata: ${err.message}`);
-    ntf(`Tarama hatası: ${err.message}`,'err');
-    document.getElementById('scanRunBtn').disabled=false;
-    document.getElementById('scanRunBtn').textContent='🔍 Tara';
+  async function overpassQuery(query,tipFn,kaynak){
+    addScanLog(`🌐 Overpass sorgusu: ${kaynak}...`);
+    try{
+      const res=await fetch(overpassUrl,{method:'POST',body:'data='+encodeURIComponent(query)});
+      if(!res.ok)throw new Error(`HTTP ${res.status}`);
+      const json=await res.json();
+      const elements=json.elements||[];
+      addScanLog(`  → ${elements.length} öğe bulundu`);
+      elements.forEach(el=>{
+        const lat=el.lat||(el.center?.lat)||null;
+        const lng=el.lon||(el.center?.lon)||null;
+        if(!lat||!lng)return;
+        const tags=el.tags||{};
+        const ad=tags.name||tags['name:tr']||tags['name:en']||null;
+        if(!ad)return;
+        const info=tipFn(tags,ad);
+        if(!info)return;
+        results.push({
+          id:uid(),tip:info.tip,ad,
+          il:il_from_tags(tags),ilce:tags['addr:district']||'',
+          koordinatlar:{lat:parseFloat(lat.toFixed(6)),lng:parseFloat(lng.toFixed(6))},
+          alan_ha:area_from_tags(tags),durum:'Aktif',
+          belge_no:String(el.id||''),eklenme:today,
+          kaynak:`OpenStreetMap / ${kaynak}`,
+          kaynak_link:`https://www.openstreetmap.org/${el.type}/${el.id}`,
+          aciklama:info.aciklama||'',alt_kategori:info.alt||'',sabit:true
+        });
+      });
+    }catch(e){addScanLog(`  ❌ Hata: ${e.message}`);}
   }
+
+  function il_from_tags(tags){
+    const raw=tags['addr:province']||tags['addr:city']||tags['is_in:province']||'';
+    return raw.replace(' Province','').replace(' İli','').trim();
+  }
+  function area_from_tags(tags){
+    const a=parseFloat(tags['area']||0);
+    return a>0?Math.round(a/10000):0;
+  }
+
+  // Türkiye bbox: south=35.8, west=25.9, north=42.1, east=44.8
+  const TR='area["name"="Türkiye"]["admin_level"="2"];';
+
+  if(selectedSources.includes('osm_energy')){
+    // RES
+    await overpassQuery(
+      `[out:json][timeout:60];(node["power"="generator"]["generator:source"="wind"](35.8,25.9,42.1,44.8);way["power"="generator"]["generator:source"="wind"](35.8,25.9,42.1,44.8););out center 300;`,
+      (tags)=>({tip:'RES',aciklama:`Rüzgar enerji santrali${tags['generator:output:electricity']?' — '+tags['generator:output:electricity']:''}`,alt:''}),
+      'RES Türbinleri'
+    );
+    // GES
+    await overpassQuery(
+      `[out:json][timeout:60];(node["power"="generator"]["generator:source"="solar"](35.8,25.9,42.1,44.8);way["power"="plant"]["plant:source"="solar"](35.8,25.9,42.1,44.8););out center 200;`,
+      (tags)=>({tip:'GES',aciklama:'Güneş enerji santrali',alt:''}),
+      'GES Santralleri'
+    );
+    // Termik
+    await overpassQuery(
+      `[out:json][timeout:60];(way["power"="plant"]["plant:source"~"coal|oil|gas|thermal"](35.8,25.9,42.1,44.8);node["power"="plant"]["plant:source"~"coal|oil|gas|thermal"](35.8,25.9,42.1,44.8););out center 100;`,
+      (tags)=>({tip:'Termik Reaktör',aciklama:`Termik santral — kaynak: ${tags['plant:source']||'?'}`,alt:''}),
+      'Termik Santraller'
+    );
+    // Nükleer
+    await overpassQuery(
+      `[out:json][timeout:30];(node["power"="plant"]["plant:source"="nuclear"](35.8,25.9,42.1,44.8);way["power"="plant"]["plant:source"="nuclear"](35.8,25.9,42.1,44.8););out center 50;`,
+      (tags)=>({tip:'Nükleer Enerji',aciklama:'Nükleer enerji santrali',alt:''}),
+      'Nükleer Santraller'
+    );
+    // Jeotermal
+    await overpassQuery(
+      `[out:json][timeout:30];(node["power"="generator"]["generator:source"="geothermal"](35.8,25.9,42.1,44.8);way["power"="plant"]["plant:source"="geothermal"](35.8,25.9,42.1,44.8););out center 100;`,
+      (tags)=>({tip:'Jeotermal',aciklama:'Jeotermal enerji santrali',alt:''}),
+      'Jeotermal Santraller'
+    );
+  }
+
+  if(selectedSources.includes('osm_mine')){
+    await overpassQuery(
+      `[out:json][timeout:60];(way["landuse"="quarry"](35.8,25.9,42.1,44.8);node["landuse"="quarry"](35.8,25.9,42.1,44.8););out center 400;`,
+      (tags)=>{
+        const res=tags['resource']||tags['quarry']||'';
+        const tip=res.match(/marble|mermer|granite|granit/i)?'Taş-Mermer Ocağı':'Maden Ocağı';
+        return {tip,aciklama:`Taş/maden ocağı${res?' — '+res:''}`,alt:''};
+      },
+      'Taş & Maden Ocakları'
+    );
+  }
+
+  if(selectedSources.includes('osm_nature')){
+    await overpassQuery(
+      `[out:json][timeout:60];(relation["boundary"="protected_area"]["protect_class"~"1|2|3|4|5|6"](35.8,25.9,42.1,44.8););out center 200;`,
+      (tags)=>{
+        const pc=parseInt(tags['protect_class']||'9');
+        const tip=pc<=2?'Milli Park':pc<=4?'Özel Çevre Koruma Alanı':'Orman Alanı';
+        return {tip,aciklama:`${tags['protection_title']||'Koruma alanı'}`,alt:''};
+      },
+      'Korunan Doğa Alanları'
+    );
+    await overpassQuery(
+      `[out:json][timeout:60];(way["natural"="wetland"](35.8,25.9,42.1,44.8);relation["natural"="wetland"](35.8,25.9,42.1,44.8););out center 150;`,
+      (tags)=>({tip:'Sulak Alan',aciklama:`Sulak alan — ${tags['wetland']||'doğal'}`,alt:''}),
+      'Sulak Alanlar'
+    );
+  }
+
+  if(selectedSources.includes('osm_water')){
+    await overpassQuery(
+      `[out:json][timeout:60];(node["waterway"="dam"](35.8,25.9,42.1,44.8);way["waterway"="dam"](35.8,25.9,42.1,44.8);node["power"="generator"]["generator:source"="hydro"](35.8,25.9,42.1,44.8););out center 200;`,
+      (tags)=>({tip:'HES',aciklama:`${tags['waterway']==='dam'?'Baraj':'Hidroelektrik santral'}`,alt:''}),
+      'HES & Barajlar'
+    );
+  }
+
+  if(selectedSources.includes('osm_heritage')){
+    await overpassQuery(
+      `[out:json][timeout:60];(node["heritage"](35.8,25.9,42.1,44.8);way["heritage"](35.8,25.9,42.1,44.8);node["historic"~"castle|ruins|archaeological_site|monument"](35.8,25.9,42.1,44.8););out center 300;`,
+      (tags)=>({tip:'Kültür Varlığı',aciklama:`${tags['historic']||tags['heritage']||'Tarihi alan'}`,alt:''}),
+      'Kültür Mirası'
+    );
+  }
+
+  // ── NASA FIRMS Yangın Verileri ──────────────────────────────────────────
+  if(selectedSources.includes('nasa_fire')){
+    addScanLog('🔥 NASA FIRMS yangın verileri çekiliyor...');
+    try{
+      // Son 7 gün, Türkiye bbox, MODIS açık kaynak
+      const firmsUrl='https://firms.modaps.eosdis.nasa.gov/api/country/csv/d687a6d2f2b649698ffd84f3cee3e4ad/VIIRS_SNPP_NRT/TUR/7';
+      const res=await fetch(firmsUrl);
+      if(!res.ok)throw new Error(`HTTP ${res.status}`);
+      const csv=await res.text();
+      const lines=csv.trim().split('\n');
+      if(lines.length<2)throw new Error('Veri yok');
+      const headers=lines[0].split(',');
+      const latIdx=headers.indexOf('latitude');
+      const lngIdx=headers.indexOf('longitude');
+      const dateIdx=headers.indexOf('acq_date');
+      const brightIdx=headers.indexOf('bright_ti4');
+      let fireCount=0;
+      // Yakın noktaları birleştir (0.1 derece ~10km)
+      const clusters=[];
+      for(let i=1;i<lines.length;i++){
+        const cols=lines[i].split(',');
+        const lat=parseFloat(cols[latIdx]);
+        const lng=parseFloat(cols[lngIdx]);
+        if(isNaN(lat)||isNaN(lng))continue;
+        const date=cols[dateIdx]||today;
+        const bright=parseFloat(cols[brightIdx]||0);
+        // Mevcut cluster'a yakın mı?
+        const near=clusters.find(c=>Math.abs(c.lat-lat)<0.15&&Math.abs(c.lng-lng)<0.15);
+        if(near){near.count++;near.bright=Math.max(near.bright,bright);}
+        else clusters.push({lat,lng,date,bright,count:1});
+      }
+      clusters.forEach(c=>{
+        results.push({
+          id:uid(),tip:'İklim Olayları',
+          ad:`Aktif Yangın Noktası (${c.date})`,
+          il:'',ilce:'',
+          koordinatlar:{lat:parseFloat(c.lat.toFixed(5)),lng:parseFloat(c.lng.toFixed(5))},
+          alan_ha:0,durum:'Aktif',belge_no:'',eklenme:c.date,
+          kaynak:'NASA FIRMS / VIIRS',
+          kaynak_link:'https://firms.modaps.eosdis.nasa.gov/map/',
+          aciklama:`NASA FIRMS aktif ısı noktası. Parlaklık: ${c.bright.toFixed(0)}K, ${c.count} piksel.`,
+          alt_kategori:'',sabit:true
+        });
+        fireCount++;
+      });
+      addScanLog(`  → ${fireCount} yangın kümesi bulundu`);
+    }catch(e){addScanLog(`  ❌ NASA FIRMS hatası: ${e.message}`);}
+  }
+
+  // ── Sonuçları filtrele & göster ─────────────────────────────────────────
+  document.getElementById('scanRunBtn').disabled=false;
+  document.getElementById('scanRunBtn').textContent='🔍 Tara';
+
+  if(!results.length){
+    ntf('Hiç kayıt bulunamadı','err');
+    addScanLog('❌ Sonuç bulunamadı. Farklı kaynaklar deneyin.');
+    return;
+  }
+
+  // Kategori filtresi uygula (seçili katmanlarla eşleştir)
+  const catFiltered=selectedCats.length?results.filter(r=>selectedCats.includes(r.tip)):results;
+  addScanLog(`✅ Toplam ${results.length} kayıt — kategori filtresi sonrası ${catFiltered.length} kayıt`);
+  ntf(`${catFiltered.length} kayıt bulundu`,'ok');
+
+  setTimeout(()=>{
+    closeScanModal();
+    if(catFiltered.length) showCatMap(catFiltered);
+  },600);
 }
 
 // ---------- EVENTLER ----------
@@ -1081,8 +1187,7 @@ document.getElementById('dedupbtn').addEventListener('click',()=>requireAdmin(()
   data.forEach(r=>{const isDup=seen.some(s=>{if(s.ad.toLowerCase()!==r.ad.toLowerCase()||s.tip!==r.tip||s.il!==r.il||(s.ilce||'')!==(r.ilce||''))return false;const hc=s.koordinatlar?.lat&&r.koordinatlar?.lat;if(hc)return Math.abs(s.koordinatlar.lat-r.koordinatlar.lat)<tolerance&&Math.abs(s.koordinatlar.lng-r.koordinatlar.lng)<tolerance;return true;});if(!isDup)seen.push(r);else dupCount++;});
   if(!dupCount){ntf('Çift kayıt bulunamadı ✓','ok');return;}
   document.getElementById('ctxt').textContent=`${dupCount} çift kayıt bulundu. Silinsin mi?`;
-  confCb=()=>removeDuplicates();
-  document.getElementById('cov').classList.add('open');
+  confCb=()=>removeDuplicates();document.getElementById('cov').classList.add('open');
 }));
 document.getElementById('rstbtn').addEventListener('click',()=>requireAdmin(rstD));
 document.getElementById('scanbtn').addEventListener('click',()=>requireAdmin(openScanModal));
