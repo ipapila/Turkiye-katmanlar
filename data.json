@@ -114679,5 +114679,1345 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": ""
+  },
+  {
+    "id": "rc45anogsa1778068589414",
+    "tip": "RES",
+    "ad": "Prenecon S.A.",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 35.938575,
+      "lng": 27.75162
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1853820481",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1853820481",
+    "aciklama": "Rüzgar enerji santrali",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rgqb14bhht1778068589414",
+    "tip": "RES",
+    "ad": "Prenecon S.A.",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 35.938904,
+      "lng": 27.744332
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1853820738",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1853820738",
+    "aciklama": "Rüzgar enerji santrali",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r7fxbdppzs1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.024995,
+      "lng": 26.4359
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889341",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889341",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r6krv7apal1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.024971,
+      "lng": 26.433356
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889342",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889342",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rpfpxcr1cl1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.025112,
+      "lng": 26.434498
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889358",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889358",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rszrnud09e1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.025382,
+      "lng": 26.431963
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889363",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889363",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r8lsapn5vo1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.025841,
+      "lng": 26.430442
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889367",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889367",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rqoxz43hx61778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.025939,
+      "lng": 26.429334
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889370",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889370",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rkb441phsq1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.025948,
+      "lng": 26.428209
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889374",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889374",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r6x7b9acbz1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.026131,
+      "lng": 26.426805
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889376",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889376",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r78w2zx3rd1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.026291,
+      "lng": 26.425733
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889377",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889377",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r0qg109w011778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.027897,
+      "lng": 26.419941
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889394",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889394",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rjjsj1xxwn1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.028859,
+      "lng": 26.419631
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889397",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889397",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rrekc6guit1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.029628,
+      "lng": 26.419079
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889401",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889401",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rpeauki42o1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.030246,
+      "lng": 26.418295
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889406",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889406",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rhmqmslty61778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.03077,
+      "lng": 26.417395
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889415",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889415",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r8ac6rx3u41778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.031203,
+      "lng": 26.416424
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889437",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889437",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rdohy44bys1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.031582,
+      "lng": 26.415412
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889441",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889441",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rpq8lghl1v1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.031768,
+      "lng": 26.414326
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889448",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889448",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rcgvmj15ot1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.032054,
+      "lng": 26.412578
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889449",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889449",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rw9yqryuh81778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.032325,
+      "lng": 26.411015
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889451",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889451",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rjn0kaa9pj1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.032668,
+      "lng": 26.409978
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889456",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889456",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r54rg0pet21778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.032939,
+      "lng": 26.408911
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889475",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889475",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rhzh4q1jgd1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.033324,
+      "lng": 26.400633
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889482",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889482",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rmlbwfubjs1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.033344,
+      "lng": 26.40791
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889484",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889484",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "ro8ggtnht21778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.033654,
+      "lng": 26.406862
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889485",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889485",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rwov7hvri01778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.034129,
+      "lng": 26.40013
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889489",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889489",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "reyb5bcl021778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.034772,
+      "lng": 26.399377
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889492",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889492",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r2rzrb7v7b1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.035201,
+      "lng": 26.398387
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889512",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889512",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rw4qdi0d1p1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.036135,
+      "lng": 26.396921
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889516",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889516",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r2oabsjczk1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.036514,
+      "lng": 26.395909
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889520",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889520",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rjweeyhveg1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.036851,
+      "lng": 26.394869
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889522",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889522",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r7px07yrkt1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.037322,
+      "lng": 26.393924
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889523",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889523",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rj7a6s5hru1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.037794,
+      "lng": 26.392982
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889524",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889524",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rhaquuom881778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.038338,
+      "lng": 26.392099
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889546",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889546",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rib6a3h7o51778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.03873,
+      "lng": 26.391112
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889560",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889560",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r7xzm3x9pr1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.039163,
+      "lng": 26.390138
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889566",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889566",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rejqiz8xdz1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.039697,
+      "lng": 26.389248
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889568",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889568",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rtdyq53gty1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.040229,
+      "lng": 26.388358
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889570",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889570",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rfr2x6ql5f1778068589414",
+    "tip": "RES",
+    "ad": "Rüzgâr Türbini",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.040834,
+      "lng": 26.38757
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "1930889572",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / RES Türbinleri",
+    "kaynak_link": "https://www.openstreetmap.org/node/1930889572",
+    "aciklama": "Rüzgar enerji santrali — yes",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r64s1ahuyt1778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "Volfram maden tesisleri",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.098131,
+      "lng": 29.176066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "269197110",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/node/269197110",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "ra05dngin61778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "Sand Quarry",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 36.819186,
+      "lng": 27.063471
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "431330591",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/node/431330591",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rfe33j8jd31778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "ΑΤΕΚ ΜΠΕΤΩΝ ΑΡΜΕ",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 36.882537,
+      "lng": 27.235567
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "4693376244",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/node/4693376244",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r3n9gxzx3q1778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "Adora Mermer Ocak",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 38.295105,
+      "lng": 30.240033
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "7890309870",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/node/7890309870",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rni3infshe1778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "Lime pit",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 36.951847,
+      "lng": 31.79066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "11748942988",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/node/11748942988",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rdqhzylbnr1778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "Özcan Mermer",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 36.373064,
+      "lng": 33.933877
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "12184171607",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/node/12184171607",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r1yot4n2fr1778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "Caution! Mining Area",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 37.403897,
+      "lng": 27.785062
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "12202605734",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/node/12202605734",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rac6o84ki41778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "taş ocağı",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 38.706748,
+      "lng": 34.804498
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "28757131",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/28757131",
+    "aciklama": "Taş/maden ocağı — stone",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r8let8bvci1778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 40.480673,
+      "lng": 30.463003
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "48285773",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/48285773",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rwudstqg5t1778068679378",
+    "tip": "Maden Ocağı",
+    "ad": "Ancient Sandstone Mine",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 37.703381,
+      "lng": 26.920006
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "80510309",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/80510309",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "ryhyso2l1o1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Aijades ancient limestone mine",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 37.703856,
+      "lng": 26.918409
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "80510310",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/80510310",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rk9qpol40k1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Taş Ocağı",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 36.995995,
+      "lng": 37.458706
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "92064881",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/92064881",
+    "aciklama": "Taş/maden ocağı — stone",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rcz0jy7llc1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Silis Kumu Üretim Alanı",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 41.69591,
+      "lng": 27.57174
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "94569646",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/94569646",
+    "aciklama": "Taş/maden ocağı — sand",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rsxtwvpcgb1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "taşocağı",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 38.277426,
+      "lng": 38.095162
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "96217526",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/96217526",
+    "aciklama": "Taş/maden ocağı — stone",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rynfibyusm1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Çakmakkaya bakır madeni",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 41.244436,
+      "lng": 41.582733
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "96568961",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/96568961",
+    "aciklama": "Taş/maden ocağı — copper",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "ro5e84l4pv1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "demir işletmesi",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 39.464411,
+      "lng": 38.127224
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "105125029",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/105125029",
+    "aciklama": "Taş/maden ocağı — iron_ore",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rpfdq8wkxv1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "demir işletmesi",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 39.450117,
+      "lng": 38.104025
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "105125183",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/105125183",
+    "aciklama": "Taş/maden ocağı — iron_ore",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rgchoiti3s1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "demir işletmesi",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 39.421079,
+      "lng": 38.075033
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "105125478",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/105125478",
+    "aciklama": "Taş/maden ocağı — iron_ore",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rnv0u2xdr01778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Şamlı Demir İşletmesi",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 39.825825,
+      "lng": 27.822208
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "113558807",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/113558807",
+    "aciklama": "Taş/maden ocağı — iron_ore",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rr6nfz1zz81778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Hüsamlar",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 37.075044,
+      "lng": 27.93389
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "117562949",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/117562949",
+    "aciklama": "Taş/maden ocağı — lignite",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "ryqv2618nc1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Garp Linyitleri İşletmesi",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 39.655355,
+      "lng": 29.424435
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "122356913",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/122356913",
+    "aciklama": "Taş/maden ocağı — lignite",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "ry0qxc34wp1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Adaçal",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 39.045811,
+      "lng": 31.116606
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "125619528",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/125619528",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r8ngiki3m81778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Комплекс Марица изток",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 42.090703,
+      "lng": 26.044066
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "137246422",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/137246422",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rv22q941bj1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "مقلع",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 37.077092,
+      "lng": 41.172907
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "147776668",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/147776668",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "r4fo4piig51778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "ETİ Bor Madeni",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 39.241926,
+      "lng": 29.252541
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "149988333",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/149988333",
+    "aciklama": "Taş/maden ocağı — boron",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rvij8wpkfw1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "ASOS Madencilik Kum Şap Kumu Çakıl",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 41.202131,
+      "lng": 28.168558
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "150290575",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/150290575",
+    "aciklama": "Taş/maden ocağı — sand",
+    "alt_kategori": "",
+    "sabit": true
+  },
+  {
+    "id": "rfp6xvhc0d1778068679379",
+    "tip": "Maden Ocağı",
+    "ad": "Kestelek Bor Madeni",
+    "il": "",
+    "ilce": "",
+    "koordinatlar": {
+      "lat": 39.948078,
+      "lng": 28.565809
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "150797952",
+    "eklenme": "2026-05-06",
+    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
+    "kaynak_link": "https://www.openstreetmap.org/way/150797952",
+    "aciklama": "Taş/maden ocağı",
+    "alt_kategori": "",
+    "sabit": true
   }
 ]
