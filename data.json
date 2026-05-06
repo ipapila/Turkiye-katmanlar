@@ -115541,26 +115541,6 @@
     "sabit": true
   },
   {
-    "id": "r3n9gxzx3q1778068679378",
-    "tip": "Maden Ocağı",
-    "ad": "Adora Mermer Ocak",
-    "il": "",
-    "ilce": "",
-    "koordinatlar": {
-      "lat": 38.295105,
-      "lng": 30.240033
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "7890309870",
-    "eklenme": "2026-05-06",
-    "kaynak": "OpenStreetMap / Taş & Maden Ocakları",
-    "kaynak_link": "https://www.openstreetmap.org/node/7890309870",
-    "aciklama": "Taş/maden ocağı",
-    "alt_kategori": "",
-    "sabit": true
-  },
-  {
     "id": "rni3infshe1778068679378",
     "tip": "Maden Ocağı",
     "ad": "Lime pit",
