@@ -462,7 +462,7 @@ const baseMaps = {
 baseMaps["OSM Standart"].addTo(map);
 const wdpaLayer = L.tileLayer.wms('https://geoserver.unepwcmc.org/wdpa/ows?', {layers:'WDPA:WDPA_poly_Latest',format:'image/png',transparent:true,opacity:0.5,attribution:'© UNEP-WCMC WDPA',maxZoom:20});
 const overlays = {"🛡️ Koruma Alanı Sınırları (WDPA)": wdpaLayer};
-wdpaLayer.addTo(map);
+// wdpaLayer varsayılan kapalı — katman kontrolünden açılabilir
 L.control.layers(baseMaps, overlays, {position:'topright'}).addTo(map);
 map.on('mousemove',e=>document.getElementById('cbar').textContent=`Enlem: ${e.latlng.lat.toFixed(5)} | Boylam: ${e.latlng.lng.toFixed(5)}`);
 map.on('click',e=>{if(pkMode&&pkCb){pkCb(e.latlng.lat,e.latlng.lng);exitPk();}});
@@ -969,7 +969,7 @@ function addScanLog(msg){
   document.getElementById('scanLogArea').style.display='block';
 }
 
-async function runScan(){
+function runScan(){
   const selectedSources=[...document.querySelectorAll('#scanSources input:checked')].map(el=>el.value);
   const selectedCats=[...document.querySelectorAll('#scanCats input:checked')].map(el=>el.value);
   const startDate=document.getElementById('scanStartDate').value;
@@ -977,21 +977,6 @@ async function runScan(){
 
   if(!selectedSources.length){ntf('En az bir kaynak seçin','err');return;}
   if(!selectedCats.length){ntf('En az bir kategori seçin','err');return;}
-
-  // API anahtarı yoksa kullanıcıdan iste
-  if(!anthropicApiKey){
-    const key=prompt('Anthropic API anahtarınızı girin (sk-ant-...):');
-    if(!key){
-      ntf('API anahtarı gerekli','err');
-      return;
-    }
-    anthropicApiKey=key;
-    localStorage.setItem('anthropic_api_key',anthropicApiKey);
-  }
-
-  document.getElementById('scanRunBtn').disabled=true;
-  document.getElementById('scanRunBtn').textContent='⏳ Taranıyor...';
-  document.getElementById('scanLog').innerHTML='';
 
   const sourceMap={
     resmigazete:'Resmî Gazete (resmigazete.gov.tr) — acele kamulaştırma, maden ruhsatı, enerji lisans kararları, orman tahsisleri',
@@ -1005,82 +990,45 @@ async function runScan(){
   const catDesc=selectedCats.join(', ');
   const today=tod();
 
-  const sistemPrompt=`Sen bir Türkiye ekoloji ve çevre veri tarayıcısısın. Aşağıdaki kaynaklarda ${startDate} ile ${endDate} tarihleri arasında yayınlanmış verileri web araması yaparak tara:
+  const promptMetin=`Türkiye ekoloji haritası için veri tarama:
+
+Kaynaklar:
 - ${srcDesc}
 
-Yalnızca şu kategorilere ait verileri bul: ${catDesc}
+Tarih aralığı: ${startDate||'belirtilmedi'} – ${endDate||'bugün'}
+Kategoriler: ${catDesc}
 
-Her bulgu için web araması yaparak doğrula. Bulduğun verileri YALNIZCA geçerli bir JSON dizisi olarak döndür. Hiçbir açıklama, markdown backtick veya ek metin yazma — sadece [ ... ] dizisi:
+Lütfen bu kaynaklarda web araması yaparak verileri bul ve YALNIZCA aşağıdaki formatta JSON dizisi olarak ver (başka hiçbir metin, açıklama veya kod bloğu olmadan):
 
-[{"id":"r000","tip":"<kategori>","ad":"Proje adı","il":"İl","ilce":"İlçe","koordinatlar":{"lat":39.0,"lng":35.0},"alan_ha":0,"durum":"Aktif","belge_no":"","eklenme":"${today}","kaynak":"Kaynak adı","kaynak_link":"https://...","aciklama":"1-2 cümle özet","alt_kategori":"","sabit":true}]
+[{"id":"r001","tip":"<kategori>","ad":"Proje adı","il":"İl","ilce":"İlçe","koordinatlar":{"lat":39.0,"lng":35.0},"alan_ha":0,"durum":"Aktif","belge_no":"","eklenme":"${today}","kaynak":"Kaynak adı","kaynak_link":"https://...","aciklama":"1-2 cümle özet","alt_kategori":"","sabit":true}]
 
 Geçerli tip değerleri (birebir bu yazımı kullan):
 Ekolojik İhlal, İklim Olayları, Acele Kamulaştırma, Kültür Varlığı, Milli Park, Özel Çevre Koruma Alanı, Maden Ocağı, Taş-Mermer Ocağı, Termik Reaktör, HES, GES, RES, Nükleer Enerji, Jeotermal, Orman Alanı, Sulak Alan, Kıyı İhlalleri
 
-Koordinatlar için il veya ilçe merkezini kullan. Bilinmiyorsa {"lat":0,"lng":0} yaz.
-En az 5, en fazla 25 kayıt döndür. Sadece gerçek ve doğrulanmış verileri ekle.`;
+En az 5, en fazla 25 gerçek ve doğrulanmış kayıt döndür.`;
 
-  addScanLog('🌐 Claude API\'ye bağlanılıyor...');
+  document.getElementById('scanLogArea').style.display='block';
 
-  try{
-    const response=await fetch('https://api.anthropic.com/v1/messages',{
-      method:'POST',
-      headers:{
-        'Content-Type':'application/json',
-        'x-api-key': anthropicApiKey,
-        'anthropic-version': '2023-06-01',
-        'anthropic-dangerous-direct-browser-access': 'true'
-      },
-      body:JSON.stringify({
-        model:'claude-sonnet-4-20250514',
-        max_tokens:8000,
-        tools:[{'type':'web_search_20250305','name':'web_search'}],
-        messages:[{role:'user',content:sistemPrompt}]
-      })
-    });
+  navigator.clipboard.writeText(promptMetin).then(()=>{
+    document.getElementById('scanLog').innerHTML=`
+      <div style="color:var(--success);font-weight:700;margin-bottom:8px;">✅ Prompt panoya kopyalandı!</div>
+      <div style="margin-bottom:5px;color:var(--text);">Şu adımları izleyin:</div>
+      <div style="margin-bottom:3px;">1️⃣ Claude.ai sohbetine gidip prompt'u yapıştırın</div>
+      <div style="margin-bottom:3px;">2️⃣ Gelen JSON'u kopyalayın</div>
+      <div style="margin-bottom:3px;">3️⃣ Bir metin editörüne yapıştırıp <b>data.json</b> olarak kaydedin</div>
+      <div>4️⃣ Bu sayfada <b>📤 Yükle</b> butonuyla içe aktarın</div>
+    `;
+    ntf('Prompt kopyalandı!','ok');
+  }).catch(()=>{
+    document.getElementById('scanLog').innerHTML=`
+      <div style="color:var(--accent);margin-bottom:6px;">📋 Aşağıdaki metni kopyalayın:</div>
+      <textarea onclick="this.select()" style="width:100%;height:130px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px;color:var(--text);font-size:.67rem;font-family:monospace;resize:none;">${promptMetin.replace(/`/g,"'")}</textarea>
+      <div style="margin-top:6px;color:var(--text);">👆 Seçip kopyalayın → Claude.ai'ye yapıştırın → Gelen JSON'u 📤 Yükle ile ekleyin</div>
+    `;
+    ntf('Metni seçip kopyalayın','ok');
+  });
+}
 
-    if(!response.ok){
-      // 401 hatası → API anahtarı yanlış, temizle
-      if(response.status===401){
-        anthropicApiKey=null;
-        localStorage.removeItem('anthropic_api_key');
-        throw new Error('API anahtarı geçersiz. Lütfen tekrar deneyin ve doğru anahtarı girin.');
-      }
-      const errTxt=await response.text();
-      throw new Error(`API ${response.status}: ${errTxt.substring(0,200)}`);
-    }
-
-    const apiData=await response.json();
-    addScanLog('✅ Yanıt alındı — işleniyor...');
-
-    // Yapılan aramaları logla
-    const searches=(apiData.content||[]).filter(b=>b.type==='tool_use'&&b.name==='web_search');
-    searches.forEach(s=>addScanLog(`🔍 Arama: "${s.input?.query||''}"`));
-
-    // Metin bloklarından JSON çıkar
-    const texts=(apiData.content||[]).filter(b=>b.type==='text').map(b=>b.text).join('');
-    const jsonMatch=texts.match(/\[\s*\{[\s\S]*?\}\s*\]/);
-    if(!jsonMatch) throw new Error('Yanıtta JSON dizisi bulunamadı. Başka kaynaklar veya kategoriler deneyin.');
-
-    let records=JSON.parse(jsonMatch[0]);
-    if(!Array.isArray(records)||!records.length) throw new Error('Tarama sonuç döndürmedi.');
-
-    records=records.map(r=>({...r,id:uid(),sabit:true,eklenme:r.eklenme||today}));
-
-    addScanLog(`✅ ${records.length} kayıt bulundu! Kategori eşleştirme açılıyor...`);
-    ntf(`${records.length} kayıt bulundu`,'ok');
-
-    setTimeout(()=>{
-      closeScanModal();
-      showCatMap(records);
-    },600);
-
-  }catch(err){
-    addScanLog(`❌ Hata: ${err.message}`);
-    ntf(`Tarama hatası: ${err.message}`,'err');
-    document.getElementById('scanRunBtn').disabled=false;
-    document.getElementById('scanRunBtn').textContent='🔍 Tara';
-  }
 }
 
 // ---------- EVENTLER ----------
