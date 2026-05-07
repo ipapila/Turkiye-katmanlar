@@ -115999,5 +115999,100 @@
     "aciklama": "Taş/maden ocağı",
     "alt_kategori": "",
     "sabit": true
+  },
+  {
+    "id": "rcekae2wdc1778130896625",
+    "tip": "Maden Ocağı",
+    "ad": "Gidengelmez Dağı Boksit Madeni (Kapasite Artışı)",
+    "il": "Antalya",
+    "ilce": "Akseki",
+    "koordinatlar": {
+      "lat": 37.052,
+      "lng": 31.797
+    },
+    "alan_ha": 792.99,
+    "durum": "Planlama",
+    "belge_no": "ÇED - İDK Toplantısı 21.05.2026",
+    "eklenme": "2026-05-06",
+    "kaynak": "Antalya Haber Takip / Antalya Körfez",
+    "kaynak_link": "https://www.antalyahabertakip.com/haber-akseki-alarm-veriyor-gidengelmez-daglarinda-60-bin-agacin-kesilecegi-maden-projesine-buyuk-tepki-43434.html",
+    "aciklama": "Cengiz Holding bünyesindeki Seydişehir Eti Alüminyum A.Ş. için Akseki Gidengelmez Dağı'nda 792 ha ruhsatlı boksit madeni kapasite artışı ÇED sürecinde. 21 Mayıs 2026'da Ankara'da İDK toplantısı yapılacak. 60 bin ağaç kesilmesi planlanıyor.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu"
+  },
+  {
+    "id": "roynia9uz21778130896625",
+    "tip": "Orman Alanı",
+    "ad": "Gidengelmez Dağı YHGS - Boksit Madeni Tehdidi",
+    "il": "Antalya",
+    "ilce": "Akseki",
+    "koordinatlar": {
+      "lat": 37.05153,
+      "lng": 31.79852
+    },
+    "alan_ha": 16133.95,
+    "durum": "Planlama",
+    "belge_no": "Akseki Cevizli Gidengelmez Dağı YHGS",
+    "eklenme": "2026-05-02",
+    "kaynak": "Antalya Körfez Gazetesi",
+    "kaynak_link": "https://www.antalyakorfez.com/cengizin-aksekideki-maden-projesi-icin-60-bin-agac-kesilecek",
+    "aciklama": "Yaban Hayatı Geliştirme Sahası'nı da kapsayan boksit madeni projesi; yaban keçisi, ayı, porsuk habitatını tehdit ediyor. 60 bin ağaç, 400 bin ton toprak sıyrılması planlanıyor. Karstik su kaynakları risk altında.",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim"
+  },
+  {
+    "id": "rt3lklx7ag1778130896626",
+    "tip": "Ekolojik İhlal",
+    "ad": "Acısu Nehri Özel Çevre Koruma Alanı Kaçak Yapılaşma",
+    "il": "Antalya",
+    "ilce": "Muratpaşa",
+    "koordinatlar": {
+      "lat": 36.868,
+      "lng": 30.746
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-04-17",
+    "kaynak": "Antalya Ekspres",
+    "kaynak_link": "https://www.antalyaekspres.com.tr/antalyada-kacak-yapilar-alarm-veriyor",
+    "aciklama": "Antalya Özel Çevre Koruma Bölgesi sınırları içindeki Acısu Nehri kenarında altyapısız kaçak yapılar; nehir ve deniz ekosistemine kimyasal ve mikrobiyolojik kirlilik oluşturuyor.",
+    "alt_kategori": "Su Kirliliği"
+  },
+  {
+    "id": "rhzpbk2eux1778130896626",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Alanya Çenger Turizm Merkezi Kamulaştırması",
+    "il": "Antalya",
+    "ilce": "Alanya",
+    "koordinatlar": {
+      "lat": 36.544,
+      "lng": 31.999
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı: 10826",
+    "eklenme": "2026-01-08",
+    "kaynak": "Resmî Gazete / Cumhuriyet",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/turkiye/bircok-ilde-acele-kamulastirma-kararlari-resmi-gazete-de-yayimlandi-2468085",
+    "aciklama": "Alanya Çenger Turizm Merkezi sınırları içinde özel mülkiyete konu taşınmazın turizm yatırımı amacıyla Kültür ve Turizm Bakanlığı tarafından acele kamulaştırılması Cumhurbaşkanı kararıyla Resmî Gazete'de yayımlandı.",
+    "alt_kategori": ""
+  },
+  {
+    "id": "req7xa8lmh1778130896626",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Kumköy Caretta Caretta Yuvalama Alanı - Kaçak Lağım",
+    "il": "Antalya",
+    "ilce": "Aksu",
+    "koordinatlar": {
+      "lat": 36.989,
+      "lng": 30.862
+    },
+    "alan_ha": 30,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-03-28",
+    "kaynak": "Gazetem İzmir / Haberaktif",
+    "kaynak_link": "https://www.gazetemizmir.com/kumkoyde-kacak-cardaklar-yikildi-1500den-fazla-lagim-cukuru-cikti/134505",
+    "aciklama": "Aksu ilçesi Kumköy'de Nitelikli Doğal Koruma Alanı olan caretta caretta yuvalama sahilinde 750 kaçak çardak ve 1500'ü aşkın lastik-lağım çukuru tespit edildi. Çardaklar yıkılmış ancak kirlilik devam ediyor; savcılığa suç duyurusunda bulunuldu.",
+    "alt_kategori": "Kıyı İhlali"
   }
 ]
