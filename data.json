@@ -116094,5 +116094,24 @@
     "kaynak_link": "https://www.gazetemizmir.com/kumkoyde-kacak-cardaklar-yikildi-1500den-fazla-lagim-cukuru-cikti/134505",
     "aciklama": "Aksu ilçesi Kumköy'de Nitelikli Doğal Koruma Alanı olan caretta caretta yuvalama sahilinde 750 kaçak çardak ve 1500'ü aşkın lastik-lağım çukuru tespit edildi. Çardaklar yıkılmış ancak kirlilik devam ediyor; savcılığa suç duyurusunda bulunuldu.",
     "alt_kategori": "Kıyı İhlali"
+  },
+  {
+    "id": "rk9x3mfpq1746697200000",
+    "tip": "Acele Kamulaştırma",
+    "ad": "COP31 / Antalya EXPO Alanı Çevresi – Otopark ve Altyapı Kamulaştırması",
+    "il": "Antalya",
+    "ilce": "Aksu",
+    "koordinatlar": {
+      "lat": 36.9483,
+      "lng": 30.7751
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı: 11299 / RG: 33247",
+    "eklenme": "2026-05-08",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260508.htm",
+    "aciklama": "Antalya Aksu'daki EXPO alanı ve çevresinde 9-20 Kasım 2026 tarihleri arasında düzenlenecek BM İklim Değişikliği Çerçeve Sözleşmesi Taraflar Konferansı'nın 31. oturumu (COP31) kapsamında ihtiyaç duyulan otopark ve diğer altyapı imalatlarının gerçekleştirilmesi amacıyla bazı taşınmazlar TOKİ tarafından acele kamulaştırılıyor.",
+    "alt_kategori": ""
   }
 ]
