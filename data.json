@@ -24909,18 +24909,20 @@
     "tip": "Acele Kamulaştırma",
     "ad": "Antalya Çevreyolu Acele Kamulaştırma",
     "il": "Antalya",
+    "ilce": "Aksu",
     "aciklama": "Antalya çevreyolu projesi için Aksu ilçesinde orman alanlarının acele kamulaştırma süreci başlatıldı.",
     "koordinatlar": {
-      "lat": 36.8969,
-      "lng": 30.7133
+      "lat": 36.976912,
+      "lng": 30.854073
     },
     "alan_ha": 320,
     "durum": "Devam Ediyor",
     "belge_no": "",
-    "eklenme": "10.12.2024",
+    "eklenme": "2026-05-08",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
-    "kaynak_link": "https://www.milliyet.com.tr"
+    "kaynak_link": "https://www.milliyet.com.tr",
+    "sabit": true
   },
   {
     "id": "rezreingab1776748798749",
@@ -116101,17 +116103,18 @@
     "ad": "COP31 / Antalya EXPO Alanı Çevresi – Otopark ve Altyapı Kamulaştırması",
     "il": "Antalya",
     "ilce": "Aksu",
+    "aciklama": "Antalya Aksu'daki EXPO alanı ve çevresinde 9-20 Kasım 2026 tarihleri arasında düzenlenecek BM İklim Değişikliği Çerçeve Sözleşmesi Taraflar Konferansı'nın 31. oturumu (COP31) kapsamında ihtiyaç duyulan otopark ve diğer altyapı imalatlarının gerçekleştirilmesi amacıyla bazı taşınmazlar TOKİ tarafından acele kamulaştırılıyor.",
     "koordinatlar": {
-      "lat": 36.9483,
-      "lng": 30.7751
+      "lat": 36.951744,
+      "lng": 30.880766
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "Karar Sayısı: 11299 / RG: 33247",
     "eklenme": "2026-05-08",
     "kaynak": "Resmî Gazete",
+    "alt_kategori": "",
     "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260508.htm",
-    "aciklama": "Antalya Aksu'daki EXPO alanı ve çevresinde 9-20 Kasım 2026 tarihleri arasında düzenlenecek BM İklim Değişikliği Çerçeve Sözleşmesi Taraflar Konferansı'nın 31. oturumu (COP31) kapsamında ihtiyaç duyulan otopark ve diğer altyapı imalatlarının gerçekleştirilmesi amacıyla bazı taşınmazlar TOKİ tarafından acele kamulaştırılıyor.",
-    "alt_kategori": ""
+    "sabit": true
   }
 ]
