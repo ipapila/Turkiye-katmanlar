@@ -116116,5 +116116,25 @@
     "alt_kategori": "",
     "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260508.htm",
     "sabit": true
+  },
+  {
+    "id": "rzu65p77ed1778251788209",
+    "tip": "Ekolojik İhlal",
+    "ad": "Esan Bozüyük Kil ve Bentonit Tesisi",
+    "il": "Bilecik",
+    "ilce": "Bozüyük",
+    "aciklama": "Eskişehir’in Odunpazarı ilçesine bağlı Demirli Mahallesi’nde, Eczacıbaşı’na ait Esan Eczacıbaşı şirketinin maden tesisinde dün çevre felaketi yaşandı. Tesisin pasa depolama alanının yıkılmasıyla milyonlarca metreküp kapasiteli maden atıkları bölgedeki toprağa ve suya karıştı.\n\nBakanlık tarafından projenin kapasite artışına verilen onayın iptali istemiyle açılan davada bilirkişi keşfi bugün yapılacak. Keşiften yalnızca bir gün önce meydana gelen facia üzerine yaşam savunucularını bir kez daha harekete geçti. Yurttaşlar, suç duyurusunda bulundu.",
+    "koordinatlar": {
+      "lat": 39.903646,
+      "lng": 30.088549
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-08",
+    "kaynak": "Manuel",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_link": "https://www.birgun.net/haber/eczacibasinin-tesisinde-maden-kazasi-atiklar-eskisehirin-topragina-karisti-711202",
+    "sabit": true
   }
 ]
