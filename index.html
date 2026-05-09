@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
-/* --- stiller aynı (öncekiyle aynı) --- */
+/* --- stiller (öncekiyle aynı) --- */
 html,body{height:100%;margin:0;padding:0;overflow:hidden;font-family:'DM Sans',sans-serif;background:#0f1117;color:#e8eaf2;}
 :root{--bg:#0f1117;--bg2:#181c27;--bg3:#1e2333;--border:rgba(255,255,255,0.08);--borderh:rgba(255,255,255,0.18);--text:#e8eaf2;--dim:#7a8099;--muted:#4a5070;--accent:#4fd1c5;--accent2:#667eea;--danger:#fc5c65;--success:#26de81;--panel:330px;--hdr:54px;}
 [data-theme="light"]{--bg:#eef0f8;--bg2:#ffffff;--bg3:#e4e8f5;--border:rgba(0,0,0,0.09);--borderh:rgba(0,0,0,0.2);--text:#1a1e2e;--dim:#4a5070;--muted:#8a93b0;}
@@ -143,6 +143,9 @@ body.pkmode #map{cursor:crosshair !important;}
 #catModal{position:fixed;inset:0;background:rgba(0,0,0,.7);backdrop-filter:blur(5px);z-index:5000;display:none;align-items:center;justify-content:center;}
 .catModalContent{background:var(--bg2);border-radius:14px;width:400px;max-width:90vw;max-height:70vh;overflow:auto;padding:20px;}
 .catItem{display:flex;justify-content:space-between;align-items:center;padding:8px;border-bottom:1px solid var(--border);}
+/* GitHub Ayarları Modal */
+#ghSettingsModal{position:fixed;inset:0;background:rgba(0,0,0,.7);backdrop-filter:blur(5px);z-index:4500;display:none;align-items:center;justify-content:center;}
+.ghSettingsContent{background:var(--bg2);border-radius:14px;width:480px;max-width:95vw;padding:20px;}
 </style>
 </head>
 <body data-theme="dark">
@@ -182,6 +185,7 @@ body.pkmode #map{cursor:crosshair !important;}
         <button class="hbtn" id="expgeobtn">🗺 GeoJSON</button>
         <button class="hbtn" id="impbtn">📤 Yükle</button>
         <button class="hbtn" id="ghsavebtn">💾 GitHub’a Kaydet</button>
+        <button class="hbtn" id="ghSettingsBtn">⚙️ GitHub Ayarları</button>
       </div>
       <div class="dtb admin-only" style="display:none">
         <button class="hbtn" id="delCatBtn">🗑️ Kategori Sil</button>
@@ -207,6 +211,9 @@ body.pkmode #map{cursor:crosshair !important;}
 
 <!-- Admin Giriş Modalı -->
 <div id="adminov"><div style="background:var(--bg2);border:1px solid var(--borderh);border-radius:14px;width:340px;padding:28px;"><div style="text-align:center;"><div style="font-size:2rem;">🔐</div><h2>Admin Girişi</h2></div><input type="password" id="adminpass" placeholder="Şifre…" style="width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:10px;margin:10px 0;" onkeydown="if(event.key==='Enter')checkAdmin()"/><div id="adminErr" style="color:var(--danger);display:none;">Yanlış şifre!</div><button onclick="checkAdmin()" style="width:100%;background:linear-gradient(135deg,var(--accent2),var(--accent));border:none;border-radius:8px;padding:10px;color:#fff;margin-bottom:8px;">Giriş Yap</button><button onclick="closeAdminMod()" style="width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:9px;">İptal</button></div></div>
+
+<!-- GitHub Ayarları Modalı -->
+<div id="ghSettingsModal"><div class="ghSettingsContent"><h3 style="margin-bottom:12px;">⚙️ GitHub Ayarları</h3><div class="fg full"><label>Repo Sahibi (Owner)</label><input type="text" id="ghOwner" placeholder="örn: ipapila"/></div><div class="fg full"><label>Repo Adı</label><input type="text" id="ghRepo" placeholder="örn: Turkiye-katmanlar"/></div><div class="fg full"><label>Dosya Yolu (Path)</label><input type="text" id="ghPath" placeholder="örn: data.json"/></div><div class="fg full"><label>🔑 Kişisel Erişim Tokenı (repo yazma izni)</label><input type="password" id="ghToken" placeholder="Token (opsiyonel, kaydetmek için doldurun)"/><div class="chint">Token girilmezse sadece okuma yapılır, kaydetme işlemi token ister.</div></div><div class="mft" style="margin-top:12px;"><button class="bcn" id="closeGhSettings">İptal</button><button class="bsv" id="saveGhSettings">💾 Kaydet</button></div></div></div>
 
 <!-- Modal (Ekle/Düzenle) -->
 <div id="mov"><div id="modal"><div class="mhd"><h2 id="mtit">Yeni Alan Ekle</h2><button class="mcls" id="mcls">✕</button></div><div class="mbd"><div class="fgrid"><div class="fg full"><label>Alan Adı *</label><input type="text" id="fad"/></div><div class="fg"><label>Alan Türü *</label><select id="ftip"><option>Ekolojik İhlal</option><option>İklim Olayları</option><option>Acele Kamulaştırma</option><option>Kültür Varlığı</option><option>Milli Park</option><option>Özel Çevre Koruma Alanı</option><option>Maden Ocağı</option><option>Taş-Mermer Ocağı</option><option>Termik Reaktör</option><option>HES</option><option>GES</option><option>RES</option><option>Nükleer Enerji</option><option>Jeotermal</option><option>Orman Alanı</option><option>Sulak Alan</option><option>Kıyı İhlalleri</option></select></div><div class="fg"><label>Alt Kategori</label><select id="faltkat"><option value="">— Seçin —</option><option>Endüstriyel Kirlilik / Maden Suçu</option><option>Su Kirliliği</option><option>Orman Suçları/Yasadışı Kesim</option><option>Atık Suçu/Kaçak Döküm</option><option>Hava Kirliliği</option><option>Deniz Kirliliği</option><option>Yaban Hayatı Suçu</option><option>Kıyı İhlali</option><option>Gemi Sökümü</option></select></div><div class="fg"><label>İl *</label><select id="fil2" onchange="updateFormIlce()"></select></div><div class="fg"><label>İlçe</label><select id="filce2"><option value="">— Önce İl Seçin —</option></select></div><div class="fg"><label>Alan (ha)</label><input type="number" id="falan"/></div><div class="fg"><label>Durum</label><select id="fdrm2"><option>Aktif</option><option>Planlama</option><option>İptal</option><option>Devam Ediyor</option><option>Durduruldu</option><option>Yargıda</option><option>Kapatıldı</option></select></div><div class="fg"><label>Belge / Karar No</label><input type="text" id="fblg"/></div><div class="fg"><label>Kaynak</label><input type="text" id="fkyn"/></div><div class="fg"><label>Enlem (Lat)</label><input type="number" step="0.00001" id="flat"/></div><div class="fg"><label>Boylam (Lng)</label><input type="number" step="0.00001" id="flng"/></div>
@@ -247,6 +254,41 @@ let TYPES = [
 ];
 let TM = Object.fromEntries(TYPES.map(t=>[t.key,t]));
 const SK = 'turkiye_harita_v1';
+
+// GitHub ayarları için değişkenler (localStorage'dan yüklenecek)
+let repoOwner = 'ipapila';
+let repoName = 'Turkiye-katmanlar';
+let repoPath = 'data.json';
+let githubToken = null;
+
+// Ayarları yükle
+function loadGitHubSettings() {
+  const savedOwner = localStorage.getItem('github_owner');
+  const savedRepo = localStorage.getItem('github_repo');
+  const savedPath = localStorage.getItem('github_path');
+  const savedToken = localStorage.getItem('github_token');
+  if (savedOwner) repoOwner = savedOwner;
+  if (savedRepo) repoName = savedRepo;
+  if (savedPath) repoPath = savedPath;
+  if (savedToken) githubToken = savedToken;
+}
+function saveGitHubSettings(owner, repo, path, token) {
+  localStorage.setItem('github_owner', owner);
+  localStorage.setItem('github_repo', repo);
+  localStorage.setItem('github_path', path);
+  if (token && token.trim() !== '') {
+    localStorage.setItem('github_token', token);
+    githubToken = token;
+  } else {
+    localStorage.removeItem('github_token');
+    githubToken = null;
+  }
+  repoOwner = owner;
+  repoName = repo;
+  repoPath = path;
+  ntf('GitHub ayarları kaydedildi.', 'ok');
+}
+
 function uid(){return 'r'+Math.random().toString(36).substr(2,9)+Date.now();}
 function tod(){return new Date().toISOString().split('T')[0];}
 function ntf(msg,type='ok'){const el=document.createElement('div');el.className=`ni ${type}`;el.textContent=(type==='ok'?'✅ ':'⚠️ ')+msg;document.getElementById('notif').appendChild(el);setTimeout(()=>el.remove(),3500);}
@@ -255,8 +297,6 @@ function ntf(msg,type='ok'){const el=document.createElement('div');el.className=
 let data=[], mkrs={}, lgs={}, vis={}, editId=null, pkMode=false, pkCb=null, confCb=null;
 let fTxt='', fIl='', fIlce='', fDrm='';
 let isAdmin=false, pendingAdminAction=null;
-let githubToken = sessionStorage.getItem('github_token') || null;
-let repoOwner = 'ipapila', repoName = 'Turkiye-katmanlar', repoPath = 'data.json';
 
 // ---------- TÜM TÜRKİYE İLÇELERİ (81 İL) ----------
 const ILCELER = { "Adana":["Aladağ","Ceyhan","Çukurova","Feke","İmamoğlu","Karaisalı","Karataş","Kozan","Pozantı","Saimbeyli","Sarıçam","Seyhan","Tufanbeyli","Yumurtalık","Yüreğir"], "Adıyaman":["Adıyaman Merkez","Besni","Çelikhan","Gerger","Gölbaşı","Kahta","Samsat","Sincik","Tut"], "Afyonkarahisar":["Afyonkarahisar Merkez","Başmakçı","Bayat","Bolvadin","Çay","Çobanlar","Dazkırı","Dinar","Emirdağ","Evciler","Hocalar","İhsaniye","İscehisar","Kızılören","Sandıklı","Sinanpaşa","Sultandağı","Şuhut"], "Ağrı":["Ağrı Merkez","Diyadin","Doğubayazıt","Eleşkirt","Hamur","Patnos","Taşlıçay","Tutak"], "Amasya":["Amasya Merkez","Göynücek","Gümüşhacıköy","Hamamözü","Merzifon","Suluova","Taşova"], "Ankara":["Akyurt","Altındağ","Ayaş","Balâ","Beypazarı","Çamlıdere","Çankaya","Çubuk","Elmadağ","Etimesgut","Evren","Gölbaşı","Güdül","Haymana","Kalecik","Kazan","Keçiören","Kızılcahamam","Mamak","Nallıhan","Polatlı","Pursaklar","Sincan","Şereflikoçhisar","Yenimahalle"], "Antalya":["Aksu","Akseki","Alanya","Demre","Döşemealtı","Elmalı","Finike","Gazipaşa","Gündoğmuş","İbradı","Kaş","Kemer","Kepez","Konyaaltı","Korkuteli","Kumluca","Manavgat","Muratpaşa","Serik"], "Artvin":["Ardanuç","Arhavi","Artvin Merkez","Borçka","Hopa","Murgul","Şavşat","Yusufeli"], "Aydın":["Bozdoğan","Buharkent","Çine","Didim","Efeler","Germencik","İncirliova","Karacasu","Karpuzlu","Koçarlı","Köşk","Kuşadası","Kuyucak","Nazilli","Söke","Sultanhisar","Yenipazar"], "Balıkesir":["Altıeylül","Ayvalık","Balya","Bandırma","Bigadiç","Burhaniye","Dursunbey","Edremit","Erdek","Gömeç","Gönen","Havran","İvrindi","Karesi","Kepsut","Manyas","Marmara","Savaştepe","Sındırgı","Susurluk"], "Bilecik":["Bilecik Merkez","Bozüyük","Gölpazarı","İnhisar","Osmaneli","Pazaryeri","Söğüt","Yenipazar"], "Bingöl":["Adaklı","Bingöl Merkez","Genç","Karlıova","Kiğı","Solhan","Yayladere","Yedisu"], "Bitlis":["Adilcevaz","Ahlat","Bitlis Merkez","Güroymak","Hizan","Mutki","Tatvan"], "Bolu":["Bolu Merkez","Dörtdivan","Gerede","Göynük","Kıbrıscık","Mengen","Mudurnu","Seben","Yeniçağa"], "Burdur":["Ağlasun","Altınyayla","Bucak","Burdur Merkez","Çavdır","Çeltikçi","Gölhisar","Karamanlı","Kemer","Tefenni","Yeşilova"], "Bursa":["Büyükorhan","Gemlik","Gürsu","Harmancık","İnegöl","İznik","Karacabey","Keles","Kestel","Mudanya","Mustafakemalpaşa","Nilüfer","Orhaneli","Orhangazi","Osmangazi","Yıldırım","Yenişehir"], "Çanakkale":["Ayvacık","Bayramiç","Biga","Bozcaada","Çan","Çanakkale Merkez","Eceabat","Ezine","Gelibolu","Gökçeada","Lapseki","Yenice"], "Çankırı":["Atkaracalar","Bayramören","Çankırı Merkez","Eldivan","Ilgaz","Kızılırmak","Korgun","Kurşunlu","Orta","Şabanözü","Yapraklı"], "Çorum":["Alaca","Bayat","Boğazkale","Dodurga","İskilip","Kargı","Laçin","Mecitözü","Oğuzlar","Ortaköy","Osmancık","Sungurlu","Uğurludağ","Çorum Merkez"], "Denizli":["Acıpayam","Babadağ","Baklan","Bekilli","Beyağaç","Bozkurt","Buldan","Çal","Çameli","Çardak","Çivril","Güney","Honaz","Kale","Merkezefendi","Pamukkale","Sarayköy","Serinhisar","Tavas"], "Diyarbakır":["Bağlar","Bismil","Çermik","Çınar","Çüngüş","Dicle","Eğil","Ergani","Hani","Hazro","Kayapınar","Kocaköy","Kulp","Lice","Silvan","Sur","Yenişehir"], "Edirne":["Edirne Merkez","Enez","Havsa","İpsala","Keşan","Lalapaşa","Meriç","Süloğlu","Uzunköprü"], "Elazığ":["Ağın","Alacakaya","Arıcak","Baskil","Elazığ Merkez","Karakoçan","Keban","Kovancılar","Maden","Palu","Sivrice"], "Erzincan":["Çayırlı","Erzincan Merkez","İliç","Kemah","Kemaliye","Otlukbeli","Refahiye","Tercan","Üzümlü"], "Erzurum":["Aşkale","Aziziye","Çat","Hınıs","Horasan","İspir","Karaçoban","Karayazı","Köprüköy","Narman","Oltu","Olur","Palandöken","Pasinler","Pazaryolu","Şenkaya","Tekman","Tortum","Uzundere","Yakutiye"], "Eskişehir":["Alpu","Beylikova","Çifteler","Eskişehir Merkez","Günyüzü","Han","İnönü","Mahmudiye","Mihalgazi","Mihalıççık","Odunpazarı","Sarıcakaya","Seyitgazi","Sivrihisar","Tepebaşı"], "Gaziantep":["Araban","İslahiye","Karkamış","Nizip","Nurdağı","Oğuzeli","Şahinbey","Şehitkamil","Yavuzeli"], "Giresun":["Alucra","Bulancak","Çamoluk","Çanakçı","Dereli","Doğankent","Espiye","Eynesil","Giresun Merkez","Görele","Güce","Keşap","Piraziz","Şebinkarahisar","Tirebolu","Yağlıdere"], "Gümüşhane":["Gümüşhane Merkez","Kelkit","Köse","Kürtün","Şiran","Torul"], "Hakkari":["Çukurca","Derecik","Hakkari Merkez","Şemdinli","Yüksekova"], "Hatay":["Altınözü","Antakya","Arsuz","Belen","Defne","Dörtyol","Erzin","Hassa","İskenderun","Kırıkhan","Kumlu","Payas","Reyhanlı","Samandağ","Yayladağı"], "Isparta":["Aksu","Atabey","Eğirdir","Gelendost","Gönen","Keçiborlu","Isparta Merkez","Senirkent","Sütçüler","Şarkikaraağaç","Uluborlu","Yalvaç","Yenişarbademli"], "Mersin":["Akdeniz","Anamur","Aydıncık","Bozyazı","Çamlıyayla","Erdemli","Gülnar","Mezitli","Mut","Silifke","Tarsus","Toroslar","Yenişehir"], "İstanbul":["Adalar","Arnavutköy","Ataşehir","Avcılar","Bağcılar","Bahçelievler","Bakırköy","Başakşehir","Bayrampaşa","Beşiktaş","Beykoz","Beylikdüzü","Beyoğlu","Büyükçekmece","Çatalca","Çekmeköy","Esenler","Esenyurt","Eyüpsultan","Fatih","Gaziosmanpaşa","Güngören","Kadıköy","Kağıthane","Kartal","Küçükçekmece","Maltepe","Pendik","Sancaktepe","Sarıyer","Silivri","Sultanbeyli","Sultangazi","Şile","Şişli","Tuzla","Ümraniye","Üsküdar","Zeytinburnu"], "İzmir":["Aliağa","Balçova","Bayındır","Bayraklı","Bergama","Beydağ","Bornova","Buca","Çeşme","Çiğli","Dikili","Foça","Gaziemir","Güzelbahçe","Karabağlar","Karaburun","Karşıyaka","Kemalpaşa","Kınık","Kiraz","Konak","Menderes","Menemen","Narlıdere","Ödemiş","Selçuk","Seferihisar","Tire","Torbalı","Urla"], "Kars":["Akyaka","Arpaçay","Digor","Kağızman","Kars Merkez","Sarıkamış","Selim","Susuz"], "Kastamonu":["Abana","Ağlı","Araç","Azdavay","Bozkurt","Cide","Çatalzeytin","Daday","Devrekani","Doğanyurt","Hanönü","İhsangazi","İnebolu","Kastamonu Merkez","Küre","Pınarbaşı","Seydiler","Şenpazar","Taşköprü","Tosya"], "Kayseri":["Akkışla","Bünyan","Develi","Felahiye","Hacılar","İncesu","Kocasinan","Melikgazi","Özvatan","Pınarbaşı","Sarıoğlan","Sarız","Talas","Tomarza","Yahyalı","Yeşilhisar"], "Kırklareli":["Babaeski","Demirköy","Kırklareli Merkez","Kofçaz","Lüleburgaz","Pehlivanköy","Pınarhisar","Vize"], "Kırşehir":["Akçakent","Akpınar","Boztepe","Çiçekdağı","Kaman","Kırşehir Merkez","Mucur"], "Kocaeli":["Başiskele","Çayırova","Darıca","Derince","Dilovası","Gebze","Gölcük","İzmit","Kandıra","Karamürsel","Kartepe","Körfez"], "Konya":["Ahırlı","Akören","Akşehir","Altınekin","Beyşehir","Bozkır","Cihanbeyli","Çeltik","Çumra","Derbent","Derebucak","Doğanhisar","Emirgazi","Ereğli","Güneysinir","Hadim","Halkapınar","Hüyük","Ilgın","Kadınhanı","Karapınar","Karatay","Kulu","Meram","Sarayönü","Selçuklu","Seydişehir","Taşkent","Tuzlukçu","Yalıhüyük","Yunak"], "Kütahya":["Altıntaş","Aslanapa","Çavdarhisar","Domaniç","Dumlupınar","Emet","Gediz","Hisarcık","Kütahya Merkez","Pazarlar","Simav","Şaphane","Tavşanlı"], "Malatya":["Akçadağ","Arapgir","Arguvan","Battalgazi","Darende","Doğanşehir","Doğanyol","Hekimhan","Kale","Kuluncak","Pütürge","Yazıhan","Yeşilyurt"], "Manisa":["Ahmetli","Akhisar","Alaşehir","Demirci","Gölmarmara","Gördes","Kırkağaç","Köprübaşı","Kula","Salihli","Sarıgöl","Saruhanlı","Selendi","Soma","Şehzadeler","Turgutlu","Yunusemre"], "Kahramanmaraş":["Afşin","Andırın","Çağlayancerit","Dulkadiroğlu","Ekinözü","Elbistan","Göksun","Nurhak","Onikişubat","Pazarcık","Türkoğlu"], "Mardin":["Artuklu","Dargeçit","Derik","Kızıltepe","Mazıdağı","Midyat","Nusaybin","Ömerli","Savur","Yeşilli"], "Muğla":["Bodrum","Dalaman","Datça","Fethiye","Kavaklıdere","Köyceğiz","Marmaris","Menteşe","Milas","Ortaca","Seydikemer","Ula","Yatağan"], "Muş":["Bulanık","Hasköy","Korkut","Malazgirt","Muş Merkez","Varto"], "Nevşehir":["Acıgöl","Avanos","Derinkuyu","Gülşehir","Hacıbektaş","Kozaklı","Nevşehir Merkez","Ürgüp"], "Niğde":["Altunhisar","Bor","Çamardı","Çiftlik","Niğde Merkez","Ulukışla"], "Ordu":["Akkuş","Altınordu","Aybastı","Çamaş","Çatalpınar","Çaybaşı","Fatsa","Gölköy","Gülyalı","Gürgentepe","İkizce","Kabadüz","Kabataş","Korgan","Kumru","Mesudiye","Perşembe","Ulubey","Ünye"], "Rize":["Ardeşen","Çamlıhemşin","Çayeli","Derepazarı","Fındıklı","Güneysu","Hemşin","İkizdere","İyidere","Kalkandere","Pazar","Rize Merkez"], "Sakarya":["Adapazarı","Akyazı","Arifiye","Erenler","Ferizli","Geyve","Hendek","Karapürçek","Karasu","Kaynarca","Kocaali","Pamukova","Sapanca","Serdivan","Söğütlü","Taraklı"], "Samsun":["19 Mayıs","Alaçam","Asarcık","Atakum","Ayvacık","Bafra","Canik","Çarşamba","Havza","İlkadım","Kavak","Ladik","Ondokuzmayıs","Salıpazarı","Tekkeköy","Terme","Vezirköprü","Yakakent"], "Siirt":["Aydinlar","Baykan","Eruh","Kurtalan","Pervari","Siirt Merkez","Şirvan","Tillo"], "Sinop":["Ayancık","Boyabat","Dikmen","Durağan","Erfelek","Gerze","Saraydüzü","Sinop Merkez","Türkeli"], "Sivas":["Akıncılar","Altınyayla","Divriği","Doğanşar","Gemerek","Gölova","Gürün","Hafik","İmranlı","Kangal","Koyulhisar","Sivas Merkez","Suşehri","Şarkışla","Ulaş","Yıldızeli","Zara"], "Tekirdağ":["Çerkezköy","Çorlu","Ergene","Hayrabolu","Malkara","Marmaraereğlisi","Muratlı","Saray","Süleymanpaşa","Şarköy"], "Tokat":["Almus","Artova","Başçiftlik","Erbaa","Niksar","Pazar","Reşadiye","Sulusaray","Tokat Merkez","Turhal","Yeşilyurt","Zile"], "Trabzon":["Akçaabat","Araklı","Arsin","Beşikdüzü","Çarşıbaşı","Çaykara","Dernekpazarı","Düzköy","Hayrat","Köprübaşı","Maçka","Of","Ortahisar","Sürmene","Şalpazarı","Tonya","Vakfıkebir","Yomra"], "Tunceli":["Çemişgezek","Hozat","Mazgirt","Nazımiye","Ovacık","Pertek","Pülümür","Tunceli Merkez"], "Şanlıurfa":["Akçakale","Birecik","Bozova","Ceylanpınar","Eyyübiye","Halfeti","Haliliye","Harran","Hilvan","Karaköprü","Siverek","Suruç","Viranşehir"], "Uşak":["Banaz","Eşme","Karahallı","Sivaslı","Ulubey","Uşak Merkez"], "Van":["Bahçesaray","Başkale","Çaldıran","Çatak","Edremit","Erciş","Gevaş","Gürpınar","İpekyolu","Muradiye","Özalp","Saray","Tuşba"], "Yozgat":["Akdağmadeni","Aydıncık","Boğazlıyan","Çandır","Çayıralan","Çekerek","Kadışehri","Saraykent","Sarıkaya","Sorgun","Şefaatli","Yenifakılı","Yerköy","Yozgat Merkez"], "Zonguldak":["Alaplı","Çaycuma","Devrek","Ereğli","Gökçebey","Kilimli","Kozlu","Zonguldak Merkez"], "Aksaray":["Ağaçören","Aksaray Merkez","Eskil","Gülağaç","Güzelyurt","Ortaköy","Sarıyahşi","Sultanhanı"], "Bayburt":["Aydıntepe","Bayburt Merkez","Demirözü"], "Karaman":["Ayrancı","Başyayla","Ermenek","Karaman Merkez","Kazımkarabekir","Sarıveliler"], "Kırıkkale":["Bahşili","Balışeyh","Çelebi","Delice","Karakeçili","Keskin","Kırıkkale Merkez","Sulakyurt","Yahşihan"], "Batman":["Batman Merkez","Beşiri","Gercüş","Hasankeyf","Kozluk","Sason"], "Şırnak":["Beytüşşebap","Cizre","Güçlükonak","İdil","Silopi","Şırnak Merkez","Uludere"], "Bartın":["Amasra","Bartın Merkez","Kurucaşile","Ulus"], "Ardahan":["Ardahan Merkez","Çıldır","Damal","Göle","Hanak","Posof"], "Iğdır":["Aralık","Iğdır Merkez","Karakoyunlu","Tuzluca"], "Yalova":["Altınova","Armutlu","Çınarcık","Çiftlikköy","Termal","Yalova Merkez"], "Karabük":["Eflani","Eskipazar","Karabük Merkez","Ovacık","Safranbolu","Yenice"], "Kilis":["Elbeyli","Kilis Merkez","Musabeyli","Polateli"], "Osmaniye":["Bahçe","Düziçi","Hasanbeyli","Kadirli","Osmaniye Merkez","Sumbas","Toprakkale"], "Düzce":["Akçakoca","Cumayeri","Çilimli","Düzce Merkez","Gölyaka","Gümüşova","Kaynaşlı","Yığılca"] };
@@ -282,12 +322,9 @@ map.on('mousemove',e=>document.getElementById('cbar').textContent=`Enlem: ${e.la
 map.on('click',e=>{if(pkMode&&pkCb){pkCb(e.latlng.lat,e.latlng.lng);exitPk();}});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&pkMode)exitPk();});
 
-// KATMAN GRUPLARI (dinamik olarak yeniden oluşturulabilir)
+// KATMAN GRUPLARI (dinamik)
 function rebuildLayerGroups() {
-  // Mevcut lgs'leri temizle
-  Object.keys(lgs).forEach(key => {
-    if (lgs[key]) map.removeLayer(lgs[key]);
-  });
+  Object.keys(lgs).forEach(key => { if (lgs[key]) map.removeLayer(lgs[key]); });
   TYPES.forEach(t => {
     lgs[t.key] = L.markerClusterGroup({
       maxClusterRadius: 55,
@@ -301,7 +338,6 @@ function rebuildLayerGroups() {
     lgs[t.key].addTo(map);
     if (vis[t.key] === undefined) vis[t.key] = (t.key === 'Ekolojik İhlal' || t.key === 'İklim Olayları' || t.key === 'Acele Kamulaştırma');
   });
-  // Mevcut markerları yeni gruplara ekle
   Object.values(mkrs).forEach(m => {
     const r = data.find(d => d.id === m.options.id);
     if (r && lgs[r.tip] && !lgs[r.tip].hasLayer(m)) lgs[r.tip].addLayer(m);
@@ -327,7 +363,6 @@ function addNewCategory(tip) {
   lgs[tip].addTo(map);
   vis[tip] = true;
   ntf(`Yeni kategori otomatik eklendi: ${tip}`, 'ok');
-  // Katman listesini yenile
   buildLG();
 }
 
@@ -414,7 +449,6 @@ function migrateCategories(records) {
 
 // ---------- VERİ YÜKLEME / KAYDETME ----------
 function fixCoords(records){return records;}
-const acelePoints = [];
 const SAMPLE_DATA = migrateCategories([
   {id:uid(), tip:'Ekolojik İhlal', ad:'Kaçak Avcılık', il:'Muğla', ilce:'Bodrum', alan_ha:0, durum:'Aktif', aciklama:'Yaban hayatı kaçakçılığı', koordinatlar:{lat:37.038,lng:27.431}, eklenme:tod(), alt_kategori:'Yaban Hayatı Suçu', kaynak_link:'https://example.com/rapor1'},
   {id:uid(), tip:'İklim Olayları', ad:'Orman Yangını (2023)', il:'Antalya', ilce:'Manavgat', alan_ha:15000, durum:'Devam Ediyor', aciklama:'Aşırı sıcaklık nedeniyle çıkan yangın', koordinatlar:{lat:36.785,lng:31.443}, eklenme:tod(), alt_kategori:'', kaynak_link:'https://example.com/yangin'},
@@ -424,6 +458,7 @@ const SAMPLE_DATA = migrateCategories([
 ]);
 
 async function load(){
+  loadGitHubSettings(); // Ayarları oku
   try{
     const res=await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${repoPath}?t=${Date.now()}`);
     if(res.ok){ const remote=await res.json(); if(Array.isArray(remote)&&remote.length){ let fixed = fixCoords(remote); fixed = migrateCategories(fixed); data = fixed; localStorage.setItem(SK,JSON.stringify(data)); ntf(data.length+' kayıt GitHub’dan yüklendi','ok'); renderAll(); return; }}
@@ -441,7 +476,7 @@ function saveLocal(){ localStorage.setItem(SK,JSON.stringify(data)); ntf('Yerel 
 function exportJSON(){ const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));a.download=`turkiye-alan-${tod()}.json`;a.click();ntf('JSON indirildi','ok');}
 function exportGeoJSON(){const features=data.filter(r=>r.koordinatlar?.lat).map(r=>({type:'Feature',properties:{...r,koordinatlar:undefined},geometry:{type:'Point',coordinates:[r.koordinatlar.lng,r.koordinatlar.lat]}}));const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify({type:'FeatureCollection',features},null,2)],{type:'application/geo+json'}));a.download=`turkiye-alan-${tod()}.geojson`;a.click();ntf('GeoJSON indirildi','ok');}
 async function syncToGitHub(){
-  if(!githubToken){ const token=prompt('GitHub kişisel erişim tokenı (repo yazma izni) girin:\n\nToken oluşturmak için GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic) → repo kapsamı seçin.'); if(!token)return; githubToken=token; sessionStorage.setItem('github_token',githubToken); }
+  if(!githubToken){ ntf('GitHub tokenı eksik. Lütfen GitHub Ayarları\'ndan token kaydedin.','err'); return; }
   const apiUrl=`https://api.github.com/repos/${repoOwner}/${repoName}/contents/${repoPath}`;
   let sha=null;
   try{ const getRes=await fetch(apiUrl,{headers:{Authorization:`Bearer ${githubToken}`}}); if(getRes.ok){ const info=await getRes.json(); sha=info.sha; } else if(getRes.status!==404) throw new Error(`HTTP ${getRes.status}`); }catch(e){ ntf(`SHA alınamadı: ${e.message}`,'err'); return; }
@@ -594,9 +629,7 @@ function exitPk(){pkMode=false;document.body.classList.remove('pkmode');document
 // ---------- İMPORT (AKILLI KATEGORİ, MODAL OLMADAN) ----------
 function ensureCategoriesExist(records) {
   const uniqueTips = new Set(records.map(r => r.tip).filter(t => t));
-  uniqueTips.forEach(tip => {
-    if (!TM[tip]) addNewCategory(tip);
-  });
+  uniqueTips.forEach(tip => { if (!TM[tip]) addNewCategory(tip); });
 }
 function geomCentroid(geom){let coords=[];if(geom.type==='Point')return[geom.coordinates[1],geom.coordinates[0]];if(geom.type==='Polygon')coords=geom.coordinates[0];else if(geom.type==='MultiPolygon')geom.coordinates.forEach(poly=>coords.push(...poly[0]));if(!coords.length)return null;const sx=coords.reduce((a,c)=>a+c[0],0)/coords.length;const sy=coords.reduce((a,c)=>a+c[1],0)/coords.length;return[sy,sx];}
 function guessTip(p){
@@ -677,7 +710,6 @@ function processGeoJSON(parsed){
     };
   }).filter(Boolean);
   if(!imported.length){ ntf('Koordinat içeren kayıt bulunamadı','err'); return; }
-  // Yeni kategorileri otomatik ekle
   ensureCategoriesExist(imported);
   showImportConfirm(imported);
 }
@@ -733,6 +765,31 @@ function closeAdminMod(){document.getElementById('adminov').style.display='none'
 function adminLogout(){isAdmin=false;updateAdminUI();ntf('Çıkış yapıldı','ok');}
 function updateAdminUI(){const btn=document.getElementById('adminbtn');if(isAdmin){btn.textContent='🔓 Çıkış';btn.style.borderColor='var(--success)';}else{btn.textContent='🔒 Admin';btn.style.borderColor='';}document.querySelectorAll('.admin-only').forEach(el=>el.style.display=isAdmin?'':'none');}
 
+// ---------- GITHUB AYARLARI MODAL ----------
+function openGithubSettings() {
+  document.getElementById('ghOwner').value = repoOwner;
+  document.getElementById('ghRepo').value = repoName;
+  document.getElementById('ghPath').value = repoPath;
+  document.getElementById('ghToken').value = githubToken || '';
+  document.getElementById('ghSettingsModal').style.display = 'flex';
+}
+function closeGithubSettings() {
+  document.getElementById('ghSettingsModal').style.display = 'none';
+}
+function saveGithubSettings() {
+  const owner = document.getElementById('ghOwner').value.trim();
+  const repo = document.getElementById('ghRepo').value.trim();
+  const path = document.getElementById('ghPath').value.trim();
+  const token = document.getElementById('ghToken').value.trim();
+  if (!owner || !repo || !path) {
+    ntf('Repo sahibi, repo adı ve dosya yolu zorunludur.', 'err');
+    return;
+  }
+  saveGitHubSettings(owner, repo, path, token);
+  closeGithubSettings();
+  ntf('Ayarlar kaydedildi. Sayfayı yenileyin veya "GitHub’dan Yükle" butonuna basın.', 'ok');
+}
+
 // ---------- EVENTLER ----------
 let dark=true;
 document.getElementById('thbtn').addEventListener('click',()=>{dark=!dark;document.body.setAttribute('data-theme',dark?'dark':'light');document.getElementById('thbtn').textContent=dark?'🌙':'☀️';});
@@ -743,6 +800,9 @@ document.getElementById('expgeobtn').addEventListener('click',exportGeoJSON);
 document.getElementById('impbtn').addEventListener('click',()=>document.getElementById('impfile').click());
 document.getElementById('impfile').addEventListener('change',e=>{if(e.target.files[0])impD(e.target.files[0]);e.target.value='';});
 document.getElementById('ghsavebtn').addEventListener('click',()=>requireAdmin(syncToGitHub));
+document.getElementById('ghSettingsBtn').addEventListener('click',()=>requireAdmin(openGithubSettings));
+document.getElementById('closeGhSettings').addEventListener('click',closeGithubSettings);
+document.getElementById('saveGhSettings').addEventListener('click',saveGithubSettings);
 document.getElementById('delCatBtn').addEventListener('click',()=>requireAdmin(openCatModal));
 document.getElementById('groupResBtn').addEventListener('click',()=>requireAdmin(()=>groupRESData(2000)));
 document.getElementById('rstbtn').addEventListener('click',()=>requireAdmin(rstD));
