@@ -116276,18 +116276,19 @@
     "ad": "Eti Bakır Sinop Boyabat Bakır Madeni (Cengiz Holding)",
     "il": "Sinop",
     "ilce": "Boyabat",
+    "aciklama": "Cengiz Holding iştiraki Eti Bakır 897 ha alanda açık ocak bakır madeni kuracak; 224.895 ağaç kesilecek. Alan orman, tarım ve fundalık. 1.4 km mesafede 1. derece arkeolojik sit var. İhaleye tek katılan Cengiz olmuştu.",
+    "koordinatlar": {
+      "lat": 41.489035,
+      "lng": 34.806061
+    },
     "alan_ha": 897,
     "durum": "Planlama",
     "belge_no": "ÇED Olumlu — Ocak 2026",
-    "eklenme": "2026-01-21",
+    "eklenme": "2026-05-09",
     "kaynak": "Cumhuriyet / 12 Punto",
-    "kaynak_link": "https://12punto.com.tr/cevre/224-bin-agac-kesilecek-cengiz-holdingin-projesine-ced-onayi-108996",
-    "aciklama": "Cengiz Holding iştiraki Eti Bakır 897 ha alanda açık ocak bakır madeni kuracak; 224.895 ağaç kesilecek. Alan orman, tarım ve fundalık. 1.4 km mesafede 1. derece arkeolojik sit var. İhaleye tek katılan Cengiz olmuştu.",
     "alt_kategori": "Orman Suçları/Yasadışı Kesim",
-    "koordinatlar": {
-      "lat": 42.021475,
-      "lng": 35.150534
-    }
+    "kaynak_link": "https://12punto.com.tr/cevre/224-bin-agac-kesilecek-cengiz-holdingin-projesine-ced-onayi-108996",
+    "sabit": true
   },
   {
     "id": "rabijrkxdb1778332070",
