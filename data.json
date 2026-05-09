@@ -116136,5 +116136,195 @@
     "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
     "kaynak_link": "https://www.birgun.net/haber/eczacibasinin-tesisinde-maden-kazasi-atiklar-eskisehirin-topragina-karisti-711202",
     "sabit": true
+  },
+  {
+    "id": "rncssgrivo1778332070",
+    "tip": "Acele Kamulaştırma",
+    "ad": "COP31/EXPO Alanı Çevresi Acele Kamulaştırma (TOKİ)",
+    "il": "Antalya",
+    "ilce": "Aksu",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı 11299 — RG 33247",
+    "eklenme": "2026-05-08",
+    "kaynak": "Resmî Gazete / Antalya Ekspres",
+    "kaynak_link": "https://www.antalyaekspres.com.tr/resmi-gazetede-yayimlandi-antalyada-acele-kamulastirma-karari",
+    "aciklama": "COP31 (9-20 Kasım 2026) otopark ve altyapı için Aksu Solak Mahallesi taşınmazları TOKİ tarafından acele kamulaştırıldı. Kamulaştırma kararından önce bölgede iş makinelerinin çalıştığı görüntülendi.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.898346,
+      "lng": 30.715082
+    }
+  },
+  {
+    "id": "r2bjifs4me1778332070",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Kahramankazan RMS-B Doğal Gaz Dağıtım Tesisi Kamulaştırması",
+    "il": "Ankara",
+    "ilce": "Kahramankazan",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı 11300 — RG 33247",
+    "eklenme": "2026-05-08",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-8-mayis-2026-resmi-gazete-kararlari-1723337",
+    "aciklama": "Ankara Kahramankazan'da doğal gaz dağıtım tesisi için EPDK tarafından acele kamulaştırma yapıldı.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 39.931902,
+      "lng": 32.861662
+    }
+  },
+  {
+    "id": "ri7gvst05r1778332070",
+    "tip": "GES",
+    "ad": "154 kV İzdemir Arazi GES-Gördes TM Enerji İletim Hattı Kamulaştırması",
+    "il": "Manisa",
+    "ilce": "Gördes",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı 11301 — RG 33247",
+    "eklenme": "2026-05-08",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-8-mayis-2026-resmi-gazete-kararlari-1723337",
+    "aciklama": "GES enerji iletim hattı için TEİAŞ tarafından Manisa Gördes güzergahındaki taşınmazlar acele kamulaştırıldı.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 38.617734,
+      "lng": 27.428112
+    }
+  },
+  {
+    "id": "rklz6aoyk01778332070",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Mersin-Tarsus OSB İltisak Hattı Kamulaştırması (TCDD)",
+    "il": "Mersin",
+    "ilce": "Tarsus",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı 11302 — RG 33247",
+    "eklenme": "2026-05-08",
+    "kaynak": "Resmî Gazete",
+    "kaynak_link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-8-mayis-2026-resmi-gazete-kararlari-1723337",
+    "aciklama": "Mersin-Tarsus OSB iltisak hattı projesi için TCDD tarafından taşınmazlar ve üzerlerindeki muhdesat acele kamulaştırıldı.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 36.913745,
+      "lng": 34.899012
+    }
+  },
+  {
+    "id": "rfz7wx7ixi1778332070",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Ihlara Vadisi Doğal Sit Alanı Sınır Değişikliği",
+    "il": "Aksaray",
+    "ilce": "Güzelyurt",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı 11297 — RG 33247",
+    "eklenme": "2026-05-08",
+    "kaynak": "Resmî Gazete / Genç Gazete",
+    "kaynak_link": "https://www.gencgazete.net/8-mayis-2026-tarihli-ve-33247-sayili-resmi-gazete",
+    "aciklama": "Ihlara Vadisi ve Çevresi Doğal Sit Alanı Kesin Korunacak Hassas Alanı sınırları değiştirildi. Alanın daraltılıp daraltılmadığı netlik kazanmadı.",
+    "alt_kategori": "",
+    "koordinatlar": {
+      "lat": 38.368426,
+      "lng": 34.036049
+    }
+  },
+  {
+    "id": "r2va92hy451778332070",
+    "tip": "Milli Park",
+    "ad": "Hatay Dağ Ceylanı Yaban Hayatı Geliştirme Sahası Sınır Değişikliği",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı 11298 — RG 33247",
+    "eklenme": "2026-05-08",
+    "kaynak": "Resmî Gazete / Genç Gazete",
+    "kaynak_link": "https://www.gencgazete.net/8-mayis-2026-tarihli-ve-33247-sayili-resmi-gazete",
+    "aciklama": "Hatay Dağ Ceylanı Yaban Hayatı Geliştirme Sahası sınırları Cumhurbaşkanı kararıyla değiştirildi. Değişikliğin yaban hayatı koridoruna etkisi belirsiz.",
+    "alt_kategori": "Yaban Hayatı Suçu",
+    "koordinatlar": {
+      "lat": 36.202172,
+      "lng": 36.150504
+    }
+  },
+  {
+    "id": "rtg7xq6k671778332070",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Akbelen Ormanı 679 Parsel — Danıştay Yürütmeyi Durdurdu",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "alan_ha": 679,
+    "durum": "Durduruldu",
+    "belge_no": "10 Ocak 2026 RG — Danıştay 6. Dairesi YD 28 Nisan 2026",
+    "eklenme": "2026-05-05",
+    "kaynak": "Gündem Fethiye",
+    "kaynak_link": "https://gundemfethiye.com/danistay-akbelen-cevresindeki-679-parselin-acele-kamulastirilmasi-kararinin-yurutmesini-durdurdu-159460/",
+    "aciklama": "YK Enerji linyit madeni için acele kamulaştırılan 679 parsellik tarım arazisi Danıştay'ca durduruldu (28 Nisan, 5 Mayıs tebliğ). 93 ayrı iptal davası sürmekte. Direnişçi Esra Işık hâlâ tutuklu.",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "koordinatlar": {
+      "lat": 37.318245,
+      "lng": 27.781719
+    }
+  },
+  {
+    "id": "ripiv4nf1a1778332070",
+    "tip": "Maden Ocağı",
+    "ad": "Eti Bakır Sinop Boyabat Bakır Madeni (Cengiz Holding)",
+    "il": "Sinop",
+    "ilce": "Boyabat",
+    "alan_ha": 897,
+    "durum": "Planlama",
+    "belge_no": "ÇED Olumlu — Ocak 2026",
+    "eklenme": "2026-01-21",
+    "kaynak": "Cumhuriyet / 12 Punto",
+    "kaynak_link": "https://12punto.com.tr/cevre/224-bin-agac-kesilecek-cengiz-holdingin-projesine-ced-onayi-108996",
+    "aciklama": "Cengiz Holding iştiraki Eti Bakır 897 ha alanda açık ocak bakır madeni kuracak; 224.895 ağaç kesilecek. Alan orman, tarım ve fundalık. 1.4 km mesafede 1. derece arkeolojik sit var. İhaleye tek katılan Cengiz olmuştu.",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "koordinatlar": {
+      "lat": 42.021475,
+      "lng": 35.150534
+    }
+  },
+  {
+    "id": "rabijrkxdb1778332070",
+    "tip": "Ekolojik İhlal",
+    "ad": "Giresun Harşit Vadisi Maden Atığı Su Kirliliği",
+    "il": "Giresun",
+    "ilce": "Merkez",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-02",
+    "kaynak": "Cumhuriyet",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/turkiye/giresun-da-maden-sirketinin-atiklariyla-dereyi-kirlettigi-bildirildi-2500584",
+    "aciklama": "AKP'li Alagöz'e ait maden şirketinin atıklarıyla Harşit Vadisi deresi kirletildi. Suyun 500 m boyunca koyu renk aktığı bildirildi; kirlilik Harşit Çayı üzerinden Karadeniz'e ulaştı.",
+    "alt_kategori": "Su Kirliliği",
+    "koordinatlar": {
+      "lat": 40.911178,
+      "lng": 38.388307
+    }
+  },
+  {
+    "id": "rgvlh8om9o1778332070",
+    "tip": "Orman Alanı",
+    "ad": "Botan Coğrafyası — Besta, Cudî, Gabar Orman Tahribatı",
+    "il": "Şırnak",
+    "ilce": "Merkez",
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Şırnak Barosu Raporu 2022",
+    "eklenme": "2026-05-07",
+    "kaynak": "Marmara Yerel Haber",
+    "kaynak_link": "https://www.marmarayerelhaber.com/cevre---ekoloji-haberleri/20515-botan-cografyasinda-orman-alanlari-hizla-yok-ediliyor",
+    "aciklama": "Besta, Cudî ve Gabar dağlarında güvenlik/maden/petrol faaliyetleri gerekçesiyle ormansızlaştırma sürüyor. 2018-2022 arası %8 orman kaybı. TPAO petrol kuyuları su kaynaklarını kirletiyor. Dağ keçisi ve ceylan habitatı yok ediliyor. Bölge kamuoyuna kapalı.",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "koordinatlar": {
+      "lat": 37.516216,
+      "lng": 42.460501
+    }
   }
 ]
