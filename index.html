@@ -458,20 +458,69 @@ const SAMPLE_DATA = migrateCategories([
 ]);
 
 async function load(){
-  loadGitHubSettings(); // Ayarları oku
-  try{
-    const res=await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${repoPath}?t=${Date.now()}`);
-    if(res.ok){ const remote=await res.json(); if(Array.isArray(remote)&&remote.length){ let fixed = fixCoords(remote); fixed = migrateCategories(fixed); data = fixed; localStorage.setItem(SK,JSON.stringify(data)); ntf(data.length+' kayıt GitHub’dan yüklendi','ok'); renderAll(); return; }}
-    throw new Error();
-  }catch(e){
-    const local=localStorage.getItem(SK);
-    if(local){ let parsed = JSON.parse(local); parsed = migrateCategories(parsed); data = fixCoords(parsed); ntf(`${data.length} kayıt yerel depodan yüklendi`,'ok'); renderAll(); return; }
+  loadGitHubSettings(); // GitHub ayarlarını yükle
+  let loaded = false;
+  
+  // 1. GitHub'dan veri çekmeyi dene
+  try {
+    const res = await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${repoPath}?t=${Date.now()}`);
+    if (res.ok) {
+      const remote = await res.json();
+      if (Array.isArray(remote) && remote.length > 0) {
+        let fixed = fixCoords(remote);
+        fixed = migrateCategories(fixed);
+        data = fixed;
+        localStorage.setItem(SK, JSON.stringify(data));
+        ntf(data.length + ' kayıt GitHub’dan yüklendi', 'ok');
+        renderAll();
+        loaded = true;
+        return;
+      } else if (Array.isArray(remote) && remote.length === 0) {
+        ntf('GitHub verisi boş, yerel depo kontrol ediliyor...', 'ok');
+      } else {
+        ntf('GitHub verisi geçersiz, yerel depo kontrol ediliyor...', 'warn');
+      }
+    } else {
+      ntf('GitHub bağlantı hatası, yerel depo kontrol ediliyor...', 'warn');
+    }
+  } catch(e) {
+    console.warn('GitHub çekme hatası:', e);
+    ntf('GitHub erişilemedi, yerel depo kontrol ediliyor...', 'warn');
+  }
+  
+  // 2. Yerel depoyu kontrol et
+  if (!loaded) {
+    const local = localStorage.getItem(SK);
+    if (local) {
+      try {
+        let parsed = JSON.parse(local);
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          parsed = migrateCategories(parsed);
+          data = fixCoords(parsed);
+          ntf(`${data.length} kayıt yerel depodan yüklendi`, 'ok');
+          renderAll();
+          loaded = true;
+          return;
+        } else {
+          ntf('Yerel depo boş, örnek veriler yükleniyor...', 'ok');
+        }
+      } catch(e) {
+        ntf('Yerel depo hatalı, örnek veriler yükleniyor...', 'warn');
+      }
+    } else {
+      ntf('Yerel depo bulunamadı, örnek veriler yükleniyor...', 'ok');
+    }
+  }
+  
+  // 3. Örnek verileri yükle (SAMPLE_DATA)
+  if (!loaded) {
     data = fixCoords(JSON.parse(JSON.stringify(SAMPLE_DATA)));
-    localStorage.setItem(SK,JSON.stringify(data));
-    ntf(`${data.length} kayıt yüklendi`, 'ok');
+    localStorage.setItem(SK, JSON.stringify(data));
+    ntf(`${data.length} kayıt yüklendi (örnek veriler)`, 'ok');
     renderAll();
   }
 }
+
 function saveLocal(){ localStorage.setItem(SK,JSON.stringify(data)); ntf('Yerel kaydedildi','ok'); }
 function exportJSON(){ const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));a.download=`turkiye-alan-${tod()}.json`;a.click();ntf('JSON indirildi','ok');}
 function exportGeoJSON(){const features=data.filter(r=>r.koordinatlar?.lat).map(r=>({type:'Feature',properties:{...r,koordinatlar:undefined},geometry:{type:'Point',coordinates:[r.koordinatlar.lng,r.koordinatlar.lat]}}));const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify({type:'FeatureCollection',features},null,2)],{type:'application/geo+json'}));a.download=`turkiye-alan-${tod()}.geojson`;a.click();ntf('GeoJSON indirildi','ok');}
