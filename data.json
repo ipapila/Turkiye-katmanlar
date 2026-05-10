@@ -116327,5 +116327,325 @@
       "lat": 37.516216,
       "lng": 42.460501
     }
+  },
+  {
+    "id": "rrtpyyj6pk1778391104207",
+    "tip": "Ekolojik İhlal",
+    "ad": "Samandağ Enkaz Hafriyat Döküm Sahası – Asbest Kirliliği",
+    "il": "Hatay",
+    "ilce": "Samandağ",
+    "koordinatlar": {
+      "lat": 36.078253,
+      "lng": 35.977048
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "ÇMO İst. Şb. 30.05.2023",
+    "eklenme": "2023-05-30",
+    "kaynak": "Bianet / ÇMO",
+    "kaynak_link": "https://m.bianet.org/bianet/cevre/279622-cmo-hatay-da-alinan-her-iki-ornekten-birinde-asbest-var",
+    "aciklama": "ÇMO İstanbul Şubesi Nisan-Eylül 2023 saha çalışmalarında Samandağ ve Antakya döküm sahalarından alınan 45 numunenin 16'sında asbest lifleri tespit etti. Asbestle Çalışmalarda Sağlık ve Güvenlik Önlemleri Yönetmeliği'ne hiç uyulmadığı belirlendi.",
+    "alt_kategori": "Hava Kirliliği",
+    "kaynak_turu": "stk"
+  },
+  {
+    "id": "rsbwtehttq1778391104207",
+    "tip": "Ekolojik İhlal",
+    "ad": "Antakya Enkaz Hafriyat – Asbest ve Toz Kirliliği",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "koordinatlar": {
+      "lat": 36.203325,
+      "lng": 36.160471
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2023-03-16",
+    "kaynak": "Greenpeace Türkiye / Yeşil Gazete",
+    "kaynak_link": "https://yesilgazete.org/greenpeace-deprem-bolgesindeki-hava-kirliligi-ciddi-bir-tehdit/",
+    "aciklama": "Greenpeace Türkiye Mart 2023 saha ölçümlerinde PM10 anlık değerleri 1.262 μg/m³'e ulaştı. Antakya'nın en büyük döküm sahasında (Altınözü-Antakya yolu) arazöz bile çalıştırılmadığı gözlemlendi.",
+    "alt_kategori": "Hava Kirliliği",
+    "kaynak_turu": "stk"
+  },
+  {
+    "id": "rctxsg1elq1778391104207",
+    "tip": "Ekolojik İhlal",
+    "ad": "Antakya Beton Santralleri – ÇED'siz Hava Kirliliği",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "koordinatlar": {
+      "lat": 36.203708,
+      "lng": 36.161396
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Temmuz 2023–Ocak 2025 ÇED kararları",
+    "eklenme": "2025-02-12",
+    "kaynak": "Diken / Temiz Hava Hakkı Platformu",
+    "kaynak_link": "https://www.diken.com.tr/deprem-bolgesi-bu-kez-58-beton-santralle-boguluyor/",
+    "aciklama": "Temmuz 2023–Ocak 2025 arasında Hatay'da 26 hazır beton projesi için 'ÇED gerekli değildir' kararı verildi. Ocak 2025 ölçümlerinde PM10 ortalaması yasal sınırın 2,5 katı (60,1 μg/m³), PM2,5 ise 41,5 μg/m³ çıktı.",
+    "alt_kategori": "Hava Kirliliği",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "rdxvgiisqh1778391104207",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Hatay Geneli – 200 Taş ve Mermer Ocağı Açılması (2023–2025)",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "koordinatlar": {
+      "lat": 36.20494,
+      "lng": 36.160696
+    },
+    "alan_ha": 2555,
+    "durum": "Aktif",
+    "belge_no": "MAPEG 2023-2025",
+    "eklenme": "2026-01-15",
+    "kaynak": "Numedya24 / Birgün",
+    "kaynak_link": "https://www.numedya24.com/50-tasocagi-56-beton-santrali-i-goz-kamastiran-hatay-dev-bir-santiyeye-dondu/",
+    "aciklama": "Deprem öncesi 22 olan taş ocağı sayısı 2025'te 200'e ulaştı; 86 ruhsatlı beton santrali faaliyet gösteriyor. Antakya, İskenderun, Defne, Yayladağı, Belen ve Hassa'da 2.555 ha orman-tarım-mera arazisi taş ocaklarına tahsis edildi. Yıllık toz emisyonu 24,9 milyon ton.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "r15n2tplw01778391104207",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Altınözü Yaban Hayatı Sahası Yakınında Taş Ocağı",
+    "il": "Hatay",
+    "ilce": "Altınözü",
+    "koordinatlar": {
+      "lat": 36.062793,
+      "lng": 36.235513
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2024-07-14",
+    "kaynak": "Gazete Duvar / DAÇE",
+    "kaynak_link": "https://www.gazeteduvar.com.tr/hataya-60-tas-ocagi-ile-onlarca-beton-santrali-yapilmak-isteniyor-afet-yeni-basliyor-haber-1705694",
+    "aciklama": "Antakya'da planlanan taş ocakları Altınözü Yaban Hayatı Geliştirme Sahası'na 800 metre mesafede. Belen Geçidi Tabiat Parkı'na 2 km uzaklıkta taş ocakları faaliyet gösteriyor.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_turu": "stk"
+  },
+  {
+    "id": "rh9yfdo4zw1778391104207",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Dikmece Köyü Zeytinlik ve Tarım Arazisi – TOKİ Acele Kamulaştırması",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "koordinatlar": {
+      "lat": 36.215,
+      "lng": 36.15
+    },
+    "alan_ha": 7500,
+    "durum": "Yargıda",
+    "belge_no": "OHAL KHK 126 / 7452 sayılı Kanun",
+    "eklenme": "2023-07-30",
+    "kaynak": "Yeşil Gazete / Cumhuriyet / İHD",
+    "kaynak_link": "https://yesilgazete.org/dikmece-icin-durusma-gunu-belli-oldu-zeytinliklerin-akibeti-ne-olacak/",
+    "aciklama": "24 Şubat 2023 OHAL kararnamesiyle Antakya Dikmece Köyü'nün 7.500 dönüm zeytinliği ve tarım arazisine acele kamulaştırma kararı verildi. Kasım 2023'te mahkeme yürütmeyi durdurdu; ancak TOKİ inşaatı sürdürdü. Köylülere TOMA ve biber gazıyla müdahale edildi.",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm",
+    "kaynak_turu": "stk"
+  },
+  {
+    "id": "rb48wfpcue1778391104207",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Gülderen Köyü Tarım Arazisi Kamulaştırması",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "koordinatlar": {
+      "lat": 36.199737,
+      "lng": 36.160383
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "OHAL KHK / 7452 sayılı Kanun",
+    "eklenme": "2023-08-01",
+    "kaynak": "Polen Ekoloji / Cumhuriyet",
+    "kaynak_link": "https://www.polenekoloji.org/2023-yili-ekolojik-yikim-ve-ihlaller-raporu/",
+    "aciklama": "Dikmece ile birlikte acele kamulaştırma kapsamına alınan Gülderen Köyü arazileri TOKİ konutları için imara açıldı. Mahkeme kararına rağmen TOKİ inşaatı sürdürdü.",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "rz90kan5ca1778391104207",
+    "tip": "Ekolojik İhlal",
+    "ad": "İskenderun Limanı Yangını – 4 Günlük Kimyasal Sızıntı",
+    "il": "Hatay",
+    "ilce": "İskenderun",
+    "koordinatlar": {
+      "lat": 36.586902,
+      "lng": 36.165872
+    },
+    "alan_ha": 0,
+    "durum": "Kapatıldı",
+    "belge_no": "",
+    "eklenme": "2023-02-07",
+    "kaynak": "Yeşil Gazete / Takvim TV",
+    "kaynak_link": "https://yesilgazete.org/deprem-sonrasi-kimyasal-sizinti-ihtimali-bir-ekolojik-felaket-yasiyor-olabiliriz/",
+    "aciklama": "6 Şubat 2023 depreminin hemen ardından İskenderun Limanı'nda 4 gün boyunca söndürülemeyen yangın çıktı. Eş zamanlı doğalgaz hattı yangınıyla atmosfere kimyasal madde salındı.",
+    "alt_kategori": "Deniz Kirliliği",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "ru0slmzwog1778391104207",
+    "tip": "Kıyı İhlalleri",
+    "ad": "İskenderun Sahil Şeridi – 1 Metrelik Zemin Çökmesi",
+    "il": "Hatay",
+    "ilce": "İskenderun",
+    "koordinatlar": {
+      "lat": 36.58694,
+      "lng": 36.166067
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2023-11-27",
+    "kaynak": "Yeni Şafak / NTV",
+    "kaynak_link": "https://www.yenisafak.com/foto-galeri/gundem/iskenderun-korfezinde-denizle-kara-birlesti-deprem-sonrasi-bir-metreyi-bulan-cokme-yasanmisti-4577463",
+    "aciklama": "Deprem sonrası İskenderun sahilinde 1 metreye varan zemin çökmesi yaşandı. Fırtına dönemlerinde Körfez denizi kara ile birleşerek şehir merkezi su altında kalıyor.",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "rqeki1wa6k1778391104207",
+    "tip": "Ekolojik İhlal",
+    "ad": "Hatay Şebeke Suyu Kontaminasyonu ve Yeraltı Suyu Riski",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "koordinatlar": {
+      "lat": 36.204131,
+      "lng": 36.157609
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2023-02-17",
+    "kaynak": "Yeşil Gazete / Mavi Kalem Derneği",
+    "kaynak_link": "https://yesilgazete.org/deprem-sonrasi-kimyasal-sizinti-ihtimali-bir-ekolojik-felaket-yasiyor-olabiliriz/",
+    "aciklama": "Deprem sonrası şebeke altyapısının çökmesiyle içme suyu kirlendiği tespit edildi. 2024'te konteyner kentlere su arıtma cihazları kuruldu. Maden atık havuzlarından yeraltı suyuna sızıntı riski uzmanlar tarafından vurgulandı.",
+    "alt_kategori": "Su Kirliliği",
+    "kaynak_turu": "stk"
+  },
+  {
+    "id": "rctispn2is1778391104207",
+    "tip": "İklim Olayları",
+    "ad": "Hatay PM10 Hava Kirliliği – Yasal Sınırın 2,5 Katı (2025)",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "koordinatlar": {
+      "lat": 36.204371,
+      "lng": 36.16121
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Temiz Hava Hakkı Bülteni 2026-02",
+    "eklenme": "2026-02-05",
+    "kaynak": "Temiz Hava Hakkı Platformu",
+    "kaynak_link": "https://temizhavahakki.org/depremin-4-yilinda-temiz-hava-hakki-hala-askida/",
+    "aciklama": "2025 yılı ölçümlerinde Hatay'da PM10 yıllık ortalaması yasal sınırın (40 μg/m³) 2,5 katı. Bebek ölüm oranları Türkiye ortalamasının iki katına ulaştı; kanser ve solunum yolu hastalıklarında tırmanış gözlemleniyor.",
+    "alt_kategori": "Hava Kirliliği",
+    "kaynak_turu": "stk"
+  },
+  {
+    "id": "rkyxn9p4ll1778391104207",
+    "tip": "Taş-Mermer Ocağı",
+    "ad": "Belen Geçidi Tabiat Parkı Yakınında Taş Ocağı",
+    "il": "Hatay",
+    "ilce": "Belen",
+    "koordinatlar": {
+      "lat": 36.490896,
+      "lng": 36.202716
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2024-07-14",
+    "kaynak": "Gazete Duvar / DAÇE",
+    "kaynak_link": "https://www.gazeteduvar.com.tr/hataya-60-tas-ocagi-ile-onlarca-beton-santrali-yapilmak-isteniyor-afet-yeni-basliyor-haber-1705694",
+    "aciklama": "Belen ilçesindeki taş ocakları Belen Geçidi Tabiat Parkı'na 2 km mesafede. Patlama sesi ve toz nedeniyle yakın köylerde çatlak oluştuğu bildirildi.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_turu": "stk"
+  },
+  {
+    "id": "rof548u8x11778391104207",
+    "tip": "Maden Ocağı",
+    "ad": "Hatay Geneli – Deprem Sonrası 23 Maden Ruhsatı İhalesi (4.838 ha)",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "koordinatlar": {
+      "lat": 36.396638,
+      "lng": 36.355065
+    },
+    "alan_ha": 4838,
+    "durum": "Aktif",
+    "belge_no": "MAPEG 2023-2025 İhale Listesi",
+    "eklenme": "2026-01-15",
+    "kaynak": "Birgün Gazetesi",
+    "kaynak_link": "https://www.numedya24.com/50-tasocagi-56-beton-santrali-i-goz-kamastiran-hatay-dev-bir-santiyeye-dondu/",
+    "aciklama": "2023–2025 arasında Hatay'da 23 maden sahası ihaleye açıldı; 17'si 29 şirkete satıldı. İhale alanı 4.838 ha, satılan 3.014 ha. ÇED kararları beklenmeden onaylandı.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_turu": "resmi"
+  },
+  {
+    "id": "rj9sjgvatl1778391104207",
+    "tip": "Ekolojik İhlal",
+    "ad": "Samandağ Zeytinliğine İzinsiz Mezar – ~1.000 Mezar, Yüzlerce Ağaç Sökümü",
+    "il": "Hatay",
+    "ilce": "Samandağ",
+    "koordinatlar": {
+      "lat": 36.073228,
+      "lng": 35.979092
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2024-08-19",
+    "kaynak": "TV5 Haber",
+    "kaynak_link": "https://www.tv5.com.tr/hataydaki-zeytinlikleri-kim-soktu",
+    "aciklama": "Deprem sonrası Samandağ'da kiralık zeytinliğe aile bilgilendirilmeden ~1.000 mezar kazıldı ve yüzlerce zeytin ağacı söküldü. Dava açıldı; belediye, AFAD ve Bakanlık sorumluluk konusunda çelişkili açıklamalar yaptı.",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "rmslc1e20d1778391104207",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Dörtyol Halk Plajına Türk Petrol Rafineri Tesisi Tahsisi",
+    "il": "Hatay",
+    "ilce": "Dörtyol",
+    "koordinatlar": {
+      "lat": 36.847181,
+      "lng": 36.224791
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2024-07-14",
+    "kaynak": "Gazete Duvar / DAÇE",
+    "kaynak_link": "https://www.gazeteduvar.com.tr/hataya-60-tas-ocagi-ile-onlarca-beton-santrali-yapilmak-isteniyor-afet-yeni-basliyor-haber-1705694",
+    "aciklama": "Dörtyol Belediyesi'nin halk plajı olarak kullanılan alan, Türk Petrol şirketine rafineri tesisi olarak tahsis edildi. DAÇE itiraz etti.",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "ro1rdvi1ka1778391104207",
+    "tip": "Sulak Alan",
+    "ad": "Hatay Su Kaynakları – Doğu Akdeniz Havzası'nda Yüzde 40 Su Kaybı",
+    "il": "Hatay",
+    "ilce": "Antakya",
+    "koordinatlar": {
+      "lat": 36.203793,
+      "lng": 36.161441
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-02-27",
+    "kaynak": "Asi Gazetesi / HAMOK-DAÇE",
+    "kaynak_link": "https://www.asigazetesi.com/hamok-ve-daceden-hatay-icin-ortak-cagri",
+    "aciklama": "Doğu Akdeniz Havzası'nda son 15 yılda yaklaşık %40 su kaybı yaşandı. Deprem sonrası hasar gören altyapı, beton santralleri ve taş ocakları su kaynaklarını daha da geriletti.",
+    "alt_kategori": "Su Kirliliği",
+    "kaynak_turu": "stk"
   }
 ]
