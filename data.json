@@ -116647,5 +116647,221 @@
     "aciklama": "Doğu Akdeniz Havzası'nda son 15 yılda yaklaşık %40 su kaybı yaşandı. Deprem sonrası hasar gören altyapı, beton santralleri ve taş ocakları su kaynaklarını daha da geriletti.",
     "alt_kategori": "Su Kirliliği",
     "kaynak_turu": "stk"
+  },
+  {
+    "id": "rp4lxzzruf1778474233498",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Akbelen Ormanı Çevresindeki Tarım Arazileri – Acele Kamulaştırma (Yürütme Durduruldu)",
+    "il": "Muğla",
+    "aciklama": "YK Enerji (Yeniköy–Kemerköy Termik Santralleri) lehine alınan Cumhurbaşkanlığı acele kamulaştırma kararı 10 Ocak 2026 Resmî Gazete'de yayımlandı. Milas'a bağlı 6 mahalle – Bağdamları, Çakıralan, Çamköy, İkizköy, Karacaağaç, Karacahisar – 679 parseli kapsıyordu. 96 yurttaşın açtığı 93 davada Danıştay 6. Dairesi 5 Mayıs 2026'da tebliğ edilen kararla yürütmeyi oybirliğiyle durdurdu. Mahkeme, kömür madeni genişlemesinin 'olağanüstü acelelik hali' oluşturmadığını, enerji ve ekonomik gerekçelerin acele kamulaştırmayı meşrulaştıramayacağını hükmetti. Avukatlar, kamulaştırmanın YK Enerji (Limak–İçtaş ortaklığı) çıkarına yapıldığını vurguladı. Tutuklu çevre savunucusu Esra Işık'ın tahliyesi de talep edildi.",
+    "koordinatlar": {
+      "lat": 37.3067,
+      "lng": 27.7928
+    },
+    "alan_ha": 679,
+    "durum": "Durduruldu",
+    "belge_no": "Karar Sayısı: Cumhurbaşkanlığı 9 Ocak 2026 / Danıştay 6. Daire 2026",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/turkiye/danistay-dan-akbelen-icin-kritik-karar-acele-kamulastirmalarin-yurutmesi-durduruldu-2501808"
+  },
+  {
+    "id": "rg4cbaouzh1778474233498",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Karaburun DGES Projesi – ÇED Olumlu Kararı İptal Edildi",
+    "il": "İzmir",
+    "aciklama": "Nano Yenilenebilir Enerji Yatırımları A.Ş. (Erkan Petekkaya'ya ait) tarafından Küçükbahçe Mahallesi'nde planlanan 24 MWm DGES + 16 MWh elektrik depolama tesisi için Çevre Bakanlığı'nın verdiği 'ÇED Olumlu' kararı İzmir 5. İdare Mahkemesi tarafından 8 Nisan 2026'da iptal edildi. Bilirkişi raporu: proje alanı 'Çayır-Mera ve Özel Çevre Koruma Bölgesi' ile 'Kesin Korunacak Hassas Alan' içinde; endemik türler geri dönüşsüz kayıpla karşı karşıya; ekosistem bütünlüğü bozulacak. Karaburun Yarımadası RES yoğunluğu nedeniyle zaten ciddi antropojenik baskı altında. Temyiz için Danıştay yolu açık.",
+    "koordinatlar": {
+      "lat": 38.6441,
+      "lng": 26.5167
+    },
+    "alan_ha": 24.46,
+    "durum": "Durduruldu",
+    "belge_no": "İzmir 5. İdare Mahkemesi 2026/357 Esas, 2026/578 Karar",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ekolojik İhlal",
+    "kaynak_link": "https://www.dokuzda9.com/karaburun-daki-dges-projesine-yargi-freni-mahkeme-ced-kararini-iptal-etti/10338"
+  },
+  {
+    "id": "rcaqwyhxch1778474233498",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Ihlara Vadisi Doğal Sit Alanı Sınır Değişikliği",
+    "il": "Aksaray",
+    "aciklama": "Cumhurbaşkanı kararıyla Aksaray Güzelyurt'taki Ihlara Vadisi ve Çevresi Doğal Sit Alanı Kesin Korunacak Hassas Alan sınırları değiştirildi. Türkiye'nin en önemli volkanik vadi ekosistemlerinden biri olan Ihlara'da sınır daraltılması, koruma statüsünün zayıflatılması riskini taşıyor.",
+    "koordinatlar": {
+      "lat": 38.2167,
+      "lng": 34.0833
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı: 11297 – 8 Mayıs 2026 tarihli ve 33247 Sayılı Resmî Gazete",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ekolojik İhlal",
+    "kaynak_link": "https://www.resmigazete.gov.tr/"
+  },
+  {
+    "id": "rutyqwhxar1778474233498",
+    "tip": "Sulak Alan",
+    "ad": "Hatay Dağ Ceylanı Yaban Hayatı Geliştirme Sahası – Sınır Değişikliği",
+    "il": "Hatay",
+    "aciklama": "Cumhurbaşkanı kararıyla Hatay Dağ Ceylanı Yaban Hayatı Geliştirme Sahası sınırları yeniden belirlendi. Dağ ceylanı (Gazella gazella) Türkiye'de nesli tehlike altında olan bir tür; saha sınırlarının değiştirilmesi bu türün habitatını etkileyebilir.",
+    "koordinatlar": {
+      "lat": 36.2021,
+      "lng": 36.1605
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı: 11298 – 8 Mayıs 2026 tarihli ve 33247 Sayılı Resmî Gazete",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Yaban Hayatı Suçu",
+    "kaynak_link": "https://www.resmigazete.gov.tr/"
+  },
+  {
+    "id": "rlsqbz2f3h1778474233498",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Antalya Aksu EXPO Alanı COP31 Altyapısı – Acele Kamulaştırma",
+    "il": "Antalya",
+    "aciklama": "Antalya Aksu'daki EXPO Alanı ve çevresinde COP31 (BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı) kapsamında otopark ve altyapı inşaatı için TOKİ aracılığıyla acele kamulaştırma kararı verildi. İklim konferansı altyapısı için doğal alanların acele kamulaştırılması çelişkili bir tablo oluşturuyor.",
+    "koordinatlar": {
+      "lat": 36.9414,
+      "lng": 30.7517
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar Sayısı: 11299 – 8 Mayıs 2026 tarihli ve 33247 Sayılı Resmî Gazete",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-8-mayis-2026-resmi-gazete-kararlari-1723337"
+  },
+  {
+    "id": "rjm9zx30i61778474233498",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Denizli Arazi Toplulaştırma Kararları (Acıpayam, Serinhisar, Bekilli)",
+    "il": "Denizli",
+    "aciklama": "Denizli'nin üç ilçesinde (Acıpayam, Serinhisar, Bekilli) arazi toplulaştırması ve tarla içi geliştirme hizmetleri kararı alındı. Bu tür kararlar küçük ölçekli tarım arazilerini birleştirirken ekolojik tampon bölgeleri, tarihsel arazi kullanım örüntüleri ve biyoçeşitlik alanları üzerinde baskı oluşturabilir.",
+    "koordinatlar": {
+      "lat": 37.4569,
+      "lng": 29.3558
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı: 11294, 11295, 11296 – 8 Mayıs 2026 tarihli ve 33247 Sayılı Resmî Gazete",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ekolojik İhlal",
+    "kaynak_link": "https://www.resmigazete.gov.tr/"
+  },
+  {
+    "id": "r8k6s4v7b61778474233498",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Ankara Kahramankazan RMS-B Doğal Gaz Dağıtım Tesisi – Acele Kamulaştırma",
+    "il": "Ankara",
+    "aciklama": "EPDK tarafından Ankara Kahramankazan Kışla Mahallesi'nde RMS-B doğal gaz dağıtım tesisi yapımı amacıyla 104 ada, 121 parsel numaralı taşınmaz acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 40.2281,
+      "lng": 32.7047
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "Karar Sayısı: 11300 – 8 Mayıs 2026 tarihli ve 33247 Sayılı Resmî Gazete",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ekolojik İhlal",
+    "kaynak_link": "https://www.resmigazete.gov.tr/"
+  },
+  {
+    "id": "rjcus4hozh1778474233498",
+    "tip": "Termik Reaktör",
+    "ad": "Muğla Yatağan Kömürlü Termik Santral – İşçi Hak İhlalleri ve Kapatma Baskısı",
+    "il": "Muğla",
+    "aciklama": "12 iklim ve çevre STK'sı, Yatağan kömürlü termik santralinden 184 işçinin işten çıkarılma tehdidiyle karşılaştığını duyurdu. Santral kapatma sürecinde adil dönüşüm planı yapılmaksızın işçiler belirsizliğe terk ediliyor. Santral çevre kirliliği ve halk sağlığı açısından ciddi risk oluşturmaya devam ediyor.",
+    "koordinatlar": {
+      "lat": 37.3428,
+      "lng": 28.1344
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Hava Kirliliği",
+    "kaynak_link": "https://bianet.org/haber/iscileri-ve-iklimi-koruyan-adil-bir-donusum-mumkun-307006"
+  },
+  {
+    "id": "rzzd7nbnuy1778474233498",
+    "tip": "Maden Ocağı",
+    "ad": "Ankara Çayırhan Kömür Madeni ve Termik Santral – Özelleştirme ve İşçi Krizi",
+    "il": "Ankara",
+    "aciklama": "Çayırhan kömür madeni ve termik santralin özelleştirilme sürecinde 500 işçi işini kaybetme tehlikesiyle karşı karşıya kaldı. İşçiler kendilerini madene kapattı. Adil dönüşüm planı yapılmaksızın fosil yakıt bölgelerinde dönüşümün sosyal maliyeti işçilere yükleniyor.",
+    "koordinatlar": {
+      "lat": 40.1878,
+      "lng": 31.9572
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_link": "https://bianet.org/haber/iscileri-ve-iklimi-koruyan-adil-bir-donusum-mumkun-307006"
+  },
+  {
+    "id": "rwajvm81w01778474233498",
+    "tip": "Ekolojik İhlal",
+    "ad": "TV Tower Projesi ÇED Başvurusu Sonlandırıldı (Yeniden Başvuru Planı)",
+    "il": "İstanbul",
+    "aciklama": "TV Tower Projesi'nin ÇED Başvurusu sonlandırıldı; şirket yeniden başvuru yapacağını açıkladı. Projenin ekolojik etki değerlendirme sürecinin yeniden işletileceği belirtiliyor.",
+    "koordinatlar": {
+      "lat": 41.0082,
+      "lng": 28.9784
+    },
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ekolojik İhlal",
+    "kaynak_link": "https://madencilikturkiye.com/"
+  },
+  {
+    "id": "r1na02z9xp1778474233498",
+    "tip": "Milli Park",
+    "ad": "Ağrı Dağı Milli Parkı – Kesin Korunacak Hassas Alan Tescili",
+    "il": "Ağrı",
+    "aciklama": "Ağrı Dağı Milli Parkı Potansiyel Doğal Sit Alanı'nın bazı bölgeleri Kesin Korunacak Hassas Alan olarak tescil ve ilan edildi. Koruma kapsamının genişletilmesi olumlu bir adım olmakla birlikte mevcut sınırların tutarlı biçimde uygulanıp uygulanmadığı kritik önem taşıyor.",
+    "koordinatlar": {
+      "lat": 39.702,
+      "lng": 44.2987
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar Sayısı: 11264 – 1 Mayıs 2026 Resmî Gazete",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://t24.com.tr/gundem/resm-gazetede-bugun-1-mayis-2026-resm-gazete-kararlari,1318430"
+  },
+  {
+    "id": "rjs3atc53q1778474233498",
+    "tip": "RES",
+    "ad": "Karaburun RES Kapasite Artışı – ÇED İptal Edildi (Lodos Enerji)",
+    "il": "İzmir",
+    "aciklama": "Lodos Karaburun Elektrik Üretim A.Ş.'nin mevcut 87 türbini 128'e çıkarmayı hedeflediği RES Kapasite Artışı projesi için verilen ÇED Olumlu kararı iptal edildi. 7 kişilik bilirkişi heyeti: 35 türbin kızılçam ormanı içinde; alan 1. derece yangına hassas; yangın müdahale imkânı engellenecek. Bölgede 5647 zeytin ağacı daha önce söküldü. Karaburun-Ildır Körfezi ÖÇKB'de yönetim planı olmadan yatırımlar sürüyor.\n(Birleştirilmiş 1 türbin, İzmir)",
+    "koordinatlar": {
+      "lat": 38.641,
+      "lng": 26.513
+    },
+    "alan_ha": 0,
+    "durum": "Durduruldu",
+    "belge_no": "İzmir 4. İdare Mahkemesi 2025/29 Esas – 18 Şubat 2026",
+    "eklenme": "2026-05-11",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Ekolojik İhlal",
+    "kaynak_link": "https://www.gazetepuruz.com/karaburun-res-kapasite-artisi-projesinde-ced-iptali-mahkeme-dogadan-yana-karar-verdi/"
   }
 ]
