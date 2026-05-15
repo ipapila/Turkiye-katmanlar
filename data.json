@@ -25146,15 +25146,16 @@
     "tip": "Acele Kamulaştırma",
     "ad": "İkizköy Akbelen Ormanı Acele Kamulaştırma",
     "il": "Muğla",
+    "ilce": "Milas",
     "aciklama": "740 dönümlük Akbelen Ormanı çevresindeki İkizköy için Cumhurbaşkanı imzasıyla acele kamulaştırma kararı alındı.",
     "koordinatlar": {
-      "lat": 37.7725,
-      "lng": 27.5073
+      "lat": 37.176731,
+      "lng": 27.845192
     },
     "alan_ha": 740,
     "durum": "Aktif",
     "belge_no": "10 Ocak 2026",
-    "eklenme": "10.01.2026",
+    "eklenme": "2026-05-15",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": "https://yeniyasamgazetesi9.com/yer-alti-kaynaklari-bolusturuluyor-aslan-payi-akplilere-cengiz-ve-limak-holdinge-verildi/"
