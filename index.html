@@ -166,8 +166,24 @@ body.pkmode #map{cursor:crosshair !important;}
       <div class="srch"><span class="si">🔍</span><input type="search" id="sinp" placeholder="Alan adı veya il ara…" autocomplete="off"/></div>
 
       <div class="sec">Filtreler</div>
-      <select class="fsel" id="fil"><option value="">— Tüm İller —</option></select>
-      <select class="fsel" id="filce" style="display:none"><option value="">— Tüm İlçeler —</option></select>
+<!-- İL SEÇİCİ -->
+<div class="il-secici">
+  <div class="il-sec-actions">
+    <button class="hbtn" onclick="ilSecTumunu()">Tümü</button>
+    <button class="hbtn" onclick="ilSecTemizle()">Temizle</button>
+    <button class="hbtn" onclick="ilSecBolge('ege')">Ege</button>
+    <button class="hbtn" onclick="ilSecBolge('akdeniz')">Akdeniz</button>
+    <button class="hbtn" onclick="ilSecBolge('karadeniz')">Karadeniz</button>
+    <button class="hbtn" onclick="ilSecBolge('marmara')">Marmara</button>
+  </div>
+  <div class="srch" style="margin-bottom:6px;">
+    <span class="si">🔍</span>
+    <input type="search" id="ilSecAra" placeholder="İl ara…" autocomplete="off" oninput="ilSecFiltre(this.value)"/>
+  </div>
+  <div class="il-tags" id="ilTags"></div>
+  <div class="il-grid" id="ilGrid"></div>
+</div>
+<select class="fsel" id="filce" style="display:none"><option value="">— Tüm İlçeler —</option></select>      <select class="fsel" id="filce" style="display:none"><option value="">— Tüm İlçeler —</option></select>
       <select class="fsel" id="fdrm"><option value="">— Tüm Durumlar —</option><option>Aktif</option><option>Planlama</option><option>İptal</option><option>Devam Ediyor</option><option>Durduruldu</option><option>Yargıda</option><option>Kapatıldı</option></select>
 
       <div class="sec">Katmanlar</div>
@@ -275,6 +291,44 @@ const ALT_KATEGORILER = [
 ];
 
 // ---------- STATE ----------
+  let secilenIller = new Set(); // boş = tümünü göster
+
+const IL_BOLGELER = {
+  ege:      ["İzmir","Aydın","Muğla","Denizli","Manisa","Afyonkarahisar","Kütahya","Uşak"],
+  akdeniz:  ["Antalya","Mersin","Hatay","Kahramanmaraş","Adana","Osmaniye","Isparta","Burdur"],
+  karadeniz:["Trabzon","Samsun","Ordu","Giresun","Rize","Artvin","Kastamonu","Bartın","Zonguldak","Sinop","Amasya","Tokat"],
+  marmara:  ["İstanbul","Bursa","Kocaeli","Tekirdağ","Sakarya","Yalova","Bilecik","Edirne","Çanakkale","Balıkesir","Kırklareli"]
+};
+
+function ilGridRender(filtre=''){
+  const grid = document.getElementById('ilGrid');
+  const listesi = Object.keys(ILCELER).filter(il => il.toLowerCase().includes(filtre.toLowerCase())).sort();
+  grid.innerHTML = listesi.map(il => {
+    const sayi = data.filter(r => r.il === il).length;
+    const on = secilenIller.has(il);
+    return `<button class="il-itm${on?' on':''}" onclick="ilToggle('${il}')">${il}<span class="ic">${sayi}</span></button>`;
+  }).join('');
+}
+
+function ilTagsRender(){
+  const wrap = document.getElementById('ilTags');
+  if(secilenIller.size === 0){ wrap.innerHTML = ''; return; }
+  wrap.innerHTML = [...secilenIller].sort().map(il =>
+    `<span class="il-tag">${il}<button onclick="ilToggle('${il}')">×</button></span>`
+  ).join('');
+}
+
+function ilToggle(il){
+  if(secilenIller.has(il)) secilenIller.delete(il); else secilenIller.add(il);
+  ilTagsRender(); ilGridRender(document.getElementById('ilSecAra')?.value||''); applyF();
+}
+function ilSecTumunu(){ secilenIller.clear(); ilTagsRender(); ilGridRender(); applyF(); }
+function ilSecTemizle(){ secilenIller.clear(); ilTagsRender(); ilGridRender(); applyF(); }
+function ilSecBolge(key){ IL_BOLGELER[key]?.forEach(il=>secilenIller.add(il)); ilTagsRender(); ilGridRender(); applyF(); }
+function ilSecFiltre(v){ ilGridRender(v); }
+
+window.ilToggle=ilToggle; window.ilSecTumunu=ilSecTumunu; window.ilSecTemizle=ilSecTemizle;
+window.ilSecBolge=ilSecBolge; window.ilSecFiltre=ilSecFiltre;
 let data=[], mkrs={}, lgs={}, vis={}, editId=null, pkMode=false, pkCb=null, confCb=null;
 let fTxt='', fIl='', fIlce='', fDrm='';
 let isAdmin=false, pendingAdminAction=null;
@@ -599,10 +653,11 @@ function renderAll(){
   data.forEach(r=>addMkr(r));
   applyF();
   buildLG();
+  ilGridRender();
 }
 function applyF(){
   const q=fTxt.toLowerCase();
-  const fil=data.filter(r=>{const mt=!q||r.ad.toLowerCase().includes(q)||(r.il||'').toLowerCase().includes(q)||(r.ilce||'').toLowerCase().includes(q); const mi=!fIl||r.il===fIl; const mc=!fIlce||r.ilce===fIlce; const md=!fDrm||r.durum===fDrm; return mt&&mi&&mc&&md;});
+  const fil=data.filter(r=>{const mt=!q||r.ad.toLowerCase().includes(q)||(r.il||'').toLowerCase().includes(q)||(r.ilce||'').toLowerCase().includes(q); const mi = secilenIller.size===0 || secilenIller.has(r.il);; const mc=!fIlce||r.ilce===fIlce; const md=!fDrm||r.durum===fDrm; return mt&&mi&&mc&&md;});
   data.forEach(r=>{const m=mkrs[r.id];if(!m)return;const show=fil.some(f=>f.id===r.id)&&vis[r.tip];const lg=lgs[r.tip];if(show&&!lg.hasLayer(m))lg.addLayer(m);if(!show&&lg.hasLayer(m))lg.removeLayer(m);});
   document.getElementById('stot').textContent=data.length;
   document.getElementById('svis').textContent=fil.filter(r=>vis[r.tip]).length;
@@ -868,7 +923,6 @@ document.getElementById('addbtn').addEventListener('click',()=>requireAdmin(open
 document.getElementById('expbtn').addEventListener('click',exportJSON);
 document.getElementById('expgeobtn').addEventListener('click',exportGeoJSON);
 document.getElementById('impbtn').addEventListener('click',()=>document.getElementById('impfile').click());
-document.getElementById('impfile').addEventListener('change',e=>{if(e.target.files[0])impD(e.target.files[0]);e.target.value='';});
 document.getElementById('ghsavebtn').addEventListener('click',()=>requireAdmin(syncToGitHub));
 document.getElementById('delCatBtn').addEventListener('click',()=>requireAdmin(openCatModal));
 document.getElementById('groupResBtn').addEventListener('click',()=>requireAdmin(()=>groupRESData(2000)));
@@ -955,6 +1009,21 @@ document.getElementById('fil').addEventListener('change',e=>{
     ilceSelect.style.display='block';
   } else {
     ilceSelect.style.display='none';
+    .il-secici{margin-bottom:5px;}
+.il-sec-actions{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:6px;}
+.il-sec-actions .hbtn{font-size:.65rem;padding:4px 7px;flex:none;}
+.il-grid{display:grid;grid-template-columns:1fr 1fr;gap:4px;max-height:200px;overflow-y:auto;padding:2px 0;}
+.il-grid::-webkit-scrollbar{width:3px;}
+.il-grid::-webkit-scrollbar-thumb{background:var(--borderh);border-radius:3px;}
+.il-itm{background:var(--bg3);border:1px solid var(--border);border-radius:6px;padding:5px 7px;font-size:.72rem;color:var(--dim);cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:3px;transition:.15s;text-align:left;}
+.il-itm:hover{border-color:var(--borderh);color:var(--text);}
+.il-itm.on{background:rgba(79,209,197,.12);border-color:var(--accent);color:var(--accent);}
+.il-itm .ic{font-size:.65rem;opacity:.6;background:rgba(255,255,255,.07);padding:1px 4px;border-radius:3px;}
+.il-tags{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:6px;min-height:0;}
+.il-tag{background:rgba(79,209,197,.15);border:1px solid var(--accent);color:var(--accent);border-radius:4px;padding:2px 6px;font-size:.68rem;display:flex;align-items:center;gap:4px;}
+.il-tag button{background:none;border:none;cursor:pointer;color:var(--accent);font-size:.75rem;padding:0;line-height:1;opacity:.8;}
+.il-tag button:hover{opacity:1;
+                  }
   }
   applyF();
 });
