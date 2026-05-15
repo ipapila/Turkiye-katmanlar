@@ -580,7 +580,7 @@ const SAMPLE_DATA = migrateCategories([
 async function load(){
   try{
     const res=await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${repoPath}?t=${Date.now()}`);
-    if(res.ok){ const remote=await res.json(); if(Array.isArray(remote)&&remote.length){ let fixed = fixCoords(remote); fixed = migrateCategories(fixed); data = fixed; localStorage.setItem(SK,JSON.stringify(data)); ntf(data.length+' kayıt GitHub'dan yüklendi','ok'); renderAll(); return; }}
+    if(res.ok){ const remote=await res.json(); if(Array.isArray(remote)&&remote.length){ let fixed = fixCoords(remote); fixed = migrateCategories(fixed); data = fixed; localStorage.setItem(SK,JSON.stringify(data)); ntf(`${data.length} kayit GitHub'dan yuklendi`,'ok'); renderAll(); return; }}
     throw new Error();
   }catch(e){
     const local=localStorage.getItem(SK);
@@ -603,7 +603,7 @@ async function syncToGitHub(){
   const body={message:`Veri güncellemesi ${tod()}`,content}; if(sha) body.sha=sha;
   try{
     const putRes=await fetch(apiUrl,{method:'PUT',headers:{Authorization:`Bearer ${githubToken}`,'Content-Type':'application/json'},body:JSON.stringify(body)});
-    if(putRes.ok){ ntf('✅ GitHub'a kaydedildi!','ok'); }
+    if(putRes.ok){ ntf(`GitHub'a kaydedildi!`,'ok'); }
     else{ const err=await putRes.json(); throw new Error(err.message||`${putRes.status}`); }
   }catch(e){ ntf(`Kayıt hatası: ${e.message}`,'err'); exportJSON(); }
 }
