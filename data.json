@@ -7614,17 +7614,18 @@
     "tip": "Maden Ocağı",
     "ad": "Akseki Boksit Madeni",
     "il": "Antalya",
+    "ilce": "Akseki",
     "aciklama": "Antalya'nın Akseki ilçesinde Toros kireçtaşları içinde oluşmuş karst kökenli boksit yatakları.",
     "koordinatlar": {
-      "lat": 37.5544,
-      "lng": 33.62
+      "lat": 37.10667,
+      "lng": 31.81366
     },
     "alan_ha": 0,
     "durum": "Aktif",
     "belge_no": "",
-    "eklenme": "2026-03-21",
+    "eklenme": "2026-05-15",
     "kaynak": "Dosya içe aktarma",
-    "alt_kategori": null,
+    "alt_kategori": "",
     "kaynak_link": ""
   },
   {
