@@ -10082,24 +10082,6 @@
     "kaynak_link": ""
   },
   {
-    "id": "rc0auzk1061774104034931",
-    "tip": "Acele Kamulaştırma",
-    "ad": "Ekolojik İhlal",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.9334,
-      "lng": 32.8597
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-21",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "Enerji - Doğal Gaz",
-    "kaynak_link": ""
-  },
-  {
     "id": "ra9o5pnkby1774104034931",
     "tip": "Acele Kamulaştırma",
     "ad": "İklim Olayları",
@@ -21991,24 +21973,6 @@
     "koordinatlar": {
       "lat": 37.5744,
       "lng": 43.7412
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "2026-03-28",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
-    "id": "ruzj8h2ezw1774696672777",
-    "tip": "Acele Kamulaştırma",
-    "ad": "İklim Olayları",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 39.9334,
-      "lng": 32.8597
     },
     "alan_ha": 0,
     "durum": "Aktif",
@@ -116865,5 +116829,365 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "Ekolojik İhlal",
     "kaynak_link": "https://www.gazetepuruz.com/karaburun-res-kapasite-artisi-projesinde-ced-iptali-mahkeme-dogadan-yana-karar-verdi/"
+  },
+  {
+    "id": "rint4dqyap1779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Antalya EXPO/COP31 Alanı Acele Kamulaştırması (Karar 11299)",
+    "il": "Antalya",
+    "aciklama": "Antalya ili Aksu ilçesinde bulunan EXPO alanı ve çevresinde düzenlenecek BM İklim Değişikliği Çerçeve Sözleşmesi Taraflar Konferansı (COP31) için acele kamulaştırma kararı alındı.",
+    "koordinatlar": {
+      "lat": 36.885401,
+      "lng": 30.783549
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar No: 11299",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.resmigazete.gov.tr"
+  },
+  {
+    "id": "rgbcnljnyg1779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Gökbel I-II HES + GES Acele Kamulaştırması",
+    "il": "Burdur",
+    "aciklama": "Burdur'da kurulacak Gökbel I-II Hidroelektrik Santrali (HES) ve yardımcı Güneş Enerjisi Santrali (GES) için taşınmazlar EPDK tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 37.722972,
+      "lng": 30.290207
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.aa.com.tr/tr/enerjiterminali/dogal-gaz/enerjide-acele-kamulastirma-kararlari/48032"
+  },
+  {
+    "id": "rsb2rvhl4n1779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Susurluk RES Kapasite Artışı Acele Kamulaştırması",
+    "il": "Balıkesir",
+    "aciklama": "Balıkesir Susurluk Rüzgar Enerjisi Santrali (RES) kapasite artışı için taşınmazlar EPDK tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 39.912965,
+      "lng": 28.160906
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.aa.com.tr/tr/enerjiterminali/dogal-gaz/enerjide-acele-kamulastirma-kararlari/48032"
+  },
+  {
+    "id": "rkkjrdpvvo1779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Demirli RES Acele Kamulaştırması",
+    "il": "Kırşehir",
+    "aciklama": "Kırşehir'de Demirli RES Elektrik Üretim Tesisi yapımı için taşınmazlar EPDK tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 39.14523,
+      "lng": 34.163256
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.aa.com.tr/tr/enerjiterminali/dogal-gaz/enerjide-acele-kamulastirma-kararlari/48032"
+  },
+  {
+    "id": "r7vww5k2zn1779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Meşetepe HES Acele Kamulaştırması",
+    "il": "Şırnak",
+    "aciklama": "Şırnak'ta kurulacak Meşetepe HES Elektrik Üretim Tesisi için taşınmazlar EPDK tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 37.519458,
+      "lng": 42.461216
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.aa.com.tr/tr/enerjiterminali/dogal-gaz/enerjide-acele-kamulastirma-kararlari/48032"
+  },
+  {
+    "id": "r5c4g8zqcu1779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "SeyyidBattalGazi GES Acele Kamulaştırması",
+    "il": "Malatya",
+    "aciklama": "Malatya'da SeyyidBattalGazi-1 ve SeyyidBattalGazi-2 Güneş Enerjisi Santrali projeleri için taşınmazlar EPDK tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 38.353961,
+      "lng": 38.320635
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.resmigazete.gov.tr"
+  },
+  {
+    "id": "r5xeqwz51j1779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "EDT GES Acele Kamulaştırması",
+    "il": "Niğde",
+    "aciklama": "Niğde Merkez'de yapılması planlanan EDT GES için taşınmazlar EPDK tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 37.966768,
+      "lng": 34.675632
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.resmigazete.gov.tr"
+  },
+  {
+    "id": "r84phxtyz11779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Sorgun RES Acele Kamulaştırması",
+    "il": "Yozgat",
+    "aciklama": "Yozgat Sorgun ilçesinde Sorgun Rüzgar Enerjisi Santrali (RES) için taşınmazlar EPDK tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 39.813227,
+      "lng": 35.869153
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.resmigazete.gov.tr"
+  },
+  {
+    "id": "ret48jei431779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "İpektepe RES Kapasite Artışı Acele Kamulaştırması",
+    "il": "Ağrı",
+    "aciklama": "Ağrı'da İpektepe RES kapasite artırımı için taşınmazlar EPDK tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 39.721959,
+      "lng": 43.052829
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.resmigazete.gov.tr"
+  },
+  {
+    "id": "rl0qfx4f4b1779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "İzdemir Arazi GES - Gördes TM Enerji İletim Hattı Kamulaştırması",
+    "il": "Manisa",
+    "aciklama": "154 kV İzdemir Arazi GES-Gördes TM Enerji İletim Hattı Projesi kapsamında taşınmazlar TEİAŞ tarafından kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 38.933983,
+      "lng": 28.283221
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "TEİAŞ Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.ilerigazetesi.com.tr/resmi-gazetede-yayimlandi-kamulastirma-toplulastirma-ve-yeni-duzenlemeler-dikkat-cekti"
+  },
+  {
+    "id": "r050el5n861779007658920",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Mersin-Tarsus OSB İltisak Hattı Acele Kamulaştırması",
+    "il": "Mersin",
+    "aciklama": "Mersin-Tarsus Organize Sanayi Bölgesi iltisak hattı projesi kapsamında taşınmazlar TCDD tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 36.921268,
+      "lng": 34.894648
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "TCDD Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.ilerigazetesi.com.tr/resmi-gazetede-yayimlandi-kamulastirma-toplulastirma-ve-yeni-duzenlemeler-dikkat-cekti"
+  },
+  {
+    "id": "rj0u76pl591779007658920",
+    "tip": "Termik Reaktör",
+    "ad": "Çan-2 Termik Santrali Kül Depolama Alanı Kamulaştırması",
+    "il": "Çanakkale",
+    "aciklama": "Çanakkale Çan-2 Termik Santrali'nin kül depolama alanı kurulumu için taşınmazlar EPDK aracılığıyla acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 40.031587,
+      "lng": 27.047092
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "EPDK Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.egetelgraf.com/turkiyede-enerji-projeleri-icin-acele-kamulastirma-kararlari-resmi-gazetede"
+  },
+  {
+    "id": "r36f2hdnjp1779007658920",
+    "tip": "Maden Ocağı",
+    "ad": "Bigadiç Bor İşletmesi (Eti Maden) Simav Açık Ocağı Dekapaj - Acele Kamulaştırma",
+    "il": "Balıkesir",
+    "aciklama": "Balıkesir Bigadiç Bor İşletme Müdürlüğü Simav açık ocağı Dekapaj Projesi ve yeni cevher stok alanı için taşınmazlar Eti Maden tarafından acele kamulaştırıldı.",
+    "koordinatlar": {
+      "lat": 39.392492,
+      "lng": 28.125827
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Eti Maden Kararı",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Maden Suçu",
+    "kaynak_link": "https://www.herbiremlak.com/turkiye-de-enerji-projeleri-icin-acele-kamulastirma-karari-resmi-gazete-de-yayimlandi/2998/"
+  },
+  {
+    "id": "rsygmtfivq1779007658920",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Ihlara Vadisi Doğal Sit Alanı Sınır Değişikliği (Karar 11297)",
+    "il": "Aksaray",
+    "aciklama": "Aksaray Güzelyurt ilçesinde ilan edilen Ihlara Vadisi ve Çevresi Doğal Sit Alanı Kesin Korunacak Hassas Alanının sınırları Cumhurbaşkanı kararıyla değiştirildi.",
+    "koordinatlar": {
+      "lat": 38.371639,
+      "lng": 34.010876
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar No: 11297",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.malatyabirlikgazetesi.com/resmi-gazete-de-bugun/34078"
+  },
+  {
+    "id": "rvwpik19by1779007658920",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Köprüçay Havzası Doğal Sit Alanı Sınır Değişikliği (Karar 9592)",
+    "il": "Antalya",
+    "aciklama": "Antalya ili Manavgat ve Serik ilçeleri sınırlarında ilan edilen Köprüçay Havzası Doğal Sit Alanı Kesin Korunacak Hassas Alanının sınırları değiştirildi. Endemik balık türleri (Capoeta antalyensis) ve HES baskısı altındaki bu hassas alan için ciddi risk oluşturuyor.",
+    "koordinatlar": {
+      "lat": 36.849918,
+      "lng": 31.515915
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar No: 9592",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.herbiremlak.com/turkiye-de-enerji-projeleri-icin-acele-kamulastirma-karari-resmi-gazete-de-yayimlandi/2998/"
+  },
+  {
+    "id": "rzkx94ky7u1779007658920",
+    "tip": "Özel Çevre Koruma Alanı",
+    "ad": "Hatay Dağ Ceylanı Yaban Hayatı Geliştirme Sahası Sınır Değişikliği (Karar 11298)",
+    "il": "Hatay",
+    "aciklama": "Hatay ilinde Dağ Ceylanı Yaban Hayatı Geliştirme Sahasının sınırları Cumhurbaşkanı kararıyla değiştirildi.",
+    "koordinatlar": {
+      "lat": 36.201247,
+      "lng": 36.162656
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Karar No: 11298",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.malatyabirlikgazetesi.com/resmi-gazete-de-bugun/34078"
+  },
+  {
+    "id": "rthqonxz2f1779007658920",
+    "tip": "Milli Park",
+    "ad": "Milli Parklar Kanunu Değişikliği - Turizm İzinleri ve Ticari Kullanım (7576 Sayılı Kanun)",
+    "il": "Türkiye",
+    "aciklama": "Milli Parklar Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair 7576 Sayılı Kanun 19 Mart 2026'da yayımlandı. Turizm izinleri Doğa Koruma ve Milli Parklar Genel Müdürlüğüne devredildi. Ekoloji örgütleri milli parkların ticari işletmelere açılacağı endişesini taşıyor.",
+    "koordinatlar": {
+      "lat": 39.924443,
+      "lng": 32.834847
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "Kanun No: 7576 / RG 33201",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://www.tbb.gov.tr/tr/mevzuat-duyurulari/7576-milli-parklar-kanunu-ve-bazi-kanunlar-ile-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun"
+  },
+  {
+    "id": "raer4nj9tb1779007658920",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Antalya Falezleri İzinsiz Yapılaşması - Yıkım Kararı",
+    "il": "Antalya",
+    "aciklama": "Antalya Kıyı Falezi (Tufa Kıyı Falezi) üzerindeki izinsiz yapılar hakkında yıkım kararı alındı. Yapılar Karaalioğlu 1. Derece Doğal Sit Alanı ve Lara Kıyı Bandı Kesin Korunacak Hassas Alanda bulunuyor. Endemik habitat ve Akdeniz foku habitatı tehdit altında.",
+    "koordinatlar": {
+      "lat": 36.873546,
+      "lng": 30.702647
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_link": "https://www.antalyaguncelhaber.com/antalyada-falezlerin-cirkinliklerine-yikim-karari-1104880.html"
+  },
+  {
+    "id": "rwco1wj7r41779007658920",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ekoloji Savunucuları Tutuklamaları - Polen Ekoloji Kolektifi (3 Şubat Operasyonu)",
+    "il": "İstanbul",
+    "aciklama": "Polen Ekoloji Kolektifi üyeleri de dahil 86 kişi 3 Şubat'ta gözaltına alınarak tutuklandı. Cemil Aksu, Yağmur Apa, Pınar Gayıp, Cemre Nayır ve diğer ekoloji savunucuları 100 günü aşkın süredir tutuklu. Kadıköy'de düzenlenen eylemin 100. gününde protesto yapıldı. Son üç yılda milyonlarca hektar alan maden şirketlerine açıldı.",
+    "koordinatlar": {
+      "lat": 40.992903,
+      "lng": 29.029355
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Yaban Hayatı Suçu",
+    "kaynak_link": "https://bianet.org/haber/murat-cepni-orgutlu-mucadelede-israr-en-buyuk-gucumuzdur-319603"
+  },
+  {
+    "id": "r0nghzrxxm1779007658920",
+    "tip": "İklim Olayları",
+    "ad": "COP31 Antalya Hazırlıkları - İklim Adaleti Forumu Çalışmaları",
+    "il": "Antalya",
+    "aciklama": "Kasım 2026'da Antalya'da düzenlenecek COP31 öncesinde Antalya Barosu çağrısıyla İklim Adaleti Forumu kuruldu; yerel örgütler sekreterya oluşturdu. Çiftçi-Sen iklim adaleti forumları için çağrıda bulundu.",
+    "koordinatlar": {
+      "lat": 36.894043,
+      "lng": 30.712044
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-05-17",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": "https://bianet.org/kategori/ekoloji-420"
   }
 ]
