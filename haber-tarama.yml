@@ -1,0 +1,71 @@
+name: Haber Tarama
+
+on:
+  schedule:
+    # Her 3 saatte bir (UTC) — 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 TR saatiyle örtüşür
+    - cron: '0 3,6,9,12,15,18 * * *'
+  workflow_dispatch:  # Manuel tetikleme (GitHub Actions sekmesinden)
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # haberler.json'u commit edebilmek için
+
+    steps:
+      - name: Repo'yu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Bağımlılıkları yükle
+        run: pip install requests beautifulsoup4 feedparser lxml
+
+      - name: Tarayıcıyı çalıştır
+        run: |
+          if [ ! -f tarayici.py ]; then
+            echo "❌ tarayici.py bulunamadı. Repo kök dizinine ekleyin."
+            exit 1
+          fi
+          python tarayici.py \
+            --cikti haberler.json \
+            --harita-url "https://ipapila.github.io/Turkiye-katmanlar/data/ihlaller.json"
+
+      - name: Değişiklik var mı kontrol et
+        id: diff
+        run: |
+          # git diff sadece tracked dosyaları görür; yeni dosya için git status kullan
+          if git status --porcelain haberler.json | grep -q .; then
+            echo "degisim=var" >> $GITHUB_OUTPUT
+          else
+            echo "degisim=yok" >> $GITHUB_OUTPUT
+          fi
+
+      - name: haberler.json'u commit et ve push yap
+        if: steps.diff.outputs.degisim == 'var'
+        run: |
+          git config user.name  "ekoloji-tarayici[bot]"
+          git config user.email "bot@ekoloji-izleme.com"
+          git add haberler.json
+          git commit -m "🔄 Otomatik haber güncellemesi — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Güncelleme özeti
+        run: |
+          if [ -f haberler.json ]; then
+            echo "✓ haberler.json güncellendi"
+            python3 -c "
+          import json
+          d = json.load(open('haberler.json'))
+          m = d.get('meta', {})
+          print(f\"  Toplam haber : {m.get('toplam', len(d.get('haberler',[])))}\")
+          print(f\"  Güncelleme   : {m.get('guncelleme','?')}\")
+          print(f\"  Harita kaydı : {m.get('harita_kayit_sayisi','?')}\")
+          "
+          else
+            echo "⚠ haberler.json oluşturulamadı"
+          fi
