@@ -27,10 +27,13 @@ jobs:
 
       - name: Tarayıcıyı çalıştır
         run: |
+          if [ ! -f tarayici.py ]; then
+            echo "❌ tarayici.py bulunamadı. Repo kök dizinine ekleyin."
+            exit 1
+          fi
           python tarayici.py \
             --cikti haberler.json \
             --harita-url "https://ipapila.github.io/Turkiye-katmanlar/data/ihlaller.json"
-        # Harita URL'lerini HARITA_URLS listesini değiştirerek de ayarlayabilirsiniz
 
       - name: Değişiklik var mı kontrol et
         id: diff
