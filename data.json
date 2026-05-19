@@ -117189,5 +117189,41 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": "https://bianet.org/kategori/ekoloji-420"
+  },
+  {
+    "id": "rvmp3hsgf91779170573202",
+    "tip": "Termik Reaktör",
+    "ad": "Termik Reaktör",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 40.74,
+      "lng": 31.61
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-19",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
+  },
+  {
+    "id": "rdaufq30sk1779170573202",
+    "tip": "Termik Reaktör",
+    "ad": "Termik Reaktör",
+    "il": "",
+    "aciklama": "",
+    "koordinatlar": {
+      "lat": 37.511151,
+      "lng": 42.472158
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-19",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "",
+    "kaynak_link": ""
   }
 ]
