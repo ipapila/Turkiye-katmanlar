@@ -117225,5 +117225,185 @@
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": ""
+  },
+  {
+    "id": "r9vx2k1a1747641600001",
+    "tip": "Jeotermal",
+    "ad": "Varto Çalıdere JES Projesi (IGNIS H2)",
+    "il": "Muş",
+    "ilce": "Varto",
+    "koordinatlar": {
+      "lat": 39.1742,
+      "lng": 41.4556
+    },
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-05-19",
+    "kaynak": "Bianet / Cumhuriyet",
+    "kaynak_link": "https://bianet.org/haber/vartoda-jes-nobeti-12-gununde-suruyor-319606",
+    "aciklama": "Amerika merkezli IGNIS H2 Enerji Üretim A.Ş.'nin Muş Varto Çalıdere Köyü kırsalında planladığı Jeotermal Enerji Santrali projesine karşı 16 günlük çadır nöbeti sürüyor. Proje en az 16 köyü olumsuz etkileyecek; ilk sondaj çalışması 20 Mayıs'ta planlanıyor. Bingöl İdare Mahkemesi'ne yürütmeyi durdurma başvurusu var.",
+    "alt_kategori": "",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "r7mq8n3b1747641600002",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Akbelen Ormanı Çevresi Acele Kamulaştırma (YK Enerji)",
+    "il": "Muğla",
+    "ilce": "Milas",
+    "koordinatlar": {
+      "lat": 37.3167,
+      "lng": 27.7833
+    },
+    "alan_ha": 0,
+    "durum": "Durduruldu",
+    "belge_no": "RG 10.01.2026",
+    "eklenme": "2026-05-08",
+    "kaynak": "Bianet / Cumhuriyet",
+    "kaynak_link": "https://bianet.org/haber/danistaydan-akbelende-acele-kamulastirmaya-yurutmeyi-durdurma-319412",
+    "aciklama": "Danıştay 6. Dairesi, Yeniköy ve Kemerköy termik santrallerine kömür sağlamak için 679 parsel tarım arazisini kapsayan acele kamulaştırma kararının yürütmesini oy birliğiyle durdurdu. Karar 5 Mayıs 2026'da tebliğ edildi.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "r3pk5c7d1747641600003",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Dalaman Kille Koyu Yat İskelesi ÇED",
+    "il": "Muğla",
+    "ilce": "Dalaman",
+    "koordinatlar": {
+      "lat": 36.7723,
+      "lng": 28.8068
+    },
+    "alan_ha": 4.5,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-05-19",
+    "kaynak": "Cumhuriyet",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/cevre",
+    "aciklama": "Fethiye-Göcek Özel Çevre Koruma Bölgesi içindeki Kille Koyu'na 186 tekne kapasiteli yat iskelesi projesi için ÇED süreci başlatıldı. Yüzlerce vatandaş insan zinciri oluşturarak protesto etti.",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "r5lz9e2f1747641600004",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Hopa Kıyı Dolgu Projesi ÇED",
+    "il": "Artvin",
+    "ilce": "Hopa",
+    "koordinatlar": {
+      "lat": 41.4147,
+      "lng": 41.4222
+    },
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-05-06",
+    "kaynak": "Bianet",
+    "kaynak_link": "https://bianet.org/haber/artvin-ve-samsunda-kiyi-dolgu-projeleri-icin-ced-sureci-baslatildi-319372",
+    "aciklama": "Hopa'da yüzbinlerce ton malzemeyle sahil hattının doldurulması planlanıyor. ÇED süreci başlatıldı.",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "r2xw4h8g1747641600005",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Tekkeköy Kıyı Dolgu Projesi ÇED",
+    "il": "Samsun",
+    "ilce": "Tekkeköy",
+    "koordinatlar": {
+      "lat": 41.1912,
+      "lng": 36.4708
+    },
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-05-06",
+    "kaynak": "Bianet",
+    "kaynak_link": "https://bianet.org/haber/artvin-ve-samsunda-kiyi-dolgu-projeleri-icin-ced-sureci-baslatildi-319372",
+    "aciklama": "Samsun Tekkeköy'de yıllardır süren kıyı dolgu faaliyetlerine yeni bir proje daha ekleniyor. ÇED süreci başlatıldı.",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "r8qr6j1h1747641600006",
+    "tip": "Milli Park",
+    "ad": "Marmaris Kızılbük Sinpaş Thermal Resort (Milli Park İçi İnşaat)",
+    "il": "Muğla",
+    "ilce": "Marmaris",
+    "koordinatlar": {
+      "lat": 36.8396,
+      "lng": 28.2557
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-19",
+    "kaynak": "Cumhuriyet",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/cevre",
+    "aciklama": "Marmaris Milli Parkı sınırları içinde Sinpaş GYO tarafından inşa edilen Kızılbük Thermal Wellness Resort açılışa hazırlanıyor. Proje, milli park içinde 1407 konut ve otel içeriyor; çevre örgütleri bunu ekokırım olarak nitelendiriyor.",
+    "alt_kategori": "",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "r4yt7k9i1747641600007",
+    "tip": "Maden Ocağı",
+    "ad": "Boyabat Bakır Madeni (Cengiz Holding)",
+    "il": "Sinop",
+    "ilce": "Boyabat",
+    "koordinatlar": {
+      "lat": 41.4699,
+      "lng": 34.7707
+    },
+    "alan_ha": 0,
+    "durum": "Planlama",
+    "belge_no": "",
+    "eklenme": "2026-05-19",
+    "kaynak": "Cumhuriyet",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/cevre",
+    "aciklama": "Cengiz Holding'in Sinop Boyabat'ta açmak istediği bakır ocağı için 4500 sayfalık ÇED raporu tamamlandı. Proje kapsamında 224.895 ağaç kesilmesi planlanıyor; kaç ağacın kesileceği ise hâlâ açıklanmadı.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_turu": "haber"
+  },
+  {
+    "id": "r6nm3l5j1747641600008",
+    "tip": "Termik Reaktör",
+    "ad": "Göynük Kömür Ocağı Büyütme ÇED Onayı (TKİ)",
+    "il": "Bolu",
+    "ilce": "Göynük",
+    "koordinatlar": {
+      "lat": 40.3974,
+      "lng": 30.7768
+    },
+    "alan_ha": 2384,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-19",
+    "kaynak": "Cumhuriyet",
+    "kaynak_link": "https://www.cumhuriyet.com.tr/cevre",
+    "aciklama": "Enerji Bakanlığı'na bağlı TKİ'nin Bolu Göynük'te üç köyü kapsayan kömür ocağını genişletmek için yaptığı ÇED başvurusu onay aldı. Alan 1631 hektardan 2384 hektara çıkarılacak; 2040'a kadar sürecek çalışmalarda kaç ağacın kesileceği açıklanmadı.",
+    "alt_kategori": "Endüstriyel Kirlilik / Maden Suçu",
+    "kaynak_turu": "resmi"
+  },
+  {
+    "id": "r1vb8m4k1747641600009",
+    "tip": "Ekolojik İhlal",
+    "ad": "Karadeniz Vahşi Depolama / Katı Atık Sorunu",
+    "il": "Trabzon",
+    "ilce": "Merkez",
+    "koordinatlar": {
+      "lat": 41.0043,
+      "lng": 39.7297
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-12",
+    "kaynak": "Bianet",
+    "kaynak_link": "https://bianet.org/haber/karadenizin-30-yillik-cop-dugumu-ceza-var-cozum-yok-319534",
+    "aciklama": "Doğu Karadeniz hattında çok sayıda ilçe, 30 yıldır katı atıklarını vahşi depolama yöntemiyle bertaraf ediyor. Ceza var, çözüm yok. Bölgesel boyutta çevre felaketi büyümeye devam ediyor.",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm",
+    "kaynak_turu": "haber"
   }
 ]
