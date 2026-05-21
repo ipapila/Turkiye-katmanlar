@@ -30903,42 +30903,6 @@
     "kaynak_link": ""
   },
   {
-    "id": "rbggan19x61777013811396",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.191151,
-      "lng": 36.172158
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "05.04.2023",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
-    "id": "ro8l59t6hg1777013811396",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.201485,
-      "lng": 36.134642
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "05.04.2023",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
     "id": "rl8zq38zgd1777013811396",
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
@@ -31078,60 +31042,6 @@
     "durum": "Aktif",
     "belge_no": "",
     "eklenme": "13.04.2023",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
-    "id": "rtv1delmwu1777013811396",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.212644,
-      "lng": 36.184744
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "14.04.2023",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
-    "id": "rwx8461eso1777013811396",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.176367,
-      "lng": 36.153724
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "14.04.2023",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
-    "id": "rzedjbp1h61777013811396",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.222643,
-      "lng": 36.138403
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "14.04.2023",
     "kaynak": "Dosya içe aktarma",
     "alt_kategori": "",
     "kaynak_link": ""
@@ -33153,24 +33063,6 @@
     "kaynak_link": ""
   },
   {
-    "id": "rfcx7ugtxl1777013811396",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.166719,
-      "lng": 36.180588
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "25.11.2023",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
     "id": "rcfs3sbndu1777013811396",
     "tip": "Ekolojik İhlal",
     "ad": "Ekolojik İhlal",
@@ -33575,24 +33467,6 @@
     "koordinatlar": {
       "lat": 38.6,
       "lng": 28.97
-    },
-    "alan_ha": 0,
-    "durum": "Aktif",
-    "belge_no": "",
-    "eklenme": "18.01.2024",
-    "kaynak": "Dosya içe aktarma",
-    "alt_kategori": "",
-    "kaynak_link": ""
-  },
-  {
-    "id": "ri887agh6s1777013811396",
-    "tip": "İklim Olayları",
-    "ad": "İklim Olayları",
-    "il": "",
-    "aciklama": "",
-    "koordinatlar": {
-      "lat": 36.49,
-      "lng": 36.49
     },
     "alan_ha": 0,
     "durum": "Aktif",
