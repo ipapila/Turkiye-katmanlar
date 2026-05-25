@@ -117369,5 +117369,167 @@
     "aciklama": "Doğu Karadeniz hattında çok sayıda ilçe, 30 yıldır katı atıklarını vahşi depolama yöntemiyle bertaraf ediyor. Ceza var, çözüm yok. Bölgesel boyutta çevre felaketi büyümeye devam ediyor.",
     "alt_kategori": "Atık Suçu/Kaçak Döküm",
     "kaynak_turu": "haber"
+  },
+  {
+    "id": "rt5gmzod201779680141619",
+    "tip": "Ekolojik İhlal",
+    "ad": "Mogan Gölü Atık Su Deşarjı – Ankara BBB",
+    "il": "Ankara",
+    "aciklama": "Çevre Bakanlığı, Ankara BBB'nin Mogan Gölü Özel Çevre Koruma Bölgesi'ne yağmur suyu hattı aracılığıyla atık su boşalttığını tespit etti. 1.678.000 TL idari ceza kesildi.",
+    "koordinatlar": {
+      "lat": 39.782,
+      "lng": 32.812
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-25",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Su Kirliliği",
+    "kaynak_link": "https://mansethaber.com/gundem/bakanlik-kirlilige-goz-yummadi-abbye-mogan-golu-cezasi"
+  },
+  {
+    "id": "rflz539ybg1779680141619",
+    "tip": "Orman Alanı",
+    "ad": "23 İlde Orman Sınırı Dışına Çıkarma – 936 bin m²",
+    "il": "Muğla",
+    "aciklama": "19 Mayıs 2026 tarihli Resmî Gazete'de yayımlanan 11346 sayılı CB Kararı ile Artvin, Aydın, Balıkesir, Bingöl, Bursa, Denizli, Elazığ, Gümüşhane, Karabük, Kocaeli, Kütahya, Malatya, Mersin, Muğla, Rize, Sakarya, Samsun, Sinop, Şanlıurfa, Tokat, Trabzon, Uşak ve Zonguldak'taki toplam 935.919,63 m² alan orman sınırları dışına çıkarıldı.",
+    "koordinatlar": {
+      "lat": 37.2155,
+      "lng": 28.3636
+    },
+    "alan_ha": 93.6,
+    "durum": "Aktif",
+    "belge_no": "11346",
+    "eklenme": "2026-05-25",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "kaynak_link": "https://www.karar.com/guncel-haberler/bir-gecede-936-bin-metrekare-orman-daha-sinir-disi-turkiyenin-2049179"
+  },
+  {
+    "id": "ror26ty0w61779680141619",
+    "tip": "Kıyı İhlalleri",
+    "ad": "Kaş Kıyısında 5000+ Kaçak Yapı",
+    "il": "Antalya",
+    "aciklama": "Kaş Belediyesi kıyı kenarı ve tapulu arazilerdeki 5000'den fazla kaçak yapı için 10. kez ihale açtı; teklif çıkmadığından ihale iptal edildi. 2025-2026'da tespit edilen 1617 yeni kaçak yapı mevcut.",
+    "koordinatlar": {
+      "lat": 36.2009,
+      "lng": 29.6402
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-05-25",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Kıyı İhlali",
+    "kaynak_link": "https://turkhabergazetesi.com/haber/-kasda-5-binden-fazla-kacak-yapi-var-57824"
+  },
+  {
+    "id": "rgqbgy7urd1779680141619",
+    "tip": "Ekolojik İhlal",
+    "ad": "Marmara Denizi Müsilaj ve Deniz Çayırı Kirliliği – Beykoz",
+    "il": "İstanbul",
+    "aciklama": "TÜDAV Başkanı Prof. Dr. Bayram Öztürk, Beykoz açıklarındaki deniz çayırlarında müsilaj gözlemlendiğini ve geçen yıla göre artış olduğunu açıkladı. Sanayi ve evsel atık deşarjları ile artan deniz suyu sıcaklığı başlıca nedenler.",
+    "koordinatlar": {
+      "lat": 41.118,
+      "lng": 29.092
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-05-25",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Deniz Kirliliği",
+    "kaynak_link": "https://www.trthaber.com/haber/cevre/"
+  },
+  {
+    "id": "r03jvgr0rj1779680141619",
+    "tip": "Ekolojik İhlal",
+    "ad": "Şarköy Kıyılarında Zehirli Pusula Denizanası İstilası",
+    "il": "Tekirdağ",
+    "aciklama": "Tekirdağ Şarköy kıyılarında zehirli pusula denizanası (Chrysaora hysoscella) yoğun biçimde görüldü. Hidrobiyolog Levent Artüz, ekosistem kirliliği, ısınma ve aşırı avlanmanın türün görünürlüğünü artırdığını belirtti.",
+    "koordinatlar": {
+      "lat": 40.6117,
+      "lng": 27.1105
+    },
+    "alan_ha": 0,
+    "durum": "Aktif",
+    "belge_no": "",
+    "eklenme": "2026-05-25",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Deniz Kirliliği",
+    "kaynak_link": "https://bianet.org/haber/sarkoy-kiyilarinda-zehirli-pusula-denizanasi-goruldu-319898"
+  },
+  {
+    "id": "rwsrmdawe61779680141619",
+    "tip": "Ekolojik İhlal",
+    "ad": "Giresun Katı Atık Tesisi – Mahkeme Kararına Rağmen Faaliyet",
+    "il": "Giresun",
+    "aciklama": "13 yıl önce açılan, mahkemenin kapatma kararı verdiği ve 4 kez ÇED olumlu raporu iptal edilen Giresun katı atık tesisi faaliyetine devam ediyor. Avukat: 'Kapatma kararını uygulamamak için dayanak kalmadı.'",
+    "koordinatlar": {
+      "lat": 40.917,
+      "lng": 38.3881
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-05-25",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Atık Suçu/Kaçak Döküm",
+    "kaynak_link": "https://www.hurriyet.com.tr/haberleri/cevre-kirliligi"
+  },
+  {
+    "id": "rqrty9gque1779680141619",
+    "tip": "Ekolojik İhlal",
+    "ad": "Mersin Limanında Deniz Kirleten Gemiye 10 Milyon TL Ceza",
+    "il": "Mersin",
+    "aciklama": "Mersin limanında sıra bekleyen bir gemiye denizi kirlettiği için 2 gün içinde toplamda 10.061.000 TL para cezası kesildi (3.674.000 TL + 6.387.000 TL).",
+    "koordinatlar": {
+      "lat": 36.7987,
+      "lng": 34.6355
+    },
+    "alan_ha": 0,
+    "durum": "Yargıda",
+    "belge_no": "",
+    "eklenme": "2026-05-25",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Deniz Kirliliği",
+    "kaynak_link": "https://www.hurriyet.com.tr/haberleri/cevre-kirliligi"
+  },
+  {
+    "id": "rt1o8jqxb11779680141619",
+    "tip": "Orman Alanı",
+    "ad": "Resmî Gazete Orman Sınırı Dışına Çıkarma – Trabzon/Rize/Artvin",
+    "il": "Trabzon",
+    "aciklama": "Aynı 11346 sayılı CB Kararı kapsamında Trabzon, Rize ve Artvin dahil Karadeniz illerindeki orman parselleri sınır dışına çıkarıldı. Uzmanlar bu parsellerin imar ve rant baskısına açılabileceğini vurguluyor.",
+    "koordinatlar": {
+      "lat": 41.0015,
+      "lng": 39.7178
+    },
+    "alan_ha": 20,
+    "durum": "Aktif",
+    "belge_no": "11346",
+    "eklenme": "2026-05-25",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Orman Suçları/Yasadışı Kesim",
+    "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260516-3.htm"
+  },
+  {
+    "id": "r28068eg281779680141619",
+    "tip": "Sulak Alan",
+    "ad": "Marmara Denizi Isı Artışı ve Ekosistem Baskısı",
+    "il": "İstanbul",
+    "aciklama": "Marmara Denizi Günü (8 Haziran) öncesi açıklama: Artan deniz suyu sıcaklığı ve insan kaynaklı kirlilik deniz ekosistemi üzerindeki baskıyı artırıyor. 2026 teması 'Deniz Suyu Sıcaklığı'.",
+    "koordinatlar": {
+      "lat": 40.75,
+      "lng": 28.12
+    },
+    "alan_ha": 0,
+    "durum": "Devam Ediyor",
+    "belge_no": "",
+    "eklenme": "2026-05-25",
+    "kaynak": "Dosya içe aktarma",
+    "alt_kategori": "Su Kirliliği",
+    "kaynak_link": "https://bianet.org/haber/marmara-denizi-gunu-icin-kiyilarda-bulusuyoruz-319721"
   }
 ]
