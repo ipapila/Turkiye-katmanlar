@@ -227,6 +227,7 @@ body.pkmode #map{cursor:crosshair !important;}
       <div class="dtb admin-only" style="display:none">
         <button class="hbtn" id="delCatBtn">🗑️ Kategori Sil</button>
         <button class="hbtn" id="groupResBtn">⚡ RES Birleştir</button>
+        <button class="hbtn" id="dedupBtn">🧹 Çift Kayıt Temizle</button>
         <button class="hbtn" id="rstbtn">🔄 Tümünü Sil</button>
       </div>
       <input type="file" id="impfile" accept=".json,.geojson,.zip" style="display:none"/>
@@ -748,6 +749,30 @@ function savRec(){
 }
 function doDel(id){const r=data.find(d=>d.id===id);if(!r)return;document.getElementById('ctxt').textContent=`"${r.ad}" silinsin mi?`;confCb=()=>{remMkr(id);data=data.filter(d=>d.id!==id);saveLocal();applyF();ntf('Silindi','ok');};document.getElementById('cov').classList.add('open');}
 function rstD(){document.getElementById('ctxt').textContent='Tüm veriler silinecek. Devam?';confCb=()=>{data=[];saveLocal();renderAll();ntf('Tüm veriler silindi','ok');};document.getElementById('cov').classList.add('open');}
+function cleanDuplicates(){
+  const norm=s=>(s||'').toString().trim().replace(/\s+/g,' ').toLocaleLowerCase('tr');
+  const keyOf=r=>{
+    const bn=norm(r.belge_no);
+    if(bn) return norm(r.tip)+'|bn|'+bn;
+    const lat=r.koordinatlar&&r.koordinatlar.lat!=null?(+r.koordinatlar.lat).toFixed(4):'';
+    const lng=r.koordinatlar&&r.koordinatlar.lng!=null?(+r.koordinatlar.lng).toFixed(4):'';
+    return norm(r.tip)+'|'+norm(r.ad)+'|'+norm(r.il)+'|'+lat+','+lng;
+  };
+  const filled=r=>Object.values(r).filter(v=>v!=null&&v!=='').length;
+  const groups=new Map();
+  data.forEach(r=>{const k=keyOf(r);if(!groups.has(k))groups.set(k,[]);groups.get(k).push(r);});
+  const keep=[],removeIds=[];
+  for(const grp of groups.values()){
+    if(grp.length===1){keep.push(grp[0]);continue;}
+    let best=grp[0];for(const r of grp){if(filled(r)>filled(best))best=r;}
+    keep.push(best);
+    grp.forEach(r=>{if(r!==best)removeIds.push(r.id);});
+  }
+  if(removeIds.length===0){ntf('Çift kayıt bulunamadı.','ok');return;}
+  document.getElementById('ctxt').textContent=`${removeIds.length} çift kayıt bulundu. Silinsin mi? (${keep.length} benzersiz kayıt kalacak)`;
+  confCb=()=>{removeIds.forEach(id=>remMkr(id));data=keep;saveLocal();renderAll();ntf(`${removeIds.length} çift kayıt temizlendi.`,'ok');};
+  document.getElementById('cov').classList.add('open');
+}
 
 // ---------- PICK MODE ----------
 function enterPk(){pkMode=true;document.body.classList.add('pkmode');document.getElementById('pkhint').style.display='block';document.getElementById('pkbtn').classList.add('on');document.getElementById('pkbtn').textContent='❌ İptal';document.getElementById('mov').style.visibility='hidden';}
@@ -938,6 +963,7 @@ document.getElementById('ghsavebtn').addEventListener('click',()=>requireAdmin(s
 document.getElementById('delCatBtn').addEventListener('click',()=>requireAdmin(openCatModal));
 document.getElementById('groupResBtn').addEventListener('click',()=>requireAdmin(()=>groupRESData(2000)));
 document.getElementById('rstbtn').addEventListener('click',()=>requireAdmin(rstD));
+document.getElementById('dedupBtn').addEventListener('click',()=>requireAdmin(cleanDuplicates));
 document.getElementById('mcls').addEventListener('click',closeMod);
 document.getElementById('mcan').addEventListener('click',closeMod);
 document.getElementById('msav').addEventListener('click',savRec);
