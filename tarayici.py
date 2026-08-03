@@ -35,11 +35,13 @@ from bs4 import BeautifulSoup
 # ─── YAPILANDIRMA ──────────────────────────────────────────────────────────────
 
 HARITA_URLS = [
+    # index.html'in kullandığı gerçek veri kaynağıyla birebir aynı
+    # (bkz. index.html: repoOwner='ipapila', repoName='Turkiye-katmanlar',
+    # repoPath='data.json' → raw.githubusercontent.com/.../main/data.json).
+    "https://raw.githubusercontent.com/ipapila/Turkiye-katmanlar/main/data.json",
     # Harita uygulamanız localStorage ile çalışıyorsa bu URL'leri kendi
     # sunucunuzun JSON export endpoint'iyle değiştirin.
     "https://ekoloji-izleme.com/harita/data.json",
-    "https://ekoloji-izleme.com/harita/ihlaller.json",
-    "https://ipapila.github.io/Turkiye-katmanlar/data/ihlaller.json",
 ]
 
 RSS_KAYNAKLARI = [
@@ -240,7 +242,7 @@ def harita_verisi_cek(urls: list[str]) -> list[dict]:
                     data.get("ihlaller") or
                     data.get("data") or
                     data.get("items") or
-                    list(data.values())[0] if data else []
+                    (list(data.values())[0] if data else [])
                 )
             else:
                 continue
@@ -255,17 +257,38 @@ def harita_verisi_cek(urls: list[str]) -> list[dict]:
                         item["lng"] = coords[0]
                         item["lat"] = coords[1]
 
+                # data.json şemasında koordinatlar iç içe:
+                # {"koordinatlar": {"lat": ..., "lng": ...}}
+                koord = item.get("koordinatlar") or {}
+                if not isinstance(koord, dict):
+                    koord = {}
+
+                il = item.get("il") or item.get("location", "")
+                ilce = item.get("ilce") or ""
+                konum = item.get("konum") or (f"{il} / {ilce}" if il and ilce else il)
+
                 kayit = {
-                    "id": item.get("id") or haber_id(url, item.get("baslik", "")),
-                    "baslik": item.get("baslik") or item.get("name") or item.get("title", ""),
-                    "konum": item.get("konum") or item.get("il") or item.get("location", ""),
-                    "kategori": item.get("kategori") or item.get("alan_turu") or item.get("type", ""),
+                    "id": item.get("id") or haber_id(url, item.get("baslik") or item.get("ad", "")),
+                    "baslik": (
+                        item.get("baslik") or item.get("ad")
+                        or item.get("name") or item.get("title", "")
+                    ),
+                    "konum": konum,
+                    "kategori": (
+                        item.get("kategori") or item.get("tip")
+                        or item.get("alan_turu") or item.get("type", "")
+                    ),
                     "siddet": item.get("siddet") or item.get("durum") or "takipte",
-                    "tarih": tarih_normalize(item.get("tarih") or item.get("date")),
-                    "url": item.get("url") or item.get("kaynak_url") or "",
+                    "tarih": tarih_normalize(
+                        item.get("tarih") or item.get("eklenme") or item.get("date")
+                    ),
+                    "url": (
+                        item.get("url") or item.get("kaynak_link")
+                        or item.get("kaynak_url") or ""
+                    ),
                     "ozet": item.get("aciklama") or item.get("ozet") or item.get("description", ""),
-                    "lat": item.get("lat") or item.get("enlem"),
-                    "lng": item.get("lng") or item.get("boylam"),
+                    "lat": item.get("lat") or item.get("enlem") or koord.get("lat"),
+                    "lng": item.get("lng") or item.get("boylam") or koord.get("lng"),
                     "kaynak": "harita",
                     "kaynak_url": url,
                 }
