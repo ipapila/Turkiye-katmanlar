@@ -225,6 +225,9 @@ body.pkmode #map{cursor:crosshair !important;}
         <button class="hbtn" id="ghsavebtn">💾 GitHub'a Kaydet</button>
       </div>
       <div class="dtb admin-only" style="display:none">
+        <button class="hbtn" id="scanbtn" title="GitHub Actions'taki haber tarama workflow'unu hemen çalıştırır">🛰️ Manuel Tarama Başlat</button>
+      </div>
+      <div class="dtb admin-only" style="display:none">
         <button class="hbtn" id="delCatBtn">🗑️ Kategori Sil</button>
         <button class="hbtn" id="groupResBtn">⚡ RES Birleştir</button>
         <button class="hbtn" id="dedupBtn">🧹 Çift Kayıt Temizle</button>
@@ -309,6 +312,7 @@ let fTxt='', fIlce='', fDrm='';
 let isAdmin=false, pendingAdminAction=null;
 let githubToken = sessionStorage.getItem('github_token') || null;
 let repoOwner = 'ipapila', repoName = 'Turkiye-katmanlar', repoPath = 'data.json';
+let workflowFile = 'haber-tarama.yml'; // .github/workflows/ altındaki dosya adı
 
 // ===== İL SEÇİCİ STATE =====
 let secilenIller = new Set(); // boş = tümünü göster
@@ -607,6 +611,53 @@ async function syncToGitHub(){
     if(putRes.ok){ ntf(`GitHub'a kaydedildi!`,'ok'); }
     else{ const err=await putRes.json(); throw new Error(err.message||`${putRes.status}`); }
   }catch(e){ ntf(`Kayıt hatası: ${e.message}`,'err'); exportJSON(); }
+}
+
+async function triggerScan(){
+  if(!githubToken){ const token=prompt('GitHub kişisel erişim tokenı (repo + workflow izni) girin:'); if(!token)return; githubToken=token; sessionStorage.setItem('github_token',githubToken); }
+  const btn=document.getElementById('scanbtn');
+  const eskiMetin=btn.textContent;
+  btn.disabled=true; btn.textContent='⏳ Başlatılıyor…';
+  const dispatchUrl=`https://api.github.com/repos/${repoOwner}/${repoName}/actions/workflows/${workflowFile}/dispatches`;
+  try{
+    const tetikZamani=Date.now();
+    const res=await fetch(dispatchUrl,{
+      method:'POST',
+      headers:{Authorization:`Bearer ${githubToken}`,'Content-Type':'application/json','Accept':'application/vnd.github+json'},
+      body:JSON.stringify({ref:'main'})
+    });
+    if(res.status===204){
+      ntf('Tarama tetiklendi! Çalıştırma listeleniyor…','ok');
+      btn.textContent='🔎 Çalıştırma aranıyor…';
+      // GitHub'ın yeni run'ı listeye eklemesi birkaç saniye sürebilir
+      await new Promise(r=>setTimeout(r,4000));
+      try{
+        const runsUrl=`https://api.github.com/repos/${repoOwner}/${repoName}/actions/workflows/${workflowFile}/runs?event=workflow_dispatch&per_page=5`;
+        const runsRes=await fetch(runsUrl,{headers:{Authorization:`Bearer ${githubToken}`,'Accept':'application/vnd.github+json'}});
+        if(runsRes.ok){
+          const runsData=await runsRes.json();
+          const yeniRun=(runsData.workflow_runs||[]).find(r=>new Date(r.created_at).getTime()>=tetikZamani-5000);
+          if(yeniRun){
+            ntf(`Tarama çalışıyor: ${yeniRun.html_url}`,'ok');
+            window.open(yeniRun.html_url,'_blank');
+          } else {
+            ntf('Tarama tetiklendi, GitHub Actions sekmesinden takip edebilirsin','ok');
+          }
+        }
+      }catch(e){ /* run bulunamadıysa sessiz geç, tetikleme zaten başarılı oldu */ }
+    } else if(res.status===404){
+      throw new Error('Workflow bulunamadı — dosya adını (workflowFile) kontrol et');
+    } else if(res.status===403){
+      throw new Error('Yetki yok — tokenın "workflow" iznine de sahip olması gerekiyor');
+    } else {
+      const err=await res.json().catch(()=>({}));
+      throw new Error(err.message||`HTTP ${res.status}`);
+    }
+  }catch(e){
+    ntf(`Tarama başlatılamadı: ${e.message}`,'err');
+  }finally{
+    btn.disabled=false; btn.textContent=eskiMetin;
+  }
 }
 
 // ---------- RES GRUPLAMA ----------
@@ -960,6 +1011,7 @@ document.getElementById('expgeobtn').addEventListener('click',exportGeoJSON);
 document.getElementById('impbtn').addEventListener('click',()=>document.getElementById('impfile').click());
 document.getElementById('impfile').addEventListener('change',e=>{if(e.target.files[0])impD(e.target.files[0]);e.target.value='';});
 document.getElementById('ghsavebtn').addEventListener('click',()=>requireAdmin(syncToGitHub));
+document.getElementById('scanbtn').addEventListener('click',()=>requireAdmin(triggerScan));
 document.getElementById('delCatBtn').addEventListener('click',()=>requireAdmin(openCatModal));
 document.getElementById('groupResBtn').addEventListener('click',()=>requireAdmin(()=>groupRESData(2000)));
 document.getElementById('rstbtn').addEventListener('click',()=>requireAdmin(rstD));
