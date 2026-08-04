@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-04T11:17:35.136398+00:00",
-    "toplam": 129,
-    "harita_kayit_sayisi": 6444,
+    "guncelleme": "2026-08-04T13:52:41.903830+00:00",
+    "toplam": 136,
+    "harita_kayit_sayisi": 6445,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "6c0f3c447f4c",
+      "baslik": "Sinop'ta orman yangını: 10 hektarlık alan zarar gördü - Cumhuriyet",
+      "ozet": "Sinop'ta orman yangını: 10 hektarlık alan zarar gördü Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWwyeE1wTHpvUXNRRWxzUFNxRl9wbVc0VklHVXUwZ0k5MnplQ0t3cmxSODJXeGJZenVzVGd6SzdlNk9kT1dmZWJCOWdrVGxIYmx5dVo2VGJteHdRUFM3X01nU3RaeDVvYUE4eGFIRFBLbjJ2ODVSQmI0UG51T1FLSUFDMzJzLS1IQVY3TEZwcmFoZ2xMWmh5aDlqRTdFU2s?oc=5",
+      "tarih": "2026-08-04T12:45:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8a19ada11529",
+      "baslik": "Ölüdeniz'de tatil kabusa döndü! Tur teknesinde korku dolu anlar",
+      "ozet": "Ölüdeniz'de tatil kabusa döndü! Tur teknesinde korku dolu anlar",
+      "url": "https://www.sozcu.com.tr/oludeniz-de-tatil-kabusa-dondu-tur-teknesinde-korku-dolu-anlar-p342300",
+      "tarih": "2026-08-04T11:56:49+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5487a4842c11",
       "baslik": "Avrupa'daki yangınlar zeytin yağı fiyatlarını vurdu",
@@ -322,6 +342,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "4a31b0df3c2e",
+      "baslik": "Manisada çevre denetimlerinde 49 milyon liralık ceza - Medya Gazete",
+      "ozet": "Manisada çevre denetimlerinde 49 milyon liralık ceza Medya Gazete",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMEZlanVHM0s3TDc5ZG9UZXJ1bk5wSEZHak9ZdnBFQWVDYS0wUWRLTGtiLUpOSjZ0OWVaMXpjTlVSVk95YUZzdWZRZnJ2TFBpSjkzWm04aWxCMmRfclZnbVNPZE5ENEI0b08wQ2hWYTRuem92aVB6TWNmQnkzbkNUUVBJSUZDbG5xMjFXMFdPWE04ZzREM0Y0R1BR?oc=5",
+      "tarih": "2026-07-10T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "42bacaef64ee",
       "baslik": "Bolu’da maden ocağında göçük: 1 işçi mahsur - DHA | Demirören Haber Ajansı",
       "ozet": "Bolu’da maden ocağında göçük: 1 işçi mahsur DHA | Demirören Haber Ajansı",
@@ -409,6 +439,16 @@
       "tarih": "2026-05-22T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "33d62b3071f9",
+      "baslik": "xAI’ın çevre kirliliği davası sürerken, firmanın kural ihlaline devam ettiği iddia edildi - milliyet.com.tr",
+      "ozet": "xAI’ın çevre kirliliği davası sürerken, firmanın kural ihlaline devam ettiği iddia edildi milliyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcWJ3dW13ZXNqM1ctRnRfUDllUDl6akRqa2thTWtrd1VwVXRTd2xZd0FqbUdSUTBIS0Y5STloV21FNHI0V21ROVRpOWU5WVNmTFVnTmp4N1AxSGh4bWFEZlMzeEl1WEJaX3dPS1NmaWxVVmFVWjItRWRTMk0zOVJGdHFGSElRWHp3c0J5SElUa0lnUVgzeFIwQXo1U2VBalc4SGRUb3VHVlFxRlVfR1VjSldORVJBWjZvYnVyd0dDSDNGMnBhMUxJYWJmQlpnUQ?oc=5",
+      "tarih": "2026-05-15T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -772,6 +812,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "b7e7a20742d6",
+      "baslik": "Nadir toprak elementi zengini olan bölgede maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak - t24.com.tr",
+      "ozet": "Nadir toprak elementi zengini olan bölgede maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak t24.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVzdFSEJzcFFEQkJyaG1XSDQ4OGNCVUZvVW0tWU9DcGstOVlVNjNqcG9zT3QzMzk2Mk8tOEN5MUtqeElIVnVxQzVNWnJpcGY2cnRaQnlKTVcwZGxCaDRlcnRRc28wUXhOcFp1cFdhYVN2Rzc0bW5WbG9ncVVCZmI0c1lZZmJiNEFLdVZoeHA5LVFQY2loMU1aUmYyVzY1QmpBQ0E1anliTFpKcTBHSVFsOWZLWXF0ZUtyYkJzREswcldJZlNNWWxScFdzcEFRZ3ZGUDhjVlo5bGxVZ1NMN1JTNnRyUmVmZ00wckRYVnAwY1lIcTZISURFbGVLNDFUbENrejNVRQ?oc=5",
+      "tarih": "2025-12-02T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "23d681b57f99",
       "baslik": "Nadir toprak elementi zengini olan bölgede maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak - T24",
       "ozet": "Nadir toprak elementi zengini olan bölgede maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak T24",
@@ -827,6 +877,16 @@
       "ozet": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı Evrensel.net",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQUFVNllJeDhPSXN3cXRIR2o0VmJvYmVPTW93VUM3aTI3ZHd0T1dpbTRGZlo1Y0hPQ2xQT2NmU3Y0bWFQbk5fLWlqcDcxbXRtblg2MEF3T1BKM0p3c2thSzBSZFVOVWEzd1BVQ3kxYmlvUGlIa2d1M2VGd0ZEYXgwOW5va3l3dDEzbDNmU3pkbUpkMnkyaWxaTmVQSHNiYUUxcWllc1NQMlRLXzk3NVMyVDNJdFNRSEVuT0N6OFIwU08wbG9yRHEtUlA1RnJ1YXR5eDAwNDNINlBLczJGZDh1bGw5MXRRc1Bj?oc=5",
       "tarih": "2025-10-31T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "805facb2bc4a",
+      "baslik": "Muğla'daki ormanlık alana maden ocağı projesine \"ÇED olumlu\" kararı - t24.com.tr",
+      "ozet": "Muğla'daki ormanlık alana maden ocağı projesine \"ÇED olumlu\" kararı t24.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlA5WmFHR3ViZWhnaVpqNXkyNmU0VEZZT1hma25hekotV053QWVmam51UXNsZk1hVkdUcW1lYlplRXBieTM3NXZZM0hzZkdvQTlSVzVZM2duMGZPYzlsMWtWLTZIWHg4UU5aS3lUMnk3ekVTMWY5My0tVm92Y1dncngyb0RaaGRlMHNHR2dIRk5VVlVZQUVBMklZeUdyRHM?oc=5",
+      "tarih": "2025-10-27T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
@@ -1039,6 +1099,16 @@
       "tarih": "2025-06-20T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e6398d93a529",
+      "baslik": "Kanal İstanbul: Montrö tartışmalarının gölgesinde uluslararası çevre hukuku rafta - Bianet",
+      "ozet": "Kanal İstanbul: Montrö tartışmalarının gölgesinde uluslararası çevre hukuku rafta Bianet",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNak5OUFVGSFk5bUpVN0d4cUZlb2lob1VFMGNJSlNBdE9vRE4yYk8zRHd0Z2NkN1VKWmkwZzlVNWtkMjdIS0FmeXBWWHFGeGhzUm5uNGVWNnVYR1VqWnpwM1RYVkVlbGZDU05uZWJVMXN0SlF1b0RkTVlyOGtjNjVLMjl1NXY1YmZsRDc2SGRxNThHS1NIOE00dE9HOU9SYUgzT2paMHR3MzBHZnZBdDhjVy1n?oc=5",
+      "tarih": "2025-05-09T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -91516,6 +91586,20 @@
       "ozet": "Bolu’da maden ocağında göçük: 1 işçi mahsur DHA | Demirören Haber Ajansı",
       "lat": 40.8445,
       "lng": 31.6158,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-6c0f3c447f4c",
+      "baslik": "Sinop'ta orman yangını: 10 hektarlık alan zarar gördü - Cumhuriyet",
+      "konum": "Sinop",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWwyeE1wTHpvUXNRRWxzUFNxRl9wbVc0VklHVXUwZ0k5MnplQ0t3cmxSODJXeGJZenVzVGd6SzdlNk9kT1dmZWJCOWdrVGxIYmx5dVo2VGJteHdRUFM3X01nU3RaeDVvYUE4eGFIRFBLbjJ2ODVSQmI0UG51T1FLSUFDMzJzLS1IQVY3TEZwcmFoZ2xMWmh5aDlqRTdFU2s?oc=5",
+      "ozet": "Sinop'ta orman yangını: 10 hektarlık alan zarar gördü Cumhuriyet",
+      "lat": 41.9375,
+      "lng": 35.2391,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
