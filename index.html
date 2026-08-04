@@ -226,6 +226,7 @@ body.pkmode #map{cursor:crosshair !important;}
       </div>
       <div class="dtb admin-only" style="display:none">
         <button class="hbtn" id="scanbtn" title="GitHub Actions'taki haber tarama workflow'unu hemen çalıştırır">🛰️ Manuel Tarama Başlat</button>
+        <button class="hbtn" id="tokenbtn" title="GitHub tokenını bir kez kaydet, bir daha sorulmasın">🔑 Token Ayarla</button>
       </div>
       <div class="dtb admin-only" style="display:none">
         <button class="hbtn" id="delCatBtn">🗑️ Kategori Sil</button>
@@ -310,7 +311,7 @@ const ALT_KATEGORILER = [
 let data=[], mkrs={}, lgs={}, vis={}, editId=null, pkMode=false, pkCb=null, confCb=null;
 let fTxt='', fIlce='', fDrm='';
 let isAdmin=false, pendingAdminAction=null;
-let githubToken = sessionStorage.getItem('github_token') || null;
+let githubToken = localStorage.getItem('github_token') || sessionStorage.getItem('github_token') || null;
 let repoOwner = 'ipapila', repoName = 'Turkiye-katmanlar', repoPath = 'data.json';
 let workflowFile = 'haber-tarama.yml'; // .github/workflows/ altındaki dosya adı
 
@@ -599,8 +600,35 @@ async function load(){
 function saveLocal(){ localStorage.setItem(SK,JSON.stringify(data)); ntf('Yerel kaydedildi','ok'); }
 function exportJSON(){ const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));a.download=`turkiye-alan-${tod()}.json`;a.click();ntf('JSON indirildi','ok');}
 function exportGeoJSON(){const features=data.filter(r=>r.koordinatlar?.lat).map(r=>({type:'Feature',properties:{...r,koordinatlar:undefined},geometry:{type:'Point',coordinates:[r.koordinatlar.lng,r.koordinatlar.lat]}}));const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify({type:'FeatureCollection',features},null,2)],{type:'application/geo+json'}));a.download=`turkiye-alan-${tod()}.geojson`;a.click();ntf('GeoJSON indirildi','ok');}
+function setGithubToken(){
+  const mevcut = githubToken || '';
+  const girilen = prompt(
+    mevcut
+      ? 'GitHub tokenı güncelle (kayıtlı — değiştirmek için yeni değeri yapıştır, silmek için boş bırakıp Tamam\'a bas):'
+      : 'GitHub kişisel erişim tokenı (repo + workflow izni) girin — bir kez kaydedilir, tekrar sorulmaz:',
+    mevcut
+  );
+  if(girilen===null) return; // İptal — mevcut token korunur
+  if(girilen.trim()===''){
+    githubToken=null;
+    localStorage.removeItem('github_token');
+    sessionStorage.removeItem('github_token');
+    ntf('Token silindi','ok');
+  } else {
+    githubToken=girilen.trim();
+    localStorage.setItem('github_token',githubToken);
+    ntf('Token kaydedildi — bundan sonra tekrar sorulmayacak','ok');
+  }
+  updateTokenUI();
+}
+function updateTokenUI(){
+  const btn=document.getElementById('tokenbtn');
+  if(!btn) return;
+  if(githubToken){ btn.textContent='🔑 Token: Kayıtlı ✓'; btn.style.borderColor='var(--success)'; }
+  else { btn.textContent='🔑 Token Ayarla'; btn.style.borderColor=''; }
+}
 async function syncToGitHub(){
-  if(!githubToken){ const token=prompt('GitHub kişisel erişim tokenı (repo yazma izni) girin:'); if(!token)return; githubToken=token; sessionStorage.setItem('github_token',githubToken); }
+  if(!githubToken){ setGithubToken(); if(!githubToken) return; }
   const apiUrl=`https://api.github.com/repos/${repoOwner}/${repoName}/contents/${repoPath}`;
   let sha=null;
   try{ const getRes=await fetch(apiUrl,{headers:{Authorization:`Bearer ${githubToken}`}}); if(getRes.ok){ const info=await getRes.json(); sha=info.sha; } else if(getRes.status!==404) throw new Error(`HTTP ${getRes.status}`); }catch(e){ ntf(`SHA alınamadı: ${e.message}`,'err'); return; }
@@ -614,7 +642,7 @@ async function syncToGitHub(){
 }
 
 async function triggerScan(){
-  if(!githubToken){ const token=prompt('GitHub kişisel erişim tokenı (repo + workflow izni) girin:'); if(!token)return; githubToken=token; sessionStorage.setItem('github_token',githubToken); }
+  if(!githubToken){ setGithubToken(); if(!githubToken) return; }
   const btn=document.getElementById('scanbtn');
   const eskiMetin=btn.textContent;
   btn.disabled=true; btn.textContent='⏳ Başlatılıyor…';
@@ -999,7 +1027,7 @@ function requireAdmin(action){if(isAdmin){action();return;}pendingAdminAction=ac
 function checkAdmin(){const v=document.getElementById('adminpass').value;if(v===ADMIN_PASS){isAdmin=true;const rem=document.getElementById('adminRemember');if(rem&&rem.checked){localStorage.setItem('ekoloji_admin_remember','1');}else{localStorage.removeItem('ekoloji_admin_remember');}document.getElementById('adminov').style.display='none';updateAdminUI();if(pendingAdminAction){pendingAdminAction();pendingAdminAction=null;}}else{document.getElementById('adminErr').style.display='block';document.getElementById('adminpass').value='';document.getElementById('adminpass').focus();}}
 function closeAdminMod(){document.getElementById('adminov').style.display='none';pendingAdminAction=null;}
 function adminLogout(){isAdmin=false;localStorage.removeItem('ekoloji_admin_remember');updateAdminUI();ntf('Çıkış yapıldı','ok');}
-function updateAdminUI(){const btn=document.getElementById('adminbtn');if(isAdmin){btn.textContent='🔓 Çıkış';btn.style.borderColor='var(--success)';}else{btn.textContent='🔒 Admin';btn.style.borderColor='';}document.querySelectorAll('.admin-only').forEach(el=>el.style.display=isAdmin?'':'none');}
+function updateAdminUI(){const btn=document.getElementById('adminbtn');if(isAdmin){btn.textContent='🔓 Çıkış';btn.style.borderColor='var(--success)';}else{btn.textContent='🔒 Admin';btn.style.borderColor='';}document.querySelectorAll('.admin-only').forEach(el=>el.style.display=isAdmin?'':'none');updateTokenUI();}
 
 // ---------- EVENTLER ----------
 let dark=true;
@@ -1012,6 +1040,7 @@ document.getElementById('impbtn').addEventListener('click',()=>document.getEleme
 document.getElementById('impfile').addEventListener('change',e=>{if(e.target.files[0])impD(e.target.files[0]);e.target.value='';});
 document.getElementById('ghsavebtn').addEventListener('click',()=>requireAdmin(syncToGitHub));
 document.getElementById('scanbtn').addEventListener('click',()=>requireAdmin(triggerScan));
+document.getElementById('tokenbtn').addEventListener('click',()=>requireAdmin(setGithubToken));
 document.getElementById('delCatBtn').addEventListener('click',()=>requireAdmin(openCatModal));
 document.getElementById('groupResBtn').addEventListener('click',()=>requireAdmin(()=>groupRESData(2000)));
 document.getElementById('rstbtn').addEventListener('click',()=>requireAdmin(rstD));
