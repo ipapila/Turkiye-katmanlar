@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-04T08:25:11.777099+00:00",
-    "toplam": 120,
-    "harita_kayit_sayisi": 6443,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "guncelleme": "2026-08-04T11:17:35.136398+00:00",
+    "toplam": 129,
+    "harita_kayit_sayisi": 6444,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "5487a4842c11",
+      "baslik": "Avrupa'daki yangınlar zeytin yağı fiyatlarını vurdu",
+      "ozet": "Avrupa'daki yangınlar zeytin yağı fiyatlarını vurdu",
+      "url": "https://www.sozcu.com.tr/avrupa-daki-yanginlar-zeytin-yagi-fiyatlarini-vurdu-p342273",
+      "tarih": "2026-08-04T11:05:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f314cf81f1f9",
+      "baslik": "NATO nükleer silah yerleştireceği üç ülkeyi seçti",
+      "ozet": "NATO nükleer silah yerleştireceği üç ülkeyi seçti",
+      "url": "https://www.sozcu.com.tr/nato-nukleer-silah-yerlestirecegi-uc-ulkeyi-secti-p342278",
+      "tarih": "2026-08-04T10:33:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ad24eda9c524",
+      "baslik": "Küçük çocuğun tek kelimesi yetti: Fatih Terim'in kızı Merve gece yarısı denize atladı",
+      "ozet": "Küçük çocuğun tek kelimesi yetti: Fatih Terim'in kızı Merve gece yarısı denize atladı",
+      "url": "https://www.sozcu.com.tr/kucuk-cocugun-tek-kelimesi-yetti-fatih-terim-in-kizi-merve-gece-yarisi-denize-atladi-p342272",
+      "tarih": "2026-08-04T10:15:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5df040280486",
+      "baslik": "İklim Krizi Finansal İstikrarı da Tehdit Ediyor",
+      "ozet": "Avrupa aşırı sıcak hava dalgalarının ve orman yangınlarının pençesinde bir yaz geçirirken, Avrupa Merkez Bankası Yönetim Kurulu Üyesi Frank Elderson, iklim krizinin finansal istikrar için giderek büyüyen bir tehdit oluşturduğu uyarısında bulundu. Elderson ayrıca ekosistem hizmetl",
+      "url": "https://www.iklimhaber.org/iklim-krizi-finansal-istikrari-da-tehdit-ediyor/",
+      "tarih": "2026-08-04T09:36:36+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1736e382da87",
+      "baslik": "Afşin Elbistan’daki Termik Santralda Ek Ünite İptaline Bakanlık ve Şirketten İtiraz",
+      "ozet": "Çevre, Şehi̇rci̇li̇k ve İkli̇m Deği̇şi̇kli̇ği̇ Bakanlığı ve Çelikler Holding, Afşin-Elbistan A Termik Santralı’na yapılması planlanan ek ünitelerin ÇED olumlu raporunun iptaline birkaç gün arayla ayrı ayrı itiraz etti. Bakanlığın itiraz dilekçesinde COP31 Başkanlığının logosu y",
+      "url": "https://www.iklimhaber.org/afsin-elbistandaki-termik-santralda-ek-unite-iptaline-bakanlik-ve-sirketten-itiraz/",
+      "tarih": "2026-08-04T08:25:12+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "79133d340b56",
       "baslik": "Cem Küçük büyük bir hesaplaşmanın parçası mı? Sıra medyadan kimlere gelecek",
@@ -272,6 +322,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "42bacaef64ee",
+      "baslik": "Bolu’da maden ocağında göçük: 1 işçi mahsur - DHA | Demirören Haber Ajansı",
+      "ozet": "Bolu’da maden ocağında göçük: 1 işçi mahsur DHA | Demirören Haber Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTRsaXlONXN1Qk1jdVpyNFVEbDVFWHNKTE5xUDc2ZjMxQmdacEt5ZDA0RjQxdEsxX1AtNDQzdEx1SGFhdmNMREdIRGV5NnE0TnlYTXRGWjBQNFBoSHVfRlhSQlprVTZPYVRhc0pJVGRNbHUzalJKSWdlS1Q5LTN5T25WOG5mUzEyMDZCTWV1RWNpOWZmd3Q5dUdXcW1GQnfSAaQBQVVfeXFMUDhRQjk3Tlo3em5DcDhKcHQzUVd0QWJmbTVPR0I4ZWZmRGROcV9oYXVwdzI4Sm5PemFKSFplbFhBUTdoSXl1TXdLX2Z1T0JnZU43Uy1vQTNvQ19TWDkyektpYzVqLTJPYW9Gd3BrV3ZVZWs1VnRPcUdmTDVSdWp1X191dWdRTWFuVmlPTTVUQURjUk91REpGVXMzLVN4YTljRU16TTQ?oc=5",
+      "tarih": "2026-06-17T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "7879b9ddb3dc",
       "baslik": "Maden ocağında çıkan yangın 6 gündür sürüyor - dha.com.tr",
       "ozet": "Maden ocağında çıkan yangın 6 gündür sürüyor dha.com.tr",
@@ -427,6 +487,16 @@
       "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri Cumhuriyet",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQakRYZWFVZ3VSRWNYUFZlUWdnSmVtalRXeW96R2JKMkcxd2d5ZHA2T0w5Y3JhVDlLMV9DNFpRWXZpbUhkaXZEWDZvUS1obVpxZWFDQjJkQTBUMXNVSEpJS2pjcFE4dl8wcE5sSmFOYnltMi1JTHhHNVMtRUxsVHJxaGN4TDlnejZKa05aeXktdHVfUWdGRG5NWmFIOVM3ZUQ5Uy12RHdPbzNkcXM5WGswNEpIOXY3SUZfdDFFMzR0bkZrUmk2eWd4VS1FWkhxMDJiRWY1d3RyVGNsWW01NElJbERNS2tmOGFVbGNwYUlkZlUzTjJiYVc0QkNNMUotdw?oc=5",
       "tarih": "2026-04-27T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4ce814e70209",
+      "baslik": "“Sistematik çevre ihlali endişe veriyor” - haberekspres.com.tr",
+      "ozet": "“Sistematik çevre ihlali endişe veriyor” haberekspres.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bFpySWdKMUNJcHZMMnoyRkN5aDN4ZXBLaFRaLVVMc3IxV0Z5WklJSWlTZl9uTGt4NXNwZVRxX1V0aExEUnNVSmdxemU0SkUzNG5rLVY2TFZIbVBfR3c0ZGFJVUVsVm5iVzVYUFhZb0xVeXlmd1htV0hn0gF_QVVfeXFMTXp6eUlQNklYRjVTdW84YjFtRDlXU0piVFRnaVNNVktZWVNvQk05XzU0YlV6N2E1SzZMdTBPdVFJZmo3cGhzbUVCTjhuU2hBUGFINFBoVFZqSGUwVi02R2E5MFZLWG5nT2VjQXBUb1dES2ctcjFTWWJJVkZtZmxhQQ?oc=5",
+      "tarih": "2026-04-24T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
@@ -872,6 +942,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "12ff5c27a653",
+      "baslik": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı - Euronews",
+      "ozet": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı Euronews",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblE3X0xLakdsY1RIb21jRDVYVEdJakc2Q1R1eGVxMnFnZUJnVzJNMnRoSUZ0SWowSlBNRzA3dmdCTTUyc1ZOMHFNMTBwWDNwd0R5c0Y0MThfMFYzME84TWM5TkNUc01WVlVxTUk2QzBMMjZ6N3JDZFFYRFhnSVJaTXV4Q0M0ejAyNUViV3dBUG9vY2tCLUVaV2JjMWwxZFAzcWNicDIzNFVrZ3J2MmdianhGQU0zT3lvQmhXLXJLLVRLT2c?oc=5",
+      "tarih": "2025-07-19T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "af8759141f39",
       "baslik": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı - tr.euronews.com",
       "ozet": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı tr.euronews.com",
@@ -917,6 +997,16 @@
       "ozet": "1985'den beri 30 kez değiştirildi: 'En tehlikeli maden kanunu teklifi' TBMM'de görüşülecek Gazete Oksijen",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGp3RmFtYUo1WVdMd1U1WkdIc1YxN1M2T0Z0enhxTjFmdXIyRmY1eVBKVGpUdDZ4aGZiTFdfQjZWWUtQT0RDQzBET3B3SWJlQncyQlRJa1JRbC1QZzNiR0dWc1Z0dVpPVGMxMF9aLWRXSWxwazFwNEFTTzdzWHlWcFROQ2hlak1BRzFLQmZvcTBTUmdkU1JLVXV2WEFQeDAtY0N0aVFSSHlRQ2w4RjdUUWwxQk5mNEw5b2IwN2d0SWdFbDJX?oc=5",
       "tarih": "2025-06-23T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "83aea0197a56",
+      "baslik": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? - Euronews",
+      "ozet": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? Euronews",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWW5jdXEyVi1oaGNGajFtZVZjTXdHM0Q3QW5mblE3UkxQZDJCSVc5OTVzYzNScTR3d0V6T1hvTDJVMVgzYXA4bHBNZlU4VjZ1V184WVV3VllxdHNGVHlnaWljQjdrb1k0UDl2V1BCY01aOHpEOHZLdHJhTlg3T3haU0pJTXB4cDZJUWttMmRPQzhzc0ZrZEFwc2RwWTJwS1VuMk95TDZXdjdCZVZPaFlkRmdhclU1WnZYYUNYd1VJQ2Y5SXM?oc=5",
+      "tarih": "2025-06-20T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
@@ -91412,6 +91502,20 @@
       "ozet": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı Diken",
       "lat": 40.1985,
       "lng": 29.1675,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-42bacaef64ee",
+      "baslik": "Bolu’da maden ocağında göçük: 1 işçi mahsur - DHA | Demirören Haber Ajansı",
+      "konum": "Bolu",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTRsaXlONXN1Qk1jdVpyNFVEbDVFWHNKTE5xUDc2ZjMxQmdacEt5ZDA0RjQxdEsxX1AtNDQzdEx1SGFhdmNMREdIRGV5NnE0TnlYTXRGWjBQNFBoSHVfRlhSQlprVTZPYVRhc0pJVGRNbHUzalJKSWdlS1Q5LTN5T25WOG5mUzEyMDZCTWV1RWNpOWZmd3Q5dUdXcW1GQnfSAaQBQVVfeXFMUDhRQjk3Tlo3em5DcDhKcHQzUVd0QWJmbTVPR0I4ZWZmRGROcV9oYXVwdzI4Sm5PemFKSFplbFhBUTdoSXl1TXdLX2Z1T0JnZU43Uy1vQTNvQ19TWDkyektpYzVqLTJPYW9Gd3BrV3ZVZWs1VnRPcUdmTDVSdWp1X191dWdRTWFuVmlPTTVUQURjUk91REpGVXMzLVN4YTljRU16TTQ?oc=5",
+      "ozet": "Bolu’da maden ocağında göçük: 1 işçi mahsur DHA | Demirören Haber Ajansı",
+      "lat": 40.8445,
+      "lng": 31.6158,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
