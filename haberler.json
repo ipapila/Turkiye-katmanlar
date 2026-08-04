@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-04T05:41:04.498081+00:00",
-    "toplam": 109,
-    "harita_kayit_sayisi": 6441,
+    "guncelleme": "2026-08-04T08:25:11.777099+00:00",
+    "toplam": 120,
+    "harita_kayit_sayisi": 6443,
     "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "79133d340b56",
+      "baslik": "Cem Küçük büyük bir hesaplaşmanın parçası mı? Sıra medyadan kimlere gelecek",
+      "ozet": "Cem Küçük büyük bir hesaplaşmanın parçası mı? Sıra medyadan kimlere gelecek",
+      "url": "https://www.sozcu.com.tr/cem-kucuk-buyuk-bir-hesaplasmanin-parcasi-mi-sira-medyadan-kimlere-gelecek-p342221",
+      "tarih": "2026-08-04T07:56:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "37d682dd0943",
+      "baslik": "YENİ Partili Rızvanoğlu: “Türkiye’nin Doğayla Barışık Bir Çevre Politikasına İhtiyacı Var”",
+      "ozet": "İktidarın çevre alanında kara bir düzen kurduğunu söyleyen YENİ Partili Evrim Rızvanoğlu, “Kişiye özel düzenlemelerle, torba yasalarla, işlevsizleştirilen ÇED süreçleriyle ve ülkeyi parsel parsel ruhsatlayan anlayışla doğayı değil, rantı önceleyen bir sistem kurdular” dedi. YENİ ",
+      "url": "https://www.iklimhaber.org/yeni-partili-rizvanoglu-turkiyenin-dogayla-barisik-bir-cevre-politikasina-ihtiyaci-var/",
+      "tarih": "2026-08-04T07:37:34+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3c4369c7d9b7",
+      "baslik": "Borsa güne düşüşle başladı -4 Ağustos 2026",
+      "ozet": "Borsa güne düşüşle başladı -4 Ağustos 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-4-agustos-2026-p342212",
+      "tarih": "2026-08-04T07:37:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "581620181249",
       "baslik": "YENİ Partili Rızvanoğlu: “Türkiye Mega Maden Ruhsatlarıyla Parsel Parsel Bölündü”",
@@ -212,6 +242,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "9de24538118c",
+      "baslik": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı - Aksiyon.com.TR",
+      "ozet": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı Aksiyon.com.TR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkQtUllITFVtNXBIVVFQMzg5cFMzM0NxSkwwdzBmVGFuam11XzNPYUFVc1NNOTkzYnozLTlWMkJBM0RGSzgzb09NdkFEWEV6VkN4OVNxejVDS2ZjVGhBdEVGQVNLUWwxR2YwQ1dOUkNTQ0tWUWxlY044Zm16WW9ieFhvWG1GLW50TGk0SUExUzVfb0FMcHJLNXFsajZpMjMyUnY0MDJOY1dfQUpsaFHSAbMBQVVfeXFMTVBXbmw0dGNZMmQtRDZaWUtFZGlUeEJfampkakNMdnh6TkVUZEpxN2Q0bmlWbjFoZ1NNSmNvWVAydHVPOVQwbG1hSkxiU2t5dnNjT2V4eER6VURZSVdCSG5oenhXUzVVeTdWa1F4LXpRd0hHV0kycTh0bzZXRS1sbzdDNV9nMzJ5YnZGR3psaXZISmdHQjZVNEk0WEl3VGVKLXFaQ1hVTWc3Z3lSU0VUY0ZLdUk?oc=5",
+      "tarih": "2026-07-25T10:44:28+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "f4a6d1a75377",
       "baslik": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası İhlas Haber Ajansı - İhlas Haber Ajansı",
       "ozet": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası İhlas Haber Ajansı İhlas Haber Ajansı",
@@ -232,11 +272,41 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "7879b9ddb3dc",
+      "baslik": "Maden ocağında çıkan yangın 6 gündür sürüyor - dha.com.tr",
+      "ozet": "Maden ocağında çıkan yangın 6 gündür sürüyor dha.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPREdKdUlTUDl6akRkbzJxYk1hWmhXWV9pd2dQYmljVGVPa2MtSHVyWFhTUzV6aE1FM29kd1hSU1RndDR4Tml6M3VDZ2tqSG9BbzBCOG9PbFhidklJZGFYSV9qS2FLellFMUVuVUZCWEpYUW1hWUtjaHptc1ZENmEwakpjT0Fzb29GQzItTWFzT3BrVE9RcWxCNTVRbzdYZDVKTF9FTXFla9IBqwFBVV95cUxOeGRkNnJvdUszWWY0RUxTcm03QTFKZDhSWWxXSFM1SjBsOTJTTlcwX0dxZmZMeVd4RVhGZ0d0MXZWalNCZGl5aElHZHlMSTQyT1R1T1Z5WWNlcXRhWGg0MkRZbmVDQmJOSnJJbVJoU0ItV1NFSFlBbkYtZXBaZGdpQzhndWZhLVo2VEN1TjNoejdIMm8wcHdCS2o2NDdlSXE3ZkJ4UE5tdmJtS1E?oc=5",
+      "tarih": "2026-06-11T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "497926c37070",
       "baslik": "Maden ocağında çıkan yangın 6 gündür sürüyor - DHA | Demirören Haber Ajansı",
       "ozet": "Maden ocağında çıkan yangın 6 gündür sürüyor DHA | Demirören Haber Ajansı",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPREdKdUlTUDl6akRkbzJxYk1hWmhXWV9pd2dQYmljVGVPa2MtSHVyWFhTUzV6aE1FM29kd1hSU1RndDR4Tml6M3VDZ2tqSG9BbzBCOG9PbFhidklJZGFYSV9qS2FLellFMUVuVUZCWEpYUW1hWUtjaHptc1ZENmEwakpjT0Fzb29GQzItTWFzT3BrVE9RcWxCNTVRbzdYZDVKTF9FTXFla9IBqwFBVV95cUxOeGRkNnJvdUszWWY0RUxTcm03QTFKZDhSWWxXSFM1SjBsOTJTTlcwX0dxZmZMeVd4RVhGZ0d0MXZWalNCZGl5aElHZHlMSTQyT1R1T1Z5WWNlcXRhWGg0MkRZbmVDQmJOSnJJbVJoU0ItV1NFSFlBbkYtZXBaZGdpQzhndWZhLVo2VEN1TjNoejdIMm8wcHdCS2o2NDdlSXE3ZkJ4UE5tdmJtS1E?oc=5",
       "tarih": "2026-06-11T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0f13fc312ebc",
+      "baslik": "Bakan Bayraktar, Doruk Madencilik işçileriyle bir araya geldi - dha.com.tr",
+      "ozet": "Bakan Bayraktar, Doruk Madencilik işçileriyle bir araya geldi dha.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ25MWDg0NDBZVDFMN0xEUUhINnBJQXJaa0dsQWZlSHd0M1VIbDFvaE5jRkRVV2pyOG9lMjFYUHlMdlNBR29XOTVYb1JlWXRSUzhTN1ZULTNOMU1uVFdsb2dacVE5OUpPcXJMV0o4YktlY0JJV2N1MGs1VlU4QkJsNjVFSnNxaVBBME9Ld3JrVUViYmJSaEtuUnEwNW1LbDQ20gGkAUFVX3lxTFBpMGg1QVF4VE54NThSNWpPN0NvUVFZVmVZM0h5a2dWVmNtM3BKaWI4Y0g1NC1wb2RINDlxUjRvUEpkR2RBWGlJMDVOR2JEZDFVVFN2OTM0dF9RcXg5Y1NtTDBzSkh4QllDbTJwdVVOeGNHV1pzSE9jbU4xcVVITjhYWlpzanRNSkNpYXg0MkhPM3FwZGdtSHBBSEtLUVA4YkwweDVK?oc=5",
+      "tarih": "2026-06-10T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5ce8fda2fc7b",
+      "baslik": "Bakan Işıkhan, Doruk Madencilik işçilerini kabul etti - dha.com.tr",
+      "ozet": "Bakan Işıkhan, Doruk Madencilik işçilerini kabul etti dha.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDg0eXlacmZDRi10Sk02RzMtOWlmX1c4d01EOUY1WW8zSVdvV1lJTm9ZdUVJUXVtaExvZWJCUHQtbTVPc051UHVLN0VTV2E5Y1UydnBzbVFTZ3JhZzYyMElIbTd5ZE5wVTlzdl9mYzRIM3JIbVRLa29wcGFDYl84RE1VVnF4TEZENll5MUdXVDByeFhhcDAwZzFBTHlkbmVz0gGkAUFVX3lxTE9BVXEyU0RvLVpsemtYc2VUWjFicFJDNHZYRlNDcHE3TlEtcGVOZ1VnVy1rMEpfYjIwYWtDVWV4bUV0aEpVNHA1YmhrcU9LQjJfUWZ3Z09jSTloZ0pldDk2YlJUeXp0c0lRbFBtb05xejV5YjFLNG1XejduVkJNRnExdlNrYWxNeEZ1UlYtcUVKVzZWeUNoRWt4eHBhdG1HMGNnSUt5?oc=5",
+      "tarih": "2026-06-10T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
@@ -399,6 +469,16 @@
       "tarih": "2026-03-10T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bb5e9c559365",
+      "baslik": "Maden projeleri milli parklar için tehdit oluşturuyor: Kontrolsüz madenciliğin itirafı - Cumhuriyet",
+      "ozet": "Maden projeleri milli parklar için tehdit oluşturuyor: Kontrolsüz madenciliğin itirafı Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV251eEdsNE9scFhOVk92VFBqRGt1UklYcktvblJ6MHJOdy1tU3Vvd1pmWkNNNEo4RG56VTR6eHRyV0FlSHVLYk5BNms1ZjFuaXVEcWg5cC1jQTJITGZSeE1DSEgxbTgzRVc1bUNEVmpyYnRBclUzSDZCSlgzR3JuUWlmUjJiMUl1VnpWeHhfd3AtczRrTVdNWW9ZQTNSdXVURDViVDlVU0xKRldaME4ybXpIbkxraFdvLVdTbWswVlhxUjhLeEhsNw?oc=5",
+      "tarih": "2026-03-07T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
     },
     {
@@ -742,6 +822,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "4cb07b35c6a6",
+      "baslik": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı - Diken",
+      "ozet": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı Diken",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXZlc0pQLXRFWTB5aENRdElsN2ZNbHp2V1plVmZTUzdRMFh3ZnpjRWZCZmoxcG1wQnFxUC03MmFHT1dDeUFkZFQweWw4R0ZYd3AwaDBfUkFncnNudHIyd2VyZFJPVkVLYWNrdWZST19XZFVTTUhWRVRYN2xBWk1obFg5cGRqRndCYzd2ZXFSRmVfQ1F4dUJMTHRjSGhuQ2M?oc=5",
+      "tarih": "2025-07-28T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "74714f9558a5",
       "baslik": "Bursa'da yanan ormanlık alan için \"ÇED gerekli değil\" kararı alınmış, maden sahası ilan edilmiş - T24",
       "ozet": "Bursa'da yanan ormanlık alan için \"ÇED gerekli değil\" kararı alınmış, maden sahası ilan edilmiş T24",
@@ -782,6 +872,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "af8759141f39",
+      "baslik": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı - tr.euronews.com",
+      "ozet": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı tr.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblE3X0xLakdsY1RIb21jRDVYVEdJakc2Q1R1eGVxMnFnZUJnVzJNMnRoSUZ0SWowSlBNRzA3dmdCTTUyc1ZOMHFNMTBwWDNwd0R5c0Y0MThfMFYzME84TWM5TkNUc01WVlVxTUk2QzBMMjZ6N3JDZFFYRFhnSVJaTXV4Q0M0ejAyNUViV3dBUG9vY2tCLUVaV2JjMWwxZFAzcWNicDIzNFVrZ3J2MmdianhGQU0zT3lvQmhXLXJLLVRLT2c?oc=5",
+      "tarih": "2025-07-19T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "aed6b0116cc5",
       "baslik": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı - Euronews.com",
       "ozet": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı Euronews.com",
@@ -817,6 +917,16 @@
       "ozet": "1985'den beri 30 kez değiştirildi: 'En tehlikeli maden kanunu teklifi' TBMM'de görüşülecek Gazete Oksijen",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGp3RmFtYUo1WVdMd1U1WkdIc1YxN1M2T0Z0enhxTjFmdXIyRmY1eVBKVGpUdDZ4aGZiTFdfQjZWWUtQT0RDQzBET3B3SWJlQncyQlRJa1JRbC1QZzNiR0dWc1Z0dVpPVGMxMF9aLWRXSWxwazFwNEFTTzdzWHlWcFROQ2hlak1BRzFLQmZvcTBTUmdkU1JLVXV2WEFQeDAtY0N0aVFSSHlRQ2w4RjdUUWwxQk5mNEw5b2IwN2d0SWdFbDJX?oc=5",
       "tarih": "2025-06-23T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "af0375f1db06",
+      "baslik": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? - tr.euronews.com",
+      "ozet": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? tr.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWW5jdXEyVi1oaGNGajFtZVZjTXdHM0Q3QW5mblE3UkxQZDJCSVc5OTVzYzNScTR3d0V6T1hvTDJVMVgzYXA4bHBNZlU4VjZ1V184WVV3VllxdHNGVHlnaWljQjdrb1k0UDl2V1BCY01aOHpEOHZLdHJhTlg3T3haU0pJTXB4cDZJUWttMmRPQzhzc0ZrZEFwc2RwWTJwS1VuMk95TDZXdjdCZVZPaFlkRmdhclU1WnZYYUNYd1VJQ2Y5SXM?oc=5",
+      "tarih": "2025-06-20T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
@@ -91274,6 +91384,34 @@
       "ozet": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
       "lat": 38.3478,
       "lng": 27.0263,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-9de24538118c",
+      "baslik": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı - Aksiyon.com.TR",
+      "konum": "Samsun",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkQtUllITFVtNXBIVVFQMzg5cFMzM0NxSkwwdzBmVGFuam11XzNPYUFVc1NNOTkzYnozLTlWMkJBM0RGSzgzb09NdkFEWEV6VkN4OVNxejVDS2ZjVGhBdEVGQVNLUWwxR2YwQ1dOUkNTQ0tWUWxlY044Zm16WW9ieFhvWG1GLW50TGk0SUExUzVfb0FMcHJLNXFsajZpMjMyUnY0MDJOY1dfQUpsaFHSAbMBQVVfeXFMTVBXbmw0dGNZMmQtRDZaWUtFZGlUeEJfampkakNMdnh6TkVUZEpxN2Q0bmlWbjFoZ1NNSmNvWVAydHVPOVQwbG1hSkxiU2t5dnNjT2V4eER6VURZSVdCSG5oenhXUzVVeTdWa1F4LXpRd0hHV0kycTh0bzZXRS1sbzdDNV9nMzJ5YnZGR3psaXZISmdHQjZVNEk0WEl3VGVKLXFaQ1hVTWc3Z3lSU0VUY0ZLdUk?oc=5",
+      "ozet": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı Aksiyon.com.TR",
+      "lat": 41.2165,
+      "lng": 36.3912,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-4cb07b35c6a6",
+      "baslik": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı - Diken",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXZlc0pQLXRFWTB5aENRdElsN2ZNbHp2V1plVmZTUzdRMFh3ZnpjRWZCZmoxcG1wQnFxUC03MmFHT1dDeUFkZFQweWw4R0ZYd3AwaDBfUkFncnNudHIyd2VyZFJPVkVLYWNrdWZST19XZFVTTUhWRVRYN2xBWk1obFg5cGRqRndCYzd2ZXFSRmVfQ1F4dUJMTHRjSGhuQ2M?oc=5",
+      "ozet": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı Diken",
+      "lat": 40.1985,
+      "lng": 29.1675,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

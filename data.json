@@ -116930,5 +116930,43 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/son-dakika-izmir-menderes-belediyesi-ne-operasyon-belediye-baskani-ilkay-cicek-gozaltinda-p342139"
+  },
+  {
+    "id": "tarayici-9de24538118c",
+    "tip": "Ekolojik İhlal",
+    "ad": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı - Aksiyon.com.TR",
+    "il": "Samsun",
+    "ilce": "",
+    "aciklama": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı Aksiyon.com.TR",
+    "koordinatlar": {
+      "lat": 41.2165,
+      "lng": 36.3912
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkQtUllITFVtNXBIVVFQMzg5cFMzM0NxSkwwdzBmVGFuam11XzNPYUFVc1NNOTkzYnozLTlWMkJBM0RGSzgzb09NdkFEWEV6VkN4OVNxejVDS2ZjVGhBdEVGQVNLUWwxR2YwQ1dOUkNTQ0tWUWxlY044Zm16WW9ieFhvWG1GLW50TGk0SUExUzVfb0FMcHJLNXFsajZpMjMyUnY0MDJOY1dfQUpsaFHSAbMBQVVfeXFMTVBXbmw0dGNZMmQtRDZaWUtFZGlUeEJfampkakNMdnh6TkVUZEpxN2Q0bmlWbjFoZ1NNSmNvWVAydHVPOVQwbG1hSkxiU2t5dnNjT2V4eER6VURZSVdCSG5oenhXUzVVeTdWa1F4LXpRd0hHV0kycTh0bzZXRS1sbzdDNV9nMzJ5YnZGR3psaXZISmdHQjZVNEk0WEl3VGVKLXFaQ1hVTWc3Z3lSU0VUY0ZLdUk?oc=5"
+  },
+  {
+    "id": "tarayici-4cb07b35c6a6",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı - Diken",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı Diken",
+    "koordinatlar": {
+      "lat": 40.1985,
+      "lng": 29.1675
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXZlc0pQLXRFWTB5aENRdElsN2ZNbHp2V1plVmZTUzdRMFh3ZnpjRWZCZmoxcG1wQnFxUC03MmFHT1dDeUFkZFQweWw4R0ZYd3AwaDBfUkFncnNudHIyd2VyZFJPVkVLYWNrdWZST19XZFVTTUhWRVRYN2xBWk1obFg5cGRqRndCYzd2ZXFSRmVfQ1F4dUJMTHRjSGhuQ2M?oc=5"
   }
 ]
