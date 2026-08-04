@@ -1,7 +1,7 @@
 {
   "meta": {
-    "guncelleme": "2026-08-04T16:47:40.680135+00:00",
-    "toplam": 140,
+    "guncelleme": "2026-08-04T19:21:07.347512+00:00",
+    "toplam": 143,
     "harita_kayit_sayisi": 6445,
     "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "56ed2e6dae53",
+      "baslik": "Ülkenin verimli tarım arazileri tuzla kaplandı",
+      "ozet": "Ülkenin verimli tarım arazileri tuzla kaplandı",
+      "url": "https://www.sozcu.com.tr/ulkenin-verimli-tarim-arazileri-tuzla-kaplandi-p342393",
+      "tarih": "2026-08-04T18:32:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "df99b8c98cc4",
       "baslik": "Fast-food devi resmen iflas etti",
@@ -582,6 +592,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "519ea77e8579",
+      "baslik": "Ulaştırma projeleri için acele kamulaştırma kararı: 4 İli kapsıyor - ticarigm360.com",
+      "ozet": "Ulaştırma projeleri için acele kamulaştırma kararı: 4 İli kapsıyor ticarigm360.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG0ySDc1SWdFQkhFLXRlX1FqZEFsOWRsaEpZdmdWc2dGcjlPdEsxX1BXd2lGN2FpWXZrekFUX3J3ZmFVZlkwYi1PWkh5SnQwTXdEdzFUUWVBNEZGcmNCc3ZHUXlvUWQxcUFXOG80M1JZUW9Ia0liWWFVNWgyZmQ4a091NEg1ODJXVlVxU2ZWUWlvSHBpdkxBZXpn?oc=5",
+      "tarih": "2026-04-17T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "b30bafc7b2a1",
       "baslik": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber - Maraş Son Haber",
       "ozet": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber Maraş Son Haber",
@@ -879,6 +899,16 @@
       "tarih": "2025-11-19T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7febb13debb5",
+      "baslik": "Adana’yı zengin edecek keşif: Feke, Saimbeyli ve Kozan’da 10 milyon tonluk maden rezervi bulundu - kucuksaat.com",
+      "ozet": "Adana’yı zengin edecek keşif: Feke, Saimbeyli ve Kozan’da 10 milyon tonluk maden rezervi bulundu kucuksaat.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEtyYkszVWRpc1NROF95eHMzWjZ1MkpkYUx3dXhQR2d5d3NEV2VJeHczakY0cjBXMVRyM2VlY095bk5HRHRyZm9OeWhFR2xlWURQeGZINUZKMlFpN1VZZUtWeEptcS1Nay1jLWYteWlCVDJFLTJFS1B6a1VUNzBKS0R5UzVDUzlVUjJBUFNQMFJLRkp5X2FDb05GQXI1T2FZWmlNXzRJMzhHSi1OV2VxWXJNYXJNQjZzaF9rRS1Dc9IBzwFBVV95cUxNeXN5ckhwM1RNQlB4R1N2UUIyU0FYVDFhckpIN21maXplZGhKNTBFdjFiSG1Ec3ZFeGJGRUJjY3VaNE1CT0JaX3ZTcjYzb2Z1RnQwS2IzbDA2eUt6RGZfTUttWGlnMmF0cFFXOFNHWks3NWxfbmdNTE1adlR0RXBNWGpqa3VjVXhKaVgwQzdBMVIzbGthdTlGQ0pmZjdlek10RXlTTHl4YUgyVUVBRG5fVVlaOC1RcUtTVXc2cUJxdENfUHlsM0E0T1lKSjhmdVU?oc=5",
+      "tarih": "2025-11-08T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
