@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-04T04:21:29.908748+00:00",
-    "toplam": 83,
-    "harita_kayit_sayisi": 6439,
-    "haritaya_eklenen_yeni_kayit": 22,
+    "guncelleme": "2026-08-04T05:41:04.498081+00:00",
+    "toplam": 109,
+    "harita_kayit_sayisi": 6441,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "581620181249",
+      "baslik": "YENİ Partili Rızvanoğlu: “Türkiye Mega Maden Ruhsatlarıyla Parsel Parsel Bölündü”",
+      "ozet": "",
+      "url": "https://www.iklimhaber.org/yeni-partili-rizvanoglu-turkiye-mega-maden-ruhsatlariyla-parsel-parsel-bolundu/",
+      "tarih": "2026-08-04T05:40:47.805092+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "e991f5f54e2d",
+      "baslik": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
+      "ozet": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
+      "url": "https://www.sozcu.com.tr/son-dakika-izmir-menderes-belediyesi-ne-operasyon-belediye-baskani-ilkay-cicek-gozaltinda-p342139",
+      "tarih": "2026-08-04T05:39:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "717c6cde97d3",
+      "baslik": "Galatasaray'ın kalecisi tatil için rotayı Karadeniz'e çevirdi: Köyüne gitti, doğayla iç içe vakit geçirdi",
+      "ozet": "Galatasaray'ın kalecisi tatil için rotayı Karadeniz'e çevirdi: Köyüne gitti, doğayla iç içe vakit geçirdi",
+      "url": "https://www.sozcu.com.tr/galatasaray-in-kalecisi-tatil-icin-rotayi-karadeniz-e-cevirdi-koyune-gitti-dogayla-ic-ice-vakit-p342151",
+      "tarih": "2026-08-04T05:28:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cfdc649ed29c",
+      "baslik": "2 dönüm arazisi olana müstakil ev müjdesi: Resmi Gazete'de yayınlandı",
+      "ozet": "2 dönüm arazisi olana müstakil ev müjdesi: Resmi Gazete'de yayınlandı",
+      "url": "https://www.sozcu.com.tr/tarim-arazisinde-bungalov-yapma-sartlari-degisti-yeni-arazi-siniri-belli-oldu-p342136",
+      "tarih": "2026-08-04T04:50:59+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1cd8ecb05574",
       "baslik": "IUCN: Dünya çapında 16 kıyı kuşu türünün var kalma olasılığı düşüyor",
@@ -222,6 +262,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "47401455b5e8",
+      "baslik": "Çevre ve enerji mevzuatı revize edildi - enerjigunlugu.net",
+      "ozet": "Çevre ve enerji mevzuatı revize edildi enerjigunlugu.net",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODNQV2NEalI5WlB0X2ctbkg4c25JSTBzRW5mYS04dnFlSjdqdWRYY0xwa0tfZHRGemwzZEFzTExianNpMDJFMFZwRFFrNGQtLTNWTllXWTBtdHNoWjlaS2NZY0k3ZlBadXdrNnM0XzB5clVDUEtBdndmWVpVRXNUXzhPWERGSnJ1OHhkLU1VY9IBnwFBVV95cUxNNWE5V3FRU3d0bXc3ZEdRYVVpSFZWV0dhVFBvRHdLeVpfZVB0TUlYN05qUHpsVjQ5S3Jtb3B0S0VGU1VHNHpHbE8yNUw3TDJaNFdxY01PTmF6NkxqOEhjeWp4OFp4bTVOTVkybjUwYTg0eVZscEEwN1ZIU0Fib0RpOHlmVnJTSVZDSzlfU0ZRZ0hhOC1JZTBRcnJnajdkTUk?oc=5",
+      "tarih": "2026-05-22T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "c09df2af19df",
       "baslik": "Çevre ve enerji mevzuatı revize edildi - Enerji Günlüğü",
       "ozet": "Çevre ve enerji mevzuatı revize edildi Enerji Günlüğü",
@@ -252,6 +302,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "93e3b42fd668",
+      "baslik": "CVK Maden'in Çanakkale projesinde ÇED süreci sonlandırıldı - Analiz Gazetesi",
+      "ozet": "CVK Maden'in Çanakkale projesinde ÇED süreci sonlandırıldı Analiz Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlN4V2lwLTV3bEZFM0Fvb3g3SmV3eDh6cUVyTURqVWhiTWlHVC1nTjZ2RWdnNGlnZEVvQkZPZ0JQRFVNdHYyTnNjLVEycmVPQ1gtMUJqcmJ2Tk52RXNCazZlcHlHQU5yazNVZjBqc1Uza1FoOXE1NzNzRjM1aVh0ZWRyaHcyOExneE9EbTBZTjI4TjYyUkZQTmx0aVo0RnEt?oc=5",
+      "tarih": "2026-05-11T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "b41b470c0a24",
       "baslik": "CVK Maden'in Çanakkale projesinde ÇED süreci sonlandırıldı - analizgazetesi.com.tr",
       "ozet": "CVK Maden'in Çanakkale projesinde ÇED süreci sonlandırıldı analizgazetesi.com.tr",
@@ -259,6 +319,16 @@
       "tarih": "2026-05-11T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e3e01402dfbf",
+      "baslik": "Akbelen'de Acele Kamulaştırma Kararına Yargı Engeli - Analiz Gazetesi",
+      "ozet": "Akbelen'de Acele Kamulaştırma Kararına Yargı Engeli Analiz Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc1NXZWg4b0Z2QWNPQ1NCaVVDSFRMWDhVLTQ4NUZ1VDI5NXk2NFNVQ3BUdkZtVVhISG9WbEdGVEZHYm1PbGREel9tQ19NR0hmOEdFVlZES29XV2xVUGIzTEdEbWVWU0tybzZDUWdTaGcwQm52UlFCZ3VjYjc5Q3JxT3BQWHFwWTZWQmd2Ny1FcGdsWUdmVGlN?oc=5",
+      "tarih": "2026-05-10T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -302,6 +372,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "b30bafc7b2a1",
+      "baslik": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber - Maraş Son Haber",
+      "ozet": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber Maraş Son Haber",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajJXRVp4QjM3bzdLMDd4QVFKTTRxOXBab2RHYUN3R1lvZTRobkNfMF94M2g0RGZJSllDS094ZHBUZmlnOVBIREF0THQ5U2l0RGU4SDRaSUxGYVlnZjVoNm8xcExvUFR3djIzRXlnTjNNOTRsMGdRNFNMVG42S3E0UzE3ZVdZLWhoei13eDJocXhDd9IBmgFBVV95cUxPWkRPb3VwMkFrVDQxcjh2U0J0U1lhYWVtYXR4SmFfeUtIemxHM2cwZk11alZYYU9wWHh5UzY5WVk4WWV5OV9GZ2lkc1ozd21scUdvRFpINVhlZjNTMk12TG92VHhLTHFfXzVYcWNlcks2YU9waDgxczB1LXNJUzREMXFDMVNEM0s0WmZRUElfOWlra0xQVU54WnRR?oc=5",
+      "tarih": "2026-04-17T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "8abd26b26be1",
       "baslik": "4 il için acele kamulaştırma imzası çıktı - KARAR",
       "ozet": "4 il için acele kamulaştırma imzası çıktı KARAR",
@@ -319,6 +399,16 @@
       "tarih": "2026-03-10T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9e1a64ddfd90",
+      "baslik": "HSK’den acele kamulaştırma ve ÇED davaları için 'ihtisas mahkemesi' kararı - Evrensel",
+      "ozet": "HSK’den acele kamulaştırma ve ÇED davaları için 'ihtisas mahkemesi' kararı Evrensel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDhmWUtfTFVheklyOEZwWjlRMXFXdnZ5anR1dkhhM1BOd3hjczZ6bVdsTmlNbk85TE5tQlJTMHYxVWtUUXhKdTlNcG1OdWJTVGFLYUs2NENaalVIaHJlOTBPQ1FiS0NITEZpWUhQNFZiMjViUkNwX0hzNWxpWUZXVWxZaWplV3FIZUFIWm1IOXhGVWt0eEZvbjFFZEYzTWhDaklaZDZYWTZpWnlEcHZ3?oc=5",
+      "tarih": "2026-03-06T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -342,6 +432,26 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "79f7b9b52371",
+      "baslik": "Özelleştirme, ÇED, acele kamulaştırma... Kritik davalara bakan mahkemeler değişti - Halk TV",
+      "ozet": "Özelleştirme, ÇED, acele kamulaştırma... Kritik davalara bakan mahkemeler değişti Halk TV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzlONGQ0cFNZelNyWHdOSDQtNnVCNFFnbEdKNlF1akk1eE5fck1TVXRwZnFsMHgzOEhlcnVpUTV2NUxEVUY5R05XODRXUXBRekc4VGRzWUVnbFQ0UURhRW8tTVJ1YjJ3VGxCbm1mZl96bmlGRXVIZWxDdlB0d1BIUmlyVUdaaXpKV3F0TDRtVEEtTXZqVmR0bWpOYlZZYVFSbnNhZ1JpeWpsa2liV0JrQ0RsLW1LQQ?oc=5",
+      "tarih": "2026-03-05T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "45d4640763df",
+      "baslik": "Bazı davaların belirli mahkemelerde görülmesine ilişkin karar Resmi Gazete'de - Anadolu Ajansı",
+      "ozet": "Bazı davaların belirli mahkemelerde görülmesine ilişkin karar Resmi Gazete'de Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdENXTGlXOHBJekRWRzAyVG5LMXFZZS1qRmx2aDFRSUtLZkJZTk00WDhsb3drM0YyeklWSHZwS2phWHFlbHJ6UTNlemlaY3FMV25LZHVPRXlIcm1TMFJEVmQyazRwYnkzbHZvaUxiZ1o2WW5mUjVQWGlqZ09sSUcwOXNOMGx2YWQtU25qWXhJWXhLcncza0g2RGxObl9jYll4LUFLaThlY203VENXWVFfV0tuWi1Vckk?oc=5",
+      "tarih": "2026-03-05T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "c43e2f514650",
       "baslik": "Özelleştirme, ÇED, acele kamulaştırma... Kritik davalara bakan mahkemeler değişti - halktv.com.tr",
       "ozet": "Özelleştirme, ÇED, acele kamulaştırma... Kritik davalara bakan mahkemeler değişti halktv.com.tr",
@@ -357,6 +467,16 @@
       "ozet": "Bazı davaların belirli mahkemelerde görülmesine ilişkin karar Resmi Gazete'de aa.com.tr",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdENXTGlXOHBJekRWRzAyVG5LMXFZZS1qRmx2aDFRSUtLZkJZTk00WDhsb3drM0YyeklWSHZwS2phWHFlbHJ6UTNlemlaY3FMV25LZHVPRXlIcm1TMFJEVmQyazRwYnkzbHZvaUxiZ1o2WW5mUjVQWGlqZ09sSUcwOXNOMGx2YWQtU25qWXhJWXhLcncza0g2RGxObl9jYll4LUFLaThlY203VENXWVFfV0tuWi1Vckk?oc=5",
       "tarih": "2026-03-05T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "eefdca2b4d30",
+      "baslik": "Resmi Gazete'de yayımlandı: Acele kamulaştırma, özelleştirme, ÇED ve turizm teşvik kararları davalarına ihtisas idare mahkemeleri bakacak - Evrensel",
+      "ozet": "Resmi Gazete'de yayımlandı: Acele kamulaştırma, özelleştirme, ÇED ve turizm teşvik kararları davalarına ihtisas idare mahkemeleri bakacak Evrensel",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVTBLbnhGVWltR29TZm1PcjJDY1o4S3JnLTFBamI1cjc5N1J4azFULXU3Tk1LYmFqNnJXTGJNanh1bVNlQ2ZxTHJkLUhBNmRjbUZYb3JBdGp3RXlJbUg1Nk82dlhqNEhJcWdVNTNRc3JoZ1MxVFFmbnJFYWhja2JUMHlvSFk4STUtZlV2YnRWc1RaZGlUWThNR1d0a044a3RsRDN1aXV5NFJpZFVBRDZMbVdPamFLZE5tdi01NlFQbXJlak4yV2xQb1QwbG1xUFloUUVpRUZYRlN2OUpuclNSZmlCa3ZrNGlYSndQTWtfNlkzekRUbmozTUFCd2xDaDV6eWRv?oc=5",
+      "tarih": "2026-03-05T00:28:18+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
@@ -442,6 +562,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "9ac3fb0efe04",
+      "baslik": "Acele kamulaştırma kararları Resmî Gazete'de - Halk TV",
+      "ozet": "Acele kamulaştırma kararları Resmî Gazete'de Halk TV",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd09pM2ZmeFRfaXEtTnFpdjBadzFiR1QyWXBHcU83QnF6RHBPYnpiRkpEdDlkVW43Sm9yclJjN2tNYWpOVnppclFpemwzS1VHUU1nODIwVEg4N0FmcUpfMU9YS3VVRWNHcEhpY1lxNUlUNEJiX3dzc21Ya2VRWldTTFlVc05JZDRveDlz?oc=5",
+      "tarih": "2026-01-08T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "611b5b43a892",
       "baslik": "Resmi Gazete'de yayımlandı: Birçok ilde acele kamulaştırma kararları - Gazete Oksijen",
       "ozet": "Resmi Gazete'de yayımlandı: Birçok ilde acele kamulaştırma kararları Gazete Oksijen",
@@ -472,6 +602,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "3f48c0821bc8",
+      "baslik": "Bin pınarlı İda’dan bin madenli Kazdağları’na - Bianet",
+      "ozet": "Bin pınarlı İda’dan bin madenli Kazdağları’na Bianet",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVhxOVcybU1OZ2VtTEd1ZVhoZkZzampiLWFSOXJyY205RjBxaktPYjRRTzY2MkdXd0dJRnVCZXRXMHYwUEljYVJSSzg2M1N5Z0VSR2ppZXVFUzA3LW5ETGNQdGZjNWx4eV9LVlc4dVBYTUZpZDB0b3pvcmZweC15cw?oc=5",
+      "tarih": "2025-12-17T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "52871f660003",
       "baslik": "Bin pınarlı İda’dan bin madenli Kazdağları’na - bianet.org",
       "ozet": "Bin pınarlı İda’dan bin madenli Kazdağları’na bianet.org",
@@ -487,6 +627,16 @@
       "ozet": "Nadir toprak elementi zengini olan bölgede maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak T24",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVzdFSEJzcFFEQkJyaG1XSDQ4OGNCVUZvVW0tWU9DcGstOVlVNjNqcG9zT3QzMzk2Mk8tOEN5MUtqeElIVnVxQzVNWnJpcGY2cnRaQnlKTVcwZGxCaDRlcnRRc28wUXhOcFp1cFdhYVN2Rzc0bW5WbG9ncVVCZmI0c1lZZmJiNEFLdVZoeHA5LVFQY2loMU1aUmYyVzY1QmpBQ0E1anliTFpKcTBHSVFsOWZLWXF0ZUtyYkJzREswcldJZlNNWWxScFdzcEFRZ3ZGUDhjVlo5bGxVZ1NMN1JTNnRyUmVmZ00wckRYVnAwY1lIcTZISURFbGVLNDFUbENrejNVRQ?oc=5",
       "tarih": "2025-12-02T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1a018006a56f",
+      "baslik": "Mega madenlere karşı, verilerle doğa mücadelesi: Zamanla yarışıyoruz - Bianet",
+      "ozet": "Mega madenlere karşı, verilerle doğa mücadelesi: Zamanla yarışıyoruz Bianet",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3NaeHB1dDNITzN3cUlURHB2WWRKdDNKWGxEZ0tCb21HTjVIYURBdE5IVm1rdFlnVVNIamlqZm14U3o5dF9sRVBkV1huc1BULVE2LXR3ZG1ld2JzbGc4aGtDdUc0enNJc2VvM3RJWnlxVHZwM241X2U1QVhMNHE5VGtVOXk5cDljNF83QTE3TExmOUdPSnZaY0t5dHR3M28?oc=5",
+      "tarih": "2025-11-19T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
@@ -509,6 +659,16 @@
       "tarih": "2025-11-08T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cf77f138ff98",
+      "baslik": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı - Evrensel",
+      "ozet": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı Evrensel",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQUFVNllJeDhPSXN3cXRIR2o0VmJvYmVPTW93VUM3aTI3ZHd0T1dpbTRGZlo1Y0hPQ2xQT2NmU3Y0bWFQbk5fLWlqcDcxbXRtblg2MEF3T1BKM0p3c2thSzBSZFVOVWEzd1BVQ3kxYmlvUGlIa2d1M2VGd0ZEYXgwOW5va3l3dDEzbDNmU3pkbUpkMnkyaWxaTmVQSHNiYUUxcWllc1NQMlRLXzk3NVMyVDNJdFNRSEVuT0N6OFIwU08wbG9yRHEtUlA1RnJ1YXR5eDAwNDNINlBLczJGZDh1bGw5MXRRc1Bj?oc=5",
+      "tarih": "2025-10-31T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
     },
     {
@@ -542,6 +702,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "2dcc004f4a69",
+      "baslik": "Pınarhisar Çevre Yolu’nda Kırmızı Işık İhlali Kazaya Neden Oldu - Yeşilyurt Gazetesi",
+      "ozet": "Pınarhisar Çevre Yolu’nda Kırmızı Işık İhlali Kazaya Neden Oldu Yeşilyurt Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdy0zTGNNVkoyVE5LMnZPS0pGT0FTZmNuNDh2LWZIclpKTGt5NkJZa1FzUDV1WnpyS0N2cVh6UjB4STZCZG9RR1lHaGprczU1MFA0Y1dwdGM1VkxVWVVMc1V6SzhaRUNPVldDSFFMMnItNHFUNmt0b2tteEJveS0zVWYwSmZlY3k0aHpXLXJSRGV3UXF4cWI4TDJmOF9hWjl5bElwZg?oc=5",
+      "tarih": "2025-10-06T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "571973f6a1b9",
       "baslik": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? - BBC",
       "ozet": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? BBC",
@@ -567,6 +737,16 @@
       "ozet": "Bursa'da yanan ormanlık alanın maden sahası ilan edilmesi için \"ÇED gerekli değildir\" raporu alınmış Gazete Oksijen",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSC1NWU5QYVVKQmxRMXNxamhwOS1ldHhNaVl0NDJISTJzUW9yNkNLQWVQcWZuOTJGc2thaXdSZmt1RXIwaTJsZG85dG9Od1YzRWg2bnRla1h1TkxBR3pTWFFERWNUR2RXVGxSZjVJaHpadG82MENVWmxkUUZ1X3BvWDhnNjY1ZGUzOXdDQkVpZS1ETVZjM0hHck1qc1BzdngyNDd0bVZtRW52VVVMUkRXanVxQ251cDlXU0lITnhkMEN0ZkcteEFPUDhLaWVsdUFhSDVEVQ?oc=5",
       "tarih": "2025-07-30T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "74714f9558a5",
+      "baslik": "Bursa'da yanan ormanlık alan için \"ÇED gerekli değil\" kararı alınmış, maden sahası ilan edilmiş - T24",
+      "ozet": "Bursa'da yanan ormanlık alan için \"ÇED gerekli değil\" kararı alınmış, maden sahası ilan edilmiş T24",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY2FVU2lHemMzYWk1YzhKX0FpMzBUWmhnTjZLbUxibDAtTE5nbjVXWXpaQzZYZUY4SExGX054aHBseUtaOWE3V0ZVMzVudjA0OFF0VjR6TWIzQklFS2VRdmpqcy1OYzdFbFBGODYxclBGUUpCcmprZHNIb29XM1Z0TVdDc0NmRkpNanNsd0MwQ2IydVVneWtpRHNWaVhiaEFWTjc5SU5NdmU4Y1JpbGlTbS1qSU04aVpnR2VtNXZaQnJrM2py?oc=5",
+      "tarih": "2025-07-28T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
@@ -607,6 +787,16 @@
       "ozet": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblE3X0xLakdsY1RIb21jRDVYVEdJakc2Q1R1eGVxMnFnZUJnVzJNMnRoSUZ0SWowSlBNRzA3dmdCTTUyc1ZOMHFNMTBwWDNwd0R5c0Y0MThfMFYzME84TWM5TkNUc01WVlVxTUk2QzBMMjZ6N3JDZFFYRFhnSVJaTXV4Q0M0ejAyNUViV3dBUG9vY2tCLUVaV2JjMWwxZFAzcWNicDIzNFVrZ3J2MmdianhGQU0zT3lvQmhXLXJLLVRLT2c?oc=5",
       "tarih": "2025-07-19T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bcf5621b5f7b",
+      "baslik": "Madenciliğe alan açan yasa, TBMM’de adım adım geçiyor - Bianet",
+      "ozet": "Madenciliğe alan açan yasa, TBMM’de adım adım geçiyor Bianet",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjJzcl9TNV9pa2J2REhtWUZ6MjZ4X25takN0RXNJVGVGLVNYeHlpaXpkOFQwSlQtc0pBaG1YQ0dPTHptcTRubHI4UDdwUjhlSHN5U3hUNUVCWjBaNkZ4QnBaM1pSWGFTLWdzYlBoVmdMRVNZTG5rSWt5d1ZtMG5pWkJ4UlB6R3ZHLTh3?oc=5",
+      "tarih": "2025-07-17T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
@@ -662,6 +852,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "0dff6df34108",
+      "baslik": "Samandağ’da “acele kamulaştırma” krizi: depremzede köylüler TOKİ'ye karşı nöbete başladı - T24",
+      "ozet": "Samandağ’da “acele kamulaştırma” krizi: depremzede köylüler TOKİ'ye karşı nöbete başladı T24",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3JFSjRLLS02SHJWT3BuM183NGRGOHVEaEFYZlo1d0FtWWtKcUF4ZU9RQ18yUW9CRzNTNWxKcm1MaDg1ZEpqUFNDbzExelJSaE9HZXhXYUVOQWM2UERTaG9iWnFyQURrTjg3U2l3b0tRME1taUtxYVhWaTE3TWNQNTVfVl9HQ0pLemd5OFdqQjB5TG9wTFAzUktGZEZINF9VUWx2Q0diTExoT2FXWmQxeHNIUkdYMlJDdUE?oc=5",
+      "tarih": "2025-04-18T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "75ed752da7d8",
       "baslik": "Samandağ’da “acele kamulaştırma” krizi: depremzede köylüler TOKİ'ye karşı nöbete başladı - t24.com.tr",
       "ozet": "Samandağ’da “acele kamulaştırma” krizi: depremzede köylüler TOKİ'ye karşı nöbete başladı t24.com.tr",
@@ -679,6 +879,16 @@
       "tarih": "2025-03-06T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cfcc1ec380dc",
+      "baslik": "Dersimliler ve çevreciler Munzur Gözeleri için tam koruma istiyor - Bianet",
+      "ozet": "Dersimliler ve çevreciler Munzur Gözeleri için tam koruma istiyor Bianet",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRURXalprZG10S25MdXRsTUpacTBSYl93bVpmM3Z6Z3hZX3pJenc0U0w2bng4NThpd2pmcDJZV2FQcnM2Znoycmk2OG9GX0JOX3owZ0Z5ZE4wbFIzc080dFBNM3lVdHNaT0JvTndPdVNyWUJlcGdnMlhBTnR1WngxTGNXWDBZZEYzdjZOMmJwbUktMDAwaW1rOTBqNWkxZw?oc=5",
+      "tarih": "2025-03-04T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "HES / RES / Baraj",
       "kaynak_turu": "rss"
     },
     {
@@ -702,6 +912,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "b40ffccb7eeb",
+      "baslik": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” - Bianet",
+      "ozet": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” Bianet",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWRySm1nVUJWY1kzdmlrNld3MC16UnFtU2hTUmozOUhEcUg4bnQ1Q3BHWlBpSlNsY005cE5scm1aWm8zdmRsQVRkUXdaVE9fU3RhTUNScjFON1VGejJQWmNFalJWVi1RNVVKYnpReUtTTUNoZlY3QXVOb3h5ZklCaG1MWTRZOWtLN2dlYWpaVkVmWmowY1kwakpEaXhiY1Q5dHhBci12Zw?oc=5",
+      "tarih": "2024-11-09T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "aee51bf2efd4",
       "baslik": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” - bianet.org",
       "ozet": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” bianet.org",
@@ -709,6 +929,16 @@
       "tarih": "2024-11-09T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "07a36426a778",
+      "baslik": "Dersim Çemişgezek’e HES tehdidi - Bianet",
+      "ozet": "Dersim Çemişgezek’e HES tehdidi Bianet",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9na3VWMHBFNUpJbmFUX2stdGZ1ajNCRU5qd0hmRU0wR1BKVGdiOFVDaGIyYnFTeWFOYVZjdHFLM1ZSaUZHT3puSnlUbWhwQU9SallVckpDTmV5S0dRWWh2VDNVVTRlU2QxTDNzVXBYcw?oc=5",
+      "tarih": "2024-08-28T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "HES / RES / Baraj",
       "kaynak_turu": "rss"
     },
     {
@@ -727,6 +957,16 @@
       "ozet": "Elazığ'da orman ve mera alanında yangın TRT Haber",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTI3U0JUNHhCU0lfY25jMl9lYlBuT2thYmdydUcxRVZ1Z0hJd3hnRENEdzNZVU9wWjFoam1zQ1J6VkpkM0M0MkloSi13T0NjUnJrUzFfVFkxM0t6WDk3YzkxQUk5eEpDUEJrTFltSmZfX3ZKWEJIVmJMSUE2NkpDMXRTangwZXhFQ1ZJUDJ0eXItWE0?oc=5",
       "tarih": "2024-06-27T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f156a91b5b89",
+      "baslik": "Elazığ'da ormanlık alanda çıkan yangın kontrol altına alındı - Anadolu Ajansı",
+      "ozet": "Elazığ'da ormanlık alanda çıkan yangın kontrol altına alındı Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXhXNnhyZ3h3ZG1EVnBabmY4Y0xNNXhXZWxfWmFGVHl2NXdlRE9mODgwSTk2MEN2bnh1T0lLaHRPOG5mcjJqMVNsdEMyNzhXTnByM1FQd3Q5LWlFT2JKZDVVYm1vcnNQSU5MU1F3RHNoM3B1QUNWdmhHUEtGTjFJd2R6WV9KdjFQOFh4RC0zSVVjbkxwMGJXcVFTUFE1bFIz?oc=5",
+      "tarih": "2024-06-20T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
@@ -759,6 +999,16 @@
       "tarih": "2023-07-07T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "251cf04240f3",
+      "baslik": "Amasra'daki maden ocağında yangının devam etmesi nedeniyle dördüncü 'baraj' yapılıyor - Anadolu Ajansı",
+      "ozet": "Amasra'daki maden ocağında yangının devam etmesi nedeniyle dördüncü 'baraj' yapılıyor Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVJoNDZmX1NzemUyd0FMb2F5V0FpWXRQWW14cTdXMC1VODN6aE9OR0hRdTZIdEl6NlVTSXVTQW9xVHI3SXIzN1Rudzh1eUhQRmwyMDFKWDZwLVVZM0g3cGFVNl9xbEVlc3B1ZVNabXFEcS1YS0xKYXFISnhydURna08tMElidnVPTTI2TERlb0hoLXJEYXFONXdNLTU4TTI3TDVDZTBkcUh6dGRrbWJHWkY3NGdTd1d4WS1Mem50RQ?oc=5",
+      "tarih": "2022-11-18T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -819,6 +1069,16 @@
       "tarih": "2020-10-15T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5b78501e6dbd",
+      "baslik": "İşte Türkiye'nin çevre tehdidi haritası - T24",
+      "ozet": "İşte Türkiye'nin çevre tehdidi haritası T24",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1dkFJUE9LZnhQQXZVWUpseXFOdjQwbHNmcGhYNUVORC1MTHZ5MVFaZGdYYVdHQXQwVnZRbGZQaDNQRHBCVWJtTE1BcTV2MHBISENScUtmQWtfVnF2VGl1V2RKT1I4T2tJOU4zaXRBU2ZwczlXNkRlUEZn?oc=5",
+      "tarih": "2016-06-06T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "HES / RES / Baraj",
       "kaynak_turu": "rss"
     },
     {
@@ -90986,6 +91246,34 @@
       "ozet": "Türkiye genelinde son 24 saatte 169 yangın çıkarken, bu yangınların 163’ü kontrol altına alındı. Aydın Çine’deki yangın, gün boyu esen rüzgar sebebiyle alanını genişletti. Bazı yayla evlerinin tahliyesine karar verilirken, büyük ve küçükbaş hayvanlar da yangın bölgesinden uzaklaş",
       "lat": 37.7413,
       "lng": 27.8311,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b30bafc7b2a1",
+      "baslik": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber - Maraş Son Haber",
+      "konum": "Kahramanmaraş",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajJXRVp4QjM3bzdLMDd4QVFKTTRxOXBab2RHYUN3R1lvZTRobkNfMF94M2g0RGZJSllDS094ZHBUZmlnOVBIREF0THQ5U2l0RGU4SDRaSUxGYVlnZjVoNm8xcExvUFR3djIzRXlnTjNNOTRsMGdRNFNMVG42S3E0UzE3ZVdZLWhoei13eDJocXhDd9IBmgFBVV95cUxPWkRPb3VwMkFrVDQxcjh2U0J0U1lhYWVtYXR4SmFfeUtIemxHM2cwZk11alZYYU9wWHh5UzY5WVk4WWV5OV9GZ2lkc1ozd21scUdvRFpINVhlZjNTMk12TG92VHhLTHFfXzVYcWNlcks2YU9waDgxczB1LXNJUzREMXFDMVNEM0s0WmZRUElfOWlra0xQVU54WnRR?oc=5",
+      "ozet": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber Maraş Son Haber",
+      "lat": 37.4636,
+      "lng": 36.8514,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e991f5f54e2d",
+      "baslik": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.08.2026",
+      "url": "https://www.sozcu.com.tr/son-dakika-izmir-menderes-belediyesi-ne-operasyon-belediye-baskani-ilkay-cicek-gozaltinda-p342139",
+      "ozet": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
+      "lat": 38.3478,
+      "lng": 27.0263,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

@@ -116892,5 +116892,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/turkiye-orman-yanginlariyla-mucadele-ediyor/"
+  },
+  {
+    "id": "tarayici-b30bafc7b2a1",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber - Maraş Son Haber",
+    "il": "Kahramanmaraş",
+    "ilce": "",
+    "aciklama": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber Maraş Son Haber",
+    "koordinatlar": {
+      "lat": 37.4636,
+      "lng": 36.8514
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajJXRVp4QjM3bzdLMDd4QVFKTTRxOXBab2RHYUN3R1lvZTRobkNfMF94M2g0RGZJSllDS094ZHBUZmlnOVBIREF0THQ5U2l0RGU4SDRaSUxGYVlnZjVoNm8xcExvUFR3djIzRXlnTjNNOTRsMGdRNFNMVG42S3E0UzE3ZVdZLWhoei13eDJocXhDd9IBmgFBVV95cUxPWkRPb3VwMkFrVDQxcjh2U0J0U1lhYWVtYXR4SmFfeUtIemxHM2cwZk11alZYYU9wWHh5UzY5WVk4WWV5OV9GZ2lkc1ozd21scUdvRFpINVhlZjNTMk12TG92VHhLTHFfXzVYcWNlcks2YU9waDgxczB1LXNJUzREMXFDMVNEM0s0WmZRUElfOWlra0xQVU54WnRR?oc=5"
+  },
+  {
+    "id": "tarayici-e991f5f54e2d",
+    "tip": "Ekolojik İhlal",
+    "ad": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
+    "koordinatlar": {
+      "lat": 38.3478,
+      "lng": 27.0263
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/son-dakika-izmir-menderes-belediyesi-ne-operasyon-belediye-baskani-ilkay-cicek-gozaltinda-p342139"
   }
 ]
