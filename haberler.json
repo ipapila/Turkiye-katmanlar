@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-04T13:52:41.903830+00:00",
-    "toplam": 136,
+    "guncelleme": "2026-08-04T16:47:40.680135+00:00",
+    "toplam": 140,
     "harita_kayit_sayisi": 6445,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "df99b8c98cc4",
+      "baslik": "Fast-food devi resmen iflas etti",
+      "ozet": "Fast-food devi resmen iflas etti",
+      "url": "https://www.sozcu.com.tr/fast-food-devi-resmen-iflas-etti-p342354",
+      "tarih": "2026-08-04T15:14:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d0c512e950d9",
+      "baslik": "100 adet savaş tankını denizin dibine bıraktılar",
+      "ozet": "100 adet savaş tankını denizin dibine bıraktılar",
+      "url": "https://www.sozcu.com.tr/100-savas-tankini-denizin-dibine-biraktilar-p342352",
+      "tarih": "2026-08-04T15:02:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "6c0f3c447f4c",
       "baslik": "Sinop'ta orman yangını: 10 hektarlık alan zarar gördü - Cumhuriyet",
@@ -179,6 +199,16 @@
       "tarih": "2026-08-04T02:30:15+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0b1afa2b47fb",
+      "baslik": "Bursa'da orman yangını! Ağaçlandırılan maden sahasında alevler yükseldi - bursadabugun.com",
+      "ozet": "Bursa'da orman yangını! Ağaçlandırılan maden sahasında alevler yükseldi bursadabugun.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWgyQmtrb2cxVlZDblk4Z3l0QzkxNzM5TEFlejAxVEppaENyODg4Q0VpZnMtam1TTVVTb3V4eTZlSzZXZDEtTHpOMG00dWR5eDhBVmZ6VG9vQTNteU5UWjNqQ2FMeHpYdTJIeG8zODFET3l3WUN4N0hRSkJzVkRrZUNMUk9VQlFXa3YtcUxjMUdOS2M3SmxFQ1BzSFJRRTRkSkhuR3ZOLU5Rd1hFd29NU0dPWmtPZ0Z3eHc0ZdIBvAFBVV95cUxNSWgyQmtrb2cxVlZDblk4Z3l0QzkxNzM5TEFlejAxVEppaENyODg4Q0VpZnMtam1TTVVTb3V4eTZlSzZXZDEtTHpOMG00dWR5eDhBVmZ6VG9vQTNteU5UWjNqQ2FMeHpYdTJIeG8zODFET3l3WUN4N0hRSkJzVkRrZUNMUk9VQlFXa3YtcUxjMUdOS2M3SmxFQ1BzSFJRRTRkSkhuR3ZOLU5Rd1hFd29NU0dPWmtPZ0Z3eHc0ZQ?oc=5",
+      "tarih": "2026-08-03T10:58:39+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1287,6 +1317,16 @@
       "ozet": "Amasra'daki maden ocağında yangının devam etmesi nedeniyle dördüncü 'baraj' yapılıyor aa.com.tr",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVJoNDZmX1NzemUyd0FMb2F5V0FpWXRQWW14cTdXMC1VODN6aE9OR0hRdTZIdEl6NlVTSXVTQW9xVHI3SXIzN1Rudzh1eUhQRmwyMDFKWDZwLVVZM0g3cGFVNl9xbEVlc3B1ZVNabXFEcS1YS0xKYXFISnhydURna08tMElidnVPTTI2TERlb0hoLXJEYXFONXdNLTU4TTI3TDVDZTBkcUh6dGRrbWJHWkY3NGdTd1d4WS1Mem50RQ?oc=5",
       "tarih": "2022-11-18T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f205a2863c92",
+      "baslik": "Ormanlar, maden ve enerji uğruna yok ediliyor| Haberler - gazetekadikoy.com.tr",
+      "ozet": "Ormanlar, maden ve enerji uğruna yok ediliyor| Haberler gazetekadikoy.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0paSnB4UjFpWk1hUzR4Y3AxRWJrTEo5SmdmdWl5ZmdDckJvVDJpTUVCN1lEaUpxSmNaRWdlazM1YnNFR2pqaEM3OHlYOFViTmdYdEd4Z00wOVk4SjVFaklldUk1SDJxME5OQ2otSFl3LXJHWWEtLUhxTXR3dEdkelMxX3RMWUs0OW9DMg?oc=5",
+      "tarih": "2022-06-23T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
