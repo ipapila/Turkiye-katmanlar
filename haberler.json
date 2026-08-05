@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-05T08:23:13.106030+00:00",
-    "toplam": 163,
-    "harita_kayit_sayisi": 6448,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "guncelleme": "2026-08-05T11:13:47.079235+00:00",
+    "toplam": 170,
+    "harita_kayit_sayisi": 6449,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "64f2bfc9a6eb",
+      "baslik": "Erdoğan'a suikast girişimi öncesi gizli toplantı",
+      "ozet": "Erdoğan'a suikast girişimi öncesi gizli toplantı",
+      "url": "https://www.sozcu.com.tr/erdogan-a-suikast-girisimi-oncesi-gizli-toplanti-p342622",
+      "tarih": "2026-08-05T11:04:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "50c7741012c5",
+      "baslik": "Savaşın Kazananları Petrol Devleri Oldu",
+      "ozet": "Dünyanın en büyük 8 petrol üreticisi, ABD ile İran arasındaki çatışma nedeniyle milyarlarca dolarlık beklenmedik bir kâr elde etti. Bu şirketler, Nisan ayından Haziran sonuna kadar yaklaşık 93 milyar dolar kâr elde ederken, bu durum, “insanların yaşadığı acılar üzerinden kazanç s",
+      "url": "https://www.iklimhaber.org/savasin-kazananlari-petrol-devleri-oldu/",
+      "tarih": "2026-08-05T10:29:04+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b5b7530f80c1",
+      "baslik": "'Yasak aşk' iddiası ortalığı karıştırdı: Ormanda dehşeti yaşattılar",
+      "ozet": "'Yasak aşk' iddiası ortalığı karıştırdı: Ormanda dehşeti yaşattılar",
+      "url": "https://www.sozcu.com.tr/yasak-ask-iddiasi-ortaligi-karistirdi-ormanda-dehseti-yasattilar-p342613",
+      "tarih": "2026-08-05T10:27:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "916513d96b6c",
+      "baslik": "Çevre ihlallerini kesinlikle cezalandırın. - Vietnam.vn",
+      "ozet": "Çevre ihlallerini kesinlikle cezalandırın. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByYkg2OEZLS1Q3XzkxNDhVREJsVHE4UVFCcWoyQlA5cXlITE5OV19XMGtZRUJLenhycEtoV0JmN3RaM3BUR09MZUZtTFRmRW5kelJnUDJvZmFjXzNqSGZ5VjNtVk9Wb0xUMFN2MA?oc=5",
+      "tarih": "2026-08-05T08:24:18+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "50f757088288",
+      "baslik": "Bakanlıktan 5 ilde milyonluk çevre cezası - Oluşum Haber",
+      "ozet": "Bakanlıktan 5 ilde milyonluk çevre cezası Oluşum Haber",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcUFDaHN2Mk9pRFJ1T0NKOVBBdDNBekJsYW5nTUtoelBvNkluVHY0LW5KOUlZeWM4NE9QUWY5SF9NZ094SGFnZ050RnJiRjhsX0pJeXUyLTYyQm1LS0xvSUxJVGNaMW5SYUpCcExXMkNsbHlJZlRFTTlMZXNtb2daSlNB?oc=5",
+      "tarih": "2026-08-05T08:19:12+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "640930c662eb",
       "baslik": "Fosil Yakıt Krizinin Türkiye’ye Maliyeti 25 Milyar Doları Bulabilir",
@@ -742,6 +792,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "f23a7b681254",
+      "baslik": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı - Kahramanmaraş Manşet Gazetesi",
+      "ozet": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı Kahramanmaraş Manşet Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODJVWXdSRVk0N1JDZ1Zyd1dUNkpmZVoxeVphU0Z0ZU9ld0Z5NWlFWndIMEVWRndpVV8yS2N2a0FtdThBdjFLU3NadlhNY01CbURyb2RyV2kzODdkZl8tLWpuVTVhcGhuTEdSS2FBYjdCSmhjdWlXUXlzZ1NfVHJLanRwZVM?oc=5",
+      "tarih": "2026-04-17T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "2c5ed898973b",
       "baslik": "4 il için acele kamulaştırma imzası çıktı - karar.com",
       "ozet": "4 il için acele kamulaştırma imzası çıktı karar.com",
@@ -1159,6 +1219,16 @@
       "tarih": "2025-10-23T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4f303fee9d1c",
+      "baslik": "OGM yangınla mücadelede sınıfta kaldı: Hava filosu büyüdü, yanan alanlar da arttı - Cumhuriyet",
+      "ozet": "OGM yangınla mücadelede sınıfta kaldı: Hava filosu büyüdü, yanan alanlar da arttı Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxLNU1UYklFdjBxMkQ3eWdmR3l4eEZ4RHU5MWROc2g1RHhnQnphVEh2TUNHcXotUlV5YlhzMnZzTHlhcTdNVnBUTVo3aDRuX1JTNjROOFM3VFFMd1VFeFV2a2pyVVNsSEx1NHRBdXZuaDQxbS1jMEtxTFNWeHNSaHNXdEFIX3d3Xy1uRjJxNHBGNmFqY1hEMS0xU0hrdGdhbzZmZmZSeEhfZFlOMGc3SWN0NVVTT1djNHhqbkQ3OGJJRm8?oc=5",
+      "tarih": "2025-10-08T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -91912,6 +91982,20 @@
       "ozet": "NİHAİ ÇED RAPORU (Altınordu - Günören Mahallesi) Ordu Büyükşehir Belediyesi",
       "lat": 41.0361,
       "lng": 37.8108,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f23a7b681254",
+      "baslik": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı - Kahramanmaraş Manşet Gazetesi",
+      "konum": "Kahramanmaraş",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODJVWXdSRVk0N1JDZ1Zyd1dUNkpmZVoxeVphU0Z0ZU9ld0Z5NWlFWndIMEVWRndpVV8yS2N2a0FtdThBdjFLU3NadlhNY01CbURyb2RyV2kzODdkZl8tLWpuVTVhcGhuTEdSS2FBYjdCSmhjdWlXUXlzZ1NfVHJLanRwZVM?oc=5",
+      "ozet": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı Kahramanmaraş Manşet Gazetesi",
+      "lat": 37.6174,
+      "lng": 36.9325,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
