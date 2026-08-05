@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-05T05:38:59.000608+00:00",
-    "toplam": 150,
-    "harita_kayit_sayisi": 6446,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "guncelleme": "2026-08-05T08:23:13.106030+00:00",
+    "toplam": 163,
+    "harita_kayit_sayisi": 6448,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "640930c662eb",
+      "baslik": "Fosil Yakıt Krizinin Türkiye’ye Maliyeti 25 Milyar Doları Bulabilir",
+      "ozet": "İran savaşı ve Hürmüz Boğazı krizinin başlamasından bu yana yükselen fosil yakıt fiyatları Türkiye’ye şimdiden 9,04 milyar dolarlık ek maliyet getirdi. Gerilimin sürmesi halinde bu rakam yıl sonuna kadar 24,59 milyar dolara kadar çıkabilir. Gerilim hızla sona erse bile Türkiye’ni",
+      "url": "https://www.iklimhaber.org/fosil-yakit-krizinin-turkiyeye-maliyeti-25-milyar-dolari-bulabilir/",
+      "tarih": "2026-08-05T08:15:55+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "23b59c67b31f",
+      "baslik": "BM: Şirketler Doğa Kaybı Konusunda Yeterince Hızlı Hareket Etmiyor",
+      "ozet": "BM’nin biyoçeşitlilik şefi, şirketlerin ve finans kuruluşlarının, kârlar, ekonomik büyüme ve küresel tedarik zincirleri üzerinde neden olduğu tehditlere rağmen doğa kaybıyla mücadelede yeterince hızlı hareket etmediğini belirtti. Ekim ayında Ermenistan’da düzenlenecek Biyolojik Ç",
+      "url": "https://www.iklimhaber.org/bm-sirketler-doga-kaybi-konusunda-yeterince-hizli-hareket-etmiyor/",
+      "tarih": "2026-08-05T07:56:39+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "08cb10b78a01",
+      "baslik": "Uçaklar deniz seviyesinin altından havalanıyor",
+      "ozet": "Uçaklar deniz seviyesinin altından havalanıyor",
+      "url": "https://www.sozcu.com.tr/ucaklar-deniz-seviyesinin-altindan-havalaniyor-p342542",
+      "tarih": "2026-08-05T07:31:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b8c6460a1e33",
+      "baslik": "Borsa güne yükselişle başladı -5 Ağustos 2026",
+      "ozet": "Borsa güne yükselişle başladı -5 Ağustos 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-yukselisle-basladi-5-agustos-2026-p342540",
+      "tarih": "2026-08-05T07:23:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f5cc3c568f52",
+      "baslik": "Yeni Çalışma: Türkiye’nin Her Bölgesi Sıcağı Farklı Yaşıyor",
+      "ozet": "Isı stresi Türkiye’nin her yerinde aynı şekilde hissedilmiyor. Yapay zeka yöntemleri kullanılarak yapılan yeni bir çalışma, Türkiye’de ısı stresini belirleyen etmenlerin bölgeden bölgeye değiştiğini ortaya koydu. Araştırmaya göre Anadolu’nun iç kesimlerinde kuru hava, Karadeniz v",
+      "url": "https://www.iklimhaber.org/yeni-calisma-turkiyenin-her-bolgesi-sicagi-farkli-yasiyor/",
+      "tarih": "2026-08-05T07:19:39+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b469694a8e29",
+      "baslik": "Küresel fırtınaya karşı altın kalkanı: Güney Kore 13 yıl sonra sahada!",
+      "ozet": "Küresel fırtınaya karşı altın kalkanı: Güney Kore 13 yıl sonra sahada!",
+      "url": "https://www.sozcu.com.tr/kuresel-firtinaya-karsi-altin-kalkani-guney-kore-13-yil-sonra-sahada-p342526",
+      "tarih": "2026-08-05T06:56:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "48c218240d23",
+      "baslik": "Piyasalarda Hürmüz Boğazı iyimserliği: Petrol çakıldı, borsalar rekora koştu!",
+      "ozet": "Piyasalarda Hürmüz Boğazı iyimserliği: Petrol çakıldı, borsalar rekora koştu!",
+      "url": "https://www.sozcu.com.tr/piyasalarda-hurmuz-bogazi-iyimserligi-petrol-cakildi-borsalar-rekora-kostu-p342497",
+      "tarih": "2026-08-05T06:15:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "bc220cc887d2",
       "baslik": "ATM'den para çeken herkesi ilgilendiriyor: Yeni dönem resmen başladı",
@@ -412,6 +482,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "abffac69bbe1",
+      "baslik": "Antalya Kepez'deki orman yangını 4 saatte kontrol altına alındı - Cumhuriyet",
+      "ozet": "Antalya Kepez'deki orman yangını 4 saatte kontrol altına alındı Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdGRrTDdGeDJpV0xGQTVYc3Q4dTJWN0VFUFhWclRkb0wxam1hVXhfSXNDNExGQmlMbTd2dHFtc01BWmhHRVp2TG1jX1JDQzg5Z2NrYnkyZk4zb2xtV05GRU1hSUhZMmdfeWJ1WkpzTGM0dVdBclpsQkxCLTRpZWdnek1BUHU2eDhzTms0SUdrUGh6SnpzUjBtZE8yc2FsOWMzMnM4WmpWbmRZc2dmTUE?oc=5",
+      "tarih": "2026-07-23T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "60fe86e74dfc",
       "baslik": "Ev sahipleri dikkat! Kiracının evine izinsiz girmenin cezası hapis olabilir - Cumhuriyet",
       "ozet": "Ev sahipleri dikkat! Kiracının evine izinsiz girmenin cezası hapis olabilir Cumhuriyet",
@@ -552,6 +632,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "704ef39e2886",
+      "baslik": "Kürdistan’da ekolojik soykırım projeleri - yeniyasamgazetesi9.com",
+      "ozet": "Kürdistan’da ekolojik soykırım projeleri yeniyasamgazetesi9.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIYWNfTzVkbWw3VDYxQWg5ZWExbW1Na19ROWRQMzlqampDUF9OekpoN25XSTBtY1I0Rk5DdXpwQ0hfbHNjb3NfdjVjanE1LTA4akRhQjRhaGgwMmR5ek9PREJVTkYzRUN1bkZ3QkJpb1Q5Qk1KNFc0NHJBVQ?oc=5",
+      "tarih": "2026-05-12T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "HES / RES / Baraj",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "a83f7521b9e0",
       "baslik": "Kürdistan’da ekolojik soykırım projeleri - Yeni Yaşam Gazetesi",
       "ozet": "Kürdistan’da ekolojik soykırım projeleri Yeni Yaşam Gazetesi",
@@ -559,6 +649,16 @@
       "tarih": "2026-05-12T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "HES / RES / Baraj",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ab53ed71da7b",
+      "baslik": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri - Cumhuriyet",
+      "ozet": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3J2bE82c1VqMld5d2ZUbEhfWkJJMFVRa3JYZVpSMmswRV9sRGwzeUhyMXhabGo0QjBTUXpyYzVUbE0wZ013WDIwNk1lbExYVEwyZzNTZkRfWHJ1SE5oUkp6X0RBNTdXMVNjMWtsOC13dWtmQzlnYUZMeGhkdUFzaUh1dFZwQXdpQXdyWHZocDA1eWJUY3owR1NBWlNDeDU0OHk3SHhnN1cxX3VSLVY1eFpYenJpSTlqMndvMnlTOA?oc=5",
+      "tarih": "2026-05-11T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -682,6 +782,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "7bb254a6d9e5",
+      "baslik": "NİHAİ ÇED RAPORU (Altınordu - Günören Mahallesi) - Ordu Büyükşehir Belediyesi",
+      "ozet": "NİHAİ ÇED RAPORU (Altınordu - Günören Mahallesi) Ordu Büyükşehir Belediyesi",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFM2WTdRVEFONmdDQlRGZVZJQ2lMN2xxd2ZlSmRMZFNyM1dFZkp5bC1iUl95WFBwckdkLS1kR2llclA5NTMxOW9EdU00bjBCdHMwUnhWU3hkSVNtNHo5aExLd1hIaDgtSmxOVVRCS0xoaDlBMWwydHZPelZzUUo3Yk5TQ3g?oc=5",
+      "tarih": "2026-03-17T07:00:05+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "79812ad2dc79",
       "baslik": "Aliağa gemi söküm tesislerinde yeni çevre ihlali iddiası - Cumhuriyet",
       "ozet": "Aliağa gemi söküm tesislerinde yeni çevre ihlali iddiası Cumhuriyet",
@@ -799,6 +909,16 @@
       "tarih": "2026-02-24T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c34666369edf",
+      "baslik": "Bakanlık denetiminde CHP’li belediyelere milyonluk ceza! Aynı ihlali 3 kez yapmış - ahaber.com.tr",
+      "ozet": "Bakanlık denetiminde CHP’li belediyelere milyonluk ceza! Aynı ihlali 3 kez yapmış ahaber.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlB0RTJQbm4wQmNfVjhxWllmQnd2cjBTb3dDWHRraWZ6UVBEU2VrTEQteWtJRUVUenJTWmVyeGdSdHlhUDRmWFUycGRvSW0wTDNxZXRicFNnclB5ZHhUdVN4Nm42SFF0YWNEVjZEUVdtazhzNnhfV0FYUmppc1ZGYUZ6dVUtOENzSHJsSVA5cFN0bDR5T0U5ekk3eV9GaG9fclRLb2R3R0VtUVdyQXdSWXpzWVlBcUR3MEJhMTEzTmk?oc=5",
+      "tarih": "2026-02-21T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1349,6 +1469,16 @@
       "tarih": "2024-08-28T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "HES / RES / Baraj",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "73b59c496d5e",
+      "baslik": "Elazığ'da orman ve mera alanında yangın - trthaber.com",
+      "ozet": "Elazığ'da orman ve mera alanında yangın trthaber.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTI3U0JUNHhCU0lfY25jMl9lYlBuT2thYmdydUcxRVZ1Z0hJd3hnRENEdzNZVU9wWjFoam1zQ1J6VkpkM0M0MkloSi13T0NjUnJrUzFfVFkxM0t6WDk3YzkxQUk5eEpDUEJrTFltSmZfX3ZKWEJIVmJMSUE2NkpDMXRTangwZXhFQ1ZJUDJ0eXItWE0?oc=5",
+      "tarih": "2024-06-27T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -91754,6 +91884,34 @@
       "ozet": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu Investing.com Türkiye",
       "lat": 40.2576,
       "lng": 26.4455,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-abffac69bbe1",
+      "baslik": "Antalya Kepez'deki orman yangını 4 saatte kontrol altına alındı - Cumhuriyet",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdGRrTDdGeDJpV0xGQTVYc3Q4dTJWN0VFUFhWclRkb0wxam1hVXhfSXNDNExGQmlMbTd2dHFtc01BWmhHRVp2TG1jX1JDQzg5Z2NrYnkyZk4zb2xtV05GRU1hSUhZMmdfeWJ1WkpzTGM0dVdBclpsQkxCLTRpZWdnek1BUHU2eDhzTms0SUdrUGh6SnpzUjBtZE8yc2FsOWMzMnM4WmpWbmRZc2dmTUE?oc=5",
+      "ozet": "Antalya Kepez'deki orman yangını 4 saatte kontrol altına alındı Cumhuriyet",
+      "lat": 37.0147,
+      "lng": 30.6627,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-7bb254a6d9e5",
+      "baslik": "NİHAİ ÇED RAPORU (Altınordu - Günören Mahallesi) - Ordu Büyükşehir Belediyesi",
+      "konum": "Ordu",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFM2WTdRVEFONmdDQlRGZVZJQ2lMN2xxd2ZlSmRMZFNyM1dFZkp5bC1iUl95WFBwckdkLS1kR2llclA5NTMxOW9EdU00bjBCdHMwUnhWU3hkSVNtNHo5aExLd1hIaDgtSmxOVVRCS0xoaDlBMWwydHZPelZzUUo3Yk5TQ3g?oc=5",
+      "ozet": "NİHAİ ÇED RAPORU (Altınordu - Günören Mahallesi) Ordu Büyükşehir Belediyesi",
+      "lat": 41.0361,
+      "lng": 37.8108,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
