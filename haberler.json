@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-05T11:13:47.079235+00:00",
-    "toplam": 170,
+    "guncelleme": "2026-08-05T13:48:44.879113+00:00",
+    "toplam": 172,
     "harita_kayit_sayisi": 6449,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "b98f4537dae9",
+      "baslik": "WhatsApp’ta hesaplar durduk yere kapanmaya başladı",
+      "ozet": "WhatsApp’ta hesaplar durduk yere kapanmaya başladı",
+      "url": "https://www.sozcu.com.tr/whatsapp-ta-hesaplar-durduk-yere-kapanmaya-basladi-p342640",
+      "tarih": "2026-08-05T12:01:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6494a4149753",
+      "baslik": "Gram altında 9 bin 100 lira öngörüsü: Yükseliş için o tarihe işaret edildi",
+      "ozet": "Gram altında 9 bin 100 lira öngörüsü: Yükseliş için o tarihe işaret edildi",
+      "url": "https://www.sozcu.com.tr/abd-li-banka-jpmorgan-gram-altinin-9-bin-100-liraya-ulasacagi-tarihi-acikladi-p342630",
+      "tarih": "2026-08-05T11:30:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "64f2bfc9a6eb",
       "baslik": "Erdoğan'a suikast girişimi öncesi gizli toplantı",
