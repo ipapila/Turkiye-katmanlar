@@ -1,7 +1,7 @@
 {
   "meta": {
-    "guncelleme": "2026-08-05T13:48:44.879113+00:00",
-    "toplam": 172,
+    "guncelleme": "2026-08-05T16:27:50.777506+00:00",
+    "toplam": 176,
     "harita_kayit_sayisi": 6449,
     "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "ece57f770a29",
+      "baslik": "Evleri artık böyle ısıtacaklar: 129 canlı paneli tek tek binanın cephesine yerleştirdiler",
+      "ozet": "Evleri artık böyle ısıtacaklar: 129 canlı paneli tek tek binanın cephesine yerleştirdiler",
+      "url": "https://www.sozcu.com.tr/evleri-artik-boyle-isitacaklar-129-canli-paneli-tek-tek-binanin-cephesine-yerlestirdiler-p342696",
+      "tarih": "2026-08-05T15:45:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b98f4537dae9",
       "baslik": "WhatsApp’ta hesaplar durduk yere kapanmaya başladı",
@@ -1052,6 +1062,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "7e7a06ca6779",
+      "baslik": "BAKANLIK, ‘ÇANAKKALE YANGINI VE MADEN SAHASI’ İDDİALARINI YALANLADI - csb.gov.tr",
+      "ozet": "BAKANLIK, ‘ÇANAKKALE YANGINI VE MADEN SAHASI’ İDDİALARINI YALANLADI csb.gov.tr",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR3lyTlp4bXdHMlJYTUpMTV9oMU9fa0RZOGFoTlZmSmRDYVJRYUE3MV9mRmRReFVPRnV6eEZva0RseWt5R200VF9iSG5nQjhmUjgtYm1PNWdDLUx0RkRXZlJCaXVMSnk3eHlJQlhjSzRrRHpqSnRRRzd3ODdXSGo2SndjNk1ZbDNvYmZHRXNjbXh5WWZCV1JLbkVCcTZRN0I0?oc=5",
+      "tarih": "2026-01-27T19:53:03+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "e5778ebf3a64",
       "baslik": "BAKANLIK, ‘ÇANAKKALE YANGINI VE MADEN SAHASI’ İDDİALARINI YALANLADI - T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
       "ozet": "BAKANLIK, ‘ÇANAKKALE YANGINI VE MADEN SAHASI’ İDDİALARINI YALANLADI T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
@@ -1482,6 +1502,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "a643d51e9e69",
+      "baslik": "BAKANLIKTAN BURSA’DA ÇEVRE DENETİMİ BUSKİ’YE 2 MİLYON TL İDARİ CEZA KESİLDİ - csb.gov.tr",
+      "ozet": "BAKANLIKTAN BURSA’DA ÇEVRE DENETİMİ BUSKİ’YE 2 MİLYON TL İDARİ CEZA KESİLDİ csb.gov.tr",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlNZNjgwdjlVaHB1OVIwTkVtLXBTWUxfY1g3Wm5kTjlFeDFfdkhtSDFTU1dXYjM1QXJQb3JhSjJMOFlvYi1uQnlfeXoycm5lazg1YkdDNy12NWhqYWhtSnV5UzduMG84YzlUSTgya19LVFZDcVFxT0NHVTNxemcxQU8wLUJzZEN3Ry10a1hwajhOREZEeWZDaUYxS2ZKQko5dGRpWWJ1emN2N0hkMVpz?oc=5",
+      "tarih": "2025-03-06T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "fd8871c8cd2b",
       "baslik": "BAKANLIKTAN BURSA’DA ÇEVRE DENETİMİ BUSKİ’YE 2 MİLYON TL İDARİ CEZA KESİLDİ - T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
       "ozet": "BAKANLIKTAN BURSA’DA ÇEVRE DENETİMİ BUSKİ’YE 2 MİLYON TL İDARİ CEZA KESİLDİ T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
@@ -1689,6 +1719,16 @@
       "tarih": "2021-01-21T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "HES / RES / Baraj",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4bdc4ba5124b",
+      "baslik": "Hatay'da yanan arazinin ihaleye açılan maden arazisi olduğu iddiası - teyit.org",
+      "ozet": "Hatay'da yanan arazinin ihaleye açılan maden arazisi olduğu iddiası teyit.org",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdll3YmJacVBGd1V6ZDI2Q29LTmhucEpxSlBOQzlHVGtiOWNqWEc1TW4ydDMyQ2dzNGp3MXk2R3BVWjZKck15cVRuZjdXQ0lqR0pIQjU2ZnlKMk1FQUhaX1FQV2Y3NnhGeDZ6WkREejc0ek1oYi1Vb1NaRXJRYzhuaXh2QTNVQU5sNTF6Z2hnQ0paWjRwTkE?oc=5",
+      "tarih": "2020-10-15T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
