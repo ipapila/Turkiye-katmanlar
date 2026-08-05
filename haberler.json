@@ -1,7 +1,7 @@
 {
   "meta": {
-    "guncelleme": "2026-08-05T16:27:50.777506+00:00",
-    "toplam": 176,
+    "guncelleme": "2026-08-05T19:18:42.489086+00:00",
+    "toplam": 179,
     "harita_kayit_sayisi": 6449,
     "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "eea7a9b30f54",
+      "baslik": "Yanlışlıkla açtıkları kuyu rengarenk bir doğa harikasına dönüştü",
+      "ozet": "Yanlışlıkla açtıkları kuyu rengarenk bir doğa harikasına dönüştü",
+      "url": "https://www.sozcu.com.tr/yanlislikla-actiklari-kuyu-rengarenk-bir-doga-harikasina-donustu-p342713",
+      "tarih": "2026-08-05T17:26:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ccb4424925d0",
+      "baslik": "Menderes Belediyesi’ne operasyon: Başkan yardımcısı ortak operasyonla yakalandı",
+      "ozet": "Menderes Belediyesi’ne operasyon: Başkan yardımcısı ortak operasyonla yakalandı",
+      "url": "https://www.sozcu.com.tr/menderes-belediyesi-ne-operasyon-baskan-yardimcisi-ortak-operasyonla-yakalandi-p342712",
+      "tarih": "2026-08-05T17:15:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ece57f770a29",
       "baslik": "Evleri artık böyle ısıtacaklar: 129 canlı paneli tek tek binanın cephesine yerleştirdiler",
@@ -1739,6 +1759,16 @@
       "tarih": "2020-10-15T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7daf6a6971d0",
+      "baslik": "Çevre tehdidi haritası: 'Doğa ve yaban hayatı koruma'da sondan dördüncüyüz - diken.com.tr",
+      "ozet": "Çevre tehdidi haritası: 'Doğa ve yaban hayatı koruma'da sondan dördüncüyüz diken.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHNqTzI3YkQ4MmdTRHh3bXhlOWNJSHVMZWs0TjRocnJhTE81bi1zcDcxcXZ2ZW50ZW1oNVF6UkFvYU5DY2RxeWpEV3I2VURyZnNQN3NZTkl0dW9LY2pvbTJRbGpROTI4THY3WUVxQmVjYTJQb3JMWU9iaGhvd2VmcWdSc3lGdTA2NGhRTXg1ZjdyRW85SVRVY2xOdEFvdw?oc=5",
+      "tarih": "2016-06-06T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "HES / RES / Baraj",
       "kaynak_turu": "rss"
     },
     {
