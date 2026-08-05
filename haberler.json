@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-04T19:21:07.347512+00:00",
-    "toplam": 143,
-    "harita_kayit_sayisi": 6445,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "guncelleme": "2026-08-05T05:38:59.000608+00:00",
+    "toplam": 150,
+    "harita_kayit_sayisi": 6446,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "bc220cc887d2",
+      "baslik": "ATM'den para çeken herkesi ilgilendiriyor: Yeni dönem resmen başladı",
+      "ozet": "ATM'den para çeken herkesi ilgilendiriyor: Yeni dönem resmen başladı",
+      "url": "https://www.sozcu.com.tr/atm-den-para-ceken-herkesi-ilgilendiriyor-yeni-donem-resmen-basladi-p342476",
+      "tarih": "2026-08-05T05:30:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "63861c5e449d",
+      "baslik": "Altın ve gümüşte yükseliş dalgası: Rallinin nedeni açıklandı",
+      "ozet": "Altın ve gümüşte yükseliş dalgası: Rallinin nedeni açıklandı",
+      "url": "https://www.sozcu.com.tr/altin-ve-gumuste-yukselis-dalgasi-p342458",
+      "tarih": "2026-08-05T05:10:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "94542cd76bd9",
+      "baslik": "Filtresiz Wanda'yı tanıyana aşk olsun",
+      "ozet": "Filtresiz Wanda'yı tanıyana aşk olsun",
+      "url": "https://www.sozcu.com.tr/filtresiz-wanda-yi-taniyana-ask-olsun-p342466",
+      "tarih": "2026-08-05T04:51:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "56ed2e6dae53",
       "baslik": "Ülkenin verimli tarım arazileri tuzla kaplandı",
@@ -282,6 +312,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "d8a11abb131e",
+      "baslik": "Orman yangınlarında son durum... Bakan Yumaklı'dan açıklama geldi - Cumhuriyet",
+      "ozet": "Orman yangınlarında son durum... Bakan Yumaklı'dan açıklama geldi Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVBnRzh2M3FpV0lJTmFTTmx0THZkamJOaXdKbHZZUVZySHFNbGNlZkdGVkcwT1ZVYllQY3ZjV2NwbE9NNWpSVFo4N0gyYmFYRlJpRXp4NEVjMnJYaDBYZkF6cGZ5R0piX3pVRGZ4RDhETm84UFo0NVJaUVJsank5dmtZZWxkdnJ1bDIyeXJJWmlpdG1ZVlVNblo0dlVPZkN3WXY5dG5JeHhnZ2Fi?oc=5",
+      "tarih": "2026-07-31T08:35:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "d604dee8b9a3",
       "baslik": "Türkiye Orman Yangınlarıyla Mücadele Ediyor",
       "ozet": "Türkiye genelinde son 24 saatte 169 yangın çıkarken, bu yangınların 163’ü kontrol altına alındı. Aydın Çine’deki yangın, gün boyu esen rüzgar sebebiyle alanını genişletti. Bazı yayla evlerinin tahliyesine karar verilirken, büyük ve küçükbaş hayvanlar da yangın bölgesinden uzaklaş",
@@ -389,6 +429,16 @@
       "tarih": "2026-07-10T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7c1518ffe305",
+      "baslik": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu - Investing.com Türkiye",
+      "ozet": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu Investing.com Türkiye",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNci0xT19sV3hHR3VyT1hGTExjTVgwbTBfWURXLWJtZllIa3I5djBjc0VidnVEOWhIaU5KUHZyUExaUGV1TVUtUVJoQkNGQWFMWFVzckpLR3R1NTI1TDBVUWxRQ0J4S0twUjVxV0lwMmRETFhDRTliTnJvNFpxQndxejR1RTFPcmNyaWZOeGpQbTkwWlZ6NzZKdGppQ0gwMlloV1J3Nm8tbDd0RHpBZGhfdVZrU0VLNUx3OEJTVmFtZXQ4LU1j?oc=5",
+      "tarih": "2026-07-08T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
     },
     {
@@ -592,6 +642,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "2c5ed898973b",
+      "baslik": "4 il için acele kamulaştırma imzası çıktı - karar.com",
+      "ozet": "4 il için acele kamulaştırma imzası çıktı karar.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnM2QVE2dHVtenpZdWZFVXBuOWphSVRmV3dzR053ZHNXVXJoU2FXU0tnYm0tWGJZZUY3OVBjamxVbWQwbmxkM0t0LWxSS19FendyNFJCcVZOR0Q2ZVh2WlZ3YVpnMlVXNUhRWHFSOVk0Z1pWMi1GZmRCME8tTWIwaTdIMlBiai1qNld5eHBDQ3k?oc=5",
+      "tarih": "2026-04-17T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "519ea77e8579",
       "baslik": "Ulaştırma projeleri için acele kamulaştırma kararı: 4 İli kapsıyor - ticarigm360.com",
       "ozet": "Ulaştırma projeleri için acele kamulaştırma kararı: 4 İli kapsıyor ticarigm360.com",
@@ -729,6 +789,16 @@
       "tarih": "2026-03-05T00:28:18+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "130bcfaaa4f0",
+      "baslik": "Ormanlar ve köyler maden sahası oldu - Evrensel.net",
+      "ozet": "Ormanlar ve köyler maden sahası oldu Evrensel.net",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlZwY2U3d2ZjMVpTRzJzRUZsclVqSWVQU0Rva3MtZ1BPUEtqYWhYaEs3dXhGVEtoMC0tQnU1MDZRR0pmbmRjeXZaSVF6M0p5Qmd5N0cwdnAtZHdIamp3QUxoZVkxN3R5VnBhQ1RxUDVnMEtvUU9nM0hYeUxpc3NVRA?oc=5",
+      "tarih": "2026-02-24T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
     },
     {
@@ -91670,6 +91740,20 @@
       "ozet": "Sinop'ta orman yangını: 10 hektarlık alan zarar gördü Cumhuriyet",
       "lat": 41.9375,
       "lng": 35.2391,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-7c1518ffe305",
+      "baslik": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu - Investing.com Türkiye",
+      "konum": "Çanakkale",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNci0xT19sV3hHR3VyT1hGTExjTVgwbTBfWURXLWJtZllIa3I5djBjc0VidnVEOWhIaU5KUHZyUExaUGV1TVUtUVJoQkNGQWFMWFVzckpLR3R1NTI1TDBVUWxRQ0J4S0twUjVxV0lwMmRETFhDRTliTnJvNFpxQndxejR1RTFPcmNyaWZOeGpQbTkwWlZ6NzZKdGppQ0gwMlloV1J3Nm8tbDd0RHpBZGhfdVZrU0VLNUx3OEJTVmFtZXQ4LU1j?oc=5",
+      "ozet": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu Investing.com Türkiye",
+      "lat": 40.2576,
+      "lng": 26.4455,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
