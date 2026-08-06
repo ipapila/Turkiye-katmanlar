@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-06T08:20:13.066006+00:00",
-    "toplam": 187,
-    "harita_kayit_sayisi": 6449,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "guncelleme": "2026-08-06T11:13:23.275088+00:00",
+    "toplam": 195,
+    "harita_kayit_sayisi": 6451,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "8777893adf67",
+      "baslik": "Altında tavan kırıldı, tırmanış durmak bilmiyor: Borcu olan mutsuz, birikimi olan mutlu",
+      "ozet": "Altında tavan kırıldı, tırmanış durmak bilmiyor: Borcu olan mutsuz, birikimi olan mutlu",
+      "url": "https://www.sozcu.com.tr/altinda-tavan-kirildi-tirmanis-durmak-bilmiyor-borcu-olan-mutsuz-birikimi-olan-mutlu-p342908",
+      "tarih": "2026-08-06T10:26:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a8e75821d7dd",
+      "baslik": "Ege Denizi’nin En Büyük Mercan Ormanı Keşfedildi",
+      "ozet": "“Denizlerin Ormanı: Mercanlar Projesi” kapsamında, Gökçeada ile Yunanistan’ın Semadirek Adası arasında yürütülen araştırmada, Türkiye kara sularında 70 ila 120 metre derinlikte ve 2 kilometreden fazla uzunlukta, Ege Denizi’ndeki en büyük mercan ormanı keşfedildi. Ege Denizi’ndeki",
+      "url": "https://www.iklimhaber.org/ege-denizinin-en-buyuk-mercan-ormani-kesfedildi/",
+      "tarih": "2026-08-06T08:31:50+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8408b442389d",
+      "baslik": "Maden suyunu cam şişeden içmeyin uyarısı yapıldı",
+      "ozet": "Maden suyunu cam şişeden içmeyin uyarısı yapıldı",
+      "url": "https://www.sozcu.com.tr/maden-suyunu-cam-siseden-icmeyin-uyarisi-yapildi-p342871",
+      "tarih": "2026-08-06T08:27:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a5c162cfd4d5",
       "baslik": "Vergi dairesi yurt dışına gidenleri tek tek inceleyecek",
@@ -702,6 +732,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "63131e80cda3",
+      "baslik": "Bolu’da maden ocağında göçük: 1 işçi mahsur - dha.com.tr",
+      "ozet": "Bolu’da maden ocağında göçük: 1 işçi mahsur dha.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTRsaXlONXN1Qk1jdVpyNFVEbDVFWHNKTE5xUDc2ZjMxQmdacEt5ZDA0RjQxdEsxX1AtNDQzdEx1SGFhdmNMREdIRGV5NnE0TnlYTXRGWjBQNFBoSHVfRlhSQlprVTZPYVRhc0pJVGRNbHUzalJKSWdlS1Q5LTN5T25WOG5mUzEyMDZCTWV1RWNpOWZmd3Q5dUdXcW1GQnfSAaQBQVVfeXFMUDhRQjk3Tlo3em5DcDhKcHQzUVd0QWJmbTVPR0I4ZWZmRGROcV9oYXVwdzI4Sm5PemFKSFplbFhBUTdoSXl1TXdLX2Z1T0JnZU43Uy1vQTNvQ19TWDkyektpYzVqLTJPYW9Gd3BrV3ZVZWs1VnRPcUdmTDVSdWp1X191dWdRTWFuVmlPTTVUQURjUk91REpGVXMzLVN4YTljRU16TTQ?oc=5",
+      "tarih": "2026-06-17T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "42bacaef64ee",
       "baslik": "Bolu’da maden ocağında göçük: 1 işçi mahsur - DHA | Demirören Haber Ajansı",
       "ozet": "Bolu’da maden ocağında göçük: 1 işçi mahsur DHA | Demirören Haber Ajansı",
@@ -899,6 +939,16 @@
       "tarih": "2026-04-27T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c642f083e56b",
+      "baslik": "İstanbul Valiliği'nden Çatalca ve Beykoz'daki yangınlara ilişkin açıklama - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "ozet": "İstanbul Valiliği'nden Çatalca ve Beykoz'daki yangınlara ilişkin açıklama - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckRxYk9Kak1vSFYwd05nUEJkWkdOSGpkelo4TTdsSUM0dDJ1RGdTS1JxenJ1Z09zWmZmZWxUOVdMTW5TZ3RDdTBtNVl6UmRPV2FUZG5SNzJSVnZnX2pFb2NnVml1NFhjdjJxXzhnck9JV2E2VEw1Vld3V212anY4bUhHbWZ6SUdUWlh2cU9wQ2VlV1FNaDk2YjcyQW5mUjh6NmJiWGszcUI4MjlwOS1weFM0dHJVUTZRc1k0?oc=5",
+      "tarih": "2026-04-26T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1382,6 +1432,26 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "a0ab15e150c7",
+      "baslik": "Sinop Boyabat Çevre Platformu, Boyabat'taki bakır madeni projesine ilişkin yürütülen ÇED sürecinin durdurulmasını talep etti - Anka Haber",
+      "ozet": "Sinop Boyabat Çevre Platformu, Boyabat'taki bakır madeni projesine ilişkin yürütülen ÇED sürecinin durdurulmasını talep etti Anka Haber",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSkpnLTh6XzFRelE3ai1kelp2OXgweUxobW5rX0VUMFZKWFlwWjQtRWlUWXZCcURzTGN6Z25Kb3VRYmNBUXNSb1o5ZnpwMF9sUUZqYnVZd0E0NTIwVjcwLXVGZnl2XzdYclhad2pxaFFtY2kwbFh6V3lOZEd2LWpOQjlnbmtPSXQ0RGphcmVxQmFJYTV0anQxRWNWTW5jaXBGcDE2eEx3VU9uRV9MV3Q0R1FtSUp5Z3dMeGhFcFc5UzBKTzBUWDRjOGQtSXh5Q3MwYjdPQ3c4VUR0LXc0M2FLbnBwTkR6QUt5OFJiTFJ2U0JURnRISUE?oc=5",
+      "tarih": "2025-09-22T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "212411c6790f",
+      "baslik": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? - bbc.com",
+      "ozet": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlbEhBTlNWam5KbWFzWE5hN2c5MmlmdUdreUMzWnM2N1NIMHZQdlZMbHRNcy1zSG84dHhaWnR6clJWTzk4VU84azNCd3pfU2VsZHFmSV9EZ3ZmWk160gFiQVVfeXFMTVY5YTBoZk1EVEJjTzlpMkx0bmxycnotNkJOTm4zWTh5WUN3Y1RvY1poQS1kUlM1VWlycTAyaGtVSTBfM2FJTFZFTVp5cTNRaU5YVnd3MVFkeWRBVnhOenp5ZFE?oc=5",
+      "tarih": "2025-08-27T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "571973f6a1b9",
       "baslik": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? - BBC",
       "ozet": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? BBC",
@@ -1639,6 +1709,16 @@
       "tarih": "2025-03-04T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "HES / RES / Baraj",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1a26088a85d3",
+      "baslik": "TOKİ: Malatya'daki kamulaştırma tartışması ile ilgili neler biliniyor? - bbc.com",
+      "ozet": "TOKİ: Malatya'daki kamulaştırma tartışması ile ilgili neler biliniyor? bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jMkxJdXhzd2Q1QjBLRUJHcGxKTFJrMk5IZFV0d0pORVlnNlZ6ZzIwU2dENERXa24tUmFPOVFLdEpsVDY0Qk5UajhXelVwMnFCZjZIcGJZcWtUbW5L0gFiQVVfeXFMUFFZdzRhOUFMMnFFcHh1WG5ETzIwZXRUOXpHckpzQlYwbFI4NEp3U05aM3RCWUY3dWVBekZoT1I3THBZZ3FUZV9QOUVUanZzY0R1dFNlTnN6MERHVHdXNVhoQXc?oc=5",
+      "tarih": "2025-02-04T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -92166,6 +92246,34 @@
       "ozet": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı Kahramanmaraş Manşet Gazetesi",
       "lat": 37.6174,
       "lng": 36.9325,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c642f083e56b",
+      "baslik": "İstanbul Valiliği'nden Çatalca ve Beykoz'daki yangınlara ilişkin açıklama - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "06.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckRxYk9Kak1vSFYwd05nUEJkWkdOSGpkelo4TTdsSUM0dDJ1RGdTS1JxenJ1Z09zWmZmZWxUOVdMTW5TZ3RDdTBtNVl6UmRPV2FUZG5SNzJSVnZnX2pFb2NnVml1NFhjdjJxXzhnck9JV2E2VEw1Vld3V212anY4bUhHbWZ6SUdUWlh2cU9wQ2VlV1FNaDk2YjcyQW5mUjh6NmJiWGszcUI4MjlwOS1weFM0dHJVUTZRc1k0?oc=5",
+      "ozet": "İstanbul Valiliği'nden Çatalca ve Beykoz'daki yangınlara ilişkin açıklama - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "lat": 41.0781,
+      "lng": 29.0325,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a0ab15e150c7",
+      "baslik": "Sinop Boyabat Çevre Platformu, Boyabat'taki bakır madeni projesine ilişkin yürütülen ÇED sürecinin durdurulmasını talep etti - Anka Haber",
+      "konum": "Sinop",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "06.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSkpnLTh6XzFRelE3ai1kelp2OXgweUxobW5rX0VUMFZKWFlwWjQtRWlUWXZCcURzTGN6Z25Kb3VRYmNBUXNSb1o5ZnpwMF9sUUZqYnVZd0E0NTIwVjcwLXVGZnl2XzdYclhad2pxaFFtY2kwbFh6V3lOZEd2LWpOQjlnbmtPSXQ0RGphcmVxQmFJYTV0anQxRWNWTW5jaXBGcDE2eEx3VU9uRV9MV3Q0R1FtSUp5Z3dMeGhFcFc5UzBKTzBUWDRjOGQtSXh5Q3MwYjdPQ3c4VUR0LXc0M2FLbnBwTkR6QUt5OFJiTFJ2U0JURnRISUE?oc=5",
+      "ozet": "Sinop Boyabat Çevre Platformu, Boyabat'taki bakır madeni projesine ilişkin yürütülen ÇED sürecinin durdurulmasını talep etti Anka Haber",
+      "lat": 42.0106,
+      "lng": 35.2378,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
