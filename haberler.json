@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-06T13:46:09.063550+00:00",
+    "guncelleme": "2026-08-06T23:52:23.883423+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6453,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -667,6 +667,16 @@
       "ozet": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor N Gazete",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemRnXzloLU1xRjNGelo4c254TGVKZEFneE9qYTFyekpQZFlnS0Z1Z2VNcHVrRTd5ZUJjZzdhbWktaEREUDAtT3ZwSDV4ZUJyRXFIQUlwUDNLUXlPYTVQZWZQMWhaaGU5YjVKVkR0M2NsTGN2a0tyZW5BbVI3U1ptdTNDQk5ScmxuV2FJMzNuOEjSAaABQVVfeXFMTzhIWVRwNUJsUzRNblo5WE1GX2hEVTBOU0JhdDRQMEpSVm14OGllRThfYTY4aExlS0VXTnpuak1mVXZGVmdseXRBWkcxTEtYNURQOUkyc25LbUVuMHJlcEp6Y2NxbkZYcHRpenJRbGY3eDMxR3BWejRPRlR2NkdnVEZqOXkyczhkRnEwbHprR1NWQXduN3R1bTY1NFVRbGkzOQ?oc=5",
       "tarih": "2026-07-29T07:27:50+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "032d661b4bab",
+      "baslik": "Turnalık Yaylası'ndaki maden protestosunda 20 gözaltı - Cumhuriyet",
+      "ozet": "Turnalık Yaylası'ndaki maden protestosunda 20 gözaltı Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUloMUFYYWQwM0xtakNJd0NFUERiaXg5bW5yOHFzUThOMU5VdTNGTGxvSGlRanhaLXFlaHlaR3B3dTBxd1BJNHkzUjQ2bUNSRktuanlsTDc0Uzd4eEpWZUxiUFNIc0E2bmgxYXlEb3NlZEJaMG9GeXNNa1ZzQXRMMkplWFBFMVJyVGtmY0o1Y0tucUJoV0I4R01nNTdVOTZZ?oc=5",
+      "tarih": "2026-07-29T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
@@ -1772,6 +1782,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "3e289fbeb99c",
+      "baslik": "Soma Termik Santrali'ne 1 milyon 393 bin lira ceza - TRT Haber",
+      "ozet": "Soma Termik Santrali'ne 1 milyon 393 bin lira ceza TRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGx4alViMHZpanp4VE9JemgzREs0VFBwYWJkRDJ4RjNHTVlWLTY0V2dlYllTRFdHbi1Ra2NtakRMdUNIdXFiYW82ay1hdjdmN1B4SENLbWNLSkZuakhRM1IwQTB3N0M3dUF1RDhXVkFPc2g3UDhKVWlVcEZzUXhYSlRZdkdCMFYycnEtcnUzdi1vcFVKckt5V1laWUxsWGlBbnc?oc=5",
+      "tarih": "2024-12-06T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "b40ffccb7eeb",
       "baslik": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” - Bianet",
       "ozet": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” Bianet",
@@ -1857,6 +1877,16 @@
       "ozet": "Ormanlarda görünmeyen yangın: 10 yılda 109 bin hektara maden izni verildi soL Haber",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkpDcDJQVzZNTi1YR3lCQ21jclVNbTJkYkZ6WFRLTjV5b3RWVVh2TjdwTXdabk5qZm5PQkltbG9GY3RnTnh6c0R6azZHUXNZUllyeDFvRlo0bF91cGI5MnBYUEZzc1kzblJwZUVKWUYtSDZpZWJQWkdxMHNkbFZKd0tZX3VBRUFMWTdpV0xfUkxzTGpoVkxjT3dQdFpkVkN5UGRCQVMxcGtYU09NOUZj?oc=5",
       "tarih": "2024-04-02T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e86aba546f5a",
+      "baslik": "Türkiye’de orman yangınlarıyla mücadele yeterli mi? - dw.com",
+      "ozet": "Türkiye’de orman yangınlarıyla mücadele yeterli mi? dw.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWhMWXJwMUxnZHBDRHVzWk5rSFRDTURCdWZzaWNTLWwtXzIyMFhoMk5PUVRQRDhySXNUWHJrandFakE4U2FFVWRPR0lHNUpXaTlqN3Exa1VSNVJqclRKaWFrYzk4M0VJLS1KYTZ5MGFucjh1dzE4SUJqNUNVc0pyc25iaGhNU2psajYzeVpCcVVmelNRR1d5a0FzLWFBOENXSm1SYtIBpAFBVV95cUxNZlpFUnVBdEhfQzBhWUlfOV82TmcyWGNNUnR6SWJPbjJTNDZCQktOYmNHUExvX1dBZ2V0T3FabWlfbnF0dlhLeHpJMVVyZ3JCT0JRdG5VRjVSR3lGVGxLZ09ub0phX0xkaFE4OVpQSXotaXRmazB4d2ZVWFlLbElUZERSbHJNOWFBTWpxR2IxOFJBNmh6QS04cWw3UmRjWnRZU0h5Qg?oc=5",
+      "tarih": "2023-08-23T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
@@ -1976,36 +2006,6 @@
       "baslik": "Çevre tehdidi haritası: 'Doğa ve yaban hayatı koruma'da sondan dördüncüyüz - diken.com.tr",
       "ozet": "Çevre tehdidi haritası: 'Doğa ve yaban hayatı koruma'da sondan dördüncüyüz diken.com.tr",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHNqTzI3YkQ4MmdTRHh3bXhlOWNJSHVMZWs0TjRocnJhTE81bi1zcDcxcXZ2ZW50ZW1oNVF6UkFvYU5DY2RxeWpEV3I2VURyZnNQN3NZTkl0dW9LY2pvbTJRbGpROTI4THY3WUVxQmVjYTJQb3JMWU9iaGhvd2VmcWdSc3lGdTA2NGhRTXg1ZjdyRW85SVRVY2xOdEFvdw?oc=5",
-      "tarih": "2016-06-06T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5b78501e6dbd",
-      "baslik": "İşte Türkiye'nin çevre tehdidi haritası - T24",
-      "ozet": "İşte Türkiye'nin çevre tehdidi haritası T24",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1dkFJUE9LZnhQQXZVWUpseXFOdjQwbHNmcGhYNUVORC1MTHZ5MVFaZGdYYVdHQXQwVnZRbGZQaDNQRHBCVWJtTE1BcTV2MHBISENScUtmQWtfVnF2VGl1V2RKT1I4T2tJOU4zaXRBU2ZwczlXNkRlUEZn?oc=5",
-      "tarih": "2016-06-06T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "766c84108c6d",
-      "baslik": "Çevre tehdidi haritası: 'Doğa ve yaban hayatı koruma'da sondan dördüncüyüz - Diken",
-      "ozet": "Çevre tehdidi haritası: 'Doğa ve yaban hayatı koruma'da sondan dördüncüyüz Diken",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHNqTzI3YkQ4MmdTRHh3bXhlOWNJSHVMZWs0TjRocnJhTE81bi1zcDcxcXZ2ZW50ZW1oNVF6UkFvYU5DY2RxeWpEV3I2VURyZnNQN3NZTkl0dW9LY2pvbTJRbGpROTI4THY3WUVxQmVjYTJQb3JMWU9iaGhvd2VmcWdSc3lGdTA2NGhRTXg1ZjdyRW85SVRVY2xOdEFvdw?oc=5",
-      "tarih": "2016-06-06T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e0b19f5f9229",
-      "baslik": "İşte Türkiye'nin çevre tehdidi haritası - t24.com.tr",
-      "ozet": "İşte Türkiye'nin çevre tehdidi haritası t24.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1dkFJUE9LZnhQQXZVWUpseXFOdjQwbHNmcGhYNUVORC1MTHZ5MVFaZGdYYVdHQXQwVnZRbGZQaDNQRHBCVWJtTE1BcTV2MHBISENScUtmQWtfVnF2VGl1V2RKT1I4T2tJOU4zaXRBU2ZwczlXNkRlUEZn?oc=5",
       "tarih": "2016-06-06T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "HES / RES / Baraj",
