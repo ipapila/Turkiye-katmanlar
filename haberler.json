@@ -1,7 +1,7 @@
 {
   "meta": {
-    "guncelleme": "2026-08-05T19:18:42.489086+00:00",
-    "toplam": 179,
+    "guncelleme": "2026-08-06T05:41:04.712756+00:00",
+    "toplam": 184,
     "harita_kayit_sayisi": 6449,
     "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "35af1f0fe9ea",
+      "baslik": "Birden fazla banka hesabı olan herkesi ilgilendiriyor",
+      "ozet": "Birden fazla banka hesabı olan herkesi ilgilendiriyor",
+      "url": "https://www.sozcu.com.tr/birden-fazla-banka-hesabi-olan-herkesi-ilgilendiriyor-p342792",
+      "tarih": "2026-08-06T05:30:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7a52aa7ad3fc",
+      "baslik": "Türk şirketinden Avrupa'ya kritik yatırım: Yeni şirket resmen kuruldu",
+      "ozet": "Türk şirketinden Avrupa'ya kritik yatırım: Yeni şirket resmen kuruldu",
+      "url": "https://www.sozcu.com.tr/turk-sirketinden-avrupa-ya-kritik-yatirim-yeni-sirket-resmen-kuruldu-p342786",
+      "tarih": "2026-08-06T05:15:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e2b9bea587c6",
+      "baslik": "Restoranın sıra dışı konsepti gündem oldu: Çıplak yemeğin bedeli dudak uçuklattı",
+      "ozet": "Restoranın sıra dışı konsepti gündem oldu: Çıplak yemeğin bedeli dudak uçuklattı",
+      "url": "https://www.sozcu.com.tr/restoranin-sira-disi-konsepti-gundem-oldu-ciplak-yemegin-bedeli-dudak-ucuklatti-p342781",
+      "tarih": "2026-08-06T04:57:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "437cc66eccf4",
+      "baslik": "Doğadan dünya için ürküten uyarı… Kelebekler yaşam alanlarını değiştiriyor…",
+      "ozet": "Doğadan dünya için ürküten uyarı… Kelebekler yaşam alanlarını değiştiriyor…",
+      "url": "https://www.sozcu.com.tr/dunya-icin-uyari-kelebekler-yasam-alanlarini-degistiriyor-p342772",
+      "tarih": "2026-08-06T04:42:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "434b1e3c2906",
+      "baslik": "Salah transferinde polemik büyüyor: Ertuğrul Doğan’dan Serdal Adalı’ya çarpıcı yanıt",
+      "ozet": "Salah transferinde polemik büyüyor: Ertuğrul Doğan’dan Serdal Adalı’ya çarpıcı yanıt",
+      "url": "https://www.sozcu.com.tr/salah-transferinde-polemik-buyuyor-ertugrul-dogan-dan-serdal-adali-ya-carpici-yanit-p342771",
+      "tarih": "2026-08-06T03:48:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "eea7a9b30f54",
       "baslik": "Yanlışlıkla açtıkları kuyu rengarenk bir doğa harikasına dönüştü",
