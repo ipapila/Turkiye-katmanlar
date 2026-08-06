@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-06T11:13:23.275088+00:00",
-    "toplam": 195,
-    "harita_kayit_sayisi": 6451,
+    "guncelleme": "2026-08-06T13:46:09.063550+00:00",
+    "toplam": 200,
+    "harita_kayit_sayisi": 6453,
     "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "c95e2e267ccb",
+      "baslik": "Kelebekler Dünya’yı İklim Değişikliğine Karşı Uyarıyor",
+      "ozet": "Yeni bir araştırma, kelebeklerin iklim değişikliğine bağlı olarak yaşam alanlarını değiştirerek sürekli hareket halinde olduklarını, coğrafi dağılım alanlarını ya genişlettiklerini ya da daralttıklarını ve farklı rakımlara göç ettiklerini ortaya koydu. Uzmanlar bunun bir uyarı si",
+      "url": "https://www.iklimhaber.org/kelebekler-dunyayi-iklim-degisikligine-karsi-uyariyor/",
+      "tarih": "2026-08-06T11:31:31+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8777893adf67",
       "baslik": "Altında tavan kırıldı, tırmanış durmak bilmiyor: Borcu olan mutsuz, birikimi olan mutlu",
@@ -952,6 +962,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "d722a9eddc5f",
+      "baslik": "“Sistematik çevre ihlali endişe veriyor” - İzmir Büyükşehir Belediyesi",
+      "ozet": "“Sistematik çevre ihlali endişe veriyor” İzmir Büyükşehir Belediyesi",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVdVZUZjLWdHaHdSVnJiQ3ZfTzJTN3dZUnRwRVN0T3V4ajdIVVM1OHRDRWN4MkR3YVhzVUxTdmxHQmFiUmJfRmlHeHdZblIxbnlzaUpWOUNtdVk2ZGtPYTdwd1o4aTlXVVJQZi10cE5rbm9rdmZmLUpYc29aOTQ0c1RUVU96V2oyX0ZVQnZn?oc=5",
+      "tarih": "2026-04-24T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "4ce814e70209",
       "baslik": "“Sistematik çevre ihlali endişe veriyor” - haberekspres.com.tr",
       "ozet": "“Sistematik çevre ihlali endişe veriyor” haberekspres.com.tr",
@@ -1017,6 +1037,16 @@
       "ozet": "4 il için acele kamulaştırma imzası çıktı KARAR",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnM2QVE2dHVtenpZdWZFVXBuOWphSVRmV3dzR053ZHNXVXJoU2FXU0tnYm0tWGJZZUY3OVBjamxVbWQwbmxkM0t0LWxSS19FendyNFJCcVZOR0Q2ZVh2WlZ3YVpnMlVXNUhRWHFSOVk0Z1pWMi1GZmRCME8tTWIwaTdIMlBiai1qNld5eHBDQ3k?oc=5",
       "tarih": "2026-04-17T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "16de61d3db6d",
+      "baslik": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' - Evrensel.net",
+      "ozet": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' Evrensel.net",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnBENWhjSzROQlQ3c0lJRTVVbGR5aXV1RHZoTHV6Y2U4N0VFUFF3SFJDRlBDZ3JJTTRrMG5xek9NOXFFcVZDV0JXVXlWUTBfV0kxNEh4bTdBUVBKUk1PQTFoaDMyd1hQdlg0MXhSVHRFS3E2Q2U1dzdLb3Y3Zk9hRXpOaUF6emhEbTY2NnFBcTRNTWxnVXFMUURkZVMzbWVYS1E?oc=5",
+      "tarih": "2026-03-23T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
@@ -1482,6 +1512,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "e91f19bb66c2",
+      "baslik": "Bursa yangını hakkında CHP'li Emir çok ağır konuştu! Maden detayı - Halk TV",
+      "ozet": "Bursa yangını hakkında CHP'li Emir çok ağır konuştu! Maden detayı Halk TV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkxQUmR6NkVvRk8wQlNlZnBaRzhKcDdVT2s0LWhCbjhVYlhBeTRtNW9GX25tOS1WWkdNWXg0VktLbHk4eHlJQ2lzdm9wS3k0d1VybFl4MWROWkhSOGxWTTQtZjhkOEdqSEFBQVdrSTk3US1VVXZGYjVySkE0NDNNa1JEVnlEcl9WM0NEUktIaHJ2dllya3ZFRkZnWk9scHI3cWlF?oc=5",
+      "tarih": "2025-07-28T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "4cb07b35c6a6",
       "baslik": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı - Diken",
       "ozet": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı Diken",
@@ -1817,6 +1857,16 @@
       "ozet": "Ormanlarda görünmeyen yangın: 10 yılda 109 bin hektara maden izni verildi soL Haber",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkpDcDJQVzZNTi1YR3lCQ21jclVNbTJkYkZ6WFRLTjV5b3RWVVh2TjdwTXdabk5qZm5PQkltbG9GY3RnTnh6c0R6azZHUXNZUllyeDFvRlo0bF91cGI5MnBYUEZzc1kzblJwZUVKWUYtSDZpZWJQWkdxMHNkbFZKd0tZX3VBRUFMWTdpV0xfUkxzTGpoVkxjT3dQdFpkVkN5UGRCQVMxcGtYU09NOUZj?oc=5",
       "tarih": "2024-04-02T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "60ccb5c4c135",
+      "baslik": "Türkiye’de orman yangınlarıyla mücadele yeterli mi? - DW.com",
+      "ozet": "Türkiye’de orman yangınlarıyla mücadele yeterli mi? DW.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWhMWXJwMUxnZHBDRHVzWk5rSFRDTURCdWZzaWNTLWwtXzIyMFhoMk5PUVRQRDhySXNUWHJrandFakE4U2FFVWRPR0lHNUpXaTlqN3Exa1VSNVJqclRKaWFrYzk4M0VJLS1KYTZ5MGFucjh1dzE4SUJqNUNVc0pyc25iaGhNU2psajYzeVpCcVVmelNRR1d5a0FzLWFBOENXSm1SYtIBpAFBVV95cUxNZlpFUnVBdEhfQzBhWUlfOV82TmcyWGNNUnR6SWJPbjJTNDZCQktOYmNHUExvX1dBZ2V0T3FabWlfbnF0dlhLeHpJMVVyZ3JCT0JRdG5VRjVSR3lGVGxLZ09ub0phX0xkaFE4OVpQSXotaXRmazB4d2ZVWFlLbElUZERSbHJNOWFBTWpxR2IxOFJBNmh6QS04cWw3UmRjWnRZU0h5Qg?oc=5",
+      "tarih": "2023-08-23T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
@@ -92274,6 +92324,34 @@
       "ozet": "Sinop Boyabat Çevre Platformu, Boyabat'taki bakır madeni projesine ilişkin yürütülen ÇED sürecinin durdurulmasını talep etti Anka Haber",
       "lat": 42.0106,
       "lng": 35.2378,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d722a9eddc5f",
+      "baslik": "“Sistematik çevre ihlali endişe veriyor” - İzmir Büyükşehir Belediyesi",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "06.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVdVZUZjLWdHaHdSVnJiQ3ZfTzJTN3dZUnRwRVN0T3V4ajdIVVM1OHRDRWN4MkR3YVhzVUxTdmxHQmFiUmJfRmlHeHdZblIxbnlzaUpWOUNtdVk2ZGtPYTdwd1o4aTlXVVJQZi10cE5rbm9rdmZmLUpYc29aOTQ0c1RUVU96V2oyX0ZVQnZn?oc=5",
+      "ozet": "“Sistematik çevre ihlali endişe veriyor” İzmir Büyükşehir Belediyesi",
+      "lat": 38.3649,
+      "lng": 27.1774,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e91f19bb66c2",
+      "baslik": "Bursa yangını hakkında CHP'li Emir çok ağır konuştu! Maden detayı - Halk TV",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "06.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkxQUmR6NkVvRk8wQlNlZnBaRzhKcDdVT2s0LWhCbjhVYlhBeTRtNW9GX25tOS1WWkdNWXg0VktLbHk4eHlJQ2lzdm9wS3k0d1VybFl4MWROWkhSOGxWTTQtZjhkOEdqSEFBQVdrSTk3US1VVXZGYjVySkE0NDNNa1JEVnlEcl9WM0NEUktIaHJ2dllya3ZFRkZnWk9scHI3cWlF?oc=5",
+      "ozet": "Bursa yangını hakkında CHP'li Emir çok ağır konuştu! Maden detayı Halk TV",
+      "lat": 40.2885,
+      "lng": 29.1572,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
