@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-07T07:02:45.123864+00:00",
+    "guncelleme": "2026-08-07T09:53:49.483817+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6454,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "21062c9d5b01",
+      "baslik": "Yunan basını: Türk ve Yunan savaş uçakları Akdeniz'de it dalaşına girdi",
+      "ozet": "Yunan basını: Türk ve Yunan savaş uçakları Akdeniz'de it dalaşına girdi",
+      "url": "https://www.sozcu.com.tr/yunan-basini-turk-ve-yunan-savas-ucaklari-akdeniz-de-it-dalasina-girdi-p343244",
+      "tarih": "2026-08-07T09:29:44+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c3c25238dc79",
+      "baslik": "Kuraklık Kömürü de Vurdu: Gözler Türkiye’ye Çevrildi",
+      "ozet": "Avrupa’da artan kuraklık ve düşen nehir seviyeleri kömürlü termik santralları vurdu. Kömürün aşırı su tüketimi ve neden olduğu kirlilik 37 aktif kömürlü termik santrala sahip Türkiye için de büyük bir tehdit oluşturuyor. Uzmanlar COP31 Başkanı Türkiye’nin su varlıklarını korumak ",
+      "url": "https://www.iklimhaber.org/kuraklik-komuru-de-vurdu-gozler-turkiyeye-cevrildi/",
+      "tarih": "2026-08-07T09:17:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7f7ac3485444",
+      "baslik": "Altay Bayındır'ın yeni takımı belli oldu, resmi imzayı attı",
+      "ozet": "Altay Bayındır'ın yeni takımı belli oldu, resmi imzayı attı",
+      "url": "https://www.sozcu.com.tr/altay-bayindir-in-yeni-takimi-belli-oldu-resmi-imzayi-atti-p343234",
+      "tarih": "2026-08-07T09:13:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "edbdc8468f0c",
+      "baslik": "81 İlde “İl İklim Değişikliği Koordinasyon Kurulu” Kuruluyor",
+      "ozet": "İlgili yönetmelikle 81 ilde “İl İklim Değişikliği Koordinasyon Kurulu” kurulacak ve il düzeyinde iklim eylemi yalnızca belediye veya tek bir kurumun çalışması olmaktan çıkarılarak, vali koordinasyonunda merkezi kurumların taşra birimleri ile yerel yönetimler, meslek kuruluşları, ",
+      "url": "https://www.iklimhaber.org/81-ilde-il-iklim-degisikligi-koordinasyon-kurulu-kuruluyor/",
+      "tarih": "2026-08-07T07:05:43+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5b5dc0b810e3",
       "baslik": "Kuzey Ege’de Bir İlk: Bozcaada’da Sert Mercan Transplantasyonu Gerçekleştirildi",
@@ -992,6 +1032,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "e1c1b4cd1e11",
+      "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - ankahaber.net",
+      "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu ankahaber.net",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORTI3ZEdxRzZId3NXcVZlNnBJeDFsZVZEMXA1eFE1MnNGVHFrQlE3ZDdkRnV5UFRES2huWWNJdS1Nclg4bV9IMkRfSGlrYmlnUG9RQkZfb0RpcHZxbG90aERTZEt1SjM2dmRqeXdDWHZHWnd2aHd6YXU4VnYtUldrZ1dfaXpGOG14VmFQRVBoTy10Qkc1NG5pQlA1MVVkNnJFb1kyLUJxRXdqM29CV1ZKU2Y1RFAydWU0TURaTDBUeV9NT0g0NVFUODhWTmgteW1vUnBIcWp5VnR5OFBTR0p4ZkxwUWhRUVJoamphNlNSeUJxWUkwc1E?oc=5",
+      "tarih": "2026-04-27T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "62eb51795b4c",
       "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Anka Haber",
       "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu Anka Haber",
@@ -1502,6 +1552,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "d164c50bf619",
+      "baslik": "Sivas Dipsizgöl'de maden ocağı projesine ilişkin hazırlanan bilirkişi raporuna, bölge halkı itiraz etti - ankahaber.net",
+      "ozet": "Sivas Dipsizgöl'de maden ocağı projesine ilişkin hazırlanan bilirkişi raporuna, bölge halkı itiraz etti ankahaber.net",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVhISUIyMzk4WkpYQ0c5U2VxNlM0alcyWWpteE4zTC1yYTZrNnhuMWtnR0VpWTl6c0ZhVGx4YkhhQTNua1N6MzJrNWpETldaeXhkeFJGd3V1bnBSNHdDcWlPR19QMnZ3YWVQdXVQOXFaSzZ2a2hTSGdEeWpTaGtvQ19DbDJrTEJTWXl1bWhBSXFWQVVJRkh5NHpPakdXY0hmR1o3UkVYbHFBVDFrZDJiMTF1ZGstbkdsdlE5bi04aGY5UXhYcmQ5QlFNVkswSmhoZnRDN2gzOFNDQQ?oc=5",
+      "tarih": "2025-10-23T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "52ddd6459a3c",
       "baslik": "Sivas Dipsizgöl'de maden ocağı projesine ilişkin hazırlanan bilirkişi raporuna, bölge halkı itiraz etti - Anka Haber",
       "ozet": "Sivas Dipsizgöl'de maden ocağı projesine ilişkin hazırlanan bilirkişi raporuna, bölge halkı itiraz etti Anka Haber",
@@ -1947,66 +2007,6 @@
       "ozet": "Elazığ'da ormanlık alanda çıkan yangın kontrol altına alındı aa.com.tr",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXhXNnhyZ3h3ZG1EVnBabmY4Y0xNNXhXZWxfWmFGVHl2NXdlRE9mODgwSTk2MEN2bnh1T0lLaHRPOG5mcjJqMVNsdEMyNzhXTnByM1FQd3Q5LWlFT2JKZDVVYm1vcnNQSU5MU1F3RHNoM3B1QUNWdmhHUEtGTjFJd2R6WV9KdjFQOFh4RC0zSVVjbkxwMGJXcVFTUFE1bFIz?oc=5",
       "tarih": "2024-06-20T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ad10afef5829",
-      "baslik": "Ormanlarda görünmeyen yangın: 10 yılda 109 bin hektara maden izni verildi - soL Haber",
-      "ozet": "Ormanlarda görünmeyen yangın: 10 yılda 109 bin hektara maden izni verildi soL Haber",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkpDcDJQVzZNTi1YR3lCQ21jclVNbTJkYkZ6WFRLTjV5b3RWVVh2TjdwTXdabk5qZm5PQkltbG9GY3RnTnh6c0R6azZHUXNZUllyeDFvRlo0bF91cGI5MnBYUEZzc1kzblJwZUVKWUYtSDZpZWJQWkdxMHNkbFZKd0tZX3VBRUFMWTdpV0xfUkxzTGpoVkxjT3dQdFpkVkN5UGRCQVMxcGtYU09NOUZj?oc=5",
-      "tarih": "2024-04-02T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e86aba546f5a",
-      "baslik": "Türkiye’de orman yangınlarıyla mücadele yeterli mi? - dw.com",
-      "ozet": "Türkiye’de orman yangınlarıyla mücadele yeterli mi? dw.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWhMWXJwMUxnZHBDRHVzWk5rSFRDTURCdWZzaWNTLWwtXzIyMFhoMk5PUVRQRDhySXNUWHJrandFakE4U2FFVWRPR0lHNUpXaTlqN3Exa1VSNVJqclRKaWFrYzk4M0VJLS1KYTZ5MGFucjh1dzE4SUJqNUNVc0pyc25iaGhNU2psajYzeVpCcVVmelNRR1d5a0FzLWFBOENXSm1SYtIBpAFBVV95cUxNZlpFUnVBdEhfQzBhWUlfOV82TmcyWGNNUnR6SWJPbjJTNDZCQktOYmNHUExvX1dBZ2V0T3FabWlfbnF0dlhLeHpJMVVyZ3JCT0JRdG5VRjVSR3lGVGxLZ09ub0phX0xkaFE4OVpQSXotaXRmazB4d2ZVWFlLbElUZERSbHJNOWFBTWpxR2IxOFJBNmh6QS04cWw3UmRjWnRZU0h5Qg?oc=5",
-      "tarih": "2023-08-23T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "60ccb5c4c135",
-      "baslik": "Türkiye’de orman yangınlarıyla mücadele yeterli mi? - DW.com",
-      "ozet": "Türkiye’de orman yangınlarıyla mücadele yeterli mi? DW.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWhMWXJwMUxnZHBDRHVzWk5rSFRDTURCdWZzaWNTLWwtXzIyMFhoMk5PUVRQRDhySXNUWHJrandFakE4U2FFVWRPR0lHNUpXaTlqN3Exa1VSNVJqclRKaWFrYzk4M0VJLS1KYTZ5MGFucjh1dzE4SUJqNUNVc0pyc25iaGhNU2psajYzeVpCcVVmelNRR1d5a0FzLWFBOENXSm1SYtIBpAFBVV95cUxNZlpFUnVBdEhfQzBhWUlfOV82TmcyWGNNUnR6SWJPbjJTNDZCQktOYmNHUExvX1dBZ2V0T3FabWlfbnF0dlhLeHpJMVVyZ3JCT0JRdG5VRjVSR3lGVGxLZ09ub0phX0xkaFE4OVpQSXotaXRmazB4d2ZVWFlLbElUZERSbHJNOWFBTWpxR2IxOFJBNmh6QS04cWw3UmRjWnRZU0h5Qg?oc=5",
-      "tarih": "2023-08-23T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8233ffa3b995",
-      "baslik": "Trabzon Güney Çevre Yolu için acele kamulaştırma kararı - Sabah",
-      "ozet": "Trabzon Güney Çevre Yolu için acele kamulaştırma kararı Sabah",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFpaU3UxNVdKRmJjMnE4a0F2TGRfSFJNNmtXMHBZV1pSYjhJYXNOVVROM1ljUEZ4RkZZdEZPN2ZXN21mbmI1Qnh5WGdna29ndlBnMlpodWgwTFh0ekZqT1FJSng3WG5vaEJ4bmRaOXVsR3JfUDFPS2pEenRVZFhmVWpSejJRSXFSbzVteWx4Z1RBdjRGNHJvZXBpRGnSAZ8BQVVfeXFMTzN4ZG94VmxnOXdFWUh0QjFzN3haODEwaV9TODRVVDJOSld2eXRKaVNyZEREVzJmYl9QUGF0RjNJZU05Z0Q0ZnU5NG1XXzV2Tjh3bVQ1bXdHdTNwRUVsTkdGZmdUY2RDZm9oUWx1TzNuV2g1ckU0Z3JnM1lFeGxKUXN2cUdpNWl4MEs1Wm9jaE9KaWdrS2wzbEtQVWFTWVRZ?oc=5",
-      "tarih": "2023-07-07T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "251cf04240f3",
-      "baslik": "Amasra'daki maden ocağında yangının devam etmesi nedeniyle dördüncü 'baraj' yapılıyor - Anadolu Ajansı",
-      "ozet": "Amasra'daki maden ocağında yangının devam etmesi nedeniyle dördüncü 'baraj' yapılıyor Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVJoNDZmX1NzemUyd0FMb2F5V0FpWXRQWW14cTdXMC1VODN6aE9OR0hRdTZIdEl6NlVTSXVTQW9xVHI3SXIzN1Rudzh1eUhQRmwyMDFKWDZwLVVZM0g3cGFVNl9xbEVlc3B1ZVNabXFEcS1YS0xKYXFISnhydURna08tMElidnVPTTI2TERlb0hoLXJEYXFONXdNLTU4TTI3TDVDZTBkcUh6dGRrbWJHWkY3NGdTd1d4WS1Mem50RQ?oc=5",
-      "tarih": "2022-11-18T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cd18b4780ba3",
-      "baslik": "Amasra'daki maden ocağında yangının devam etmesi nedeniyle dördüncü 'baraj' yapılıyor - aa.com.tr",
-      "ozet": "Amasra'daki maden ocağında yangının devam etmesi nedeniyle dördüncü 'baraj' yapılıyor aa.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVJoNDZmX1NzemUyd0FMb2F5V0FpWXRQWW14cTdXMC1VODN6aE9OR0hRdTZIdEl6NlVTSXVTQW9xVHI3SXIzN1Rudzh1eUhQRmwyMDFKWDZwLVVZM0g3cGFVNl9xbEVlc3B1ZVNabXFEcS1YS0xKYXFISnhydURna08tMElidnVPTTI2TERlb0hoLXJEYXFONXdNLTU4TTI3TDVDZTBkcUh6dGRrbWJHWkY3NGdTd1d4WS1Mem50RQ?oc=5",
-      "tarih": "2022-11-18T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
