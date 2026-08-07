@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-07T09:53:49.483817+00:00",
+    "guncelleme": "2026-08-07T12:44:43.132325+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6454,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "bb07254b8e35",
+      "baslik": "Altında yükseliş kapıda mı? Uzman isimden ezber bozan tahmin!",
+      "ozet": "Altında yükseliş kapıda mı? Uzman isimden ezber bozan tahmin!",
+      "url": "https://www.sozcu.com.tr/altinda-yukselis-kapida-mi-uzman-isimden-ezber-bozan-tahmin-p343305",
+      "tarih": "2026-08-07T12:18:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3c18162ff749",
+      "baslik": "Serdar Dursun'un yeni adresi belli oldu",
+      "ozet": "Serdar Dursun'un yeni adresi belli oldu",
+      "url": "https://www.sozcu.com.tr/serdar-dursun-un-yeni-adresi-belli-oldu-p343278",
+      "tarih": "2026-08-07T11:06:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f7e0a1570a42",
+      "baslik": "4 katlı bina yüksekliğindeki denizaltı karadan yürütülerek denize indirildi",
+      "ozet": "4 katlı bina yüksekliğindeki denizaltı karadan yürütülerek denize indirildi",
+      "url": "https://www.sozcu.com.tr/4-katli-bina-yuksekligindeki-denizalti-karadan-yurutulerek-denize-indirildi-p343266",
+      "tarih": "2026-08-07T10:17:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9bd36772d386",
+      "baslik": "Süper Lig'de fırtınalar estirmişti: Yeni adresi şaşırttı",
+      "ozet": "Süper Lig'de fırtınalar estirmişti: Yeni adresi şaşırttı",
+      "url": "https://www.sozcu.com.tr/super-lig-de-firtinalar-estirmisti-yeni-adresi-sasirtti-p343264",
+      "tarih": "2026-08-07T10:10:04+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "21062c9d5b01",
       "baslik": "Yunan basını: Türk ve Yunan savaş uçakları Akdeniz'de it dalaşına girdi",
@@ -1969,46 +2009,6 @@
       "tarih": "2024-08-28T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "73b59c496d5e",
-      "baslik": "Elazığ'da orman ve mera alanında yangın - trthaber.com",
-      "ozet": "Elazığ'da orman ve mera alanında yangın trthaber.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTI3U0JUNHhCU0lfY25jMl9lYlBuT2thYmdydUcxRVZ1Z0hJd3hnRENEdzNZVU9wWjFoam1zQ1J6VkpkM0M0MkloSi13T0NjUnJrUzFfVFkxM0t6WDk3YzkxQUk5eEpDUEJrTFltSmZfX3ZKWEJIVmJMSUE2NkpDMXRTangwZXhFQ1ZJUDJ0eXItWE0?oc=5",
-      "tarih": "2024-06-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fc0e6d70ed6e",
-      "baslik": "Elazığ'da orman ve mera alanında yangın - TRT Haber",
-      "ozet": "Elazığ'da orman ve mera alanında yangın TRT Haber",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTI3U0JUNHhCU0lfY25jMl9lYlBuT2thYmdydUcxRVZ1Z0hJd3hnRENEdzNZVU9wWjFoam1zQ1J6VkpkM0M0MkloSi13T0NjUnJrUzFfVFkxM0t6WDk3YzkxQUk5eEpDUEJrTFltSmZfX3ZKWEJIVmJMSUE2NkpDMXRTangwZXhFQ1ZJUDJ0eXItWE0?oc=5",
-      "tarih": "2024-06-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f156a91b5b89",
-      "baslik": "Elazığ'da ormanlık alanda çıkan yangın kontrol altına alındı - Anadolu Ajansı",
-      "ozet": "Elazığ'da ormanlık alanda çıkan yangın kontrol altına alındı Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXhXNnhyZ3h3ZG1EVnBabmY4Y0xNNXhXZWxfWmFGVHl2NXdlRE9mODgwSTk2MEN2bnh1T0lLaHRPOG5mcjJqMVNsdEMyNzhXTnByM1FQd3Q5LWlFT2JKZDVVYm1vcnNQSU5MU1F3RHNoM3B1QUNWdmhHUEtGTjFJd2R6WV9KdjFQOFh4RC0zSVVjbkxwMGJXcVFTUFE1bFIz?oc=5",
-      "tarih": "2024-06-20T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "05e35c4e506c",
-      "baslik": "Elazığ'da ormanlık alanda çıkan yangın kontrol altına alındı - aa.com.tr",
-      "ozet": "Elazığ'da ormanlık alanda çıkan yangın kontrol altına alındı aa.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXhXNnhyZ3h3ZG1EVnBabmY4Y0xNNXhXZWxfWmFGVHl2NXdlRE9mODgwSTk2MEN2bnh1T0lLaHRPOG5mcjJqMVNsdEMyNzhXTnByM1FQd3Q5LWlFT2JKZDVVYm1vcnNQSU5MU1F3RHNoM3B1QUNWdmhHUEtGTjFJd2R6WV9KdjFQOFh4RC0zSVVjbkxwMGJXcVFTUFE1bFIz?oc=5",
-      "tarih": "2024-06-20T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
