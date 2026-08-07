@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-06T23:52:23.883423+00:00",
+    "guncelleme": "2026-08-07T04:49:41.207139+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6453,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6454,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -1242,6 +1242,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "54ed823b0d4d",
+      "baslik": "Muğla’da 2025’te 30 maden ocağı projesine ÇED olumlu kararı - Mabolla Medya",
+      "ozet": "Muğla’da 2025’te 30 maden ocağı projesine ÇED olumlu kararı Mabolla Medya",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0syU3RXNklVUm8wYW5GVUZkOG1rNDdxVEFWQmtfaHg2ZnVRVXl4UnZNSlBEYzFHX0plNW8wWWVxZ2hGZ0l5eEZpaUZmUTRKRGpOVElqc19tMG5xeUlXd0ZiU0pIdml2QkNIOGtGMVNCRjdHTmhQcVFodGFVYXVBZE1HMXZrTk54UTRJ?oc=5",
+      "tarih": "2026-02-04T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "865c4456f74f",
       "baslik": "Muğla'da 2025'te 30 maden ocağı projesine ÇED olumlu kararı - Anka Haber",
       "ozet": "Muğla'da 2025'te 30 maden ocağı projesine ÇED olumlu kararı Anka Haber",
@@ -1812,6 +1822,26 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "43d1097f6cac",
+      "baslik": "\"Yapılaşmaya açılan ormanların telafisi yok\"| Haberler - Gazete Kadıköy",
+      "ozet": "\"Yapılaşmaya açılan ormanların telafisi yok\"| Haberler Gazete Kadıköy",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjF3Z3JvU0xpSlJIODFnV0R5ZnhzOTlFTzNyN2NTc05GejBSSEI4ZFdrM1lmVGd0VVEyVlo4UllDbTZydXl6SHBTYVBBdmgxcS1xVFZSV0pvM1pHVHplNFJaeDFaY1dwT0EyRDZ2TXpUNS1McVpVN1o3YTR3UEYwR2hNT3NOdTdBRWc?oc=5",
+      "tarih": "2024-09-12T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "810b01b8f450",
+      "baslik": "Türkiye, kömürle çalışan zararlı termik santrali genişletmeyi planlıyor - Bianet",
+      "ozet": "Türkiye, kömürle çalışan zararlı termik santrali genişletmeyi planlıyor Bianet",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2JRSUlhWE12SzBoQ0lLVjBjZkNidVVhM250cEg4Vk4zcXVaNVFENE5Lbkh5S0dFRHFJSlFWamlGdzJMNlg5cThNY0NrOXhsNkEzUWJxTDVXSG9VNi1EZmdkSl9wWUpQblNJbi01TFgxWDJRWW8yT2ItWmJwdC1HaUplcTQtU3JVYUhsbkdnQzVsb3E5RDB1dDVOMjBod0hpYjEwYQ?oc=5",
+      "tarih": "2024-09-02T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "07a36426a778",
       "baslik": "Dersim Çemişgezek’e HES tehdidi - Bianet",
       "ozet": "Dersim Çemişgezek’e HES tehdidi Bianet",
@@ -1952,6 +1982,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "49c9a770f1cd",
+      "baslik": "Erdoğan'ın imzaladığı 'acele kamulaştırma' kararı yargıya gidiyor - gazeteduvar.com.tr",
+      "ozet": "Erdoğan'ın imzaladığı 'acele kamulaştırma' kararı yargıya gidiyor gazeteduvar.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQV9NaElUQ2RlWXNVZHpyQUdxZF8wd2dXUlZXaUF1XzdKSENYNTZ6NzZzaGcyNUxaODdOdkhRbjJZXzQya205RDljRWU5bWlZTkdOUWtJRzc3OTVNRHpOOE5QVmJFOW90WDgxQzJSbnduZktnRGMwazJUb2pxYzMyNUhHY1VvcjVjYWRaLWJ3dnh3RzZpSEFNTF9PeTNnMHBxeUJCcnFGSnp4eTBFVVcydlhKUXR5Z9IBuwFBVV95cUxNbklnbExjTm5pWk9aRUUxQ2pkN2Y2SnY3c1QtU3dfQWQ1NWFsVFoyZno3SmxIQllBUTJ6YXRpUERZME5LUWdEUUhlRGVsaW9mN1BYb2hweVJLZEt1bUE2UzlzM2VlYks5cENpM3h6V0U1VVQ4TjZ2MEZvYTNuQXBtUmVvZkhNU2JHWlZERV9SeU4tVDFaanU4dHJ6dF95OEtiSHJGYnBHY2VkeVh3QXZHU3NvWkdYNnVkdWhF?oc=5",
+      "tarih": "2022-01-15T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "3150c475bce1",
       "baslik": "Erdoğan'ın imzaladığı 'acele kamulaştırma' kararı yargıya gidiyor - Gazete Duvar",
       "ozet": "Erdoğan'ın imzaladığı 'acele kamulaştırma' kararı yargıya gidiyor Gazete Duvar",
@@ -1967,46 +2007,6 @@
       "ozet": "AKP döneminin ekolojik yıkım projeleri: Türkiye artık bir enkaz Yeşil Gazete",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2lQZS1sMHhMQkhYaTQ2VUZvNDJEUURPV09oTWYtazBfYi1heUZyNnVvSW4tWE1uUE5hZlVvOFEzbWtvRXQ3ZDczc094cEhjb2lvekZ0ZmVKZ2xfUmU4OXRYeXV3RFNEbzZFdlhjaWxHZWRnWjM1U21XeXdpQjlqSzBEVEM4RzB3V1BzQXhfRVg?oc=5",
       "tarih": "2021-06-04T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2f185b3242fb",
-      "baslik": "Malatya'da yurttaşlar, maden çalışmalarına tepkili! - tele1.com.tr",
-      "ozet": "Malatya'da yurttaşlar, maden çalışmalarına tepkili! tele1.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJeE91UkhHc2drZ2ljSjJockFGSkRsM3hjVko3X19jdFI5SEJ6c0IwNTgyLW9JSHhGUXpHWTlNMWpudC1udTA2ZXk1ZjhkM0NYNGpaZW1hVkJZaVJJSVY1RUxBMERzZUIwM0dzWE42cmVldHBOZUg2NnJpdW53UdIBgwFBVV95cUxNSW1nQ1JDLTY0N0RFbUxGVjNIaE5pNW5VYjE0ZFpXcmZRQVM1Tzl5Z0h0SjRHSDlyU2FHZk5wd3dNN3JpOWJQSlBkUlhsaHZfZUdIdi1nMlppcDA5c19LTDU1dkJQZmhaVnVsZXZyQ0V2NGNHOG1BNEFibW83M0FUV01Ybw?oc=5",
-      "tarih": "2021-01-21T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4bdc4ba5124b",
-      "baslik": "Hatay'da yanan arazinin ihaleye açılan maden arazisi olduğu iddiası - teyit.org",
-      "ozet": "Hatay'da yanan arazinin ihaleye açılan maden arazisi olduğu iddiası teyit.org",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdll3YmJacVBGd1V6ZDI2Q29LTmhucEpxSlBOQzlHVGtiOWNqWEc1TW4ydDMyQ2dzNGp3MXk2R3BVWjZKck15cVRuZjdXQ0lqR0pIQjU2ZnlKMk1FQUhaX1FQV2Y3NnhGeDZ6WkREejc0ek1oYi1Vb1NaRXJRYzhuaXh2QTNVQU5sNTF6Z2hnQ0paWjRwTkE?oc=5",
-      "tarih": "2020-10-15T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "feace1198fca",
-      "baslik": "Hatay'da yanan arazinin ihaleye açılan maden arazisi olduğu iddiası - Teyit",
-      "ozet": "Hatay'da yanan arazinin ihaleye açılan maden arazisi olduğu iddiası Teyit",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdll3YmJacVBGd1V6ZDI2Q29LTmhucEpxSlBOQzlHVGtiOWNqWEc1TW4ydDMyQ2dzNGp3MXk2R3BVWjZKck15cVRuZjdXQ0lqR0pIQjU2ZnlKMk1FQUhaX1FQV2Y3NnhGeDZ6WkREejc0ek1oYi1Vb1NaRXJRYzhuaXh2QTNVQU5sNTF6Z2hnQ0paWjRwTkE?oc=5",
-      "tarih": "2020-10-15T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7daf6a6971d0",
-      "baslik": "Çevre tehdidi haritası: 'Doğa ve yaban hayatı koruma'da sondan dördüncüyüz - diken.com.tr",
-      "ozet": "Çevre tehdidi haritası: 'Doğa ve yaban hayatı koruma'da sondan dördüncüyüz diken.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHNqTzI3YkQ4MmdTRHh3bXhlOWNJSHVMZWs0TjRocnJhTE81bi1zcDcxcXZ2ZW50ZW1oNVF6UkFvYU5DY2RxeWpEV3I2VURyZnNQN3NZTkl0dW9LY2pvbTJRbGpROTI4THY3WUVxQmVjYTJQb3JMWU9iaGhvd2VmcWdSc3lGdTA2NGhRTXg1ZjdyRW85SVRVY2xOdEFvdw?oc=5",
-      "tarih": "2016-06-06T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "HES / RES / Baraj",
       "kaynak_turu": "rss"
@@ -92352,6 +92352,20 @@
       "ozet": "Bursa yangını hakkında CHP'li Emir çok ağır konuştu! Maden detayı Halk TV",
       "lat": 40.2885,
       "lng": 29.1572,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-54ed823b0d4d",
+      "baslik": "Muğla’da 2025’te 30 maden ocağı projesine ÇED olumlu kararı - Mabolla Medya",
+      "konum": "Muğla",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "07.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0syU3RXNklVUm8wYW5GVUZkOG1rNDdxVEFWQmtfaHg2ZnVRVXl4UnZNSlBEYzFHX0plNW8wWWVxZ2hGZ0l5eEZpaUZmUTRKRGpOVElqc19tMG5xeUlXd0ZiU0pIdml2QkNIOGtGMVNCRjdHTmhQcVFodGFVYXVBZE1HMXZrTk54UTRJ?oc=5",
+      "ozet": "Muğla’da 2025’te 30 maden ocağı projesine ÇED olumlu kararı Mabolla Medya",
+      "lat": 37.2951,
+      "lng": 28.3457,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
