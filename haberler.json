@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-07T15:47:28.816834+00:00",
+    "guncelleme": "2026-08-07T18:43:13.559153+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6455,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "3e44c6beda8e",
+      "baslik": "DEM Parti ve YENİ Parti arasında 'Demirtaş' gerginliği! Salonda sesler aniden yükseldi",
+      "ozet": "DEM Parti ve YENİ Parti arasında 'Demirtaş' gerginliği! Salonda sesler aniden yükseldi",
+      "url": "https://www.sozcu.com.tr/dem-parti-ve-yeni-parti-arasinda-demirtas-gerginligi-salonda-sesler-aniden-yukseldi-p343370",
+      "tarih": "2026-08-07T18:26:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "adbac628fa73",
+      "baslik": "Menderes Belediye Başkanı İlkay Çiçek tutuklandı",
+      "ozet": "Menderes Belediye Başkanı İlkay Çiçek tutuklandı",
+      "url": "https://www.sozcu.com.tr/ilkay-cicek-tutuklandi-p343363",
+      "tarih": "2026-08-07T17:23:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "932ed945e562",
+      "baslik": "Galatasaray resmen açıkladı! Yıllar sonra geri döndü",
+      "ozet": "Galatasaray resmen açıkladı! Yıllar sonra geri döndü",
+      "url": "https://www.sozcu.com.tr/galatasaray-resmen-acikladi-yillar-sonra-geri-dondu-p343361",
+      "tarih": "2026-08-07T16:54:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e89324f93f4f",
       "baslik": "Son dakika...İşçi konteynerinde yangın",
@@ -1979,36 +2009,6 @@
       "tarih": "2025-02-04T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3e289fbeb99c",
-      "baslik": "Soma Termik Santrali'ne 1 milyon 393 bin lira ceza - TRT Haber",
-      "ozet": "Soma Termik Santrali'ne 1 milyon 393 bin lira ceza TRT Haber",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGx4alViMHZpanp4VE9JemgzREs0VFBwYWJkRDJ4RjNHTVlWLTY0V2dlYllTRFdHbi1Ra2NtakRMdUNIdXFiYW82ay1hdjdmN1B4SENLbWNLSkZuakhRM1IwQTB3N0M3dUF1RDhXVkFPc2g3UDhKVWlVcEZzUXhYSlRZdkdCMFYycnEtcnUzdi1vcFVKckt5V1laWUxsWGlBbnc?oc=5",
-      "tarih": "2024-12-06T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b40ffccb7eeb",
-      "baslik": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” - Bianet",
-      "ozet": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” Bianet",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWRySm1nVUJWY1kzdmlrNld3MC16UnFtU2hTUmozOUhEcUg4bnQ1Q3BHWlBpSlNsY005cE5scm1aWm8zdmRsQVRkUXdaVE9fU3RhTUNScjFON1VGejJQWmNFalJWVi1RNVVKYnpReUtTTUNoZlY3QXVOb3h5ZklCaG1MWTRZOWtLN2dlYWpaVkVmWmowY1kwakpEaXhiY1Q5dHhBci12Zw?oc=5",
-      "tarih": "2024-11-09T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aee51bf2efd4",
-      "baslik": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” - bianet.org",
-      "ozet": "“Türkiye, çevrenin korunmasına ilişkin uluslararası anlaşmaları onaylamalı” bianet.org",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWRySm1nVUJWY1kzdmlrNld3MC16UnFtU2hTUmozOUhEcUg4bnQ1Q3BHWlBpSlNsY005cE5scm1aWm8zdmRsQVRkUXdaVE9fU3RhTUNScjFON1VGejJQWmNFalJWVi1RNVVKYnpReUtTTUNoZlY3QXVOb3h5ZklCaG1MWTRZOWtLN2dlYWpaVkVmWmowY1kwakpEaXhiY1Q5dHhBci12Zw?oc=5",
-      "tarih": "2024-11-09T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
