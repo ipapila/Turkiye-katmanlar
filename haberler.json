@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-07T12:44:43.132325+00:00",
+    "guncelleme": "2026-08-07T15:47:28.816834+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6454,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6455,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "e89324f93f4f",
+      "baslik": "Son dakika...İşçi konteynerinde yangın",
+      "ozet": "Son dakika...İşçi konteynerinde yangın",
+      "url": "https://www.sozcu.com.tr/son-dakika-isci-konteynerinde-yangin-p343335",
+      "tarih": "2026-08-07T14:19:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "bb07254b8e35",
       "baslik": "Altında yükseliş kapıda mı? Uzman isimden ezber bozan tahmin!",
@@ -852,6 +862,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "1769389c39ce",
+      "baslik": "Ordu'da maden projesi davasında bilirkişi raporu: Maden sahasında 18. yüzyıldan kalma 102 mezar tespit edildi - Cumhuriyet",
+      "ozet": "Ordu'da maden projesi davasında bilirkişi raporu: Maden sahasında 18. yüzyıldan kalma 102 mezar tespit edildi Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWRnR1dqZ0V6ZUtoTW1PX3BTRkhXOHo5dm9mRWpjWFVGUFhMTjQwdU82bG93R1NIcWdyQVBCVmlPeEFLa0RlcW81cmktYkU2ajZqVW9mUlR3b3RRM0pJb2h6cTJGYnowRVFXODcxTkRQdDFOMVlWSWZYNEF6ei1obEdNd2lSbFh6ZF9FaG1Ya2wxbHVFWVE1TFNHM1c1WmJKeENxVVM5NE45QjdYeTFMZHdZYTZDODBKd1BFUEVsbEVGbW9NV1hrMkYtcUdWZ0NwLTA0c0FQZVVyeWpLamhZcFZVcWNaeXNI?oc=5",
+      "tarih": "2026-07-14T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "60fe86e74dfc",
       "baslik": "Ev sahipleri dikkat! Kiracının evine izinsiz girmenin cezası hapis olabilir - Cumhuriyet",
       "ozet": "Ev sahipleri dikkat! Kiracının evine izinsiz girmenin cezası hapis olabilir Cumhuriyet",
@@ -1662,6 +1682,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "07de7993b4fd",
+      "baslik": "Bursa'daki orman yangınında kaçıp 7 yavrusuyla maden ocağına sığınmış - hurriyet.com.tr",
+      "ozet": "Bursa'daki orman yangınında kaçıp 7 yavrusuyla maden ocağına sığınmış hurriyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTi1VQnFkVXZ2RDRCN19sTzktRnFfazA1dU9ITkFacmREYnFjVEUyVTJIa3lZTWJZWG41Q09URlp4RFlCMW1fOVdtTmlMV25uRHgzWXVvM3JsSm9aRkJrcXBUSFlvZmd6bTlnQWJfUGgyanI3eFo5cXpNSTFjcEZqWWpudEszUkpnWHVGMmpjbnN2VE5oUTF3TFp4TzRENXM3Y3VCUWFsUGd4a0xGQXBVSzBvWQ?oc=5",
+      "tarih": "2025-08-08T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "af4609be2a7b",
       "baslik": "Bursa'daki orman yangınında kaçıp 7 yavrusuyla maden ocağına sığınmış - Hürriyet",
       "ozet": "Bursa'daki orman yangınında kaçıp 7 yavrusuyla maden ocağına sığınmış Hürriyet",
@@ -1677,6 +1707,16 @@
       "ozet": "Bursa'da yanan ormanlık alanın maden sahası ilan edilmesi için \"ÇED gerekli değildir\" raporu alınmış Gazete Oksijen",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSC1NWU5QYVVKQmxRMXNxamhwOS1ldHhNaVl0NDJISTJzUW9yNkNLQWVQcWZuOTJGc2thaXdSZmt1RXIwaTJsZG85dG9Od1YzRWg2bnRla1h1TkxBR3pTWFFERWNUR2RXVGxSZjVJaHpadG82MENVWmxkUUZ1X3BvWDhnNjY1ZGUzOXdDQkVpZS1ETVZjM0hHck1qc1BzdngyNDd0bVZtRW52VVVMUkRXanVxQ251cDlXU0lITnhkMEN0ZkcteEFPUDhLaWVsdUFhSDVEVQ?oc=5",
       "tarih": "2025-07-30T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "21d33188d6af",
+      "baslik": "Bursa yangını hakkında CHP'li Emir çok ağır konuştu! Maden detayı - halktv.com.tr",
+      "ozet": "Bursa yangını hakkında CHP'li Emir çok ağır konuştu! Maden detayı halktv.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkxQUmR6NkVvRk8wQlNlZnBaRzhKcDdVT2s0LWhCbjhVYlhBeTRtNW9GX25tOS1WWkdNWXg0VktLbHk4eHlJQ2lzdm9wS3k0d1VybFl4MWROWkhSOGxWTTQtZjhkOEdqSEFBQVdrSTk3US1VVXZGYjVySkE0NDNNa1JEVnlEcl9WM0NEUktIaHJ2dllya3ZFRkZnWk9scHI3cWlF?oc=5",
+      "tarih": "2025-07-28T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
@@ -1969,46 +2009,6 @@
       "tarih": "2024-11-09T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "43d1097f6cac",
-      "baslik": "\"Yapılaşmaya açılan ormanların telafisi yok\"| Haberler - Gazete Kadıköy",
-      "ozet": "\"Yapılaşmaya açılan ormanların telafisi yok\"| Haberler Gazete Kadıköy",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjF3Z3JvU0xpSlJIODFnV0R5ZnhzOTlFTzNyN2NTc05GejBSSEI4ZFdrM1lmVGd0VVEyVlo4UllDbTZydXl6SHBTYVBBdmgxcS1xVFZSV0pvM1pHVHplNFJaeDFaY1dwT0EyRDZ2TXpUNS1McVpVN1o3YTR3UEYwR2hNT3NOdTdBRWc?oc=5",
-      "tarih": "2024-09-12T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "810b01b8f450",
-      "baslik": "Türkiye, kömürle çalışan zararlı termik santrali genişletmeyi planlıyor - Bianet",
-      "ozet": "Türkiye, kömürle çalışan zararlı termik santrali genişletmeyi planlıyor Bianet",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2JRSUlhWE12SzBoQ0lLVjBjZkNidVVhM250cEg4Vk4zcXVaNVFENE5Lbkh5S0dFRHFJSlFWamlGdzJMNlg5cThNY0NrOXhsNkEzUWJxTDVXSG9VNi1EZmdkSl9wWUpQblNJbi01TFgxWDJRWW8yT2ItWmJwdC1HaUplcTQtU3JVYUhsbkdnQzVsb3E5RDB1dDVOMjBod0hpYjEwYQ?oc=5",
-      "tarih": "2024-09-02T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "07a36426a778",
-      "baslik": "Dersim Çemişgezek’e HES tehdidi - Bianet",
-      "ozet": "Dersim Çemişgezek’e HES tehdidi Bianet",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9na3VWMHBFNUpJbmFUX2stdGZ1ajNCRU5qd0hmRU0wR1BKVGdiOFVDaGIyYnFTeWFOYVZjdHFLM1ZSaUZHT3puSnlUbWhwQU9SallVckpDTmV5S0dRWWh2VDNVVTRlU2QxTDNzVXBYcw?oc=5",
-      "tarih": "2024-08-28T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f15848b99261",
-      "baslik": "Dersim Çemişgezek’e HES tehdidi - bianet.org",
-      "ozet": "Dersim Çemişgezek’e HES tehdidi bianet.org",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9na3VWMHBFNUpJbmFUX2stdGZ1ajNCRU5qd0hmRU0wR1BKVGdiOFVDaGIyYnFTeWFOYVZjdHFLM1ZSaUZHT3puSnlUbWhwQU9SallVckpDTmV5S0dRWWh2VDNVVTRlU2QxTDNzVXBYcw?oc=5",
-      "tarih": "2024-08-28T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
       "kaynak_turu": "rss"
     }
   ],
@@ -92366,6 +92366,20 @@
       "ozet": "Muğla’da 2025’te 30 maden ocağı projesine ÇED olumlu kararı Mabolla Medya",
       "lat": 37.2951,
       "lng": 28.3457,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-1769389c39ce",
+      "baslik": "Ordu'da maden projesi davasında bilirkişi raporu: Maden sahasında 18. yüzyıldan kalma 102 mezar tespit edildi - Cumhuriyet",
+      "konum": "Ordu",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "07.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWRnR1dqZ0V6ZUtoTW1PX3BTRkhXOHo5dm9mRWpjWFVGUFhMTjQwdU82bG93R1NIcWdyQVBCVmlPeEFLa0RlcW81cmktYkU2ajZqVW9mUlR3b3RRM0pJb2h6cTJGYnowRVFXODcxTkRQdDFOMVlWSWZYNEF6ei1obEdNd2lSbFh6ZF9FaG1Ya2wxbHVFWVE1TFNHM1c1WmJKeENxVVM5NE45QjdYeTFMZHdZYTZDODBKd1BFUEVsbEVGbW9NV1hrMkYtcUdWZ0NwLTA0c0FQZVVyeWpLamhZcFZVcWNaeXNI?oc=5",
+      "ozet": "Ordu'da maden projesi davasında bilirkişi raporu: Maden sahasında 18. yüzyıldan kalma 102 mezar tespit edildi Cumhuriyet",
+      "lat": 41.0306,
+      "lng": 37.953,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
