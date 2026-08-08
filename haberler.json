@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-08T06:38:02.734839+00:00",
+    "guncelleme": "2026-08-08T09:29:55.128500+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6455,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "632f2b147cd0",
+      "baslik": "Cankurtaranlar kıyıya 500 metre mesafede buldu! İhbar üzerine ekipler geldi",
+      "ozet": "Cankurtaranlar kıyıya 500 metre mesafede buldu! İhbar üzerine ekipler geldi",
+      "url": "https://www.sozcu.com.tr/cankurtaranlar-kiyiya-500-metre-mesafede-buldu-ihbar-uzerine-ekipler-geldi-p343498",
+      "tarih": "2026-08-08T09:25:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a375a9716fda",
+      "baslik": "ABD araya girdi: Ukrayna İHA'ları Karadeniz'i rahat bırakacak",
+      "ozet": "ABD araya girdi: Ukrayna İHA'ları Karadeniz'i rahat bırakacak",
+      "url": "https://www.sozcu.com.tr/abd-araya-girdi-ukrayna-iha-lari-karadeniz-i-rahat-birakacak-p343481",
+      "tarih": "2026-08-08T08:43:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ee0272e9dff5",
       "baslik": "Fenerbahçe İsmail Yüksek kararını resmen duyurdu",
@@ -1252,6 +1272,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "3b7280e45b66",
+      "baslik": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı - marasmanset.com",
+      "ozet": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı marasmanset.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODJVWXdSRVk0N1JDZ1Zyd1dUNkpmZVoxeVphU0Z0ZU9ld0Z5NWlFWndIMEVWRndpVV8yS2N2a0FtdThBdjFLU3NadlhNY01CbURyb2RyV2kzODdkZl8tLWpuVTVhcGhuTEdSS2FBYjdCSmhjdWlXUXlzZ1NfVHJLanRwZVM?oc=5",
+      "tarih": "2026-04-17T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "f23a7b681254",
       "baslik": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı - Kahramanmaraş Manşet Gazetesi",
       "ozet": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı Kahramanmaraş Manşet Gazetesi",
@@ -1297,6 +1327,16 @@
       "ozet": "4 il için acele kamulaştırma imzası çıktı KARAR",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnM2QVE2dHVtenpZdWZFVXBuOWphSVRmV3dzR053ZHNXVXJoU2FXU0tnYm0tWGJZZUY3OVBjamxVbWQwbmxkM0t0LWxSS19FendyNFJCcVZOR0Q2ZVh2WlZ3YVpnMlVXNUhRWHFSOVk0Z1pWMi1GZmRCME8tTWIwaTdIMlBiai1qNld5eHBDQ3k?oc=5",
       "tarih": "2026-04-17T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d51b77131688",
+      "baslik": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' - Evrensel",
+      "ozet": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' Evrensel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnBENWhjSzROQlQ3c0lJRTVVbGR5aXV1RHZoTHV6Y2U4N0VFUFF3SFJDRlBDZ3JJTTRrMG5xek9NOXFFcVZDV0JXVXlWUTBfV0kxNEh4bTdBUVBKUk1PQTFoaDMyd1hQdlg0MXhSVHRFS3E2Q2U1dzdLb3Y3Zk9hRXpOaUF6emhEbTY2NnFBcTRNTWxnVXFMUURkZVMzbWVYS1E?oc=5",
+      "tarih": "2026-03-23T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
@@ -1459,6 +1499,16 @@
       "tarih": "2026-02-24T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fa513c8bec9f",
+      "baslik": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! - sabah.com.tr",
+      "ozet": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! sabah.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRU5paURLbl94SjhCa1lMQ29XbHNOT1pjNXQ2aGczdWY5SGVLVjBpMHZRMk1USmRyLTBJd3Jkdm1ld1dUTXkwZHVvNklDZ1ZXMWpob2ZCODM0c1R2cnMwbXJiLTVPTDgzZ0RwMWw5Ynd1enZ2Qm5GejNiWFVCVFFhX0ZablRrWGxPMU8zR2J3UHZtQXZHYng0UEctV0dzQlpILUVLLTBxMS1FMVhiQ0hoeXZPZEJkV0VoYUd6OVVjVFRFMTRZUTZQbdIBywFBVV95cUxPZjNhRlJZRjU0eG85bktKZ3E2bW5CUFl5NE1tZXdmWW5HTUsyM0hOSUdzWHJyWkstNVZyU0l6bnI4c00tWUswc2czcndDOVN6QkhBa2JacTZZN002ei1wQ2lRRXdkV2M2RDlzRjFaa0E0UjdOdll1UV9SUEEyX3dvQ015SnRtb0JsQkVzRmFSa1R1cDBqYmQydkZFWVVZV29hZURsWTVWTkM5dkJjbjgyMFJJRjlDUHhxNWpvT0lVS2FxSElBTXk3Z2dibw?oc=5",
+      "tarih": "2026-02-21T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1822,11 +1872,31 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "b4170bbc669a",
+      "baslik": "Bursa'da yanan ormanlık alanın maden sahası ilan edilmesi için \"ÇED gerekli değildir\" raporu alınmış - gazeteoksijen.com",
+      "ozet": "Bursa'da yanan ormanlık alanın maden sahası ilan edilmesi için \"ÇED gerekli değildir\" raporu alınmış gazeteoksijen.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSC1NWU5QYVVKQmxRMXNxamhwOS1ldHhNaVl0NDJISTJzUW9yNkNLQWVQcWZuOTJGc2thaXdSZmt1RXIwaTJsZG85dG9Od1YzRWg2bnRla1h1TkxBR3pTWFFERWNUR2RXVGxSZjVJaHpadG82MENVWmxkUUZ1X3BvWDhnNjY1ZGUzOXdDQkVpZS1ETVZjM0hHck1qc1BzdngyNDd0bVZtRW52VVVMUkRXanVxQ251cDlXU0lITnhkMEN0ZkcteEFPUDhLaWVsdUFhSDVEVQ?oc=5",
+      "tarih": "2025-07-30T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "a0c2f536721c",
       "baslik": "Bursa'da yanan ormanlık alanın maden sahası ilan edilmesi için \"ÇED gerekli değildir\" raporu alınmış - Gazete Oksijen",
       "ozet": "Bursa'da yanan ormanlık alanın maden sahası ilan edilmesi için \"ÇED gerekli değildir\" raporu alınmış Gazete Oksijen",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSC1NWU5QYVVKQmxRMXNxamhwOS1ldHhNaVl0NDJISTJzUW9yNkNLQWVQcWZuOTJGc2thaXdSZmt1RXIwaTJsZG85dG9Od1YzRWg2bnRla1h1TkxBR3pTWFFERWNUR2RXVGxSZjVJaHpadG82MENVWmxkUUZ1X3BvWDhnNjY1ZGUzOXdDQkVpZS1ETVZjM0hHck1qc1BzdngyNDd0bVZtRW52VVVMUkRXanVxQ251cDlXU0lITnhkMEN0ZkcteEFPUDhLaWVsdUFhSDVEVQ?oc=5",
       "tarih": "2025-07-30T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "818f10567025",
+      "baslik": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı - diken.com.tr",
+      "ozet": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı diken.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXZlc0pQLXRFWTB5aENRdElsN2ZNbHp2V1plVmZTUzdRMFh3ZnpjRWZCZmoxcG1wQnFxUC03MmFHT1dDeUFkZFQweWw4R0ZYd3AwaDBfUkFncnNudHIyd2VyZFJPVkVLYWNrdWZST19XZFVTTUhWRVRYN2xBWk1obFg5cGRqRndCYzd2ZXFSRmVfQ1F4dUJMTHRjSGhuQ2M?oc=5",
+      "tarih": "2025-07-28T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
@@ -1892,6 +1962,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "4a8374561d12",
+      "baslik": "Muğla’da 48 saatte 5 maden projesi için “ÇED gerekli değil” kararı verildi - gazeteoksijen.com",
+      "ozet": "Muğla’da 48 saatte 5 maden projesi için “ÇED gerekli değil” kararı verildi gazeteoksijen.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzBmRWJZY3IwaDhReDctOVJDXzFuRF9KWVNQVDNzS2VVQWFRVkRmQXdWdzFoSi1jN01aUFZxaU1kc3RLNmtqbDVWaUszNW54NzlZY1NXam1ucWFwMl9wUk0zaHhwZm1aXzZMYTdYSzZMTnNIOXRIa3VYeE1QQ2F4M2J4MUQ3MUdoYzNqNGVubW0wM1MzemZGY29KXzI5X242R0NqMEdZVXpzUWJIeFo0TVdB?oc=5",
+      "tarih": "2025-07-26T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "74ed75ab7981",
       "baslik": "Muğla’da 48 saatte 5 maden projesi için “ÇED gerekli değil” kararı verildi - Gazete Oksijen",
       "ozet": "Muğla’da 48 saatte 5 maden projesi için “ÇED gerekli değil” kararı verildi Gazete Oksijen",
@@ -1929,86 +2009,6 @@
       "tarih": "2025-07-19T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bcf5621b5f7b",
-      "baslik": "Madenciliğe alan açan yasa, TBMM’de adım adım geçiyor - Bianet",
-      "ozet": "Madenciliğe alan açan yasa, TBMM’de adım adım geçiyor Bianet",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjJzcl9TNV9pa2J2REhtWUZ6MjZ4X25takN0RXNJVGVGLVNYeHlpaXpkOFQwSlQtc0pBaG1YQ0dPTHptcTRubHI4UDdwUjhlSHN5U3hUNUVCWjBaNkZ4QnBaM1pSWGFTLWdzYlBoVmdMRVNZTG5rSWt5d1ZtMG5pWkJ4UlB6R3ZHLTh3?oc=5",
-      "tarih": "2025-07-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "19a5ffb03aa1",
-      "baslik": "Madenciliğe alan açan yasa, TBMM’de adım adım geçiyor - bianet.org",
-      "ozet": "Madenciliğe alan açan yasa, TBMM’de adım adım geçiyor bianet.org",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjJzcl9TNV9pa2J2REhtWUZ6MjZ4X25takN0RXNJVGVGLVNYeHlpaXpkOFQwSlQtc0pBaG1YQ0dPTHptcTRubHI4UDdwUjhlSHN5U3hUNUVCWjBaNkZ4QnBaM1pSWGFTLWdzYlBoVmdMRVNZTG5rSWt5d1ZtMG5pWkJ4UlB6R3ZHLTh3?oc=5",
-      "tarih": "2025-07-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3c24e2a2cbbf",
-      "baslik": "1985'den beri 30 kez değiştirildi: 'En tehlikeli maden kanunu teklifi' TBMM'de görüşülecek - Gazete Oksijen",
-      "ozet": "1985'den beri 30 kez değiştirildi: 'En tehlikeli maden kanunu teklifi' TBMM'de görüşülecek Gazete Oksijen",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGp3RmFtYUo1WVdMd1U1WkdIc1YxN1M2T0Z0enhxTjFmdXIyRmY1eVBKVGpUdDZ4aGZiTFdfQjZWWUtQT0RDQzBET3B3SWJlQncyQlRJa1JRbC1QZzNiR0dWc1Z0dVpPVGMxMF9aLWRXSWxwazFwNEFTTzdzWHlWcFROQ2hlak1BRzFLQmZvcTBTUmdkU1JLVXV2WEFQeDAtY0N0aVFSSHlRQ2w4RjdUUWwxQk5mNEw5b2IwN2d0SWdFbDJX?oc=5",
-      "tarih": "2025-06-23T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "83aea0197a56",
-      "baslik": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? - Euronews",
-      "ozet": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? Euronews",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWW5jdXEyVi1oaGNGajFtZVZjTXdHM0Q3QW5mblE3UkxQZDJCSVc5OTVzYzNScTR3d0V6T1hvTDJVMVgzYXA4bHBNZlU4VjZ1V184WVV3VllxdHNGVHlnaWljQjdrb1k0UDl2V1BCY01aOHpEOHZLdHJhTlg3T3haU0pJTXB4cDZJUWttMmRPQzhzc0ZrZEFwc2RwWTJwS1VuMk95TDZXdjdCZVZPaFlkRmdhclU1WnZYYUNYd1VJQ2Y5SXM?oc=5",
-      "tarih": "2025-06-20T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "af0375f1db06",
-      "baslik": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? - tr.euronews.com",
-      "ozet": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? tr.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWW5jdXEyVi1oaGNGajFtZVZjTXdHM0Q3QW5mblE3UkxQZDJCSVc5OTVzYzNScTR3d0V6T1hvTDJVMVgzYXA4bHBNZlU4VjZ1V184WVV3VllxdHNGVHlnaWljQjdrb1k0UDl2V1BCY01aOHpEOHZLdHJhTlg3T3haU0pJTXB4cDZJUWttMmRPQzhzc0ZrZEFwc2RwWTJwS1VuMk95TDZXdjdCZVZPaFlkRmdhclU1WnZYYUNYd1VJQ2Y5SXM?oc=5",
-      "tarih": "2025-06-20T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1a5e55699d40",
-      "baslik": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? - Euronews.com",
-      "ozet": "Zeytinlik mi maden mi?: Enerji arzı yasa tasarısı neden tartışılıyor? Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWW5jdXEyVi1oaGNGajFtZVZjTXdHM0Q3QW5mblE3UkxQZDJCSVc5OTVzYzNScTR3d0V6T1hvTDJVMVgzYXA4bHBNZlU4VjZ1V184WVV3VllxdHNGVHlnaWljQjdrb1k0UDl2V1BCY01aOHpEOHZLdHJhTlg3T3haU0pJTXB4cDZJUWttMmRPQzhzc0ZrZEFwc2RwWTJwS1VuMk95TDZXdjdCZVZPaFlkRmdhclU1WnZYYUNYd1VJQ2Y5SXM?oc=5",
-      "tarih": "2025-06-20T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f88811aed6ba",
-      "baslik": "Zeytinlikler: Enerji ve madencilik düzenlemesi neden tartışılıyor? - BBC",
-      "ozet": "Zeytinlikler: Enerji ve madencilik düzenlemesi neden tartışılıyor? BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IQll1VkhORzRjRXNjYkw5aDdjaXo5TmhYTk9sLXE1Q0gwMWc4MWJ3Y0RxTWJVVFd2b1h2SDFQa2JGZ1VlUnVrbGVyaVZCeTYzTF9OSXhYb0p3YlJv0gFiQVVfeXFMUGFiendnMlljV3JGTzJLeGRodmpWZkVhSmhfSjNkMTIwTDVOYzRVV0s4T1lvQk9OVGYxU1cyMFp4a2ZtNnZSRTlvT1BtWE5EMG44RjZRczExZFJ6bDJuZmJ5NkE?oc=5",
-      "tarih": "2025-06-20T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e6398d93a529",
-      "baslik": "Kanal İstanbul: Montrö tartışmalarının gölgesinde uluslararası çevre hukuku rafta - Bianet",
-      "ozet": "Kanal İstanbul: Montrö tartışmalarının gölgesinde uluslararası çevre hukuku rafta Bianet",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNak5OUFVGSFk5bUpVN0d4cUZlb2lob1VFMGNJSlNBdE9vRE4yYk8zRHd0Z2NkN1VKWmkwZzlVNWtkMjdIS0FmeXBWWHFGeGhzUm5uNGVWNnVYR1VqWnpwM1RYVkVlbGZDU05uZWJVMXN0SlF1b0RkTVlyOGtjNjVLMjl1NXY1YmZsRDc2SGRxNThHS1NIOE00dE9HOU9SYUgzT2paMHR3MzBHZnZBdDhjVy1n?oc=5",
-      "tarih": "2025-05-09T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
