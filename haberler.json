@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-07T18:43:13.559153+00:00",
+    "guncelleme": "2026-08-08T04:07:29.252054+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6455,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "79b713e23a3b",
+      "baslik": "37 gün geçti, Atatürk’ün portresi hâlâ konulmadı",
+      "ozet": "37 gün geçti, Atatürk’ün portresi hâlâ konulmadı",
+      "url": "https://www.sozcu.com.tr/37-gun-gecti-ataturk-un-portresi-hala-konulmadi-p343414",
+      "tarih": "2026-08-08T02:30:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ecb2fed4ddf8",
+      "baslik": "Enflasyon sebep aile yıkımı sonuç",
+      "ozet": "Enflasyon sebep aile yıkımı sonuç",
+      "url": "https://www.sozcu.com.tr/enflasyon-sebep-aile-yikimi-sonuc-p343413",
+      "tarih": "2026-08-08T02:20:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9a0f6e2e6a3d",
+      "baslik": "10 milyarlık borç hal esnafını vurdu",
+      "ozet": "10 milyarlık borç hal esnafını vurdu",
+      "url": "https://www.sozcu.com.tr/10-milyarlik-borc-hal-esnafini-vurdu-p343410",
+      "tarih": "2026-08-08T01:59:54+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "3e44c6beda8e",
       "baslik": "DEM Parti ve YENİ Parti arasında 'Demirtaş' gerginliği! Salonda sesler aniden yükseldi",
@@ -1979,36 +2009,6 @@
       "tarih": "2025-03-04T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7af0ebc6d1c5",
-      "baslik": "Dersimliler ve çevreciler Munzur Gözeleri için tam koruma istiyor - bianet.org",
-      "ozet": "Dersimliler ve çevreciler Munzur Gözeleri için tam koruma istiyor bianet.org",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRURXalprZG10S25MdXRsTUpacTBSYl93bVpmM3Z6Z3hZX3pJenc0U0w2bng4NThpd2pmcDJZV2FQcnM2Znoycmk2OG9GX0JOX3owZ0Z5ZE4wbFIzc080dFBNM3lVdHNaT0JvTndPdVNyWUJlcGdnMlhBTnR1WngxTGNXWDBZZEYzdjZOMmJwbUktMDAwaW1rOTBqNWkxZw?oc=5",
-      "tarih": "2025-03-04T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1a26088a85d3",
-      "baslik": "TOKİ: Malatya'daki kamulaştırma tartışması ile ilgili neler biliniyor? - bbc.com",
-      "ozet": "TOKİ: Malatya'daki kamulaştırma tartışması ile ilgili neler biliniyor? bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jMkxJdXhzd2Q1QjBLRUJHcGxKTFJrMk5IZFV0d0pORVlnNlZ6ZzIwU2dENERXa24tUmFPOVFLdEpsVDY0Qk5UajhXelVwMnFCZjZIcGJZcWtUbW5L0gFiQVVfeXFMUFFZdzRhOUFMMnFFcHh1WG5ETzIwZXRUOXpHckpzQlYwbFI4NEp3U05aM3RCWUY3dWVBekZoT1I3THBZZ3FUZV9QOUVUanZzY0R1dFNlTnN6MERHVHdXNVhoQXc?oc=5",
-      "tarih": "2025-02-04T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0736f22dc994",
-      "baslik": "TOKİ: Malatya'daki kamulaştırma tartışması ile ilgili neler biliniyor? - BBC",
-      "ozet": "TOKİ: Malatya'daki kamulaştırma tartışması ile ilgili neler biliniyor? BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jMkxJdXhzd2Q1QjBLRUJHcGxKTFJrMk5IZFV0d0pORVlnNlZ6ZzIwU2dENERXa24tUmFPOVFLdEpsVDY0Qk5UajhXelVwMnFCZjZIcGJZcWtUbW5L0gFiQVVfeXFMUFFZdzRhOUFMMnFFcHh1WG5ETzIwZXRUOXpHckpzQlYwbFI4NEp3U05aM3RCWUY3dWVBekZoT1I3THBZZ3FUZV9QOUVUanZzY0R1dFNlTnN6MERHVHdXNVhoQXc?oc=5",
-      "tarih": "2025-02-04T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
