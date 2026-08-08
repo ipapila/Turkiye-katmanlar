@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-08T09:29:55.128500+00:00",
+    "guncelleme": "2026-08-08T12:31:42.133258+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6455,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "bc1bef43d936",
+      "baslik": "ABD basını yazdı: Türkiye Karadeniz'de gemicilik faaliyetlerini kısıtlayacak",
+      "ozet": "ABD basını yazdı: Türkiye Karadeniz'de gemicilik faaliyetlerini kısıtlayacak",
+      "url": "https://www.sozcu.com.tr/abd-basini-yazdi-turkiye-karadeniz-de-gemicilik-faaliyetlerini-kisitlayacak-p343518",
+      "tarih": "2026-08-08T11:34:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ade37d7b8530",
+      "baslik": "Anket sonucu dikkat çekti: Erdoğan’ı geçen iki isim belli oldu",
+      "ozet": "Anket sonucu dikkat çekti: Erdoğan’ı geçen iki isim belli oldu",
+      "url": "https://www.sozcu.com.tr/anket-sonucu-dikkat-cekti-iste-erdogan-i-gecen-iki-isim-p343520",
+      "tarih": "2026-08-08T11:28:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "632f2b147cd0",
       "baslik": "Cankurtaranlar kıyıya 500 metre mesafede buldu! İhbar üzerine ekipler geldi",
@@ -1192,6 +1212,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "38a61e16c1b0",
+      "baslik": "Danıştay'ın Akbelen kararı... Kaboğlu: \"Danıştay, ülkemizi acele kamulaştırma adı altında korsan el koymalardan kurtarmalıdır\" - Anka Haber",
+      "ozet": "Danıştay'ın Akbelen kararı... Kaboğlu: \"Danıştay, ülkemizi acele kamulaştırma adı altında korsan el koymalardan kurtarmalıdır\" Anka Haber",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOTJpSnRfaDR0QVh5LXJUUWhhWXRfRjdMMkZsQVFQSEUzWkx2Zk1fQ3NIcUQ3ZV9WQkQ3YW5NV0hZRHpGa2FlaE5MdFM0ZWhVbUVnUFoxOFBvNEJBWWswVGNUb1JGTi1iSURBZjI4MGlDbGdweFBfeWNZbTNTVjZGcklROTExeE5GWnJnbTVkWXRoRmY2U3pXY1pGTnZaeU5fRi01STFrSDR5aDZJRExlYmNpN20xZlNSYTctdGdVZW5Kd0h0U2E2a1cwbU9kM21lZDREQ3phWm5JczJoYldvRTY0emh1c0cydDBuRUl3Vkc?oc=5",
+      "tarih": "2026-05-08T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "e1c1b4cd1e11",
       "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - ankahaber.net",
       "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu ankahaber.net",
@@ -1977,36 +2007,6 @@
       "ozet": "Muğla’da 48 saatte 5 maden projesi için “ÇED gerekli değil” kararı verildi Gazete Oksijen",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzBmRWJZY3IwaDhReDctOVJDXzFuRF9KWVNQVDNzS2VVQWFRVkRmQXdWdzFoSi1jN01aUFZxaU1kc3RLNmtqbDVWaUszNW54NzlZY1NXam1ucWFwMl9wUk0zaHhwZm1aXzZMYTdYSzZMTnNIOXRIa3VYeE1QQ2F4M2J4MUQ3MUdoYzNqNGVubW0wM1MzemZGY29KXzI5X242R0NqMEdZVXpzUWJIeFo0TVdB?oc=5",
       "tarih": "2025-07-26T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "12ff5c27a653",
-      "baslik": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı - Euronews",
-      "ozet": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı Euronews",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblE3X0xLakdsY1RIb21jRDVYVEdJakc2Q1R1eGVxMnFnZUJnVzJNMnRoSUZ0SWowSlBNRzA3dmdCTTUyc1ZOMHFNMTBwWDNwd0R5c0Y0MThfMFYzME84TWM5TkNUc01WVlVxTUk2QzBMMjZ6N3JDZFFYRFhnSVJaTXV4Q0M0ejAyNUViV3dBUG9vY2tCLUVaV2JjMWwxZFAzcWNicDIzNFVrZ3J2MmdianhGQU0zT3lvQmhXLXJLLVRLT2c?oc=5",
-      "tarih": "2025-07-19T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "af8759141f39",
-      "baslik": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı - tr.euronews.com",
-      "ozet": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı tr.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblE3X0xLakdsY1RIb21jRDVYVEdJakc2Q1R1eGVxMnFnZUJnVzJNMnRoSUZ0SWowSlBNRzA3dmdCTTUyc1ZOMHFNMTBwWDNwd0R5c0Y0MThfMFYzME84TWM5TkNUc01WVlVxTUk2QzBMMjZ6N3JDZFFYRFhnSVJaTXV4Q0M0ejAyNUViV3dBUG9vY2tCLUVaV2JjMWwxZFAzcWNicDIzNFVrZ3J2MmdianhGQU0zT3lvQmhXLXJLLVRLT2c?oc=5",
-      "tarih": "2025-07-19T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aed6b0116cc5",
-      "baslik": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı - Euronews.com",
-      "ozet": "Zeytinliklerin madencilik faaliyetlerine açılmasını öngören tartışmalı yasa teklifi kanunlaştı Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblE3X0xLakdsY1RIb21jRDVYVEdJakc2Q1R1eGVxMnFnZUJnVzJNMnRoSUZ0SWowSlBNRzA3dmdCTTUyc1ZOMHFNMTBwWDNwd0R5c0Y0MThfMFYzME84TWM5TkNUc01WVlVxTUk2QzBMMjZ6N3JDZFFYRFhnSVJaTXV4Q0M0ejAyNUViV3dBUG9vY2tCLUVaV2JjMWwxZFAzcWNicDIzNFVrZ3J2MmdianhGQU0zT3lvQmhXLXJLLVRLT2c?oc=5",
-      "tarih": "2025-07-19T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
