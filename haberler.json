@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-09T12:33:53.482491+00:00",
+    "guncelleme": "2026-08-09T15:23:21.397037+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6457,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "b38236ceea13",
+      "baslik": "Dev kömür madenini 547 milyar litre suyla doldurdular",
+      "ozet": "Dev kömür madenini 547 milyar litre suyla doldurdular",
+      "url": "https://www.sozcu.com.tr/dev-komur-madenini-547-milyar-litre-suyla-doldurdular-p343796",
+      "tarih": "2026-08-09T15:02:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "255f6a9d594f",
+      "baslik": "Atık suyu servete çevirdiler: Altın ve gümüşü ultrasonla topluyorlar",
+      "ozet": "Atık suyu servete çevirdiler: Altın ve gümüşü ultrasonla topluyorlar",
+      "url": "https://www.sozcu.com.tr/atik-suyu-servete-cevirdiler-altin-ve-gumusu-ultrasonla-topluyorlar-p343787",
+      "tarih": "2026-08-09T14:47:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d9b68ca732d8",
+      "baslik": "3 bin yıllık ağaçlar yanmasın diye ormanı yakmaya başladılar",
+      "ozet": "3 bin yıllık ağaçlar yanmasın diye ormanı yakmaya başladılar",
+      "url": "https://www.sozcu.com.tr/3-bin-yillik-agaclar-yanmasin-diye-ormani-yakmaya-basladilar-p343783",
+      "tarih": "2026-08-09T14:20:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7da11a3aad6b",
+      "baslik": "Kırmızı bayraklar peş peşe çekildi: İki ilde denize girmek yasaklandı",
+      "ozet": "Kırmızı bayraklar peş peşe çekildi: İki ilde denize girmek yasaklandı",
+      "url": "https://www.sozcu.com.tr/kirmizi-bayraklar-pes-pese-cekildi-iki-ilde-denize-girmek-yasaklandi-p343780",
+      "tarih": "2026-08-09T14:04:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3acd34bb33d2",
+      "baslik": "Selahattin Demirtaş'tan çerçeve yasa mesajı",
+      "ozet": "Selahattin Demirtaş'tan çerçeve yasa mesajı",
+      "url": "https://www.sozcu.com.tr/selahattin-demirtas-tan-cerceve-yasa-mesaji-p343769",
+      "tarih": "2026-08-09T13:32:54+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2fcf0f8e3708",
+      "baslik": "Yasağa rağmen denize giren Türk hakem boğularak hayatını kaybetti",
+      "ozet": "Yasağa rağmen denize giren Türk hakem boğularak hayatını kaybetti",
+      "url": "https://www.sozcu.com.tr/yasaga-ragmen-denize-giren-turk-hakem-bogularak-hayatini-kaybetti-p343772",
+      "tarih": "2026-08-09T13:11:07+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f677ac79a4f8",
       "baslik": "80 yaşındaki Ajda Pekkan sahne performansıyla gençlere taş çıkardı",
@@ -1947,66 +2007,6 @@
       "ozet": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı evrensel.net",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQUFVNllJeDhPSXN3cXRIR2o0VmJvYmVPTW93VUM3aTI3ZHd0T1dpbTRGZlo1Y0hPQ2xQT2NmU3Y0bWFQbk5fLWlqcDcxbXRtblg2MEF3T1BKM0p3c2thSzBSZFVOVWEzd1BVQ3kxYmlvUGlIa2d1M2VGd0ZEYXgwOW5va3l3dDEzbDNmU3pkbUpkMnkyaWxaTmVQSHNiYUUxcWllc1NQMlRLXzk3NVMyVDNJdFNRSEVuT0N6OFIwU08wbG9yRHEtUlA1RnJ1YXR5eDAwNDNINlBLczJGZDh1bGw5MXRRc1Bj?oc=5",
       "tarih": "2025-10-31T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cf77f138ff98",
-      "baslik": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı - Evrensel",
-      "ozet": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı Evrensel",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQUFVNllJeDhPSXN3cXRIR2o0VmJvYmVPTW93VUM3aTI3ZHd0T1dpbTRGZlo1Y0hPQ2xQT2NmU3Y0bWFQbk5fLWlqcDcxbXRtblg2MEF3T1BKM0p3c2thSzBSZFVOVWEzd1BVQ3kxYmlvUGlIa2d1M2VGd0ZEYXgwOW5va3l3dDEzbDNmU3pkbUpkMnkyaWxaTmVQSHNiYUUxcWllc1NQMlRLXzk3NVMyVDNJdFNRSEVuT0N6OFIwU08wbG9yRHEtUlA1RnJ1YXR5eDAwNDNINlBLczJGZDh1bGw5MXRRc1Bj?oc=5",
-      "tarih": "2025-10-31T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0d19f194d898",
-      "baslik": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı - Evrensel.net",
-      "ozet": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQUFVNllJeDhPSXN3cXRIR2o0VmJvYmVPTW93VUM3aTI3ZHd0T1dpbTRGZlo1Y0hPQ2xQT2NmU3Y0bWFQbk5fLWlqcDcxbXRtblg2MEF3T1BKM0p3c2thSzBSZFVOVWEzd1BVQ3kxYmlvUGlIa2d1M2VGd0ZEYXgwOW5va3l3dDEzbDNmU3pkbUpkMnkyaWxaTmVQSHNiYUUxcWllc1NQMlRLXzk3NVMyVDNJdFNRSEVuT0N6OFIwU08wbG9yRHEtUlA1RnJ1YXR5eDAwNDNINlBLczJGZDh1bGw5MXRRc1Bj?oc=5",
-      "tarih": "2025-10-31T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "805facb2bc4a",
-      "baslik": "Muğla'daki ormanlık alana maden ocağı projesine \"ÇED olumlu\" kararı - t24.com.tr",
-      "ozet": "Muğla'daki ormanlık alana maden ocağı projesine \"ÇED olumlu\" kararı t24.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlA5WmFHR3ViZWhnaVpqNXkyNmU0VEZZT1hma25hekotV053QWVmam51UXNsZk1hVkdUcW1lYlplRXBieTM3NXZZM0hzZkdvQTlSVzVZM2duMGZPYzlsMWtWLTZIWHg4UU5aS3lUMnk3ekVTMWY5My0tVm92Y1dncngyb0RaaGRlMHNHR2dIRk5VVlVZQUVBMklZeUdyRHM?oc=5",
-      "tarih": "2025-10-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "127044b7bc8d",
-      "baslik": "Muğla'daki ormanlık alana maden ocağı projesine \"ÇED olumlu\" kararı - T24",
-      "ozet": "Muğla'daki ormanlık alana maden ocağı projesine \"ÇED olumlu\" kararı T24",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlA5WmFHR3ViZWhnaVpqNXkyNmU0VEZZT1hma25hekotV053QWVmam51UXNsZk1hVkdUcW1lYlplRXBieTM3NXZZM0hzZkdvQTlSVzVZM2duMGZPYzlsMWtWLTZIWHg4UU5aS3lUMnk3ekVTMWY5My0tVm92Y1dncngyb0RaaGRlMHNHR2dIRk5VVlVZQUVBMklZeUdyRHM?oc=5",
-      "tarih": "2025-10-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d164c50bf619",
-      "baslik": "Sivas Dipsizgöl'de maden ocağı projesine ilişkin hazırlanan bilirkişi raporuna, bölge halkı itiraz etti - ankahaber.net",
-      "ozet": "Sivas Dipsizgöl'de maden ocağı projesine ilişkin hazırlanan bilirkişi raporuna, bölge halkı itiraz etti ankahaber.net",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVhISUIyMzk4WkpYQ0c5U2VxNlM0alcyWWpteE4zTC1yYTZrNnhuMWtnR0VpWTl6c0ZhVGx4YkhhQTNua1N6MzJrNWpETldaeXhkeFJGd3V1bnBSNHdDcWlPR19QMnZ3YWVQdXVQOXFaSzZ2a2hTSGdEeWpTaGtvQ19DbDJrTEJTWXl1bWhBSXFWQVVJRkh5NHpPakdXY0hmR1o3UkVYbHFBVDFrZDJiMTF1ZGstbkdsdlE5bi04aGY5UXhYcmQ5QlFNVkswSmhoZnRDN2gzOFNDQQ?oc=5",
-      "tarih": "2025-10-23T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "52ddd6459a3c",
-      "baslik": "Sivas Dipsizgöl'de maden ocağı projesine ilişkin hazırlanan bilirkişi raporuna, bölge halkı itiraz etti - Anka Haber",
-      "ozet": "Sivas Dipsizgöl'de maden ocağı projesine ilişkin hazırlanan bilirkişi raporuna, bölge halkı itiraz etti Anka Haber",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVhISUIyMzk4WkpYQ0c5U2VxNlM0alcyWWpteE4zTC1yYTZrNnhuMWtnR0VpWTl6c0ZhVGx4YkhhQTNua1N6MzJrNWpETldaeXhkeFJGd3V1bnBSNHdDcWlPR19QMnZ3YWVQdXVQOXFaSzZ2a2hTSGdEeWpTaGtvQ19DbDJrTEJTWXl1bWhBSXFWQVVJRkh5NHpPakdXY0hmR1o3UkVYbHFBVDFrZDJiMTF1ZGstbkdsdlE5bi04aGY5UXhYcmQ5QlFNVkswSmhoZnRDN2gzOFNDQQ?oc=5",
-      "tarih": "2025-10-23T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
