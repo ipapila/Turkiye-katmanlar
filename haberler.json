@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-09T06:41:55.319532+00:00",
+    "guncelleme": "2026-08-09T09:31:57.704591+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6457,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "8f98f36dd6fd",
+      "baslik": "Bahçeli'nin 'Evine dönmeli' dediği Demirtaş için Erdoğan'ın yardımcısından şaşırtan sözler",
+      "ozet": "Bahçeli'nin 'Evine dönmeli' dediği Demirtaş için Erdoğan'ın yardımcısından şaşırtan sözler",
+      "url": "https://www.sozcu.com.tr/bahceli-nin-evine-donmeli-dedigi-demirtas-icin-erdogan-in-yardimcisindan-sasirtan-sozler-p343717",
+      "tarih": "2026-08-09T09:10:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fc4015a80945",
+      "baslik": "Bedriye'yi boğup ormana atmıştı: Cesedi sarıp kayınvalidesiyle bir saat sohbet etmiş",
+      "ozet": "Bedriye'yi boğup ormana atmıştı: Cesedi sarıp kayınvalidesiyle bir saat sohbet etmiş",
+      "url": "https://www.sozcu.com.tr/kagithane-de-esi-bedriye-yi-bogup-ormana-atan-caniden-kan-donduran-itiraf-p343711",
+      "tarih": "2026-08-09T08:46:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b5089d24ac8e",
       "baslik": "19 çalışanı olan şirket borsanın zirvesine oturdu",
@@ -1032,6 +1052,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "c24f5bd37fe3",
+      "baslik": "Mahkeme İkizköy’deki 679 parsel alanı kapsayan davaların tamamını durdurdu - Cumhuriyet",
+      "ozet": "Mahkeme İkizköy’deki 679 parsel alanı kapsayan davaların tamamını durdurdu Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMHBsYVlrbUFzT3RSQVRRNDVTdlBfV0FWU1RSZ1B5ZV93SUszb29GMHh6bGEya0FNTkFiRDhXQlM3YW1PaWptY1FrTS04TU0ybGRsYm0zdThwU0FxZXRoUTNaeGFxTXdwb3R5THI4bTVxQUg4ak9KQ0ttZDhnbDN3OFFhY1I0ZlBWRmN6ZE5SZGhCeHZnZk5RTm00ekZWY3Y2S2MzNHVXY3VFbXN5blh0bHBkOXhmOUZBWERKUw?oc=5",
+      "tarih": "2026-07-27T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "6d2b1623b26f",
       "baslik": "Orman yangınlarıyla mücadele ediyor: Türkiye’den İspanya’ya 2 uçakla destek - Cumhuriyet",
       "ozet": "Orman yangınlarıyla mücadele ediyor: Türkiye’den İspanya’ya 2 uçakla destek Cumhuriyet",
@@ -1979,36 +2009,6 @@
       "tarih": "2025-10-06T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a0ab15e150c7",
-      "baslik": "Sinop Boyabat Çevre Platformu, Boyabat'taki bakır madeni projesine ilişkin yürütülen ÇED sürecinin durdurulmasını talep etti - Anka Haber",
-      "ozet": "Sinop Boyabat Çevre Platformu, Boyabat'taki bakır madeni projesine ilişkin yürütülen ÇED sürecinin durdurulmasını talep etti Anka Haber",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSkpnLTh6XzFRelE3ai1kelp2OXgweUxobW5rX0VUMFZKWFlwWjQtRWlUWXZCcURzTGN6Z25Kb3VRYmNBUXNSb1o5ZnpwMF9sUUZqYnVZd0E0NTIwVjcwLXVGZnl2XzdYclhad2pxaFFtY2kwbFh6V3lOZEd2LWpOQjlnbmtPSXQ0RGphcmVxQmFJYTV0anQxRWNWTW5jaXBGcDE2eEx3VU9uRV9MV3Q0R1FtSUp5Z3dMeGhFcFc5UzBKTzBUWDRjOGQtSXh5Q3MwYjdPQ3c4VUR0LXc0M2FLbnBwTkR6QUt5OFJiTFJ2U0JURnRISUE?oc=5",
-      "tarih": "2025-09-22T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "212411c6790f",
-      "baslik": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? - bbc.com",
-      "ozet": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlbEhBTlNWam5KbWFzWE5hN2c5MmlmdUdreUMzWnM2N1NIMHZQdlZMbHRNcy1zSG84dHhaWnR6clJWTzk4VU84azNCd3pfU2VsZHFmSV9EZ3ZmWk160gFiQVVfeXFMTVY5YTBoZk1EVEJjTzlpMkx0bmxycnotNkJOTm4zWTh5WUN3Y1RvY1poQS1kUlM1VWlycTAyaGtVSTBfM2FJTFZFTVp5cTNRaU5YVnd3MVFkeWRBVnhOenp5ZFE?oc=5",
-      "tarih": "2025-08-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "571973f6a1b9",
-      "baslik": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? - BBC",
-      "ozet": "Türkiye'nin ormanlarına karşı en büyük tehdit ne? BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlbEhBTlNWam5KbWFzWE5hN2c5MmlmdUdreUMzWnM2N1NIMHZQdlZMbHRNcy1zSG84dHhaWnR6clJWTzk4VU84azNCd3pfU2VsZHFmSV9EZ3ZmWk160gFiQVVfeXFMTVY5YTBoZk1EVEJjTzlpMkx0bmxycnotNkJOTm4zWTh5WUN3Y1RvY1poQS1kUlM1VWlycTAyaGtVSTBfM2FJTFZFTVp5cTNRaU5YVnd3MVFkeWRBVnhOenp5ZFE?oc=5",
-      "tarih": "2025-08-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
