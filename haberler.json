@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-08T18:25:40.753143+00:00",
+    "guncelleme": "2026-08-09T04:12:57.494164+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6457,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "dd257e5b0d52",
+      "baslik": "Son dakika...Öğrenci affı Resmi Gazete'de",
+      "ozet": "Son dakika...Öğrenci affı Resmi Gazete'de",
+      "url": "https://www.sozcu.com.tr/son-dakika-ogrenci-affi-resmi-gazete-de-p343604",
+      "tarih": "2026-08-08T22:11:54+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3760b11f58c5",
+      "baslik": "Cami hoparlöründen yükselen ses köylüleri şaşkına çevirdi",
+      "ozet": "Cami hoparlöründen yükselen ses köylüleri şaşkına çevirdi",
+      "url": "https://www.sozcu.com.tr/cami-hoparlorunden-yukselen-ses-koyluleri-saskina-cevirdi-p343597",
+      "tarih": "2026-08-08T19:24:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8980809cfdcd",
       "baslik": "Menderes Belediye Başkanı görevden uzaklaştırıldı",
@@ -1987,26 +2007,6 @@
       "ozet": "Bursa'da yanan ormanlık alanın maden sahası ilan edilmesi için \"ÇED gerekli değildir\" raporu alınmış Gazete Oksijen",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSC1NWU5QYVVKQmxRMXNxamhwOS1ldHhNaVl0NDJISTJzUW9yNkNLQWVQcWZuOTJGc2thaXdSZmt1RXIwaTJsZG85dG9Od1YzRWg2bnRla1h1TkxBR3pTWFFERWNUR2RXVGxSZjVJaHpadG82MENVWmxkUUZ1X3BvWDhnNjY1ZGUzOXdDQkVpZS1ETVZjM0hHck1qc1BzdngyNDd0bVZtRW52VVVMUkRXanVxQ251cDlXU0lITnhkMEN0ZkcteEFPUDhLaWVsdUFhSDVEVQ?oc=5",
       "tarih": "2025-07-30T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "818f10567025",
-      "baslik": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı - diken.com.tr",
-      "ozet": "Bursa'daki yangın nedeniyle Harmancık krom madeni geçici olarak kapatıldı diken.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXZlc0pQLXRFWTB5aENRdElsN2ZNbHp2V1plVmZTUzdRMFh3ZnpjRWZCZmoxcG1wQnFxUC03MmFHT1dDeUFkZFQweWw4R0ZYd3AwaDBfUkFncnNudHIyd2VyZFJPVkVLYWNrdWZST19XZFVTTUhWRVRYN2xBWk1obFg5cGRqRndCYzd2ZXFSRmVfQ1F4dUJMTHRjSGhuQ2M?oc=5",
-      "tarih": "2025-07-28T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "21d33188d6af",
-      "baslik": "Bursa yangını hakkında CHP'li Emir çok ağır konuştu! Maden detayı - halktv.com.tr",
-      "ozet": "Bursa yangını hakkında CHP'li Emir çok ağır konuştu! Maden detayı halktv.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkxQUmR6NkVvRk8wQlNlZnBaRzhKcDdVT2s0LWhCbjhVYlhBeTRtNW9GX25tOS1WWkdNWXg0VktLbHk4eHlJQ2lzdm9wS3k0d1VybFl4MWROWkhSOGxWTTQtZjhkOEdqSEFBQVdrSTk3US1VVXZGYjVySkE0NDNNa1JEVnlEcl9WM0NEUktIaHJ2dllya3ZFRkZnWk9scHI3cWlF?oc=5",
-      "tarih": "2025-07-28T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
