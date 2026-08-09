@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-09T09:31:57.704591+00:00",
+    "guncelleme": "2026-08-09T12:33:53.482491+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6457,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "f677ac79a4f8",
+      "baslik": "80 yaşındaki Ajda Pekkan sahne performansıyla gençlere taş çıkardı",
+      "ozet": "80 yaşındaki Ajda Pekkan sahne performansıyla gençlere taş çıkardı",
+      "url": "https://www.sozcu.com.tr/80-yasindaki-ajda-pekkan-sahne-performansiyla-genclere-tas-cikardi-p343759",
+      "tarih": "2026-08-09T11:49:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ef26f5f35cac",
+      "baslik": "Girmenin yasak olduğu denizde ablasını kurtarmak isterken boğuldu",
+      "ozet": "Girmenin yasak olduğu denizde ablasını kurtarmak isterken boğuldu",
+      "url": "https://www.sozcu.com.tr/girmenin-yasak-oldugu-denizde-ablasini-kurtarmak-isterken-boguldu-p343758",
+      "tarih": "2026-08-09T11:48:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8f98f36dd6fd",
       "baslik": "Bahçeli'nin 'Evine dönmeli' dediği Demirtaş için Erdoğan'ın yardımcısından şaşırtan sözler",
@@ -1989,26 +2009,6 @@
       "tarih": "2025-10-23T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4f303fee9d1c",
-      "baslik": "OGM yangınla mücadelede sınıfta kaldı: Hava filosu büyüdü, yanan alanlar da arttı - Cumhuriyet",
-      "ozet": "OGM yangınla mücadelede sınıfta kaldı: Hava filosu büyüdü, yanan alanlar da arttı Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxLNU1UYklFdjBxMkQ3eWdmR3l4eEZ4RHU5MWROc2g1RHhnQnphVEh2TUNHcXotUlV5YlhzMnZzTHlhcTdNVnBUTVo3aDRuX1JTNjROOFM3VFFMd1VFeFV2a2pyVVNsSEx1NHRBdXZuaDQxbS1jMEtxTFNWeHNSaHNXdEFIX3d3Xy1uRjJxNHBGNmFqY1hEMS0xU0hrdGdhbzZmZmZSeEhfZFlOMGc3SWN0NVVTT1djNHhqbkQ3OGJJRm8?oc=5",
-      "tarih": "2025-10-08T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2dcc004f4a69",
-      "baslik": "Pınarhisar Çevre Yolu’nda Kırmızı Işık İhlali Kazaya Neden Oldu - Yeşilyurt Gazetesi",
-      "ozet": "Pınarhisar Çevre Yolu’nda Kırmızı Işık İhlali Kazaya Neden Oldu Yeşilyurt Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdy0zTGNNVkoyVE5LMnZPS0pGT0FTZmNuNDh2LWZIclpKTGt5NkJZa1FzUDV1WnpyS0N2cVh6UjB4STZCZG9RR1lHaGprczU1MFA0Y1dwdGM1VkxVWVVMc1V6SzhaRUNPVldDSFFMMnItNHFUNmt0b2tteEJveS0zVWYwSmZlY3k0aHpXLXJSRGV3UXF4cWI4TDJmOF9hWjl5bElwZg?oc=5",
-      "tarih": "2025-10-06T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
