@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-09T15:23:21.397037+00:00",
+    "guncelleme": "2026-08-09T18:28:28.557557+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6457,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "af195758c1d5",
+      "baslik": "Görenler gözlerine inanamadı! 3 metrelik dev kıyıya vurdu",
+      "ozet": "Görenler gözlerine inanamadı! 3 metrelik dev kıyıya vurdu",
+      "url": "https://www.sozcu.com.tr/gorenler-gozlerine-inanamadi-3-metrelik-dev-kiyiya-vurdu-p343821",
+      "tarih": "2026-08-09T18:00:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "53228dc4c935",
+      "baslik": "Çölü andıran bölgede doğa mucizesi: Kumların arasından yüzlerce göl çıkıyor",
+      "ozet": "Çölü andıran bölgede doğa mucizesi: Kumların arasından yüzlerce göl çıkıyor",
+      "url": "https://www.sozcu.com.tr/colu-andiran-bolgede-doga-mucizesi-kumlarin-arasindan-yuzlerce-gol-cikiyor-p343814",
+      "tarih": "2026-08-09T16:40:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "18fe7ad16c41",
+      "baslik": "200 bin radyoaktif varili denizin dibine bıraktılar",
+      "ozet": "200 bin radyoaktif varili denizin dibine bıraktılar",
+      "url": "https://www.sozcu.com.tr/200-bin-radyoaktif-varili-denizin-dibine-biraktilar-p343810",
+      "tarih": "2026-08-09T16:12:42+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "77f62c27a7d4",
+      "baslik": "36 yaşındaki Valencia'nın yeni adresi belli oldu",
+      "ozet": "36 yaşındaki Valencia'nın yeni adresi belli oldu",
+      "url": "https://www.sozcu.com.tr/enner-valencia-boca-juniorsta-yeni-macerasina-basliyor-p343805",
+      "tarih": "2026-08-09T15:55:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b38236ceea13",
       "baslik": "Dev kömür madenini 547 milyar litre suyla doldurdular",
@@ -1967,46 +2007,6 @@
       "ozet": "Mega madenlere karşı, verilerle doğa mücadelesi: Zamanla yarışıyoruz Bianet",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3NaeHB1dDNITzN3cUlURHB2WWRKdDNKWGxEZ0tCb21HTjVIYURBdE5IVm1rdFlnVVNIamlqZm14U3o5dF9sRVBkV1huc1BULVE2LXR3ZG1ld2JzbGc4aGtDdUc0enNJc2VvM3RJWnlxVHZwM241X2U1QVhMNHE5VGtVOXk5cDljNF83QTE3TExmOUdPSnZaY0t5dHR3M28?oc=5",
       "tarih": "2025-11-19T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d17829991754",
-      "baslik": "Mega madenlere karşı, verilerle doğa mücadelesi: Zamanla yarışıyoruz - bianet.org",
-      "ozet": "Mega madenlere karşı, verilerle doğa mücadelesi: Zamanla yarışıyoruz bianet.org",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3NaeHB1dDNITzN3cUlURHB2WWRKdDNKWGxEZ0tCb21HTjVIYURBdE5IVm1rdFlnVVNIamlqZm14U3o5dF9sRVBkV1huc1BULVE2LXR3ZG1ld2JzbGc4aGtDdUc0enNJc2VvM3RJWnlxVHZwM241X2U1QVhMNHE5VGtVOXk5cDljNF83QTE3TExmOUdPSnZaY0t5dHR3M28?oc=5",
-      "tarih": "2025-11-19T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7febb13debb5",
-      "baslik": "Adana’yı zengin edecek keşif: Feke, Saimbeyli ve Kozan’da 10 milyon tonluk maden rezervi bulundu - kucuksaat.com",
-      "ozet": "Adana’yı zengin edecek keşif: Feke, Saimbeyli ve Kozan’da 10 milyon tonluk maden rezervi bulundu kucuksaat.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEtyYkszVWRpc1NROF95eHMzWjZ1MkpkYUx3dXhQR2d5d3NEV2VJeHczakY0cjBXMVRyM2VlY095bk5HRHRyZm9OeWhFR2xlWURQeGZINUZKMlFpN1VZZUtWeEptcS1Nay1jLWYteWlCVDJFLTJFS1B6a1VUNzBKS0R5UzVDUzlVUjJBUFNQMFJLRkp5X2FDb05GQXI1T2FZWmlNXzRJMzhHSi1OV2VxWXJNYXJNQjZzaF9rRS1Dc9IBzwFBVV95cUxNeXN5ckhwM1RNQlB4R1N2UUIyU0FYVDFhckpIN21maXplZGhKNTBFdjFiSG1Ec3ZFeGJGRUJjY3VaNE1CT0JaX3ZTcjYzb2Z1RnQwS2IzbDA2eUt6RGZfTUttWGlnMmF0cFFXOFNHWks3NWxfbmdNTE1adlR0RXBNWGpqa3VjVXhKaVgwQzdBMVIzbGthdTlGQ0pmZjdlek10RXlTTHl4YUgyVUVBRG5fVVlaOC1RcUtTVXc2cUJxdENfUHlsM0E0T1lKSjhmdVU?oc=5",
-      "tarih": "2025-11-08T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d565325e671d",
-      "baslik": "Adana’yı zengin edecek keşif: Feke, Saimbeyli ve Kozan’da 10 milyon tonluk maden rezervi bulundu - Küçük Saat | Adana Haberleri",
-      "ozet": "Adana’yı zengin edecek keşif: Feke, Saimbeyli ve Kozan’da 10 milyon tonluk maden rezervi bulundu Küçük Saat | Adana Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEtyYkszVWRpc1NROF95eHMzWjZ1MkpkYUx3dXhQR2d5d3NEV2VJeHczakY0cjBXMVRyM2VlY095bk5HRHRyZm9OeWhFR2xlWURQeGZINUZKMlFpN1VZZUtWeEptcS1Nay1jLWYteWlCVDJFLTJFS1B6a1VUNzBKS0R5UzVDUzlVUjJBUFNQMFJLRkp5X2FDb05GQXI1T2FZWmlNXzRJMzhHSi1OV2VxWXJNYXJNQjZzaF9rRS1Dc9IBzwFBVV95cUxNeXN5ckhwM1RNQlB4R1N2UUIyU0FYVDFhckpIN21maXplZGhKNTBFdjFiSG1Ec3ZFeGJGRUJjY3VaNE1CT0JaX3ZTcjYzb2Z1RnQwS2IzbDA2eUt6RGZfTUttWGlnMmF0cFFXOFNHWks3NWxfbmdNTE1adlR0RXBNWGpqa3VjVXhKaVgwQzdBMVIzbGthdTlGQ0pmZjdlek10RXlTTHl4YUgyVUVBRG5fVVlaOC1RcUtTVXc2cUJxdENfUHlsM0E0T1lKSjhmdVU?oc=5",
-      "tarih": "2025-11-08T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cd59264d45b2",
-      "baslik": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı - evrensel.net",
-      "ozet": "Türkiye’deki maden talanı haritalandırıldı: 1,5 yılda Trabzon ili yüzölçümünden fazla alan maden şirketlerine satıldı evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQUFVNllJeDhPSXN3cXRIR2o0VmJvYmVPTW93VUM3aTI3ZHd0T1dpbTRGZlo1Y0hPQ2xQT2NmU3Y0bWFQbk5fLWlqcDcxbXRtblg2MEF3T1BKM0p3c2thSzBSZFVOVWEzd1BVQ3kxYmlvUGlIa2d1M2VGd0ZEYXgwOW5va3l3dDEzbDNmU3pkbUpkMnkyaWxaTmVQSHNiYUUxcWllc1NQMlRLXzk3NVMyVDNJdFNRSEVuT0N6OFIwU08wbG9yRHEtUlA1RnJ1YXR5eDAwNDNINlBLczJGZDh1bGw5MXRRc1Bj?oc=5",
-      "tarih": "2025-10-31T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
