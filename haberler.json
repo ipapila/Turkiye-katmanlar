@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-09T18:28:28.557557+00:00",
+    "guncelleme": "2026-08-10T04:23:44.967097+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6457,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6459,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "6af3d3a39b50",
+      "baslik": "Altında kâr satışları başladı: Yükseliş için kritik üç şart",
+      "ozet": "Altında kâr satışları başladı: Yükseliş için kritik üç şart",
+      "url": "https://www.sozcu.com.tr/ons-altinda-k%C3%A2r-satislari-basladi-yukselis-icin-kritik-uc-sart-p343873",
+      "tarih": "2026-08-10T03:43:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "af195758c1d5",
       "baslik": "Görenler gözlerine inanamadı! 3 metrelik dev kıyıya vurdu",
@@ -129,6 +139,16 @@
       "tarih": "2026-08-09T11:48:39+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "145c5d2b697d",
+      "baslik": "Doruk Madencilik işçileri Anıtkabir'den seslendi: 'Alacaklarımızın son kuruşu ödeninceye kadar Ankara'dan ayrılmayacağız' - Cumhuriyet",
+      "ozet": "Doruk Madencilik işçileri Anıtkabir'den seslendi: 'Alacaklarımızın son kuruşu ödeninceye kadar Ankara'dan ayrılmayacağız' Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWlNMMllISlFQMHdkazY2VHBPdWF4aFJiYmdqU0VjaFNGWS0ySzNyQXlCZ28wUnFyNWUzZTZEOElvNDNUaWhrRUt1TUlnM1lDb1NYRzZiaG82OTFIQjRLUEJOa0RnamhNVGNna2Q0QWVDbEIyVkhJLUpOdGNIQ0NId1lER2w0NDBMOVYtclVlMk4wWXpmUXJFTTZTdzl6RXRJMG5LbVNFZEIxU19LN0dZeXA2NzA1Z19NZnhJbGwxS3BzSHlkYURPT2VLZkNjUjdpYTM5VWZzV3p5SDlNbExMNWxSSW1vSXlsbHhLQVctalI0RHoyS2RB?oc=5",
+      "tarih": "2026-08-09T11:40:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1642,6 +1662,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "007ffecd44ce",
+      "baslik": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "ozet": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUpGN041eUlxSW1NZWtkY09kLXlzdUxHTGxrWkZ0Wk0yVXVONWQ0cWZ1cHpnRmNMOXlnNUJ2cnQ2MlJyS2lENUNVVkRBcTVZcmdyZUFMb0YzMGVyZktDZWpEVDY1UlpybWlfUmVvWnpJMmJka0daWkVzd3dDVFRxSUhpSE9RdEJYTFFWeHJoYlNOcXotWGltSWxIRHJIWkdxSHdhc2RDc3hmdUUtY2U1VmxVcUxVT0dQQlA2MlhfeFQ2U2lENVJFQm1WTkxRdw?oc=5",
+      "tarih": "2026-04-03T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "d51b77131688",
       "baslik": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' - Evrensel",
       "ozet": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' Evrensel",
@@ -1852,6 +1882,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "5df41c7fe86f",
+      "baslik": "EGEÇEP’ten Milas’ta acele kamulaştırmaya karşı 96 dava - Ege'de Sonsöz",
+      "ozet": "EGEÇEP’ten Milas’ta acele kamulaştırmaya karşı 96 dava Ege'de Sonsöz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYldncTAzRVZhWUJDTlpmZmRpdzk4ZDhQR3JrYjRaVkZMbUwyb2dYUmRJeVVrUW5DNENEd05vcHhsZmhZbUlGTVh6aFF2b01nbEQxODB5c0JyNF9tWEpEZDZ6cWE4NXhWdUZzcE5oTTFOTUxLOXd3LUM0bVpsYXBmWjhmZW9NNVHSAYwBQVVfeXFMTTB4YTVwODB3Q3BoeGJzTkJKd3kwWFdYUTFUdElvMVZsWWhCeDFaZ29sLTBXZUVaWktJRU9CcDh6dTRqOTRZQm5WYm84Mk1QMU5EYW51Szk4aUxQYWljZ2ZyWklyX2dqQUJla1FMVDdQWjBwZ0tzQjA5Ulhia2M1WE5kSGRvLWVHLUphMUI?oc=5",
+      "tarih": "2026-02-20T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "c73be0c525bc",
       "baslik": "Zara’da maden dayatması sürüyor: Yürütmeyi durdurma talebi reddedildi - İlke TV",
       "ozet": "Zara’da maden dayatması sürüyor: Yürütmeyi durdurma talebi reddedildi İlke TV",
@@ -1967,46 +2007,6 @@
       "ozet": "Bin pınarlı İda’dan bin madenli Kazdağları’na Bianet",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVhxOVcybU1OZ2VtTEd1ZVhoZkZzampiLWFSOXJyY205RjBxaktPYjRRTzY2MkdXd0dJRnVCZXRXMHYwUEljYVJSSzg2M1N5Z0VSR2ppZXVFUzA3LW5ETGNQdGZjNWx4eV9LVlc4dVBYTUZpZDB0b3pvcmZweC15cw?oc=5",
       "tarih": "2025-12-17T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "52871f660003",
-      "baslik": "Bin pınarlı İda’dan bin madenli Kazdağları’na - bianet.org",
-      "ozet": "Bin pınarlı İda’dan bin madenli Kazdağları’na bianet.org",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVhxOVcybU1OZ2VtTEd1ZVhoZkZzampiLWFSOXJyY205RjBxaktPYjRRTzY2MkdXd0dJRnVCZXRXMHYwUEljYVJSSzg2M1N5Z0VSR2ppZXVFUzA3LW5ETGNQdGZjNWx4eV9LVlc4dVBYTUZpZDB0b3pvcmZweC15cw?oc=5",
-      "tarih": "2025-12-17T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b7e7a20742d6",
-      "baslik": "Nadir toprak elementi zengini olan bölgede maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak - t24.com.tr",
-      "ozet": "Nadir toprak elementi zengini olan bölgede maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak t24.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVzdFSEJzcFFEQkJyaG1XSDQ4OGNCVUZvVW0tWU9DcGstOVlVNjNqcG9zT3QzMzk2Mk8tOEN5MUtqeElIVnVxQzVNWnJpcGY2cnRaQnlKTVcwZGxCaDRlcnRRc28wUXhOcFp1cFdhYVN2Rzc0bW5WbG9ncVVCZmI0c1lZZmJiNEFLdVZoeHA5LVFQY2loMU1aUmYyVzY1QmpBQ0E1anliTFpKcTBHSVFsOWZLWXF0ZUtyYkJzREswcldJZlNNWWxScFdzcEFRZ3ZGUDhjVlo5bGxVZ1NMN1JTNnRyUmVmZ00wckRYVnAwY1lIcTZISURFbGVLNDFUbENrejNVRQ?oc=5",
-      "tarih": "2025-12-02T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "23d681b57f99",
-      "baslik": "Nadir toprak elementi zengini olan bölgede maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak - T24",
-      "ozet": "Nadir toprak elementi zengini olan bölgede maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak T24",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVzdFSEJzcFFEQkJyaG1XSDQ4OGNCVUZvVW0tWU9DcGstOVlVNjNqcG9zT3QzMzk2Mk8tOEN5MUtqeElIVnVxQzVNWnJpcGY2cnRaQnlKTVcwZGxCaDRlcnRRc28wUXhOcFp1cFdhYVN2Rzc0bW5WbG9ncVVCZmI0c1lZZmJiNEFLdVZoeHA5LVFQY2loMU1aUmYyVzY1QmpBQ0E1anliTFpKcTBHSVFsOWZLWXF0ZUtyYkJzREswcldJZlNNWWxScFdzcEFRZ3ZGUDhjVlo5bGxVZ1NMN1JTNnRyUmVmZ00wckRYVnAwY1lIcTZISURFbGVLNDFUbENrejNVRQ?oc=5",
-      "tarih": "2025-12-02T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1a018006a56f",
-      "baslik": "Mega madenlere karşı, verilerle doğa mücadelesi: Zamanla yarışıyoruz - Bianet",
-      "ozet": "Mega madenlere karşı, verilerle doğa mücadelesi: Zamanla yarışıyoruz Bianet",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3NaeHB1dDNITzN3cUlURHB2WWRKdDNKWGxEZ0tCb21HTjVIYURBdE5IVm1rdFlnVVNIamlqZm14U3o5dF9sRVBkV1huc1BULVE2LXR3ZG1ld2JzbGc4aGtDdUc0enNJc2VvM3RJWnlxVHZwM241X2U1QVhMNHE5VGtVOXk5cDljNF83QTE3TExmOUdPSnZaY0t5dHR3M28?oc=5",
-      "tarih": "2025-11-19T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
@@ -92408,6 +92408,34 @@
       "ozet": "Ciğerlerimiz yanıyor... Muğla Seydikemer'de büyük orman yangını: Fethiye-Antalya karayolu trafiğe kapatıldı, 202 kişi tahliye edildi! Cumhuriyet",
       "lat": 36.8549,
       "lng": 30.5997,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-145c5d2b697d",
+      "baslik": "Doruk Madencilik işçileri Anıtkabir'den seslendi: 'Alacaklarımızın son kuruşu ödeninceye kadar Ankara'dan ayrılmayacağız' - Cumhuriyet",
+      "konum": "Ankara",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "10.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWlNMMllISlFQMHdkazY2VHBPdWF4aFJiYmdqU0VjaFNGWS0ySzNyQXlCZ28wUnFyNWUzZTZEOElvNDNUaWhrRUt1TUlnM1lDb1NYRzZiaG82OTFIQjRLUEJOa0RnamhNVGNna2Q0QWVDbEIyVkhJLUpOdGNIQ0NId1lER2w0NDBMOVYtclVlMk4wWXpmUXJFTTZTdzl6RXRJMG5LbVNFZEIxU19LN0dZeXA2NzA1Z19NZnhJbGwxS3BzSHlkYURPT2VLZkNjUjdpYTM5VWZzV3p5SDlNbExMNWxSSW1vSXlsbHhLQVctalI0RHoyS2RB?oc=5",
+      "ozet": "Doruk Madencilik işçileri Anıtkabir'den seslendi: 'Alacaklarımızın son kuruşu ödeninceye kadar Ankara'dan ayrılmayacağız' Cumhuriyet",
+      "lat": 39.8486,
+      "lng": 32.7611,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-007ffecd44ce",
+      "baslik": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "konum": "Eskişehir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "10.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUpGN041eUlxSW1NZWtkY09kLXlzdUxHTGxrWkZ0Wk0yVXVONWQ0cWZ1cHpnRmNMOXlnNUJ2cnQ2MlJyS2lENUNVVkRBcTVZcmdyZUFMb0YzMGVyZktDZWpEVDY1UlpybWlfUmVvWnpJMmJka0daWkVzd3dDVFRxSUhpSE9RdEJYTFFWeHJoYlNOcXotWGltSWxIRHJIWkdxSHdhc2RDc3hmdUUtY2U1VmxVcUxVT0dQQlA2MlhfeFQ2U2lENVJFQm1WTkxRdw?oc=5",
+      "ozet": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "lat": 39.8336,
+      "lng": 30.6232,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
