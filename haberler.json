@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-10T07:15:53.111875+00:00",
+    "guncelleme": "2026-08-10T10:10:15.290643+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6460,
+    "harita_kayit_sayisi": 6461,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "f69c782af88a",
+      "baslik": "Sıcaklıklar 42 dereceye yükselince tüm halk bu çorbayı içmeye çağrıldı",
+      "ozet": "Sıcaklıklar 42 dereceye yükselince tüm halk bu çorbayı içmeye çağrıldı",
+      "url": "https://www.sozcu.com.tr/sicakliklar-42-dereceye-yukselince-tum-halk-bu-corbayi-icmeye-cagrildi-p344011",
+      "tarih": "2026-08-10T09:15:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b59c3c62aa25",
+      "baslik": "COP31 Ev Sahibi Ülke Anlaşması Yürürlüğe Girdi",
+      "ozet": "Ev sahibi ülke anlaşması, Türkiye’nin bu çok taraflı toplantıların organizasyonuna ilişkin idari ve lojistik yükümlülüklerini düzenliyor.  Türkiye, Birleşmiş Milletler iklim diplomasisinin en büyük organizasyonlarından COP31’e ev sahipliği yapılmasına ilişkin süreçte yeni bir adı",
+      "url": "https://www.iklimhaber.org/cop31-ev-sahibi-ulke-anlasmasi-yururluge-girdi/",
+      "tarih": "2026-08-10T08:34:58+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5132cd20b21e",
+      "baslik": "Denizli Basket, Erten Gazi’yi duyurdu",
+      "ozet": "Denizli Basket, Erten Gazi’yi duyurdu",
+      "url": "https://www.sozcu.com.tr/denizli-basket-erten-gazi-yi-duyurdu-p343993",
+      "tarih": "2026-08-10T08:34:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "811628866502",
+      "baslik": "Doğanın Kanunu için son karar verildi",
+      "ozet": "Doğanın Kanunu için son karar verildi",
+      "url": "https://www.sozcu.com.tr/doganin-kanunu-icin-son-karar-verildi-p343982",
+      "tarih": "2026-08-10T08:14:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "274a94615781",
+      "baslik": "Batı Avrupa’da Sıcaklık Rekoru",
+      "ozet": "Sıcak hava dalgalarının etkisi altına giren Avrupa genelinde, sıcaklara bağlı nedenlerle 25 binin üzerinde kişinin hayatını kaybettiği bildirildi. Eski altyapı ve klima kullanımının yetersizliği ise sıcaklarla mücadeleyi zorlaştırdı. Avrupa Birliği’nin iklim izleme servisi Copern",
+      "url": "https://www.iklimhaber.org/bati-avrupada-sicaklik-rekoru/",
+      "tarih": "2026-08-10T08:06:15+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4bced2b1db16",
+      "baslik": "Akdeniz’deki Mikroplastik Alarmı Meclise Taşındı",
+      "ozet": "Akdeniz kıyılarında görülen mikroplastik kirliliği meclis gündemine taşındı. YENİ Partili Evrim Rızvanoğlu, Sağlık Bakanı ve Çevre, Şehircilik ve İklim Değişikliğine iki ayrı yazılı soru önergesi verirken, tek kullanımlık plastiklerin sınırlandırılmasında geç kalındığını, depozit",
+      "url": "https://www.iklimhaber.org/akdenizdeki-mikroplastik-alarmi-meclise-tasindi/",
+      "tarih": "2026-08-10T08:02:02+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c32444f3a670",
+      "baslik": "Aşırı Sıcaklar AB’nin 2026’daki Büyümesini Sıfırlayabilir",
+      "ozet": "Yalnızca iş gücü verimliliğindeki kayıpların AB GSYİH’sini yaklaşık %0,6 oranında düşürmesi, tarımsal üretimin ise %3 ile %7 arasında gerilemesi bekleniyor.  Hollanda merkezli Triodos Bankası Cumartesi günü yayımladığı bir raporda, bu yaz Avrupa’nın büyük bir kısmını etkisi altın",
+      "url": "https://www.iklimhaber.org/asiri-sicaklar-abnin-2026daki-buyumesini-sifirlayabilir/",
+      "tarih": "2026-08-10T07:26:03+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "2770bdb6d745",
       "baslik": "Altın borcu olanlara kötü haber: Gram altında 10 bin TL senaryosu",
@@ -229,6 +299,16 @@
       "tarih": "2026-08-08T18:15:07+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "22c5c26bf6e0",
+      "baslik": "Maden faciasının firari hükümlüsü 8 yıl sonra yakalandı - bursadabugun.com",
+      "ozet": "Maden faciasının firari hükümlüsü 8 yıl sonra yakalandı bursadabugun.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTJBbHM5T3Y4TjJPUUJKZm9taXIxOFN4WHdya3VyX1psaUI3Y0RiS25yTGhpRlhyTl9TLVVVb1dQaGIzeHR4QlJkTXNSUC0xLUF6QW5XQXBubWRtQmVEeUxJUGluYXJCTWlrU0xPaExhc0VIRko2NDI3UHJYVW10THRhRk5JeVRTeWR3WWU1eFlZbVVLVVdfcFBISmtQMEdhemE4enRPNkXSAagBQVVfeXFMTnEyQWxzOU92OE4yT1FCSmZvbWlyMThTeFh3cmt1cl9abGlCN2NEYktuckxoaUZYck5fUy1VVW9XUGhiM3h0eEJSZE1zUlAtMS1BekFuV0Fwbm1kbUJlRHlMSVBpbmFyQk1pa1NMT2hMYXNFSEZKNjQyN1ByWFVtdEx0YUZOSXlUU3lkd1llNXhZWW1VS1VXX3BQSEprUDBHYXphOHp0TzZF?oc=5",
+      "tarih": "2026-08-08T16:53:54+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1927,86 +2007,6 @@
       "ozet": "EGEÇEP’ten Milas’ta acele kamulaştırmaya karşı 96 dava Ege'de Sonsöz",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYldncTAzRVZhWUJDTlpmZmRpdzk4ZDhQR3JrYjRaVkZMbUwyb2dYUmRJeVVrUW5DNENEd05vcHhsZmhZbUlGTVh6aFF2b01nbEQxODB5c0JyNF9tWEpEZDZ6cWE4NXhWdUZzcE5oTTFOTUxLOXd3LUM0bVpsYXBmWjhmZW9NNVHSAYwBQVVfeXFMTTB4YTVwODB3Q3BoeGJzTkJKd3kwWFdYUTFUdElvMVZsWWhCeDFaZ29sLTBXZUVaWktJRU9CcDh6dTRqOTRZQm5WYm84Mk1QMU5EYW51Szk4aUxQYWljZ2ZyWklyX2dqQUJla1FMVDdQWjBwZ0tzQjA5Ulhia2M1WE5kSGRvLWVHLUphMUI?oc=5",
       "tarih": "2026-02-20T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c73be0c525bc",
-      "baslik": "Zara’da maden dayatması sürüyor: Yürütmeyi durdurma talebi reddedildi - İlke TV",
-      "ozet": "Zara’da maden dayatması sürüyor: Yürütmeyi durdurma talebi reddedildi İlke TV",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjRiQlVvVHcxMmlKWlJ3TjZ3NHI1aEhqbWxBOTJLeDZyMlkyMjNzSEFkUk5CT2ZNSkNmak9CUTZweGx3cG5hdkpWVlpHX0hfeV9Vd0xtbDE2Smp0YUZ0REtxUlg0SC1EMkwwb1publ9DYnZCNlZJV3h5VWgxS2wwck45N0p2dlRFWE9LUDVZY0RvcU0?oc=5",
-      "tarih": "2026-02-17T14:56:57+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "429b3351858c",
-      "baslik": "Milas’ta acele kamulaştırmaya karşı 96 dava: “Bu topraklar maden sahası değil, yaşam alanıdır” - Cumhuriyet",
-      "ozet": "Milas’ta acele kamulaştırmaya karşı 96 dava: “Bu topraklar maden sahası değil, yaşam alanıdır” Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWl5NXNfUGRkeHJGRnlqXzFqeGhrVWN2UDA3bmthLThpTjVMa05ZaG1zdE5NYXhyMGsycEpmMzFtcE5ubHJHMHFITjAxVHJTcDV2b1FOOExMdmtuUzJrcmRIWmYwNmJoU0JLOXpyZXVQbjE3SDE3TmRhX3k2MHFqOGlKTEd3cW1lcjFIWGF1TjhZOExDSDlJUUttZHNNVDFmbmV0Y25ncnVId0Y3Q3JPb2NfZktqRTBEMVpFTFMweHNqTjV2YUFUcFRmU21GZWZOUEE?oc=5",
-      "tarih": "2026-02-13T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "54ed823b0d4d",
-      "baslik": "Muğla’da 2025’te 30 maden ocağı projesine ÇED olumlu kararı - Mabolla Medya",
-      "ozet": "Muğla’da 2025’te 30 maden ocağı projesine ÇED olumlu kararı Mabolla Medya",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0syU3RXNklVUm8wYW5GVUZkOG1rNDdxVEFWQmtfaHg2ZnVRVXl4UnZNSlBEYzFHX0plNW8wWWVxZ2hGZ0l5eEZpaUZmUTRKRGpOVElqc19tMG5xeUlXd0ZiU0pIdml2QkNIOGtGMVNCRjdHTmhQcVFodGFVYXVBZE1HMXZrTk54UTRJ?oc=5",
-      "tarih": "2026-02-04T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "865c4456f74f",
-      "baslik": "Muğla'da 2025'te 30 maden ocağı projesine ÇED olumlu kararı - Anka Haber",
-      "ozet": "Muğla'da 2025'te 30 maden ocağı projesine ÇED olumlu kararı Anka Haber",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXNlWkdtWlNfeWp0VGVPNG9USWFOUU9BaTB5d25wd2RlN1pkVWVVNm9iWXhCR1NwSmw5cnFRaWYwNjVlY290M05zdERpUUJqdklqaFlyMDB4dVB3Y0lzZFF2c2VuLWkzdGN5bjQ5N3JaZ1JDLTZSOFU1OUhqdUlZWlNXbU80dVBhcmozTU9LcTBHc2JheGpKX2ViNGY3Tkk?oc=5",
-      "tarih": "2026-02-04T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7e7a06ca6779",
-      "baslik": "BAKANLIK, ‘ÇANAKKALE YANGINI VE MADEN SAHASI’ İDDİALARINI YALANLADI - csb.gov.tr",
-      "ozet": "BAKANLIK, ‘ÇANAKKALE YANGINI VE MADEN SAHASI’ İDDİALARINI YALANLADI csb.gov.tr",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR3lyTlp4bXdHMlJYTUpMTV9oMU9fa0RZOGFoTlZmSmRDYVJRYUE3MV9mRmRReFVPRnV6eEZva0RseWt5R200VF9iSG5nQjhmUjgtYm1PNWdDLUx0RkRXZlJCaXVMSnk3eHlJQlhjSzRrRHpqSnRRRzd3ODdXSGo2SndjNk1ZbDNvYmZHRXNjbXh5WWZCV1JLbkVCcTZRN0I0?oc=5",
-      "tarih": "2026-01-27T19:53:03+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e5778ebf3a64",
-      "baslik": "BAKANLIK, ‘ÇANAKKALE YANGINI VE MADEN SAHASI’ İDDİALARINI YALANLADI - T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
-      "ozet": "BAKANLIK, ‘ÇANAKKALE YANGINI VE MADEN SAHASI’ İDDİALARINI YALANLADI T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR3lyTlp4bXdHMlJYTUpMTV9oMU9fa0RZOGFoTlZmSmRDYVJRYUE3MV9mRmRReFVPRnV6eEZva0RseWt5R200VF9iSG5nQjhmUjgtYm1PNWdDLUx0RkRXZlJCaXVMSnk3eHlJQlhjSzRrRHpqSnRRRzd3ODdXSGo2SndjNk1ZbDNvYmZHRXNjbXh5WWZCV1JLbkVCcTZRN0I0?oc=5",
-      "tarih": "2026-01-27T19:53:03+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dcb0ece36141",
-      "baslik": "Akbelen-İkizköy’deki maden talanı çevre mahallelere de yayılıyor: Şirketlerin ‘acelesi’ var - Cumhuriyet",
-      "ozet": "Akbelen-İkizköy’deki maden talanı çevre mahallelere de yayılıyor: Şirketlerin ‘acelesi’ var Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ0JRVS10NTlrYUI4d3lEX1BWTEgyRDJCNHl1cmVIdDhmalpwNHNCOWd1bmVxVGpPLXZwMmd3Y2xRbjA0SFpRVHNtTm9Ud3A0UmxZU0p2QklNUldXaG5BUjBZMHlOdWQxQTV6c3lVbE1ZZF8xQmgybzF0cExVSlRnZmt2WlFsMEJnSHhoblVHckI3bDF4a25ZUUR1Z00tODRmRUwzWGpDMTlNTFFFWjZIdzI4cW4zVUxVZjFkNkJBR2FwYjNLdnhCRUQ0S1FraFU?oc=5",
-      "tarih": "2026-01-11T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9ac3fb0efe04",
-      "baslik": "Acele kamulaştırma kararları Resmî Gazete'de - Halk TV",
-      "ozet": "Acele kamulaştırma kararları Resmî Gazete'de Halk TV",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd09pM2ZmeFRfaXEtTnFpdjBadzFiR1QyWXBHcU83QnF6RHBPYnpiRkpEdDlkVW43Sm9yclJjN2tNYWpOVnppclFpemwzS1VHUU1nODIwVEg4N0FmcUpfMU9YS3VVRWNHcEhpY1lxNUlUNEJiX3dzc21Ya2VRWldTTFlVc05JZDRveDlz?oc=5",
-      "tarih": "2026-01-08T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
@@ -92450,6 +92450,20 @@
       "ozet": "Erzincan'ın doğal maden suyu 'ekşisu'ya coğrafi işaret tescili DHA | Demirören Haber Ajansı",
       "lat": 39.8633,
       "lng": 39.5704,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-5132cd20b21e",
+      "baslik": "Denizli Basket, Erten Gazi’yi duyurdu",
+      "konum": "Denizli",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "10.08.2026",
+      "url": "https://www.sozcu.com.tr/denizli-basket-erten-gazi-yi-duyurdu-p343993",
+      "ozet": "Denizli Basket, Erten Gazi’yi duyurdu",
+      "lat": 37.7382,
+      "lng": 28.9935,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
