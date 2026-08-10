@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-10T10:10:15.290643+00:00",
+    "guncelleme": "2026-08-10T12:51:33.864248+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6461,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "faa8cd8efc6a",
+      "baslik": "Müsavat Dervişoğlu: 'Amaç Erdoğan'ı ömür boyu başkan yapmak'",
+      "ozet": "Müsavat Dervişoğlu: 'Amaç Erdoğan'ı ömür boyu başkan yapmak'",
+      "url": "https://www.sozcu.com.tr/musavat-dervisoglu-amac-erdogan-i-omur-boyu-baskan-yapmak-p344056",
+      "tarih": "2026-08-10T11:55:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f69c782af88a",
       "baslik": "Sıcaklıklar 42 dereceye yükselince tüm halk bu çorbayı içmeye çağrıldı",
@@ -1312,6 +1322,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "44692dc07d4c",
+      "baslik": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası - Pusu Haber",
+      "ozet": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası Pusu Haber",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFM3WEVTVUIwMVUwei03UEQ1anlMb1BWbEo4eVltRnRyc2kwalhHQ2N4ZVBzRnNVc3VCREY0bFVVRWdZcV9jOUQtNGdUaHFsdlJsekI1ajd5czBnck1oNU81WDg2WDMyVnRKaDhTNHM3VGZqWmpOd1hUdlJUeUxEWEc4Nmh1SnFpOU45SU5MQzF5VHZwSm9jMThISjFvQnpO?oc=5",
+      "tarih": "2026-07-25T12:23:57+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "9de24538118c",
       "baslik": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı - Aksiyon.com.TR",
       "ozet": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı Aksiyon.com.TR",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-02-21T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c2c5f4b26490",
-      "baslik": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! - Sabah",
-      "ozet": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! Sabah",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRU5paURLbl94SjhCa1lMQ29XbHNOT1pjNXQ2aGczdWY5SGVLVjBpMHZRMk1USmRyLTBJd3Jkdm1ld1dUTXkwZHVvNklDZ1ZXMWpob2ZCODM0c1R2cnMwbXJiLTVPTDgzZ0RwMWw5Ynd1enZ2Qm5GejNiWFVCVFFhX0ZablRrWGxPMU8zR2J3UHZtQXZHYng0UEctV0dzQlpILUVLLTBxMS1FMVhiQ0hoeXZPZEJkV0VoYUd6OVVjVFRFMTRZUTZQbdIBywFBVV95cUxPZjNhRlJZRjU0eG85bktKZ3E2bW5CUFl5NE1tZXdmWW5HTUsyM0hOSUdzWHJyWkstNVZyU0l6bnI4c00tWUswc2czcndDOVN6QkhBa2JacTZZN002ei1wQ2lRRXdkV2M2RDlzRjFaa0E0UjdOdll1UV9SUEEyX3dvQ015SnRtb0JsQkVzRmFSa1R1cDBqYmQydkZFWVVZV29hZURsWTVWTkM5dkJjbjgyMFJJRjlDUHhxNWpvT0lVS2FxSElBTXk3Z2dibw?oc=5",
-      "tarih": "2026-02-21T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5df41c7fe86f",
-      "baslik": "EGEÇEP’ten Milas’ta acele kamulaştırmaya karşı 96 dava - Ege'de Sonsöz",
-      "ozet": "EGEÇEP’ten Milas’ta acele kamulaştırmaya karşı 96 dava Ege'de Sonsöz",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYldncTAzRVZhWUJDTlpmZmRpdzk4ZDhQR3JrYjRaVkZMbUwyb2dYUmRJeVVrUW5DNENEd05vcHhsZmhZbUlGTVh6aFF2b01nbEQxODB5c0JyNF9tWEpEZDZ6cWE4NXhWdUZzcE5oTTFOTUxLOXd3LUM0bVpsYXBmWjhmZW9NNVHSAYwBQVVfeXFMTTB4YTVwODB3Q3BoeGJzTkJKd3kwWFdYUTFUdElvMVZsWWhCeDFaZ29sLTBXZUVaWktJRU9CcDh6dTRqOTRZQm5WYm84Mk1QMU5EYW51Szk4aUxQYWljZ2ZyWklyX2dqQUJla1FMVDdQWjBwZ0tzQjA5Ulhia2M1WE5kSGRvLWVHLUphMUI?oc=5",
-      "tarih": "2026-02-20T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
