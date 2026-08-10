@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-10T04:23:44.967097+00:00",
+    "guncelleme": "2026-08-10T07:15:53.111875+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6459,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6460,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "2770bdb6d745",
+      "baslik": "Altın borcu olanlara kötü haber: Gram altında 10 bin TL senaryosu",
+      "ozet": "Altın borcu olanlara kötü haber: Gram altında 10 bin TL senaryosu",
+      "url": "https://www.sozcu.com.tr/altin-borcu-olanlara-kotu-haber-gram-altinda-10-bin-tl-senaryosu-p343930",
+      "tarih": "2026-08-10T06:29:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "005d86877260",
+      "baslik": "Otel ve restoranlarda yeni dönem: Tamamen yasaklanıyor",
+      "ozet": "Otel ve restoranlarda yeni dönem: Tamamen yasaklanıyor",
+      "url": "https://www.sozcu.com.tr/otel-ve-restoranlarda-yeni-donem-tamamen-yasaklaniyor-p343929",
+      "tarih": "2026-08-10T06:17:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "6af3d3a39b50",
       "baslik": "Altında kâr satışları başladı: Yükseliş için kritik üç şart",
@@ -1292,6 +1312,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "7e73369e8e58",
+      "baslik": "BYD, Macaristan’daki EV tesisinde çevre ihlali iddialarını reddetti Yazar Investing.com - Investing.com Türkiye",
+      "ozet": "BYD, Macaristan’daki EV tesisinde çevre ihlali iddialarını reddetti Yazar Investing.com Investing.com Türkiye",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGY2dl81cVRlTXhDdFZaYU54aHhkSmlKNVI2UnFPZDV6b2RFcnJ3VzFrTHp2cnZndWJSZDJkaWxIa21pNFp5NmpDVG1QSFR0bEx2U3pJNnpNd2JvWHd4NnR4N3BfdDZyWkRjYVp0LWdPUTN2NDBTR0EzWDN2QlVUTkN4d2FjdElVWUY1dHJGcmNwUzFfS2xfLWhDNHdDXzA1OFdINGdRQ3NBRnBMN2ZIa3VDbXM?oc=5",
+      "tarih": "2026-06-20T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "63131e80cda3",
       "baslik": "Bolu’da maden ocağında göçük: 1 işçi mahsur - dha.com.tr",
       "ozet": "Bolu’da maden ocağında göçük: 1 işçi mahsur dha.com.tr",
@@ -1832,6 +1862,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "b10a36af5a32",
+      "baslik": "Erzincan'ın doğal maden suyu 'ekşisu'ya coğrafi işaret tescili - DHA | Demirören Haber Ajansı",
+      "ozet": "Erzincan'ın doğal maden suyu 'ekşisu'ya coğrafi işaret tescili DHA | Demirören Haber Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWtLd2dJaXNFR29qTTB1d1haY1JYWThwa2N3cGdtV1NHRXI2YVdwcGdHY2tMdHNERWtMNGRqa0xlLVZsQnN6OHlXUU9wTTUxaWI1RDcwd254SHhRYlJtdFU1VDVudVJNM0RMajFYcnBPUUsxWkVtQW9PMUlaXzhLMzI2WjdVcVVBbkVoWFdFMDNxSUJEalQ5TFU4V1otX2drZlhxdUFfRdIBrAFBVV95cUxNTmJLakMzaXdxQlpXa0VQUWxORGZSS1piSkJTbmRvY19hZkh0WVhqclJMOFdnam1BUkZkTDlsMmpZUVphWUVuWUt5TGpoWjVkWExvY2hLc0Q3MGVsdnRnZy1EWlUtelVrbjF4ZjJubEk1NVVkdkd2QWE3SHhLY00td09iazM0SkhSOWZHQk1WZHgtdV9UejlmLXB3NE53bzBDMzlUTHZrRTVOSEdK?oc=5",
+      "tarih": "2026-03-03T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "130bcfaaa4f0",
       "baslik": "Ormanlar ve köyler maden sahası oldu - Evrensel.net",
       "ozet": "Ormanlar ve köyler maden sahası oldu Evrensel.net",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-01-08T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "611b5b43a892",
-      "baslik": "Resmi Gazete'de yayımlandı: Birçok ilde acele kamulaştırma kararları - Gazete Oksijen",
-      "ozet": "Resmi Gazete'de yayımlandı: Birçok ilde acele kamulaştırma kararları Gazete Oksijen",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTNoZ2docEs2d1NZTktlMEE0cXMwLXlPOTFtRHI2dEtXVXJOR3R5VHY2RE5LbW5DZzE0Nm1lTkw1VkxJUHZ4STliZ1ZMTTJRVlRrU3FqV3ByZS1td01VblJCcENTblhOaDQ0aEd2NTdtRU9PdXlPRFM3bHJ2MTNzR1pxdU5GbFVRRTdvN243VEdhLVJ0VGdwUXU3RjhOVEJndGpadUd1MVRUbGs?oc=5",
-      "tarih": "2026-01-08T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "72d2aa56263c",
-      "baslik": "Acele kamulaştırma kararları Resmî Gazete'de - halktv.com.tr",
-      "ozet": "Acele kamulaştırma kararları Resmî Gazete'de halktv.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd09pM2ZmeFRfaXEtTnFpdjBadzFiR1QyWXBHcU83QnF6RHBPYnpiRkpEdDlkVW43Sm9yclJjN2tNYWpOVnppclFpemwzS1VHUU1nODIwVEg4N0FmcUpfMU9YS3VVRWNHcEhpY1lxNUlUNEJiX3dzc21Ya2VRWldTTFlVc05JZDRveDlz?oc=5",
-      "tarih": "2026-01-08T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f28fad226df4",
-      "baslik": "Kaz Dağı’nda yeni altın madeni için ÇED başvurusu - İlke TV",
-      "ozet": "Kaz Dağı’nda yeni altın madeni için ÇED başvurusu İlke TV",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ERW1RTVE3RThpVEJ3RTNGdEItY1VDZW5ROHlsT1VqOEtLcjNBVlpObFVyaFVGQVRZWktTeUQ3cUhvekVrbXpxWllfQmxjdUUyWmVBUmVoZnhleWQ3TVVwZ2Vlc2cyRFVXRG1LT0c4UFFHTDBFdzRyeFpLdw?oc=5",
-      "tarih": "2026-01-01T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3f48c0821bc8",
-      "baslik": "Bin pınarlı İda’dan bin madenli Kazdağları’na - Bianet",
-      "ozet": "Bin pınarlı İda’dan bin madenli Kazdağları’na Bianet",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVhxOVcybU1OZ2VtTEd1ZVhoZkZzampiLWFSOXJyY205RjBxaktPYjRRTzY2MkdXd0dJRnVCZXRXMHYwUEljYVJSSzg2M1N5Z0VSR2ppZXVFUzA3LW5ETGNQdGZjNWx4eV9LVlc4dVBYTUZpZDB0b3pvcmZweC15cw?oc=5",
-      "tarih": "2025-12-17T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
     }
   ],
@@ -92436,6 +92436,20 @@
       "ozet": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri Cumhuriyet",
       "lat": 39.8336,
       "lng": 30.6232,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b10a36af5a32",
+      "baslik": "Erzincan'ın doğal maden suyu 'ekşisu'ya coğrafi işaret tescili - DHA | Demirören Haber Ajansı",
+      "konum": "Erzincan",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "10.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWtLd2dJaXNFR29qTTB1d1haY1JYWThwa2N3cGdtV1NHRXI2YVdwcGdHY2tMdHNERWtMNGRqa0xlLVZsQnN6OHlXUU9wTTUxaWI1RDcwd254SHhRYlJtdFU1VDVudVJNM0RMajFYcnBPUUsxWkVtQW9PMUlaXzhLMzI2WjdVcVVBbkVoWFdFMDNxSUJEalQ5TFU4V1otX2drZlhxdUFfRdIBrAFBVV95cUxNTmJLakMzaXdxQlpXa0VQUWxORGZSS1piSkJTbmRvY19hZkh0WVhqclJMOFdnam1BUkZkTDlsMmpZUVphWUVuWUt5TGpoWjVkWExvY2hLc0Q3MGVsdnRnZy1EWlUtelVrbjF4ZjJubEk1NVVkdkd2QWE3SHhLY00td09iazM0SkhSOWZHQk1WZHgtdV9UejlmLXB3NE53bzBDMzlUTHZrRTVOSEdK?oc=5",
+      "ozet": "Erzincan'ın doğal maden suyu 'ekşisu'ya coğrafi işaret tescili DHA | Demirören Haber Ajansı",
+      "lat": 39.8633,
+      "lng": 39.5704,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
