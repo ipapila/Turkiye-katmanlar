@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-10T12:51:33.864248+00:00",
+    "guncelleme": "2026-08-10T15:52:55.731708+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6461,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "f30a7ac130c3",
+      "baslik": "Kuaförlerden topladıkları saçları denize bırakmaya başladılar",
+      "ozet": "Kuaförlerden topladıkları saçları denize bırakmaya başladılar",
+      "url": "https://www.sozcu.com.tr/kuaforlerden-topladiklari-saclari-denize-birakmaya-basladilar-p344116",
+      "tarih": "2026-08-10T14:48:47+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "faa8cd8efc6a",
       "baslik": "Müsavat Dervişoğlu: 'Amaç Erdoğan'ı ömür boyu başkan yapmak'",
@@ -1982,9 +1992,9 @@
       "kaynak_turu": "rss"
     },
     {
-      "id": "fa513c8bec9f",
-      "baslik": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! - sabah.com.tr",
-      "ozet": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! sabah.com.tr",
+      "id": "c2c5f4b26490",
+      "baslik": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! - Sabah",
+      "ozet": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! Sabah",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRU5paURLbl94SjhCa1lMQ29XbHNOT1pjNXQ2aGczdWY5SGVLVjBpMHZRMk1USmRyLTBJd3Jkdm1ld1dUTXkwZHVvNklDZ1ZXMWpob2ZCODM0c1R2cnMwbXJiLTVPTDgzZ0RwMWw5Ynd1enZ2Qm5GejNiWFVCVFFhX0ZablRrWGxPMU8zR2J3UHZtQXZHYng0UEctV0dzQlpILUVLLTBxMS1FMVhiQ0hoeXZPZEJkV0VoYUd6OVVjVFRFMTRZUTZQbdIBywFBVV95cUxPZjNhRlJZRjU0eG85bktKZ3E2bW5CUFl5NE1tZXdmWW5HTUsyM0hOSUdzWHJyWkstNVZyU0l6bnI4c00tWUswc2czcndDOVN6QkhBa2JacTZZN002ei1wQ2lRRXdkV2M2RDlzRjFaa0E0UjdOdll1UV9SUEEyX3dvQ015SnRtb0JsQkVzRmFSa1R1cDBqYmQydkZFWVVZV29hZURsWTVWTkM5dkJjbjgyMFJJRjlDUHhxNWpvT0lVS2FxSElBTXk3Z2dibw?oc=5",
       "tarih": "2026-02-21T08:00:00+00:00",
       "kaynak": "Google News",
@@ -1992,20 +2002,10 @@
       "kaynak_turu": "rss"
     },
     {
-      "id": "c34666369edf",
-      "baslik": "Bakanlık denetiminde CHP’li belediyelere milyonluk ceza! Aynı ihlali 3 kez yapmış - ahaber.com.tr",
-      "ozet": "Bakanlık denetiminde CHP’li belediyelere milyonluk ceza! Aynı ihlali 3 kez yapmış ahaber.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlB0RTJQbm4wQmNfVjhxWllmQnd2cjBTb3dDWHRraWZ6UVBEU2VrTEQteWtJRUVUenJTWmVyeGdSdHlhUDRmWFUycGRvSW0wTDNxZXRicFNnclB5ZHhUdVN4Nm42SFF0YWNEVjZEUVdtazhzNnhfV0FYUmppc1ZGYUZ6dVUtOENzSHJsSVA5cFN0bDR5T0U5ekk3eV9GaG9fclRLb2R3R0VtUVdyQXdSWXpzWVlBcUR3MEJhMTEzTmk?oc=5",
-      "tarih": "2026-02-21T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f2ab2b76b388",
-      "baslik": "Bakanlık denetiminde CHP’li belediyelere milyonluk ceza! Aynı ihlali 3 kez yapmış - A Haber",
-      "ozet": "Bakanlık denetiminde CHP’li belediyelere milyonluk ceza! Aynı ihlali 3 kez yapmış A Haber",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlB0RTJQbm4wQmNfVjhxWllmQnd2cjBTb3dDWHRraWZ6UVBEU2VrTEQteWtJRUVUenJTWmVyeGdSdHlhUDRmWFUycGRvSW0wTDNxZXRicFNnclB5ZHhUdVN4Nm42SFF0YWNEVjZEUVdtazhzNnhfV0FYUmppc1ZGYUZ6dVUtOENzSHJsSVA5cFN0bDR5T0U5ekk3eV9GaG9fclRLb2R3R0VtUVdyQXdSWXpzWVlBcUR3MEJhMTEzTmk?oc=5",
+      "id": "fa513c8bec9f",
+      "baslik": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! - sabah.com.tr",
+      "ozet": "Atıkları usulsüz depolayan Buca ve Foça Belediyelerine rekor ceza: Aynı ihlali 3 kez yapmış! sabah.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRU5paURLbl94SjhCa1lMQ29XbHNOT1pjNXQ2aGczdWY5SGVLVjBpMHZRMk1USmRyLTBJd3Jkdm1ld1dUTXkwZHVvNklDZ1ZXMWpob2ZCODM0c1R2cnMwbXJiLTVPTDgzZ0RwMWw5Ynd1enZ2Qm5GejNiWFVCVFFhX0ZablRrWGxPMU8zR2J3UHZtQXZHYng0UEctV0dzQlpILUVLLTBxMS1FMVhiQ0hoeXZPZEJkV0VoYUd6OVVjVFRFMTRZUTZQbdIBywFBVV95cUxPZjNhRlJZRjU0eG85bktKZ3E2bW5CUFl5NE1tZXdmWW5HTUsyM0hOSUdzWHJyWkstNVZyU0l6bnI4c00tWUswc2czcndDOVN6QkhBa2JacTZZN002ei1wQ2lRRXdkV2M2RDlzRjFaa0E0UjdOdll1UV9SUEEyX3dvQ015SnRtb0JsQkVzRmFSa1R1cDBqYmQydkZFWVVZV29hZURsWTVWTkM5dkJjbjgyMFJJRjlDUHhxNWpvT0lVS2FxSElBTXk3Z2dibw?oc=5",
       "tarih": "2026-02-21T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
