@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-11T06:53:46.043569+00:00",
+    "guncelleme": "2026-08-11T09:53:26.524717+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6461,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6462,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -12,6 +12,66 @@
   },
   "haberler": [
     {
+      "id": "daa297faa2fb",
+      "baslik": "Türkiye'nin Karadeniz teklifi Rusya'yı çılgına çevirdi",
+      "ozet": "Türkiye'nin Karadeniz teklifi Rusya'yı çılgına çevirdi",
+      "url": "https://www.sozcu.com.tr/turkiye-nin-karadeniz-teklifi-rusya-yi-cilgina-cevirdi-p344352",
+      "tarih": "2026-08-11T09:40:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5bf4f4dd9a5b",
+      "baslik": "Konser yorgunluğunu denizde atıyor: Koray Avcı artık teknede yaşıyor, temizliği kendi yapıyor",
+      "ozet": "Konser yorgunluğunu denizde atıyor: Koray Avcı artık teknede yaşıyor, temizliği kendi yapıyor",
+      "url": "https://www.sozcu.com.tr/konser-yorgunlugunu-denizde-atiyor-koray-avci-artik-teknede-yasiyor-temizligi-kendi-yapiyor-p344349",
+      "tarih": "2026-08-11T09:36:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "54144fe2e112",
+      "baslik": "Altın burada tutunursa daha da yükselecek: 'Bu veri her şeyi değiştirebilir'",
+      "ozet": "Altın burada tutunursa daha da yükselecek: 'Bu veri her şeyi değiştirebilir'",
+      "url": "https://www.sozcu.com.tr/altin-burada-tutunursa-daha-da-yukselecek-bu-veri-her-seyi-degistirebilir-p344313",
+      "tarih": "2026-08-11T07:56:43+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a384b693bf81",
+      "baslik": "İklim İnkârcılığı Sözlüğü-7: “Orman Yangınlarının Artmasının Sebebi İklim Kanunu”",
+      "ozet": "Bu hikâyeyi yayan hesaplar, “Neden?” sorusunu ısrarla cevapsız bıraktı. Tarım ve Orman Bakanlığı Orman Genel Müdürlüğü’nün resmi verilerine göre, Türkiye’de İklim Kanunu çıktıktan sonra, 2025 yılında 3 bin 244 orman yangını görüldü. Kanun çıkmadan önce 2024 yılında ise bu sayı 3 ",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-7-orman-yanginlarinin-artmasinin-sebebi-iklim-kanunu/",
+      "tarih": "2026-08-11T07:45:51+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a9e53911b6d4",
+      "baslik": "Tarımda iki ürünün ekimi yasaklanacak",
+      "ozet": "Tarımda iki ürünün ekimi yasaklanacak",
+      "url": "https://www.sozcu.com.tr/tarimda-iki-urunun-ekimi-yasaklanacak-p344310",
+      "tarih": "2026-08-11T07:42:43+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fe55dbcadd37",
+      "baslik": "Kuşların Göç Yollarındaki Elektrik Tehdidi İçin Çağrı",
+      "ozet": "İstanbul Küçükçekmece’de tren yolundaki elektrifikasyon hattında göç yolundaki en az 50 leyleğin akıma kapılarak hayatını kaybetmesinin ve Mersin’de ise elektrik direklerine konan leyleklerin elektrik çarpması nedeniyle yaşamlarını yitirmelerinin ardından WWF-Türkiye (Doğal Hayat",
+      "url": "https://www.iklimhaber.org/kuslarin-goc-yollarindaki-elektrik-tehdidi-icin-cagri/",
+      "tarih": "2026-08-11T06:53:47+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "8dbdb78da0c7",
       "baslik": "Ameliyat sonrası Deniz Seki ilk kez konuştu: “Bacaklarım ikiye ayrılmış gibi düştüm, leğen kemiğim kırıldı”",
       "ozet": "Ameliyat sonrası Deniz Seki ilk kez konuştu: “Bacaklarım ikiye ayrılmış gibi düştüm, leğen kemiğim kırıldı”",
@@ -19,6 +79,16 @@
       "tarih": "2026-08-11T06:52:25+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d8ce0ad514de",
+      "baslik": "İngiltere’nin Üçte İkisinde Resmen Kuraklık İlan Edildi",
+      "ozet": "Başta kömür, petrol ve gazın yakılması gibi insan faaliyetlerinden kaynaklanan küresel ısınma nedeniyle İngiltere’nin ikliminde büyük çaplı değişiklikler görülüyor. Yağışlı iklimiyle bilinen ülkenin bazı bölgelerinde 54 gündür yağmur yağmadı. İngiltere’de kuraklık koşullarının ha",
+      "url": "https://www.iklimhaber.org/ingilterenin-ucte-ikisinde-resmen-kuraklik-ilan-edildi/",
+      "tarih": "2026-08-11T06:30:11+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
       "kaynak_turu": "rss"
     },
     {
@@ -1939,76 +2009,6 @@
       "tarih": "2026-04-17T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b30bafc7b2a1",
-      "baslik": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber - Maraş Son Haber",
-      "ozet": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber Maraş Son Haber",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajJXRVp4QjM3bzdLMDd4QVFKTTRxOXBab2RHYUN3R1lvZTRobkNfMF94M2g0RGZJSllDS094ZHBUZmlnOVBIREF0THQ5U2l0RGU4SDRaSUxGYVlnZjVoNm8xcExvUFR3djIzRXlnTjNNOTRsMGdRNFNMVG42S3E0UzE3ZVdZLWhoei13eDJocXhDd9IBmgFBVV95cUxPWkRPb3VwMkFrVDQxcjh2U0J0U1lhYWVtYXR4SmFfeUtIemxHM2cwZk11alZYYU9wWHh5UzY5WVk4WWV5OV9GZ2lkc1ozd21scUdvRFpINVhlZjNTMk12TG92VHhLTHFfXzVYcWNlcks2YU9waDgxczB1LXNJUzREMXFDMVNEM0s0WmZRUElfOWlra0xQVU54WnRR?oc=5",
-      "tarih": "2026-04-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8abd26b26be1",
-      "baslik": "4 il için acele kamulaştırma imzası çıktı - KARAR",
-      "ozet": "4 il için acele kamulaştırma imzası çıktı KARAR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnM2QVE2dHVtenpZdWZFVXBuOWphSVRmV3dzR053ZHNXVXJoU2FXU0tnYm0tWGJZZUY3OVBjamxVbWQwbmxkM0t0LWxSS19FendyNFJCcVZOR0Q2ZVh2WlZ3YVpnMlVXNUhRWHFSOVk0Z1pWMi1GZmRCME8tTWIwaTdIMlBiai1qNld5eHBDQ3k?oc=5",
-      "tarih": "2026-04-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4467cb483ceb",
-      "baslik": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri - cumhuriyet.com.tr",
-      "ozet": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri cumhuriyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUpGN041eUlxSW1NZWtkY09kLXlzdUxHTGxrWkZ0Wk0yVXVONWQ0cWZ1cHpnRmNMOXlnNUJ2cnQ2MlJyS2lENUNVVkRBcTVZcmdyZUFMb0YzMGVyZktDZWpEVDY1UlpybWlfUmVvWnpJMmJka0daWkVzd3dDVFRxSUhpSE9RdEJYTFFWeHJoYlNOcXotWGltSWxIRHJIWkdxSHdhc2RDc3hmdUUtY2U1VmxVcUxVT0dQQlA2MlhfeFQ2U2lENVJFQm1WTkxRdw?oc=5",
-      "tarih": "2026-04-03T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "007ffecd44ce",
-      "baslik": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri - Cumhuriyet",
-      "ozet": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUpGN041eUlxSW1NZWtkY09kLXlzdUxHTGxrWkZ0Wk0yVXVONWQ0cWZ1cHpnRmNMOXlnNUJ2cnQ2MlJyS2lENUNVVkRBcTVZcmdyZUFMb0YzMGVyZktDZWpEVDY1UlpybWlfUmVvWnpJMmJka0daWkVzd3dDVFRxSUhpSE9RdEJYTFFWeHJoYlNOcXotWGltSWxIRHJIWkdxSHdhc2RDc3hmdUUtY2U1VmxVcUxVT0dQQlA2MlhfeFQ2U2lENVJFQm1WTkxRdw?oc=5",
-      "tarih": "2026-04-03T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d51b77131688",
-      "baslik": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' - Evrensel",
-      "ozet": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' Evrensel",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnBENWhjSzROQlQ3c0lJRTVVbGR5aXV1RHZoTHV6Y2U4N0VFUFF3SFJDRlBDZ3JJTTRrMG5xek9NOXFFcVZDV0JXVXlWUTBfV0kxNEh4bTdBUVBKUk1PQTFoaDMyd1hQdlg0MXhSVHRFS3E2Q2U1dzdLb3Y3Zk9hRXpOaUF6emhEbTY2NnFBcTRNTWxnVXFMUURkZVMzbWVYS1E?oc=5",
-      "tarih": "2026-03-23T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "16de61d3db6d",
-      "baslik": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' - Evrensel.net",
-      "ozet": "'Ekoloji mücadelesi, siyasal ve antiemperyalist bir mücadeledir' Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnBENWhjSzROQlQ3c0lJRTVVbGR5aXV1RHZoTHV6Y2U4N0VFUFF3SFJDRlBDZ3JJTTRrMG5xek9NOXFFcVZDV0JXVXlWUTBfV0kxNEh4bTdBUVBKUk1PQTFoaDMyd1hQdlg0MXhSVHRFS3E2Q2U1dzdLb3Y3Zk9hRXpOaUF6emhEbTY2NnFBcTRNTWxnVXFMUURkZVMzbWVYS1E?oc=5",
-      "tarih": "2026-03-23T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7bb254a6d9e5",
-      "baslik": "NİHAİ ÇED RAPORU (Altınordu - Günören Mahallesi) - Ordu Büyükşehir Belediyesi",
-      "ozet": "NİHAİ ÇED RAPORU (Altınordu - Günören Mahallesi) Ordu Büyükşehir Belediyesi",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFM2WTdRVEFONmdDQlRGZVZJQ2lMN2xxd2ZlSmRMZFNyM1dFZkp5bC1iUl95WFBwckdkLS1kR2llclA5NTMxOW9EdU00bjBCdHMwUnhWU3hkSVNtNHo5aExLd1hIaDgtSmxOVVRCS0xoaDlBMWwydHZPelZzUUo3Yk5TQ3g?oc=5",
-      "tarih": "2026-03-17T07:00:05+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
     }
   ],
@@ -92464,6 +92464,20 @@
       "ozet": "Denizli Basket, Erten Gazi’yi duyurdu",
       "lat": 37.7382,
       "lng": 28.9935,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-fe55dbcadd37",
+      "baslik": "Kuşların Göç Yollarındaki Elektrik Tehdidi İçin Çağrı",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "11.08.2026",
+      "url": "https://www.iklimhaber.org/kuslarin-goc-yollarindaki-elektrik-tehdidi-icin-cagri/",
+      "ozet": "İstanbul Küçükçekmece’de tren yolundaki elektrifikasyon hattında göç yolundaki en az 50 leyleğin akıma kapılarak hayatını kaybetmesinin ve Mersin’de ise elektrik direklerine konan leyleklerin elektrik çarpması nedeniyle yaşamlarını yitirmelerinin ardından WWF-Türkiye (Doğal Hayat",
+      "lat": 40.9932,
+      "lng": 28.9595,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

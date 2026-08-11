@@ -117310,5 +117310,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/denizli-basket-erten-gazi-yi-duyurdu-p343993"
+  },
+  {
+    "id": "tarayici-fe55dbcadd37",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kuşların Göç Yollarındaki Elektrik Tehdidi İçin Çağrı",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul Küçükçekmece’de tren yolundaki elektrifikasyon hattında göç yolundaki en az 50 leyleğin akıma kapılarak hayatını kaybetmesinin ve Mersin’de ise elektrik direklerine konan leyleklerin elektrik çarpması nedeniyle yaşamlarını yitirmelerinin ardından WWF-Türkiye (Doğal Hayat",
+    "koordinatlar": {
+      "lat": 40.9932,
+      "lng": 28.9595
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "11.08.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/kuslarin-goc-yollarindaki-elektrik-tehdidi-icin-cagri/"
   }
 ]
