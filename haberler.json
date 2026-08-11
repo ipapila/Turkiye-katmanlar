@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-11T04:14:20.032171+00:00",
+    "guncelleme": "2026-08-11T06:53:46.043569+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6461,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "8dbdb78da0c7",
+      "baslik": "Ameliyat sonrası Deniz Seki ilk kez konuştu: “Bacaklarım ikiye ayrılmış gibi düştüm, leğen kemiğim kırıldı”",
+      "ozet": "Ameliyat sonrası Deniz Seki ilk kez konuştu: “Bacaklarım ikiye ayrılmış gibi düştüm, leğen kemiğim kırıldı”",
+      "url": "https://www.sozcu.com.tr/deniz-seki-den-ameliyat-sonrasi-yeni-haber-hastanede-kalacagi-sure-belli-oldu-p344262",
+      "tarih": "2026-08-11T06:52:25+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3e60ea55832c",
+      "baslik": "Suyla temas edince eriyen kayaların üzerine dev baraj inşa edildi",
+      "ozet": "Suyla temas edince eriyen kayaların üzerine dev baraj inşa edildi",
+      "url": "https://www.sozcu.com.tr/suyla-temas-edince-eriyen-kayalarin-uzerine-dev-baraj-insa-edildi-p344259",
+      "tarih": "2026-08-11T06:10:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a0ae152dcdd7",
+      "baslik": "Erdoğan'dan AKP'li vekillere Cemil Tugay sorusu",
+      "ozet": "Erdoğan'dan AKP'li vekillere Cemil Tugay sorusu",
+      "url": "https://www.sozcu.com.tr/erdogan-dan-akp-li-vekillere-cemil-tugay-sorusu-p344235",
+      "tarih": "2026-08-11T05:58:43+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "69f662fc2412",
+      "baslik": "SGK'dan kritik çağrı: 20 gün içinde başvuranların borcu 72 aya bölünecek",
+      "ozet": "SGK'dan kritik çağrı: 20 gün içinde başvuranların borcu 72 aya bölünecek",
+      "url": "https://www.sozcu.com.tr/sgk-dan-kritik-cagri-20-gun-icinde-basvuranlarin-borcu-72-aya-bolunecek-p344252",
+      "tarih": "2026-08-11T05:53:04+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "267357f84d49",
+      "baslik": "Evliliklerinde kriz olduğu öne sürülmüştü! Selahattin Paşalı’dan Lara Paşalı’yla aşk karesi",
+      "ozet": "Evliliklerinde kriz olduğu öne sürülmüştü! Selahattin Paşalı’dan Lara Paşalı’yla aşk karesi",
+      "url": "https://www.sozcu.com.tr/evliliklerinde-kriz-oldugu-one-surulmustu-selahattin-pasali-dan-lara-pasali-yla-ask-karesi-p344244",
+      "tarih": "2026-08-11T05:37:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "30fdf99eea42",
+      "baslik": "‘Erdoğan siyasetten çekilse AKP biter mi' anketinde çarpıcı sonuç",
+      "ozet": "‘Erdoğan siyasetten çekilse AKP biter mi' anketinde çarpıcı sonuç",
+      "url": "https://www.sozcu.com.tr/erdogan-siyasetten-cekilse-akp-biter-mi-anketinde-carpici-sonuc-p344241",
+      "tarih": "2026-08-11T05:33:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8d0c67729574",
+      "baslik": "Hazal Filiz Küçükköse’nin Bodrum keyfi: Denizden çıkmadı",
+      "ozet": "Hazal Filiz Küçükköse’nin Bodrum keyfi: Denizden çıkmadı",
+      "url": "https://www.sozcu.com.tr/hazal-filiz-kucukkose-nin-bodrum-keyfi-denizden-cikmadi-p344238",
+      "tarih": "2026-08-11T05:29:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "58a4d9c9f2f3",
       "baslik": "Madenci devletine sığamadı!",
@@ -1562,6 +1632,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "5daa6c201be1",
+      "baslik": "Maden protestosuna davet için afiş astı, AKP'li belediye 115 bin lira ceza kesti - cumhuriyet.com.tr",
+      "ozet": "Maden protestosuna davet için afiş astı, AKP'li belediye 115 bin lira ceza kesti cumhuriyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmZkSGx1QmctbUd4SU5vdjd0OU5PRkhvTVUyMERydkIyVGhyS3ozeTdTeHZwTV9NZGtfMzRDYkl6ZlZESEpTMTQ1c0ZCT0JSdHdJVTFwWlNDR29ZTTNORmdiUjRVYTZNUzBxbWVTZnYtNElsdXBWS1lOOUpRb29EeFVhR0psdV9QOWVKNVNFQ3h2bVJMZXNrZ1NaZGRTWlNxQmtELUw0ZTg2TlJtNjR0RzJxMzhGcjdzTnVXVl9NcHE?oc=5",
+      "tarih": "2026-06-09T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "15f9575ef046",
       "baslik": "Maden protestosuna davet için afiş astı, AKP'li belediye 115 bin lira ceza kesti - Cumhuriyet",
       "ozet": "Maden protestosuna davet için afiş astı, AKP'li belediye 115 bin lira ceza kesti Cumhuriyet",
@@ -1632,6 +1712,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "5ef841212f6d",
+      "baslik": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri - cumhuriyet.com.tr",
+      "ozet": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri cumhuriyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3J2bE82c1VqMld5d2ZUbEhfWkJJMFVRa3JYZVpSMmswRV9sRGwzeUhyMXhabGo0QjBTUXpyYzVUbE0wZ013WDIwNk1lbExYVEwyZzNTZkRfWHJ1SE5oUkp6X0RBNTdXMVNjMWtsOC13dWtmQzlnYUZMeGhkdUFzaUh1dFZwQXdpQXdyWHZocDA1eWJUY3owR1NBWlNDeDU0OHk3SHhnN1cxX3VSLVY1eFpYenJpSTlqMndvMnlTOA?oc=5",
+      "tarih": "2026-05-11T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "ab53ed71da7b",
       "baslik": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri - Cumhuriyet",
       "ozet": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri Cumhuriyet",
@@ -1689,6 +1779,26 @@
       "tarih": "2026-05-08T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5f25eacad329",
+      "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri - cumhuriyet.com.tr",
+      "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri cumhuriyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQakRYZWFVZ3VSRWNYUFZlUWdnSmVtalRXeW96R2JKMkcxd2d5ZHA2T0w5Y3JhVDlLMV9DNFpRWXZpbUhkaXZEWDZvUS1obVpxZWFDQjJkQTBUMXNVSEpJS2pjcFE4dl8wcE5sSmFOYnltMi1JTHhHNVMtRUxsVHJxaGN4TDlnejZKa05aeXktdHVfUWdGRG5NWmFIOVM3ZUQ5Uy12RHdPbzNkcXM5WGswNEpIOXY3SUZfdDFFMzR0bkZrUmk2eWd4VS1FWkhxMDJiRWY1d3RyVGNsWW01NElJbERNS2tmOGFVbGNwYUlkZlUzTjJiYVc0QkNNMUotdw?oc=5",
+      "tarih": "2026-04-27T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3ccc5eb46f1e",
+      "baslik": "Senaristlerden maden işçilerine dayanışma ziyareti - cumhuriyet.com.tr",
+      "ozet": "Senaristlerden maden işçilerine dayanışma ziyareti cumhuriyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGJ1YlhCS2ZBNlFXQ3g4ZWZQd3NRYmJJNFhpMDJudWxsZXl3SWpId3JpS1dMQ2xiYXFUTXBVRkU3YUREVUdjb2FVN3FjZktROHhYM01UcWtzMjM2U3FqVFlsRHlXRGt0WWVSZEt5UDZRMXA1MVY0QkZIbUlLeGpkbjZUTGhsVUFUMW1OUXc4VmFkOTNWSE4tVU9hU1g?oc=5",
+      "tarih": "2026-04-27T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1852,6 +1962,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "4467cb483ceb",
+      "baslik": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri - cumhuriyet.com.tr",
+      "ozet": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri cumhuriyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUpGN041eUlxSW1NZWtkY09kLXlzdUxHTGxrWkZ0Wk0yVXVONWQ0cWZ1cHpnRmNMOXlnNUJ2cnQ2MlJyS2lENUNVVkRBcTVZcmdyZUFMb0YzMGVyZktDZWpEVDY1UlpybWlfUmVvWnpJMmJka0daWkVzd3dDVFRxSUhpSE9RdEJYTFFWeHJoYlNOcXotWGltSWxIRHJIWkdxSHdhc2RDc3hmdUUtY2U1VmxVcUxVT0dQQlA2MlhfeFQ2U2lENVJFQm1WTkxRdw?oc=5",
+      "tarih": "2026-04-03T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "007ffecd44ce",
       "baslik": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri - Cumhuriyet",
       "ozet": "Eskişehir'de 'Esra Işık'a destek açıklaması: 'Maden talanına karşı sesini yükselttiği için...' - Son Dakika Türkiye Haberleri Cumhuriyet",
@@ -1889,126 +2009,6 @@
       "tarih": "2026-03-17T07:00:05+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "79812ad2dc79",
-      "baslik": "Aliağa gemi söküm tesislerinde yeni çevre ihlali iddiası - Cumhuriyet",
-      "ozet": "Aliağa gemi söküm tesislerinde yeni çevre ihlali iddiası Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2c0SVFKNGlaM2dBSHk3WUxtWnZ6TFVmQzhpNVdid2xXOUpDOERhRllxdnd5ZUc3TTh2b0FVMTFFUVBFVUFCaGFnYm80MnRiZHdZS1FqdHJCalRySFlOaG1Ha0s4X1EtWUdFS0Q5YlZjWjAyVHNfWmpHLUptQWstQnNvSVlqa0ZrUmpIbGlkWVNWLWgxSzFpMHZNbVVLbGVOTmc?oc=5",
-      "tarih": "2026-03-10T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bb5e9c559365",
-      "baslik": "Maden projeleri milli parklar için tehdit oluşturuyor: Kontrolsüz madenciliğin itirafı - Cumhuriyet",
-      "ozet": "Maden projeleri milli parklar için tehdit oluşturuyor: Kontrolsüz madenciliğin itirafı Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV251eEdsNE9scFhOVk92VFBqRGt1UklYcktvblJ6MHJOdy1tU3Vvd1pmWkNNNEo4RG56VTR6eHRyV0FlSHVLYk5BNms1ZjFuaXVEcWg5cC1jQTJITGZSeE1DSEgxbTgzRVc1bUNEVmpyYnRBclUzSDZCSlgzR3JuUWlmUjJiMUl1VnpWeHhfd3AtczRrTVdNWW9ZQTNSdXVURDViVDlVU0xKRldaME4ybXpIbkxraFdvLVdTbWswVlhxUjhLeEhsNw?oc=5",
-      "tarih": "2026-03-07T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0dec78ccf782",
-      "baslik": "HSK’den acele kamulaştırma ve ÇED davaları için 'ihtisas mahkemesi' kararı - evrensel.net",
-      "ozet": "HSK’den acele kamulaştırma ve ÇED davaları için 'ihtisas mahkemesi' kararı evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDhmWUtfTFVheklyOEZwWjlRMXFXdnZ5anR1dkhhM1BOd3hjczZ6bVdsTmlNbk85TE5tQlJTMHYxVWtUUXhKdTlNcG1OdWJTVGFLYUs2NENaalVIaHJlOTBPQ1FiS0NITEZpWUhQNFZiMjViUkNwX0hzNWxpWUZXVWxZaWplV3FIZUFIWm1IOXhGVWt0eEZvbjFFZEYzTWhDaklaZDZYWTZpWnlEcHZ3?oc=5",
-      "tarih": "2026-03-06T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9e1a64ddfd90",
-      "baslik": "HSK’den acele kamulaştırma ve ÇED davaları için 'ihtisas mahkemesi' kararı - Evrensel",
-      "ozet": "HSK’den acele kamulaştırma ve ÇED davaları için 'ihtisas mahkemesi' kararı Evrensel",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDhmWUtfTFVheklyOEZwWjlRMXFXdnZ5anR1dkhhM1BOd3hjczZ6bVdsTmlNbk85TE5tQlJTMHYxVWtUUXhKdTlNcG1OdWJTVGFLYUs2NENaalVIaHJlOTBPQ1FiS0NITEZpWUhQNFZiMjViUkNwX0hzNWxpWUZXVWxZaWplV3FIZUFIWm1IOXhGVWt0eEZvbjFFZEYzTWhDaklaZDZYWTZpWnlEcHZ3?oc=5",
-      "tarih": "2026-03-06T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "97db8c536079",
-      "baslik": "HSK’den acele kamulaştırma ve ÇED davaları için 'ihtisas mahkemesi' kararı - Evrensel.net",
-      "ozet": "HSK’den acele kamulaştırma ve ÇED davaları için 'ihtisas mahkemesi' kararı Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDhmWUtfTFVheklyOEZwWjlRMXFXdnZ5anR1dkhhM1BOd3hjczZ6bVdsTmlNbk85TE5tQlJTMHYxVWtUUXhKdTlNcG1OdWJTVGFLYUs2NENaalVIaHJlOTBPQ1FiS0NITEZpWUhQNFZiMjViUkNwX0hzNWxpWUZXVWxZaWplV3FIZUFIWm1IOXhGVWt0eEZvbjFFZEYzTWhDaklaZDZYWTZpWnlEcHZ3?oc=5",
-      "tarih": "2026-03-06T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "50f60a842c3b",
-      "baslik": "Çevre kimin umurunda, şirketlere talan izni yağmış - Son Dakika Türkiye Haberleri - Cumhuriyet",
-      "ozet": "Çevre kimin umurunda, şirketlere talan izni yağmış - Son Dakika Türkiye Haberleri Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUGZYYUtCcDIwOV9rcG1JcFZlTzRnQURBcWxLM2ZYN0FYQ1BKazRxNGlLRlRXUDlSVHFGdXdlNU5PM0pNZFBNSlB1RkRWNUVVbjFKbXhDbFp1NlVUbUpTVjVZRWFsZlRGMkVVeHd4UXU5bHRFM0pHUE1yUnZYTzFDT2RTbHNlZmJ6c2NqVXkxb1BNZDZXUjMybjBzSQ?oc=5",
-      "tarih": "2026-03-06T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "79f7b9b52371",
-      "baslik": "Özelleştirme, ÇED, acele kamulaştırma... Kritik davalara bakan mahkemeler değişti - Halk TV",
-      "ozet": "Özelleştirme, ÇED, acele kamulaştırma... Kritik davalara bakan mahkemeler değişti Halk TV",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzlONGQ0cFNZelNyWHdOSDQtNnVCNFFnbEdKNlF1akk1eE5fck1TVXRwZnFsMHgzOEhlcnVpUTV2NUxEVUY5R05XODRXUXBRekc4VGRzWUVnbFQ0UURhRW8tTVJ1YjJ3VGxCbm1mZl96bmlGRXVIZWxDdlB0d1BIUmlyVUdaaXpKV3F0TDRtVEEtTXZqVmR0bWpOYlZZYVFSbnNhZ1JpeWpsa2liV0JrQ0RsLW1LQQ?oc=5",
-      "tarih": "2026-03-05T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "45d4640763df",
-      "baslik": "Bazı davaların belirli mahkemelerde görülmesine ilişkin karar Resmi Gazete'de - Anadolu Ajansı",
-      "ozet": "Bazı davaların belirli mahkemelerde görülmesine ilişkin karar Resmi Gazete'de Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdENXTGlXOHBJekRWRzAyVG5LMXFZZS1qRmx2aDFRSUtLZkJZTk00WDhsb3drM0YyeklWSHZwS2phWHFlbHJ6UTNlemlaY3FMV25LZHVPRXlIcm1TMFJEVmQyazRwYnkzbHZvaUxiZ1o2WW5mUjVQWGlqZ09sSUcwOXNOMGx2YWQtU25qWXhJWXhLcncza0g2RGxObl9jYll4LUFLaThlY203VENXWVFfV0tuWi1Vckk?oc=5",
-      "tarih": "2026-03-05T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c43e2f514650",
-      "baslik": "Özelleştirme, ÇED, acele kamulaştırma... Kritik davalara bakan mahkemeler değişti - halktv.com.tr",
-      "ozet": "Özelleştirme, ÇED, acele kamulaştırma... Kritik davalara bakan mahkemeler değişti halktv.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzlONGQ0cFNZelNyWHdOSDQtNnVCNFFnbEdKNlF1akk1eE5fck1TVXRwZnFsMHgzOEhlcnVpUTV2NUxEVUY5R05XODRXUXBRekc4VGRzWUVnbFQ0UURhRW8tTVJ1YjJ3VGxCbm1mZl96bmlGRXVIZWxDdlB0d1BIUmlyVUdaaXpKV3F0TDRtVEEtTXZqVmR0bWpOYlZZYVFSbnNhZ1JpeWpsa2liV0JrQ0RsLW1LQQ?oc=5",
-      "tarih": "2026-03-05T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ee787cf8d9c5",
-      "baslik": "Bazı davaların belirli mahkemelerde görülmesine ilişkin karar Resmi Gazete'de - aa.com.tr",
-      "ozet": "Bazı davaların belirli mahkemelerde görülmesine ilişkin karar Resmi Gazete'de aa.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdENXTGlXOHBJekRWRzAyVG5LMXFZZS1qRmx2aDFRSUtLZkJZTk00WDhsb3drM0YyeklWSHZwS2phWHFlbHJ6UTNlemlaY3FMV25LZHVPRXlIcm1TMFJEVmQyazRwYnkzbHZvaUxiZ1o2WW5mUjVQWGlqZ09sSUcwOXNOMGx2YWQtU25qWXhJWXhLcncza0g2RGxObl9jYll4LUFLaThlY203VENXWVFfV0tuWi1Vckk?oc=5",
-      "tarih": "2026-03-05T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2292d53f17f2",
-      "baslik": "Resmi Gazete'de yayımlandı: Acele kamulaştırma, özelleştirme, ÇED ve turizm teşvik kararları davalarına ihtisas idare mahkemeleri bakacak - evrensel.net",
-      "ozet": "Resmi Gazete'de yayımlandı: Acele kamulaştırma, özelleştirme, ÇED ve turizm teşvik kararları davalarına ihtisas idare mahkemeleri bakacak evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVTBLbnhGVWltR29TZm1PcjJDY1o4S3JnLTFBamI1cjc5N1J4azFULXU3Tk1LYmFqNnJXTGJNanh1bVNlQ2ZxTHJkLUhBNmRjbUZYb3JBdGp3RXlJbUg1Nk82dlhqNEhJcWdVNTNRc3JoZ1MxVFFmbnJFYWhja2JUMHlvSFk4STUtZlV2YnRWc1RaZGlUWThNR1d0a044a3RsRDN1aXV5NFJpZFVBRDZMbVdPamFLZE5tdi01NlFQbXJlak4yV2xQb1QwbG1xUFloUUVpRUZYRlN2OUpuclNSZmlCa3ZrNGlYSndQTWtfNlkzekRUbmozTUFCd2xDaDV6eWRv?oc=5",
-      "tarih": "2026-03-05T00:28:18+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "eefdca2b4d30",
-      "baslik": "Resmi Gazete'de yayımlandı: Acele kamulaştırma, özelleştirme, ÇED ve turizm teşvik kararları davalarına ihtisas idare mahkemeleri bakacak - Evrensel",
-      "ozet": "Resmi Gazete'de yayımlandı: Acele kamulaştırma, özelleştirme, ÇED ve turizm teşvik kararları davalarına ihtisas idare mahkemeleri bakacak Evrensel",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVTBLbnhGVWltR29TZm1PcjJDY1o4S3JnLTFBamI1cjc5N1J4azFULXU3Tk1LYmFqNnJXTGJNanh1bVNlQ2ZxTHJkLUhBNmRjbUZYb3JBdGp3RXlJbUg1Nk82dlhqNEhJcWdVNTNRc3JoZ1MxVFFmbnJFYWhja2JUMHlvSFk4STUtZlV2YnRWc1RaZGlUWThNR1d0a044a3RsRDN1aXV5NFJpZFVBRDZMbVdPamFLZE5tdi01NlFQbXJlak4yV2xQb1QwbG1xUFloUUVpRUZYRlN2OUpuclNSZmlCa3ZrNGlYSndQTWtfNlkzekRUbmozTUFCd2xDaDV6eWRv?oc=5",
-      "tarih": "2026-03-05T00:28:18+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
