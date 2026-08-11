@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-11T09:53:26.524717+00:00",
+    "guncelleme": "2026-08-11T12:45:14.788197+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6462,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "b967ddbae149",
+      "baslik": "Nottingham Forest, Fildişili yıldızı kadrosuna kattı",
+      "ozet": "Nottingham Forest, Fildişili yıldızı kadrosuna kattı",
+      "url": "https://www.sozcu.com.tr/nottingham-forest-fildisili-yildizi-kadrosuna-katti-p344388",
+      "tarih": "2026-08-11T11:55:09+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3d3261e6a174",
+      "baslik": "Sıcak Günler Daha da Sıcak Olacak",
+      "ozet": "Yeni bir araştırma yüzyılın sonuna doğru sıcak günlerde aşırı sıcaklığın dört saatten fazla artabileceğini ortaya koyuyor. Yüksek emisyon senaryosuna dayanan yeni bir çalışma, sıcak günlerin 21. yüzyılın sonlarına doğru 4 saatten fazla ek aşırı sıcaklık süresine sahip olabileceği",
+      "url": "https://www.iklimhaber.org/sicak-gunler-daha-da-sicak-olacak/",
+      "tarih": "2026-08-11T11:18:42+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "daa297faa2fb",
       "baslik": "Türkiye'nin Karadeniz teklifi Rusya'yı çılgına çevirdi",
@@ -1542,6 +1562,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "a30de74df948",
+      "baslik": "Maden-İş Genel Başkanı Nurettin Akçul: 'Stratejik madenler yabancı sektörlerin eline bırakılmamalı' - Cumhuriyet",
+      "ozet": "Maden-İş Genel Başkanı Nurettin Akçul: 'Stratejik madenler yabancı sektörlerin eline bırakılmamalı' Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOFljaV81T3RuWkdraG5GQ3R2TGF3TlhZcmtudnhpdWE2WXpqVmQ5elhSZTh3UHV0R3YzMmlFNnNJalVMekhBUHBtVEUxUjhQS3VSRVFiR1dJNjJrc3RhTVJOYXN6aGNZeFltMTBYTDhVaFRuUVptQUloSE1mUUtRVlRCd0FuSVE2MW1RYWY3YlY1dHFnOXlDejhCd0NGS3hRcF9OMGxpTXh2MnhZcXllVl91bUhGMm9BVUF4b0hnS0EtUlNscHBXZjNNOWFDMnJ6bjZSUnQyUVRCUQ?oc=5",
+      "tarih": "2026-07-25T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "98fc6e33e546",
       "baslik": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası İhlas Haber Ajansı - iha.com.tr",
       "ozet": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası İhlas Haber Ajansı iha.com.tr",
@@ -1972,40 +2002,10 @@
       "kaynak_turu": "rss"
     },
     {
-      "id": "3b7280e45b66",
-      "baslik": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı - marasmanset.com",
-      "ozet": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı marasmanset.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODJVWXdSRVk0N1JDZ1Zyd1dUNkpmZVoxeVphU0Z0ZU9ld0Z5NWlFWndIMEVWRndpVV8yS2N2a0FtdThBdjFLU3NadlhNY01CbURyb2RyV2kzODdkZl8tLWpuVTVhcGhuTEdSS2FBYjdCSmhjdWlXUXlzZ1NfVHJLanRwZVM?oc=5",
-      "tarih": "2026-04-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f23a7b681254",
-      "baslik": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı - Kahramanmaraş Manşet Gazetesi",
-      "ozet": "Kuzey Çevre Yolu’na acele kamulaştırma kararı çıktı Kahramanmaraş Manşet Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODJVWXdSRVk0N1JDZ1Zyd1dUNkpmZVoxeVphU0Z0ZU9ld0Z5NWlFWndIMEVWRndpVV8yS2N2a0FtdThBdjFLU3NadlhNY01CbURyb2RyV2kzODdkZl8tLWpuVTVhcGhuTEdSS2FBYjdCSmhjdWlXUXlzZ1NfVHJLanRwZVM?oc=5",
-      "tarih": "2026-04-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2c5ed898973b",
-      "baslik": "4 il için acele kamulaştırma imzası çıktı - karar.com",
-      "ozet": "4 il için acele kamulaştırma imzası çıktı karar.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnM2QVE2dHVtenpZdWZFVXBuOWphSVRmV3dzR053ZHNXVXJoU2FXU0tnYm0tWGJZZUY3OVBjamxVbWQwbmxkM0t0LWxSS19FendyNFJCcVZOR0Q2ZVh2WlZ3YVpnMlVXNUhRWHFSOVk0Z1pWMi1GZmRCME8tTWIwaTdIMlBiai1qNld5eHBDQ3k?oc=5",
-      "tarih": "2026-04-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "519ea77e8579",
-      "baslik": "Ulaştırma projeleri için acele kamulaştırma kararı: 4 İli kapsıyor - ticarigm360.com",
-      "ozet": "Ulaştırma projeleri için acele kamulaştırma kararı: 4 İli kapsıyor ticarigm360.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG0ySDc1SWdFQkhFLXRlX1FqZEFsOWRsaEpZdmdWc2dGcjlPdEsxX1BXd2lGN2FpWXZrekFUX3J3ZmFVZlkwYi1PWkh5SnQwTXdEdzFUUWVBNEZGcmNCc3ZHUXlvUWQxcUFXOG80M1JZUW9Ia0liWWFVNWgyZmQ4a091NEg1ODJXVlVxU2ZWUWlvSHBpdkxBZXpn?oc=5",
+      "id": "b30bafc7b2a1",
+      "baslik": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber - Maraş Son Haber",
+      "ozet": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber Maraş Son Haber",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajJXRVp4QjM3bzdLMDd4QVFKTTRxOXBab2RHYUN3R1lvZTRobkNfMF94M2g0RGZJSllDS094ZHBUZmlnOVBIREF0THQ5U2l0RGU4SDRaSUxGYVlnZjVoNm8xcExvUFR3djIzRXlnTjNNOTRsMGdRNFNMVG42S3E0UzE3ZVdZLWhoei13eDJocXhDd9IBmgFBVV95cUxPWkRPb3VwMkFrVDQxcjh2U0J0U1lhYWVtYXR4SmFfeUtIemxHM2cwZk11alZYYU9wWHh5UzY5WVk4WWV5OV9GZ2lkc1ozd21scUdvRFpINVhlZjNTMk12TG92VHhLTHFfXzVYcWNlcks2YU9waDgxczB1LXNJUzREMXFDMVNEM0s0WmZRUElfOWlra0xQVU54WnRR?oc=5",
       "tarih": "2026-04-17T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
