@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-10T18:45:08.481524+00:00",
+    "guncelleme": "2026-08-11T04:14:20.032171+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6461,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "58a4d9c9f2f3",
+      "baslik": "Madenci devletine sığamadı!",
+      "ozet": "Madenci devletine sığamadı!",
+      "url": "https://www.sozcu.com.tr/madenci-devletine-sigamadi-p344209",
+      "tarih": "2026-08-11T01:31:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "89d9b374b8bd",
+      "baslik": "Tuğba Danışmaz Avrupa Atletizm Şampiyonası'nda finale yükseldi",
+      "ozet": "Tuğba Danışmaz Avrupa Atletizm Şampiyonası'nda finale yükseldi",
+      "url": "https://www.sozcu.com.tr/tugba-danismaz-avrupa-atletizm-sampiyonasi-nda-finale-yukseldi-p344195",
+      "tarih": "2026-08-10T21:17:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a490b4a442ee",
+      "baslik": "Dev barajda su seviyesi dibe vurdu: Elektrik üretimi yüzde 70 azalabilir",
+      "ozet": "Dev barajda su seviyesi dibe vurdu: Elektrik üretimi yüzde 70 azalabilir",
+      "url": "https://www.sozcu.com.tr/dev-barajda-su-seviyesi-dibe-vurdu-elektrik-uretimi-yuzde-70-azalabilir-p344181",
+      "tarih": "2026-08-10T19:56:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f0ac12df3558",
       "baslik": "76 kilometrekarelik dev buz kütlesi denizde sürüklenmeye başladı",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-03-05T00:28:18+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b4269678b0b7",
-      "baslik": "Resmi Gazete'de yayımlandı: Acele kamulaştırma, özelleştirme, ÇED ve turizm teşvik kararları davalarına ihtisas idare mahkemeleri bakacak - Evrensel.net",
-      "ozet": "Resmi Gazete'de yayımlandı: Acele kamulaştırma, özelleştirme, ÇED ve turizm teşvik kararları davalarına ihtisas idare mahkemeleri bakacak Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVTBLbnhGVWltR29TZm1PcjJDY1o4S3JnLTFBamI1cjc5N1J4azFULXU3Tk1LYmFqNnJXTGJNanh1bVNlQ2ZxTHJkLUhBNmRjbUZYb3JBdGp3RXlJbUg1Nk82dlhqNEhJcWdVNTNRc3JoZ1MxVFFmbnJFYWhja2JUMHlvSFk4STUtZlV2YnRWc1RaZGlUWThNR1d0a044a3RsRDN1aXV5NFJpZFVBRDZMbVdPamFLZE5tdi01NlFQbXJlak4yV2xQb1QwbG1xUFloUUVpRUZYRlN2OUpuclNSZmlCa3ZrNGlYSndQTWtfNlkzekRUbmozTUFCd2xDaDV6eWRv?oc=5",
-      "tarih": "2026-03-05T00:28:18+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b10a36af5a32",
-      "baslik": "Erzincan'ın doğal maden suyu 'ekşisu'ya coğrafi işaret tescili - DHA | Demirören Haber Ajansı",
-      "ozet": "Erzincan'ın doğal maden suyu 'ekşisu'ya coğrafi işaret tescili DHA | Demirören Haber Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWtLd2dJaXNFR29qTTB1d1haY1JYWThwa2N3cGdtV1NHRXI2YVdwcGdHY2tMdHNERWtMNGRqa0xlLVZsQnN6OHlXUU9wTTUxaWI1RDcwd254SHhRYlJtdFU1VDVudVJNM0RMajFYcnBPUUsxWkVtQW9PMUlaXzhLMzI2WjdVcVVBbkVoWFdFMDNxSUJEalQ5TFU4V1otX2drZlhxdUFfRdIBrAFBVV95cUxNTmJLakMzaXdxQlpXa0VQUWxORGZSS1piSkJTbmRvY19hZkh0WVhqclJMOFdnam1BUkZkTDlsMmpZUVphWUVuWUt5TGpoWjVkWExvY2hLc0Q3MGVsdnRnZy1EWlUtelVrbjF4ZjJubEk1NVVkdkd2QWE3SHhLY00td09iazM0SkhSOWZHQk1WZHgtdV9UejlmLXB3NE53bzBDMzlUTHZrRTVOSEdK?oc=5",
-      "tarih": "2026-03-03T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "130bcfaaa4f0",
-      "baslik": "Ormanlar ve köyler maden sahası oldu - Evrensel.net",
-      "ozet": "Ormanlar ve köyler maden sahası oldu Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlZwY2U3d2ZjMVpTRzJzRUZsclVqSWVQU0Rva3MtZ1BPUEtqYWhYaEs3dXhGVEtoMC0tQnU1MDZRR0pmbmRjeXZaSVF6M0p5Qmd5N0cwdnAtZHdIamp3QUxoZVkxN3R5VnBhQ1RxUDVnMEtvUU9nM0hYeUxpc3NVRA?oc=5",
-      "tarih": "2026-02-24T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
     }
   ],
