@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-11T12:45:14.788197+00:00",
+    "guncelleme": "2026-08-11T15:53:31.350887+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6462,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "a6239f21bada",
+      "baslik": "Erdoğan Kurtulmuş ile görüştü! Çerçeve yasa sonrası kritik buluşma",
+      "ozet": "Erdoğan Kurtulmuş ile görüştü! Çerçeve yasa sonrası kritik buluşma",
+      "url": "https://www.sozcu.com.tr/erdogan-kurtulmus-ile-gorustu-cerceve-yasa-sonrasi-kritik-bulusma-p344450",
+      "tarih": "2026-08-11T15:12:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "695915444733",
+      "baslik": "Barajları tek tek yıkmaya başladılar",
+      "ozet": "Barajları tek tek yıkmaya başladılar",
+      "url": "https://www.sozcu.com.tr/barajlari-tek-tek-yikmaya-basladilar-p344447",
+      "tarih": "2026-08-11T14:47:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4f075330e345",
+      "baslik": "Berkan Kutlu'nun yeni adresi belli oldu",
+      "ozet": "Berkan Kutlu'nun yeni adresi belli oldu",
+      "url": "https://www.sozcu.com.tr/berkan-kutlu-super-ligde-kocaelisporun-formasini-giyecek-p344446",
+      "tarih": "2026-08-11T14:46:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b967ddbae149",
       "baslik": "Nottingham Forest, Fildişili yıldızı kadrosuna kattı",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-04-24T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4ce814e70209",
-      "baslik": "“Sistematik çevre ihlali endişe veriyor” - haberekspres.com.tr",
-      "ozet": "“Sistematik çevre ihlali endişe veriyor” haberekspres.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bFpySWdKMUNJcHZMMnoyRkN5aDN4ZXBLaFRaLVVMc3IxV0Z5WklJSWlTZl9uTGt4NXNwZVRxX1V0aExEUnNVSmdxemU0SkUzNG5rLVY2TFZIbVBfR3c0ZGFJVUVsVm5iVzVYUFhZb0xVeXlmd1htV0hn0gF_QVVfeXFMTXp6eUlQNklYRjVTdW84YjFtRDlXU0piVFRnaVNNVktZWVNvQk05XzU0YlV6N2E1SzZMdTBPdVFJZmo3cGhzbUVCTjhuU2hBUGFINFBoVFZqSGUwVi02R2E5MFZLWG5nT2VjQXBUb1dES2ctcjFTWWJJVkZtZmxhQQ?oc=5",
-      "tarih": "2026-04-24T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "43c22ba01866",
-      "baslik": "“Sistematik çevre ihlali endişe veriyor” - Haber Ekspres",
-      "ozet": "“Sistematik çevre ihlali endişe veriyor” Haber Ekspres",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bFpySWdKMUNJcHZMMnoyRkN5aDN4ZXBLaFRaLVVMc3IxV0Z5WklJSWlTZl9uTGt4NXNwZVRxX1V0aExEUnNVSmdxemU0SkUzNG5rLVY2TFZIbVBfR3c0ZGFJVUVsVm5iVzVYUFhZb0xVeXlmd1htV0hn0gF_QVVfeXFMTXp6eUlQNklYRjVTdW84YjFtRDlXU0piVFRnaVNNVktZWVNvQk05XzU0YlV6N2E1SzZMdTBPdVFJZmo3cGhzbUVCTjhuU2hBUGFINFBoVFZqSGUwVi02R2E5MFZLWG5nT2VjQXBUb1dES2ctcjFTWWJJVkZtZmxhQQ?oc=5",
-      "tarih": "2026-04-24T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b30bafc7b2a1",
-      "baslik": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber - Maraş Son Haber",
-      "ozet": "Kahramanmaraş Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Maraş Son Haber Maraş Son Haber",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajJXRVp4QjM3bzdLMDd4QVFKTTRxOXBab2RHYUN3R1lvZTRobkNfMF94M2g0RGZJSllDS094ZHBUZmlnOVBIREF0THQ5U2l0RGU4SDRaSUxGYVlnZjVoNm8xcExvUFR3djIzRXlnTjNNOTRsMGdRNFNMVG42S3E0UzE3ZVdZLWhoei13eDJocXhDd9IBmgFBVV95cUxPWkRPb3VwMkFrVDQxcjh2U0J0U1lhYWVtYXR4SmFfeUtIemxHM2cwZk11alZYYU9wWHh5UzY5WVk4WWV5OV9GZ2lkc1ozd21scUdvRFpINVhlZjNTMk12TG92VHhLTHFfXzVYcWNlcks2YU9waDgxczB1LXNJUzREMXFDMVNEM0s0WmZRUElfOWlra0xQVU54WnRR?oc=5",
-      "tarih": "2026-04-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
