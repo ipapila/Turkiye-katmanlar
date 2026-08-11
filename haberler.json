@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-11T15:53:31.350887+00:00",
+    "guncelleme": "2026-08-11T18:51:38.503048+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6462,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "21ead5acb69a",
+      "baslik": "İran ABD’ye resti çekti: Bu şartlar kabul olmazsa Hürmüz açılmayacak",
+      "ozet": "İran ABD’ye resti çekti: Bu şartlar kabul olmazsa Hürmüz açılmayacak",
+      "url": "https://www.sozcu.com.tr/iran-abd-ye-resti-cekti-bu-sartlar-kabul-olmazsa-hurmuz-acilmayacak-p344490",
+      "tarih": "2026-08-11T17:57:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b2a1fc5e13f0",
+      "baslik": "85 yaşındaki çiftçi tek bir fidanla inanılmazı başardı: Ormanlık yamaç meyveyle doldu",
+      "ozet": "85 yaşındaki çiftçi tek bir fidanla inanılmazı başardı: Ormanlık yamaç meyveyle doldu",
+      "url": "https://www.sozcu.com.tr/85-yasindaki-ciftci-tek-bir-fidanla-inanilmazi-basardi-ormanlik-yamac-meyveyle-doldu-p344483",
+      "tarih": "2026-08-11T17:07:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a6239f21bada",
       "baslik": "Erdoğan Kurtulmuş ile görüştü! Çerçeve yasa sonrası kritik buluşma",
@@ -1662,6 +1682,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "4a017383b35b",
+      "baslik": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu - tr.investing.com",
+      "ozet": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu tr.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNci0xT19sV3hHR3VyT1hGTExjTVgwbTBfWURXLWJtZllIa3I5djBjc0VidnVEOWhIaU5KUHZyUExaUGV1TVUtUVJoQkNGQWFMWFVzckpLR3R1NTI1TDBVUWxRQ0J4S0twUjVxV0lwMmRETFhDRTliTnJvNFpxQndxejR1RTFPcmNyaWZOeGpQbTkwWlZ6NzZKdGppQ0gwMlloV1J3Nm8tbDd0RHpBZGhfdVZrU0VLNUx3OEJTVmFtZXQ4LU1j?oc=5",
+      "tarih": "2026-07-08T08:36:18+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "7c1518ffe305",
       "baslik": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu - Investing.com Türkiye",
       "ozet": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu Investing.com Türkiye",
@@ -1669,6 +1699,16 @@
       "tarih": "2026-07-08T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8dbf9678a9a9",
+      "baslik": "BYD, Macaristan’daki EV tesisinde çevre ihlali iddialarını reddetti Yazar Investing.com - tr.investing.com",
+      "ozet": "BYD, Macaristan’daki EV tesisinde çevre ihlali iddialarını reddetti Yazar Investing.com tr.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGY2dl81cVRlTXhDdFZaYU54aHhkSmlKNVI2UnFPZDV6b2RFcnJ3VzFrTHp2cnZndWJSZDJkaWxIa21pNFp5NmpDVG1QSFR0bEx2U3pJNnpNd2JvWHd4NnR4N3BfdDZyWkRjYVp0LWdPUTN2NDBTR0EzWDN2QlVUTkN4d2FjdElVWUY1dHJGcmNwUzFfS2xfLWhDNHdDXzA1OFdINGdRQ3NBRnBMN2ZIa3VDbXM?oc=5",
+      "tarih": "2026-06-20T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1967,46 +2007,6 @@
       "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu Anka Haber",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORTI3ZEdxRzZId3NXcVZlNnBJeDFsZVZEMXA1eFE1MnNGVHFrQlE3ZDdkRnV5UFRES2huWWNJdS1Nclg4bV9IMkRfSGlrYmlnUG9RQkZfb0RpcHZxbG90aERTZEt1SjM2dmRqeXdDWHZHWnd2aHd6YXU4VnYtUldrZ1dfaXpGOG14VmFQRVBoTy10Qkc1NG5pQlA1MVVkNnJFb1kyLUJxRXdqM29CV1ZKU2Y1RFAydWU0TURaTDBUeV9NT0g0NVFUODhWTmgteW1vUnBIcWp5VnR5OFBTR0p4ZkxwUWhRUVJoamphNlNSeUJxWUkwc1E?oc=5",
       "tarih": "2026-04-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8ec1f832e46e",
-      "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri - Cumhuriyet",
-      "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQakRYZWFVZ3VSRWNYUFZlUWdnSmVtalRXeW96R2JKMkcxd2d5ZHA2T0w5Y3JhVDlLMV9DNFpRWXZpbUhkaXZEWDZvUS1obVpxZWFDQjJkQTBUMXNVSEpJS2pjcFE4dl8wcE5sSmFOYnltMi1JTHhHNVMtRUxsVHJxaGN4TDlnejZKa05aeXktdHVfUWdGRG5NWmFIOVM3ZUQ5Uy12RHdPbzNkcXM5WGswNEpIOXY3SUZfdDFFMzR0bkZrUmk2eWd4VS1FWkhxMDJiRWY1d3RyVGNsWW01NElJbERNS2tmOGFVbGNwYUlkZlUzTjJiYVc0QkNNMUotdw?oc=5",
-      "tarih": "2026-04-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c642f083e56b",
-      "baslik": "İstanbul Valiliği'nden Çatalca ve Beykoz'daki yangınlara ilişkin açıklama - Son Dakika Türkiye Haberleri - Cumhuriyet",
-      "ozet": "İstanbul Valiliği'nden Çatalca ve Beykoz'daki yangınlara ilişkin açıklama - Son Dakika Türkiye Haberleri Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckRxYk9Kak1vSFYwd05nUEJkWkdOSGpkelo4TTdsSUM0dDJ1RGdTS1JxenJ1Z09zWmZmZWxUOVdMTW5TZ3RDdTBtNVl6UmRPV2FUZG5SNzJSVnZnX2pFb2NnVml1NFhjdjJxXzhnck9JV2E2VEw1Vld3V212anY4bUhHbWZ6SUdUWlh2cU9wQ2VlV1FNaDk2YjcyQW5mUjh6NmJiWGszcUI4MjlwOS1weFM0dHJVUTZRc1k0?oc=5",
-      "tarih": "2026-04-26T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f59ef09abae8",
-      "baslik": "“Sistematik çevre ihlali endişe veriyor” - izmir.bel.tr",
-      "ozet": "“Sistematik çevre ihlali endişe veriyor” izmir.bel.tr",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVdVZUZjLWdHaHdSVnJiQ3ZfTzJTN3dZUnRwRVN0T3V4ajdIVVM1OHRDRWN4MkR3YVhzVUxTdmxHQmFiUmJfRmlHeHdZblIxbnlzaUpWOUNtdVk2ZGtPYTdwd1o4aTlXVVJQZi10cE5rbm9rdmZmLUpYc29aOTQ0c1RUVU96V2oyX0ZVQnZn?oc=5",
-      "tarih": "2026-04-24T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d722a9eddc5f",
-      "baslik": "“Sistematik çevre ihlali endişe veriyor” - İzmir Büyükşehir Belediyesi",
-      "ozet": "“Sistematik çevre ihlali endişe veriyor” İzmir Büyükşehir Belediyesi",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVdVZUZjLWdHaHdSVnJiQ3ZfTzJTN3dZUnRwRVN0T3V4ajdIVVM1OHRDRWN4MkR3YVhzVUxTdmxHQmFiUmJfRmlHeHdZblIxbnlzaUpWOUNtdVk2ZGtPYTdwd1o4aTlXVVJQZi10cE5rbm9rdmZmLUpYc29aOTQ0c1RUVU96V2oyX0ZVQnZn?oc=5",
-      "tarih": "2026-04-24T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
