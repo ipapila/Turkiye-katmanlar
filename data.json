@@ -117367,5 +117367,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/uc-kentteki-obruk-sayisi-artmaya-devam-ediyor/"
+  },
+  {
+    "id": "tarayici-d33f36b02ec4",
+    "tip": "İklim Olayları",
+    "ad": "Antalya’nın iki ilçesinde orman yangını",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya’nın iki ilçesinde orman yangını",
+    "koordinatlar": {
+      "lat": 36.8839,
+      "lng": 30.6909
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "12.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/antalya-nin-iki-ilcesinde-orman-yangini-p346778"
   }
 ]

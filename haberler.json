@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-12T12:51:19.528153+00:00",
+    "guncelleme": "2026-08-12T15:53:00.409425+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6464,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6465,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "ee99e0dc3f8c",
+      "baslik": "Beşiktaş Vlahovic transferini resmen duyurdu",
+      "ozet": "Beşiktaş Vlahovic transferini resmen duyurdu",
+      "url": "https://www.sozcu.com.tr/besiktas-vlahovic-transferini-resmen-duyurdu-p346786",
+      "tarih": "2026-08-12T15:50:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "752ffdb7e9d5",
+      "baslik": "Kenti sel vurdu: Anne ve 2 kızı sulara kapıldı",
+      "ozet": "Kenti sel vurdu: Anne ve 2 kızı sulara kapıldı",
+      "url": "https://www.sozcu.com.tr/kenti-sel-vurdu-anne-ve-2-kizi-sulara-kapildi-p346787",
+      "tarih": "2026-08-12T15:48:43+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d33f36b02ec4",
+      "baslik": "Antalya’nın iki ilçesinde orman yangını",
+      "ozet": "Antalya’nın iki ilçesinde orman yangını",
+      "url": "https://www.sozcu.com.tr/antalya-nin-iki-ilcesinde-orman-yangini-p346778",
+      "tarih": "2026-08-12T14:56:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "6f2a387fff76",
       "baslik": "BM: Aşırı Sıcaklar Daha Sık ve Şiddetli Hale Geliyor",
@@ -1742,6 +1772,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "1079626b12a4",
+      "baslik": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı - aksiyon.com.tr",
+      "ozet": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı aksiyon.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkQtUllITFVtNXBIVVFQMzg5cFMzM0NxSkwwdzBmVGFuam11XzNPYUFVc1NNOTkzYnozLTlWMkJBM0RGSzgzb09NdkFEWEV6VkN4OVNxejVDS2ZjVGhBdEVGQVNLUWwxR2YwQ1dOUkNTQ0tWUWxlY044Zm16WW9ieFhvWG1GLW50TGk0SUExUzVfb0FMcHJLNXFsajZpMjMyUnY0MDJOY1dfQUpsaFHSAbMBQVVfeXFMTVBXbmw0dGNZMmQtRDZaWUtFZGlUeEJfampkakNMdnh6TkVUZEpxN2Q0bmlWbjFoZ1NNSmNvWVAydHVPOVQwbG1hSkxiU2t5dnNjT2V4eER6VURZSVdCSG5oenhXUzVVeTdWa1F4LXpRd0hHV0kycTh0bzZXRS1sbzdDNV9nMzJ5YnZGR3psaXZISmdHQjZVNEk0WEl3VGVKLXFaQ1hVTWc3Z3lSU0VUY0ZLdUk?oc=5",
+      "tarih": "2026-07-25T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "a30de74df948",
       "baslik": "Maden-İş Genel Başkanı Nurettin Akçul: 'Stratejik madenler yabancı sektörlerin eline bırakılmamalı' - Cumhuriyet",
       "ozet": "Maden-İş Genel Başkanı Nurettin Akçul: 'Stratejik madenler yabancı sektörlerin eline bırakılmamalı' Cumhuriyet",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-05-22T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "33d62b3071f9",
-      "baslik": "xAI’ın çevre kirliliği davası sürerken, firmanın kural ihlaline devam ettiği iddia edildi - milliyet.com.tr",
-      "ozet": "xAI’ın çevre kirliliği davası sürerken, firmanın kural ihlaline devam ettiği iddia edildi milliyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcWJ3dW13ZXNqM1ctRnRfUDllUDl6akRqa2thTWtrd1VwVXRTd2xZd0FqbUdSUTBIS0Y5STloV21FNHI0V21ROVRpOWU5WVNmTFVnTmp4N1AxSGh4bWFEZlMzeEl1WEJaX3dPS1NmaWxVVmFVWjItRWRTMk0zOVJGdHFGSElRWHp3c0J5SElUa0lnUVgzeFIwQXo1U2VBalc4SGRUb3VHVlFxRlVfR1VjSldORVJBWjZvYnVyd0dDSDNGMnBhMUxJYWJmQlpnUQ?oc=5",
-      "tarih": "2026-05-15T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6a4f7f088e56",
-      "baslik": "xAI’ın çevre kirliliği davası sürerken, firmanın kural ihlaline devam ettiği iddia edildi - Milliyet",
-      "ozet": "xAI’ın çevre kirliliği davası sürerken, firmanın kural ihlaline devam ettiği iddia edildi Milliyet",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcWJ3dW13ZXNqM1ctRnRfUDllUDl6akRqa2thTWtrd1VwVXRTd2xZd0FqbUdSUTBIS0Y5STloV21FNHI0V21ROVRpOWU5WVNmTFVnTmp4N1AxSGh4bWFEZlMzeEl1WEJaX3dPS1NmaWxVVmFVWjItRWRTMk0zOVJGdHFGSElRWHp3c0J5SElUa0lnUVgzeFIwQXo1U2VBalc4SGRUb3VHVlFxRlVfR1VjSldORVJBWjZvYnVyd0dDSDNGMnBhMUxJYWJmQlpnUQ?oc=5",
-      "tarih": "2026-05-15T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "704ef39e2886",
-      "baslik": "Kürdistan’da ekolojik soykırım projeleri - yeniyasamgazetesi9.com",
-      "ozet": "Kürdistan’da ekolojik soykırım projeleri yeniyasamgazetesi9.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIYWNfTzVkbWw3VDYxQWg5ZWExbW1Na19ROWRQMzlqampDUF9OekpoN25XSTBtY1I0Rk5DdXpwQ0hfbHNjb3NfdjVjanE1LTA4akRhQjRhaGgwMmR5ek9PREJVTkYzRUN1bkZ3QkJpb1Q5Qk1KNFc0NHJBVQ?oc=5",
-      "tarih": "2026-05-12T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a83f7521b9e0",
-      "baslik": "Kürdistan’da ekolojik soykırım projeleri - Yeni Yaşam Gazetesi",
-      "ozet": "Kürdistan’da ekolojik soykırım projeleri Yeni Yaşam Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIYWNfTzVkbWw3VDYxQWg5ZWExbW1Na19ROWRQMzlqampDUF9OekpoN25XSTBtY1I0Rk5DdXpwQ0hfbHNjb3NfdjVjanE1LTA4akRhQjRhaGgwMmR5ek9PREJVTkYzRUN1bkZ3QkJpb1Q5Qk1KNFc0NHJBVQ?oc=5",
-      "tarih": "2026-05-12T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
       "kaynak_turu": "rss"
     }
   ],
@@ -92506,6 +92506,20 @@
       "ozet": "Konya Ovası’nda iklim krizi, kuraklık ve kontrolsüz yer altı suyu kullanımıyla oluşan obruk sayısı her geçen yıl artıyor. Afet ve Acil Durum Yönetimi Başkanlığınca (AFAD) yürütülen Obruk Duyarlılık Haritası çalışması kapsamında Konya, Karaman ve Aksaray’da kayıt altına alınan obr",
       "lat": 38.4408,
       "lng": 33.9892,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d33f36b02ec4",
+      "baslik": "Antalya’nın iki ilçesinde orman yangını",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "12.08.2026",
+      "url": "https://www.sozcu.com.tr/antalya-nin-iki-ilcesinde-orman-yangini-p346778",
+      "ozet": "Antalya’nın iki ilçesinde orman yangını",
+      "lat": 36.8839,
+      "lng": 30.6909,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
