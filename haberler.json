@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-12T09:54:46.541440+00:00",
+    "guncelleme": "2026-08-12T12:51:19.528153+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6464,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "6f2a387fff76",
+      "baslik": "BM: Aşırı Sıcaklar Daha Sık ve Şiddetli Hale Geliyor",
+      "ozet": "Dünya Meteoroloji Örgütü, sıcak dalgalarının dünya genelinde giderek daha sık, şiddetli ve uzun süreli hale geldiğine dikkat çekiyor. Uzmanlar ayrıca, Avrupa’yı etkisi altına alan aşırı sıcakların arkasında El Niño’nun değil, küresel ısınma ve kalıcı yüksek basınç sistemlerinin o",
+      "url": "https://www.iklimhaber.org/bm-asiri-sicaklar-daha-sik-ve-siddetli-hale-geliyor/",
+      "tarih": "2026-08-12T12:07:13+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b2750c5bd9cc",
+      "baslik": "Bir isim daha veda etti: Kızılcık Şerbeti finalin kıyısında",
+      "ozet": "Bir isim daha veda etti: Kızılcık Şerbeti finalin kıyısında",
+      "url": "https://www.sozcu.com.tr/bir-isim-daha-veda-etti-kizilcik-serbeti-final-yapabilir-p346695",
+      "tarih": "2026-08-12T10:02:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "7dbcfdee14e2",
       "baslik": "Aşırı Hava Olayları ve Deprem Kaynaklı Ekonomik Kayıplar Yılın İlk Yarısında 111 Milyar Doları Buldu",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-05-12T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5ef841212f6d",
-      "baslik": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri - cumhuriyet.com.tr",
-      "ozet": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri cumhuriyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3J2bE82c1VqMld5d2ZUbEhfWkJJMFVRa3JYZVpSMmswRV9sRGwzeUhyMXhabGo0QjBTUXpyYzVUbE0wZ013WDIwNk1lbExYVEwyZzNTZkRfWHJ1SE5oUkp6X0RBNTdXMVNjMWtsOC13dWtmQzlnYUZMeGhkdUFzaUh1dFZwQXdpQXdyWHZocDA1eWJUY3owR1NBWlNDeDU0OHk3SHhnN1cxX3VSLVY1eFpYenJpSTlqMndvMnlTOA?oc=5",
-      "tarih": "2026-05-11T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ab53ed71da7b",
-      "baslik": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri - Cumhuriyet",
-      "ozet": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3J2bE82c1VqMld5d2ZUbEhfWkJJMFVRa3JYZVpSMmswRV9sRGwzeUhyMXhabGo0QjBTUXpyYzVUbE0wZ013WDIwNk1lbExYVEwyZzNTZkRfWHJ1SE5oUkp6X0RBNTdXMVNjMWtsOC13dWtmQzlnYUZMeGhkdUFzaUh1dFZwQXdpQXdyWHZocDA1eWJUY3owR1NBWlNDeDU0OHk3SHhnN1cxX3VSLVY1eFpYenJpSTlqMndvMnlTOA?oc=5",
-      "tarih": "2026-05-11T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
