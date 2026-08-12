@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-12T04:42:45.371927+00:00",
+    "guncelleme": "2026-08-12T07:12:52.475984+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6462,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "32821d6dc6cd",
+      "baslik": "Elinde bu madeni paradan olana 40 milyon lira veriyorlar",
+      "ozet": "Elinde bu madeni paradan olana 40 milyon lira veriyorlar",
+      "url": "https://www.sozcu.com.tr/elinde-bu-madeni-paradan-olana-40-milyon-lira-veriyorlar-p346596",
+      "tarih": "2026-08-12T06:17:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b2bdc1d4dd98",
+      "baslik": "Küresel piyasalarda kritik saatler: ABD enflasyon verisi dengeleri değiştirecek mi?",
+      "ozet": "Küresel piyasalarda kritik saatler: ABD enflasyon verisi dengeleri değiştirecek mi?",
+      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-kritik-saatler-abd-enflasyon-verisi-dengeleri-degistirecek-mi-p346593",
+      "tarih": "2026-08-12T06:13:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c2233d78d69f",
+      "baslik": "Bankalar düğmeye bastı: Hesabınız bir anda bloke olacak",
+      "ozet": "Bankalar düğmeye bastı: Hesabınız bir anda bloke olacak",
+      "url": "https://www.sozcu.com.tr/bankalar-dugmeye-basti-hesabiniz-bir-anda-bloke-olacak-p346586",
+      "tarih": "2026-08-12T06:01:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e94f98a33c26",
+      "baslik": "Kentsel dönüşümde yeni dönem: Binalar artık bu şartlarla yıkılacak",
+      "ozet": "Kentsel dönüşümde yeni dönem: Binalar artık bu şartlarla yıkılacak",
+      "url": "https://www.sozcu.com.tr/kentsel-donusumde-yeni-donem-binalar-artik-bu-sartlarla-yikilacak-p346580",
+      "tarih": "2026-08-12T05:49:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "04ce8ad68e7d",
       "baslik": "Kuşadası'nda plaj faresi edebiyat öğretmeni çıktı",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-05-10T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "38a61e16c1b0",
-      "baslik": "Danıştay'ın Akbelen kararı... Kaboğlu: \"Danıştay, ülkemizi acele kamulaştırma adı altında korsan el koymalardan kurtarmalıdır\" - Anka Haber",
-      "ozet": "Danıştay'ın Akbelen kararı... Kaboğlu: \"Danıştay, ülkemizi acele kamulaştırma adı altında korsan el koymalardan kurtarmalıdır\" Anka Haber",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOTJpSnRfaDR0QVh5LXJUUWhhWXRfRjdMMkZsQVFQSEUzWkx2Zk1fQ3NIcUQ3ZV9WQkQ3YW5NV0hZRHpGa2FlaE5MdFM0ZWhVbUVnUFoxOFBvNEJBWWswVGNUb1JGTi1iSURBZjI4MGlDbGdweFBfeWNZbTNTVjZGcklROTExeE5GWnJnbTVkWXRoRmY2U3pXY1pGTnZaeU5fRi01STFrSDR5aDZJRExlYmNpN20xZlNSYTctdGdVZW5Kd0h0U2E2a1cwbU9kM21lZDREQ3phWm5JczJoYldvRTY0emh1c0cydDBuRUl3Vkc?oc=5",
-      "tarih": "2026-05-08T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8ec1f832e46e",
-      "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri - Cumhuriyet",
-      "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQakRYZWFVZ3VSRWNYUFZlUWdnSmVtalRXeW96R2JKMkcxd2d5ZHA2T0w5Y3JhVDlLMV9DNFpRWXZpbUhkaXZEWDZvUS1obVpxZWFDQjJkQTBUMXNVSEpJS2pjcFE4dl8wcE5sSmFOYnltMi1JTHhHNVMtRUxsVHJxaGN4TDlnejZKa05aeXktdHVfUWdGRG5NWmFIOVM3ZUQ5Uy12RHdPbzNkcXM5WGswNEpIOXY3SUZfdDFFMzR0bkZrUmk2eWd4VS1FWkhxMDJiRWY1d3RyVGNsWW01NElJbERNS2tmOGFVbGNwYUlkZlUzTjJiYVc0QkNNMUotdw?oc=5",
-      "tarih": "2026-04-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5f25eacad329",
-      "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri - cumhuriyet.com.tr",
-      "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri cumhuriyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQakRYZWFVZ3VSRWNYUFZlUWdnSmVtalRXeW96R2JKMkcxd2d5ZHA2T0w5Y3JhVDlLMV9DNFpRWXZpbUhkaXZEWDZvUS1obVpxZWFDQjJkQTBUMXNVSEpJS2pjcFE4dl8wcE5sSmFOYnltMi1JTHhHNVMtRUxsVHJxaGN4TDlnejZKa05aeXktdHVfUWdGRG5NWmFIOVM3ZUQ5Uy12RHdPbzNkcXM5WGswNEpIOXY3SUZfdDFFMzR0bkZrUmk2eWd4VS1FWkhxMDJiRWY1d3RyVGNsWW01NElJbERNS2tmOGFVbGNwYUlkZlUzTjJiYVc0QkNNMUotdw?oc=5",
-      "tarih": "2026-04-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3ccc5eb46f1e",
-      "baslik": "Senaristlerden maden işçilerine dayanışma ziyareti - cumhuriyet.com.tr",
-      "ozet": "Senaristlerden maden işçilerine dayanışma ziyareti cumhuriyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGJ1YlhCS2ZBNlFXQ3g4ZWZQd3NRYmJJNFhpMDJudWxsZXl3SWpId3JpS1dMQ2xiYXFUTXBVRkU3YUREVUdjb2FVN3FjZktROHhYM01UcWtzMjM2U3FqVFlsRHlXRGt0WWVSZEt5UDZRMXA1MVY0QkZIbUlLeGpkbjZUTGhsVUFUMW1OUXc4VmFkOTNWSE4tVU9hU1g?oc=5",
-      "tarih": "2026-04-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
