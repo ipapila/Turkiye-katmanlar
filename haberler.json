@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-12T15:53:00.409425+00:00",
+    "guncelleme": "2026-08-12T18:52:11.501016+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6465,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "3feefb8228b0",
+      "baslik": "Talihsiz kaza sonrası Deniz Seki’den ilk paylaşım",
+      "ozet": "Talihsiz kaza sonrası Deniz Seki’den ilk paylaşım",
+      "url": "https://www.sozcu.com.tr/talihsiz-kaza-sonrasi-deniz-seki-den-ilk-paylasim-p346798",
+      "tarih": "2026-08-12T16:50:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ee99e0dc3f8c",
       "baslik": "Beşiktaş Vlahovic transferini resmen duyurdu",
@@ -1995,16 +2005,6 @@
       "id": "47401455b5e8",
       "baslik": "Çevre ve enerji mevzuatı revize edildi - enerjigunlugu.net",
       "ozet": "Çevre ve enerji mevzuatı revize edildi enerjigunlugu.net",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODNQV2NEalI5WlB0X2ctbkg4c25JSTBzRW5mYS04dnFlSjdqdWRYY0xwa0tfZHRGemwzZEFzTExianNpMDJFMFZwRFFrNGQtLTNWTllXWTBtdHNoWjlaS2NZY0k3ZlBadXdrNnM0XzB5clVDUEtBdndmWVpVRXNUXzhPWERGSnJ1OHhkLU1VY9IBnwFBVV95cUxNNWE5V3FRU3d0bXc3ZEdRYVVpSFZWV0dhVFBvRHdLeVpfZVB0TUlYN05qUHpsVjQ5S3Jtb3B0S0VGU1VHNHpHbE8yNUw3TDJaNFdxY01PTmF6NkxqOEhjeWp4OFp4bTVOTVkybjUwYTg0eVZscEEwN1ZIU0Fib0RpOHlmVnJTSVZDSzlfU0ZRZ0hhOC1JZTBRcnJnajdkTUk?oc=5",
-      "tarih": "2026-05-22T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c09df2af19df",
-      "baslik": "Çevre ve enerji mevzuatı revize edildi - Enerji Günlüğü",
-      "ozet": "Çevre ve enerji mevzuatı revize edildi Enerji Günlüğü",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODNQV2NEalI5WlB0X2ctbkg4c25JSTBzRW5mYS04dnFlSjdqdWRYY0xwa0tfZHRGemwzZEFzTExianNpMDJFMFZwRFFrNGQtLTNWTllXWTBtdHNoWjlaS2NZY0k3ZlBadXdrNnM0XzB5clVDUEtBdndmWVpVRXNUXzhPWERGSnJ1OHhkLU1VY9IBnwFBVV95cUxNNWE5V3FRU3d0bXc3ZEdRYVVpSFZWV0dhVFBvRHdLeVpfZVB0TUlYN05qUHpsVjQ5S3Jtb3B0S0VGU1VHNHpHbE8yNUw3TDJaNFdxY01PTmF6NkxqOEhjeWp4OFp4bTVOTVkybjUwYTg0eVZscEEwN1ZIU0Fib0RpOHlmVnJTSVZDSzlfU0ZRZ0hhOC1JZTBRcnJnajdkTUk?oc=5",
       "tarih": "2026-05-22T07:00:00+00:00",
       "kaynak": "Google News",
