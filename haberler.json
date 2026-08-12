@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-11T18:51:38.503048+00:00",
+    "guncelleme": "2026-08-12T04:42:45.371927+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6462,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "04ce8ad68e7d",
+      "baslik": "Kuşadası'nda plaj faresi edebiyat öğretmeni çıktı",
+      "ozet": "Kuşadası'nda plaj faresi edebiyat öğretmeni çıktı",
+      "url": "https://www.sozcu.com.tr/kusadasinda-plaj-faresi-edebiyat-ogretmeni-cikti-p346553",
+      "tarih": "2026-08-12T04:25:35+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b82a530dd727",
+      "baslik": "Suşi yemek için gittiği restoranda kabusu yaşadı! İki kat aşağı düştü, vücudunda yanıklar oluştu",
+      "ozet": "Suşi yemek için gittiği restoranda kabusu yaşadı! İki kat aşağı düştü, vücudunda yanıklar oluştu",
+      "url": "https://www.sozcu.com.tr/sushi-restoraninda-kabus-yasadi-p344523",
+      "tarih": "2026-08-12T03:31:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6c6e96d1c8fe",
+      "baslik": "20 bin ton betonu denizin dibine bıraktılar",
+      "ozet": "20 bin ton betonu denizin dibine bıraktılar",
+      "url": "https://www.sozcu.com.tr/20-bin-ton-betonu-denizin-dibine-biraktilar-p344540",
+      "tarih": "2026-08-11T22:01:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "21ead5acb69a",
       "baslik": "İran ABD’ye resti çekti: Bu şartlar kabul olmazsa Hürmüz açılmayacak",
@@ -1952,6 +1982,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "8ec1f832e46e",
+      "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQakRYZWFVZ3VSRWNYUFZlUWdnSmVtalRXeW96R2JKMkcxd2d5ZHA2T0w5Y3JhVDlLMV9DNFpRWXZpbUhkaXZEWDZvUS1obVpxZWFDQjJkQTBUMXNVSEpJS2pjcFE4dl8wcE5sSmFOYnltMi1JTHhHNVMtRUxsVHJxaGN4TDlnejZKa05aeXktdHVfUWdGRG5NWmFIOVM3ZUQ5Uy12RHdPbzNkcXM5WGswNEpIOXY3SUZfdDFFMzR0bkZrUmk2eWd4VS1FWkhxMDJiRWY1d3RyVGNsWW01NElJbERNS2tmOGFVbGNwYUlkZlUzTjJiYVc0QkNNMUotdw?oc=5",
+      "tarih": "2026-04-27T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "5f25eacad329",
       "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri - cumhuriyet.com.tr",
       "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Son Dakika Türkiye Haberleri cumhuriyet.com.tr",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-04-27T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "edc68e255601",
-      "baslik": "Senaristlerden maden işçilerine dayanışma ziyareti - Cumhuriyet",
-      "ozet": "Senaristlerden maden işçilerine dayanışma ziyareti Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGJ1YlhCS2ZBNlFXQ3g4ZWZQd3NRYmJJNFhpMDJudWxsZXl3SWpId3JpS1dMQ2xiYXFUTXBVRkU3YUREVUdjb2FVN3FjZktROHhYM01UcWtzMjM2U3FqVFlsRHlXRGt0WWVSZEt5UDZRMXA1MVY0QkZIbUlLeGpkbjZUTGhsVUFUMW1OUXc4VmFkOTNWSE4tVU9hU1g?oc=5",
-      "tarih": "2026-04-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "07709689efdc",
-      "baslik": "Çevre Aktivistinin Tutuklanması Türkiye’nin COP31 Eş Ev Sahibi Rolünü Zedeliyor - Human Rights Watch",
-      "ozet": "Çevre Aktivistinin Tutuklanması Türkiye’nin COP31 Eş Ev Sahibi Rolünü Zedeliyor Human Rights Watch",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWtHZmlWQ19lbFNLV3p0MDhxc2wxWTM1Tmk2WHdWNmZ1bnVVNTZfUVZxSGpwY3JXaTJqaHJkVV9FRTFNSWd0d0w2cENweDZSNjBqMnRGYkVCMmJFTEJyWUJoQzc0R1NMYkhtb3UtYVZpdTZJOUhTaUVfWTd4Uzc4V0lGTDJTdjI5MVlSV0ljZ1ZvTnNpQUtLMU1ZTlBjNy1TdUo4MkIzVVYwM213SE55Q3V4NXY?oc=5",
-      "tarih": "2026-04-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e1c1b4cd1e11",
-      "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - ankahaber.net",
-      "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu ankahaber.net",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORTI3ZEdxRzZId3NXcVZlNnBJeDFsZVZEMXA1eFE1MnNGVHFrQlE3ZDdkRnV5UFRES2huWWNJdS1Nclg4bV9IMkRfSGlrYmlnUG9RQkZfb0RpcHZxbG90aERTZEt1SjM2dmRqeXdDWHZHWnd2aHd6YXU4VnYtUldrZ1dfaXpGOG14VmFQRVBoTy10Qkc1NG5pQlA1MVVkNnJFb1kyLUJxRXdqM29CV1ZKU2Y1RFAydWU0TURaTDBUeV9NT0g0NVFUODhWTmgteW1vUnBIcWp5VnR5OFBTR0p4ZkxwUWhRUVJoamphNlNSeUJxWUkwc1E?oc=5",
-      "tarih": "2026-04-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "62eb51795b4c",
-      "baslik": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu - Anka Haber",
-      "ozet": "Çevre örgütleri, Afşin-Elbistan Termik Santrali önünden seslendi: Türkiye, yeni kömürlü santral yapmamalı, kömürün vadesi doldu Anka Haber",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORTI3ZEdxRzZId3NXcVZlNnBJeDFsZVZEMXA1eFE1MnNGVHFrQlE3ZDdkRnV5UFRES2huWWNJdS1Nclg4bV9IMkRfSGlrYmlnUG9RQkZfb0RpcHZxbG90aERTZEt1SjM2dmRqeXdDWHZHWnd2aHd6YXU4VnYtUldrZ1dfaXpGOG14VmFQRVBoTy10Qkc1NG5pQlA1MVVkNnJFb1kyLUJxRXdqM29CV1ZKU2Y1RFAydWU0TURaTDBUeV9NT0g0NVFUODhWTmgteW1vUnBIcWp5VnR5OFBTR0p4ZkxwUWhRUVJoamphNlNSeUJxWUkwc1E?oc=5",
-      "tarih": "2026-04-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
