@@ -117329,5 +117329,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/kuslarin-goc-yollarindaki-elektrik-tehdidi-icin-cagri/"
+  },
+  {
+    "id": "tarayici-7b8c62dc2d8e",
+    "tip": "İklim Olayları",
+    "ad": "Antalya'da orman yangını: Ekiplerin müdahalesi sürüyor! - Cumhuriyet",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya'da orman yangını: Ekiplerin müdahalesi sürüyor! Cumhuriyet",
+    "koordinatlar": {
+      "lat": 36.9289,
+      "lng": 30.614
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "12.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWVteFdOT3M5U2cyZXhLM1g5ZlNUd3cyazJnQmh1dUFWVVF3R3ZxbzZhc1psVm9ybUxPREpOOWw4aHJyMVJXcmMyYUEwX2RaVmk4TnVYLUYxLTI2MmRSUWJ0MXBzUzQ4YmRRYUhDM2RuZjA5T3ZMT1MxdDhYZXBuSGprUDBfNlRSdDFkYVhxVUs1RmV3akFUM0pJMTFpZkk?oc=5"
+  },
+  {
+    "id": "tarayici-4469eed97a5c",
+    "tip": "İklim Olayları",
+    "ad": "Üç Kentteki Obruk Sayısı Artmaya Devam Ediyor",
+    "il": "Aksaray",
+    "ilce": "",
+    "aciklama": "Konya Ovası’nda iklim krizi, kuraklık ve kontrolsüz yer altı suyu kullanımıyla oluşan obruk sayısı her geçen yıl artıyor. Afet ve Acil Durum Yönetimi Başkanlığınca (AFAD) yürütülen Obruk Duyarlılık Haritası çalışması kapsamında Konya, Karaman ve Aksaray’da kayıt altına alınan obr",
+    "koordinatlar": {
+      "lat": 38.4408,
+      "lng": 33.9892
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "12.08.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/uc-kentteki-obruk-sayisi-artmaya-devam-ediyor/"
   }
 ]

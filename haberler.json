@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-12T07:12:52.475984+00:00",
+    "guncelleme": "2026-08-12T09:54:46.541440+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6462,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6464,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "7dbcfdee14e2",
+      "baslik": "Aşırı Hava Olayları ve Deprem Kaynaklı Ekonomik Kayıplar Yılın İlk Yarısında 111 Milyar Doları Buldu",
+      "ozet": "İklim kaynaklı risklerin hız kesmeden büyümeyi sürdürdüğünü ortaya koyan yeni bir rapora göre, 2026 yılının ilk yarısında en fazla ekonomik kayba neden olan ilk beş küresel afet; Venezuela Depremi, ABD Şiddetli Konvektif Fırtına (SCS) Dalgası, ABD Şiddetli Konvektif Fırtına (SCS)",
+      "url": "https://www.iklimhaber.org/asiri-hava-olaylari-ve-deprem-kaynakli-ekonomik-kayiplar-yilin-ilk-yarisinda-111-milyar-dolari-buldu/",
+      "tarih": "2026-08-12T09:16:11+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dde4de47f07d",
+      "baslik": "5 milyon takipçili hesabını kapattı: Nedeni merak uyandırdı",
+      "ozet": "5 milyon takipçili hesabını kapattı: Nedeni merak uyandırdı",
+      "url": "https://www.sozcu.com.tr/5-milyon-takipcili-hesabini-kapatti-nedeni-merak-uyandirdi-p346661",
+      "tarih": "2026-08-12T08:29:33+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4469eed97a5c",
+      "baslik": "Üç Kentteki Obruk Sayısı Artmaya Devam Ediyor",
+      "ozet": "Konya Ovası’nda iklim krizi, kuraklık ve kontrolsüz yer altı suyu kullanımıyla oluşan obruk sayısı her geçen yıl artıyor. Afet ve Acil Durum Yönetimi Başkanlığınca (AFAD) yürütülen Obruk Duyarlılık Haritası çalışması kapsamında Konya, Karaman ve Aksaray’da kayıt altına alınan obr",
+      "url": "https://www.iklimhaber.org/uc-kentteki-obruk-sayisi-artmaya-devam-ediyor/",
+      "tarih": "2026-08-12T08:23:21+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "32821d6dc6cd",
       "baslik": "Elinde bu madeni paradan olana 40 milyon lira veriyorlar",
@@ -1242,6 +1272,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "fd95b3f1aae5",
+      "baslik": "Meclis’te ‘çerçeve yasa’ tartışan vekiller, madencinin sorununu görmedi: Madencilerin aileleri direnişe katıldı - Cumhuriyet",
+      "ozet": "Meclis’te ‘çerçeve yasa’ tartışan vekiller, madencinin sorununu görmedi: Madencilerin aileleri direnişe katıldı Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcjFlM2RCRmR0TzJrZjhadGljTXp0ZEhubzhzUkp2dmppenh1T25KT1VDeHliWVhSVVJDNVcwblREOU9VVHlVbzdXRVhsSXJoQU0zTmtrWHU2OXNVeWlYVVFpYUZsbFhMalRBZkF5Q2FrTEVVaEViVVBON1V3OFBiblc5WmpibXdqcHNBVGY3ZVJXOFBIRW5Pa0FBRUtRNnZsWUN2NllLQ3VJOUd3MlZLZjZjVHNLYlR2SGJDYnZlUmw5V1dFZU1NaW9hbENqYU1EMTN6S2I1UXlxb2tlaTdYNENXRVNsNFpY?oc=5",
+      "tarih": "2026-08-05T01:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "56ed2e6dae53",
       "baslik": "Ülkenin verimli tarım arazileri tuzla kaplandı",
       "ozet": "Ülkenin verimli tarım arazileri tuzla kaplandı",
@@ -1967,46 +2007,6 @@
       "ozet": "41 günlük hukuksuzluk son buldu: Akbelen direnişçisi Esra Işık'a tahliye kararı - Son Dakika Çevre Haberleri Cumhuriyet",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3J2bE82c1VqMld5d2ZUbEhfWkJJMFVRa3JYZVpSMmswRV9sRGwzeUhyMXhabGo0QjBTUXpyYzVUbE0wZ013WDIwNk1lbExYVEwyZzNTZkRfWHJ1SE5oUkp6X0RBNTdXMVNjMWtsOC13dWtmQzlnYUZMeGhkdUFzaUh1dFZwQXdpQXdyWHZocDA1eWJUY3owR1NBWlNDeDU0OHk3SHhnN1cxX3VSLVY1eFpYenJpSTlqMndvMnlTOA?oc=5",
       "tarih": "2026-05-11T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "93e3b42fd668",
-      "baslik": "CVK Maden'in Çanakkale projesinde ÇED süreci sonlandırıldı - Analiz Gazetesi",
-      "ozet": "CVK Maden'in Çanakkale projesinde ÇED süreci sonlandırıldı Analiz Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlN4V2lwLTV3bEZFM0Fvb3g3SmV3eDh6cUVyTURqVWhiTWlHVC1nTjZ2RWdnNGlnZEVvQkZPZ0JQRFVNdHYyTnNjLVEycmVPQ1gtMUJqcmJ2Tk52RXNCazZlcHlHQU5yazNVZjBqc1Uza1FoOXE1NzNzRjM1aVh0ZWRyaHcyOExneE9EbTBZTjI4TjYyUkZQTmx0aVo0RnEt?oc=5",
-      "tarih": "2026-05-11T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b41b470c0a24",
-      "baslik": "CVK Maden'in Çanakkale projesinde ÇED süreci sonlandırıldı - analizgazetesi.com.tr",
-      "ozet": "CVK Maden'in Çanakkale projesinde ÇED süreci sonlandırıldı analizgazetesi.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlN4V2lwLTV3bEZFM0Fvb3g3SmV3eDh6cUVyTURqVWhiTWlHVC1nTjZ2RWdnNGlnZEVvQkZPZ0JQRFVNdHYyTnNjLVEycmVPQ1gtMUJqcmJ2Tk52RXNCazZlcHlHQU5yazNVZjBqc1Uza1FoOXE1NzNzRjM1aVh0ZWRyaHcyOExneE9EbTBZTjI4TjYyUkZQTmx0aVo0RnEt?oc=5",
-      "tarih": "2026-05-11T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e3e01402dfbf",
-      "baslik": "Akbelen'de Acele Kamulaştırma Kararına Yargı Engeli - Analiz Gazetesi",
-      "ozet": "Akbelen'de Acele Kamulaştırma Kararına Yargı Engeli Analiz Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc1NXZWg4b0Z2QWNPQ1NCaVVDSFRMWDhVLTQ4NUZ1VDI5NXk2NFNVQ3BUdkZtVVhISG9WbEdGVEZHYm1PbGREel9tQ19NR0hmOEdFVlZES29XV2xVUGIzTEdEbWVWU0tybzZDUWdTaGcwQm52UlFCZ3VjYjc5Q3JxT3BQWHFwWTZWQmd2Ny1FcGdsWUdmVGlN?oc=5",
-      "tarih": "2026-05-10T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "98f27ad6ee92",
-      "baslik": "Akbelen'de Acele Kamulaştırma Kararına Yargı Engeli - analizgazetesi.com.tr",
-      "ozet": "Akbelen'de Acele Kamulaştırma Kararına Yargı Engeli analizgazetesi.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc1NXZWg4b0Z2QWNPQ1NCaVVDSFRMWDhVLTQ4NUZ1VDI5NXk2NFNVQ3BUdkZtVVhISG9WbEdGVEZHYm1PbGREel9tQ19NR0hmOEdFVlZES29XV2xVUGIzTEdEbWVWU0tybzZDUWdTaGcwQm52UlFCZ3VjYjc5Q3JxT3BQWHFwWTZWQmd2Ny1FcGdsWUdmVGlN?oc=5",
-      "tarih": "2026-05-10T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
@@ -92478,6 +92478,34 @@
       "ozet": "İstanbul Küçükçekmece’de tren yolundaki elektrifikasyon hattında göç yolundaki en az 50 leyleğin akıma kapılarak hayatını kaybetmesinin ve Mersin’de ise elektrik direklerine konan leyleklerin elektrik çarpması nedeniyle yaşamlarını yitirmelerinin ardından WWF-Türkiye (Doğal Hayat",
       "lat": 40.9932,
       "lng": 28.9595,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-7b8c62dc2d8e",
+      "baslik": "Antalya'da orman yangını: Ekiplerin müdahalesi sürüyor! - Cumhuriyet",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "12.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWVteFdOT3M5U2cyZXhLM1g5ZlNUd3cyazJnQmh1dUFWVVF3R3ZxbzZhc1psVm9ybUxPREpOOWw4aHJyMVJXcmMyYUEwX2RaVmk4TnVYLUYxLTI2MmRSUWJ0MXBzUzQ4YmRRYUhDM2RuZjA5T3ZMT1MxdDhYZXBuSGprUDBfNlRSdDFkYVhxVUs1RmV3akFUM0pJMTFpZkk?oc=5",
+      "ozet": "Antalya'da orman yangını: Ekiplerin müdahalesi sürüyor! Cumhuriyet",
+      "lat": 36.9289,
+      "lng": 30.614,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-4469eed97a5c",
+      "baslik": "Üç Kentteki Obruk Sayısı Artmaya Devam Ediyor",
+      "konum": "Aksaray",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "12.08.2026",
+      "url": "https://www.iklimhaber.org/uc-kentteki-obruk-sayisi-artmaya-devam-ediyor/",
+      "ozet": "Konya Ovası’nda iklim krizi, kuraklık ve kontrolsüz yer altı suyu kullanımıyla oluşan obruk sayısı her geçen yıl artıyor. Afet ve Acil Durum Yönetimi Başkanlığınca (AFAD) yürütülen Obruk Duyarlılık Haritası çalışması kapsamında Konya, Karaman ve Aksaray’da kayıt altına alınan obr",
+      "lat": 38.4408,
+      "lng": 33.9892,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
