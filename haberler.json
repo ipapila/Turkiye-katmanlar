@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-13T12:53:04.320569+00:00",
+    "guncelleme": "2026-08-13T15:52:06.335793+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6465,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6467,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "4dbffd72ad58",
+      "baslik": "Selin Hürmeriç, Budapeşte'de dünya gençler 5'incisi oldu",
+      "ozet": "Selin Hürmeriç, Budapeşte'de dünya gençler 5'incisi oldu",
+      "url": "https://www.sozcu.com.tr/selin-hurmeric-budapestede-dunya-gencler-5incisi-oldu-p347106",
+      "tarih": "2026-08-13T15:09:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c49744df668e",
+      "baslik": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
+      "ozet": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
+      "url": "https://www.sozcu.com.tr/bursa-ve-istanbul-arasinda-deniz-ulasimi-aksadi-seferler-iptal-edildi-p347099",
+      "tarih": "2026-08-13T14:45:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d56bdc25bf38",
+      "baslik": "AKP mitinginde hak arayacak madenciler üçüncü kez gözaltına alındı",
+      "ozet": "AKP mitinginde hak arayacak madenciler üçüncü kez gözaltına alındı",
+      "url": "https://www.sozcu.com.tr/akp-mitinginde-hak-arayacak-madenciler-ucuncu-kez-gozaltina-alindi-p347095",
+      "tarih": "2026-08-13T14:37:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6d186c02b52c",
+      "baslik": "Erdoğan yarın ne mesaj verecek?",
+      "ozet": "Erdoğan yarın ne mesaj verecek?",
+      "url": "https://www.sozcu.com.tr/erdogan-yarin-ne-mesaj-verecek-p347091",
+      "tarih": "2026-08-13T14:17:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "67bf08d48677",
+      "baslik": "Somer Sivrioğlu’nun oğlu Deniz Avustralya’dan geldi: Babasının gençliğine benzetildi",
+      "ozet": "Somer Sivrioğlu’nun oğlu Deniz Avustralya’dan geldi: Babasının gençliğine benzetildi",
+      "url": "https://www.sozcu.com.tr/somer-sivrioglu-nun-oglu-deniz-ortaya-cikti-babasinin-gencligi-gibi-p347075",
+      "tarih": "2026-08-13T13:26:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "19517ab93a71",
       "baslik": "Kıvanç Tatlıtuğ'un hesabını kapatma sebebi ortaya çıktı",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-07-23T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1769389c39ce",
-      "baslik": "Ordu'da maden projesi davasında bilirkişi raporu: Maden sahasında 18. yüzyıldan kalma 102 mezar tespit edildi - Cumhuriyet",
-      "ozet": "Ordu'da maden projesi davasında bilirkişi raporu: Maden sahasında 18. yüzyıldan kalma 102 mezar tespit edildi Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWRnR1dqZ0V6ZUtoTW1PX3BTRkhXOHo5dm9mRWpjWFVGUFhMTjQwdU82bG93R1NIcWdyQVBCVmlPeEFLa0RlcW81cmktYkU2ajZqVW9mUlR3b3RRM0pJb2h6cTJGYnowRVFXODcxTkRQdDFOMVlWSWZYNEF6ei1obEdNd2lSbFh6ZF9FaG1Ya2wxbHVFWVE1TFNHM1c1WmJKeENxVVM5NE45QjdYeTFMZHdZYTZDODBKd1BFUEVsbEVGbW9NV1hrMkYtcUdWZ0NwLTA0c0FQZVVyeWpLamhZcFZVcWNaeXNI?oc=5",
-      "tarih": "2026-07-14T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "60fe86e74dfc",
-      "baslik": "Ev sahipleri dikkat! Kiracının evine izinsiz girmenin cezası hapis olabilir - Cumhuriyet",
-      "ozet": "Ev sahipleri dikkat! Kiracının evine izinsiz girmenin cezası hapis olabilir Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWplaVdpTlVJT2drU1BrUWtfQkdjeVBzOHpQOVFYd3ZOeENtZUpUZG5TZFl0SnpQcnRNdEotbVdIX2Y0TjdLUlNSRzZuTEZ0d3ZBSDJIUGcxVUVWMGxyVmk3YVQ0VDBUaC1oLUZrZUU4OVVCYzB1NkFQN2dQRGhVb1lDRkN4MEJ0Y29EdkZyTS1DNW1wdlpjOW9FdTNSeFY3WW5CWTIyWGpTclE2c3pPNGlGS0VTVGpGXzIxRg?oc=5",
-      "tarih": "2026-07-14T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4a31b0df3c2e",
-      "baslik": "Manisada çevre denetimlerinde 49 milyon liralık ceza - Medya Gazete",
-      "ozet": "Manisada çevre denetimlerinde 49 milyon liralık ceza Medya Gazete",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMEZlanVHM0s3TDc5ZG9UZXJ1bk5wSEZHak9ZdnBFQWVDYS0wUWRLTGtiLUpOSjZ0OWVaMXpjTlVSVk95YUZzdWZRZnJ2TFBpSjkzWm04aWxCMmRfclZnbVNPZE5ENEI0b08wQ2hWYTRuem92aVB6TWNmQnkzbkNUUVBJSUZDbG5xMjFXMFdPWE04ZzREM0Y0R1BR?oc=5",
-      "tarih": "2026-07-10T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4a017383b35b",
-      "baslik": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu - tr.investing.com",
-      "ozet": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu tr.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNci0xT19sV3hHR3VyT1hGTExjTVgwbTBfWURXLWJtZllIa3I5djBjc0VidnVEOWhIaU5KUHZyUExaUGV1TVUtUVJoQkNGQWFMWFVzckpLR3R1NTI1TDBVUWxRQ0J4S0twUjVxV0lwMmRETFhDRTliTnJvNFpxQndxejR1RTFPcmNyaWZOeGpQbTkwWlZ6NzZKdGppQ0gwMlloV1J3Nm8tbDd0RHpBZGhfdVZrU0VLNUx3OEJTVmFtZXQ4LU1j?oc=5",
-      "tarih": "2026-07-08T08:36:18+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7c1518ffe305",
-      "baslik": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu - Investing.com Türkiye",
-      "ozet": "Türk Altın, Çanakkale maden projesi ÇED yürütmesi mahkemece durduruldu Investing.com Türkiye",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNci0xT19sV3hHR3VyT1hGTExjTVgwbTBfWURXLWJtZllIa3I5djBjc0VidnVEOWhIaU5KUHZyUExaUGV1TVUtUVJoQkNGQWFMWFVzckpLR3R1NTI1TDBVUWxRQ0J4S0twUjVxV0lwMmRETFhDRTliTnJvNFpxQndxejR1RTFPcmNyaWZOeGpQbTkwWlZ6NzZKdGppQ0gwMlloV1J3Nm8tbDd0RHpBZGhfdVZrU0VLNUx3OEJTVmFtZXQ4LU1j?oc=5",
-      "tarih": "2026-07-08T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
     }
   ],
@@ -92520,6 +92520,34 @@
       "ozet": "Antalya’nın iki ilçesinde orman yangını",
       "lat": 36.8839,
       "lng": 30.6909,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d42816aa2ef6",
+      "baslik": "Elazığ'da 7 yıl sonra kapakları açılan Keban Barajı'nda su tahliyesi sürüyor - Anadolu Ajansı",
+      "konum": "Elazığ",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "13.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2pFOWVTOVJYZjJWLWdEekp1dlg2RGh0OHlHeXZoQWkzMzZCWkhTbUpHNW80Sm41amUwMi04N2liWU1kQmhOQ29MdFp0UmxsOHBZd3FfYkZMMzliMnBja1F4MDZkYVBzanRZRHZqSkRFMmgxUUdMQ3ROekpCSjdjWlYteEZGRlNZeTUxeHpocUcyOWd6bG1rVDl0ckd5ckkzVW1UWkVSUG16QUhSWEI3YkhNQ0k?oc=5",
+      "ozet": "Elazığ'da 7 yıl sonra kapakları açılan Keban Barajı'nda su tahliyesi sürüyor Anadolu Ajansı",
+      "lat": 38.7094,
+      "lng": 39.1238,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c49744df668e",
+      "baslik": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "13.08.2026",
+      "url": "https://www.sozcu.com.tr/bursa-ve-istanbul-arasinda-deniz-ulasimi-aksadi-seferler-iptal-edildi-p347099",
+      "ozet": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
+      "lat": 41.0809,
+      "lng": 29.0714,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

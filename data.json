@@ -117386,5 +117386,43 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/antalya-nin-iki-ilcesinde-orman-yangini-p346778"
+  },
+  {
+    "id": "tarayici-d42816aa2ef6",
+    "tip": "Ekolojik İhlal",
+    "ad": "Elazığ'da 7 yıl sonra kapakları açılan Keban Barajı'nda su tahliyesi sürüyor - Anadolu Ajansı",
+    "il": "Elazığ",
+    "ilce": "",
+    "aciklama": "Elazığ'da 7 yıl sonra kapakları açılan Keban Barajı'nda su tahliyesi sürüyor Anadolu Ajansı",
+    "koordinatlar": {
+      "lat": 38.7094,
+      "lng": 39.1238
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "13.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2pFOWVTOVJYZjJWLWdEekp1dlg2RGh0OHlHeXZoQWkzMzZCWkhTbUpHNW80Sm41amUwMi04N2liWU1kQmhOQ29MdFp0UmxsOHBZd3FfYkZMMzliMnBja1F4MDZkYVBzanRZRHZqSkRFMmgxUUdMQ3ROekpCSjdjWlYteEZGRlNZeTUxeHpocUcyOWd6bG1rVDl0ckd5ckkzVW1UWkVSUG16QUhSWEI3YkhNQ0k?oc=5"
+  },
+  {
+    "id": "tarayici-c49744df668e",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
+    "koordinatlar": {
+      "lat": 41.0809,
+      "lng": 29.0714
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "13.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/bursa-ve-istanbul-arasinda-deniz-ulasimi-aksadi-seferler-iptal-edildi-p347099"
   }
 ]
