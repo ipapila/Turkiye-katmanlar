@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-13T09:55:41.654528+00:00",
+    "guncelleme": "2026-08-13T12:53:04.320569+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6465,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "19517ab93a71",
+      "baslik": "Kıvanç Tatlıtuğ'un hesabını kapatma sebebi ortaya çıktı",
+      "ozet": "Kıvanç Tatlıtuğ'un hesabını kapatma sebebi ortaya çıktı",
+      "url": "https://www.sozcu.com.tr/kivanc-tatlitug-un-hesabini-kapatma-sebebi-ortaya-cikti-p347060",
+      "tarih": "2026-08-13T12:48:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ed13a1667006",
+      "baslik": "Ormanda gezerken bir anda milyoner oldular",
+      "ozet": "Ormanda gezerken bir anda milyoner oldular",
+      "url": "https://www.sozcu.com.tr/ormanda-gezerken-bir-anda-milyoner-oldular-p347059",
+      "tarih": "2026-08-13T12:44:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4af6e9488989",
+      "baslik": "Silivri'de yangın paniği: TEM Otoyolu trafiğe kapatıldı, evler tahliye edildi",
+      "ozet": "Silivri'de yangın paniği: TEM Otoyolu trafiğe kapatıldı, evler tahliye edildi",
+      "url": "https://www.sozcu.com.tr/silivri-de-yangin-panigi-tem-otoyolu-trafige-kapatildi-evler-tahliye-edildi-p347050",
+      "tarih": "2026-08-13T12:31:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "920bca0cdb30",
+      "baslik": "Mekke anlaşmasının ilk etkisi: Kızıldeniz'i Türkiye koruyacak",
+      "ozet": "Mekke anlaşmasının ilk etkisi: Kızıldeniz'i Türkiye koruyacak",
+      "url": "https://www.sozcu.com.tr/mekke-anlasmasinin-ilk-etkisi-turk-gemileri-kizildeniz-e-gidiyor-p347016",
+      "tarih": "2026-08-13T12:23:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cf525b6b66d0",
+      "baslik": "ABD’den İklim Bilimine Bir Darbe Daha",
+      "ozet": "Trump yönetimi, Arktik bölgesinin atmosferinde, okyanuslarında, donmuş su ve buz sistemlerinde ve tundrasında meydana gelen kritik değişimleri takip eden ve aslında tüm gezegenin iklimini ilgilendiren yıllık Arktik çevre raporuna desteğini çekti. Ulusal Okyanus ve Atmosfer İdares",
+      "url": "https://www.iklimhaber.org/abdden-iklim-bilimine-bir-darbe-daha/",
+      "tarih": "2026-08-13T10:36:32+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a87c2f5e483d",
       "baslik": "Dünyanın en yüksek yolu açıldı: Everest'i bile geçiyor",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-07-08T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8dbf9678a9a9",
-      "baslik": "BYD, Macaristan’daki EV tesisinde çevre ihlali iddialarını reddetti Yazar Investing.com - tr.investing.com",
-      "ozet": "BYD, Macaristan’daki EV tesisinde çevre ihlali iddialarını reddetti Yazar Investing.com tr.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGY2dl81cVRlTXhDdFZaYU54aHhkSmlKNVI2UnFPZDV6b2RFcnJ3VzFrTHp2cnZndWJSZDJkaWxIa21pNFp5NmpDVG1QSFR0bEx2U3pJNnpNd2JvWHd4NnR4N3BfdDZyWkRjYVp0LWdPUTN2NDBTR0EzWDN2QlVUTkN4d2FjdElVWUY1dHJGcmNwUzFfS2xfLWhDNHdDXzA1OFdINGdRQ3NBRnBMN2ZIa3VDbXM?oc=5",
-      "tarih": "2026-06-20T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7e73369e8e58",
-      "baslik": "BYD, Macaristan’daki EV tesisinde çevre ihlali iddialarını reddetti Yazar Investing.com - Investing.com Türkiye",
-      "ozet": "BYD, Macaristan’daki EV tesisinde çevre ihlali iddialarını reddetti Yazar Investing.com Investing.com Türkiye",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGY2dl81cVRlTXhDdFZaYU54aHhkSmlKNVI2UnFPZDV6b2RFcnJ3VzFrTHp2cnZndWJSZDJkaWxIa21pNFp5NmpDVG1QSFR0bEx2U3pJNnpNd2JvWHd4NnR4N3BfdDZyWkRjYVp0LWdPUTN2NDBTR0EzWDN2QlVUTkN4d2FjdElVWUY1dHJGcmNwUzFfS2xfLWhDNHdDXzA1OFdINGdRQ3NBRnBMN2ZIa3VDbXM?oc=5",
-      "tarih": "2026-06-20T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "63131e80cda3",
-      "baslik": "Bolu’da maden ocağında göçük: 1 işçi mahsur - dha.com.tr",
-      "ozet": "Bolu’da maden ocağında göçük: 1 işçi mahsur dha.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTRsaXlONXN1Qk1jdVpyNFVEbDVFWHNKTE5xUDc2ZjMxQmdacEt5ZDA0RjQxdEsxX1AtNDQzdEx1SGFhdmNMREdIRGV5NnE0TnlYTXRGWjBQNFBoSHVfRlhSQlprVTZPYVRhc0pJVGRNbHUzalJKSWdlS1Q5LTN5T25WOG5mUzEyMDZCTWV1RWNpOWZmd3Q5dUdXcW1GQnfSAaQBQVVfeXFMUDhRQjk3Tlo3em5DcDhKcHQzUVd0QWJmbTVPR0I4ZWZmRGROcV9oYXVwdzI4Sm5PemFKSFplbFhBUTdoSXl1TXdLX2Z1T0JnZU43Uy1vQTNvQ19TWDkyektpYzVqLTJPYW9Gd3BrV3ZVZWs1VnRPcUdmTDVSdWp1X191dWdRTWFuVmlPTTVUQURjUk91REpGVXMzLVN4YTljRU16TTQ?oc=5",
-      "tarih": "2026-06-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "42bacaef64ee",
-      "baslik": "Bolu’da maden ocağında göçük: 1 işçi mahsur - DHA | Demirören Haber Ajansı",
-      "ozet": "Bolu’da maden ocağında göçük: 1 işçi mahsur DHA | Demirören Haber Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTRsaXlONXN1Qk1jdVpyNFVEbDVFWHNKTE5xUDc2ZjMxQmdacEt5ZDA0RjQxdEsxX1AtNDQzdEx1SGFhdmNMREdIRGV5NnE0TnlYTXRGWjBQNFBoSHVfRlhSQlprVTZPYVRhc0pJVGRNbHUzalJKSWdlS1Q5LTN5T25WOG5mUzEyMDZCTWV1RWNpOWZmd3Q5dUdXcW1GQnfSAaQBQVVfeXFMUDhRQjk3Tlo3em5DcDhKcHQzUVd0QWJmbTVPR0I4ZWZmRGROcV9oYXVwdzI4Sm5PemFKSFplbFhBUTdoSXl1TXdLX2Z1T0JnZU43Uy1vQTNvQ19TWDkyektpYzVqLTJPYW9Gd3BrV3ZVZWs1VnRPcUdmTDVSdWp1X191dWdRTWFuVmlPTTVUQURjUk91REpGVXMzLVN4YTljRU16TTQ?oc=5",
-      "tarih": "2026-06-17T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7879b9ddb3dc",
-      "baslik": "Maden ocağında çıkan yangın 6 gündür sürüyor - dha.com.tr",
-      "ozet": "Maden ocağında çıkan yangın 6 gündür sürüyor dha.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPREdKdUlTUDl6akRkbzJxYk1hWmhXWV9pd2dQYmljVGVPa2MtSHVyWFhTUzV6aE1FM29kd1hSU1RndDR4Tml6M3VDZ2tqSG9BbzBCOG9PbFhidklJZGFYSV9qS2FLellFMUVuVUZCWEpYUW1hWUtjaHptc1ZENmEwakpjT0Fzb29GQzItTWFzT3BrVE9RcWxCNTVRbzdYZDVKTF9FTXFla9IBqwFBVV95cUxOeGRkNnJvdUszWWY0RUxTcm03QTFKZDhSWWxXSFM1SjBsOTJTTlcwX0dxZmZMeVd4RVhGZ0d0MXZWalNCZGl5aElHZHlMSTQyT1R1T1Z5WWNlcXRhWGg0MkRZbmVDQmJOSnJJbVJoU0ItV1NFSFlBbkYtZXBaZGdpQzhndWZhLVo2VEN1TjNoejdIMm8wcHdCS2o2NDdlSXE3ZkJ4UE5tdmJtS1E?oc=5",
-      "tarih": "2026-06-11T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
