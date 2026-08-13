@@ -117424,5 +117424,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/bursa-ve-istanbul-arasinda-deniz-ulasimi-aksadi-seferler-iptal-edildi-p347099"
+  },
+  {
+    "id": "tarayici-0563d5d620ae",
+    "tip": "İklim Olayları",
+    "ad": "Antalya’da orman yangını",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya’da orman yangını",
+    "koordinatlar": {
+      "lat": 36.9606,
+      "lng": 30.5979
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "13.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/antalya-da-orman-yangini-p347131"
   }
 ]

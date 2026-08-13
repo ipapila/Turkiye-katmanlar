@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-13T15:52:06.335793+00:00",
+    "guncelleme": "2026-08-13T18:52:36.244810+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6467,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6468,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "a7cc86a11133",
+      "baslik": "Zeynep Sönmez, Cincinnati Open'da ikinci tura yükseldi",
+      "ozet": "Zeynep Sönmez, Cincinnati Open'da ikinci tura yükseldi",
+      "url": "https://www.sozcu.com.tr/zeynep-sonmez-cincinnati-open-da-ikinci-tura-yukseldi-p347139",
+      "tarih": "2026-08-13T18:37:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d608254246c7",
+      "baslik": "Fenerbahçe ayrılığı resmen duyurdu",
+      "ozet": "Fenerbahçe ayrılığı resmen duyurdu",
+      "url": "https://www.sozcu.com.tr/fenerbahce-ayriligi-resmen-duyurdu-p347135",
+      "tarih": "2026-08-13T18:14:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0563d5d620ae",
+      "baslik": "Antalya’da orman yangını",
+      "ozet": "Antalya’da orman yangını",
+      "url": "https://www.sozcu.com.tr/antalya-da-orman-yangini-p347131",
+      "tarih": "2026-08-13T17:53:43+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b597d37cc33a",
+      "baslik": "106 yıllık barajı yıkma kararı aldılar",
+      "ozet": "106 yıllık barajı yıkma kararı aldılar",
+      "url": "https://www.sozcu.com.tr/106-yillik-baraji-yikma-karari-aldilar-p347127",
+      "tarih": "2026-08-13T17:26:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "02c125c1dfd4",
+      "baslik": "Irak’ta geri sayım başladı: Tarih resmen açıklandı",
+      "ozet": "Irak’ta geri sayım başladı: Tarih resmen açıklandı",
+      "url": "https://www.sozcu.com.tr/irak-ta-geri-sayim-basladi-tarih-resmen-aciklandi-p347120",
+      "tarih": "2026-08-13T16:24:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0ee55de068bc",
+      "baslik": "Bakteri dolu nehri tarıma kazandırmanın yolunu buldular",
+      "ozet": "Bakteri dolu nehri tarıma kazandırmanın yolunu buldular",
+      "url": "https://www.sozcu.com.tr/bakteri-dolu-nehri-tarima-kazandirmanin-yolunu-buldular-p347117",
+      "tarih": "2026-08-13T16:12:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "4dbffd72ad58",
       "baslik": "Selin Hürmeriç, Budapeşte'de dünya gençler 5'incisi oldu",
@@ -1949,66 +2009,6 @@
       "tarih": "2026-07-25T12:23:57+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9de24538118c",
-      "baslik": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı - Aksiyon.com.TR",
-      "ozet": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı Aksiyon.com.TR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkQtUllITFVtNXBIVVFQMzg5cFMzM0NxSkwwdzBmVGFuam11XzNPYUFVc1NNOTkzYnozLTlWMkJBM0RGSzgzb09NdkFEWEV6VkN4OVNxejVDS2ZjVGhBdEVGQVNLUWwxR2YwQ1dOUkNTQ0tWUWxlY044Zm16WW9ieFhvWG1GLW50TGk0SUExUzVfb0FMcHJLNXFsajZpMjMyUnY0MDJOY1dfQUpsaFHSAbMBQVVfeXFMTVBXbmw0dGNZMmQtRDZaWUtFZGlUeEJfampkakNMdnh6TkVUZEpxN2Q0bmlWbjFoZ1NNSmNvWVAydHVPOVQwbG1hSkxiU2t5dnNjT2V4eER6VURZSVdCSG5oenhXUzVVeTdWa1F4LXpRd0hHV0kycTh0bzZXRS1sbzdDNV9nMzJ5YnZGR3psaXZISmdHQjZVNEk0WEl3VGVKLXFaQ1hVTWc3Z3lSU0VUY0ZLdUk?oc=5",
-      "tarih": "2026-07-25T10:44:28+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1079626b12a4",
-      "baslik": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı - aksiyon.com.tr",
-      "ozet": "Samsun'da çevre kanunu ihlali 699 bin 245 lira idari para cezasına yol açtı aksiyon.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkQtUllITFVtNXBIVVFQMzg5cFMzM0NxSkwwdzBmVGFuam11XzNPYUFVc1NNOTkzYnozLTlWMkJBM0RGSzgzb09NdkFEWEV6VkN4OVNxejVDS2ZjVGhBdEVGQVNLUWwxR2YwQ1dOUkNTQ0tWUWxlY044Zm16WW9ieFhvWG1GLW50TGk0SUExUzVfb0FMcHJLNXFsajZpMjMyUnY0MDJOY1dfQUpsaFHSAbMBQVVfeXFMTVBXbmw0dGNZMmQtRDZaWUtFZGlUeEJfampkakNMdnh6TkVUZEpxN2Q0bmlWbjFoZ1NNSmNvWVAydHVPOVQwbG1hSkxiU2t5dnNjT2V4eER6VURZSVdCSG5oenhXUzVVeTdWa1F4LXpRd0hHV0kycTh0bzZXRS1sbzdDNV9nMzJ5YnZGR3psaXZISmdHQjZVNEk0WEl3VGVKLXFaQ1hVTWc3Z3lSU0VUY0ZLdUk?oc=5",
-      "tarih": "2026-07-25T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a30de74df948",
-      "baslik": "Maden-İş Genel Başkanı Nurettin Akçul: 'Stratejik madenler yabancı sektörlerin eline bırakılmamalı' - Cumhuriyet",
-      "ozet": "Maden-İş Genel Başkanı Nurettin Akçul: 'Stratejik madenler yabancı sektörlerin eline bırakılmamalı' Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOFljaV81T3RuWkdraG5GQ3R2TGF3TlhZcmtudnhpdWE2WXpqVmQ5elhSZTh3UHV0R3YzMmlFNnNJalVMekhBUHBtVEUxUjhQS3VSRVFiR1dJNjJrc3RhTVJOYXN6aGNZeFltMTBYTDhVaFRuUVptQUloSE1mUUtRVlRCd0FuSVE2MW1RYWY3YlY1dHFnOXlDejhCd0NGS3hRcF9OMGxpTXh2MnhZcXllVl91bUhGMm9BVUF4b0hnS0EtUlNscHBXZjNNOWFDMnJ6bjZSUnQyUVRCUQ?oc=5",
-      "tarih": "2026-07-25T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "98fc6e33e546",
-      "baslik": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası İhlas Haber Ajansı - iha.com.tr",
-      "ozet": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası İhlas Haber Ajansı iha.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUpIZDl1VDRkQmd3UFNBRGp2Qll4SWFPdW1jV1IxUVhOQ1c5LV9xSjd4OTBhYzNqREdqLTdjMlVEZFhTZFFHUjlVWWJocGNob2pXQnlubVZFbEhoVHR0dnRYQ0wydmhEUm02RTd2MWlZanAzeGc2cnlEa0VIX1ZEMzF6eVJSZGNnbXltN2ZpeDBpLUdwcExtTXEyWEJBelkyblp2NlJfWE9hOHpheDFuTQ?oc=5",
-      "tarih": "2026-07-25T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f4a6d1a75377",
-      "baslik": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası İhlas Haber Ajansı - İhlas Haber Ajansı",
-      "ozet": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası İhlas Haber Ajansı İhlas Haber Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUpIZDl1VDRkQmd3UFNBRGp2Qll4SWFPdW1jV1IxUVhOQ1c5LV9xSjd4OTBhYzNqREdqLTdjMlVEZFhTZFFHUjlVWWJocGNob2pXQnlubVZFbEhoVHR0dnRYQ0wydmhEUm02RTd2MWlZanAzeGc2cnlEa0VIX1ZEMzF6eVJSZGNnbXltN2ZpeDBpLUdwcExtTXEyWEJBelkyblp2NlJfWE9hOHpheDFuTQ?oc=5",
-      "tarih": "2026-07-25T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "abffac69bbe1",
-      "baslik": "Antalya Kepez'deki orman yangını 4 saatte kontrol altına alındı - Cumhuriyet",
-      "ozet": "Antalya Kepez'deki orman yangını 4 saatte kontrol altına alındı Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdGRrTDdGeDJpV0xGQTVYc3Q4dTJWN0VFUFhWclRkb0wxam1hVXhfSXNDNExGQmlMbTd2dHFtc01BWmhHRVp2TG1jX1JDQzg5Z2NrYnkyZk4zb2xtV05GRU1hSUhZMmdfeWJ1WkpzTGM0dVdBclpsQkxCLTRpZWdnek1BUHU2eDhzTms0SUdrUGh6SnpzUjBtZE8yc2FsOWMzMnM4WmpWbmRZc2dmTUE?oc=5",
-      "tarih": "2026-07-23T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
@@ -92548,6 +92548,20 @@
       "ozet": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
       "lat": 41.0809,
       "lng": 29.0714,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0563d5d620ae",
+      "baslik": "Antalya’da orman yangını",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "13.08.2026",
+      "url": "https://www.sozcu.com.tr/antalya-da-orman-yangini-p347131",
+      "ozet": "Antalya’da orman yangını",
+      "lat": 36.9606,
+      "lng": 30.5979,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
