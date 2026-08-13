@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-13T07:15:43.616031+00:00",
+    "guncelleme": "2026-08-13T09:55:41.654528+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6465,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "a87c2f5e483d",
+      "baslik": "Dünyanın en yüksek yolu açıldı: Everest'i bile geçiyor",
+      "ozet": "Dünyanın en yüksek yolu açıldı: Everest'i bile geçiyor",
+      "url": "https://www.sozcu.com.tr/dunyanin-en-yuksek-yolu-acildi-everest-i-bile-geciyor-p346992",
+      "tarih": "2026-08-13T09:29:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a15fc7da6ace",
+      "baslik": "Emekli zammında hesap sil baştan: Merkez Bankası tahmini değiştirdi, işte yeni maaş tablosu",
+      "ozet": "Emekli zammında hesap sil baştan: Merkez Bankası tahmini değiştirdi, işte yeni maaş tablosu",
+      "url": "https://www.sozcu.com.tr/emekli-zamminda-hesap-sil-bastan-merkez-bankasi-tahmini-degistirdi-iste-yeni-maas-tablosu-p346960",
+      "tarih": "2026-08-13T09:22:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "aaf5812effb0",
+      "baslik": "İflasın eşiğindeki giyim devi ürünlerini resmen bedavaya satılıyor",
+      "ozet": "İflasın eşiğindeki giyim devi ürünlerini resmen bedavaya satılıyor",
+      "url": "https://www.sozcu.com.tr/iflasin-esigindeki-giyim-devi-urunlerini-resmen-bedavaya-satiliyor-p346974",
+      "tarih": "2026-08-13T08:46:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "47a4aea2fde8",
+      "baslik": "Planlanan Küresel Kömür Madenciliği Kapasitesi %11 Arttı",
+      "ozet": "Yeni bir rapora göre, planlanan küresel kömür madenciliği kapasitesi geçtiğimiz sene %11 arttı. Türkiye’de de Ağustos 2021- Ekim 2025 arasında 31 kentte toplam 123 kömür madeni projesinin izin süreci başladı. Uzmanlar kömür üretimini sürdürmeye ve yeni alanlara genişletmeye yönel",
+      "url": "https://www.iklimhaber.org/planlanan-kuresel-komur-madenciligi-kapasitesi-%11-artti/",
+      "tarih": "2026-08-13T08:13:31+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a54c3984f159",
+      "baslik": "Russell Westbrook basketbolu bıraktı",
+      "ozet": "Russell Westbrook basketbolu bıraktı",
+      "url": "https://www.sozcu.com.tr/russell-westbrook-basketbolu-birakti-p346950",
+      "tarih": "2026-08-13T07:43:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ffe83897a2f5",
       "baslik": "Yüzyıl Sonuna Kadar Akdeniz Deniz Çayırlarının Beşte Biri Yok Olabilir",
@@ -1132,6 +1182,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "30e744558876",
+      "baslik": "Baskı altındaki Yatağan’da doğa ve yaşam alanlarına maden ablukası: Katliam katlanıyor - Cumhuriyet",
+      "ozet": "Baskı altındaki Yatağan’da doğa ve yaşam alanlarına maden ablukası: Katliam katlanıyor Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU0d2TVVtRm9NcV8tbUw5RTZqVjFHNTNqelZxcXYycGNMVTVvaHBFcEozWUVEcWN4X3AxOVJGMUYtYWx3M0hSTFNQbVJCWUFlRGJJT0VXWlRDa215Y2JTRHlIS0RQNlV2WVRsOUVWMUNLbm1naHFDN25mYmhaWHBab05Jd0l3U0pyZTJsQjJ1N3N1RUotQ3pqQ0Z5aUxyb21NS2c0RG9RWVlBMU9qd1BtYmtwR1lNVTJYT0lPNVB3QVhlVXdmaHdjNklEVQ?oc=5",
+      "tarih": "2026-08-06T01:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "eea7a9b30f54",
       "baslik": "Yanlışlıkla açtıkları kuyu rengarenk bir doğa harikasına dönüştü",
       "ozet": "Yanlışlıkla açtıkları kuyu rengarenk bir doğa harikasına dönüştü",
@@ -1949,66 +2009,6 @@
       "tarih": "2026-06-11T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "497926c37070",
-      "baslik": "Maden ocağında çıkan yangın 6 gündür sürüyor - DHA | Demirören Haber Ajansı",
-      "ozet": "Maden ocağında çıkan yangın 6 gündür sürüyor DHA | Demirören Haber Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPREdKdUlTUDl6akRkbzJxYk1hWmhXWV9pd2dQYmljVGVPa2MtSHVyWFhTUzV6aE1FM29kd1hSU1RndDR4Tml6M3VDZ2tqSG9BbzBCOG9PbFhidklJZGFYSV9qS2FLellFMUVuVUZCWEpYUW1hWUtjaHptc1ZENmEwakpjT0Fzb29GQzItTWFzT3BrVE9RcWxCNTVRbzdYZDVKTF9FTXFla9IBqwFBVV95cUxOeGRkNnJvdUszWWY0RUxTcm03QTFKZDhSWWxXSFM1SjBsOTJTTlcwX0dxZmZMeVd4RVhGZ0d0MXZWalNCZGl5aElHZHlMSTQyT1R1T1Z5WWNlcXRhWGg0MkRZbmVDQmJOSnJJbVJoU0ItV1NFSFlBbkYtZXBaZGdpQzhndWZhLVo2VEN1TjNoejdIMm8wcHdCS2o2NDdlSXE3ZkJ4UE5tdmJtS1E?oc=5",
-      "tarih": "2026-06-11T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0f13fc312ebc",
-      "baslik": "Bakan Bayraktar, Doruk Madencilik işçileriyle bir araya geldi - dha.com.tr",
-      "ozet": "Bakan Bayraktar, Doruk Madencilik işçileriyle bir araya geldi dha.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ25MWDg0NDBZVDFMN0xEUUhINnBJQXJaa0dsQWZlSHd0M1VIbDFvaE5jRkRVV2pyOG9lMjFYUHlMdlNBR29XOTVYb1JlWXRSUzhTN1ZULTNOMU1uVFdsb2dacVE5OUpPcXJMV0o4YktlY0JJV2N1MGs1VlU4QkJsNjVFSnNxaVBBME9Ld3JrVUViYmJSaEtuUnEwNW1LbDQ20gGkAUFVX3lxTFBpMGg1QVF4VE54NThSNWpPN0NvUVFZVmVZM0h5a2dWVmNtM3BKaWI4Y0g1NC1wb2RINDlxUjRvUEpkR2RBWGlJMDVOR2JEZDFVVFN2OTM0dF9RcXg5Y1NtTDBzSkh4QllDbTJwdVVOeGNHV1pzSE9jbU4xcVVITjhYWlpzanRNSkNpYXg0MkhPM3FwZGdtSHBBSEtLUVA4YkwweDVK?oc=5",
-      "tarih": "2026-06-10T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5ce8fda2fc7b",
-      "baslik": "Bakan Işıkhan, Doruk Madencilik işçilerini kabul etti - dha.com.tr",
-      "ozet": "Bakan Işıkhan, Doruk Madencilik işçilerini kabul etti dha.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDg0eXlacmZDRi10Sk02RzMtOWlmX1c4d01EOUY1WW8zSVdvV1lJTm9ZdUVJUXVtaExvZWJCUHQtbTVPc051UHVLN0VTV2E5Y1UydnBzbVFTZ3JhZzYyMElIbTd5ZE5wVTlzdl9mYzRIM3JIbVRLa29wcGFDYl84RE1VVnF4TEZENll5MUdXVDByeFhhcDAwZzFBTHlkbmVz0gGkAUFVX3lxTE9BVXEyU0RvLVpsemtYc2VUWjFicFJDNHZYRlNDcHE3TlEtcGVOZ1VnVy1rMEpfYjIwYWtDVWV4bUV0aEpVNHA1YmhrcU9LQjJfUWZ3Z09jSTloZ0pldDk2YlJUeXp0c0lRbFBtb05xejV5YjFLNG1XejduVkJNRnExdlNrYWxNeEZ1UlYtcUVKVzZWeUNoRWt4eHBhdG1HMGNnSUt5?oc=5",
-      "tarih": "2026-06-10T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c09ed868418e",
-      "baslik": "Bakan Bayraktar, Doruk Madencilik işçileriyle bir araya geldi - DHA | Demirören Haber Ajansı",
-      "ozet": "Bakan Bayraktar, Doruk Madencilik işçileriyle bir araya geldi DHA | Demirören Haber Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ25MWDg0NDBZVDFMN0xEUUhINnBJQXJaa0dsQWZlSHd0M1VIbDFvaE5jRkRVV2pyOG9lMjFYUHlMdlNBR29XOTVYb1JlWXRSUzhTN1ZULTNOMU1uVFdsb2dacVE5OUpPcXJMV0o4YktlY0JJV2N1MGs1VlU4QkJsNjVFSnNxaVBBME9Ld3JrVUViYmJSaEtuUnEwNW1LbDQ20gGkAUFVX3lxTFBpMGg1QVF4VE54NThSNWpPN0NvUVFZVmVZM0h5a2dWVmNtM3BKaWI4Y0g1NC1wb2RINDlxUjRvUEpkR2RBWGlJMDVOR2JEZDFVVFN2OTM0dF9RcXg5Y1NtTDBzSkh4QllDbTJwdVVOeGNHV1pzSE9jbU4xcVVITjhYWlpzanRNSkNpYXg0MkhPM3FwZGdtSHBBSEtLUVA4YkwweDVK?oc=5",
-      "tarih": "2026-06-10T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "58405bf6168a",
-      "baslik": "Bakan Işıkhan, Doruk Madencilik işçilerini kabul etti - DHA | Demirören Haber Ajansı",
-      "ozet": "Bakan Işıkhan, Doruk Madencilik işçilerini kabul etti DHA | Demirören Haber Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDg0eXlacmZDRi10Sk02RzMtOWlmX1c4d01EOUY1WW8zSVdvV1lJTm9ZdUVJUXVtaExvZWJCUHQtbTVPc051UHVLN0VTV2E5Y1UydnBzbVFTZ3JhZzYyMElIbTd5ZE5wVTlzdl9mYzRIM3JIbVRLa29wcGFDYl84RE1VVnF4TEZENll5MUdXVDByeFhhcDAwZzFBTHlkbmVz0gGkAUFVX3lxTE9BVXEyU0RvLVpsemtYc2VUWjFicFJDNHZYRlNDcHE3TlEtcGVOZ1VnVy1rMEpfYjIwYWtDVWV4bUV0aEpVNHA1YmhrcU9LQjJfUWZ3Z09jSTloZ0pldDk2YlJUeXp0c0lRbFBtb05xejV5YjFLNG1XejduVkJNRnExdlNrYWxNeEZ1UlYtcUVKVzZWeUNoRWt4eHBhdG1HMGNnSUt5?oc=5",
-      "tarih": "2026-06-10T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5daa6c201be1",
-      "baslik": "Maden protestosuna davet için afiş astı, AKP'li belediye 115 bin lira ceza kesti - cumhuriyet.com.tr",
-      "ozet": "Maden protestosuna davet için afiş astı, AKP'li belediye 115 bin lira ceza kesti cumhuriyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmZkSGx1QmctbUd4SU5vdjd0OU5PRkhvTVUyMERydkIyVGhyS3ozeTdTeHZwTV9NZGtfMzRDYkl6ZlZESEpTMTQ1c0ZCT0JSdHdJVTFwWlNDR29ZTTNORmdiUjRVYTZNUzBxbWVTZnYtNElsdXBWS1lOOUpRb29EeFVhR0psdV9QOWVKNVNFQ3h2bVJMZXNrZ1NaZGRTWlNxQmtELUw0ZTg2TlJtNjR0RzJxMzhGcjdzTnVXVl9NcHE?oc=5",
-      "tarih": "2026-06-09T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
