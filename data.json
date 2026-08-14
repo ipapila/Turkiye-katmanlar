@@ -117519,5 +117519,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/turkiyenin-alevlerle-mucadelesi-suruyor/"
+  },
+  {
+    "id": "tarayici-530c197109f8",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstanbul, Ankara, İzmir geride kaldı: Karadeniz'in bir ili zirveye yerleşti",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul, Ankara, İzmir geride kaldı: Karadeniz'in bir ili zirveye yerleşti",
+    "koordinatlar": {
+      "lat": 41.1236,
+      "lng": 29.0007
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "14.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/istanbul-ankara-izmir-geride-kaldi-karadeniz-in-bir-ili-zirveye-yerlesti-p347385"
   }
 ]

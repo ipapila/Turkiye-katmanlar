@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-14T09:52:54.692945+00:00",
+    "guncelleme": "2026-08-14T12:47:15.304909+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6472,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "harita_kayit_sayisi": 6473,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "4996ca064328",
+      "baslik": "Özcan Deniz 23 yaş küçük eşiyle aşka geldi: Sarılıp öpmelere doyamadı",
+      "ozet": "Özcan Deniz 23 yaş küçük eşiyle aşka geldi: Sarılıp öpmelere doyamadı",
+      "url": "https://www.sozcu.com.tr/ozcan-deniz-23-yas-kucuk-esiyle-aska-geldi-sarilip-opmelere-doyamadi-p347406",
+      "tarih": "2026-08-14T12:33:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7ad023092c96",
+      "baslik": "16 milyon tonluk rezerv buldular: Çin'in küresel hakimiyeti bitecek",
+      "ozet": "16 milyon tonluk rezerv buldular: Çin'in küresel hakimiyeti bitecek",
+      "url": "https://www.sozcu.com.tr/16-milyon-tonluk-rezerv-buldular-cin-in-kuresel-hakimiyeti-bitecek-p347405",
+      "tarih": "2026-08-14T12:30:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "530c197109f8",
+      "baslik": "İstanbul, Ankara, İzmir geride kaldı: Karadeniz'in bir ili zirveye yerleşti",
+      "ozet": "İstanbul, Ankara, İzmir geride kaldı: Karadeniz'in bir ili zirveye yerleşti",
+      "url": "https://www.sozcu.com.tr/istanbul-ankara-izmir-geride-kaldi-karadeniz-in-bir-ili-zirveye-yerlesti-p347385",
+      "tarih": "2026-08-14T12:00:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e5e33fbcfbac",
       "baslik": "Bisikletle gezerken çölü ormana çevirdi",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-07-31T08:35:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d604dee8b9a3",
-      "baslik": "Türkiye Orman Yangınlarıyla Mücadele Ediyor",
-      "ozet": "Türkiye genelinde son 24 saatte 169 yangın çıkarken, bu yangınların 163’ü kontrol altına alındı. Aydın Çine’deki yangın, gün boyu esen rüzgar sebebiyle alanını genişletti. Bazı yayla evlerinin tahliyesine karar verilirken, büyük ve küçükbaş hayvanlar da yangın bölgesinden uzaklaş",
-      "url": "https://www.iklimhaber.org/turkiye-orman-yanginlariyla-mucadele-ediyor/",
-      "tarih": "2026-07-31T08:34:28+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "190492cbe9d8",
-      "baslik": "Çin Tarihinde İlk Kez Elektriğinin Yarısından Azını Kömürden Üretti",
-      "ozet": "Dünyanın en büyük kömür tüketicisi Çin, yetkililerin bildirdiğine göre, yenilenebilir enerji kullanımını teşvik ederek ilk kez Haziran ayına kadarki altı aylık dönemde elektriğinin %50’sinden azını kömürden üretti. Enerji İdaresi Geliştirme ve Planlama Dairesi Başkan Yardımcısı X",
-      "url": "https://www.iklimhaber.org/cin-tarihinde-ilk-kez-elektriginin-yarisindan-azini-komurden-uretti/",
-      "tarih": "2026-07-31T08:25:48+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7ef1662ac1ee",
-      "baslik": "Yeni Rapor: İklim Eylemi Çok Paydaşlı Bir Dönüşüm Gerektiriyor",
-      "ozet": "TSKB, COP31 hazırlık sürecinde küresel iklim gündemini şekillendiren başlıkları değerlendirdiği yeni raporunda,iklim eyleminin kamu politikalarının ötesine geçerek özel sektör, finans sektörü ve teknolojik yeniliklerin yön verdiği çok paydaşlı bir dönüşümü gerektirdiğini aktardı.",
-      "url": "https://www.iklimhaber.org/yeni-rapor-iklim-eylemi-cok-paydasli-bir-donusum-gerektiriyor/",
-      "tarih": "2026-07-31T07:29:37+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -92618,6 +92618,20 @@
       "ozet": "Balıkesir’in Edremit ilçesi Kadıköy Mahallesi’nde Kaz Dağları eteklerindeki zeytinlik ve ormanlık alanda çıkan yangın rüzgarın etkisiyle büyüdü. Yerleşim yerine yakın bir bölgede çıkan yangın, korku dolu anlar yaşattı. İstanbul’un Silivri ilçesinde otluk alanda başlayan yangın da",
       "lat": 39.5955,
       "lng": 27.9246,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-530c197109f8",
+      "baslik": "İstanbul, Ankara, İzmir geride kaldı: Karadeniz'in bir ili zirveye yerleşti",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "14.08.2026",
+      "url": "https://www.sozcu.com.tr/istanbul-ankara-izmir-geride-kaldi-karadeniz-in-bir-ili-zirveye-yerlesti-p347385",
+      "ozet": "İstanbul, Ankara, İzmir geride kaldı: Karadeniz'in bir ili zirveye yerleşti",
+      "lat": 41.1236,
+      "lng": 29.0007,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
