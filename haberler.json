@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-14T12:47:15.304909+00:00",
+    "guncelleme": "2026-08-14T15:43:20.193237+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6473,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "2e7c69f6eac0",
+      "baslik": "Maden işçileri ve eşleri gözaltına alındı: 'Mitinge katılmaya niyetliyiz'",
+      "ozet": "Maden işçileri ve eşleri gözaltına alındı: 'Mitinge katılmaya niyetliyiz'",
+      "url": "https://www.sozcu.com.tr/maden-iscileri-ve-esleri-gozaltina-alindi-mitinge-katilmaya-niyetliyiz-p349441",
+      "tarih": "2026-08-14T15:25:42+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "64bb32321051",
+      "baslik": "4 ilde denize girme yasağı: Sahillere kırmızı bayrak çekildi",
+      "ozet": "4 ilde denize girme yasağı: Sahillere kırmızı bayrak çekildi",
+      "url": "https://www.sozcu.com.tr/4-ilde-denize-girme-yasagi-sahillere-kirmizi-bayrak-cekildi-p349436",
+      "tarih": "2026-08-14T14:58:38+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0f235959018b",
+      "baslik": "Yasağa rağmen denize giren baba ve oğulları son anda kurtarıldı",
+      "ozet": "Yasağa rağmen denize giren baba ve oğulları son anda kurtarıldı",
+      "url": "https://www.sozcu.com.tr/yasaga-ragmen-denize-giren-baba-ve-ogullari-son-anda-kurtarildi-p348438",
+      "tarih": "2026-08-14T14:34:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "4996ca064328",
       "baslik": "Özcan Deniz 23 yaş küçük eşiyle aşka geldi: Sarılıp öpmelere doyamadı",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-03T08:25:36+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "745c26a948ac",
-      "baslik": "ABD'de Türk şirketine çevre engeli; inşaata erken başlayınca ihlal uyarısı aldı - Patronlar Dünyası",
-      "ozet": "ABD'de Türk şirketine çevre engeli; inşaata erken başlayınca ihlal uyarısı aldı Patronlar Dünyası",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXRhUEQ0QndvZktVMmlKYkYyZ0E2VkdvUmh6UFRHclo0dDBUWFd3cXNxdWtBZTRYeWJLelRrR0hZOGJHNXVKNkxET3NqZ2VSSklTVXgzNXp1ZzFjV3Y5UjBNSW81dVZ0RTdld0l4aEQyOEhibndkV2JCYkJxeV9QRFl4LTFMRGxDX2FLV0ZOY2JyTGFjYlY0cFJheDFYT0FjQV9TSC1Ua05rUk5YYl9J?oc=5",
-      "tarih": "2026-08-02T10:25:55+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e290f39d338e",
-      "baslik": "Doruk Madencilik işçileri, Ulus Meydanı'nda eylemlerini sürdürüyor: 'Bu şirket bizi sosyal hizmetlere mahkum bıraktı' - Cumhuriyet",
-      "ozet": "Doruk Madencilik işçileri, Ulus Meydanı'nda eylemlerini sürdürüyor: 'Bu şirket bizi sosyal hizmetlere mahkum bıraktı' Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeDlVcVlIaThhcEkxMFBIZXl1bWpSVGlrT1ZQQ0pxSHV4V2djWlFjSmpZejQ2UmtwVnA0eEVsU0lWUURGelBsOE4yeVhXRTk4WVNLV0pDSlVpZGEwVlcwRndPejI5Vk9RQkhJNnNsSUNPdFAyclZYQmliMnBzMzBQY1hNMnhjVENqbWdYRDU4QmUxSFplNG9ZSVF1eFc0UWw4X0RoNjNUWFc5UE9oNEI0ZXRqMGczQWJYQ0RVR3Ffa1pxU1JCdkxrZTN3SVJ0dm9lcHdUOEV0QVRHQVFlY1dHQjd3ZzFLZkJCU09mWkZ5QlU?oc=5",
-      "tarih": "2026-07-31T14:32:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d8a11abb131e",
-      "baslik": "Orman yangınlarında son durum... Bakan Yumaklı'dan açıklama geldi - Cumhuriyet",
-      "ozet": "Orman yangınlarında son durum... Bakan Yumaklı'dan açıklama geldi Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVBnRzh2M3FpV0lJTmFTTmx0THZkamJOaXdKbHZZUVZySHFNbGNlZkdGVkcwT1ZVYllQY3ZjV2NwbE9NNWpSVFo4N0gyYmFYRlJpRXp4NEVjMnJYaDBYZkF6cGZ5R0piX3pVRGZ4RDhETm84UFo0NVJaUVJsank5dmtZZWxkdnJ1bDIyeXJJWmlpdG1ZVlVNblo0dlVPZkN3WXY5dG5JeHhnZ2Fi?oc=5",
-      "tarih": "2026-07-31T08:35:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
