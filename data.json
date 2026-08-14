@@ -117462,5 +117462,62 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFpaU3UxNVdKRmJjMnE4a0F2TGRfSFJNNmtXMHBZV1pSYjhJYXNOVVROM1ljUEZ4RkZZdEZPN2ZXN21mbmI1Qnh5WGdna29ndlBnMlpodWgwTFh0ekZqT1FJSng3WG5vaEJ4bmRaOXVsR3JfUDFPS2pEenRVZFhmVWpSejJRSXFSbzVteWx4Z1RBdjRGNHJvZXBpRGk?oc=5"
+  },
+  {
+    "id": "tarayici-b68fd02f4d91",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Tokat'ın Ulaşımını Dolaylı Yoldan Etkileyecek Projeler İçin Acele Kamulaştırma Kararı Çıktı - Tokat Haber",
+    "il": "Tokat",
+    "ilce": "",
+    "aciklama": "Tokat'ın Ulaşımını Dolaylı Yoldan Etkileyecek Projeler İçin Acele Kamulaştırma Kararı Çıktı Tokat Haber",
+    "koordinatlar": {
+      "lat": 40.3605,
+      "lng": 36.4425
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "14.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU45ZjE2UGVIa1RKbnY0WllONS0tMUZhc0hXenNDOVZPZ3JkWXI5VnI5ZllDMFI2UWJJY2ZNT3p1RWVDU0NrTmgta1NBUXkxOEVKaVhaNENfR3BVWlRtazNaMl9PaGFwdmlaVGR4NVhkSnJQb2JHVmF4SkNDV3F1RWJRTHpwUWVSLWRnUVBUQTRQNUZKSXdsdlNMUmJUZXdhSjA1WkUyRkxiUUxoZVVvZ1EtUVRyOHMxMUs5dw?oc=5"
+  },
+  {
+    "id": "tarayici-82bedb6ffd40",
+    "tip": "Termik Reaktör",
+    "ad": "“Türkiye’nin Termik Santralların Genişlemesine Değil, Kömürden Çıkış Tarihine İhtiyacı Var”",
+    "il": "Çanakkale",
+    "ilce": "",
+    "aciklama": "Çanakkale’deki CENAL Kömürlü Termik Santralı’nın kapasite artırım planına karşı imza kampanyası başlatıldı. Uzmanlar, Türkiye’nin COP31 başkanlığı yürütürken, termik santralların “genişlemesi”ni değil, kömürden çıkış tarihini ve fosil yakıtlardan adil çıkışı konuşması gerektiğini",
+    "koordinatlar": {
+      "lat": 40.0399,
+      "lng": 26.3073
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "14.08.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/36898-2/"
+  },
+  {
+    "id": "tarayici-718add3f2ed4",
+    "tip": "Ekolojik İhlal",
+    "ad": "Türkiye’nin Alevlerle Mücadelesi Sürüyor",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "Balıkesir’in Edremit ilçesi Kadıköy Mahallesi’nde Kaz Dağları eteklerindeki zeytinlik ve ormanlık alanda çıkan yangın rüzgarın etkisiyle büyüdü. Yerleşim yerine yakın bir bölgede çıkan yangın, korku dolu anlar yaşattı. İstanbul’un Silivri ilçesinde otluk alanda başlayan yangın da",
+    "koordinatlar": {
+      "lat": 39.5955,
+      "lng": 27.9246
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "14.08.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/turkiyenin-alevlerle-mucadelesi-suruyor/"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-14T07:13:10.441461+00:00",
+    "guncelleme": "2026-08-14T09:52:54.692945+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6469,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6472,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "e5e33fbcfbac",
+      "baslik": "Bisikletle gezerken çölü ormana çevirdi",
+      "ozet": "Bisikletle gezerken çölü ormana çevirdi",
+      "url": "https://www.sozcu.com.tr/bisikletle-gezerken-colu-ormana-cevirdi-p347338",
+      "tarih": "2026-08-14T09:36:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "00e03cc6a215",
+      "baslik": "NOAA: El Nino Rekorları Altüst Edecek bir Şiddete Doğru İlerliyor",
+      "ozet": "Her El Niño’nun etkisi kendine özgü olma eğiliminde ve insanlık henüz keşfedilmemiş bir alana doğru ilerliyor. ABD’nin Ulusal Okyanus ve Atmosfer Dairesi (NOAA) tarafından yeni yayımlanan tahmine göre, giderek güçlenen “Süper El Niño” olayının bugüne kadar kaydedilmiş en güçlü El",
+      "url": "https://www.iklimhaber.org/noaa-el-nino-rekorlari-altust-edecek-bir-siddete-dogru-ilerliyor/",
+      "tarih": "2026-08-14T09:22:28+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "89cc9f6376c4",
+      "baslik": "Psikologlara göre elleri arkada yürümenin asıl nedeni: Karadenizliler hep yapıyor",
+      "ozet": "Psikologlara göre elleri arkada yürümenin asıl nedeni: Karadenizliler hep yapıyor",
+      "url": "https://www.sozcu.com.tr/psikologlara-gore-ellerini-arkaya-koyarak-yuruyen-insanlarin-nedeni-baskaymis-karadenizliler-hep-p347330",
+      "tarih": "2026-08-14T09:15:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "82bedb6ffd40",
+      "baslik": "“Türkiye’nin Termik Santralların Genişlemesine Değil, Kömürden Çıkış Tarihine İhtiyacı Var”",
+      "ozet": "Çanakkale’deki CENAL Kömürlü Termik Santralı’nın kapasite artırım planına karşı imza kampanyası başlatıldı. Uzmanlar, Türkiye’nin COP31 başkanlığı yürütürken, termik santralların “genişlemesi”ni değil, kömürden çıkış tarihini ve fosil yakıtlardan adil çıkışı konuşması gerektiğini",
+      "url": "https://www.iklimhaber.org/36898-2/",
+      "tarih": "2026-08-14T08:53:11+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "718add3f2ed4",
+      "baslik": "Türkiye’nin Alevlerle Mücadelesi Sürüyor",
+      "ozet": "Balıkesir’in Edremit ilçesi Kadıköy Mahallesi’nde Kaz Dağları eteklerindeki zeytinlik ve ormanlık alanda çıkan yangın rüzgarın etkisiyle büyüdü. Yerleşim yerine yakın bir bölgede çıkan yangın, korku dolu anlar yaşattı. İstanbul’un Silivri ilçesinde otluk alanda başlayan yangın da",
+      "url": "https://www.iklimhaber.org/turkiyenin-alevlerle-mucadelesi-suruyor/",
+      "tarih": "2026-08-14T08:35:28+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9eda63b7c469",
+      "baslik": "Emekli ve memur maaşı zammında hesap bir daha değişti: İşte masadaki senaryolar",
+      "ozet": "Emekli ve memur maaşı zammında hesap bir daha değişti: İşte masadaki senaryolar",
+      "url": "https://www.sozcu.com.tr/emekli-ve-memur-maasi-zamminda-hesap-bir-daha-degisti-iste-masadaki-senaryolar-p347316",
+      "tarih": "2026-08-14T08:32:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "047377428f4e",
+      "baslik": "Merkez bankaları devlet sırrı gibi saklıyor: Litresi milyonlar ediyor",
+      "ozet": "Merkez bankaları devlet sırrı gibi saklıyor: Litresi milyonlar ediyor",
+      "url": "https://www.sozcu.com.tr/merkez-bankalari-devlet-sirri-gibi-sakliyor-litresi-milyonlar-ediyor-p347303",
+      "tarih": "2026-08-14T08:08:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "040d59cdf576",
+      "baslik": "Türkiye Deniz Üstü Rüzgar Enerjisinde İlk YEKA Yarışmasını 2027’de Yapacak",
+      "ozet": "Saros Körfezi, Gökçeada, Bozcaada ve Edremit açıklarında dört ayrı deniz üstü rüzgar enerjisi sahası belirlendi. Türkiye, 2027’de deniz üstü (offshore) rüzgar alanında ilk kez Yenilenebilir Enerji Kaynak Alanları (YEKA) yarışması yapacak. Enerji ve Tabii Kaynaklar Bakanı Alparsla",
+      "url": "https://www.iklimhaber.org/turkiye-deniz-ustu-ruzgar-enerjisinde-ilk-yeka-yarismasini-2027de-yapacak/",
+      "tarih": "2026-08-14T07:37:38+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d2eb2f64295b",
       "baslik": "Küresel piyasalar çift yönlü baskı altında",
@@ -1929,86 +2009,6 @@
       "tarih": "2026-07-31T07:29:37+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "174c920849b1",
-      "baslik": "Ormana Kurulacak Maden Ocağı için \"ÇED Olumlu\" Kararı - yapi.com.tr",
-      "ozet": "Ormana Kurulacak Maden Ocağı için \"ÇED Olumlu\" Kararı yapi.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS08ycVdfd3VUcWVoQmoxM1VWZ0N0eWFITmFxbDBNTGVJVmNPLUE1cTlERnVqNnpuMDNkc3ZSRW1naFZ1SE1xTk1Qc1FESFZBT1J0UUJxV3JFTlVhRXlUZTZtSTB6OFh1VXFKci1IQVJaZ1QzbWdjbkU5YTZCbFJlbDhQbkVjU0JoUS1HNHJ1ckQxZjFfTWlUN0Y5R3o?oc=5",
-      "tarih": "2026-07-30T09:29:41+00:00",
-      "kaynak": "Google News",
-      "kategori": "ÇED Kararları",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0b4c20782b82",
-      "baslik": "Dünya Bu Yılki Kaynaklarını Sadece 7 Ayda Tüketti",
-      "ozet": "Küresel Limit Aşımı Günü bu yıl 30 Temmuz’a denk geliyor. Bu tarih, insanlığın gezegenimizin bir yılda yenileyebileceği doğal kaynakları yalnızca yedi ayda tükettiğini gösteriyor. WWF-Türkiye, Küresel Limit Aşım Günü’nün daha ileri bir tarihe taşınabilmesi için kömür ve diğer fos",
-      "url": "https://www.iklimhaber.org/dunya-bu-yilki-kaynaklarini-sadece-7-ayda-tuketti/",
-      "tarih": "2026-07-30T09:29:18+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "29daa76490c7",
-      "baslik": "Prof. Dr. Türkeş: İklim Değişikliği Çok Boyutlu Bir Krize Dönüştü",
-      "ozet": "Ağustos ayında da mevsim normallerinin üzerinde sıcaklık beklenen Türkiye için Avrupa’dakine benzer risklerin hızla büyüdüğüne dikkat çeken Prof. Dr. Türkeş, iklim değişikliğinin artık yalnızca çevreyi değil insan sağlığını, ekonomiyi ve günlük yaşamı doğrudan tehdit eden çok boy",
-      "url": "https://www.iklimhaber.org/prof-dr-turkes-iklim-degisikligi-cok-boyutlu-bir-krize-donustu/",
-      "tarih": "2026-07-30T09:20:50+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4dce28fe233c",
-      "baslik": "Holding binası önünde kendilerini zincirlediler: Doruk Madencilik işçileri ve sendika yöneticileri gözaltında - Cumhuriyet",
-      "ozet": "Holding binası önünde kendilerini zincirlediler: Doruk Madencilik işçileri ve sendika yöneticileri gözaltında Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT3QzemsyYTF2UWhtSW14TEd5X0J5YjltLUlnbmlCb1pmRTRPUlFsVkNvbUpaTlZXbGF1WnB2TEN6emNJVlB5bkFlUTR3SENRU2JfdXlBcW9ienBjejNWcWd6WHZERi1GdWxpc3Q5Z3BEaExUQ1VuN0dCRDBCekNjNGxteGRzZXdOQ3RzVFZKa3paLXpXYktneWE3d1BjS2JVTmcyUk9mWl80V3owZkI1UTVqeEIzMjlKMkJPdEx2SWFHTTlGaDYwd0hKMUZSLUVWRE1aNFM5LXpnOHBoQlkwR3pVNkVTYkpCX2I2Skk3Z21hZw?oc=5",
-      "tarih": "2026-07-30T09:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0b2d657955b7",
-      "baslik": "Aydın'da orman yangını sürüyor, tahliyeler başladı: Yangın bölgesi havadan görüntülendi - Cumhuriyet",
-      "ozet": "Aydın'da orman yangını sürüyor, tahliyeler başladı: Yangın bölgesi havadan görüntülendi Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRxQWg4WWFOWnRIbE54cjRjVXdQTTFCQk5IUC01U1hiXzgxQmtTN2ZWa29jV0pRUVlQREJOYUZDYjlLVm5kQmVieU8yRjdTaWxkMG5aNGFzUWd3UjJZRzlud1hUNXJFenZZQUJIamVITWd6TktKTTRVOFc1b0VNR2ZwZkxaQ3JCTlUxTlhRWF9pRjFYZFRLTVdwdkROb1ZwRjdyTDlvTk1oZ3NPX2NiSXVB?oc=5",
-      "tarih": "2026-07-30T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5d5f8fee0e1f",
-      "baslik": "Bakan Yumaklı açıkladı: 2 günde kaç orman yangını çıktı, kaçı kontrol altında? - Cumhuriyet",
-      "ozet": "Bakan Yumaklı açıkladı: 2 günde kaç orman yangını çıktı, kaçı kontrol altında? Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGtlakNZcWtvWHZEMkFVMjlPa2pKMEJidmEwNF9UQkdlanZhVGd0b05QODNhTi1wUzB0VnVXdkVDdjhpMUkzVGV5UEhPVjdqY1Vkd1BNMDZRakQtT0RMdWJfWk5TX1IyZ2xjdzRJY1dtdWVVMU8zSFZjd0tCcmtMUG5QVDczRGVPZm4yOXg2RC1MV3I1OGRTbHRoXy1IY0liRkZ1ZjF0dGdUMXNad0ZFVnlabTBoOUdpdXZxNlR3?oc=5",
-      "tarih": "2026-07-30T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "eb5cb979170f",
-      "baslik": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor - ngazete.com",
-      "ozet": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor ngazete.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemRnXzloLU1xRjNGelo4c254TGVKZEFneE9qYTFyekpQZFlnS0Z1Z2VNcHVrRTd5ZUJjZzdhbWktaEREUDAtT3ZwSDV4ZUJyRXFIQUlwUDNLUXlPYTVQZWZQMWhaaGU5YjVKVkR0M2NsTGN2a0tyZW5BbVI3U1ptdTNDQk5ScmxuV2FJMzNuOEjSAaABQVVfeXFMTzhIWVRwNUJsUzRNblo5WE1GX2hEVTBOU0JhdDRQMEpSVm14OGllRThfYTY4aExlS0VXTnpuak1mVXZGVmdseXRBWkcxTEtYNURQOUkyc25LbUVuMHJlcEp6Y2NxbkZYcHRpenJRbGY3eDMxR3BWejRPRlR2NkdnVEZqOXkyczhkRnEwbHprR1NWQXduN3R1bTY1NFVRbGkzOQ?oc=5",
-      "tarih": "2026-07-29T07:27:50+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f452a81e1207",
-      "baslik": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor - N Gazete",
-      "ozet": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor N Gazete",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemRnXzloLU1xRjNGelo4c254TGVKZEFneE9qYTFyekpQZFlnS0Z1Z2VNcHVrRTd5ZUJjZzdhbWktaEREUDAtT3ZwSDV4ZUJyRXFIQUlwUDNLUXlPYTVQZWZQMWhaaGU5YjVKVkR0M2NsTGN2a0tyZW5BbVI3U1ptdTNDQk5ScmxuV2FJMzNuOEjSAaABQVVfeXFMTzhIWVRwNUJsUzRNblo5WE1GX2hEVTBOU0JhdDRQMEpSVm14OGllRThfYTY4aExlS0VXTnpuak1mVXZGVmdseXRBWkcxTEtYNURQOUkyc25LbUVuMHJlcEp6Y2NxbkZYcHRpenJRbGY3eDMxR3BWejRPRlR2NkdnVEZqOXkyczhkRnEwbHprR1NWQXduN3R1bTY1NFVRbGkzOQ?oc=5",
-      "tarih": "2026-07-29T07:27:50+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
@@ -92576,6 +92576,48 @@
       "ozet": "Trabzon Güney Çevre Yolu için acele kamulaştırma kararı sabah.com.tr",
       "lat": 41.0909,
       "lng": 39.7135,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b68fd02f4d91",
+      "baslik": "Tokat'ın Ulaşımını Dolaylı Yoldan Etkileyecek Projeler İçin Acele Kamulaştırma Kararı Çıktı - Tokat Haber",
+      "konum": "Tokat",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "14.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU45ZjE2UGVIa1RKbnY0WllONS0tMUZhc0hXenNDOVZPZ3JkWXI5VnI5ZllDMFI2UWJJY2ZNT3p1RWVDU0NrTmgta1NBUXkxOEVKaVhaNENfR3BVWlRtazNaMl9PaGFwdmlaVGR4NVhkSnJQb2JHVmF4SkNDV3F1RWJRTHpwUWVSLWRnUVBUQTRQNUZKSXdsdlNMUmJUZXdhSjA1WkUyRkxiUUxoZVVvZ1EtUVRyOHMxMUs5dw?oc=5",
+      "ozet": "Tokat'ın Ulaşımını Dolaylı Yoldan Etkileyecek Projeler İçin Acele Kamulaştırma Kararı Çıktı Tokat Haber",
+      "lat": 40.3605,
+      "lng": 36.4425,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-82bedb6ffd40",
+      "baslik": "“Türkiye’nin Termik Santralların Genişlemesine Değil, Kömürden Çıkış Tarihine İhtiyacı Var”",
+      "konum": "Çanakkale",
+      "kategori": "Termik Reaktör",
+      "siddet": "Takip Ediliyor",
+      "tarih": "14.08.2026",
+      "url": "https://www.iklimhaber.org/36898-2/",
+      "ozet": "Çanakkale’deki CENAL Kömürlü Termik Santralı’nın kapasite artırım planına karşı imza kampanyası başlatıldı. Uzmanlar, Türkiye’nin COP31 başkanlığı yürütürken, termik santralların “genişlemesi”ni değil, kömürden çıkış tarihini ve fosil yakıtlardan adil çıkışı konuşması gerektiğini",
+      "lat": 40.0399,
+      "lng": 26.3073,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-718add3f2ed4",
+      "baslik": "Türkiye’nin Alevlerle Mücadelesi Sürüyor",
+      "konum": "Balıkesir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "14.08.2026",
+      "url": "https://www.iklimhaber.org/turkiyenin-alevlerle-mucadelesi-suruyor/",
+      "ozet": "Balıkesir’in Edremit ilçesi Kadıköy Mahallesi’nde Kaz Dağları eteklerindeki zeytinlik ve ormanlık alanda çıkan yangın rüzgarın etkisiyle büyüdü. Yerleşim yerine yakın bir bölgede çıkan yangın, korku dolu anlar yaşattı. İstanbul’un Silivri ilçesinde otluk alanda başlayan yangın da",
+      "lat": 39.5955,
+      "lng": 27.9246,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
