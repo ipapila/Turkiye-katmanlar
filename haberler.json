@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-13T18:52:36.244810+00:00",
+    "guncelleme": "2026-08-14T04:42:58.573950+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6468,
+    "harita_kayit_sayisi": 6469,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "c5cffaa4f768",
+      "baslik": "Selanik uçağında dehşet: Cam kırıldı, yolcunun kafası dışarı vakumlandı",
+      "ozet": "Selanik uçağında dehşet: Cam kırıldı, yolcunun kafası dışarı vakumlandı",
+      "url": "https://www.sozcu.com.tr/selanik-ucaginda-dehset-cam-kirildi-yolcunun-kafasi-disari-vakumlandi-p347201",
+      "tarih": "2026-08-14T04:40:38+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a7cc86a11133",
       "baslik": "Zeynep Sönmez, Cincinnati Open'da ikinci tura yükseldi",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-07-27T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "44692dc07d4c",
-      "baslik": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası - Pusu Haber",
-      "ozet": "Çevre Kanunu’nu ihlal eden kişiye 699 bin TL idari para cezası Pusu Haber",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFM3WEVTVUIwMVUwei03UEQ1anlMb1BWbEo4eVltRnRyc2kwalhHQ2N4ZVBzRnNVc3VCREY0bFVVRWdZcV9jOUQtNGdUaHFsdlJsekI1ajd5czBnck1oNU81WDg2WDMyVnRKaDhTNHM3VGZqWmpOd1hUdlJUeUxEWEc4Nmh1SnFpOU45SU5MQzF5VHZwSm9jMThISjFvQnpO?oc=5",
-      "tarih": "2026-07-25T12:23:57+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
@@ -92562,6 +92562,20 @@
       "ozet": "Antalya’da orman yangını",
       "lat": 36.9606,
       "lng": 30.5979,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a9cf703fa794",
+      "baslik": "Trabzon Güney Çevre Yolu için acele kamulaştırma kararı - sabah.com.tr",
+      "konum": "Trabzon",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "14.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFpaU3UxNVdKRmJjMnE4a0F2TGRfSFJNNmtXMHBZV1pSYjhJYXNOVVROM1ljUEZ4RkZZdEZPN2ZXN21mbmI1Qnh5WGdna29ndlBnMlpodWgwTFh0ekZqT1FJSng3WG5vaEJ4bmRaOXVsR3JfUDFPS2pEenRVZFhmVWpSejJRSXFSbzVteWx4Z1RBdjRGNHJvZXBpRGk?oc=5",
+      "ozet": "Trabzon Güney Çevre Yolu için acele kamulaştırma kararı sabah.com.tr",
+      "lat": 41.0909,
+      "lng": 39.7135,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

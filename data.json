@@ -117443,5 +117443,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/antalya-da-orman-yangini-p347131"
+  },
+  {
+    "id": "tarayici-a9cf703fa794",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Trabzon Güney Çevre Yolu için acele kamulaştırma kararı - sabah.com.tr",
+    "il": "Trabzon",
+    "ilce": "",
+    "aciklama": "Trabzon Güney Çevre Yolu için acele kamulaştırma kararı sabah.com.tr",
+    "koordinatlar": {
+      "lat": 41.0909,
+      "lng": 39.7135
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "14.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFpaU3UxNVdKRmJjMnE4a0F2TGRfSFJNNmtXMHBZV1pSYjhJYXNOVVROM1ljUEZ4RkZZdEZPN2ZXN21mbmI1Qnh5WGdna29ndlBnMlpodWgwTFh0ekZqT1FJSng3WG5vaEJ4bmRaOXVsR3JfUDFPS2pEenRVZFhmVWpSejJRSXFSbzVteWx4Z1RBdjRGNHJvZXBpRGk?oc=5"
   }
 ]
