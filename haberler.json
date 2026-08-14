@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-14T04:42:58.573950+00:00",
+    "guncelleme": "2026-08-14T07:13:10.441461+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6469,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "d2eb2f64295b",
+      "baslik": "Küresel piyasalar çift yönlü baskı altında",
+      "ozet": "Küresel piyasalar çift yönlü baskı altında",
+      "url": "https://www.sozcu.com.tr/kuresel-piyasalar-cift-yonlu-baski-altinda-p347233",
+      "tarih": "2026-08-14T06:10:35+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8c3fd81fc693",
+      "baslik": "Araba alacakların beklediği haber geldi: Düşecek mi yükselecek mi?",
+      "ozet": "Araba alacakların beklediği haber geldi: Düşecek mi yükselecek mi?",
+      "url": "https://www.sozcu.com.tr/araba-alacaklarinin-bekledigi-haber-geldi-dusecek-mi-yukselecek-mi-p347229",
+      "tarih": "2026-08-14T05:59:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "842068875f06",
+      "baslik": "Fenerbahçe'nin yeni transferi Lukaku'nun bilinmeyen özelliği: Milyonda bir görülüyor, sular seller gibi konuşuyor",
+      "ozet": "Fenerbahçe'nin yeni transferi Lukaku'nun bilinmeyen özelliği: Milyonda bir görülüyor, sular seller gibi konuşuyor",
+      "url": "https://www.sozcu.com.tr/fenerbahce-nin-yeni-transferi-lukaku-nun-bilinmeyen-ozelligi-milyonda-bir-goruluyor-sular-seller-p347221",
+      "tarih": "2026-08-14T05:39:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c5cffaa4f768",
       "baslik": "Selanik uçağında dehşet: Cam kırıldı, yolcunun kafası dışarı vakumlandı",
@@ -1962,9 +1992,9 @@
       "kaynak_turu": "rss"
     },
     {
-      "id": "f452a81e1207",
-      "baslik": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor - N Gazete",
-      "ozet": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor N Gazete",
+      "id": "eb5cb979170f",
+      "baslik": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor - ngazete.com",
+      "ozet": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor ngazete.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemRnXzloLU1xRjNGelo4c254TGVKZEFneE9qYTFyekpQZFlnS0Z1Z2VNcHVrRTd5ZUJjZzdhbWktaEREUDAtT3ZwSDV4ZUJyRXFIQUlwUDNLUXlPYTVQZWZQMWhaaGU5YjVKVkR0M2NsTGN2a0tyZW5BbVI3U1ptdTNDQk5ScmxuV2FJMzNuOEjSAaABQVVfeXFMTzhIWVRwNUJsUzRNblo5WE1GX2hEVTBOU0JhdDRQMEpSVm14OGllRThfYTY4aExlS0VXTnpuak1mVXZGVmdseXRBWkcxTEtYNURQOUkyc25LbUVuMHJlcEp6Y2NxbkZYcHRpenJRbGY3eDMxR3BWejRPRlR2NkdnVEZqOXkyczhkRnEwbHprR1NWQXduN3R1bTY1NFVRbGkzOQ?oc=5",
       "tarih": "2026-07-29T07:27:50+00:00",
       "kaynak": "Google News",
@@ -1972,41 +2002,11 @@
       "kaynak_turu": "rss"
     },
     {
-      "id": "b01dc200b3a2",
-      "baslik": "Ciğerlerimiz yanıyor... Muğla Seydikemer'de büyük orman yangını: Fethiye-Antalya karayolu trafiğe kapatıldı, 202 kişi tahliye edildi! - Cumhuriyet",
-      "ozet": "Ciğerlerimiz yanıyor... Muğla Seydikemer'de büyük orman yangını: Fethiye-Antalya karayolu trafiğe kapatıldı, 202 kişi tahliye edildi! Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSmtJNF83WG90enRueDNub3R1a3JqM1l6eWxYQkhLX1FrUlFsc1QxV192VXZBcHZwR1l1UEJPODhhUGxGWTlwallBZHNsRWg2VGFSTjJEMndhRjlkcVhfaldHSU1scWp0T3F6NWlBNVhIS194cG5nSGxxb2NvVWRVb21hd1czLUtfdy1rWmVKdEhTS0paWFRZMzh4d2RJZ25zZVZIMWd0T3ZpaENrOE41UnpucmJHZ1c1UTF0QVJtcnByNUdWbTRyVUNHT3dTdEU3ZE8zQTZfT21ZalVyVTNYTWVMS00tNjBGeWJOS2xRYXNhNEdNWVZMdU9WSFFBRUJqcldj?oc=5",
-      "tarih": "2026-07-29T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "032d661b4bab",
-      "baslik": "Turnalık Yaylası'ndaki maden protestosunda 20 gözaltı - Cumhuriyet",
-      "ozet": "Turnalık Yaylası'ndaki maden protestosunda 20 gözaltı Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUloMUFYYWQwM0xtakNJd0NFUERiaXg5bW5yOHFzUThOMU5VdTNGTGxvSGlRanhaLXFlaHlaR3B3dTBxd1BJNHkzUjQ2bUNSRktuanlsTDc0Uzd4eEpWZUxiUFNIc0E2bmgxYXlEb3NlZEJaMG9GeXNNa1ZzQXRMMkplWFBFMVJyVGtmY0o1Y0tucUJoV0I4R01nNTdVOTZZ?oc=5",
-      "tarih": "2026-07-29T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c24f5bd37fe3",
-      "baslik": "Mahkeme İkizköy’deki 679 parsel alanı kapsayan davaların tamamını durdurdu - Cumhuriyet",
-      "ozet": "Mahkeme İkizköy’deki 679 parsel alanı kapsayan davaların tamamını durdurdu Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMHBsYVlrbUFzT3RSQVRRNDVTdlBfV0FWU1RSZ1B5ZV93SUszb29GMHh6bGEya0FNTkFiRDhXQlM3YW1PaWptY1FrTS04TU0ybGRsYm0zdThwU0FxZXRoUTNaeGFxTXdwb3R5THI4bTVxQUg4ak9KQ0ttZDhnbDN3OFFhY1I0ZlBWRmN6ZE5SZGhCeHZnZk5RTm00ekZWY3Y2S2MzNHVXY3VFbXN5blh0bHBkOXhmOUZBWERKUw?oc=5",
-      "tarih": "2026-07-27T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6d2b1623b26f",
-      "baslik": "Orman yangınlarıyla mücadele ediyor: Türkiye’den İspanya’ya 2 uçakla destek - Cumhuriyet",
-      "ozet": "Orman yangınlarıyla mücadele ediyor: Türkiye’den İspanya’ya 2 uçakla destek Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNlFkbS1MYVpkWmJpTU9kSVkzOHVSa1Q5ZTM0NDlCZTNkVEdNSnc1WTBhWGNHdi1qTDdoQ2VIUjlOOUU1bVIxZkJHREJ0Sk1OOE9qaXBYSjdMTVh4UTVfX2N2T1pvMFlHN1lJLUFxY1dqbGpLRHZXalRfSFh4UkM3cnd6TXFSUjhvbzJrZlBHd1ZiV3p2ZmRVQUFJZkNGODl2WTVEajd6NHdsSG5vTjJyRDU2WTI2YlRUeUlZYg?oc=5",
-      "tarih": "2026-07-27T07:00:00+00:00",
+      "id": "f452a81e1207",
+      "baslik": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor - N Gazete",
+      "ozet": "Ünlü Türk Maden Suyu Markası Raflardan Toplatılıyor N Gazete",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemRnXzloLU1xRjNGelo4c254TGVKZEFneE9qYTFyekpQZFlnS0Z1Z2VNcHVrRTd5ZUJjZzdhbWktaEREUDAtT3ZwSDV4ZUJyRXFIQUlwUDNLUXlPYTVQZWZQMWhaaGU5YjVKVkR0M2NsTGN2a0tyZW5BbVI3U1ptdTNDQk5ScmxuV2FJMzNuOEjSAaABQVVfeXFMTzhIWVRwNUJsUzRNblo5WE1GX2hEVTBOU0JhdDRQMEpSVm14OGllRThfYTY4aExlS0VXTnpuak1mVXZGVmdseXRBWkcxTEtYNURQOUkyc25LbUVuMHJlcEp6Y2NxbkZYcHRpenJRbGY3eDMxR3BWejRPRlR2NkdnVEZqOXkyczhkRnEwbHprR1NWQXduN3R1bTY1NFVRbGkzOQ?oc=5",
+      "tarih": "2026-07-29T07:27:50+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
