@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-14T15:43:20.193237+00:00",
+    "guncelleme": "2026-08-14T18:42:57.091078+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6473,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "efe703de9c47",
+      "baslik": "Tuncer Bakırhan'dan Selahattin Demirtaş mesajı: İnşallah bizimle olacak",
+      "ozet": "Tuncer Bakırhan'dan Selahattin Demirtaş mesajı: İnşallah bizimle olacak",
+      "url": "https://www.sozcu.com.tr/tuncer-bakirhan-dan-selahattin-demirtas-aciklamasi-p349457",
+      "tarih": "2026-08-14T17:53:35+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "2e7c69f6eac0",
       "baslik": "Maden işçileri ve eşleri gözaltına alındı: 'Mitinge katılmaya niyetliyiz'",
@@ -1997,16 +2007,6 @@
       "ozet": "Yeni bir analiz, Avrupa’da bu yılki orman yangınlarının kıtada 3 milyar euroluk zarara neden olduğunu ortaya koydu. Financial Times (FT) analizine göre; Fransa, İspanya ve Avrupa’nın diğer bölgelerini etkisi altına alan orman yangınları ve sıcak hava dalgaları bu yıl şimdiden 3 m",
       "url": "https://www.iklimhaber.org/avrupada-bu-yilki-orman-yanginlarinin-maliyeti-3-milyar-euroyu-asti/",
       "tarih": "2026-08-03T09:31:49+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6af54ba65c2a",
-      "baslik": "BM: Güçlü El Niño Ağustos’tan İtibaren Etkisini Artıracak",
-      "ozet": "Dünya Meteoroloji Örgütü, El Niño’nun Ağustos–Ekim 2026 döneminde istikrarlı bir şekilde şiddetleneceği öngördü. BM Genel Sekreteri Guterres ise, El Nino’nun dünyanın dört bir yanında yaşamları ve geçim kaynaklarını mahveden başka bir kriz olarak hızla öne çıktığı uyarısında bulu",
-      "url": "https://www.iklimhaber.org/bm-guclu-el-nino-agustostan-itibaren-etkisini-artiracak/",
-      "tarih": "2026-08-03T08:25:36+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
