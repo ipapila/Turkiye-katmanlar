@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-15T12:21:40.973565+00:00",
+    "guncelleme": "2026-08-15T15:12:50.869904+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6474,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "ee7e0c72059f",
+      "baslik": "Çevre iller bile sıraya girdi: Altın yumurtlayan hasatta siparişlere yetişemiyor",
+      "ozet": "Çevre iller bile sıraya girdi: Altın yumurtlayan hasatta siparişlere yetişemiyor",
+      "url": "https://www.sozcu.com.tr/cevre-iller-bile-siraya-girdi-altin-yumurtlayan-hasatta-siparislere-yetisemiyor-p349644",
+      "tarih": "2026-08-15T13:05:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "733955f6fbf0",
       "baslik": "'Onun gölgesinde kalırsın' dediler: Ünlü oyuncu yıllar sonra itiraf etti",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-08-04T02:30:15+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0b1afa2b47fb",
-      "baslik": "Bursa'da orman yangını! Ağaçlandırılan maden sahasında alevler yükseldi - bursadabugun.com",
-      "ozet": "Bursa'da orman yangını! Ağaçlandırılan maden sahasında alevler yükseldi bursadabugun.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWgyQmtrb2cxVlZDblk4Z3l0QzkxNzM5TEFlejAxVEppaENyODg4Q0VpZnMtam1TTVVTb3V4eTZlSzZXZDEtTHpOMG00dWR5eDhBVmZ6VG9vQTNteU5UWjNqQ2FMeHpYdTJIeG8zODFET3l3WUN4N0hRSkJzVkRrZUNMUk9VQlFXa3YtcUxjMUdOS2M3SmxFQ1BzSFJRRTRkSkhuR3ZOLU5Rd1hFd29NU0dPWmtPZ0Z3eHc0ZdIBvAFBVV95cUxNSWgyQmtrb2cxVlZDblk4Z3l0QzkxNzM5TEFlejAxVEppaENyODg4Q0VpZnMtam1TTVVTb3V4eTZlSzZXZDEtTHpOMG00dWR5eDhBVmZ6VG9vQTNteU5UWjNqQ2FMeHpYdTJIeG8zODFET3l3WUN4N0hRSkJzVkRrZUNMUk9VQlFXa3YtcUxjMUdOS2M3SmxFQ1BzSFJRRTRkSkhuR3ZOLU5Rd1hFd29NU0dPWmtPZ0Z3eHc0ZQ?oc=5",
-      "tarih": "2026-08-03T10:58:39+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
