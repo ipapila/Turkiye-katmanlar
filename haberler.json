@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-15T15:12:50.869904+00:00",
+    "guncelleme": "2026-08-15T18:17:40.763356+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6474,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "d22beefb948a",
+      "baslik": "Çifte dolandırıcılık yöntemi: Gerçek adrese gittiklerinde ortaya çıktı",
+      "ozet": "Çifte dolandırıcılık yöntemi: Gerçek adrese gittiklerinde ortaya çıktı",
+      "url": "https://www.sozcu.com.tr/cifte-dolandiricilik-yontemi-gercek-adrese-gittiklerinde-ortaya-cikti-p349682",
+      "tarih": "2026-08-15T17:52:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "37fc92016986",
+      "baslik": "Fenerbahçe'den Jamie Gittens iddialarına resmi yanıt",
+      "ozet": "Fenerbahçe'den Jamie Gittens iddialarına resmi yanıt",
+      "url": "https://www.sozcu.com.tr/fenerbahceden-jamie-gittens-iddialarina-resmi-yanit-p349678",
+      "tarih": "2026-08-15T17:12:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ee7e0c72059f",
       "baslik": "Çevre iller bile sıraya girdi: Altın yumurtlayan hasatta siparişlere yetişemiyor",
@@ -1990,26 +2010,6 @@
       "kaynak": "Yeşil Gazete",
       "kategori": "Çevre Medyası",
       "kaynak_turu": "web"
-    },
-    {
-      "id": "f73fbb5e9631",
-      "baslik": "Greenpeace verilere ulaştı: Afşin-Elbistan A Termik Santrali kirlilik yayıyor",
-      "ozet": "",
-      "url": "https://yesilgazete.org/greenpeace-verilere-ulasti-afsin-elbistan-a-termik-santrali-kirlilik-yayiyor/",
-      "tarih": "2026-08-04T04:21:11.585014+00:00",
-      "kaynak": "Yeşil Gazete",
-      "kategori": "Çevre Medyası",
-      "kaynak_turu": "web"
-    },
-    {
-      "id": "a9e4086d5f6f",
-      "baslik": "Bugünler için alınmıştı, orman yangınları sırasında kayboldu",
-      "ozet": "Bugünler için alınmıştı, orman yangınları sırasında kayboldu",
-      "url": "https://www.sozcu.com.tr/bugunler-icin-alinmisti-orman-yanginlari-sirasinda-kayboldu-p342108",
-      "tarih": "2026-08-04T02:30:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
     }
   ],
   "harita_kayitlari": [
