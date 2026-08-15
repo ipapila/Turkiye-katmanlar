@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-15T03:32:27.549475+00:00",
+    "guncelleme": "2026-08-15T06:24:10.790811+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6473,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6474,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "9cb49cf56916",
+      "baslik": "800 kişi makine kullanmadan 500 hektarlık sulak alanı 2 hafta içinde tarlaya dönüştürdü",
+      "ozet": "800 kişi makine kullanmadan 500 hektarlık sulak alanı 2 hafta içinde tarlaya dönüştürdü",
+      "url": "https://www.sozcu.com.tr/800-kisi-makine-kullanmadan-500-hektarlik-sulak-alani-2-hafta-icinde-tarlaya-donusturdu-p349526",
+      "tarih": "2026-08-15T05:50:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "efe703de9c47",
       "baslik": "Tuncer Bakırhan'dan Selahattin Demirtaş mesajı: İnşallah bizimle olacak",
@@ -1997,16 +2007,6 @@
       "ozet": "Haziran sonu itibarıyla elektrik kurulu gücünde 27 bin 210 megavat ile güneşin payı %21,6’ya ulaştı. Kurulu güçte 15 bin 281 megavata ulaşan rüzgarın payı da %12,1 olarak belirlendi. Güneş ve rüzgar kurulu gücünün toplamı ise haziranda %33,7’lik pay ile 42 bin 491 megavata yüksel",
       "url": "https://www.iklimhaber.org/turkiyenin-elektrik-uretiminde-gunes-ve-ruzgarin-payi-%33u-gecti/",
       "tarih": "2026-08-03T10:06:16+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ae985158249d",
-      "baslik": "Avrupa’da Bu Yılki Orman Yangınlarının Maliyeti 3 Milyar Euroyu Aştı",
-      "ozet": "Yeni bir analiz, Avrupa’da bu yılki orman yangınlarının kıtada 3 milyar euroluk zarara neden olduğunu ortaya koydu. Financial Times (FT) analizine göre; Fransa, İspanya ve Avrupa’nın diğer bölgelerini etkisi altına alan orman yangınları ve sıcak hava dalgaları bu yıl şimdiden 3 m",
-      "url": "https://www.iklimhaber.org/avrupada-bu-yilki-orman-yanginlarinin-maliyeti-3-milyar-euroyu-asti/",
-      "tarih": "2026-08-03T09:31:49+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -92632,6 +92632,20 @@
       "ozet": "İstanbul, Ankara, İzmir geride kaldı: Karadeniz'in bir ili zirveye yerleşti",
       "lat": 41.1236,
       "lng": 29.0007,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-ffc0a8e3a69f",
+      "baslik": "Bir yangın da Elazığ'da! Maden'de alevler hızla ilerliyor, bir köy boşaltıldı - Türkiye Gazetesi",
+      "konum": "Elazığ",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "15.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzNIRWQ4YUgzenRlakZ2WXRfMUpVdldNN0p0b2JyelhSR0FSX0J0YUllaDNOVThRVVhJdHlLaVRTdGlpd2FiZmZsQ2plU2J2SmNpYlgyV2dFZUJUR0VKcVJaLTNlOThjNk9xcG12aXNrRENUWGptVDRxSlVRZkp4RTdLcFVLZ2E4cU5Ja0VtZlRybnMzZmV4cHhnWG1LMWdPcmxMcTBnOHVRTm80UUstUXMwOHFjMnZheVZtVDA0TkM4dw?oc=5",
+      "ozet": "Bir yangın da Elazığ'da! Maden'de alevler hızla ilerliyor, bir köy boşaltıldı Türkiye Gazetesi",
+      "lat": 38.7302,
+      "lng": 39.2063,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

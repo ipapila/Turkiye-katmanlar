@@ -117538,5 +117538,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/istanbul-ankara-izmir-geride-kaldi-karadeniz-in-bir-ili-zirveye-yerlesti-p347385"
+  },
+  {
+    "id": "tarayici-ffc0a8e3a69f",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bir yangın da Elazığ'da! Maden'de alevler hızla ilerliyor, bir köy boşaltıldı - Türkiye Gazetesi",
+    "il": "Elazığ",
+    "ilce": "",
+    "aciklama": "Bir yangın da Elazığ'da! Maden'de alevler hızla ilerliyor, bir köy boşaltıldı Türkiye Gazetesi",
+    "koordinatlar": {
+      "lat": 38.7302,
+      "lng": 39.2063
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "15.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzNIRWQ4YUgzenRlakZ2WXRfMUpVdldNN0p0b2JyelhSR0FSX0J0YUllaDNOVThRVVhJdHlLaVRTdGlpd2FiZmZsQ2plU2J2SmNpYlgyV2dFZUJUR0VKcVJaLTNlOThjNk9xcG12aXNrRENUWGptVDRxSlVRZkp4RTdLcFVLZ2E4cU5Ja0VtZlRybnMzZmV4cHhnWG1LMWdPcmxMcTBnOHVRTm80UUstUXMwOHFjMnZheVZtVDA0TkM4dw?oc=5"
   }
 ]
