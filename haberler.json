@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-16T15:13:57.368415+00:00",
+    "guncelleme": "2026-08-16T18:17:39.391257+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6475,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "0673539ec7f0",
+      "baslik": "Burj Khalifa'yı bile geride bırakacak: 1 kilometrelik dev binanın 430 metresi tamamlandı",
+      "ozet": "Burj Khalifa'yı bile geride bırakacak: 1 kilometrelik dev binanın 430 metresi tamamlandı",
+      "url": "https://www.sozcu.com.tr/burj-khalifa-yi-bile-geride-birakacak-1-kilometrelik-dev-binanin-430-metresi-tamamlandi-p349897",
+      "tarih": "2026-08-16T15:21:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "058d2161aa74",
       "baslik": "Binbir Gece’yle yıldızı köyüne döndü: Oyuncu Ergün Demir’in doğayla iç içe yeni hayatı",
@@ -1997,16 +2007,6 @@
       "ozet": "Ölüdeniz'de tatil kabusa döndü! Tur teknesinde korku dolu anlar",
       "url": "https://www.sozcu.com.tr/oludeniz-de-tatil-kabusa-dondu-tur-teknesinde-korku-dolu-anlar-p342300",
       "tarih": "2026-08-04T11:56:49+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5487a4842c11",
-      "baslik": "Avrupa'daki yangınlar zeytin yağı fiyatlarını vurdu",
-      "ozet": "Avrupa'daki yangınlar zeytin yağı fiyatlarını vurdu",
-      "url": "https://www.sozcu.com.tr/avrupa-daki-yanginlar-zeytin-yagi-fiyatlarini-vurdu-p342273",
-      "tarih": "2026-08-04T11:05:48+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
