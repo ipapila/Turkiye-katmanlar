@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-16T03:41:15.363398+00:00",
+    "guncelleme": "2026-08-16T06:26:07.868451+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6475,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "f6185bebfb7c",
+      "baslik": "Marmaris’te orman yangını! Çıkarma gemileri devreye girdi",
+      "ozet": "Marmaris’te orman yangını! Çıkarma gemileri devreye girdi",
+      "url": "https://www.sozcu.com.tr/marmariste-yangina-denizden-mudahale-cikarma-gemileri-devreye-girdi-p349749",
+      "tarih": "2026-08-16T06:01:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7481ede729a9",
+      "baslik": "Milyarder yatırımcıların altın yorumu: Yükseliş daha yeni başlıyor",
+      "ozet": "Milyarder yatırımcıların altın yorumu: Yükseliş daha yeni başlıyor",
+      "url": "https://www.sozcu.com.tr/milyarder-yatirimcilarin-altin-yorumu-yukselis-daha-yeni-basliyor-p349741",
+      "tarih": "2026-08-16T05:26:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5a5b731b036c",
+      "baslik": "Söz vereli 40 gün oldu, adım atılmadı: Erdoğan'dan Trump'a F-35 sitemi",
+      "ozet": "Söz vereli 40 gün oldu, adım atılmadı: Erdoğan'dan Trump'a F-35 sitemi",
+      "url": "https://www.sozcu.com.tr/soz-vereli-40-gun-oldu-adim-atilmadi-erdogan-dan-trump-a-f-35-sitemi-p349745",
+      "tarih": "2026-08-16T05:26:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5b70f7f4c794",
+      "baslik": "Deniz Baysal’dan çadırda kamp keyfi: Soluğu doğada aldı",
+      "ozet": "Deniz Baysal’dan çadırda kamp keyfi: Soluğu doğada aldı",
+      "url": "https://www.sozcu.com.tr/deniz-baysal-dan-cadirda-kamp-keyfi-solugu-dogada-aldi-p349742",
+      "tarih": "2026-08-16T05:17:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "377a76296975",
       "baslik": "Cem Gürdeniz: Türkiye’nin gaz rezervlerini çalacaklar",
@@ -59,6 +99,16 @@
       "tarih": "2026-08-15T17:12:20+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ddc3ee6b97a6",
+      "baslik": "Bağımsız Maden-İş: Bu saatten sonra eylemimiz buradaki 150 işçinin eylemi değil, Türkiye işçi sınıfının eylemidir - egepostasi.com",
+      "ozet": "Bağımsız Maden-İş: Bu saatten sonra eylemimiz buradaki 150 işçinin eylemi değil, Türkiye işçi sınıfının eylemidir egepostasi.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaUxTam9sYjZkbmxxN1ZfZGtiUWdlWVg4SW02NklvUmNLVXVnejZqZXpBNFNqWWFPTW5vTnlKSzhsU3U1a3cwMVNmdjN1a20zRXZEYTczWjlvSTdRQW9STVhiWG9kdjkzUVRMRWNnT192Nl9ZNjJ1b0RaQlFFQXdTeFpqeW0xczB0MkFnOFpsRkVXemdUeWsxUlJLOEdsRjFZUjJ6TzJjUHlyWnFpMGlvOS04VGlvRWhGSjV6UXh5LUoxYzVlZHRrSTdQdWlnVTdNVkltRTBzdVdqcEtxcTFHWVo4TzdKZw?oc=5",
+      "tarih": "2026-08-15T14:21:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1957,56 +2007,6 @@
       "ozet": "Küçük çocuğun tek kelimesi yetti: Fatih Terim'in kızı Merve gece yarısı denize atladı",
       "url": "https://www.sozcu.com.tr/kucuk-cocugun-tek-kelimesi-yetti-fatih-terim-in-kizi-merve-gece-yarisi-denize-atladi-p342272",
       "tarih": "2026-08-04T10:15:02+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5df040280486",
-      "baslik": "İklim Krizi Finansal İstikrarı da Tehdit Ediyor",
-      "ozet": "Avrupa aşırı sıcak hava dalgalarının ve orman yangınlarının pençesinde bir yaz geçirirken, Avrupa Merkez Bankası Yönetim Kurulu Üyesi Frank Elderson, iklim krizinin finansal istikrar için giderek büyüyen bir tehdit oluşturduğu uyarısında bulundu. Elderson ayrıca ekosistem hizmetl",
-      "url": "https://www.iklimhaber.org/iklim-krizi-finansal-istikrari-da-tehdit-ediyor/",
-      "tarih": "2026-08-04T09:36:36+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1736e382da87",
-      "baslik": "Afşin Elbistan’daki Termik Santralda Ek Ünite İptaline Bakanlık ve Şirketten İtiraz",
-      "ozet": "Çevre, Şehi̇rci̇li̇k ve İkli̇m Deği̇şi̇kli̇ği̇ Bakanlığı ve Çelikler Holding, Afşin-Elbistan A Termik Santralı’na yapılması planlanan ek ünitelerin ÇED olumlu raporunun iptaline birkaç gün arayla ayrı ayrı itiraz etti. Bakanlığın itiraz dilekçesinde COP31 Başkanlığının logosu y",
-      "url": "https://www.iklimhaber.org/afsin-elbistandaki-termik-santralda-ek-unite-iptaline-bakanlik-ve-sirketten-itiraz/",
-      "tarih": "2026-08-04T08:25:12+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "79133d340b56",
-      "baslik": "Cem Küçük büyük bir hesaplaşmanın parçası mı? Sıra medyadan kimlere gelecek",
-      "ozet": "Cem Küçük büyük bir hesaplaşmanın parçası mı? Sıra medyadan kimlere gelecek",
-      "url": "https://www.sozcu.com.tr/cem-kucuk-buyuk-bir-hesaplasmanin-parcasi-mi-sira-medyadan-kimlere-gelecek-p342221",
-      "tarih": "2026-08-04T07:56:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "37d682dd0943",
-      "baslik": "YENİ Partili Rızvanoğlu: “Türkiye’nin Doğayla Barışık Bir Çevre Politikasına İhtiyacı Var”",
-      "ozet": "İktidarın çevre alanında kara bir düzen kurduğunu söyleyen YENİ Partili Evrim Rızvanoğlu, “Kişiye özel düzenlemelerle, torba yasalarla, işlevsizleştirilen ÇED süreçleriyle ve ülkeyi parsel parsel ruhsatlayan anlayışla doğayı değil, rantı önceleyen bir sistem kurdular” dedi. YENİ ",
-      "url": "https://www.iklimhaber.org/yeni-partili-rizvanoglu-turkiyenin-dogayla-barisik-bir-cevre-politikasina-ihtiyaci-var/",
-      "tarih": "2026-08-04T07:37:34+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3c4369c7d9b7",
-      "baslik": "Borsa güne düşüşle başladı -4 Ağustos 2026",
-      "ozet": "Borsa güne düşüşle başladı -4 Ağustos 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-4-agustos-2026-p342212",
-      "tarih": "2026-08-04T07:37:13+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
