@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-15T18:17:40.763356+00:00",
+    "guncelleme": "2026-08-16T03:41:15.363398+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6474,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6475,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "377a76296975",
+      "baslik": "Cem Gürdeniz: Türkiye’nin gaz rezervlerini çalacaklar",
+      "ozet": "Cem Gürdeniz: Türkiye’nin gaz rezervlerini çalacaklar",
+      "url": "https://www.sozcu.com.tr/cem-gurdeniz-turkiye-nin-gaz-rezervlerini-calacaklar-p349724",
+      "tarih": "2026-08-16T03:00:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "51ac7d123bd5",
+      "baslik": "Kuzey Ormanları’ndan demiryolu geçecek, 45 bin kesilecek!",
+      "ozet": "Kuzey Ormanları’ndan demiryolu geçecek, 45 bin kesilecek!",
+      "url": "https://www.sozcu.com.tr/kuzey-ormanlari-ndan-demiryolu-gececek-45-bin-kesilecek-p349723",
+      "tarih": "2026-08-16T02:36:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f9f332a4b188",
+      "baslik": "Bodrum’un suyunu madenler tüketiyor",
+      "ozet": "Bodrum’un suyunu madenler tüketiyor",
+      "url": "https://www.sozcu.com.tr/bodrum-un-suyunu-madenler-tuketiyor-p349715",
+      "tarih": "2026-08-16T01:30:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d22beefb948a",
       "baslik": "Çifte dolandırıcılık yöntemi: Gerçek adrese gittiklerinde ortaya çıktı",
@@ -29,6 +59,16 @@
       "tarih": "2026-08-15T17:12:20+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e383fca4af1b",
+      "baslik": "Bağımsız Maden-İş: Bu saatten sonra eylemimiz buradaki 150 işçinin eylemi değil, Türkiye işçi sınıfının eylemidir - Ege Postası",
+      "ozet": "Bağımsız Maden-İş: Bu saatten sonra eylemimiz buradaki 150 işçinin eylemi değil, Türkiye işçi sınıfının eylemidir Ege Postası",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaUxTam9sYjZkbmxxN1ZfZGtiUWdlWVg4SW02NklvUmNLVXVnejZqZXpBNFNqWWFPTW5vTnlKSzhsU3U1a3cwMVNmdjN1a20zRXZEYTczWjlvSTdRQW9STVhiWG9kdjkzUVRMRWNnT192Nl9ZNjJ1b0RaQlFFQXdTeFpqeW0xczB0MkFnOFpsRkVXemdUeWsxUlJLOEdsRjFZUjJ6TzJjUHlyWnFpMGlvOS04VGlvRWhGSjV6UXh5LUoxYzVlZHRrSTdQdWlnVTdNVkltRTBzdVdqcEtxcTFHWVo4TzdKZw?oc=5",
+      "tarih": "2026-08-15T14:21:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -219,6 +259,16 @@
       "tarih": "2026-08-14T07:37:38+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "298f414eabcc",
+      "baslik": "Ninh Binh Polisi: Çevre suçlarına karşı denetimi sıkılaştırıyor ve sert önlemler alıyor. - Vietnam.vn",
+      "ozet": "Ninh Binh Polisi: Çevre suçlarına karşı denetimi sıkılaştırıyor ve sert önlemler alıyor. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmtEUlNrUEJ1aTJjelctcDcyb0NfU0ljVzN1cWxiOG0tMVNXT2RNMkh3TnZWTURVRjc4WDR0clN0bnRsZUNIOHhPOHdJT1l4Ulg1YjUxS3lrVndZM2lySWhnYUVDWDBza1huNnE5YklhZ1c3X2YycGpsMC0yTmdfSnpVZ0VyWTkzSklhUEQ3d3BnZEtWVWdJ?oc=5",
+      "tarih": "2026-08-14T06:19:36+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1960,56 +2010,6 @@
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
-    },
-    {
-      "id": "581620181249",
-      "baslik": "YENİ Partili Rızvanoğlu: “Türkiye Mega Maden Ruhsatlarıyla Parsel Parsel Bölündü”",
-      "ozet": "",
-      "url": "https://www.iklimhaber.org/yeni-partili-rizvanoglu-turkiye-mega-maden-ruhsatlariyla-parsel-parsel-bolundu/",
-      "tarih": "2026-08-04T05:40:47.805092+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "web"
-    },
-    {
-      "id": "e991f5f54e2d",
-      "baslik": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
-      "ozet": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
-      "url": "https://www.sozcu.com.tr/son-dakika-izmir-menderes-belediyesi-ne-operasyon-belediye-baskani-ilkay-cicek-gozaltinda-p342139",
-      "tarih": "2026-08-04T05:39:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "717c6cde97d3",
-      "baslik": "Galatasaray'ın kalecisi tatil için rotayı Karadeniz'e çevirdi: Köyüne gitti, doğayla iç içe vakit geçirdi",
-      "ozet": "Galatasaray'ın kalecisi tatil için rotayı Karadeniz'e çevirdi: Köyüne gitti, doğayla iç içe vakit geçirdi",
-      "url": "https://www.sozcu.com.tr/galatasaray-in-kalecisi-tatil-icin-rotayi-karadeniz-e-cevirdi-koyune-gitti-dogayla-ic-ice-vakit-p342151",
-      "tarih": "2026-08-04T05:28:31+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cfdc649ed29c",
-      "baslik": "2 dönüm arazisi olana müstakil ev müjdesi: Resmi Gazete'de yayınlandı",
-      "ozet": "2 dönüm arazisi olana müstakil ev müjdesi: Resmi Gazete'de yayınlandı",
-      "url": "https://www.sozcu.com.tr/tarim-arazisinde-bungalov-yapma-sartlari-degisti-yeni-arazi-siniri-belli-oldu-p342136",
-      "tarih": "2026-08-04T04:50:59+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1cd8ecb05574",
-      "baslik": "IUCN: Dünya çapında 16 kıyı kuşu türünün var kalma olasılığı düşüyor",
-      "ozet": "",
-      "url": "https://yesilgazete.org/iucn-dunya-capinda-16-kiyi-kusu-turunun-var-kalma-olasiligi-dusuyor/",
-      "tarih": "2026-08-04T04:21:11.585410+00:00",
-      "kaynak": "Yeşil Gazete",
-      "kategori": "Çevre Medyası",
-      "kaynak_turu": "web"
     }
   ],
   "harita_kayitlari": [
@@ -92646,6 +92646,20 @@
       "ozet": "Bir yangın da Elazığ'da! Maden'de alevler hızla ilerliyor, bir köy boşaltıldı Türkiye Gazetesi",
       "lat": 38.7302,
       "lng": 39.2063,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-625203be954d",
+      "baslik": "Balıkesir Havran'daki altın madeni kapasite artışına 'ÇED Olumlu' kararı: 10 bin 711 ağaç kesilecek - Cumhuriyet",
+      "konum": "Balıkesir",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "16.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMTJsQ1F0WGQzQjVJQV9NdGF1eF9yN1o2XzE4a0dSdmVXVGh3VzZtWkpDTV9WNm9pWnJtd3g5SnNYYzktQWRWRDR5cUVVaFhfaXUwNmdXSUNyMFZ1bG05VUdwT1VnRWEtaXMtb0twRndrczBQYzBGWWZ5QUFCbHVCRTZvUm1FZThkUTJuRDhTSjlYVS10ZHlfdmhWei1oOGxLUldicUQ2RFpCTzFkUlZiZnJWWkwtdWpxcFF2VkcweXNneFA4X2g3NmFkZzJCdm4tNnNKcktJV1dJdw?oc=5",
+      "ozet": "Balıkesir Havran'daki altın madeni kapasite artışına 'ÇED Olumlu' kararı: 10 bin 711 ağaç kesilecek Cumhuriyet",
+      "lat": 39.6959,
+      "lng": 27.7884,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
