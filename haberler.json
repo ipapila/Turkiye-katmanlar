@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-16T06:26:07.868451+00:00",
+    "guncelleme": "2026-08-16T09:19:52.727047+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6475,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "b05820438b45",
+      "baslik": "Galatasaray ile anılıyordu: Ahmetcan Kaplan'ın yeni adresi belli oldu",
+      "ozet": "Galatasaray ile anılıyordu: Ahmetcan Kaplan'ın yeni adresi belli oldu",
+      "url": "https://www.sozcu.com.tr/galatasaray-ile-aniliyordu-ahmetcan-kaplan-in-yeni-adresi-belli-oldu-p349835",
+      "tarih": "2026-08-16T09:08:44+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f6185bebfb7c",
       "baslik": "Marmaris’te orman yangını! Çıkarma gemileri devreye girdi",
@@ -1997,16 +2007,6 @@
       "ozet": "NATO nükleer silah yerleştireceği üç ülkeyi seçti",
       "url": "https://www.sozcu.com.tr/nato-nukleer-silah-yerlestirecegi-uc-ulkeyi-secti-p342278",
       "tarih": "2026-08-04T10:33:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ad24eda9c524",
-      "baslik": "Küçük çocuğun tek kelimesi yetti: Fatih Terim'in kızı Merve gece yarısı denize atladı",
-      "ozet": "Küçük çocuğun tek kelimesi yetti: Fatih Terim'in kızı Merve gece yarısı denize atladı",
-      "url": "https://www.sozcu.com.tr/kucuk-cocugun-tek-kelimesi-yetti-fatih-terim-in-kizi-merve-gece-yarisi-denize-atladi-p342272",
-      "tarih": "2026-08-04T10:15:02+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
