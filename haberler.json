@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-17T15:18:29.043606+00:00",
+    "guncelleme": "2026-08-17T18:26:31.916141+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6478,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6479,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "117184cefa61",
+      "baslik": "Müslim Sarı'dan 'Menderes' itirafı: Üyeleri bile 'butlan'ı dinlememiş",
+      "ozet": "Müslim Sarı'dan 'Menderes' itirafı: Üyeleri bile 'butlan'ı dinlememiş",
+      "url": "https://www.sozcu.com.tr/muslim-sari-menderes-aciklamasi-p350263",
+      "tarih": "2026-08-17T18:20:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9a52fcbf0179",
+      "baslik": "Menderes'te AKP kazandı, 'butlan' CHP'sinden açıklama geldi: Kaybetmeye alışın kardeşim",
+      "ozet": "Menderes'te AKP kazandı, 'butlan' CHP'sinden açıklama geldi: Kaybetmeye alışın kardeşim",
+      "url": "https://www.sozcu.com.tr/utku-gumrukcu-menderes-aciklamasi-p350259",
+      "tarih": "2026-08-17T17:53:47+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e28567961528",
+      "baslik": "10 bin kişinin yaşadığı balıkçı kasabasını deniz yutuyor",
+      "ozet": "10 bin kişinin yaşadığı balıkçı kasabasını deniz yutuyor",
+      "url": "https://www.sozcu.com.tr/10-bin-kisinin-yasadigi-balikci-kasabasini-deniz-yutuyor-p350256",
+      "tarih": "2026-08-17T17:27:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f09f906d101d",
       "baslik": "Yunan basını: Türkiye Ege Denizi'ni ikiye bölmeye hazırlanıyor",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-05T10:29:04+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b5b7530f80c1",
-      "baslik": "'Yasak aşk' iddiası ortalığı karıştırdı: Ormanda dehşeti yaşattılar",
-      "ozet": "'Yasak aşk' iddiası ortalığı karıştırdı: Ormanda dehşeti yaşattılar",
-      "url": "https://www.sozcu.com.tr/yasak-ask-iddiasi-ortaligi-karistirdi-ormanda-dehseti-yasattilar-p342613",
-      "tarih": "2026-08-05T10:27:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dc25d810aa00",
-      "baslik": "Çevre ihlallerini kesinlikle cezalandırın. - vietnam.vn",
-      "ozet": "Çevre ihlallerini kesinlikle cezalandırın. vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByYkg2OEZLS1Q3XzkxNDhVREJsVHE4UVFCcWoyQlA5cXlITE5OV19XMGtZRUJLenhycEtoV0JmN3RaM3BUR09MZUZtTFRmRW5kelJnUDJvZmFjXzNqSGZ5VjNtVk9Wb0xUMFN2MA?oc=5",
-      "tarih": "2026-08-05T08:24:18+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "916513d96b6c",
-      "baslik": "Çevre ihlallerini kesinlikle cezalandırın. - Vietnam.vn",
-      "ozet": "Çevre ihlallerini kesinlikle cezalandırın. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByYkg2OEZLS1Q3XzkxNDhVREJsVHE4UVFCcWoyQlA5cXlITE5OV19XMGtZRUJLenhycEtoV0JmN3RaM3BUR09MZUZtTFRmRW5kelJnUDJvZmFjXzNqSGZ5VjNtVk9Wb0xUMFN2MA?oc=5",
-      "tarih": "2026-08-05T08:24:18+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
@@ -92702,6 +92702,20 @@
       "ozet": "Basra'dan İstanbul'da sıcak hava dalgası geliyor: Termometreler 36 dereceye kadar yükselecek",
       "lat": 41.055,
       "lng": 29.0336,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-91e9c9dd3f1d",
+      "baslik": "Çanakkale'de orman yangını - Cumhuriyet",
+      "konum": "Çanakkale",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "17.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43eTVnb2RuNG1FV2dEeXV3UmF2eHI3dUJjaHBzdHZqanlKTkVCSlR1V25pbzUwZUhEUnBKR1ZUUEdpN1M4eFNUNXc5VU81Vy1VY3dKR0ZsN0xLZmx2dllZZzJva2Q4MGFtLU01ZVhMUEpJWjJJaGN6a2ZjQVg?oc=5",
+      "ozet": "Çanakkale'de orman yangını Cumhuriyet",
+      "lat": 40.0423,
+      "lng": 26.4417,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

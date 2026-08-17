@@ -117633,5 +117633,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/basradan-istanbulda-sicak-hava-dalgasi-geliyor-termometreler-36-dereceye-kadar-yukselecek-p350160"
+  },
+  {
+    "id": "tarayici-91e9c9dd3f1d",
+    "tip": "İklim Olayları",
+    "ad": "Çanakkale'de orman yangını - Cumhuriyet",
+    "il": "Çanakkale",
+    "ilce": "",
+    "aciklama": "Çanakkale'de orman yangını Cumhuriyet",
+    "koordinatlar": {
+      "lat": 40.0423,
+      "lng": 26.4417
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "17.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43eTVnb2RuNG1FV2dEeXV3UmF2eHI3dUJjaHBzdHZqanlKTkVCSlR1V25pbzUwZUhEUnBKR1ZUUEdpN1M4eFNUNXc5VU81Vy1VY3dKR0ZsN0xLZmx2dllZZzJva2Q4MGFtLU01ZVhMUEpJWjJJaGN6a2ZjQVg?oc=5"
   }
 ]
