@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-17T12:27:51.190539+00:00",
+    "guncelleme": "2026-08-17T15:18:29.043606+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6478,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "f09f906d101d",
+      "baslik": "Yunan basını: Türkiye Ege Denizi'ni ikiye bölmeye hazırlanıyor",
+      "ozet": "Yunan basını: Türkiye Ege Denizi'ni ikiye bölmeye hazırlanıyor",
+      "url": "https://www.sozcu.com.tr/yunan-basini-turkiye-ege-denizi-ni-ikiye-bolmeye-hazirlaniyor-p350223",
+      "tarih": "2026-08-17T14:17:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "915442fd6b3c",
+      "baslik": "Borcu olanlar için son 15 gün: SGK başvuru takvimini açıkladı",
+      "ozet": "Borcu olanlar için son 15 gün: SGK başvuru takvimini açıkladı",
+      "url": "https://www.sozcu.com.tr/borcu-olanlar-icin-son-15-gun-sgk-basvuru-takvimini-acikladi-p350192",
+      "tarih": "2026-08-17T12:48:07+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c4a2efb23356",
       "baslik": "İddia: Merkez Bankası fonlama faizini indirecek dövizin yükselmesine izin verecek",
@@ -1987,26 +2007,6 @@
       "ozet": "Çevre ihlallerini kesinlikle cezalandırın. Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByYkg2OEZLS1Q3XzkxNDhVREJsVHE4UVFCcWoyQlA5cXlITE5OV19XMGtZRUJLenhycEtoV0JmN3RaM3BUR09MZUZtTFRmRW5kelJnUDJvZmFjXzNqSGZ5VjNtVk9Wb0xUMFN2MA?oc=5",
       "tarih": "2026-08-05T08:24:18+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c8aac4a4184b",
-      "baslik": "Bakanlıktan 5 ilde milyonluk çevre cezası - olusumhaber.com",
-      "ozet": "Bakanlıktan 5 ilde milyonluk çevre cezası olusumhaber.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcUFDaHN2Mk9pRFJ1T0NKOVBBdDNBekJsYW5nTUtoelBvNkluVHY0LW5KOUlZeWM4NE9QUWY5SF9NZ094SGFnZ050RnJiRjhsX0pJeXUyLTYyQm1LS0xvSUxJVGNaMW5SYUpCcExXMkNsbHlJZlRFTTlMZXNtb2daSlNB?oc=5",
-      "tarih": "2026-08-05T08:19:12+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "50f757088288",
-      "baslik": "Bakanlıktan 5 ilde milyonluk çevre cezası - Oluşum Haber",
-      "ozet": "Bakanlıktan 5 ilde milyonluk çevre cezası Oluşum Haber",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcUFDaHN2Mk9pRFJ1T0NKOVBBdDNBekJsYW5nTUtoelBvNkluVHY0LW5KOUlZeWM4NE9QUWY5SF9NZ094SGFnZ050RnJiRjhsX0pJeXUyLTYyQm1LS0xvSUxJVGNaMW5SYUpCcExXMkNsbHlJZlRFTTlMZXNtb2daSlNB?oc=5",
-      "tarih": "2026-08-05T08:19:12+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
