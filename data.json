@@ -117614,5 +117614,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/ege-ve-akdenizde-bazi-bolgeler-deniz-milli-parki-ilan-edildi/"
+  },
+  {
+    "id": "tarayici-1b6e5285b779",
+    "tip": "Ekolojik İhlal",
+    "ad": "Basra'dan İstanbul'da sıcak hava dalgası geliyor: Termometreler 36 dereceye kadar yükselecek",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Basra'dan İstanbul'da sıcak hava dalgası geliyor: Termometreler 36 dereceye kadar yükselecek",
+    "koordinatlar": {
+      "lat": 41.055,
+      "lng": 29.0336
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "17.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/basradan-istanbulda-sicak-hava-dalgasi-geliyor-termometreler-36-dereceye-kadar-yukselecek-p350160"
   }
 ]

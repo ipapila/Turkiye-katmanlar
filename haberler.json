@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-17T09:33:13.495048+00:00",
+    "guncelleme": "2026-08-17T12:27:51.190539+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6477,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6478,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -12,6 +12,46 @@
   },
   "haberler": [
     {
+      "id": "c4a2efb23356",
+      "baslik": "İddia: Merkez Bankası fonlama faizini indirecek dövizin yükselmesine izin verecek",
+      "ozet": "İddia: Merkez Bankası fonlama faizini indirecek dövizin yükselmesine izin verecek",
+      "url": "https://www.sozcu.com.tr/bu-hazirliklar-secimin-ayak-sesleri-mi-p350144",
+      "tarih": "2026-08-17T12:08:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1b6e5285b779",
+      "baslik": "Basra'dan İstanbul'da sıcak hava dalgası geliyor: Termometreler 36 dereceye kadar yükselecek",
+      "ozet": "Basra'dan İstanbul'da sıcak hava dalgası geliyor: Termometreler 36 dereceye kadar yükselecek",
+      "url": "https://www.sozcu.com.tr/basradan-istanbulda-sicak-hava-dalgasi-geliyor-termometreler-36-dereceye-kadar-yukselecek-p350160",
+      "tarih": "2026-08-17T12:07:44+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "699fd62cbc17",
+      "baslik": "Prens Selman, Türkiye'nin dev şirketine ortak oluyor",
+      "ozet": "Prens Selman, Türkiye'nin dev şirketine ortak oluyor",
+      "url": "https://www.sozcu.com.tr/turkiye-nin-dev-sirketi-ortaklik-icin-prens-selman-ile-el-sikisti-p350162",
+      "tarih": "2026-08-17T11:37:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e31bfaa8da63",
+      "baslik": "20 günde üç aylık transfer hesabı",
+      "ozet": "20 günde üç aylık transfer hesabı",
+      "url": "https://www.sozcu.com.tr/20-gunde-uc-aylik-transfer-hesabi-p350154",
+      "tarih": "2026-08-17T11:05:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "76029e43b294",
       "baslik": "Erdoğan El Cezire röportajında Avrupa'ya rest çekti: AB üyeliği artık öncelik değil",
       "ozet": "Erdoğan El Cezire röportajında Avrupa'ya rest çekti: AB üyeliği artık öncelik değil",
@@ -19,6 +59,16 @@
       "tarih": "2026-08-17T08:36:04+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b039be062e8c",
+      "baslik": "Türkiye Karbon Piyasalarını Büyütme Koalisyonu’na Dahil Oldu",
+      "ozet": "14 üye ülkesi bulunan girişimin karbon kredilerine yönelik siyasi ve düzenleyici zemini güçlendirmesi hedefleniyor. Murat Kurum, kasım ayında Türkiye’nin ev sahipliğinde gerçekleştirilecek COP31 zirvesinde karbon kredilerine yönelik küresel talebin artırılmasının öncelikli başlık",
+      "url": "https://www.iklimhaber.org/turkiye-karbon-piyasalarini-buyutme-koalisyonuna-dahil-oldu/",
+      "tarih": "2026-08-17T08:30:12+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
       "kaynak_turu": "rss"
     },
     {
@@ -1959,56 +2009,6 @@
       "tarih": "2026-08-05T08:19:12+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "640930c662eb",
-      "baslik": "Fosil Yakıt Krizinin Türkiye’ye Maliyeti 25 Milyar Doları Bulabilir",
-      "ozet": "İran savaşı ve Hürmüz Boğazı krizinin başlamasından bu yana yükselen fosil yakıt fiyatları Türkiye’ye şimdiden 9,04 milyar dolarlık ek maliyet getirdi. Gerilimin sürmesi halinde bu rakam yıl sonuna kadar 24,59 milyar dolara kadar çıkabilir. Gerilim hızla sona erse bile Türkiye’ni",
-      "url": "https://www.iklimhaber.org/fosil-yakit-krizinin-turkiyeye-maliyeti-25-milyar-dolari-bulabilir/",
-      "tarih": "2026-08-05T08:15:55+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "23b59c67b31f",
-      "baslik": "BM: Şirketler Doğa Kaybı Konusunda Yeterince Hızlı Hareket Etmiyor",
-      "ozet": "BM’nin biyoçeşitlilik şefi, şirketlerin ve finans kuruluşlarının, kârlar, ekonomik büyüme ve küresel tedarik zincirleri üzerinde neden olduğu tehditlere rağmen doğa kaybıyla mücadelede yeterince hızlı hareket etmediğini belirtti. Ekim ayında Ermenistan’da düzenlenecek Biyolojik Ç",
-      "url": "https://www.iklimhaber.org/bm-sirketler-doga-kaybi-konusunda-yeterince-hizli-hareket-etmiyor/",
-      "tarih": "2026-08-05T07:56:39+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "08cb10b78a01",
-      "baslik": "Uçaklar deniz seviyesinin altından havalanıyor",
-      "ozet": "Uçaklar deniz seviyesinin altından havalanıyor",
-      "url": "https://www.sozcu.com.tr/ucaklar-deniz-seviyesinin-altindan-havalaniyor-p342542",
-      "tarih": "2026-08-05T07:31:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b8c6460a1e33",
-      "baslik": "Borsa güne yükselişle başladı -5 Ağustos 2026",
-      "ozet": "Borsa güne yükselişle başladı -5 Ağustos 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-yukselisle-basladi-5-agustos-2026-p342540",
-      "tarih": "2026-08-05T07:23:57+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f5cc3c568f52",
-      "baslik": "Yeni Çalışma: Türkiye’nin Her Bölgesi Sıcağı Farklı Yaşıyor",
-      "ozet": "Isı stresi Türkiye’nin her yerinde aynı şekilde hissedilmiyor. Yapay zeka yöntemleri kullanılarak yapılan yeni bir çalışma, Türkiye’de ısı stresini belirleyen etmenlerin bölgeden bölgeye değiştiğini ortaya koydu. Araştırmaya göre Anadolu’nun iç kesimlerinde kuru hava, Karadeniz v",
-      "url": "https://www.iklimhaber.org/yeni-calisma-turkiyenin-her-bolgesi-sicagi-farkli-yasiyor/",
-      "tarih": "2026-08-05T07:19:39+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -92688,6 +92688,20 @@
       "ozet": "Resmi Gazete’de yayımlanan karara göre, Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları belirlenen saha, “Deniz Milli Parkı” olarak belirlendi. Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları beli",
       "lat": 36.9781,
       "lng": 30.6899,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-1b6e5285b779",
+      "baslik": "Basra'dan İstanbul'da sıcak hava dalgası geliyor: Termometreler 36 dereceye kadar yükselecek",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "17.08.2026",
+      "url": "https://www.sozcu.com.tr/basradan-istanbulda-sicak-hava-dalgasi-geliyor-termometreler-36-dereceye-kadar-yukselecek-p350160",
+      "ozet": "Basra'dan İstanbul'da sıcak hava dalgası geliyor: Termometreler 36 dereceye kadar yükselecek",
+      "lat": 41.055,
+      "lng": 29.0336,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
