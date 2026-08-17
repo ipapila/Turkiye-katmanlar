@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-17T03:42:33.244619+00:00",
+    "guncelleme": "2026-08-17T06:37:43.753511+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6475,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -12,6 +12,36 @@
   },
   "haberler": [
     {
+      "id": "c8381b906ad7",
+      "baslik": "Hesabından para çekenler bunu bilmiyor: 1 dakikalık kullanım bile ücretli",
+      "ozet": "Hesabından para çekenler bunu bilmiyor: 1 dakikalık kullanım bile ücretli",
+      "url": "https://www.sozcu.com.tr/hesabindan-para-cekenler-bunu-bilmiyor-1-dakikalik-kullanim-bile-ucretli-p350013",
+      "tarih": "2026-08-17T05:58:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6a0c30be733b",
+      "baslik": "Doğalgaz kombileri tarih olacak: Satış yasağı geliyor",
+      "ozet": "Doğalgaz kombileri tarih olacak: Satış yasağı geliyor",
+      "url": "https://www.sozcu.com.tr/dogalgaz-kombileri-tarih-olacak-satis-yasagi-geliyor-p350020",
+      "tarih": "2026-08-17T05:57:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "be28d8740137",
+      "baslik": "Manchester'da sokakta yakalanan tacizci, dayak yerken Türkçe konuşmaya başladı",
+      "ozet": "Manchester'da sokakta yakalanan tacizci, dayak yerken Türkçe konuşmaya başladı",
+      "url": "https://www.sozcu.com.tr/manchester-da-sokakta-yakalanan-tacizci-dayak-yerken-turkce-konusmaya-basladi-p350005",
+      "tarih": "2026-08-17T05:27:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "ad0387051d10",
       "baslik": "MHP’li Başkan, madene karşı çıkan halka parmak salladı",
       "ozet": "MHP’li Başkan, madene karşı çıkan halka parmak salladı",
@@ -19,6 +49,16 @@
       "tarih": "2026-08-17T02:30:33+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0e76184a3dbb",
+      "baslik": "Marmaris’te Çevre İhlali Skandalı: Çevreci İsim Koyu Pisletti, Dev Ceza Kesildi - Cumhuriyet",
+      "ozet": "Marmaris’te Çevre İhlali Skandalı: Çevreci İsim Koyu Pisletti, Dev Ceza Kesildi Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHc4YTJjWVJiN3RvU240WjM3OTU0VndDa1JnYTQ2VkhHOW4zeEUtdkJTdDRsaXQ0dUxyTW5GSnpwTThad2Rtb0VVTksySVJHejktaEQxUmNuZ2VvUmc3TENid1kxNUlsN2NRa1Qtd2xRVkNycFlnN0gwUnA5Wk4wM3hOMFZnblFNb05kbVFaNkZxQUVmcU9LS0dYMVhfcjIzZlU5dEg4YUthX0cxLUhreC1NMVF0bWJkYVlISjV4NVc?oc=5",
+      "tarih": "2026-08-17T01:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -539,6 +579,16 @@
       "tarih": "2026-08-13T12:48:51+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "af68f3a206dc",
+      "baslik": "Silivri'de tarlada yangın: Alevler geniş alana yayıldı! - Cumhuriyet",
+      "ozet": "Silivri'de tarlada yangın: Alevler geniş alana yayıldı! Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVl1ZDdDaHZyU01GOVpHLXRJS3ZJa1dGb250SUZZd1ZtVVVOYTJaSEZIOWFlT0NwcEY2aFVESDVCOTFOOGJyemZKMkNJVF83ekc5a1ZkNG9UWTZ6YnJEN21ZaHlhaDh4Y1FoODlTUTRZTmN1cXN4dDJfRnM3OExOV2liTzNSQnFQTzkybktDVUFOejVTaV9CMElFNmx2cjZB?oc=5",
+      "tarih": "2026-08-13T12:47:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1957,56 +2007,6 @@
       "ozet": "ATM'den para çeken herkesi ilgilendiriyor: Yeni dönem resmen başladı",
       "url": "https://www.sozcu.com.tr/atm-den-para-ceken-herkesi-ilgilendiriyor-yeni-donem-resmen-basladi-p342476",
       "tarih": "2026-08-05T05:30:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "63861c5e449d",
-      "baslik": "Altın ve gümüşte yükseliş dalgası: Rallinin nedeni açıklandı",
-      "ozet": "Altın ve gümüşte yükseliş dalgası: Rallinin nedeni açıklandı",
-      "url": "https://www.sozcu.com.tr/altin-ve-gumuste-yukselis-dalgasi-p342458",
-      "tarih": "2026-08-05T05:10:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "94542cd76bd9",
-      "baslik": "Filtresiz Wanda'yı tanıyana aşk olsun",
-      "ozet": "Filtresiz Wanda'yı tanıyana aşk olsun",
-      "url": "https://www.sozcu.com.tr/filtresiz-wanda-yi-taniyana-ask-olsun-p342466",
-      "tarih": "2026-08-05T04:51:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fd95b3f1aae5",
-      "baslik": "Meclis’te ‘çerçeve yasa’ tartışan vekiller, madencinin sorununu görmedi: Madencilerin aileleri direnişe katıldı - Cumhuriyet",
-      "ozet": "Meclis’te ‘çerçeve yasa’ tartışan vekiller, madencinin sorununu görmedi: Madencilerin aileleri direnişe katıldı Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcjFlM2RCRmR0TzJrZjhadGljTXp0ZEhubzhzUkp2dmppenh1T25KT1VDeHliWVhSVVJDNVcwblREOU9VVHlVbzdXRVhsSXJoQU0zTmtrWHU2OXNVeWlYVVFpYUZsbFhMalRBZkF5Q2FrTEVVaEViVVBON1V3OFBiblc5WmpibXdqcHNBVGY3ZVJXOFBIRW5Pa0FBRUtRNnZsWUN2NllLQ3VJOUd3MlZLZjZjVHNLYlR2SGJDYnZlUmw5V1dFZU1NaW9hbENqYU1EMTN6S2I1UXlxb2tlaTdYNENXRVNsNFpY?oc=5",
-      "tarih": "2026-08-05T01:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "56ed2e6dae53",
-      "baslik": "Ülkenin verimli tarım arazileri tuzla kaplandı",
-      "ozet": "Ülkenin verimli tarım arazileri tuzla kaplandı",
-      "url": "https://www.sozcu.com.tr/ulkenin-verimli-tarim-arazileri-tuzla-kaplandi-p342393",
-      "tarih": "2026-08-04T18:32:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "df99b8c98cc4",
-      "baslik": "Fast-food devi resmen iflas etti",
-      "ozet": "Fast-food devi resmen iflas etti",
-      "url": "https://www.sozcu.com.tr/fast-food-devi-resmen-iflas-etti-p342354",
-      "tarih": "2026-08-04T15:14:32+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
