@@ -117576,5 +117576,43 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMTJsQ1F0WGQzQjVJQV9NdGF1eF9yN1o2XzE4a0dSdmVXVGh3VzZtWkpDTV9WNm9pWnJtd3g5SnNYYzktQWRWRDR5cUVVaFhfaXUwNmdXSUNyMFZ1bG05VUdwT1VnRWEtaXMtb0twRndrczBQYzBGWWZ5QUFCbHVCRTZvUm1FZThkUTJuRDhTSjlYVS10ZHlfdmhWei1oOGxLUldicUQ2RFpCTzFkUlZiZnJWWkwtdWpxcFF2VkcweXNneFA4X2g3NmFkZzJCdm4tNnNKcktJV1dJdw?oc=5"
+  },
+  {
+    "id": "tarayici-8bf13e33bf47",
+    "tip": "Ekolojik İhlal",
+    "ad": "Son dakika... İstanbul ve çevre illerde hissedilen deprem! - Cumhuriyet",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Son dakika... İstanbul ve çevre illerde hissedilen deprem! Cumhuriyet",
+    "koordinatlar": {
+      "lat": 40.9617,
+      "lng": 29.0063
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "17.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3k2SlJGQ3JhdlJsN0RZRDhabEg2dTI4VkZqTnVIYThlVnFxUExyN3JVaDNRQ21HaTRwclRJdDI3WHZzdGNfdEtZU0hkNUNGOUpnY05CYTdYMjlPQlMzZTRlczd6dURJaWhvVUdsdGZmZTNIUkFjOGQ5YUhaS2VwVFpCaUtZeHhBa3Y4U2hZNWNEdTQ?oc=5"
+  },
+  {
+    "id": "tarayici-a3b582fd486b",
+    "tip": "Milli Park",
+    "ad": "Ege ve Akdeniz’de Bazı Bölgeler Deniz Milli Parkı İlan Edildi",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Resmi Gazete’de yayımlanan karara göre, Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları belirlenen saha, “Deniz Milli Parkı” olarak belirlendi. Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları beli",
+    "koordinatlar": {
+      "lat": 36.9781,
+      "lng": 30.6899
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "17.08.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/ege-ve-akdenizde-bazi-bolgeler-deniz-milli-parki-ilan-edildi/"
   }
 ]

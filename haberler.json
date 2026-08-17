@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-17T06:37:43.753511+00:00",
+    "guncelleme": "2026-08-17T09:33:13.495048+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6475,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6477,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "76029e43b294",
+      "baslik": "Erdoğan El Cezire röportajında Avrupa'ya rest çekti: AB üyeliği artık öncelik değil",
+      "ozet": "Erdoğan El Cezire röportajında Avrupa'ya rest çekti: AB üyeliği artık öncelik değil",
+      "url": "https://www.sozcu.com.tr/erdogan-el-cezire-roportajinda-avrupa-ya-rest-cekti-ab-uyeligi-artik-oncelik-degil-p350105",
+      "tarih": "2026-08-17T08:36:04+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "80bd7da0f956",
+      "baslik": "Orman Yangınlarında Kritik Eşik: 30-30-30",
+      "ozet": "Hava sıcaklığının 30 derecenin üzerine çıktığı, nemin %30’un altına düştüğü ve rüzgar hızının saatte 30 kilometreyi aştığı dönemlerde orman yangını riskinin kritik seviyeye ulaştığını belirten Prof. Dr. Tolunay, “30-30-30 koşullarının yaşandığı günlerde kırmızı alarm seviyesinde ",
+      "url": "https://www.iklimhaber.org/orman-yanginlarinda-kritik-esik-30-30-30/",
+      "tarih": "2026-08-17T07:09:52+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a3b582fd486b",
+      "baslik": "Ege ve Akdeniz’de Bazı Bölgeler Deniz Milli Parkı İlan Edildi",
+      "ozet": "Resmi Gazete’de yayımlanan karara göre, Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları belirlenen saha, “Deniz Milli Parkı” olarak belirlendi. Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları beli",
+      "url": "https://www.iklimhaber.org/ege-ve-akdenizde-bazi-bolgeler-deniz-milli-parki-ilan-edildi/",
+      "tarih": "2026-08-17T06:56:35+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c8381b906ad7",
       "baslik": "Hesabından para çekenler bunu bilmiyor: 1 dakikalık kullanım bile ücretli",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-05T07:19:39+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b469694a8e29",
-      "baslik": "Küresel fırtınaya karşı altın kalkanı: Güney Kore 13 yıl sonra sahada!",
-      "ozet": "Küresel fırtınaya karşı altın kalkanı: Güney Kore 13 yıl sonra sahada!",
-      "url": "https://www.sozcu.com.tr/kuresel-firtinaya-karsi-altin-kalkani-guney-kore-13-yil-sonra-sahada-p342526",
-      "tarih": "2026-08-05T06:56:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "48c218240d23",
-      "baslik": "Piyasalarda Hürmüz Boğazı iyimserliği: Petrol çakıldı, borsalar rekora koştu!",
-      "ozet": "Piyasalarda Hürmüz Boğazı iyimserliği: Petrol çakıldı, borsalar rekora koştu!",
-      "url": "https://www.sozcu.com.tr/piyasalarda-hurmuz-bogazi-iyimserligi-petrol-cakildi-borsalar-rekora-kostu-p342497",
-      "tarih": "2026-08-05T06:15:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bc220cc887d2",
-      "baslik": "ATM'den para çeken herkesi ilgilendiriyor: Yeni dönem resmen başladı",
-      "ozet": "ATM'den para çeken herkesi ilgilendiriyor: Yeni dönem resmen başladı",
-      "url": "https://www.sozcu.com.tr/atm-den-para-ceken-herkesi-ilgilendiriyor-yeni-donem-resmen-basladi-p342476",
-      "tarih": "2026-08-05T05:30:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -92660,6 +92660,34 @@
       "ozet": "Balıkesir Havran'daki altın madeni kapasite artışına 'ÇED Olumlu' kararı: 10 bin 711 ağaç kesilecek Cumhuriyet",
       "lat": 39.6959,
       "lng": 27.7884,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-8bf13e33bf47",
+      "baslik": "Son dakika... İstanbul ve çevre illerde hissedilen deprem! - Cumhuriyet",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "17.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3k2SlJGQ3JhdlJsN0RZRDhabEg2dTI4VkZqTnVIYThlVnFxUExyN3JVaDNRQ21HaTRwclRJdDI3WHZzdGNfdEtZU0hkNUNGOUpnY05CYTdYMjlPQlMzZTRlczd6dURJaWhvVUdsdGZmZTNIUkFjOGQ5YUhaS2VwVFpCaUtZeHhBa3Y4U2hZNWNEdTQ?oc=5",
+      "ozet": "Son dakika... İstanbul ve çevre illerde hissedilen deprem! Cumhuriyet",
+      "lat": 40.9617,
+      "lng": 29.0063,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a3b582fd486b",
+      "baslik": "Ege ve Akdeniz’de Bazı Bölgeler Deniz Milli Parkı İlan Edildi",
+      "konum": "Antalya",
+      "kategori": "Milli Park",
+      "siddet": "Takip Ediliyor",
+      "tarih": "17.08.2026",
+      "url": "https://www.iklimhaber.org/ege-ve-akdenizde-bazi-bolgeler-deniz-milli-parki-ilan-edildi/",
+      "ozet": "Resmi Gazete’de yayımlanan karara göre, Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları belirlenen saha, “Deniz Milli Parkı” olarak belirlendi. Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları beli",
+      "lat": 36.9781,
+      "lng": 30.6899,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
