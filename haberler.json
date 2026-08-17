@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-16T18:17:39.391257+00:00",
+    "guncelleme": "2026-08-17T03:42:33.244619+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6475,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "ad0387051d10",
+      "baslik": "MHP’li Başkan, madene karşı çıkan halka parmak salladı",
+      "ozet": "MHP’li Başkan, madene karşı çıkan halka parmak salladı",
+      "url": "https://www.sozcu.com.tr/mhp-li-baskan-madene-karsi-cikan-halka-parmak-salladi-p349955",
+      "tarih": "2026-08-17T02:30:33+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d257435d8bca",
+      "baslik": "Marmaris’te Çevre İhlali Skandalı: Çevreci İsim Koyu Pisletti, Dev Ceza Kesildi - cumhuriyet.com.tr",
+      "ozet": "Marmaris’te Çevre İhlali Skandalı: Çevreci İsim Koyu Pisletti, Dev Ceza Kesildi cumhuriyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHc4YTJjWVJiN3RvU240WjM3OTU0VndDa1JnYTQ2VkhHOW4zeEUtdkJTdDRsaXQ0dUxyTW5GSnpwTThad2Rtb0VVTksySVJHejktaEQxUmNuZ2VvUmc3TENid1kxNUlsN2NRa1Qtd2xRVkNycFlnN0gwUnA5Wk4wM3hOMFZnblFNb05kbVFaNkZxQUVmcU9LS0dYMVhfcjIzZlU5dEg4YUthX0cxLUhreC1NMVF0bWJkYVlISjV4NVc?oc=5",
+      "tarih": "2026-08-17T01:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fd4b986dd381",
+      "baslik": "Flört uygulamasından tanışıp yemeğe çıktı, gelen hesabı görünce şoke oldu",
+      "ozet": "Flört uygulamasından tanışıp yemeğe çıktı, gelen hesabı görünce şoke oldu",
+      "url": "https://www.sozcu.com.tr/flort-uygulamasiyla-tanisip-yemege-cikan-adamin-hesabi-gorunce-soke-oldu-p349952",
+      "tarih": "2026-08-16T21:28:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0673539ec7f0",
       "baslik": "Burj Khalifa'yı bile geride bırakacak: 1 kilometrelik dev binanın 430 metresi tamamlandı",
@@ -1977,36 +2007,6 @@
       "ozet": "Fast-food devi resmen iflas etti",
       "url": "https://www.sozcu.com.tr/fast-food-devi-resmen-iflas-etti-p342354",
       "tarih": "2026-08-04T15:14:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d0c512e950d9",
-      "baslik": "100 adet savaş tankını denizin dibine bıraktılar",
-      "ozet": "100 adet savaş tankını denizin dibine bıraktılar",
-      "url": "https://www.sozcu.com.tr/100-savas-tankini-denizin-dibine-biraktilar-p342352",
-      "tarih": "2026-08-04T15:02:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6c0f3c447f4c",
-      "baslik": "Sinop'ta orman yangını: 10 hektarlık alan zarar gördü - Cumhuriyet",
-      "ozet": "Sinop'ta orman yangını: 10 hektarlık alan zarar gördü Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWwyeE1wTHpvUXNRRWxzUFNxRl9wbVc0VklHVXUwZ0k5MnplQ0t3cmxSODJXeGJZenVzVGd6SzdlNk9kT1dmZWJCOWdrVGxIYmx5dVo2VGJteHdRUFM3X01nU3RaeDVvYUE4eGFIRFBLbjJ2ODVSQmI0UG51T1FLSUFDMzJzLS1IQVY3TEZwcmFoZ2xMWmh5aDlqRTdFU2s?oc=5",
-      "tarih": "2026-08-04T12:45:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8a19ada11529",
-      "baslik": "Ölüdeniz'de tatil kabusa döndü! Tur teknesinde korku dolu anlar",
-      "ozet": "Ölüdeniz'de tatil kabusa döndü! Tur teknesinde korku dolu anlar",
-      "url": "https://www.sozcu.com.tr/oludeniz-de-tatil-kabusa-dondu-tur-teknesinde-korku-dolu-anlar-p342300",
-      "tarih": "2026-08-04T11:56:49+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
