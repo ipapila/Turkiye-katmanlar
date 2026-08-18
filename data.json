@@ -117652,5 +117652,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43eTVnb2RuNG1FV2dEeXV3UmF2eHI3dUJjaHBzdHZqanlKTkVCSlR1V25pbzUwZUhEUnBKR1ZUUEdpN1M4eFNUNXc5VU81Vy1VY3dKR0ZsN0xLZmx2dllZZzJva2Q4MGFtLU01ZVhMUEpJWjJJaGN6a2ZjQVg?oc=5"
+  },
+  {
+    "id": "tarayici-406b34c911bf",
+    "tip": "İklim Olayları",
+    "ad": "Elazığ'da orman yangını - Cumhuriyet",
+    "il": "Elazığ",
+    "ilce": "",
+    "aciklama": "Elazığ'da orman yangını Cumhuriyet",
+    "koordinatlar": {
+      "lat": 38.7705,
+      "lng": 39.1205
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "18.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YNVA4T0RrWkppbF96NlQtYVE5TVFZekhpSVBpcXR6VnhmQWZEZTN4MkphdjRSd2Z3TlNfZXpJc1h3dWZiS2FIdFYyZExEc1V1RTI0Nmh2M05BSnUtYllfU1JNdXRGc3pZamVCdFhkQVI3VGFEVWNCVA?oc=5"
   }
 ]

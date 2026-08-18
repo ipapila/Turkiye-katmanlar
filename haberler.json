@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-18T03:38:12.231525+00:00",
+    "guncelleme": "2026-08-18T06:29:11.992783+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6479,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6480,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "dc39fc56536c",
+      "baslik": "Denizin ortasına 13 bin güneş paneli kurdular: Evdeki hesap çarşıya uymadı",
+      "ozet": "Denizin ortasına 13 bin güneş paneli kurdular: Evdeki hesap çarşıya uymadı",
+      "url": "https://www.sozcu.com.tr/denizden-gunes-enerjisi-ureteceklerdi-ama-evdeki-hesap-carsiya-uymadi-p350332",
+      "tarih": "2026-08-18T05:41:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f45b32ad95e9",
+      "baslik": "Telefonda bu iki cümleyi duyarsanız hemen kapatın: Hesabınız anında boşaltılıyor",
+      "ozet": "Telefonda bu iki cümleyi duyarsanız hemen kapatın: Hesabınız anında boşaltılıyor",
+      "url": "https://www.sozcu.com.tr/telefonda-bu-iki-cumleyi-duyarsaniz-hemen-kapatin-hesabiniz-aninda-bosaltiliyor-p350336",
+      "tarih": "2026-08-18T05:27:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "57dc8e77e76e",
       "baslik": "Erdoğan bir hafta sonra onayladı; 'çerçeve yasa' Resmi Gazete’de yayımlandı",
@@ -1987,26 +2007,6 @@
       "ozet": "Menderes Belediyesi’ne operasyon: Başkan yardımcısı ortak operasyonla yakalandı",
       "url": "https://www.sozcu.com.tr/menderes-belediyesi-ne-operasyon-baskan-yardimcisi-ortak-operasyonla-yakalandi-p342712",
       "tarih": "2026-08-05T17:15:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ece57f770a29",
-      "baslik": "Evleri artık böyle ısıtacaklar: 129 canlı paneli tek tek binanın cephesine yerleştirdiler",
-      "ozet": "Evleri artık böyle ısıtacaklar: 129 canlı paneli tek tek binanın cephesine yerleştirdiler",
-      "url": "https://www.sozcu.com.tr/evleri-artik-boyle-isitacaklar-129-canli-paneli-tek-tek-binanin-cephesine-yerlestirdiler-p342696",
-      "tarih": "2026-08-05T15:45:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b98f4537dae9",
-      "baslik": "WhatsApp’ta hesaplar durduk yere kapanmaya başladı",
-      "ozet": "WhatsApp’ta hesaplar durduk yere kapanmaya başladı",
-      "url": "https://www.sozcu.com.tr/whatsapp-ta-hesaplar-durduk-yere-kapanmaya-basladi-p342640",
-      "tarih": "2026-08-05T12:01:01+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92716,6 +92716,20 @@
       "ozet": "Çanakkale'de orman yangını Cumhuriyet",
       "lat": 40.0423,
       "lng": 26.4417,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-406b34c911bf",
+      "baslik": "Elazığ'da orman yangını - Cumhuriyet",
+      "konum": "Elazığ",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "18.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YNVA4T0RrWkppbF96NlQtYVE5TVFZekhpSVBpcXR6VnhmQWZEZTN4MkphdjRSd2Z3TlNfZXpJc1h3dWZiS2FIdFYyZExEc1V1RTI0Nmh2M05BSnUtYllfU1JNdXRGc3pZamVCdFhkQVI3VGFEVWNCVA?oc=5",
+      "ozet": "Elazığ'da orman yangını Cumhuriyet",
+      "lat": 38.7705,
+      "lng": 39.1205,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
