@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-17T18:26:31.916141+00:00",
+    "guncelleme": "2026-08-18T03:38:12.231525+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6479,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "57dc8e77e76e",
+      "baslik": "Erdoğan bir hafta sonra onayladı; 'çerçeve yasa' Resmi Gazete’de yayımlandı",
+      "ozet": "Erdoğan bir hafta sonra onayladı; 'çerçeve yasa' Resmi Gazete’de yayımlandı",
+      "url": "https://www.sozcu.com.tr/cerceve-yasa-resmi-gazete-de-18-agustos-2026-p350292",
+      "tarih": "2026-08-18T03:32:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ab26bc53d576",
+      "baslik": "Ağır çekim yıkım",
+      "ozet": "Ağır çekim yıkım",
+      "url": "https://www.sozcu.com.tr/agir-cekim-yikim-p350283",
+      "tarih": "2026-08-18T02:30:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "62c174676024",
+      "baslik": "100 yıl önce diktikleri bitki kıyıları ele geçirdi: Şimdi tek tek söküyorlar",
+      "ozet": "100 yıl önce diktikleri bitki kıyıları ele geçirdi: Şimdi tek tek söküyorlar",
+      "url": "https://www.sozcu.com.tr/100-yil-once-diktikleri-bitki-kiyilari-ele-gecirdi-simdi-tek-tek-sokuyorlar-p350287",
+      "tarih": "2026-08-17T20:34:04+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "117184cefa61",
       "baslik": "Müslim Sarı'dan 'Menderes' itirafı: Üyeleri bile 'butlan'ı dinlememiş",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-05T12:01:01+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6494a4149753",
-      "baslik": "Gram altında 9 bin 100 lira öngörüsü: Yükseliş için o tarihe işaret edildi",
-      "ozet": "Gram altında 9 bin 100 lira öngörüsü: Yükseliş için o tarihe işaret edildi",
-      "url": "https://www.sozcu.com.tr/abd-li-banka-jpmorgan-gram-altinin-9-bin-100-liraya-ulasacagi-tarihi-acikladi-p342630",
-      "tarih": "2026-08-05T11:30:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "64f2bfc9a6eb",
-      "baslik": "Erdoğan'a suikast girişimi öncesi gizli toplantı",
-      "ozet": "Erdoğan'a suikast girişimi öncesi gizli toplantı",
-      "url": "https://www.sozcu.com.tr/erdogan-a-suikast-girisimi-oncesi-gizli-toplanti-p342622",
-      "tarih": "2026-08-05T11:04:10+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "50c7741012c5",
-      "baslik": "Savaşın Kazananları Petrol Devleri Oldu",
-      "ozet": "Dünyanın en büyük 8 petrol üreticisi, ABD ile İran arasındaki çatışma nedeniyle milyarlarca dolarlık beklenmedik bir kâr elde etti. Bu şirketler, Nisan ayından Haziran sonuna kadar yaklaşık 93 milyar dolar kâr elde ederken, bu durum, “insanların yaşadığı acılar üzerinden kazanç s",
-      "url": "https://www.iklimhaber.org/savasin-kazananlari-petrol-devleri-oldu/",
-      "tarih": "2026-08-05T10:29:04+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
