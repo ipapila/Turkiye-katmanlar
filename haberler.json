@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-18T12:29:50.551146+00:00",
+    "guncelleme": "2026-08-18T15:23:36.780611+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6480,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6482,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "e747b32f0d15",
+      "baslik": "Deniz Seki’den hastane odasından yeni mesaj: Tedavisinde yeni aşamaya geçti",
+      "ozet": "Deniz Seki’den hastane odasından yeni mesaj: Tedavisinde yeni aşamaya geçti",
+      "url": "https://www.sozcu.com.tr/deniz-seki-den-hastane-odasindan-yeni-mesaj-tedavisinde-yeni-asamaya-gecti-p350532",
+      "tarih": "2026-08-18T13:28:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "698d9fbb4341",
       "baslik": "Karadeniz'e yeni ulaşım sistemi geliyor: Tarih verildi",
@@ -29,6 +39,16 @@
       "tarih": "2026-08-18T12:19:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bf31b89f0b83",
+      "baslik": "TMMOB Maden Mühendisleri Odası'ndan, Yıldızlar SSS Holding çağrısı: 'Ruhsatlarını iptal edin' - Cumhuriyet",
+      "ozet": "TMMOB Maden Mühendisleri Odası'ndan, Yıldızlar SSS Holding çağrısı: 'Ruhsatlarını iptal edin' Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMTFQTVZ6Q3ZJa2wwTk9naXhzbzJ6d0g2bzJEV3BFYUlBZDFaWVAyWm85QlAzWWNlQUZBQnZHVXZxWXFCY2doTFh1aG9nOTYxcVB5WWxkVGhidjdpUGtvd19sdkNZOGhvVjExTnQwOUJOUUVDckVWLWJwc2lsUm5QVFN4WEF5ZXV5bVF6YTR5LTJKUmtKVXV6cHVoLWFVMnJpWlJNT1k4SU9OZEtNZ3I0QVZBSHdRcDN4ZHN0S3FIV3JvQy0tNFdBd0xhYnM4YnMt?oc=5",
+      "tarih": "2026-08-18T09:55:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -449,6 +469,16 @@
       "tarih": "2026-08-15T17:12:20+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "981ad377cb4b",
+      "baslik": "Akhisar’da orman yangını: Ekipler seferber oldu - Cumhuriyet",
+      "ozet": "Akhisar’da orman yangını: Ekipler seferber oldu Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckFyMnpPQlkwSGdVNUQ5bEdkSDgzY3lJR0hNUFdaMGp5RWRWbXFyQ0tQSEtSellxTFNQUFRkNlVKZ09CWU9mbllOTmpNWnR5ZFA5SjZTUFZYSmtJT1l1OGNpTWVwYTVva2t6VGdoYXRJQWtvWlcxSWE0czdyYXFhc3praURoNW5MQWhnQ1cweGhDWVd0aHpB?oc=5",
+      "tarih": "2026-08-15T16:35:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -929,6 +959,16 @@
       "tarih": "2026-08-13T07:43:57+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a179f8f908bf",
+      "baslik": "Aydın'daki orman yangını 2'nci gününde: Ekiplerin müdahalesi sürüyor - Cumhuriyet",
+      "ozet": "Aydın'daki orman yangını 2'nci gününde: Ekiplerin müdahalesi sürüyor Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW9YczlhR2xsbVExT0FxOVdldEEtSm55MDNyR0J5NXFHb2xjUDZ6c3hmbndWQnlNQkN5ZlluMFB4N3czSEZxQ2plbms4NHpqZ0ttc3NrQTJYbjZWdjNZNjFIem1qdUhKVFI0bGFIUkJQc0lEaEpvVF8tR2htb090Tlh6VEF3OEZLb2daUHhwcGlhUVJ0RXdlRzBQT29CZDJ1eW00?oc=5",
+      "tarih": "2026-08-13T07:20:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1969,46 +2009,6 @@
       "tarih": "2026-08-06T08:31:50+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8408b442389d",
-      "baslik": "Maden suyunu cam şişeden içmeyin uyarısı yapıldı",
-      "ozet": "Maden suyunu cam şişeden içmeyin uyarısı yapıldı",
-      "url": "https://www.sozcu.com.tr/maden-suyunu-cam-siseden-icmeyin-uyarisi-yapildi-p342871",
-      "tarih": "2026-08-06T08:27:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a5c162cfd4d5",
-      "baslik": "Vergi dairesi yurt dışına gidenleri tek tek inceleyecek",
-      "ozet": "Vergi dairesi yurt dışına gidenleri tek tek inceleyecek",
-      "url": "https://www.sozcu.com.tr/vergi-dairesi-yurt-disina-gidenleri-tek-tek-inceleyecek-p342854",
-      "tarih": "2026-08-06T07:46:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9f7b29e96b52",
-      "baslik": "Türk tiyatrosunun usta ismi Bilgesu Erenus 83 yaşında hayatını kaybetti",
-      "ozet": "Türk tiyatrosunun usta ismi Bilgesu Erenus 83 yaşında hayatını kaybetti",
-      "url": "https://www.sozcu.com.tr/turk-tiyatrosunun-usta-ismi-bilgesu-erenus-83-yasinda-hayatini-kaybetti-p342836",
-      "tarih": "2026-08-06T07:00:52+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "35af1f0fe9ea",
-      "baslik": "Birden fazla banka hesabı olan herkesi ilgilendiriyor",
-      "ozet": "Birden fazla banka hesabı olan herkesi ilgilendiriyor",
-      "url": "https://www.sozcu.com.tr/birden-fazla-banka-hesabi-olan-herkesi-ilgilendiriyor-p342792",
-      "tarih": "2026-08-06T05:30:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -92730,6 +92730,34 @@
       "ozet": "Elazığ'da orman yangını Cumhuriyet",
       "lat": 38.7705,
       "lng": 39.1205,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a179f8f908bf",
+      "baslik": "Aydın'daki orman yangını 2'nci gününde: Ekiplerin müdahalesi sürüyor - Cumhuriyet",
+      "konum": "Aydın",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "18.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW9YczlhR2xsbVExT0FxOVdldEEtSm55MDNyR0J5NXFHb2xjUDZ6c3hmbndWQnlNQkN5ZlluMFB4N3czSEZxQ2plbms4NHpqZ0ttc3NrQTJYbjZWdjNZNjFIem1qdUhKVFI0bGFIUkJQc0lEaEpvVF8tR2htb090Tlh6VEF3OEZLb2daUHhwcGlhUVJ0RXdlRzBQT29CZDJ1eW00?oc=5",
+      "ozet": "Aydın'daki orman yangını 2'nci gününde: Ekiplerin müdahalesi sürüyor Cumhuriyet",
+      "lat": 37.9669,
+      "lng": 27.9599,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-dab262ccf83d",
+      "baslik": "Kahramanmaraş’ta orman yangını: Havadan ve karadan müdahaleye ediliyor - Cumhuriyet",
+      "konum": "Kahramanmaraş",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "18.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX1dXSTctaFRVZG01Zi1CYThGQjlUMC0yMVdKNXNpWWd0a2RYNkF5YUFKMFhZNmludzRpak5EakVGNUluWGJNZnBSclJkVzduQzBvdzBFemc2Y29XTWZBRWhYSG5LcXRLbDRqVk45Q01fbnVRTHA5ZGpvdk41TVZDTnhabWVDc1BMeDJLZHpNZzZYQkJNM3ZJYkp6YkZfQ3VOcG41MTBUQ3NfVmFYcDhZa1JTaTRyQQ?oc=5",
+      "ozet": "Kahramanmaraş’ta orman yangını: Havadan ve karadan müdahaleye ediliyor Cumhuriyet",
+      "lat": 37.53,
+      "lng": 37.0498,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
