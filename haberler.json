@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-18T09:24:37.313535+00:00",
+    "guncelleme": "2026-08-18T12:29:50.551146+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6480,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "698d9fbb4341",
+      "baslik": "Karadeniz'e yeni ulaşım sistemi geliyor: Tarih verildi",
+      "ozet": "Karadeniz'e yeni ulaşım sistemi geliyor: Tarih verildi",
+      "url": "https://www.sozcu.com.tr/karadeniz-e-yeni-ulasim-sistemi-geliyor-tarih-verildi-p350511",
+      "tarih": "2026-08-18T12:26:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b9e1f7198070",
+      "baslik": "Karadeniz ve Marmara'dan fışkırıyor: Bu yıl üç balık hem bol hem ucuz olacak",
+      "ozet": "Karadeniz ve Marmara'dan fışkırıyor: Bu yıl üç balık hem bol hem ucuz olacak",
+      "url": "https://www.sozcu.com.tr/karadeniz-ve-marmara-dan-fiskiriyor-bu-yil-uc-balik-hem-bol-hem-ucuz-olacak-p350498",
+      "tarih": "2026-08-18T12:19:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "86a34e2ffa29",
       "baslik": "El Nino ile Beraber Yeni Sıcaklık Rekorları Kapıda",
@@ -1987,26 +2007,6 @@
       "ozet": "Birden fazla banka hesabı olan herkesi ilgilendiriyor",
       "url": "https://www.sozcu.com.tr/birden-fazla-banka-hesabi-olan-herkesi-ilgilendiriyor-p342792",
       "tarih": "2026-08-06T05:30:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7a52aa7ad3fc",
-      "baslik": "Türk şirketinden Avrupa'ya kritik yatırım: Yeni şirket resmen kuruldu",
-      "ozet": "Türk şirketinden Avrupa'ya kritik yatırım: Yeni şirket resmen kuruldu",
-      "url": "https://www.sozcu.com.tr/turk-sirketinden-avrupa-ya-kritik-yatirim-yeni-sirket-resmen-kuruldu-p342786",
-      "tarih": "2026-08-06T05:15:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e2b9bea587c6",
-      "baslik": "Restoranın sıra dışı konsepti gündem oldu: Çıplak yemeğin bedeli dudak uçuklattı",
-      "ozet": "Restoranın sıra dışı konsepti gündem oldu: Çıplak yemeğin bedeli dudak uçuklattı",
-      "url": "https://www.sozcu.com.tr/restoranin-sira-disi-konsepti-gundem-oldu-ciplak-yemegin-bedeli-dudak-ucuklatti-p342781",
-      "tarih": "2026-08-06T04:57:13+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
