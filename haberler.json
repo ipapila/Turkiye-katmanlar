@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-18T15:23:36.780611+00:00",
+    "guncelleme": "2026-08-18T18:25:59.963282+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6482,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "94f934644437",
+      "baslik": "Avrupa'da yılın transferi resmen açıklandı! Rodri'nin yeni adresi Barcelona oldu",
+      "ozet": "Avrupa'da yılın transferi resmen açıklandı! Rodri'nin yeni adresi Barcelona oldu",
+      "url": "https://www.sozcu.com.tr/avrupa-da-yilin-transferi-resmen-aciklandi-rodri-nin-yeni-adresi-barcelona-oldu-p350582",
+      "tarih": "2026-08-18T17:09:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a77b08056ebc",
+      "baslik": "ABD'nin en yetkili kurumu resmen açıkladı: Sonbahar sonu ve kış başında hiç görülmemiş olaylara kendinizi hazırlayın",
+      "ozet": "ABD'nin en yetkili kurumu resmen açıkladı: Sonbahar sonu ve kış başında hiç görülmemiş olaylara kendinizi hazırlayın",
+      "url": "https://www.sozcu.com.tr/2027-rekor-sicaklara-sahne-olacak-super-el-nino-kapida-p350567",
+      "tarih": "2026-08-18T15:54:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f218722ea2d6",
+      "baslik": "Galatasaray giden yıldızını geri alıyor: Resmi görüşmeler başladı",
+      "ozet": "Galatasaray giden yıldızını geri alıyor: Resmi görüşmeler başladı",
+      "url": "https://www.sozcu.com.tr/galatasaray-giden-yildizini-geri-aliyor-resmi-gorusmeler-basladi-p350564",
+      "tarih": "2026-08-18T15:41:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e747b32f0d15",
       "baslik": "Deniz Seki’den hastane odasından yeni mesaj: Tedavisinde yeni aşamaya geçti",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-07T06:31:53+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c95e2e267ccb",
-      "baslik": "Kelebekler Dünya’yı İklim Değişikliğine Karşı Uyarıyor",
-      "ozet": "Yeni bir araştırma, kelebeklerin iklim değişikliğine bağlı olarak yaşam alanlarını değiştirerek sürekli hareket halinde olduklarını, coğrafi dağılım alanlarını ya genişlettiklerini ya da daralttıklarını ve farklı rakımlara göç ettiklerini ortaya koydu. Uzmanlar bunun bir uyarı si",
-      "url": "https://www.iklimhaber.org/kelebekler-dunyayi-iklim-degisikligine-karsi-uyariyor/",
-      "tarih": "2026-08-06T11:31:31+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8777893adf67",
-      "baslik": "Altında tavan kırıldı, tırmanış durmak bilmiyor: Borcu olan mutsuz, birikimi olan mutlu",
-      "ozet": "Altında tavan kırıldı, tırmanış durmak bilmiyor: Borcu olan mutsuz, birikimi olan mutlu",
-      "url": "https://www.sozcu.com.tr/altinda-tavan-kirildi-tirmanis-durmak-bilmiyor-borcu-olan-mutsuz-birikimi-olan-mutlu-p342908",
-      "tarih": "2026-08-06T10:26:29+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a8e75821d7dd",
-      "baslik": "Ege Denizi’nin En Büyük Mercan Ormanı Keşfedildi",
-      "ozet": "“Denizlerin Ormanı: Mercanlar Projesi” kapsamında, Gökçeada ile Yunanistan’ın Semadirek Adası arasında yürütülen araştırmada, Türkiye kara sularında 70 ila 120 metre derinlikte ve 2 kilometreden fazla uzunlukta, Ege Denizi’ndeki en büyük mercan ormanı keşfedildi. Ege Denizi’ndeki",
-      "url": "https://www.iklimhaber.org/ege-denizinin-en-buyuk-mercan-ormani-kesfedildi/",
-      "tarih": "2026-08-06T08:31:50+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
