@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-19T06:29:51.637424+00:00",
+    "guncelleme": "2026-08-19T09:26:02.921556+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6483,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "0303da0295eb",
+      "baslik": "Türk maden devine müjdeli haber: Veliaht geliyor",
+      "ozet": "Türk maden devine müjdeli haber: Veliaht geliyor",
+      "url": "https://www.sozcu.com.tr/turk-maden-devine-mujdeli-haber-veliaht-geliyor-p350763",
+      "tarih": "2026-08-19T08:48:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4b757eae2108",
+      "baslik": "İznik Gölü Can Çekişiyor",
+      "ozet": "350 Türkiye, “Gerçek Sebep: Fosil Yakıtlar” kampanyası kapsamında İznik Gölü’nde pankart açarak iklim krizinin sulak alanlar üzerindeki yıkıcı etkisine dikkat çekti. İklim değişikliğiyle mücadele için enerji dönüşümü üzerine çalışmalarda bulunan 350 Türkiye, Gerçek Sebep: Fosil Y",
+      "url": "https://www.iklimhaber.org/iznik-golu-can-cekisiyor/",
+      "tarih": "2026-08-19T08:25:25+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ff7369a77db7",
+      "baslik": "Yenilenebilir Enerji Üretimde Payını Artırıyor",
+      "ozet": "Türkiye’nin elektrik kurulu gücünde son bir yıldaki artışın %88’i yenilenebilir enerji kaynaklarından geldi. Yenilenebilir enerji kapasitesindeki büyümede ise güneş ve rüzgar öne çıktı. Enerji Piyasası Düzenleme Kurumu’nun (EPDK) 2025 ve 2026’nın ocak-haziran dönemlerine ilişkin ",
+      "url": "https://www.iklimhaber.org/yenilenebilir-enerji-uretimde-payini-artiriyor/",
+      "tarih": "2026-08-19T08:00:24+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "69a2397cadd2",
+      "baslik": "Akdeniz Hızla Isınıyor: Kitlesel Ölümler Yaşanabilir",
+      "ozet": "Yeni bir araştırma, Avrupa sularında kaydedilen rekor yükseklikteki deniz yüzeyi sıcaklıklarının iklim değişikliğinden kaynaklandığını gösterdi. Bu yaz, İrlanda’dan Akdeniz’e kadar uzanan bir bölgede deniz sıcak dalgaları yaşandı ve bazı bölgelerde deniz yüzeyi sıcaklıkları norma",
+      "url": "https://www.iklimhaber.org/akdeniz-hizla-isiniyor-kitlesel-olumler-yasanabilir/",
+      "tarih": "2026-08-19T07:22:16+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4a3e3305227a",
+      "baslik": "İklim İnkârcılığı Sözlüğü-8: “Uçaklardan Yayılan Kimyasallarla İklim Kontrol Ediliyor”",
+      "ozet": "İnkârcı hikâyeye göre, uçaklardan yayılan gazlarla iklim yapay olarak değiştiriliyor. Amaç ise gizli güçlerin iklim değişiyor algısı yaratarak dünyaya egemen olmayı ve nüfusu azaltmayı hedeflemeleri. Üzerinde onlarca komplo teorisi ve ipe sapa gelmez hikâye yaratılan uçak izlerin",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-8-ucaklardan-yayilan-kimyasallarla-iklim-kontrol-ediliyor/",
+      "tarih": "2026-08-19T06:58:47+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b45ce3b3b479",
       "baslik": "Ege ve Akdeniz’de restleşme",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-08-07T10:17:37+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9bd36772d386",
-      "baslik": "Süper Lig'de fırtınalar estirmişti: Yeni adresi şaşırttı",
-      "ozet": "Süper Lig'de fırtınalar estirmişti: Yeni adresi şaşırttı",
-      "url": "https://www.sozcu.com.tr/super-lig-de-firtinalar-estirmisti-yeni-adresi-sasirtti-p343264",
-      "tarih": "2026-08-07T10:10:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "21062c9d5b01",
-      "baslik": "Yunan basını: Türk ve Yunan savaş uçakları Akdeniz'de it dalaşına girdi",
-      "ozet": "Yunan basını: Türk ve Yunan savaş uçakları Akdeniz'de it dalaşına girdi",
-      "url": "https://www.sozcu.com.tr/yunan-basini-turk-ve-yunan-savas-ucaklari-akdeniz-de-it-dalasina-girdi-p343244",
-      "tarih": "2026-08-07T09:29:44+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c3c25238dc79",
-      "baslik": "Kuraklık Kömürü de Vurdu: Gözler Türkiye’ye Çevrildi",
-      "ozet": "Avrupa’da artan kuraklık ve düşen nehir seviyeleri kömürlü termik santralları vurdu. Kömürün aşırı su tüketimi ve neden olduğu kirlilik 37 aktif kömürlü termik santrala sahip Türkiye için de büyük bir tehdit oluşturuyor. Uzmanlar COP31 Başkanı Türkiye’nin su varlıklarını korumak ",
-      "url": "https://www.iklimhaber.org/kuraklik-komuru-de-vurdu-gozler-turkiyeye-cevrildi/",
-      "tarih": "2026-08-07T09:17:17+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7f7ac3485444",
-      "baslik": "Altay Bayındır'ın yeni takımı belli oldu, resmi imzayı attı",
-      "ozet": "Altay Bayındır'ın yeni takımı belli oldu, resmi imzayı attı",
-      "url": "https://www.sozcu.com.tr/altay-bayindir-in-yeni-takimi-belli-oldu-resmi-imzayi-atti-p343234",
-      "tarih": "2026-08-07T09:13:31+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "edbdc8468f0c",
-      "baslik": "81 İlde “İl İklim Değişikliği Koordinasyon Kurulu” Kuruluyor",
-      "ozet": "İlgili yönetmelikle 81 ilde “İl İklim Değişikliği Koordinasyon Kurulu” kurulacak ve il düzeyinde iklim eylemi yalnızca belediye veya tek bir kurumun çalışması olmaktan çıkarılarak, vali koordinasyonunda merkezi kurumların taşra birimleri ile yerel yönetimler, meslek kuruluşları, ",
-      "url": "https://www.iklimhaber.org/81-ilde-il-iklim-degisikligi-koordinasyon-kurulu-kuruluyor/",
-      "tarih": "2026-08-07T07:05:43+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
