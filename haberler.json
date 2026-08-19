@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-19T15:23:13.538698+00:00",
+    "guncelleme": "2026-08-19T18:22:30.319998+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6483,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "51cbd3470917",
+      "baslik": "Tarımı ayakta tutan dev göl haritadan silindi",
+      "ozet": "Tarımı ayakta tutan dev göl haritadan silindi",
+      "url": "https://www.sozcu.com.tr/tarimi-ayakta-tutan-dev-gol-haritadan-silindi-p350897",
+      "tarih": "2026-08-19T17:09:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f552c5698270",
       "baslik": "Günde 7 saat mesai yapıyorlar: Orman yangınlarına karşı 18 eşeği görevlendirdiler",
@@ -1997,16 +2007,6 @@
       "ozet": "Son dakika...İşçi konteynerinde yangın",
       "url": "https://www.sozcu.com.tr/son-dakika-isci-konteynerinde-yangin-p343335",
       "tarih": "2026-08-07T14:19:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bb07254b8e35",
-      "baslik": "Altında yükseliş kapıda mı? Uzman isimden ezber bozan tahmin!",
-      "ozet": "Altında yükseliş kapıda mı? Uzman isimden ezber bozan tahmin!",
-      "url": "https://www.sozcu.com.tr/altinda-yukselis-kapida-mi-uzman-isimden-ezber-bozan-tahmin-p343305",
-      "tarih": "2026-08-07T12:18:37+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
