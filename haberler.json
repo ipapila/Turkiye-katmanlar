@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-19T12:29:27.218867+00:00",
+    "guncelleme": "2026-08-19T15:23:13.538698+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6483,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "f552c5698270",
+      "baslik": "Günde 7 saat mesai yapıyorlar: Orman yangınlarına karşı 18 eşeği görevlendirdiler",
+      "ozet": "Günde 7 saat mesai yapıyorlar: Orman yangınlarına karşı 18 eşeği görevlendirdiler",
+      "url": "https://www.sozcu.com.tr/gunde-7-saat-mesai-yapiyorlar-orman-yanginlarina-karsi-18-esegi-gorevlendirdiler-p350863",
+      "tarih": "2026-08-19T14:09:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e7c74c41f4f0",
+      "baslik": "Vakko'nun veliahtı sevgilisiyle Bodrum'da: Önce denize girdi, sonra fotoğrafını çekti",
+      "ozet": "Vakko'nun veliahtı sevgilisiyle Bodrum'da: Önce denize girdi, sonra fotoğrafını çekti",
+      "url": "https://www.sozcu.com.tr/vakko-nun-veliahti-sevgilisiyle-bodrum-da-once-denize-girdi-sonra-fotografini-cekti-p350849",
+      "tarih": "2026-08-19T13:26:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0303da0295eb",
       "baslik": "Türk maden devine müjdeli haber: Veliaht geliyor",
@@ -1987,26 +2007,6 @@
       "ozet": "Altında yükseliş kapıda mı? Uzman isimden ezber bozan tahmin!",
       "url": "https://www.sozcu.com.tr/altinda-yukselis-kapida-mi-uzman-isimden-ezber-bozan-tahmin-p343305",
       "tarih": "2026-08-07T12:18:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3c18162ff749",
-      "baslik": "Serdar Dursun'un yeni adresi belli oldu",
-      "ozet": "Serdar Dursun'un yeni adresi belli oldu",
-      "url": "https://www.sozcu.com.tr/serdar-dursun-un-yeni-adresi-belli-oldu-p343278",
-      "tarih": "2026-08-07T11:06:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f7e0a1570a42",
-      "baslik": "4 katlı bina yüksekliğindeki denizaltı karadan yürütülerek denize indirildi",
-      "ozet": "4 katlı bina yüksekliğindeki denizaltı karadan yürütülerek denize indirildi",
-      "url": "https://www.sozcu.com.tr/4-katli-bina-yuksekligindeki-denizalti-karadan-yurutulerek-denize-indirildi-p343266",
-      "tarih": "2026-08-07T10:17:37+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
