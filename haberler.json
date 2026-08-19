@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-18T18:25:59.963282+00:00",
+    "guncelleme": "2026-08-19T03:39:43.925499+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6482,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6483,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "b45ce3b3b479",
+      "baslik": "Ege ve Akdeniz’de restleşme",
+      "ozet": "Ege ve Akdeniz’de restleşme",
+      "url": "https://www.sozcu.com.tr/ege-ve-akdeniz-de-restlesme-p350640",
+      "tarih": "2026-08-19T02:30:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bdb3598c5b98",
+      "baslik": "Erdoğan, AKP’li Tevfik Göksu’nun büyükelçi kardeşini merkeze çekti",
+      "ozet": "Erdoğan, AKP’li Tevfik Göksu’nun büyükelçi kardeşini merkeze çekti",
+      "url": "https://www.sozcu.com.tr/erdogan-akp-li-tevfik-goksu-nun-buyukelci-kardesini-merkeze-cekti-p350620",
+      "tarih": "2026-08-19T02:30:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a4ba475842f4",
+      "baslik": "Denize indirmek için 278 taşıyıcı kullandılar: Donanmanın yeni devi suyla buluştu",
+      "ozet": "Denize indirmek için 278 taşıyıcı kullandılar: Donanmanın yeni devi suyla buluştu",
+      "url": "https://www.sozcu.com.tr/denize-indirmek-icin-278-tasiyici-kullandilar-donanmanin-yeni-devi-suyla-bulustu-p350630",
+      "tarih": "2026-08-18T22:00:49+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "94f934644437",
       "baslik": "Avrupa'da yılın transferi resmen açıklandı! Rodri'nin yeni adresi Barcelona oldu",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-07T07:05:43+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5b5dc0b810e3",
-      "baslik": "Kuzey Ege’de Bir İlk: Bozcaada’da Sert Mercan Transplantasyonu Gerçekleştirildi",
-      "ozet": "Balıkçılık baskısı ve çıpalama nedeniyle substratından kopan 50 mercan kolonisi, bilimsel yöntemlerle yeniden doğal yaşam alanlarına yerleştirildi. Bu uygulama, Türkiye denizlerinde nesli tehlike altındaki bir sert mercan türü üzerinde gerçekleştirilen ikinci transplantasyon çalı",
-      "url": "https://www.iklimhaber.org/kuzey-egede-bir-ilk-bozcaadada-sert-mercan-transplantasyonu-gerceklestirildi/",
-      "tarih": "2026-08-07T06:57:44+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6f02ea474ea7",
-      "baslik": "İklim İnkârcılığı Sözlüğü-6: “Küresel Isınma Varsa Temmuz Ayında Hava Neden Serindi?”",
-      "ozet": "Temmuz ortasında 20’li derecelerde gezinen sıcaklıklar ve aniden bastıran sağanaklar iklim inkarcılarının “Hani küresel ısınma?” sorusunu gündeme taşıdı. Bilimsel gerçek ise net: İklim değişikliği. İklim krizinin son yıllarda hayatımıza soktuğu bir gerçek, mevsim normalleri dışın",
-      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-6-kuresel-isinma-varsa-temmuz-ayinda-hava-neden-serindi/",
-      "tarih": "2026-08-07T06:47:46+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ab2ab80d233c",
-      "baslik": "Erdoğan'dan AKP'lilere kritik talimat: Bunu iyi anlatın",
-      "ozet": "Erdoğan'dan AKP'lilere kritik talimat: Bunu iyi anlatın",
-      "url": "https://www.sozcu.com.tr/erdogan-dan-akp-lilere-kritik-talimat-bunu-iyi-anlatin-p343162",
-      "tarih": "2026-08-07T06:31:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -92758,6 +92758,20 @@
       "ozet": "Kahramanmaraş’ta orman yangını: Havadan ve karadan müdahaleye ediliyor Cumhuriyet",
       "lat": 37.53,
       "lng": 37.0498,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-3c59647202c0",
+      "baslik": "Manisa Büyükşehir Belediyesi Akhisar'daki Çevre İhlalini Temizledi: Atık ve Molozlar Kaldırıldı - Balıkesir Gerçek Haber",
+      "konum": "Balıkesir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "19.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYnh5UHhwV0d1UGVlMXdSM0hPalAyaTVDWlNrOVJlNWVQLWtKRUZwcGJ0dWd2aUpIYzFqM3pKZkU4NlNzc01uOTJ1dXVWalBldmhQQnBlS3gtclZLanloSlRBalM5Y3h3QU1KemtqZFVvajhGQ0ZsdzV2bXd4cGl2LXRwNWFoNGcwdHRueGRnU2VZYlNUNmZEOGZkMGtwZlluTkI2UlJZVGpkZnFfRVBaZWJuNGJidVY0YzVDSXp3eUZEMFRCS2k2ZGhCWUxXREdSdE1EeU1MaXEtUkU?oc=5",
+      "ozet": "Manisa Büyükşehir Belediyesi Akhisar'daki Çevre İhlalini Temizledi: Atık ve Molozlar Kaldırıldı Balıkesir Gerçek Haber",
+      "lat": 39.639,
+      "lng": 27.8272,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
