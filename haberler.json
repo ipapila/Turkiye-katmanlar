@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-20T12:32:12.001998+00:00",
+    "guncelleme": "2026-08-20T15:26:19.693768+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6486,
+    "harita_kayit_sayisi": 6487,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -92814,6 +92814,20 @@
       "ozet": "Muğla'da 30 Maden Projesine ÇED Olumlu Kararı Demokrat İzmir Gazetesi",
       "lat": 38.3761,
       "lng": 27.105,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-7be193f9e7ad",
+      "baslik": "Ekoloji Toplantısı Van’da başladı - gazetevan.com",
+      "konum": "Van",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "20.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV2Z2cUhaakx4bm80ejEwby1MTlk1NTFjTjBFZWpmTUVnYngzVWFScFBpZEVSZDdsSFBJX2NjbDl6UmdEWnNlUk9zSml5U2tYX3g4aHZoMnROdm9FYmpEU0Z6ZjZ3SWhwc1RFMHRQMlR3UWJwSFBpYm5qOXpjWVBzeg?oc=5",
+      "ozet": "Ekoloji Toplantısı Van’da başladı gazetevan.com",
+      "lat": 38.5806,
+      "lng": 43.4032,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
