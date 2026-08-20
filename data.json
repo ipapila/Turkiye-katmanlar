@@ -117728,5 +117728,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYnh5UHhwV0d1UGVlMXdSM0hPalAyaTVDWlNrOVJlNWVQLWtKRUZwcGJ0dWd2aUpIYzFqM3pKZkU4NlNzc01uOTJ1dXVWalBldmhQQnBlS3gtclZLanloSlRBalM5Y3h3QU1KemtqZFVvajhGQ0ZsdzV2bXd4cGl2LXRwNWFoNGcwdHRueGRnU2VZYlNUNmZEOGZkMGtwZlluTkI2UlJZVGpkZnFfRVBaZWJuNGJidVY0YzVDSXp3eUZEMFRCS2k2ZGhCWUxXREdSdE1EeU1MaXEtUkU?oc=5"
+  },
+  {
+    "id": "tarayici-5951719836b3",
+    "tip": "Ekolojik İhlal",
+    "ad": "Balıkesir'deki yangın Kütahya'ya ilerliyor! Kamyondan çıkan yangın saatlerdir devam ediyor",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "Balıkesir'deki yangın Kütahya'ya ilerliyor! Kamyondan çıkan yangın saatlerdir devam ediyor",
+    "koordinatlar": {
+      "lat": 39.6097,
+      "lng": 27.9045
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "20.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/sindirgidaki-orman-yangini-kutahya-sinirina-yaklasti-p350985"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-20T03:39:58.919800+00:00",
+    "guncelleme": "2026-08-20T06:31:59.305343+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6483,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6484,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "a6b5b6b830fb",
+      "baslik": "Komşunun nükleer harp başlık sayısını açıklarken sesi titredi",
+      "ozet": "Komşunun nükleer harp başlık sayısını açıklarken sesi titredi",
+      "url": "https://www.sozcu.com.tr/komsunun-nukleer-harp-baslik-sayisini-aciklarken-sesi-titredi-p351009",
+      "tarih": "2026-08-20T06:21:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "16803ed8f79c",
+      "baslik": "Tuşladıktan sonra geri dönüşü olmuyor: Banka hesabınızda 1 kuruş bile kalmıyor",
+      "ozet": "Tuşladıktan sonra geri dönüşü olmuyor: Banka hesabınızda 1 kuruş bile kalmıyor",
+      "url": "https://www.sozcu.com.tr/banka-hesabi-olanlar-icin-yeni-karar-sifreyi-veren-hem-suclu-sayiliyor-hem-dolandiriliyor-p350984",
+      "tarih": "2026-08-20T05:43:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5951719836b3",
+      "baslik": "Balıkesir'deki yangın Kütahya'ya ilerliyor! Kamyondan çıkan yangın saatlerdir devam ediyor",
+      "ozet": "Balıkesir'deki yangın Kütahya'ya ilerliyor! Kamyondan çıkan yangın saatlerdir devam ediyor",
+      "url": "https://www.sozcu.com.tr/sindirgidaki-orman-yangini-kutahya-sinirina-yaklasti-p350985",
+      "tarih": "2026-08-20T05:42:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "50771dea3815",
+      "baslik": "2 çocuğu olanın borcu tamamen silinecek: 2 şart var",
+      "ozet": "2 çocuğu olanın borcu tamamen silinecek: 2 şart var",
+      "url": "https://www.sozcu.com.tr/2-cocugu-olanin-borcu-tamamen-silinecek-2-sart-var-p350973",
+      "tarih": "2026-08-20T05:11:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d14036e5e2a1",
       "baslik": "Nur Batur'dan medreseyi savunan Nagehan Alcı'yı köşeye sıkıştıran soru",
@@ -1967,46 +2007,6 @@
       "ozet": "Yargıtay'dan çalışana müjde: Kıdem tazminatında hesap değişti",
       "url": "https://www.sozcu.com.tr/yargitay-dan-calisana-mujde-kidem-tazminatinda-hesap-degisti-p343429",
       "tarih": "2026-08-08T05:26:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "79b713e23a3b",
-      "baslik": "37 gün geçti, Atatürk’ün portresi hâlâ konulmadı",
-      "ozet": "37 gün geçti, Atatürk’ün portresi hâlâ konulmadı",
-      "url": "https://www.sozcu.com.tr/37-gun-gecti-ataturk-un-portresi-hala-konulmadi-p343414",
-      "tarih": "2026-08-08T02:30:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ecb2fed4ddf8",
-      "baslik": "Enflasyon sebep aile yıkımı sonuç",
-      "ozet": "Enflasyon sebep aile yıkımı sonuç",
-      "url": "https://www.sozcu.com.tr/enflasyon-sebep-aile-yikimi-sonuc-p343413",
-      "tarih": "2026-08-08T02:20:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9a0f6e2e6a3d",
-      "baslik": "10 milyarlık borç hal esnafını vurdu",
-      "ozet": "10 milyarlık borç hal esnafını vurdu",
-      "url": "https://www.sozcu.com.tr/10-milyarlik-borc-hal-esnafini-vurdu-p343410",
-      "tarih": "2026-08-08T01:59:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3e44c6beda8e",
-      "baslik": "DEM Parti ve YENİ Parti arasında 'Demirtaş' gerginliği! Salonda sesler aniden yükseldi",
-      "ozet": "DEM Parti ve YENİ Parti arasında 'Demirtaş' gerginliği! Salonda sesler aniden yükseldi",
-      "url": "https://www.sozcu.com.tr/dem-parti-ve-yeni-parti-arasinda-demirtas-gerginligi-salonda-sesler-aniden-yukseldi-p343370",
-      "tarih": "2026-08-07T18:26:48+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92772,6 +92772,20 @@
       "ozet": "Manisa Büyükşehir Belediyesi Akhisar'daki Çevre İhlalini Temizledi: Atık ve Molozlar Kaldırıldı Balıkesir Gerçek Haber",
       "lat": 39.639,
       "lng": 27.8272,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-5951719836b3",
+      "baslik": "Balıkesir'deki yangın Kütahya'ya ilerliyor! Kamyondan çıkan yangın saatlerdir devam ediyor",
+      "konum": "Balıkesir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "20.08.2026",
+      "url": "https://www.sozcu.com.tr/sindirgidaki-orman-yangini-kutahya-sinirina-yaklasti-p350985",
+      "ozet": "Balıkesir'deki yangın Kütahya'ya ilerliyor! Kamyondan çıkan yangın saatlerdir devam ediyor",
+      "lat": 39.6097,
+      "lng": 27.9045,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
