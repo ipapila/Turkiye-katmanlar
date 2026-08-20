@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-20T09:25:44.660117+00:00",
+    "guncelleme": "2026-08-20T12:32:12.001998+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6485,
+    "harita_kayit_sayisi": 6486,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "ca3b48e4bdbe",
+      "baslik": "Aynı anda 500 tanesini doğaya saldılar mucizeyi getirdi",
+      "ozet": "Aynı anda 500 tanesini doğaya saldılar mucizeyi getirdi",
+      "url": "https://www.sozcu.com.tr/ayni-anda-500-tanesini-dogaya-saldilar-mucizeyi-getirdi-p351154",
+      "tarih": "2026-08-20T12:16:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e63e85f2620d",
+      "baslik": "Galatasaray yeni yıldızı Batrakov'u resmen duyurdu",
+      "ozet": "Galatasaray yeni yıldızı Batrakov'u resmen duyurdu",
+      "url": "https://www.sozcu.com.tr/galatasaray-yeni-yildizi-batrakov-u-resmen-duyurdu-p351120",
+      "tarih": "2026-08-20T11:49:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "906e75df99a1",
+      "baslik": "Isı Stresi 60 Yaş ve Üzeri için Alarm Veriyor",
+      "ozet": "Yaşlı yetişkinler, sanayi öncesi döneme kıyasla yalnızca 1,5 derecelik küresel ısınmada bile sağlığa zararlı ısı stresine maruz kalabilecekler. Yeni bir çalışma aşırı sıcaklıkların özellikle 60 yaş ve üzerindekiler için daha önce sanılandan çok daha tehlikeli olduğuna dikkat çeki",
+      "url": "https://www.iklimhaber.org/isi-stresi-60-yas-ve-uzeri-icin-alarm-veriyor/",
+      "tarih": "2026-08-20T11:23:51+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "61bef2570405",
       "baslik": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
@@ -569,6 +599,16 @@
       "tarih": "2026-08-17T02:30:33+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a7cc16603394",
+      "baslik": "Marmaris’te skandal: Çevreci isim koyu kirletti, dev ceza kesildi - Cumhuriyet",
+      "ozet": "Marmaris’te skandal: Çevreci isim koyu kirletti, dev ceza kesildi Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3ZQY3pvLVdxWDlqTDZCMDF5ZTUtTkJxNDJ4aHNUeU5IelloZHJ6TXRGWXB4YzhfbkktTkl6NEZfNWZlWmNLOUExRzRhMlRIRXphR3lsc0ZXWXV1T3YxRmdzejZZdzBqZUVLZWVzVG5PYXp3M0RkT05vYVcwQ0NHSzk3VW1ZWm9udWc3dlJkX2s3WDVqTUxwS0dNZDEzZHNiVE5UNHhMejBsMlFDS1E?oc=5",
+      "tarih": "2026-08-17T01:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1967,46 +2007,6 @@
       "ozet": "Menderes Belediye Başkanı görevden uzaklaştırıldı",
       "url": "https://www.sozcu.com.tr/menderes-belediye-baskani-gorevden-uzaklastirildi-p343593",
       "tarih": "2026-08-08T18:15:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "22c5c26bf6e0",
-      "baslik": "Maden faciasının firari hükümlüsü 8 yıl sonra yakalandı - bursadabugun.com",
-      "ozet": "Maden faciasının firari hükümlüsü 8 yıl sonra yakalandı bursadabugun.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTJBbHM5T3Y4TjJPUUJKZm9taXIxOFN4WHdya3VyX1psaUI3Y0RiS25yTGhpRlhyTl9TLVVVb1dQaGIzeHR4QlJkTXNSUC0xLUF6QW5XQXBubWRtQmVEeUxJUGluYXJCTWlrU0xPaExhc0VIRko2NDI3UHJYVW10THRhRk5JeVRTeWR3WWU1eFlZbVVLVVdfcFBISmtQMEdhemE4enRPNkXSAagBQVVfeXFMTnEyQWxzOU92OE4yT1FCSmZvbWlyMThTeFh3cmt1cl9abGlCN2NEYktuckxoaUZYck5fUy1VVW9XUGhiM3h0eEJSZE1zUlAtMS1BekFuV0Fwbm1kbUJlRHlMSVBpbmFyQk1pa1NMT2hMYXNFSEZKNjQyN1ByWFVtdEx0YUZOSXlUU3lkd1llNXhZWW1VS1VXX3BQSEprUDBHYXphOHp0TzZF?oc=5",
-      "tarih": "2026-08-08T16:53:54+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c5381d8043c4",
-      "baslik": "Maden faciasının firari hükümlüsü 8 yıl sonra yakalandı - Bursada Bugün",
-      "ozet": "Maden faciasının firari hükümlüsü 8 yıl sonra yakalandı Bursada Bugün",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTJBbHM5T3Y4TjJPUUJKZm9taXIxOFN4WHdya3VyX1psaUI3Y0RiS25yTGhpRlhyTl9TLVVVb1dQaGIzeHR4QlJkTXNSUC0xLUF6QW5XQXBubWRtQmVEeUxJUGluYXJCTWlrU0xPaExhc0VIRko2NDI3UHJYVW10THRhRk5JeVRTeWR3WWU1eFlZbVVLVVdfcFBISmtQMEdhemE4enRPNkXSAagBQVVfeXFMTnEyQWxzOU92OE4yT1FCSmZvbWlyMThTeFh3cmt1cl9abGlCN2NEYktuckxoaUZYck5fUy1VVW9XUGhiM3h0eEJSZE1zUlAtMS1BekFuV0Fwbm1kbUJlRHlMSVBpbmFyQk1pa1NMT2hMYXNFSEZKNjQyN1ByWFVtdEx0YUZOSXlUU3lkd1llNXhZWW1VS1VXX3BQSEprUDBHYXphOHp0TzZF?oc=5",
-      "tarih": "2026-08-08T16:53:54+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bc1bef43d936",
-      "baslik": "ABD basını yazdı: Türkiye Karadeniz'de gemicilik faaliyetlerini kısıtlayacak",
-      "ozet": "ABD basını yazdı: Türkiye Karadeniz'de gemicilik faaliyetlerini kısıtlayacak",
-      "url": "https://www.sozcu.com.tr/abd-basini-yazdi-turkiye-karadeniz-de-gemicilik-faaliyetlerini-kisitlayacak-p343518",
-      "tarih": "2026-08-08T11:34:21+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ade37d7b8530",
-      "baslik": "Anket sonucu dikkat çekti: Erdoğan’ı geçen iki isim belli oldu",
-      "ozet": "Anket sonucu dikkat çekti: Erdoğan’ı geçen iki isim belli oldu",
-      "url": "https://www.sozcu.com.tr/anket-sonucu-dikkat-cekti-iste-erdogan-i-gecen-iki-isim-p343520",
-      "tarih": "2026-08-08T11:28:03+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92800,6 +92800,20 @@
       "ozet": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
       "lat": 39.9985,
       "lng": 32.802,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-5809d9ced111",
+      "baslik": "Muğla'da 30 Maden Projesine ÇED Olumlu Kararı - Demokrat İzmir Gazetesi",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "20.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHp0NUpUZUZkajZkcHdsWFJuWi1aYXA0LUVTTFhJUnZHMG45OTVqM2J2QmtsVGNjOGNfUWhib0p5WTA3Q2twd1FyZWFRZlNkS2EyTUEzakxkM29yNlN4aWF2a0I0MmFxTWQxSkVxLThIbVItZlNDcXhKN0NUYk5qOVB0Zndqc1BuX1Y0VnFndDN1THPSAaABQVVfeXFMT2JQaGJaVDdjenZ1OTZScTA3Q2dsWWVGMDFmY0QzQ2hxc1g2UVRteVd3VUtVYnpBME42dThWOG53MW9vcnVxeFMyenlQSE5ZVHFQTVdvZWtCU3ZjWDMyaGpydl9ZMlZhajlHYm92OGx4bzFMaGozdTFhOGJwTWgzTHFUQy1wY3Vzb3hMcjltZ0FNZ0NiTDM0SGRNR0JjemJ2QQ?oc=5",
+      "ozet": "Muğla'da 30 Maden Projesine ÇED Olumlu Kararı Demokrat İzmir Gazetesi",
+      "lat": 38.3761,
+      "lng": 27.105,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

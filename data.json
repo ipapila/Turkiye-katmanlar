@@ -117766,5 +117766,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/ankara-da-cinsel-iliski-tuzagi-p351073"
+  },
+  {
+    "id": "tarayici-5809d9ced111",
+    "tip": "Ekolojik İhlal",
+    "ad": "Muğla'da 30 Maden Projesine ÇED Olumlu Kararı - Demokrat İzmir Gazetesi",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Muğla'da 30 Maden Projesine ÇED Olumlu Kararı Demokrat İzmir Gazetesi",
+    "koordinatlar": {
+      "lat": 38.3761,
+      "lng": 27.105
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "20.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHp0NUpUZUZkajZkcHdsWFJuWi1aYXA0LUVTTFhJUnZHMG45OTVqM2J2QmtsVGNjOGNfUWhib0p5WTA3Q2twd1FyZWFRZlNkS2EyTUEzakxkM29yNlN4aWF2a0I0MmFxTWQxSkVxLThIbVItZlNDcXhKN0NUYk5qOVB0Zndqc1BuX1Y0VnFndDN1THPSAaABQVVfeXFMT2JQaGJaVDdjenZ1OTZScTA3Q2dsWWVGMDFmY0QzQ2hxc1g2UVRteVd3VUtVYnpBME42dThWOG53MW9vcnVxeFMyenlQSE5ZVHFQTVdvZWtCU3ZjWDMyaGpydl9ZMlZhajlHYm92OGx4bzFMaGozdTFhOGJwTWgzTHFUQy1wY3Vzb3hMcjltZ0FNZ0NiTDM0SGRNR0JjemJ2QQ?oc=5"
   }
 ]
