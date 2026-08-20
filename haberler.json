@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-19T18:22:30.319998+00:00",
+    "guncelleme": "2026-08-20T03:39:58.919800+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6483,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "d14036e5e2a1",
+      "baslik": "Nur Batur'dan medreseyi savunan Nagehan Alcı'yı köşeye sıkıştıran soru",
+      "ozet": "Nur Batur'dan medreseyi savunan Nagehan Alcı'yı köşeye sıkıştıran soru",
+      "url": "https://www.sozcu.com.tr/nur-batur-dan-medreseyi-savunan-nagehan-alci-yi-koseye-sikistiran-soru-p350960",
+      "tarih": "2026-08-20T03:28:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6abaf7f327b5",
+      "baslik": "Her 2 kişiden 1’i borç batağında",
+      "ozet": "Her 2 kişiden 1’i borç batağında",
+      "url": "https://www.sozcu.com.tr/her-2-kisiden-1-i-borc-bataginda-p350946",
+      "tarih": "2026-08-20T02:30:04+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c5600c646211",
+      "baslik": "Altın madeninden geriye çorak arazi kalmıştı: Dronlarla binlercesini bıraktılar",
+      "ozet": "Altın madeninden geriye çorak arazi kalmıştı: Dronlarla binlercesini bıraktılar",
+      "url": "https://www.sozcu.com.tr/altin-madeninden-geriye-corak-arazi-kalmisti-dronlarla-binlercesini-biraktilar-p350947",
+      "tarih": "2026-08-19T22:01:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "51cbd3470917",
       "baslik": "Tarımı ayakta tutan dev göl haritadan silindi",
@@ -1977,36 +2007,6 @@
       "ozet": "DEM Parti ve YENİ Parti arasında 'Demirtaş' gerginliği! Salonda sesler aniden yükseldi",
       "url": "https://www.sozcu.com.tr/dem-parti-ve-yeni-parti-arasinda-demirtas-gerginligi-salonda-sesler-aniden-yukseldi-p343370",
       "tarih": "2026-08-07T18:26:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "adbac628fa73",
-      "baslik": "Menderes Belediye Başkanı İlkay Çiçek tutuklandı",
-      "ozet": "Menderes Belediye Başkanı İlkay Çiçek tutuklandı",
-      "url": "https://www.sozcu.com.tr/ilkay-cicek-tutuklandi-p343363",
-      "tarih": "2026-08-07T17:23:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "932ed945e562",
-      "baslik": "Galatasaray resmen açıkladı! Yıllar sonra geri döndü",
-      "ozet": "Galatasaray resmen açıkladı! Yıllar sonra geri döndü",
-      "url": "https://www.sozcu.com.tr/galatasaray-resmen-acikladi-yillar-sonra-geri-dondu-p343361",
-      "tarih": "2026-08-07T16:54:21+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e89324f93f4f",
-      "baslik": "Son dakika...İşçi konteynerinde yangın",
-      "ozet": "Son dakika...İşçi konteynerinde yangın",
-      "url": "https://www.sozcu.com.tr/son-dakika-isci-konteynerinde-yangin-p343335",
-      "tarih": "2026-08-07T14:19:41+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
