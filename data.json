@@ -117747,5 +117747,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/sindirgidaki-orman-yangini-kutahya-sinirina-yaklasti-p350985"
+  },
+  {
+    "id": "tarayici-61bef2570405",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
+    "il": "Ankara",
+    "ilce": "",
+    "aciklama": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
+    "koordinatlar": {
+      "lat": 39.9985,
+      "lng": 32.802
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "20.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/ankara-da-cinsel-iliski-tuzagi-p351073"
   }
 ]

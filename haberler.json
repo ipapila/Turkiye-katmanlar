@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-20T06:31:59.305343+00:00",
+    "guncelleme": "2026-08-20T09:25:44.660117+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6484,
+    "harita_kayit_sayisi": 6485,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "61bef2570405",
+      "baslik": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
+      "ozet": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
+      "url": "https://www.sozcu.com.tr/ankara-da-cinsel-iliski-tuzagi-p351073",
+      "tarih": "2026-08-20T08:48:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "eb5685e9ddd1",
+      "baslik": "Avrupa’da Kuraklığın Faturası 180 Milyar Euroyu Bulabilir!",
+      "ozet": "Avrupa’da bu yaz etkili olan aşırı sıcaklıklar ve hızla derinleşen kuraklık, kıtanın ekonomik faaliyetleri üzerinde giderek daha fazla baskı oluştururken, maliyetin kısa vadede en az 50 milyar euroya, toplamda ise 180 milyar euroya ulaşabileceği hesaplanıyor. Avrupa’da bu yaz etk",
+      "url": "https://www.iklimhaber.org/avrupada-kurakligin-faturasi-180-milyar-euroya-cikabilir/",
+      "tarih": "2026-08-20T08:13:00+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5ad1b7b2dce7",
+      "baslik": "81 İlin İklim Karnesi Çıkarılacak",
+      "ozet": "Türkiye’nin 2053 net sıfır emisyon hedefi doğrultusunda belediyeler tarafından farklı yöntemlerle hazırlanan yerel iklim planları, yeni düzenlemeyle tüm illeri kapsayan ortak sistemle ele alınacak. Her il, kendi iklim risklerini ve seragazı emisyonlarını tespit ederek azaltım hed",
+      "url": "https://www.iklimhaber.org/81-ilin-iklim-karnesi-cikarilacak/",
+      "tarih": "2026-08-20T07:30:07+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6594f7876f43",
+      "baslik": "Türkiye’den Yunanistan’ın Ege’deki Enerji Hamlesine Tepki",
+      "ozet": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Yunanistan’ın Ege Denizi’ni kapsayacak şekilde ilan ettiği “Yenilenebilir Enerji Kaynakları Özel Mekansal Çerçevesi” kararına yanıt verdi: “Aidiyeti uluslararası antlaşmalarla Yunanistan’a devredilmemiş coğrafi formasyonlar dahil, iki ülke",
+      "url": "https://www.iklimhaber.org/turkiyeden-yunanistanin-egedeki-enerji-hamlesine-tepki/",
+      "tarih": "2026-08-20T07:06:44+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a6b5b6b830fb",
       "baslik": "Komşunun nükleer harp başlık sayısını açıklarken sesi titredi",
@@ -1967,46 +2007,6 @@
       "ozet": "Anket sonucu dikkat çekti: Erdoğan’ı geçen iki isim belli oldu",
       "url": "https://www.sozcu.com.tr/anket-sonucu-dikkat-cekti-iste-erdogan-i-gecen-iki-isim-p343520",
       "tarih": "2026-08-08T11:28:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "632f2b147cd0",
-      "baslik": "Cankurtaranlar kıyıya 500 metre mesafede buldu! İhbar üzerine ekipler geldi",
-      "ozet": "Cankurtaranlar kıyıya 500 metre mesafede buldu! İhbar üzerine ekipler geldi",
-      "url": "https://www.sozcu.com.tr/cankurtaranlar-kiyiya-500-metre-mesafede-buldu-ihbar-uzerine-ekipler-geldi-p343498",
-      "tarih": "2026-08-08T09:25:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a375a9716fda",
-      "baslik": "ABD araya girdi: Ukrayna İHA'ları Karadeniz'i rahat bırakacak",
-      "ozet": "ABD araya girdi: Ukrayna İHA'ları Karadeniz'i rahat bırakacak",
-      "url": "https://www.sozcu.com.tr/abd-araya-girdi-ukrayna-iha-lari-karadeniz-i-rahat-birakacak-p343481",
-      "tarih": "2026-08-08T08:43:02+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ee0272e9dff5",
-      "baslik": "Fenerbahçe İsmail Yüksek kararını resmen duyurdu",
-      "ozet": "Fenerbahçe İsmail Yüksek kararını resmen duyurdu",
-      "url": "https://www.sozcu.com.tr/fenerbahce-ismail-yuksek-kararini-resmen-duyurdu-p343446",
-      "tarih": "2026-08-08T06:20:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d646a69de932",
-      "baslik": "Yargıtay'dan çalışana müjde: Kıdem tazminatında hesap değişti",
-      "ozet": "Yargıtay'dan çalışana müjde: Kıdem tazminatında hesap değişti",
-      "url": "https://www.sozcu.com.tr/yargitay-dan-calisana-mujde-kidem-tazminatinda-hesap-degisti-p343429",
-      "tarih": "2026-08-08T05:26:07+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92786,6 +92786,20 @@
       "ozet": "Balıkesir'deki yangın Kütahya'ya ilerliyor! Kamyondan çıkan yangın saatlerdir devam ediyor",
       "lat": 39.6097,
       "lng": 27.9045,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-61bef2570405",
+      "baslik": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
+      "konum": "Ankara",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "20.08.2026",
+      "url": "https://www.sozcu.com.tr/ankara-da-cinsel-iliski-tuzagi-p351073",
+      "ozet": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
+      "lat": 39.9985,
+      "lng": 32.802,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
