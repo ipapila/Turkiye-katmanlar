@@ -117842,5 +117842,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/istanbul-un-dibinde-dogal-gaz-arayacaklar-p351419"
+  },
+  {
+    "id": "tarayici-66a62f41699f",
+    "tip": "Maden Ocağı",
+    "ad": "Ankara'da maden ocağında göçük: Çok sayıda ölü ve yaralı var",
+    "il": "Ankara",
+    "ilce": "",
+    "aciklama": "Ankara'da maden ocağında göçük: Çok sayıda ölü ve yaralı var",
+    "koordinatlar": {
+      "lat": 39.8475,
+      "lng": 32.9556
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "21.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/ankara-maden-ocagi-gocuk-21-agustos-2026-p351548"
   }
 ]

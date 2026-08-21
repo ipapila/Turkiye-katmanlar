@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-21T15:25:32.955130+00:00",
+    "guncelleme": "2026-08-21T18:25:26.740323+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6489,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6490,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "66a62f41699f",
+      "baslik": "Ankara'da maden ocağında göçük: Çok sayıda ölü ve yaralı var",
+      "ozet": "Ankara'da maden ocağında göçük: Çok sayıda ölü ve yaralı var",
+      "url": "https://www.sozcu.com.tr/ankara-maden-ocagi-gocuk-21-agustos-2026-p351548",
+      "tarih": "2026-08-21T18:09:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "afc2ff3bf88f",
       "baslik": "Galatasaray ayrılığı resmen açıkladı",
@@ -1997,16 +2007,6 @@
       "ozet": "Otel ve restoranlarda yeni dönem: Tamamen yasaklanıyor",
       "url": "https://www.sozcu.com.tr/otel-ve-restoranlarda-yeni-donem-tamamen-yasaklaniyor-p343929",
       "tarih": "2026-08-10T06:17:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6af3d3a39b50",
-      "baslik": "Altında kâr satışları başladı: Yükseliş için kritik üç şart",
-      "ozet": "Altında kâr satışları başladı: Yükseliş için kritik üç şart",
-      "url": "https://www.sozcu.com.tr/ons-altinda-k%C3%A2r-satislari-basladi-yukselis-icin-kritik-uc-sart-p343873",
-      "tarih": "2026-08-10T03:43:52+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92856,6 +92856,20 @@
       "ozet": "İstanbul’un dibinde doğal gaz arayacaklar",
       "lat": 40.9912,
       "lng": 29.0856,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-66a62f41699f",
+      "baslik": "Ankara'da maden ocağında göçük: Çok sayıda ölü ve yaralı var",
+      "konum": "Ankara",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "21.08.2026",
+      "url": "https://www.sozcu.com.tr/ankara-maden-ocagi-gocuk-21-agustos-2026-p351548",
+      "ozet": "Ankara'da maden ocağında göçük: Çok sayıda ölü ve yaralı var",
+      "lat": 39.8475,
+      "lng": 32.9556,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
