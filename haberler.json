@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-21T03:43:30.716551+00:00",
+    "guncelleme": "2026-08-21T06:33:03.720607+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6487,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6488,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "a20a7da1025d",
+      "baslik": "Sibel Aytan Bodrum'da görüntülendi: Denizin ortasındaki iskelede uzun süre güneşlendi",
+      "ozet": "Sibel Aytan Bodrum'da görüntülendi: Denizin ortasındaki iskelede uzun süre güneşlendi",
+      "url": "https://www.sozcu.com.tr/sibel-aytan-bodrum-da-goruntulendi-denizin-ortasindaki-iskelede-uzun-sure-guneslendi-p351336",
+      "tarih": "2026-08-21T05:58:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "532b59f8295d",
+      "baslik": "Everest Dağı'nın 4 katı yüksekliğindeki dağ 45 saniyede göle aktı: 2 bin kişi hayatını kaybetti",
+      "ozet": "Everest Dağı'nın 4 katı yüksekliğindeki dağ 45 saniyede göle aktı: 2 bin kişi hayatını kaybetti",
+      "url": "https://www.sozcu.com.tr/everest-dagi-nin-4-kati-yuksekligindeki-dag-45-saniyede-gole-akti-2-bin-kisi-hayatini-kaybetti-p351330",
+      "tarih": "2026-08-21T05:47:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8ba45a18efbc",
       "baslik": "Dış borç 539 milyar dolar",
@@ -1987,26 +2007,6 @@
       "ozet": "Bahçeli'nin 'Evine dönmeli' dediği Demirtaş için Erdoğan'ın yardımcısından şaşırtan sözler",
       "url": "https://www.sozcu.com.tr/bahceli-nin-evine-donmeli-dedigi-demirtas-icin-erdogan-in-yardimcisindan-sasirtan-sozler-p343717",
       "tarih": "2026-08-09T09:10:31+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fc4015a80945",
-      "baslik": "Bedriye'yi boğup ormana atmıştı: Cesedi sarıp kayınvalidesiyle bir saat sohbet etmiş",
-      "ozet": "Bedriye'yi boğup ormana atmıştı: Cesedi sarıp kayınvalidesiyle bir saat sohbet etmiş",
-      "url": "https://www.sozcu.com.tr/kagithane-de-esi-bedriye-yi-bogup-ormana-atan-caniden-kan-donduran-itiraf-p343711",
-      "tarih": "2026-08-09T08:46:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b5089d24ac8e",
-      "baslik": "19 çalışanı olan şirket borsanın zirvesine oturdu",
-      "ozet": "19 çalışanı olan şirket borsanın zirvesine oturdu",
-      "url": "https://www.sozcu.com.tr/19-calisani-olan-sirket-borsanin-zirvesine-oturdu-p343636",
-      "tarih": "2026-08-09T05:18:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92828,6 +92828,20 @@
       "ozet": "Ekoloji Toplantısı Van’da başladı gazetevan.com",
       "lat": 38.5806,
       "lng": 43.4032,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-909b0a08c39d",
+      "baslik": "Gümüşhane’ye Dayatılan Makus Kader: Altın Madenciliği ve Ekstraktivizm - gumuskoza.com.tr",
+      "konum": "Gümüşhane",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "21.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUUxCdEtnc0hMNHJLbXFYbURtNHNjRjJtVHU2TV9mQnFRUjVGcGxaSUZ5VHJRN2FieE1tYWhMZS1iUFFwTGRnZlp1bnVhQXZ0bWpsTDRId0FLcl9IWWZ2Ykx1d3ZUTk5sd1M5NkxaV0xEaDlwUlA4ZXRBZDdZRVYwVWJxdVBmOGYyUFBReFFsMTd1V05qVDhxWV9ObzVGdzIxdXdjR1pxdzd6ODZKZnFiNXlB0gG3AUFVX3lxTFA4aGhkcWF1NHd6elhyM2Njc1VIZXdaS2UzRWFWUGJhU0YzSHRjbTByQTBnUExUZEJxc1lNbGdyTzVjcUxwMENBTWVQMk83aFlKV3IxU3I1MHBHZExBdm9FT1pkOEFrbjZWVkx4TnhRUU9yOGxNRVRqVHJwU01FWTVlak1zdkxJYnNDUG9pZHVGUXQ1MW56b2t1YkNrRjBrZHY5dGVGdjhGT29yOEU1QzJMN2lkZjlNYw?oc=5",
+      "ozet": "Gümüşhane’ye Dayatılan Makus Kader: Altın Madenciliği ve Ekstraktivizm gumuskoza.com.tr",
+      "lat": 40.4557,
+      "lng": 39.5848,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
