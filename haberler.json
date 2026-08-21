@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-21T06:33:03.720607+00:00",
+    "guncelleme": "2026-08-21T09:28:35.740821+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6488,
+    "harita_kayit_sayisi": 6489,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "fe5c93dd647a",
+      "baslik": "Bora Cengiz’den sevgilisi Ahu Yağtu’ya aşk dolu bakışlar: O kare geceye damga vurdu",
+      "ozet": "Bora Cengiz’den sevgilisi Ahu Yağtu’ya aşk dolu bakışlar: O kare geceye damga vurdu",
+      "url": "https://www.sozcu.com.tr/bora-cengiz-den-sevgilisi-ahu-yagtu-ya-ask-dolu-bakislar-o-kare-geceye-damga-vurdu-p351426",
+      "tarih": "2026-08-21T09:08:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ee323665c70f",
+      "baslik": "İstanbul’un dibinde doğal gaz arayacaklar",
+      "ozet": "İstanbul’un dibinde doğal gaz arayacaklar",
+      "url": "https://www.sozcu.com.tr/istanbul-un-dibinde-dogal-gaz-arayacaklar-p351419",
+      "tarih": "2026-08-21T08:46:35+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c5a0ef3a8cd9",
+      "baslik": "Ege'de egemenlik ilan ettiler: Yunanistan'da 'Deniz Parkı' krizi",
+      "ozet": "Ege'de egemenlik ilan ettiler: Yunanistan'da 'Deniz Parkı' krizi",
+      "url": "https://www.sozcu.com.tr/atina-dan-ankara-ya-meydan-p351398",
+      "tarih": "2026-08-21T07:57:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a969ad41d94d",
+      "baslik": "OGM’den Kritik Uyarı: Önümüzdeki 10 Güne Dikkat!",
+      "ozet": "Orman Genel Müdürlüğü (OGM), Türkiye genelinde önümüzdeki 10 gün boyunca etkili olması beklenen sıcak ve kurak hava koşullarına karşı vatandaşları orman yangınları konusunda dikkatli olmaya çağırdı.  Meteoroloji tahminlerine göre özellikle Ege, Akdeniz, İç Anadolu’nun güneyi ve G",
+      "url": "https://www.iklimhaber.org/ogmden-kritik-uyari-onumuzdeki-10-gune-dikkat/",
+      "tarih": "2026-08-21T06:52:23+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "04c2b24b25fe",
+      "baslik": "El Niño Olaylarının Küresel Ekonomiye Faturası 84 Trilyon Dolara Ulaşabilir",
+      "ozet": "El Niño’nun ekonomik maliyetinin yalnızca olayın yaşandığı yılla sınırlı kalmadığına ilişkin çalışmalar dikkati çekiyor. Bir çalışmaya göre, yalnızca 2023’teki El Niño’nun dünya ekonomisinde 2029’a kadar 3 trilyon dolarlık kayba neden olabileceği tahmin ediliyor. Dünyada 21. yüzy",
+      "url": "https://www.iklimhaber.org/el-nino-olaylarinin-kuresel-ekonomiye-faturasi-84-trilyon-dolara-ulasabilir/",
+      "tarih": "2026-08-21T06:33:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a20a7da1025d",
       "baslik": "Sibel Aytan Bodrum'da görüntülendi: Denizin ortasındaki iskelede uzun süre güneşlendi",
@@ -1957,56 +2007,6 @@
       "ozet": "Selahattin Demirtaş'tan çerçeve yasa mesajı",
       "url": "https://www.sozcu.com.tr/selahattin-demirtas-tan-cerceve-yasa-mesaji-p343769",
       "tarih": "2026-08-09T13:32:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2fcf0f8e3708",
-      "baslik": "Yasağa rağmen denize giren Türk hakem boğularak hayatını kaybetti",
-      "ozet": "Yasağa rağmen denize giren Türk hakem boğularak hayatını kaybetti",
-      "url": "https://www.sozcu.com.tr/yasaga-ragmen-denize-giren-turk-hakem-bogularak-hayatini-kaybetti-p343772",
-      "tarih": "2026-08-09T13:11:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f677ac79a4f8",
-      "baslik": "80 yaşındaki Ajda Pekkan sahne performansıyla gençlere taş çıkardı",
-      "ozet": "80 yaşındaki Ajda Pekkan sahne performansıyla gençlere taş çıkardı",
-      "url": "https://www.sozcu.com.tr/80-yasindaki-ajda-pekkan-sahne-performansiyla-genclere-tas-cikardi-p343759",
-      "tarih": "2026-08-09T11:49:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ef26f5f35cac",
-      "baslik": "Girmenin yasak olduğu denizde ablasını kurtarmak isterken boğuldu",
-      "ozet": "Girmenin yasak olduğu denizde ablasını kurtarmak isterken boğuldu",
-      "url": "https://www.sozcu.com.tr/girmenin-yasak-oldugu-denizde-ablasini-kurtarmak-isterken-boguldu-p343758",
-      "tarih": "2026-08-09T11:48:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "145c5d2b697d",
-      "baslik": "Doruk Madencilik işçileri Anıtkabir'den seslendi: 'Alacaklarımızın son kuruşu ödeninceye kadar Ankara'dan ayrılmayacağız' - Cumhuriyet",
-      "ozet": "Doruk Madencilik işçileri Anıtkabir'den seslendi: 'Alacaklarımızın son kuruşu ödeninceye kadar Ankara'dan ayrılmayacağız' Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWlNMMllISlFQMHdkazY2VHBPdWF4aFJiYmdqU0VjaFNGWS0ySzNyQXlCZ28wUnFyNWUzZTZEOElvNDNUaWhrRUt1TUlnM1lDb1NYRzZiaG82OTFIQjRLUEJOa0RnamhNVGNna2Q0QWVDbEIyVkhJLUpOdGNIQ0NId1lER2w0NDBMOVYtclVlMk4wWXpmUXJFTTZTdzl6RXRJMG5LbVNFZEIxU19LN0dZeXA2NzA1Z19NZnhJbGwxS3BzSHlkYURPT2VLZkNjUjdpYTM5VWZzV3p5SDlNbExMNWxSSW1vSXlsbHhLQVctalI0RHoyS2RB?oc=5",
-      "tarih": "2026-08-09T11:40:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8f98f36dd6fd",
-      "baslik": "Bahçeli'nin 'Evine dönmeli' dediği Demirtaş için Erdoğan'ın yardımcısından şaşırtan sözler",
-      "ozet": "Bahçeli'nin 'Evine dönmeli' dediği Demirtaş için Erdoğan'ın yardımcısından şaşırtan sözler",
-      "url": "https://www.sozcu.com.tr/bahceli-nin-evine-donmeli-dedigi-demirtas-icin-erdogan-in-yardimcisindan-sasirtan-sozler-p343717",
-      "tarih": "2026-08-09T09:10:31+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92842,6 +92842,20 @@
       "ozet": "Gümüşhane’ye Dayatılan Makus Kader: Altın Madenciliği ve Ekstraktivizm gumuskoza.com.tr",
       "lat": 40.4557,
       "lng": 39.5848,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-ee323665c70f",
+      "baslik": "İstanbul’un dibinde doğal gaz arayacaklar",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "21.08.2026",
+      "url": "https://www.sozcu.com.tr/istanbul-un-dibinde-dogal-gaz-arayacaklar-p351419",
+      "ozet": "İstanbul’un dibinde doğal gaz arayacaklar",
+      "lat": 40.9912,
+      "lng": 29.0856,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
