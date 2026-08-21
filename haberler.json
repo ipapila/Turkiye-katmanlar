@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-20T18:27:19.035670+00:00",
+    "guncelleme": "2026-08-21T03:43:30.716551+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6487,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "8ba45a18efbc",
+      "baslik": "Dış borç 539 milyar dolar",
+      "ozet": "Dış borç 539 milyar dolar",
+      "url": "https://www.sozcu.com.tr/dis-borc-539-milyar-dolar-p351279",
+      "tarih": "2026-08-21T02:30:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "63b128180d3c",
+      "baslik": "Üç isim Erdoğan’a büyük fark atıyor",
+      "ozet": "Üç isim Erdoğan’a büyük fark atıyor",
+      "url": "https://www.sozcu.com.tr/uc-isim-erdogan-a-buyuk-fark-atiyor-p351276",
+      "tarih": "2026-08-21T02:30:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9982018da948",
+      "baslik": "Porsuk kıyısında festival havası",
+      "ozet": "Porsuk kıyısında festival havası",
+      "url": "https://www.sozcu.com.tr/porsuk-kiyisinda-festival-havasi-p351272",
+      "tarih": "2026-08-21T02:30:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ca3b48e4bdbe",
       "baslik": "Aynı anda 500 tanesini doğaya saldılar mucizeyi getirdi",
@@ -1977,36 +2007,6 @@
       "ozet": "19 çalışanı olan şirket borsanın zirvesine oturdu",
       "url": "https://www.sozcu.com.tr/19-calisani-olan-sirket-borsanin-zirvesine-oturdu-p343636",
       "tarih": "2026-08-09T05:18:23+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dd257e5b0d52",
-      "baslik": "Son dakika...Öğrenci affı Resmi Gazete'de",
-      "ozet": "Son dakika...Öğrenci affı Resmi Gazete'de",
-      "url": "https://www.sozcu.com.tr/son-dakika-ogrenci-affi-resmi-gazete-de-p343604",
-      "tarih": "2026-08-08T22:11:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3760b11f58c5",
-      "baslik": "Cami hoparlöründen yükselen ses köylüleri şaşkına çevirdi",
-      "ozet": "Cami hoparlöründen yükselen ses köylüleri şaşkına çevirdi",
-      "url": "https://www.sozcu.com.tr/cami-hoparlorunden-yukselen-ses-koyluleri-saskina-cevirdi-p343597",
-      "tarih": "2026-08-08T19:24:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8980809cfdcd",
-      "baslik": "Menderes Belediye Başkanı görevden uzaklaştırıldı",
-      "ozet": "Menderes Belediye Başkanı görevden uzaklaştırıldı",
-      "url": "https://www.sozcu.com.tr/menderes-belediye-baskani-gorevden-uzaklastirildi-p343593",
-      "tarih": "2026-08-08T18:15:07+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
