@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-21T09:28:35.740821+00:00",
+    "guncelleme": "2026-08-21T12:30:50.803812+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6489,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "2ffa1a66e2dc",
+      "baslik": "'Çevre dostu' belgesi aldı, sahili çöplüğe çevirdi - Halk TV",
+      "ozet": "'Çevre dostu' belgesi aldı, sahili çöplüğe çevirdi Halk TV",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSklrd25IVklGZXpjdzBIZXdyaWZJQloybFAwOFJacXhPVW1VYnpCYWRhZFlEM2lkQUtrbTVGQ3NyRm5keW5EZGVBQjJhRy1TWnFNaUprYXZnd0gwM21MQ25qWThoQzZrWTJac2J4MTBxNGJzTUNPcElCTnNfem5KenFPOWxDOEVwZ2RlX0NYTQ?oc=5",
+      "tarih": "2026-08-21T12:24:28+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "df545e125132",
+      "baslik": "Avrupa kıyılarında meydan savaşı: Polis bota bıçakla saldırdı, göçmenler taş attı",
+      "ozet": "Avrupa kıyılarında meydan savaşı: Polis bota bıçakla saldırdı, göçmenler taş attı",
+      "url": "https://www.sozcu.com.tr/sahilde-meydan-savasi-polis-bota-bicakla-saldirdi-gocmenler-tas-atti-p351464",
+      "tarih": "2026-08-21T11:13:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ef6b0f0c32cc",
+      "baslik": "Borsa günün ilk yarısında değer kazandı -21 Ağustos 2026",
+      "ozet": "Borsa günün ilk yarısında değer kazandı -21 Ağustos 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-deger-kazandi-21-agustos-2026-p351465",
+      "tarih": "2026-08-21T11:08:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b68fff796664",
+      "baslik": "Sevgilisini alıp doğaya kaçtı: Tatilini adeta cennete çevirdi",
+      "ozet": "Sevgilisini alıp doğaya kaçtı: Tatilini adeta cennete çevirdi",
+      "url": "https://www.sozcu.com.tr/sevgilisini-alip-dogaya-kacti-tatilini-adeta-cennete-cevirdi-p351455",
+      "tarih": "2026-08-21T10:32:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "aeead16631bb",
+      "baslik": "Harekete Geçilmezse Avrupa’daki Yangınlar Yüzde 39 Artacak",
+      "ozet": "Yeni bir araştırma, önlem alınmadığı takdirde Avrupa’daki orman yangınlarının en iyimser iklim senaryosunda dahi %39 artacağını, yangın yönetimindeki iyileştirmelerin ise bu artışı %70’ten fazla azaltabileceğini ortaya koyuyor. Yüzyılın sonuna gelindiğinde, gezegenin ısınmasını d",
+      "url": "https://www.iklimhaber.org/harekete-gecilmezse-avrupadaki-yanginlar-yuzde-39-artacak/",
+      "tarih": "2026-08-21T10:23:10+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "627eecb4974a",
+      "baslik": "Ülkeler Arazi Restorasyonunda Yavaş Kalıyor",
+      "ozet": "Ülkeler arazi restorasyonu çalışmalarına başlamış olsa da yeni bir rapor, restore edilen alanların henüz taahhüt edilen miktarın ancak %10’u kadar olduğuna dikkat çekiyor. Yeni yayımlanan bir araştırma, ülkelerin taahhüt ettikleri restorasyon hedeflerinin oldukça gerisinde kaldığ",
+      "url": "https://www.iklimhaber.org/ulkeler-arazi-restorasyonunda-yavas-kaliyor/",
+      "tarih": "2026-08-21T10:07:21+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "fe5c93dd647a",
       "baslik": "Bora Cengiz’den sevgilisi Ahu Yağtu’ya aşk dolu bakışlar: O kare geceye damga vurdu",
@@ -1947,66 +2007,6 @@
       "ozet": "200 bin radyoaktif varili denizin dibine bıraktılar",
       "url": "https://www.sozcu.com.tr/200-bin-radyoaktif-varili-denizin-dibine-biraktilar-p343810",
       "tarih": "2026-08-09T16:12:42+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "77f62c27a7d4",
-      "baslik": "36 yaşındaki Valencia'nın yeni adresi belli oldu",
-      "ozet": "36 yaşındaki Valencia'nın yeni adresi belli oldu",
-      "url": "https://www.sozcu.com.tr/enner-valencia-boca-juniorsta-yeni-macerasina-basliyor-p343805",
-      "tarih": "2026-08-09T15:55:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b38236ceea13",
-      "baslik": "Dev kömür madenini 547 milyar litre suyla doldurdular",
-      "ozet": "Dev kömür madenini 547 milyar litre suyla doldurdular",
-      "url": "https://www.sozcu.com.tr/dev-komur-madenini-547-milyar-litre-suyla-doldurdular-p343796",
-      "tarih": "2026-08-09T15:02:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "255f6a9d594f",
-      "baslik": "Atık suyu servete çevirdiler: Altın ve gümüşü ultrasonla topluyorlar",
-      "ozet": "Atık suyu servete çevirdiler: Altın ve gümüşü ultrasonla topluyorlar",
-      "url": "https://www.sozcu.com.tr/atik-suyu-servete-cevirdiler-altin-ve-gumusu-ultrasonla-topluyorlar-p343787",
-      "tarih": "2026-08-09T14:47:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d9b68ca732d8",
-      "baslik": "3 bin yıllık ağaçlar yanmasın diye ormanı yakmaya başladılar",
-      "ozet": "3 bin yıllık ağaçlar yanmasın diye ormanı yakmaya başladılar",
-      "url": "https://www.sozcu.com.tr/3-bin-yillik-agaclar-yanmasin-diye-ormani-yakmaya-basladilar-p343783",
-      "tarih": "2026-08-09T14:20:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7da11a3aad6b",
-      "baslik": "Kırmızı bayraklar peş peşe çekildi: İki ilde denize girmek yasaklandı",
-      "ozet": "Kırmızı bayraklar peş peşe çekildi: İki ilde denize girmek yasaklandı",
-      "url": "https://www.sozcu.com.tr/kirmizi-bayraklar-pes-pese-cekildi-iki-ilde-denize-girmek-yasaklandi-p343780",
-      "tarih": "2026-08-09T14:04:28+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3acd34bb33d2",
-      "baslik": "Selahattin Demirtaş'tan çerçeve yasa mesajı",
-      "ozet": "Selahattin Demirtaş'tan çerçeve yasa mesajı",
-      "url": "https://www.sozcu.com.tr/selahattin-demirtas-tan-cerceve-yasa-mesaji-p343769",
-      "tarih": "2026-08-09T13:32:54+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
