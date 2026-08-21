@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-21T12:30:50.803812+00:00",
+    "guncelleme": "2026-08-21T15:25:32.955130+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6489,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "afc2ff3bf88f",
+      "baslik": "Galatasaray ayrılığı resmen açıkladı",
+      "ozet": "Galatasaray ayrılığı resmen açıkladı",
+      "url": "https://www.sozcu.com.tr/galatasaray-ayriligi-resmen-acikladi-p351531",
+      "tarih": "2026-08-21T14:32:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3bd2e43d7ece",
+      "baslik": "Galatasaray'ın yeni yengesi: Batrakov'dan 10 yaş büyük çıktı",
+      "ozet": "Galatasaray'ın yeni yengesi: Batrakov'dan 10 yaş büyük çıktı",
+      "url": "https://www.sozcu.com.tr/galatasaray-in-yeni-yengesi-batrakov-dan-10-yas-buyuk-cikti-p351520",
+      "tarih": "2026-08-21T13:42:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "2ffa1a66e2dc",
       "baslik": "'Çevre dostu' belgesi aldı, sahili çöplüğe çevirdi - Halk TV",
@@ -107,6 +127,16 @@
       "ozet": "Orman Genel Müdürlüğü (OGM), Türkiye genelinde önümüzdeki 10 gün boyunca etkili olması beklenen sıcak ve kurak hava koşullarına karşı vatandaşları orman yangınları konusunda dikkatli olmaya çağırdı.  Meteoroloji tahminlerine göre özellikle Ege, Akdeniz, İç Anadolu’nun güneyi ve G",
       "url": "https://www.iklimhaber.org/ogmden-kritik-uyari-onumuzdeki-10-gune-dikkat/",
       "tarih": "2026-08-21T06:52:23+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "38ae3fc26da6",
+      "baslik": "El Niño’nun Küresel Ekonomiye Faturası 84 Trilyon Dolara Ulaşabilir",
+      "ozet": "El Niño’nun ekonomik maliyetinin yalnızca olayın yaşandığı yılla sınırlı kalmadığına ilişkin çalışmalar dikkati çekiyor. Bir çalışmaya göre, yalnızca 2023’teki El Niño’nun dünya ekonomisinde 2029’a kadar 3 trilyon dolarlık kayba neden olabileceği tahmin ediliyor. Dünyada 21. yüzy",
+      "url": "https://www.iklimhaber.org/el-nino-olaylarinin-kuresel-ekonomiye-faturasi-84-trilyon-dolara-ulasabilir/",
+      "tarih": "2026-08-21T06:33:57+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -1977,36 +2007,6 @@
       "ozet": "Altında kâr satışları başladı: Yükseliş için kritik üç şart",
       "url": "https://www.sozcu.com.tr/ons-altinda-k%C3%A2r-satislari-basladi-yukselis-icin-kritik-uc-sart-p343873",
       "tarih": "2026-08-10T03:43:52+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "af195758c1d5",
-      "baslik": "Görenler gözlerine inanamadı! 3 metrelik dev kıyıya vurdu",
-      "ozet": "Görenler gözlerine inanamadı! 3 metrelik dev kıyıya vurdu",
-      "url": "https://www.sozcu.com.tr/gorenler-gozlerine-inanamadi-3-metrelik-dev-kiyiya-vurdu-p343821",
-      "tarih": "2026-08-09T18:00:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "53228dc4c935",
-      "baslik": "Çölü andıran bölgede doğa mucizesi: Kumların arasından yüzlerce göl çıkıyor",
-      "ozet": "Çölü andıran bölgede doğa mucizesi: Kumların arasından yüzlerce göl çıkıyor",
-      "url": "https://www.sozcu.com.tr/colu-andiran-bolgede-doga-mucizesi-kumlarin-arasindan-yuzlerce-gol-cikiyor-p343814",
-      "tarih": "2026-08-09T16:40:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "18fe7ad16c41",
-      "baslik": "200 bin radyoaktif varili denizin dibine bıraktılar",
-      "ozet": "200 bin radyoaktif varili denizin dibine bıraktılar",
-      "url": "https://www.sozcu.com.tr/200-bin-radyoaktif-varili-denizin-dibine-biraktilar-p343810",
-      "tarih": "2026-08-09T16:12:42+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
