@@ -117861,5 +117861,81 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/ankara-maden-ocagi-gocuk-21-agustos-2026-p351548"
+  },
+  {
+    "id": "tarayici-982abccefbdc",
+    "tip": "İklim Olayları",
+    "ad": "Bilecik’te orman yangını... Kontrol altına alındı - Cumhuriyet",
+    "il": "Bilecik",
+    "ilce": "",
+    "aciklama": "Bilecik’te orman yangını... Kontrol altına alındı Cumhuriyet",
+    "koordinatlar": {
+      "lat": 40.231,
+      "lng": 30.0542
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "22.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEFRQWgwUlVzbHhqcmFJckl0MXV4TndvSkxBZWNuYldMTjlINnpuYS1JSnJRSnFoYThfQ2g0YW41M29DallDMV9RVk9ENEUtR1dFZ0I0VUFXQUJxVmprS3VLREZMVlVMOGFRaGdYRnJXYUoydG1SRExFQ3d3YTNmdk4yR3d5dnpaZG96Zi1xeUlZNWlQaUlv?oc=5"
+  },
+  {
+    "id": "tarayici-7ee3842b16c5",
+    "tip": "Ekolojik İhlal",
+    "ad": "Muğla Valiliği'nden orman yangınlarına karşı genel emir: Açık alanda yangın tüpü zorunluluğu - Cumhuriyet",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Muğla Valiliği'nden orman yangınlarına karşı genel emir: Açık alanda yangın tüpü zorunluluğu Cumhuriyet",
+    "koordinatlar": {
+      "lat": 37.1057,
+      "lng": 28.3464
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "22.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQi1aZk5jcDdhX0VkWkZhSHdrVnZvNmhYaFd4QUs2eDFHWkhNY0Y5LWxWUlZFcGdMSVpBNDI4REJuSElhSTE0VERweVZ6NldBY3VYeHlsdjFPaUMwWXc3TVMyM2NDT1dzS2dyb2ZCcTJIYUFYRlJKUU1MbzAzeGhZUHJpYnFscW13b2VLcUp1dkRMbmFnNFlsVTNYcThjMjNPbG5mRFdtLW9mMEZ4VU91bWxtRl9WWVlZWmw3SmZUNnp1THhNOVBZTFJZV0x6OTlXNnFB?oc=5"
+  },
+  {
+    "id": "tarayici-561ce7a87747",
+    "tip": "İklim Olayları",
+    "ad": "İzmir Narlıdere'de orman yangını: Ekipler sevk edildi! - Son Dakika Türkiye Haberleri - Cumhuriyet",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir Narlıdere'de orman yangını: Ekipler sevk edildi! - Son Dakika Türkiye Haberleri Cumhuriyet",
+    "koordinatlar": {
+      "lat": 38.3287,
+      "lng": 27.1446
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "22.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOck9DaXFTRTZrYVowZjhBMmxIcU92MTdSQlFJMXZ4VkIxQlRIZThxMmJVS2pITzBkX2U2NUg2LURTejFlYVhTNGZqemo5aGVObTNFdWZjcEo4eEtwamd2SThRRGZCbGFjcUpFbmtUSzlYNEYwMXh0OU5VM0RmNHhDX0doTmRsVGh3cHJKWHRyS3pwblpQRVJxOGJsTTlRRlk?oc=5"
+  },
+  {
+    "id": "tarayici-71fc5c264fff",
+    "tip": "Ekolojik İhlal",
+    "ad": "İzmir'de otluk alanda yangın: Kontrol altına alındı - Cumhuriyet",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir'de otluk alanda yangın: Kontrol altına alındı Cumhuriyet",
+    "koordinatlar": {
+      "lat": 38.4527,
+      "lng": 27.1261
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "22.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZHlKRTc5X3NxNGpSM2taY1B0MzloOEtLMHNFdWtLRkc0U2xjaWVXYm4tRjN6YUlXc0lkM2NUMW9LcE9tLWQ0U1h3X3pkSHYzcjdWQm1NR1QtWUJQVmtLdDBzZDdEYlRnUEVaN3Q0VzZKT3lBa2RKU3ZybmNOR3VlczJ1TmE1WUlfYkpfdzl2N0V1R0RVRXBPRlhwdWNuRmJKS3FRVFVUdEx0d0tRa1JSMGVpUEFuSHhIVEh1S0dHZndXX3lk?oc=5"
   }
 ]
