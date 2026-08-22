@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-22T03:35:49.830898+00:00",
+    "guncelleme": "2026-08-22T06:25:53.039385+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6494,
-    "haritaya_eklenen_yeni_kayit": 4,
+    "harita_kayit_sayisi": 6496,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "7442f8c22e25",
+      "baslik": "Erdoğan'dan ayaküstü transfer teklifi",
+      "ozet": "Erdoğan'dan ayaküstü transfer teklifi",
+      "url": "https://www.sozcu.com.tr/erdogan-dan-ayakustu-transfer-teklifi-p351627",
+      "tarih": "2026-08-22T06:11:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7d1b959eab24",
+      "baslik": "Bitcoin 3 günde %20 yükseldi: İşte dünyanın en büyük kripto para birimini harekete geçiren 2 neden",
+      "ozet": "Bitcoin 3 günde %20 yükseldi: İşte dünyanın en büyük kripto para birimini harekete geçiren 2 neden",
+      "url": "https://www.sozcu.com.tr/bitcoin-3-gunde-20-yukseldi-iste-dunyanin-en-buyuk-kripto-para-birimini-harekete-geciren-2-neden-p351616",
+      "tarih": "2026-08-22T05:22:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5d6d5816d15a",
+      "baslik": "Akaryakıta zam geldi! Litresi 85 lirayı buldu",
+      "ozet": "Akaryakıta zam geldi! Litresi 85 lirayı buldu",
+      "url": "https://www.sozcu.com.tr/akaryakita-zam-geldi-litresi-85-lirayi-buldu-p351614",
+      "tarih": "2026-08-22T05:20:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a701964a1004",
+      "baslik": "Ankara kulislerinde yeni hesap...İttifak trafiğinde İYİ Parti düğümü",
+      "ozet": "Ankara kulislerinde yeni hesap...İttifak trafiğinde İYİ Parti düğümü",
+      "url": "https://www.sozcu.com.tr/ankara-kulislerinde-yeni-hesap-ittifak-trafiginde-iyi-parti-dugumu-p351608",
+      "tarih": "2026-08-22T04:46:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8a13de935ee4",
       "baslik": "‘Yoğun bakıma bile harem selam istedi’",
@@ -1967,46 +2007,6 @@
       "ozet": "Kuaförlerden topladıkları saçları denize bırakmaya başladılar",
       "url": "https://www.sozcu.com.tr/kuaforlerden-topladiklari-saclari-denize-birakmaya-basladilar-p344116",
       "tarih": "2026-08-10T14:48:47+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "faa8cd8efc6a",
-      "baslik": "Müsavat Dervişoğlu: 'Amaç Erdoğan'ı ömür boyu başkan yapmak'",
-      "ozet": "Müsavat Dervişoğlu: 'Amaç Erdoğan'ı ömür boyu başkan yapmak'",
-      "url": "https://www.sozcu.com.tr/musavat-dervisoglu-amac-erdogan-i-omur-boyu-baskan-yapmak-p344056",
-      "tarih": "2026-08-10T11:55:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f69c782af88a",
-      "baslik": "Sıcaklıklar 42 dereceye yükselince tüm halk bu çorbayı içmeye çağrıldı",
-      "ozet": "Sıcaklıklar 42 dereceye yükselince tüm halk bu çorbayı içmeye çağrıldı",
-      "url": "https://www.sozcu.com.tr/sicakliklar-42-dereceye-yukselince-tum-halk-bu-corbayi-icmeye-cagrildi-p344011",
-      "tarih": "2026-08-10T09:15:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b59c3c62aa25",
-      "baslik": "COP31 Ev Sahibi Ülke Anlaşması Yürürlüğe Girdi",
-      "ozet": "Ev sahibi ülke anlaşması, Türkiye’nin bu çok taraflı toplantıların organizasyonuna ilişkin idari ve lojistik yükümlülüklerini düzenliyor.  Türkiye, Birleşmiş Milletler iklim diplomasisinin en büyük organizasyonlarından COP31’e ev sahipliği yapılmasına ilişkin süreçte yeni bir adı",
-      "url": "https://www.iklimhaber.org/cop31-ev-sahibi-ulke-anlasmasi-yururluge-girdi/",
-      "tarih": "2026-08-10T08:34:58+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5132cd20b21e",
-      "baslik": "Denizli Basket, Erten Gazi’yi duyurdu",
-      "ozet": "Denizli Basket, Erten Gazi’yi duyurdu",
-      "url": "https://www.sozcu.com.tr/denizli-basket-erten-gazi-yi-duyurdu-p343993",
-      "tarih": "2026-08-10T08:34:50+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92926,6 +92926,34 @@
       "ozet": "İzmir'de otluk alanda yangın: Kontrol altına alındı Cumhuriyet",
       "lat": 38.4527,
       "lng": 27.1261,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f12afd1bd0c7",
+      "baslik": "Doruk Madencilik işçileri Ankara yolunda: 'Emeğimizin karşılığını istiyoruz' - Cumhuriyet",
+      "konum": "Ankara",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMzV3R3NXV1E1cXYxZmp6OXhSNWhYeUNnZlJ3R0VzcTgwejVxWlIxeGQwTWN0dk01dU4xNi1veXFqcWJpejI3N3Y4Zl9NeFY4ZXdBLWMwRTcwbXRKN19waVdPWDIyUC16Ui1NdVlEN0NiRWpRSUZaODA0Z2xkaFF2V0dEbVZLNmloX09mNzFyVkNQMFN2QUg3dTFwcEZMMDNyV2ZFQ0xFN0pmU1o1MjhJU0RFZVViMXZLME1V?oc=5",
+      "ozet": "Doruk Madencilik işçileri Ankara yolunda: 'Emeğimizin karşılığını istiyoruz' Cumhuriyet",
+      "lat": 39.8466,
+      "lng": 32.9122,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a701964a1004",
+      "baslik": "Ankara kulislerinde yeni hesap...İttifak trafiğinde İYİ Parti düğümü",
+      "konum": "Ankara",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.08.2026",
+      "url": "https://www.sozcu.com.tr/ankara-kulislerinde-yeni-hesap-ittifak-trafiginde-iyi-parti-dugumu-p351608",
+      "ozet": "Ankara kulislerinde yeni hesap...İttifak trafiğinde İYİ Parti düğümü",
+      "lat": 40.026,
+      "lng": 32.8706,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
