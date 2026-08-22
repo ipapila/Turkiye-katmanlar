@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-22T06:25:53.039385+00:00",
+    "guncelleme": "2026-08-22T09:19:52.843928+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6496,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "310212c41615",
+      "baslik": "O otelin çevre ihlali cezasız kalmadı: 1 milyon 678 bin TL ödeyecek - Haberimiz Var",
+      "ozet": "O otelin çevre ihlali cezasız kalmadı: 1 milyon 678 bin TL ödeyecek Haberimiz Var",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnNYR0NwaC1xbEZHNmNBMjc5TTdhaWpBZ09WQjdMQkFvSUY3cFRrVUR3eG10NlhJbjgyNXR0WkUyaGlWRlQ1UVJpaFJvV1Z5WC1rdFpLQlQyRndqd1ZHSlVxSDF6enBXUzBTVkN2RkhvOWp5TFNkeWZkc2RkMDMzRjJBWEVHMTQ3eFBOWm5xcWh1Tm15SjV1N0Z3dkEwUjhTR2Q1UmlB?oc=5",
+      "tarih": "2026-08-22T08:33:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "7442f8c22e25",
       "baslik": "Erdoğan'dan ayaküstü transfer teklifi",
@@ -1552,6 +1562,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "bb6aa81ac790",
+      "baslik": "Kazdağları'nın eteklerinde yangın: Alevler yerleşim yerlerine ulaştı - Cumhuriyet",
+      "ozet": "Kazdağları'nın eteklerinde yangın: Alevler yerleşim yerlerine ulaştı Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUM0WFM4XzlwV05SRDM4WHQxSnl0amw5Sk1NcXltS0ZaWHZkOVJZdWJGSXpISFZ2bGlCQ3NTYnhFWVdyOEJRbzRUWXg5Yy1GdEt3SHRFMFNGVFpCYzFvUDZucWFKRjI0MVlVbnBZQ1dUaUF4c3k1U2Q1ckZvZ2JTYjY2dFN3TlUyTlFkY28tSDNKLTl6VXZrekRONm9LWk02TVcwS3JwQUVoeC16bkR6TFdaYw?oc=5",
+      "tarih": "2026-08-13T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "ffe83897a2f5",
       "baslik": "Yüzyıl Sonuna Kadar Akdeniz Deniz Çayırlarının Beşte Biri Yok Olabilir",
       "ozet": "Akdeniz’in en önemli ekosistemleri arasında yer alan deniz çayırlarının beşte biri, iklim değişikliği nedeniyle yüzyıl sonuna kadar yok olma riskiyle karşı karşıya. Yeni bir araştırmaya göre deniz sıcak hava dalgaları başta olmak üzere çeşitli baskılar, bu habitatların alanını da",
@@ -1987,26 +2007,6 @@
       "ozet": "76 kilometrekarelik dev buz kütlesi denizde sürüklenmeye başladı",
       "url": "https://www.sozcu.com.tr/76-kilometrekarelik-dev-buz-kutlesi-denizde-suruklenmeye-basladi-p344168",
       "tarih": "2026-08-10T18:28:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8103fac60cf1",
-      "baslik": "Deniz Seki balkondan düştü, hastaneye kaldırıldı",
-      "ozet": "Deniz Seki balkondan düştü, hastaneye kaldırıldı",
-      "url": "https://www.sozcu.com.tr/deniz-seki-balkondan-dustu-hastaneye-kaldirildi-p344156",
-      "tarih": "2026-08-10T17:50:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f30a7ac130c3",
-      "baslik": "Kuaförlerden topladıkları saçları denize bırakmaya başladılar",
-      "ozet": "Kuaförlerden topladıkları saçları denize bırakmaya başladılar",
-      "url": "https://www.sozcu.com.tr/kuaforlerden-topladiklari-saclari-denize-birakmaya-basladilar-p344116",
-      "tarih": "2026-08-10T14:48:47+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
