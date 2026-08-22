@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-22T12:22:20.232830+00:00",
+    "guncelleme": "2026-08-22T15:13:04.475548+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6497,
+    "harita_kayit_sayisi": 6498,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "829ad7c44750",
+      "baslik": "Ayaküstü transfer teklifine Erdoğan'ın memleketinden yanıt",
+      "ozet": "Ayaküstü transfer teklifine Erdoğan'ın memleketinden yanıt",
+      "url": "https://www.sozcu.com.tr/ayakustu-transfer-teklifine-erdogan-in-memleketinden-yanit-p351736",
+      "tarih": "2026-08-22T12:22:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "223c5d89093b",
       "baslik": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
@@ -1997,16 +2007,6 @@
       "ozet": "Madenci devletine sığamadı!",
       "url": "https://www.sozcu.com.tr/madenci-devletine-sigamadi-p344209",
       "tarih": "2026-08-11T01:31:31+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "89d9b374b8bd",
-      "baslik": "Tuğba Danışmaz Avrupa Atletizm Şampiyonası'nda finale yükseldi",
-      "ozet": "Tuğba Danışmaz Avrupa Atletizm Şampiyonası'nda finale yükseldi",
-      "url": "https://www.sozcu.com.tr/tugba-danismaz-avrupa-atletizm-sampiyonasi-nda-finale-yukseldi-p344195",
-      "tarih": "2026-08-10T21:17:16+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92968,6 +92968,20 @@
       "ozet": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
       "lat": 40.8036,
       "lng": 38.419,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e8f7794a0c19",
+      "baslik": "İzmir'in 2 ilçesindeki orman yangınlarına ilişkin 2 gözaltı - Cumhuriyet",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1lmVmZwMmJzbHMyVnlJMGE3QWxQYTRNTXFsS0JKR2tPNFl6VkxjT3ZRbUV0MFVOd0pETGNaMDlnTEpMZDEtcm81UnVDODloaUtLVnczMGJ2eUg4blZmWGsxejJUaEhrX2FwcXRTNjdGb19VN3pJbnN4WUE3V1hOWm9nNXBERTlXUUxkMkNybmJoS1dSdFNxTm1TOWNoVmZXSkdCaWxyc3Q?oc=5",
+      "ozet": "İzmir'in 2 ilçesindeki orman yangınlarına ilişkin 2 gözaltı Cumhuriyet",
+      "lat": 38.4254,
+      "lng": 27.1273,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

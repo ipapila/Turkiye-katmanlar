@@ -117994,5 +117994,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/giresun-da-elektrik-dagitim-helikopteri-dustu-p351720"
+  },
+  {
+    "id": "tarayici-e8f7794a0c19",
+    "tip": "Ekolojik İhlal",
+    "ad": "İzmir'in 2 ilçesindeki orman yangınlarına ilişkin 2 gözaltı - Cumhuriyet",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir'in 2 ilçesindeki orman yangınlarına ilişkin 2 gözaltı Cumhuriyet",
+    "koordinatlar": {
+      "lat": 38.4254,
+      "lng": 27.1273
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "22.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1lmVmZwMmJzbHMyVnlJMGE3QWxQYTRNTXFsS0JKR2tPNFl6VkxjT3ZRbUV0MFVOd0pETGNaMDlnTEpMZDEtcm81UnVDODloaUtLVnczMGJ2eUg4blZmWGsxejJUaEhrX2FwcXRTNjdGb19VN3pJbnN4WUE3V1hOWm9nNXBERTlXUUxkMkNybmJoS1dSdFNxTm1TOWNoVmZXSkdCaWxyc3Q?oc=5"
   }
 ]
