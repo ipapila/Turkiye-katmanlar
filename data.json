@@ -117975,5 +117975,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/ankara-kulislerinde-yeni-hesap-ittifak-trafiginde-iyi-parti-dugumu-p351608"
+  },
+  {
+    "id": "tarayici-223c5d89093b",
+    "tip": "Ekolojik İhlal",
+    "ad": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
+    "il": "Giresun",
+    "ilce": "",
+    "aciklama": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
+    "koordinatlar": {
+      "lat": 40.8036,
+      "lng": 38.419
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "22.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/giresun-da-elektrik-dagitim-helikopteri-dustu-p351720"
   }
 ]

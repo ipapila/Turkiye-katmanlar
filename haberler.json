@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-22T09:19:52.843928+00:00",
+    "guncelleme": "2026-08-22T12:22:20.232830+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6496,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6497,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "223c5d89093b",
+      "baslik": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
+      "ozet": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
+      "url": "https://www.sozcu.com.tr/giresun-da-elektrik-dagitim-helikopteri-dustu-p351720",
+      "tarih": "2026-08-22T11:59:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "310212c41615",
       "baslik": "O otelin çevre ihlali cezasız kalmadı: 1 milyon 678 bin TL ödeyecek - Haberimiz Var",
@@ -969,6 +979,16 @@
       "tarih": "2026-08-16T09:08:44+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "479d1a4e68e1",
+      "baslik": "Marmaris'te orman yangını ikinci gününde kontrol altına alındı - Cumhuriyet",
+      "ozet": "Marmaris'te orman yangını ikinci gününde kontrol altına alındı Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0hSVFhsR2dLdEJZY0ZQbXRUdDBuWEhud3lNOV9oMmZHeUk0MThsbHRGVm1JeXBvYnI2Xy11QlBtQ0ZPdy1lMFk2aU5XbGN3ZlRoX09saHBTVFBBZUt0RXprQkVtcDMxa3QxTk95S2FlRWhrWVpqQ3lJcFpyUGQzZHJ3OWFSbll3NjB1T2VLajVsdVRrR3BMWmNxOEY5bDYzNkdlVUFROFlHbGZ1?oc=5",
+      "tarih": "2026-08-16T07:20:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1987,26 +2007,6 @@
       "ozet": "Tuğba Danışmaz Avrupa Atletizm Şampiyonası'nda finale yükseldi",
       "url": "https://www.sozcu.com.tr/tugba-danismaz-avrupa-atletizm-sampiyonasi-nda-finale-yukseldi-p344195",
       "tarih": "2026-08-10T21:17:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a490b4a442ee",
-      "baslik": "Dev barajda su seviyesi dibe vurdu: Elektrik üretimi yüzde 70 azalabilir",
-      "ozet": "Dev barajda su seviyesi dibe vurdu: Elektrik üretimi yüzde 70 azalabilir",
-      "url": "https://www.sozcu.com.tr/dev-barajda-su-seviyesi-dibe-vurdu-elektrik-uretimi-yuzde-70-azalabilir-p344181",
-      "tarih": "2026-08-10T19:56:31+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f0ac12df3558",
-      "baslik": "76 kilometrekarelik dev buz kütlesi denizde sürüklenmeye başladı",
-      "ozet": "76 kilometrekarelik dev buz kütlesi denizde sürüklenmeye başladı",
-      "url": "https://www.sozcu.com.tr/76-kilometrekarelik-dev-buz-kutlesi-denizde-suruklenmeye-basladi-p344168",
-      "tarih": "2026-08-10T18:28:39+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92954,6 +92954,20 @@
       "ozet": "Ankara kulislerinde yeni hesap...İttifak trafiğinde İYİ Parti düğümü",
       "lat": 40.026,
       "lng": 32.8706,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-223c5d89093b",
+      "baslik": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
+      "konum": "Giresun",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.08.2026",
+      "url": "https://www.sozcu.com.tr/giresun-da-elektrik-dagitim-helikopteri-dustu-p351720",
+      "ozet": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
+      "lat": 40.8036,
+      "lng": 38.419,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
