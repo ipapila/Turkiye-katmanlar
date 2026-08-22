@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-22T15:13:04.475548+00:00",
+    "guncelleme": "2026-08-22T18:18:11.413918+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6498,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6500,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "a661ec29b613",
+      "baslik": "Bilecik’te Hareketli Saatler: Maden Kazası, Orman Yangını ve Araç Yangınları Peş Peşe Geldi - Memleket",
+      "ozet": "Bilecik’te Hareketli Saatler: Maden Kazası, Orman Yangını ve Araç Yangınları Peş Peşe Geldi Memleket",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDBJODlkbFY5VDNtUkZHaHRBQ1o1ZVBBek4yT2JSX2dwM2V4XzdoQjM1TGdiV2g5OU0yNktKd3RIa3Y2elZQUUd1bTU2YnFlYXFTaWpiNnNSX2c0ajJLZ0hHd0lOYjFmaDRRN1lMbXdvRGliUXNXcEVkUkhsWGo1R0ZFRFplY1dCWXBSX0h3bkZaUTRrN2VQbjlJbFVBYnVteFNLVTA0ajVqUnBfU29Vb1hUb21RY1hJOUNEUUJsYTXSAdABQVVfeXFMTU53aTVFSUFrTEd5Wm1ZMTNuRzBCOXJxdVEtZ2ZBblQ1T2owY0lkQmNRZG1mSEEtOWc3RUo1dG4tQVo5ZDZQOGJCLWFfM1hxYkpDMzBSbThrM2V3M1RzMEZ2eXZ3VFBjaUZfRl8xR3VfcUZJVzF5RHUxNlRBczZhYkZfV3lYcmRfY2FQeDJSSWdIS015S2Frdzl0X2RlaXUta3lxY0VYS1lqU0hrVXVQTl85OVBxS2dRZEZwVFl4MEpjd3h3QlN2dU5LZHFWYnJuQw?oc=5",
+      "tarih": "2026-08-22T17:41:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3b630d9006c1",
+      "baslik": "Galatasaray ayrılığı resmen duyurdu: Avrupa derken Süper Lig'de kaldı",
+      "ozet": "Galatasaray ayrılığı resmen duyurdu: Avrupa derken Süper Lig'de kaldı",
+      "url": "https://www.sozcu.com.tr/galatasaray-ayriligi-resmen-duyurdu-avrupa-derken-super-lig-de-kaldi-p351766",
+      "tarih": "2026-08-22T16:07:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "829ad7c44750",
       "baslik": "Ayaküstü transfer teklifine Erdoğan'ın memleketinden yanıt",
@@ -1987,26 +2007,6 @@
       "ozet": "‘Erdoğan siyasetten çekilse AKP biter mi' anketinde çarpıcı sonuç",
       "url": "https://www.sozcu.com.tr/erdogan-siyasetten-cekilse-akp-biter-mi-anketinde-carpici-sonuc-p344241",
       "tarih": "2026-08-11T05:33:57+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8d0c67729574",
-      "baslik": "Hazal Filiz Küçükköse’nin Bodrum keyfi: Denizden çıkmadı",
-      "ozet": "Hazal Filiz Küçükköse’nin Bodrum keyfi: Denizden çıkmadı",
-      "url": "https://www.sozcu.com.tr/hazal-filiz-kucukkose-nin-bodrum-keyfi-denizden-cikmadi-p344238",
-      "tarih": "2026-08-11T05:29:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "58a4d9c9f2f3",
-      "baslik": "Madenci devletine sığamadı!",
-      "ozet": "Madenci devletine sığamadı!",
-      "url": "https://www.sozcu.com.tr/madenci-devletine-sigamadi-p344209",
-      "tarih": "2026-08-11T01:31:31+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -92982,6 +92982,34 @@
       "ozet": "İzmir'in 2 ilçesindeki orman yangınlarına ilişkin 2 gözaltı Cumhuriyet",
       "lat": 38.4254,
       "lng": 27.1273,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a661ec29b613",
+      "baslik": "Bilecik’te Hareketli Saatler: Maden Kazası, Orman Yangını ve Araç Yangınları Peş Peşe Geldi - Memleket",
+      "konum": "Bilecik",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDBJODlkbFY5VDNtUkZHaHRBQ1o1ZVBBek4yT2JSX2dwM2V4XzdoQjM1TGdiV2g5OU0yNktKd3RIa3Y2elZQUUd1bTU2YnFlYXFTaWpiNnNSX2c0ajJLZ0hHd0lOYjFmaDRRN1lMbXdvRGliUXNXcEVkUkhsWGo1R0ZFRFplY1dCWXBSX0h3bkZaUTRrN2VQbjlJbFVBYnVteFNLVTA0ajVqUnBfU29Vb1hUb21RY1hJOUNEUUJsYTXSAdABQVVfeXFMTU53aTVFSUFrTEd5Wm1ZMTNuRzBCOXJxdVEtZ2ZBblQ1T2owY0lkQmNRZG1mSEEtOWc3RUo1dG4tQVo5ZDZQOGJCLWFfM1hxYkpDMzBSbThrM2V3M1RzMEZ2eXZ3VFBjaUZfRl8xR3VfcUZJVzF5RHUxNlRBczZhYkZfV3lYcmRfY2FQeDJSSWdIS015S2Frdzl0X2RlaXUta3lxY0VYS1lqU0hrVXVQTl85OVBxS2dRZEZwVFl4MEpjd3h3QlN2dU5LZHFWYnJuQw?oc=5",
+      "ozet": "Bilecik’te Hareketli Saatler: Maden Kazası, Orman Yangını ve Araç Yangınları Peş Peşe Geldi Memleket",
+      "lat": 40.0599,
+      "lng": 29.9348,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-fb0120878299",
+      "baslik": "Yasa Meclisten Geçti, ÇED Kalktı: %93'ü Maden Ruhsatlı Gümüşhane'de Ne Olacak? - gumuskoza.com.tr",
+      "konum": "Gümüşhane",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOElHTEpXdXJZR0VQa3lYSXYzRGJQZl8yU0JaT2k2YlJiUThOMmhUOWlPb2xGT2FOa2ZjWEtxMk9jUTY2ZGhRMDVlaEFmal9WNS12SWZWVHQzVkl1RGd2cmhwNHpxMWdyeU84b0NCdDBvQkJMSUFlMlhfSF8ybTVySGpYUzd2bTVRZ3BkNi1NaTFtdVFDUHZYUl91RzlVZUpRRW5BYzVnY3dxQVVPd3h6dFUxekVHUTDSAbwBQVVfeXFMT0JSOGJPU0o5S2N3X2U1b2lxTFdrU0p3b2MzWmRBTUpRRXNVa05mWlBLNjJEaFh2VTlNejF4aDZHZmR4N1hVRWMxY0FocUtTbWpYUWQybVJHc01xcUVYUm9oZlk1SVJuQ1pKbGJROXl2bWk3NE84WTdKYy10UmRhYjZON2laT09kWGQ5VDhFeDUyOVBCTkdBWGtKd0p2SHBJOUdHRi0wMFFzdEFMSkxrbjVFQ3VKbmxfaVlOOXc?oc=5",
+      "ozet": "Yasa Meclisten Geçti, ÇED Kalktı: %93'ü Maden Ruhsatlı Gümüşhane'de Ne Olacak? gumuskoza.com.tr",
+      "lat": 40.4218,
+      "lng": 39.5846,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
