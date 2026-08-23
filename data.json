@@ -118127,5 +118127,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMzEtWjJTNnJpYkotcndjN1huWXZJU3ZaTXRTd18yeVJ4N1cxc0RxakEwUWx6ZHJHZ2NBYmxqd1g4cFJ4c1l1TnQ3VTNPX2FZcDR0eUVDc2FZYXBVWFdfYko1Yk5NNXZtRExMVkpDYm5PdzJTXzhYOHNjWGo4ZUN6SmZoZzJsdGlkdndZOVZmczR5bFNtN1hsSzlUc01reG53N0VhUEpqWGw4aUZZNmk0?oc=5"
+  },
+  {
+    "id": "tarayici-52ec0f4ddea0",
+    "tip": "Ekolojik İhlal",
+    "ad": "Trabzon’da Salah fırtınası! Bordo-mavililer sezonun ilk galibiyetini aldı",
+    "il": "Trabzon",
+    "ilce": "",
+    "aciklama": "Trabzon’da Salah fırtınası! Bordo-mavililer sezonun ilk galibiyetini aldı",
+    "koordinatlar": {
+      "lat": 40.9191,
+      "lng": 39.7881
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "23.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/trabzon-da-salah-firtinasi-bordo-mavililer-sezonun-ilk-galibiyetini-aldi-p352007"
   }
 ]

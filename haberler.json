@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-23T15:14:56.803157+00:00",
+    "guncelleme": "2026-08-23T18:17:45.182982+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6504,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6505,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "11a1b80fa19c",
+      "baslik": "Metrelerce kalınlıktaki buzları nükleer güçle parçalayacaklar: 15 reaktör birden hazırlanıyor",
+      "ozet": "Metrelerce kalınlıktaki buzları nükleer güçle parçalayacaklar: 15 reaktör birden hazırlanıyor",
+      "url": "https://www.sozcu.com.tr/metrelerce-kalinliktaki-buzlari-nukleer-gucle-parcalayacaklar-15-reaktor-birden-hazirlaniyor-p352009",
+      "tarih": "2026-08-23T18:05:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "52ec0f4ddea0",
+      "baslik": "Trabzon’da Salah fırtınası! Bordo-mavililer sezonun ilk galibiyetini aldı",
+      "ozet": "Trabzon’da Salah fırtınası! Bordo-mavililer sezonun ilk galibiyetini aldı",
+      "url": "https://www.sozcu.com.tr/trabzon-da-salah-firtinasi-bordo-mavililer-sezonun-ilk-galibiyetini-aldi-p352007",
+      "tarih": "2026-08-23T18:04:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2931e7c8a4a9",
+      "baslik": "Dev yolcu uçağını denizin dibine batırdılar",
+      "ozet": "Dev yolcu uçağını denizin dibine batırdılar",
+      "url": "https://www.sozcu.com.tr/dev-yolcu-ucagini-denizin-dibine-batirdilar-p352000",
+      "tarih": "2026-08-23T16:46:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "23d05f4c76de",
       "baslik": "2 bin 400 kurbağayı doğaya bıraktıklarına pişman oldular",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-11T07:56:43+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a384b693bf81",
-      "baslik": "İklim İnkârcılığı Sözlüğü-7: “Orman Yangınlarının Artmasının Sebebi İklim Kanunu”",
-      "ozet": "Bu hikâyeyi yayan hesaplar, “Neden?” sorusunu ısrarla cevapsız bıraktı. Tarım ve Orman Bakanlığı Orman Genel Müdürlüğü’nün resmi verilerine göre, Türkiye’de İklim Kanunu çıktıktan sonra, 2025 yılında 3 bin 244 orman yangını görüldü. Kanun çıkmadan önce 2024 yılında ise bu sayı 3 ",
-      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-7-orman-yanginlarinin-artmasinin-sebebi-iklim-kanunu/",
-      "tarih": "2026-08-11T07:45:51+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a9e53911b6d4",
-      "baslik": "Tarımda iki ürünün ekimi yasaklanacak",
-      "ozet": "Tarımda iki ürünün ekimi yasaklanacak",
-      "url": "https://www.sozcu.com.tr/tarimda-iki-urunun-ekimi-yasaklanacak-p344310",
-      "tarih": "2026-08-11T07:42:43+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fe55dbcadd37",
-      "baslik": "Kuşların Göç Yollarındaki Elektrik Tehdidi İçin Çağrı",
-      "ozet": "İstanbul Küçükçekmece’de tren yolundaki elektrifikasyon hattında göç yolundaki en az 50 leyleğin akıma kapılarak hayatını kaybetmesinin ve Mersin’de ise elektrik direklerine konan leyleklerin elektrik çarpması nedeniyle yaşamlarını yitirmelerinin ardından WWF-Türkiye (Doğal Hayat",
-      "url": "https://www.iklimhaber.org/kuslarin-goc-yollarindaki-elektrik-tehdidi-icin-cagri/",
-      "tarih": "2026-08-11T06:53:47+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -93066,6 +93066,20 @@
       "ozet": "Sivas'ta maden ocağındaki göçük: Şantiye müdürü 8 gündür aranıyor! - Son Dakika Türkiye Haberleri Cumhuriyet",
       "lat": 39.7312,
       "lng": 37.1265,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-52ec0f4ddea0",
+      "baslik": "Trabzon’da Salah fırtınası! Bordo-mavililer sezonun ilk galibiyetini aldı",
+      "konum": "Trabzon",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "23.08.2026",
+      "url": "https://www.sozcu.com.tr/trabzon-da-salah-firtinasi-bordo-mavililer-sezonun-ilk-galibiyetini-aldi-p352007",
+      "ozet": "Trabzon’da Salah fırtınası! Bordo-mavililer sezonun ilk galibiyetini aldı",
+      "lat": 40.9191,
+      "lng": 39.7881,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
