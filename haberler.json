@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-23T12:22:57.022452+00:00",
+    "guncelleme": "2026-08-23T15:14:56.803157+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6504,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "23d05f4c76de",
+      "baslik": "2 bin 400 kurbağayı doğaya bıraktıklarına pişman oldular",
+      "ozet": "2 bin 400 kurbağayı doğaya bıraktıklarına pişman oldular",
+      "url": "https://www.sozcu.com.tr/2-bin-400-kurbagayi-dogaya-biraktiklarina-pisman-oldular-p351979",
+      "tarih": "2026-08-23T14:27:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3a7d4e2d1677",
+      "baslik": "Yok olmak üzere olan ormanın imdadına arılar yetişti",
+      "ozet": "Yok olmak üzere olan ormanın imdadına arılar yetişti",
+      "url": "https://www.sozcu.com.tr/yok-olmak-uzere-olan-ormanin-imdadina-arilar-yetisti-p351975",
+      "tarih": "2026-08-23T14:11:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "89fc083dae4c",
       "baslik": "Vergi ve ceza borçları olanlar dikkat: Başvuru için son 8 gün",
@@ -1987,26 +2007,6 @@
       "ozet": "İstanbul Küçükçekmece’de tren yolundaki elektrifikasyon hattında göç yolundaki en az 50 leyleğin akıma kapılarak hayatını kaybetmesinin ve Mersin’de ise elektrik direklerine konan leyleklerin elektrik çarpması nedeniyle yaşamlarını yitirmelerinin ardından WWF-Türkiye (Doğal Hayat",
       "url": "https://www.iklimhaber.org/kuslarin-goc-yollarindaki-elektrik-tehdidi-icin-cagri/",
       "tarih": "2026-08-11T06:53:47+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8dbdb78da0c7",
-      "baslik": "Ameliyat sonrası Deniz Seki ilk kez konuştu: “Bacaklarım ikiye ayrılmış gibi düştüm, leğen kemiğim kırıldı”",
-      "ozet": "Ameliyat sonrası Deniz Seki ilk kez konuştu: “Bacaklarım ikiye ayrılmış gibi düştüm, leğen kemiğim kırıldı”",
-      "url": "https://www.sozcu.com.tr/deniz-seki-den-ameliyat-sonrasi-yeni-haber-hastanede-kalacagi-sure-belli-oldu-p344262",
-      "tarih": "2026-08-11T06:52:25+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d8ce0ad514de",
-      "baslik": "İngiltere’nin Üçte İkisinde Resmen Kuraklık İlan Edildi",
-      "ozet": "Başta kömür, petrol ve gazın yakılması gibi insan faaliyetlerinden kaynaklanan küresel ısınma nedeniyle İngiltere’nin ikliminde büyük çaplı değişiklikler görülüyor. Yağışlı iklimiyle bilinen ülkenin bazı bölgelerinde 54 gündür yağmur yağmadı. İngiltere’de kuraklık koşullarının ha",
-      "url": "https://www.iklimhaber.org/ingilterenin-ucte-ikisinde-resmen-kuraklik-ilan-edildi/",
-      "tarih": "2026-08-11T06:30:11+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
