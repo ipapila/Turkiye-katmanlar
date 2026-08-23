@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-22T18:18:11.413918+00:00",
+    "guncelleme": "2026-08-23T03:43:21.402941+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6500,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6501,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "1c704e0b9b38",
+      "baslik": "Madenciler Külliye’ye yürüyecek",
+      "ozet": "Madenciler Külliye’ye yürüyecek",
+      "url": "https://www.sozcu.com.tr/madenciler-kulliye-ye-yuruyecek-p351822",
+      "tarih": "2026-08-23T02:30:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a661ec29b613",
       "baslik": "Bilecik’te Hareketli Saatler: Maden Kazası, Orman Yangını ve Araç Yangınları Peş Peşe Geldi - Memleket",
@@ -1997,16 +2007,6 @@
       "ozet": "Evliliklerinde kriz olduğu öne sürülmüştü! Selahattin Paşalı’dan Lara Paşalı’yla aşk karesi",
       "url": "https://www.sozcu.com.tr/evliliklerinde-kriz-oldugu-one-surulmustu-selahattin-pasali-dan-lara-pasali-yla-ask-karesi-p344244",
       "tarih": "2026-08-11T05:37:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "30fdf99eea42",
-      "baslik": "‘Erdoğan siyasetten çekilse AKP biter mi' anketinde çarpıcı sonuç",
-      "ozet": "‘Erdoğan siyasetten çekilse AKP biter mi' anketinde çarpıcı sonuç",
-      "url": "https://www.sozcu.com.tr/erdogan-siyasetten-cekilse-akp-biter-mi-anketinde-carpici-sonuc-p344241",
-      "tarih": "2026-08-11T05:33:57+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93010,6 +93010,20 @@
       "ozet": "Yasa Meclisten Geçti, ÇED Kalktı: %93'ü Maden Ruhsatlı Gümüşhane'de Ne Olacak? gumuskoza.com.tr",
       "lat": 40.4218,
       "lng": 39.5846,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-050a40c5709d",
+      "baslik": "Samsun'da Batı Çevre Yolu için 887 taşınmaz kamulaştırılacak! İşte yerlerin listesi - Samsun Kent Haber",
+      "konum": "Samsun",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "23.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUQ4aW1JVURycHFIaDRmZW1lRUdvenBLWnpaNWotWDl0d1ZTaC1KRTJGOWQwMXFDcms1V205SEJ6TXNyR2RSNGFmeFJ3Q3EwRXdNcnZqRUlJZmxMTXZlZlVuYTVheHBWQ19uQ0RoS1BER3l3RFBocHB4MG83ai05SDk5WHk5Nm9obW9rc0NsVHBsdE83ZVU1S0k4WTJVaEJNZk9wSlFiSU1vMFpkV0QxZ3ZEYW1YMkdyMks1NE1YSkNLZw?oc=5",
+      "ozet": "Samsun'da Batı Çevre Yolu için 887 taşınmaz kamulaştırılacak! İşte yerlerin listesi Samsun Kent Haber",
+      "lat": 41.2602,
+      "lng": 36.3022,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
