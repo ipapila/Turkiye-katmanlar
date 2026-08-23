@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-23T09:20:21.218609+00:00",
+    "guncelleme": "2026-08-23T12:22:57.022452+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6503,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6504,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "89fc083dae4c",
+      "baslik": "Vergi ve ceza borçları olanlar dikkat: Başvuru için son 8 gün",
+      "ozet": "Vergi ve ceza borçları olanlar dikkat: Başvuru için son 8 gün",
+      "url": "https://www.sozcu.com.tr/vergi-ve-ceza-borclari-olanlar-dikkat-basvuru-icin-son-8-gun-p351954",
+      "tarih": "2026-08-23T12:12:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "821ff5b15d11",
       "baslik": "Konutta hesap sil baştan: Yatırımcının rotası değişmeye başladı",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-08-11T06:30:11+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3e60ea55832c",
-      "baslik": "Suyla temas edince eriyen kayaların üzerine dev baraj inşa edildi",
-      "ozet": "Suyla temas edince eriyen kayaların üzerine dev baraj inşa edildi",
-      "url": "https://www.sozcu.com.tr/suyla-temas-edince-eriyen-kayalarin-uzerine-dev-baraj-insa-edildi-p344259",
-      "tarih": "2026-08-11T06:10:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -93052,6 +93052,20 @@
       "ozet": "İstanbul’da bugün dikkat: 3 ilçede yollar trafiğe kapanıyor",
       "lat": 41.0908,
       "lng": 29.0985,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b0e67bafbbba",
+      "baslik": "Sivas'ta maden ocağındaki göçük: Şantiye müdürü 8 gündür aranıyor! - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "konum": "Sivas",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "23.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMzEtWjJTNnJpYkotcndjN1huWXZJU3ZaTXRTd18yeVJ4N1cxc0RxakEwUWx6ZHJHZ2NBYmxqd1g4cFJ4c1l1TnQ3VTNPX2FZcDR0eUVDc2FZYXBVWFdfYko1Yk5NNXZtRExMVkpDYm5PdzJTXzhYOHNjWGo4ZUN6SmZoZzJsdGlkdndZOVZmczR5bFNtN1hsSzlUc01reG53N0VhUEpqWGw4aUZZNmk0?oc=5",
+      "ozet": "Sivas'ta maden ocağındaki göçük: Şantiye müdürü 8 gündür aranıyor! - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "lat": 39.7312,
+      "lng": 37.1265,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

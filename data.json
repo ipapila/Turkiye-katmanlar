@@ -118108,5 +118108,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-bugun-dikkat-3-ilcede-yollar-trafige-kapaniyor-p351833"
+  },
+  {
+    "id": "tarayici-b0e67bafbbba",
+    "tip": "Maden Ocağı",
+    "ad": "Sivas'ta maden ocağındaki göçük: Şantiye müdürü 8 gündür aranıyor! - Son Dakika Türkiye Haberleri - Cumhuriyet",
+    "il": "Sivas",
+    "ilce": "",
+    "aciklama": "Sivas'ta maden ocağındaki göçük: Şantiye müdürü 8 gündür aranıyor! - Son Dakika Türkiye Haberleri Cumhuriyet",
+    "koordinatlar": {
+      "lat": 39.7312,
+      "lng": 37.1265
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "23.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMzEtWjJTNnJpYkotcndjN1huWXZJU3ZaTXRTd18yeVJ4N1cxc0RxakEwUWx6ZHJHZ2NBYmxqd1g4cFJ4c1l1TnQ3VTNPX2FZcDR0eUVDc2FZYXBVWFdfYko1Yk5NNXZtRExMVkpDYm5PdzJTXzhYOHNjWGo4ZUN6SmZoZzJsdGlkdndZOVZmczR5bFNtN1hsSzlUc01reG53N0VhUEpqWGw4aUZZNmk0?oc=5"
   }
 ]
