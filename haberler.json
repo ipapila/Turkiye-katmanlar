@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-24T12:32:30.205496+00:00",
+    "guncelleme": "2026-08-24T15:31:31.157621+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6507,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6508,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "0c3ab4d6eb94",
+      "baslik": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
+      "ozet": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
+      "url": "https://www.sozcu.com.tr/son-dakika-veya-balikesir-ve-cevre-illerde-hissedilen-bir-deprem-meydana-geldi-p352293",
+      "tarih": "2026-08-24T14:40:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "be7174f8e4c5",
+      "baslik": "Bahçedeki yığının altından yüzlerce zehirli yılan çıktı",
+      "ozet": "Bahçedeki yığının altından yüzlerce zehirli yılan çıktı",
+      "url": "https://www.sozcu.com.tr/bahcedeki-yiginin-altindan-yuzlerce-zehirli-yilan-cikti-p352308",
+      "tarih": "2026-08-24T14:27:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "89f89256faa8",
+      "baslik": "Süresi dolan kredi kartlarında temassız ödeme riski",
+      "ozet": "Süresi dolan kredi kartlarında temassız ödeme riski",
+      "url": "https://www.sozcu.com.tr/suresi-dolan-kredi-kartlarinda-temassiz-odeme-riski-p352287",
+      "tarih": "2026-08-24T13:01:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0abb458cf12f",
+      "baslik": "Deniz Baysal ve Barış Yurtçu’nun boşanmasında yeni gelişme",
+      "ozet": "Deniz Baysal ve Barış Yurtçu’nun boşanmasında yeni gelişme",
+      "url": "https://www.sozcu.com.tr/deniz-baysal-ve-baris-yurtcu-nun-bosanmasinda-yeni-gelisme-p352285",
+      "tarih": "2026-08-24T12:59:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d17d245213a6",
+      "baslik": "“Çin COP33’e Göz Kırpıyor” İddiası",
+      "ozet": "Bazı iddialara göre Çin, 2028 Birleşmiş Milletler (BM) iklim zirvesine ev sahipliği yapmak için adaylığı değerlendiriyor: BM iklim müzakerelerine ev sahipliği yapmanın, Çin açısından iklim alanındaki liderlik iddiasını güçlendirmek adına bir fırsat olabileceği düşünülüyor. Çin, k",
+      "url": "https://www.iklimhaber.org/cin-cop33e-goz-kirpiyor-iddiasi/",
+      "tarih": "2026-08-24T12:40:05+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "69942714f8d2",
       "baslik": "Orman Yangınlarını Nasıl Azaltabiliriz?",
@@ -1957,56 +2007,6 @@
       "ozet": "Elinde bu madeni paradan olana 40 milyon lira veriyorlar",
       "url": "https://www.sozcu.com.tr/elinde-bu-madeni-paradan-olana-40-milyon-lira-veriyorlar-p346596",
       "tarih": "2026-08-12T06:17:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b2bdc1d4dd98",
-      "baslik": "Küresel piyasalarda kritik saatler: ABD enflasyon verisi dengeleri değiştirecek mi?",
-      "ozet": "Küresel piyasalarda kritik saatler: ABD enflasyon verisi dengeleri değiştirecek mi?",
-      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-kritik-saatler-abd-enflasyon-verisi-dengeleri-degistirecek-mi-p346593",
-      "tarih": "2026-08-12T06:13:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c2233d78d69f",
-      "baslik": "Bankalar düğmeye bastı: Hesabınız bir anda bloke olacak",
-      "ozet": "Bankalar düğmeye bastı: Hesabınız bir anda bloke olacak",
-      "url": "https://www.sozcu.com.tr/bankalar-dugmeye-basti-hesabiniz-bir-anda-bloke-olacak-p346586",
-      "tarih": "2026-08-12T06:01:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e94f98a33c26",
-      "baslik": "Kentsel dönüşümde yeni dönem: Binalar artık bu şartlarla yıkılacak",
-      "ozet": "Kentsel dönüşümde yeni dönem: Binalar artık bu şartlarla yıkılacak",
-      "url": "https://www.sozcu.com.tr/kentsel-donusumde-yeni-donem-binalar-artik-bu-sartlarla-yikilacak-p346580",
-      "tarih": "2026-08-12T05:49:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "04ce8ad68e7d",
-      "baslik": "Kuşadası'nda plaj faresi edebiyat öğretmeni çıktı",
-      "ozet": "Kuşadası'nda plaj faresi edebiyat öğretmeni çıktı",
-      "url": "https://www.sozcu.com.tr/kusadasinda-plaj-faresi-edebiyat-ogretmeni-cikti-p346553",
-      "tarih": "2026-08-12T04:25:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b82a530dd727",
-      "baslik": "Suşi yemek için gittiği restoranda kabusu yaşadı! İki kat aşağı düştü, vücudunda yanıklar oluştu",
-      "ozet": "Suşi yemek için gittiği restoranda kabusu yaşadı! İki kat aşağı düştü, vücudunda yanıklar oluştu",
-      "url": "https://www.sozcu.com.tr/sushi-restoraninda-kabus-yasadi-p344523",
-      "tarih": "2026-08-12T03:31:22+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93108,6 +93108,20 @@
       "ozet": "Gençlerbirliği İzmir’de kazandı, liderliğe yükseldi",
       "lat": 38.4177,
       "lng": 27.0292,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0c3ab4d6eb94",
+      "baslik": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
+      "konum": "Balıkesir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.08.2026",
+      "url": "https://www.sozcu.com.tr/son-dakika-veya-balikesir-ve-cevre-illerde-hissedilen-bir-deprem-meydana-geldi-p352293",
+      "ozet": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
+      "lat": 39.6536,
+      "lng": 28.0062,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

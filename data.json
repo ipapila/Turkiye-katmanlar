@@ -118184,5 +118184,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/genclerbirligi-izmir-de-kazandi-liderlige-yukseldi-p352033"
+  },
+  {
+    "id": "tarayici-0c3ab4d6eb94",
+    "tip": "Ekolojik İhlal",
+    "ad": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
+    "koordinatlar": {
+      "lat": 39.6536,
+      "lng": 28.0062
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "24.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/son-dakika-veya-balikesir-ve-cevre-illerde-hissedilen-bir-deprem-meydana-geldi-p352293"
   }
 ]
