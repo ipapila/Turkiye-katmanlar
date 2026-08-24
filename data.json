@@ -118146,5 +118146,43 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/trabzon-da-salah-firtinasi-bordo-mavililer-sezonun-ilk-galibiyetini-aldi-p352007"
+  },
+  {
+    "id": "tarayici-7c1c7dd12647",
+    "tip": "Ekolojik İhlal",
+    "ad": "Diyarbakır'da plazada yangın! Alevler binayı sardı",
+    "il": "Diyarbakır",
+    "ilce": "",
+    "aciklama": "Diyarbakır'da plazada yangın! Alevler binayı sardı",
+    "koordinatlar": {
+      "lat": 37.9419,
+      "lng": 40.2502
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "24.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/diyarbakir-plazasinda-yangin-panigi-mudahale-suruyor-p352037"
+  },
+  {
+    "id": "tarayici-1cb6303a790e",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gençlerbirliği İzmir’de kazandı, liderliğe yükseldi",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Gençlerbirliği İzmir’de kazandı, liderliğe yükseldi",
+    "koordinatlar": {
+      "lat": 38.4177,
+      "lng": 27.0292
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "24.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/genclerbirligi-izmir-de-kazandi-liderlige-yukseldi-p352033"
   }
 ]

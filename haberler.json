@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-23T18:17:45.182982+00:00",
+    "guncelleme": "2026-08-24T03:47:18.302789+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6505,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6507,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "097c9ba5c11b",
+      "baslik": "Çaresiz değilsiniz  çare sizsiniz",
+      "ozet": "Çaresiz değilsiniz  çare sizsiniz",
+      "url": "https://www.sozcu.com.tr/caresiz-degilsiniz-care-sizsiniz-p352049",
+      "tarih": "2026-08-24T02:53:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "23daa04e63c3",
+      "baslik": "Tosuncuk da parselci oldu",
+      "ozet": "Tosuncuk da parselci oldu",
+      "url": "https://www.sozcu.com.tr/tosuncuk-da-parselci-oldu-p352060",
+      "tarih": "2026-08-24T02:30:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1abcae797b74",
+      "baslik": "Milyonlarca hektarlık orman için yeni karar: Ağaç kesimine izin verilecek",
+      "ozet": "Milyonlarca hektarlık orman için yeni karar: Ağaç kesimine izin verilecek",
+      "url": "https://www.sozcu.com.tr/milyonlarca-hektarlik-orman-icin-yeni-karar-agac-kesimine-izin-verilecek-p352053",
+      "tarih": "2026-08-23T22:02:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7c1c7dd12647",
+      "baslik": "Diyarbakır'da plazada yangın! Alevler binayı sardı",
+      "ozet": "Diyarbakır'da plazada yangın! Alevler binayı sardı",
+      "url": "https://www.sozcu.com.tr/diyarbakir-plazasinda-yangin-panigi-mudahale-suruyor-p352037",
+      "tarih": "2026-08-23T21:14:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1cb6303a790e",
+      "baslik": "Gençlerbirliği İzmir’de kazandı, liderliğe yükseldi",
+      "ozet": "Gençlerbirliği İzmir’de kazandı, liderliğe yükseldi",
+      "url": "https://www.sozcu.com.tr/genclerbirligi-izmir-de-kazandi-liderlige-yukseldi-p352033",
+      "tarih": "2026-08-23T20:50:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "11a1b80fa19c",
       "baslik": "Metrelerce kalınlıktaki buzları nükleer güçle parçalayacaklar: 15 reaktör birden hazırlanıyor",
@@ -1957,56 +2007,6 @@
       "ozet": "Berkan Kutlu'nun yeni adresi belli oldu",
       "url": "https://www.sozcu.com.tr/berkan-kutlu-super-ligde-kocaelisporun-formasini-giyecek-p344446",
       "tarih": "2026-08-11T14:46:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b967ddbae149",
-      "baslik": "Nottingham Forest, Fildişili yıldızı kadrosuna kattı",
-      "ozet": "Nottingham Forest, Fildişili yıldızı kadrosuna kattı",
-      "url": "https://www.sozcu.com.tr/nottingham-forest-fildisili-yildizi-kadrosuna-katti-p344388",
-      "tarih": "2026-08-11T11:55:09+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3d3261e6a174",
-      "baslik": "Sıcak Günler Daha da Sıcak Olacak",
-      "ozet": "Yeni bir araştırma yüzyılın sonuna doğru sıcak günlerde aşırı sıcaklığın dört saatten fazla artabileceğini ortaya koyuyor. Yüksek emisyon senaryosuna dayanan yeni bir çalışma, sıcak günlerin 21. yüzyılın sonlarına doğru 4 saatten fazla ek aşırı sıcaklık süresine sahip olabileceği",
-      "url": "https://www.iklimhaber.org/sicak-gunler-daha-da-sicak-olacak/",
-      "tarih": "2026-08-11T11:18:42+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "daa297faa2fb",
-      "baslik": "Türkiye'nin Karadeniz teklifi Rusya'yı çılgına çevirdi",
-      "ozet": "Türkiye'nin Karadeniz teklifi Rusya'yı çılgına çevirdi",
-      "url": "https://www.sozcu.com.tr/turkiye-nin-karadeniz-teklifi-rusya-yi-cilgina-cevirdi-p344352",
-      "tarih": "2026-08-11T09:40:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5bf4f4dd9a5b",
-      "baslik": "Konser yorgunluğunu denizde atıyor: Koray Avcı artık teknede yaşıyor, temizliği kendi yapıyor",
-      "ozet": "Konser yorgunluğunu denizde atıyor: Koray Avcı artık teknede yaşıyor, temizliği kendi yapıyor",
-      "url": "https://www.sozcu.com.tr/konser-yorgunlugunu-denizde-atiyor-koray-avci-artik-teknede-yasiyor-temizligi-kendi-yapiyor-p344349",
-      "tarih": "2026-08-11T09:36:19+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "54144fe2e112",
-      "baslik": "Altın burada tutunursa daha da yükselecek: 'Bu veri her şeyi değiştirebilir'",
-      "ozet": "Altın burada tutunursa daha da yükselecek: 'Bu veri her şeyi değiştirebilir'",
-      "url": "https://www.sozcu.com.tr/altin-burada-tutunursa-daha-da-yukselecek-bu-veri-her-seyi-degistirebilir-p344313",
-      "tarih": "2026-08-11T07:56:43+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93080,6 +93080,34 @@
       "ozet": "Trabzon’da Salah fırtınası! Bordo-mavililer sezonun ilk galibiyetini aldı",
       "lat": 40.9191,
       "lng": 39.7881,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-7c1c7dd12647",
+      "baslik": "Diyarbakır'da plazada yangın! Alevler binayı sardı",
+      "konum": "Diyarbakır",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.08.2026",
+      "url": "https://www.sozcu.com.tr/diyarbakir-plazasinda-yangin-panigi-mudahale-suruyor-p352037",
+      "ozet": "Diyarbakır'da plazada yangın! Alevler binayı sardı",
+      "lat": 37.9419,
+      "lng": 40.2502,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-1cb6303a790e",
+      "baslik": "Gençlerbirliği İzmir’de kazandı, liderliğe yükseldi",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.08.2026",
+      "url": "https://www.sozcu.com.tr/genclerbirligi-izmir-de-kazandi-liderlige-yukseldi-p352033",
+      "ozet": "Gençlerbirliği İzmir’de kazandı, liderliğe yükseldi",
+      "lat": 38.4177,
+      "lng": 27.0292,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
