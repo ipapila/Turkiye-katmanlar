@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-24T15:31:31.157621+00:00",
+    "guncelleme": "2026-08-24T18:28:37.880916+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6508,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "a871fdbdc7c1",
+      "baslik": "Rafael Leao, Milan’a rest çekti! ‘Sadece Galatasaray’a giderim’",
+      "ozet": "Rafael Leao, Milan’a rest çekti! ‘Sadece Galatasaray’a giderim’",
+      "url": "https://www.sozcu.com.tr/rafael-leao-milan-a-rest-cekti-sadece-galatasaray-a-giderim-p352334",
+      "tarih": "2026-08-24T16:52:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0c3ab4d6eb94",
       "baslik": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-08-12T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "32821d6dc6cd",
-      "baslik": "Elinde bu madeni paradan olana 40 milyon lira veriyorlar",
-      "ozet": "Elinde bu madeni paradan olana 40 milyon lira veriyorlar",
-      "url": "https://www.sozcu.com.tr/elinde-bu-madeni-paradan-olana-40-milyon-lira-veriyorlar-p346596",
-      "tarih": "2026-08-12T06:17:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
