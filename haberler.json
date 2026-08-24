@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-24T06:40:24.693902+00:00",
+    "guncelleme": "2026-08-24T09:38:35.557457+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6507,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "69942714f8d2",
+      "baslik": "Orman Yangınlarını Nasıl Azaltabiliriz?",
+      "ozet": "",
+      "url": "https://www.iklimhaber.org/orman-yanginlarini-nasil-azaltabiliriz/",
+      "tarih": "2026-08-24T09:38:18.638651+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "e5e955c6157c",
+      "baslik": "Almanya'nın tüm dengesi bozulacak: Euro bölgesinden çıkıp Schengen'den çekilecekler",
+      "ozet": "Almanya'nın tüm dengesi bozulacak: Euro bölgesinden çıkıp Schengen'den çekilecekler",
+      "url": "https://www.sozcu.com.tr/almanya-nin-tum-dengesi-bozulacak-euro-bolgesinden-cikip-schengen-den-cekilecekler-p352191",
+      "tarih": "2026-08-24T08:53:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8c3637d16c08",
+      "baslik": "Direnen Maden İşçileri: “Bakanlık Sözünü Tutmazsa Cumhurbaşkanlığı’na Yürüyeceğiz”",
+      "ozet": "Doruk Madencilik ve Eti Gümüş işçilerinin Bakanlık önündeki direnişi 14. gününde devam ediyor. Görüşme talepleri yanıtsız kalan maden işçileri, salı gününe kadar sözlerin tutulmaması durumunda çarşamba günü Cumhurbaşkanlığı’na yürüyeceklerini duyurdu. Enerji Bakanlığı önündeki ey",
+      "url": "https://www.iklimhaber.org/direnen-maden-iscileri-bakanlik-sozunu-tutmazsa-cumhurbaskanligina-yuruyecegiz/",
+      "tarih": "2026-08-24T08:15:16+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "be834c8de45c",
+      "baslik": "IEA Başkanı Birol’dan Enerji Krizi Uyarısı: “Vazo Kırıldı”",
+      "ozet": "Enerji sektöründeki son gelişmeleri değerlendiren IEA Başkanı Fatih Birol, dünyanın karşılaştığı en büyük enerji krizinin yaşandığını belirterek, Hürmüz Boğazı için “Vazo kırıldı” ifadelerini kullandı. Kırılan bir vazonun yapıştırılarak eski haline getirilemeyeceğini vurgulayan B",
+      "url": "https://www.iklimhaber.org/iea-baskani-biroldan-enerji-krizi-uyarisi-vazo-kirildi/",
+      "tarih": "2026-08-24T06:51:15+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "303cf827c483",
       "baslik": "Fikret Orman kıskandı: Güzide Duran defileye iki saat kala podyumdan çekildi",
@@ -1967,46 +2007,6 @@
       "ozet": "Suşi yemek için gittiği restoranda kabusu yaşadı! İki kat aşağı düştü, vücudunda yanıklar oluştu",
       "url": "https://www.sozcu.com.tr/sushi-restoraninda-kabus-yasadi-p344523",
       "tarih": "2026-08-12T03:31:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6c6e96d1c8fe",
-      "baslik": "20 bin ton betonu denizin dibine bıraktılar",
-      "ozet": "20 bin ton betonu denizin dibine bıraktılar",
-      "url": "https://www.sozcu.com.tr/20-bin-ton-betonu-denizin-dibine-biraktilar-p344540",
-      "tarih": "2026-08-11T22:01:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "21ead5acb69a",
-      "baslik": "İran ABD’ye resti çekti: Bu şartlar kabul olmazsa Hürmüz açılmayacak",
-      "ozet": "İran ABD’ye resti çekti: Bu şartlar kabul olmazsa Hürmüz açılmayacak",
-      "url": "https://www.sozcu.com.tr/iran-abd-ye-resti-cekti-bu-sartlar-kabul-olmazsa-hurmuz-acilmayacak-p344490",
-      "tarih": "2026-08-11T17:57:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b2a1fc5e13f0",
-      "baslik": "85 yaşındaki çiftçi tek bir fidanla inanılmazı başardı: Ormanlık yamaç meyveyle doldu",
-      "ozet": "85 yaşındaki çiftçi tek bir fidanla inanılmazı başardı: Ormanlık yamaç meyveyle doldu",
-      "url": "https://www.sozcu.com.tr/85-yasindaki-ciftci-tek-bir-fidanla-inanilmazi-basardi-ormanlik-yamac-meyveyle-doldu-p344483",
-      "tarih": "2026-08-11T17:07:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a6239f21bada",
-      "baslik": "Erdoğan Kurtulmuş ile görüştü! Çerçeve yasa sonrası kritik buluşma",
-      "ozet": "Erdoğan Kurtulmuş ile görüştü! Çerçeve yasa sonrası kritik buluşma",
-      "url": "https://www.sozcu.com.tr/erdogan-kurtulmus-ile-gorustu-cerceve-yasa-sonrasi-kritik-bulusma-p344450",
-      "tarih": "2026-08-11T15:12:15+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
