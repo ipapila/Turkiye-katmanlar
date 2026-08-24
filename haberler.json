@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-24T03:47:18.302789+00:00",
+    "guncelleme": "2026-08-24T06:40:24.693902+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6507,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "303cf827c483",
+      "baslik": "Fikret Orman kıskandı: Güzide Duran defileye iki saat kala podyumdan çekildi",
+      "ozet": "Fikret Orman kıskandı: Güzide Duran defileye iki saat kala podyumdan çekildi",
+      "url": "https://www.sozcu.com.tr/fikret-orman-kiskandi-guzide-duran-defileye-iki-saat-kala-podyumdan-cekildi-p352102",
+      "tarih": "2026-08-24T06:02:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "47566664c8e5",
+      "baslik": "Doğayı kurtarmak için adaya bıraktılar 50 tür için felaket oldu: Haritadan silindiler",
+      "ozet": "Doğayı kurtarmak için adaya bıraktılar 50 tür için felaket oldu: Haritadan silindiler",
+      "url": "https://www.sozcu.com.tr/dogayi-kurtarmak-icin-adaya-biraktilar-50-tur-icin-felaket-oldu-haritadan-silindiler-p352078",
+      "tarih": "2026-08-24T05:13:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "097c9ba5c11b",
       "baslik": "Çaresiz değilsiniz  çare sizsiniz",
@@ -1987,26 +2007,6 @@
       "ozet": "Erdoğan Kurtulmuş ile görüştü! Çerçeve yasa sonrası kritik buluşma",
       "url": "https://www.sozcu.com.tr/erdogan-kurtulmus-ile-gorustu-cerceve-yasa-sonrasi-kritik-bulusma-p344450",
       "tarih": "2026-08-11T15:12:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "695915444733",
-      "baslik": "Barajları tek tek yıkmaya başladılar",
-      "ozet": "Barajları tek tek yıkmaya başladılar",
-      "url": "https://www.sozcu.com.tr/barajlari-tek-tek-yikmaya-basladilar-p344447",
-      "tarih": "2026-08-11T14:47:52+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4f075330e345",
-      "baslik": "Berkan Kutlu'nun yeni adresi belli oldu",
-      "ozet": "Berkan Kutlu'nun yeni adresi belli oldu",
-      "url": "https://www.sozcu.com.tr/berkan-kutlu-super-ligde-kocaelisporun-formasini-giyecek-p344446",
-      "tarih": "2026-08-11T14:46:46+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
