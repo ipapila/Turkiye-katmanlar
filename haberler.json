@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-25T03:41:41.894366+00:00",
+    "guncelleme": "2026-08-25T06:33:27.447342+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6510,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "6dba45a253bd",
+      "baslik": "Denizin altına 60 bin tonluk 18 blok batırdılar: 1 saatlik yol 5 dakikaya indi",
+      "ozet": "Denizin altına 60 bin tonluk 18 blok batırdılar: 1 saatlik yol 5 dakikaya indi",
+      "url": "https://www.sozcu.com.tr/denizin-altina-60-bin-tonluk-18-blok-batirdilar-1-saatlik-yol-5-dakikaya-indi-p352434",
+      "tarih": "2026-08-25T06:07:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "87eb98ae6302",
+      "baslik": "Piyasaların gözü bu tarihte: Dolar, altın ve borsayı sarsan çifte tehdit!",
+      "ozet": "Piyasaların gözü bu tarihte: Dolar, altın ve borsayı sarsan çifte tehdit!",
+      "url": "https://www.sozcu.com.tr/piyasalarin-gozu-bu-tarihte-dolar-altin-ve-borsayi-sarsan-cifte-tehdit-p352432",
+      "tarih": "2026-08-25T06:05:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "27e69321516d",
+      "baslik": "MTV, SGK ve vergi borcu olanlar dikkat: 7 gün içinde başvurmayan haklarını kaybedecek",
+      "ozet": "MTV, SGK ve vergi borcu olanlar dikkat: 7 gün içinde başvurmayan haklarını kaybedecek",
+      "url": "https://www.sozcu.com.tr/mtv-sgk-ve-vergi-borcu-olanlar-dikkat-7-gun-icinde-basvurmayan-haklarini-kaybedecek-p352430",
+      "tarih": "2026-08-25T06:03:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0d7961f8e642",
       "baslik": "Zehirli alg çevre felaketine yol açtı: 4 tondan fazla balık bir anda öldü",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-12T10:02:51+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7dbcfdee14e2",
-      "baslik": "Aşırı Hava Olayları ve Deprem Kaynaklı Ekonomik Kayıplar Yılın İlk Yarısında 111 Milyar Doları Buldu",
-      "ozet": "İklim kaynaklı risklerin hız kesmeden büyümeyi sürdürdüğünü ortaya koyan yeni bir rapora göre, 2026 yılının ilk yarısında en fazla ekonomik kayba neden olan ilk beş küresel afet; Venezuela Depremi, ABD Şiddetli Konvektif Fırtına (SCS) Dalgası, ABD Şiddetli Konvektif Fırtına (SCS)",
-      "url": "https://www.iklimhaber.org/asiri-hava-olaylari-ve-deprem-kaynakli-ekonomik-kayiplar-yilin-ilk-yarisinda-111-milyar-dolari-buldu/",
-      "tarih": "2026-08-12T09:16:11+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dde4de47f07d",
-      "baslik": "5 milyon takipçili hesabını kapattı: Nedeni merak uyandırdı",
-      "ozet": "5 milyon takipçili hesabını kapattı: Nedeni merak uyandırdı",
-      "url": "https://www.sozcu.com.tr/5-milyon-takipcili-hesabini-kapatti-nedeni-merak-uyandirdi-p346661",
-      "tarih": "2026-08-12T08:29:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4469eed97a5c",
-      "baslik": "Üç Kentteki Obruk Sayısı Artmaya Devam Ediyor",
-      "ozet": "Konya Ovası’nda iklim krizi, kuraklık ve kontrolsüz yer altı suyu kullanımıyla oluşan obruk sayısı her geçen yıl artıyor. Afet ve Acil Durum Yönetimi Başkanlığınca (AFAD) yürütülen Obruk Duyarlılık Haritası çalışması kapsamında Konya, Karaman ve Aksaray’da kayıt altına alınan obr",
-      "url": "https://www.iklimhaber.org/uc-kentteki-obruk-sayisi-artmaya-devam-ediyor/",
-      "tarih": "2026-08-12T08:23:21+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
