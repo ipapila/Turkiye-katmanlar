@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-25T15:35:05.561183+00:00",
+    "guncelleme": "2026-08-25T18:27:53.388514+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6510,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6511,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "3e50e9cf097d",
+      "baslik": "Taş ocağından doğa harikasına dönüşmüştü: Lüks tatil köyü için düğmeye bastılar",
+      "ozet": "Taş ocağından doğa harikasına dönüşmüştü: Lüks tatil köyü için düğmeye bastılar",
+      "url": "https://www.sozcu.com.tr/tas-ocagindan-doga-harikasina-donusmustu-luks-tatil-koyu-icin-dugmeye-bastilar-p352627",
+      "tarih": "2026-08-25T16:45:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "88a245f5853b",
       "baslik": "170 bin ton radyoaktif atık suyu denize bıraktılar",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-08-13T06:38:36+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ffb3313742bb",
-      "baslik": "Sarı metalde kritik yükseliş! Gram altın 3 ayın zirvesinde",
-      "ozet": "Sarı metalde kritik yükseliş! Gram altın 3 ayın zirvesinde",
-      "url": "https://www.sozcu.com.tr/sari-metalde-kritik-yukselis-gram-altin-3-ayin-zirvesinde-p346869",
-      "tarih": "2026-08-13T04:27:44+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -93150,6 +93150,20 @@
       "ozet": "Ankara'da yangın çıkaran şüpheli gözaltına alındı Cumhuriyet",
       "lat": 39.939,
       "lng": 32.8394,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-4156b3b0fe23",
+      "baslik": "Malatya Kuluncak’ta maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak - Anka Haber",
+      "konum": "Malatya",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "25.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ3EyWFhSdzlfakRKYkl2LWZ6MERTT0ZxVFhlODREZHdIVkdJdjFLTnliejNoUnplTWlDQU1QNEs4dHNBOTItSkRfaGtDdjBwbVQySldxbFVKa2ZURFNGWmVMNVpGSTJmanpEU09CbUVRTDlfcVpZLW50blBzMzIxQXFMUHJkbHMwd3NvWXFvT1AyeHE2WnFTLVplQkZHblVCRUYxZUgzQThyNTR1YjJ6eElwbWljVTliTlV0RnphV2ZoV21VTFdJUGl2MTA1QktveXlQZnlHckJ0Nk94R2wxejZiZDcyQVo1YlpON3hn?oc=5",
+      "ozet": "Malatya Kuluncak’ta maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak Anka Haber",
+      "lat": 38.3076,
+      "lng": 38.2508,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
