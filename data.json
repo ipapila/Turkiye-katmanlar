@@ -118203,5 +118203,43 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/son-dakika-veya-balikesir-ve-cevre-illerde-hissedilen-bir-deprem-meydana-geldi-p352293"
+  },
+  {
+    "id": "tarayici-31cb096e61d6",
+    "tip": "İklim Olayları",
+    "ad": "Antalya'nın 2 ilçesinde orman yangını: Havadan ve karadan müdahale ediliyor - Cumhuriyet",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya'nın 2 ilçesinde orman yangını: Havadan ve karadan müdahale ediliyor Cumhuriyet",
+    "koordinatlar": {
+      "lat": 36.8329,
+      "lng": 30.8294
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "25.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVFoQTJVMGZFdDJudnFVSGQyRUgtdG1VaEdnN1JRODFSWGFlSWVfSWZ0LVowZGdjTHlUTmVFUG9tMjlsaUdQUkxvaUU0RThvanlsa2ZPX01KcHZNcmo4T243elF6VkRqaE9tZy10YjJtVmhuTEJkTUpjR2hhbTRpbW5Md2hHenFSSXZyOE9lUXFYelZOdW9Qc1lSdDVScjhXN3JEOTZTNWlVU0VhOXR6U0otd0daeEg5NzJKSw?oc=5"
+  },
+  {
+    "id": "tarayici-fd8fc6163385",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ankara'da yangın çıkaran şüpheli gözaltına alındı - Cumhuriyet",
+    "il": "Ankara",
+    "ilce": "",
+    "aciklama": "Ankara'da yangın çıkaran şüpheli gözaltına alındı Cumhuriyet",
+    "koordinatlar": {
+      "lat": 39.939,
+      "lng": 32.8394
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "25.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1NhVDhiVlpWYjF6QWFPelZjRUZQeEdubVZZSnB5czFZcHBfSm82TU1iLW9RVklWNVNYcDVleEt0TFp2ZW5WbllBLTVPZklNZzluZjVibUdFa3c2MnpyVTc0dm4ySUtNaS1MS0l6WWhySUV3UVd0OW1MTTY3dlZFblRLd3RTcUoySHJianBqVTlNTVVkWE51LVNmTQ?oc=5"
   }
 ]

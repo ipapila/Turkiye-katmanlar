@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-24T18:28:37.880916+00:00",
+    "guncelleme": "2026-08-25T03:41:41.894366+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6508,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6510,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "0d7961f8e642",
+      "baslik": "Zehirli alg çevre felaketine yol açtı: 4 tondan fazla balık bir anda öldü",
+      "ozet": "Zehirli alg çevre felaketine yol açtı: 4 tondan fazla balık bir anda öldü",
+      "url": "https://www.sozcu.com.tr/zehirli-alg-cevre-felaketine-yol-acti-4-tondan-fazla-balik-bir-anda-oldu-p352351",
+      "tarih": "2026-08-24T19:20:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a871fdbdc7c1",
       "baslik": "Rafael Leao, Milan’a rest çekti! ‘Sadece Galatasaray’a giderim’",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-08-12T08:23:21+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1a0f4b943f8b",
-      "baslik": "Cep telefonlarının patladığı evde yangın çıktı - Cumhuriyet",
-      "ozet": "Cep telefonlarının patladığı evde yangın çıktı Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEJ5NzZzbzcwMWowZGJsWkpyMThRdTJFd241MXJoNVM4ZHZHM1RGOEs0LUR6RlVaeGpBenBXUTljRXJJV0s1cC1UTFpZQy1KR2xnbktZTFlFVmFhNi1mOWhFVGkzU2g0RUJMOGNqY09FQ2ZnZWNZOWZ4MFJrWGxJZEZBOUZPZnc3U1pDa29SV3Z3SUdTZTB3?oc=5",
-      "tarih": "2026-08-12T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
@@ -93122,6 +93122,34 @@
       "ozet": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
       "lat": 39.6536,
       "lng": 28.0062,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-31cb096e61d6",
+      "baslik": "Antalya'nın 2 ilçesinde orman yangını: Havadan ve karadan müdahale ediliyor - Cumhuriyet",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "25.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVFoQTJVMGZFdDJudnFVSGQyRUgtdG1VaEdnN1JRODFSWGFlSWVfSWZ0LVowZGdjTHlUTmVFUG9tMjlsaUdQUkxvaUU0RThvanlsa2ZPX01KcHZNcmo4T243elF6VkRqaE9tZy10YjJtVmhuTEJkTUpjR2hhbTRpbW5Md2hHenFSSXZyOE9lUXFYelZOdW9Qc1lSdDVScjhXN3JEOTZTNWlVU0VhOXR6U0otd0daeEg5NzJKSw?oc=5",
+      "ozet": "Antalya'nın 2 ilçesinde orman yangını: Havadan ve karadan müdahale ediliyor Cumhuriyet",
+      "lat": 36.8329,
+      "lng": 30.8294,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-fd8fc6163385",
+      "baslik": "Ankara'da yangın çıkaran şüpheli gözaltına alındı - Cumhuriyet",
+      "konum": "Ankara",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "25.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1NhVDhiVlpWYjF6QWFPelZjRUZQeEdubVZZSnB5czFZcHBfSm82TU1iLW9RVklWNVNYcDVleEt0TFp2ZW5WbllBLTVPZklNZzluZjVibUdFa3c2MnpyVTc0dm4ySUtNaS1MS0l6WWhySUV3UVd0OW1MTTY3dlZFblRLd3RTcUoySHJianBqVTlNTVVkWE51LVNmTQ?oc=5",
+      "ozet": "Ankara'da yangın çıkaran şüpheli gözaltına alındı Cumhuriyet",
+      "lat": 39.939,
+      "lng": 32.8394,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
