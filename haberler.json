@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-25T09:27:09.307766+00:00",
+    "guncelleme": "2026-08-25T12:32:43.284115+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6510,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -47,6 +47,16 @@
       "ozet": "Santralın iki yıl içinde faaliyete geçmesi ve 80 ila 90 megavat kapasiteye sahip olması bekleniyor. Bu kapasitenin, tesisi İtalya’daki en büyük tarım-güneş enerjisi santrallarından biri haline getireceği belirtiliyor. Vatikan’ın güneş enerjisi ile tarımsal üretimi bir araya getir",
       "url": "https://www.iklimhaber.org/vatikandan-100-milyon-euroluk-temiz-enerji-hamlesi/",
       "tarih": "2026-08-25T06:30:56+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b21f6c169b46",
+      "baslik": "Aşırı Sıcaklar Avrupa’da İlave 35 Binden Fazla Can Aldı",
+      "ozet": "Bu yaz Avrupa’nın çoğu bölgesini etkisi altına alan aşırı sıcak hava dalgalarının en az ilave 35 bin kişinin ölümüne neden olduğu tahmin ediliyor. Üstelik bu sayı kıtanın yalnızca yaklaşık olarak yarısından elde edilirken, Ağustos ayı sonu itibariyle gelecek verilerle aşırı sıcak",
+      "url": "https://www.iklimhaber.org/asiri-sicaklar-avrupada-ilave-35-binden-fazla-can-aldi/",
+      "tarih": "2026-08-25T06:30:47+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -1997,16 +2007,6 @@
       "ozet": "Talihsiz kaza sonrası Deniz Seki’den ilk paylaşım",
       "url": "https://www.sozcu.com.tr/talihsiz-kaza-sonrasi-deniz-seki-den-ilk-paylasim-p346798",
       "tarih": "2026-08-12T16:50:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ee99e0dc3f8c",
-      "baslik": "Beşiktaş Vlahovic transferini resmen duyurdu",
-      "ozet": "Beşiktaş Vlahovic transferini resmen duyurdu",
-      "url": "https://www.sozcu.com.tr/besiktas-vlahovic-transferini-resmen-duyurdu-p346786",
-      "tarih": "2026-08-12T15:50:12+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
