@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-25T12:32:43.284115+00:00",
+    "guncelleme": "2026-08-25T15:35:05.561183+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6510,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "88a245f5853b",
+      "baslik": "170 bin ton radyoaktif atık suyu denize bıraktılar",
+      "ozet": "170 bin ton radyoaktif atık suyu denize bıraktılar",
+      "url": "https://www.sozcu.com.tr/170-bin-ton-radyoaktif-atik-suyu-denize-biraktilar-p352592",
+      "tarih": "2026-08-25T14:19:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "7f1d2558d03a",
       "baslik": "Okyanuslar Rekor Sıcaklık Seviyesine Ulaştı",
@@ -1997,16 +2007,6 @@
       "ozet": "Sarı metalde kritik yükseliş! Gram altın 3 ayın zirvesinde",
       "url": "https://www.sozcu.com.tr/sari-metalde-kritik-yukselis-gram-altin-3-ayin-zirvesinde-p346869",
       "tarih": "2026-08-13T04:27:44+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3feefb8228b0",
-      "baslik": "Talihsiz kaza sonrası Deniz Seki’den ilk paylaşım",
-      "ozet": "Talihsiz kaza sonrası Deniz Seki’den ilk paylaşım",
-      "url": "https://www.sozcu.com.tr/talihsiz-kaza-sonrasi-deniz-seki-den-ilk-paylasim-p346798",
-      "tarih": "2026-08-12T16:50:51+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
