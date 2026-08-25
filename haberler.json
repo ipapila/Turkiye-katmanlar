@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-25T06:33:27.447342+00:00",
+    "guncelleme": "2026-08-25T09:27:09.307766+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6510,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "7f1d2558d03a",
+      "baslik": "Okyanuslar Rekor Sıcaklık Seviyesine Ulaştı",
+      "ozet": "Güney Yarımküre, Kuzey Yarımküre’ye kıyasla daha geniş bir okyanus yüzeyine sahip olduğu için küresel deniz sıcaklığı ortalamaları üzerinde daha büyük bir etki yaratıyor. Okyanusların, doğal bir süreç olan El Nino hava olayının henüz zirve noktasına ulaşmadan bu seviyelerde ısınm",
+      "url": "https://www.iklimhaber.org/okyanuslar-rekor-sicaklik-seviyesine-ulasti/",
+      "tarih": "2026-08-25T07:37:35+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b618267b8633",
+      "baslik": "Emekli ve memur maaşlarında dengeler değişti: Yeni zamlar kuruşu kuruşuna hesaplandı",
+      "ozet": "Emekli ve memur maaşlarında dengeler değişti: Yeni zamlar kuruşu kuruşuna hesaplandı",
+      "url": "https://www.sozcu.com.tr/emekli-ve-memur-maaslarinda-dengeler-degisti-yeni-zamlar-kurusu-kurusuna-hesaplandi-p352471",
+      "tarih": "2026-08-25T07:35:59+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a6c8bd8c5a11",
+      "baslik": "Türkiye'de sadece tek bir ilçede yetişiyor: Suyu ekip tuz biçiyorlar",
+      "ozet": "Türkiye'de sadece tek bir ilçede yetişiyor: Suyu ekip tuz biçiyorlar",
+      "url": "https://www.sozcu.com.tr/turkiye-de-sadece-tek-bir-ilcede-yetisiyor-suyu-ekip-tuz-biciyorlar-p352469",
+      "tarih": "2026-08-25T07:32:59+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3b7d60240178",
+      "baslik": "Vatikan’dan 100 Milyon Euroluk Temiz Enerji Hamlesi",
+      "ozet": "Santralın iki yıl içinde faaliyete geçmesi ve 80 ila 90 megavat kapasiteye sahip olması bekleniyor. Bu kapasitenin, tesisi İtalya’daki en büyük tarım-güneş enerjisi santrallarından biri haline getireceği belirtiliyor. Vatikan’ın güneş enerjisi ile tarımsal üretimi bir araya getir",
+      "url": "https://www.iklimhaber.org/vatikandan-100-milyon-euroluk-temiz-enerji-hamlesi/",
+      "tarih": "2026-08-25T06:30:56+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "6dba45a253bd",
       "baslik": "Denizin altına 60 bin tonluk 18 blok batırdılar: 1 saatlik yol 5 dakikaya indi",
@@ -1967,46 +2007,6 @@
       "ozet": "Beşiktaş Vlahovic transferini resmen duyurdu",
       "url": "https://www.sozcu.com.tr/besiktas-vlahovic-transferini-resmen-duyurdu-p346786",
       "tarih": "2026-08-12T15:50:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "752ffdb7e9d5",
-      "baslik": "Kenti sel vurdu: Anne ve 2 kızı sulara kapıldı",
-      "ozet": "Kenti sel vurdu: Anne ve 2 kızı sulara kapıldı",
-      "url": "https://www.sozcu.com.tr/kenti-sel-vurdu-anne-ve-2-kizi-sulara-kapildi-p346787",
-      "tarih": "2026-08-12T15:48:43+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d33f36b02ec4",
-      "baslik": "Antalya’nın iki ilçesinde orman yangını",
-      "ozet": "Antalya’nın iki ilçesinde orman yangını",
-      "url": "https://www.sozcu.com.tr/antalya-nin-iki-ilcesinde-orman-yangini-p346778",
-      "tarih": "2026-08-12T14:56:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6f2a387fff76",
-      "baslik": "BM: Aşırı Sıcaklar Daha Sık ve Şiddetli Hale Geliyor",
-      "ozet": "Dünya Meteoroloji Örgütü, sıcak dalgalarının dünya genelinde giderek daha sık, şiddetli ve uzun süreli hale geldiğine dikkat çekiyor. Uzmanlar ayrıca, Avrupa’yı etkisi altına alan aşırı sıcakların arkasında El Niño’nun değil, küresel ısınma ve kalıcı yüksek basınç sistemlerinin o",
-      "url": "https://www.iklimhaber.org/bm-asiri-sicaklar-daha-sik-ve-siddetli-hale-geliyor/",
-      "tarih": "2026-08-12T12:07:13+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b2750c5bd9cc",
-      "baslik": "Bir isim daha veda etti: Kızılcık Şerbeti finalin kıyısında",
-      "ozet": "Bir isim daha veda etti: Kızılcık Şerbeti finalin kıyısında",
-      "url": "https://www.sozcu.com.tr/bir-isim-daha-veda-etti-kizilcik-serbeti-final-yapabilir-p346695",
-      "tarih": "2026-08-12T10:02:51+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
