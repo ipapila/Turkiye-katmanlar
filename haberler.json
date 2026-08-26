@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-26T12:35:49.557238+00:00",
+    "guncelleme": "2026-08-26T16:11:58.955837+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6515,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "f225dcac3bf2",
+      "baslik": "Şeytantepe belgeseline soruşturma: Narin Güran cinayetini konu alıyordu",
+      "ozet": "Şeytantepe belgeseline soruşturma: Narin Güran cinayetini konu alıyordu",
+      "url": "https://www.sozcu.com.tr/seytantepe-belgeseline-sorusturma-narin-guran-cinayetini-konu-aliyordu-p352931",
+      "tarih": "2026-08-26T15:43:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1f27e75e9642",
+      "baslik": "2026 Dünya Kupası'nın genç yıldızı Manchester City'de: Servet döktüler",
+      "ozet": "2026 Dünya Kupası'nın genç yıldızı Manchester City'de: Servet döktüler",
+      "url": "https://www.sozcu.com.tr/2026-dunya-kupasi-nin-genc-yildizi-manchester-city-de-servet-doktuler-p352906",
+      "tarih": "2026-08-26T13:38:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ec213e3871b0",
       "baslik": "Son dakika: AFAD duyurdu: Marmara Denizi'nde deprem",
@@ -1987,26 +2007,6 @@
       "ozet": "106 yıllık barajı yıkma kararı aldılar",
       "url": "https://www.sozcu.com.tr/106-yillik-baraji-yikma-karari-aldilar-p347127",
       "tarih": "2026-08-13T17:26:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "02c125c1dfd4",
-      "baslik": "Irak’ta geri sayım başladı: Tarih resmen açıklandı",
-      "ozet": "Irak’ta geri sayım başladı: Tarih resmen açıklandı",
-      "url": "https://www.sozcu.com.tr/irak-ta-geri-sayim-basladi-tarih-resmen-aciklandi-p347120",
-      "tarih": "2026-08-13T16:24:29+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0ee55de068bc",
-      "baslik": "Bakteri dolu nehri tarıma kazandırmanın yolunu buldular",
-      "ozet": "Bakteri dolu nehri tarıma kazandırmanın yolunu buldular",
-      "url": "https://www.sozcu.com.tr/bakteri-dolu-nehri-tarima-kazandirmanin-yolunu-buldular-p347117",
-      "tarih": "2026-08-13T16:12:40+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
