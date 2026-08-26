@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-26T03:46:49.900798+00:00",
+    "guncelleme": "2026-08-26T06:34:29.277206+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6513,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "652e9ce6802d",
+      "baslik": "Yemek kartı kullananları ilgilendiren gelişme: Restoranlarda yeni dönem başlıyor",
+      "ozet": "Yemek kartı kullananları ilgilendiren gelişme: Restoranlarda yeni dönem başlıyor",
+      "url": "https://www.sozcu.com.tr/yemek-karti-kullananlari-ilgilendiren-gelisme-restoranlarda-yeni-donem-basliyor-p352747",
+      "tarih": "2026-08-26T06:29:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "722394fcf696",
+      "baslik": "Küresel piyasalarda gözler ABD verileri ve Nvidia bilançosunda",
+      "ozet": "Küresel piyasalarda gözler ABD verileri ve Nvidia bilançosunda",
+      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-gozler-abd-verileri-ve-nvidia-bilancosunda-p352741",
+      "tarih": "2026-08-26T06:15:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6d6f5b67a520",
+      "baslik": "Doğal gaz faturaları için karar verildi: 1 hafta içinde yapın çağrısı yapıldı",
+      "ozet": "Doğal gaz faturaları için karar verildi: 1 hafta içinde yapın çağrısı yapıldı",
+      "url": "https://www.sozcu.com.tr/dogal-gaz-faturalari-icin-karar-verildi-1-hafta-icinde-yapin-cagrisi-yapildi-p352732",
+      "tarih": "2026-08-26T05:54:07+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0630462a1d2c",
+      "baslik": "60 tanesini doğaya saldılar bir anda 200 milyonu buldu: Durdurulamaz felakete neden oldu",
+      "ozet": "60 tanesini doğaya saldılar bir anda 200 milyonu buldu: Durdurulamaz felakete neden oldu",
+      "url": "https://www.sozcu.com.tr/60-tanesini-dogaya-saldilar-bir-anda-200-milyonu-buldu-durdurulamaz-felakete-neden-oldu-p352726",
+      "tarih": "2026-08-26T05:47:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d4a4485e3006",
       "baslik": "Kademeli emeklilik Erdoğan’ın masasında",
@@ -1967,46 +2007,6 @@
       "ozet": "Dünyanın en yüksek yolu açıldı: Everest'i bile geçiyor",
       "url": "https://www.sozcu.com.tr/dunyanin-en-yuksek-yolu-acildi-everest-i-bile-geciyor-p346992",
       "tarih": "2026-08-13T09:29:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a15fc7da6ace",
-      "baslik": "Emekli zammında hesap sil baştan: Merkez Bankası tahmini değiştirdi, işte yeni maaş tablosu",
-      "ozet": "Emekli zammında hesap sil baştan: Merkez Bankası tahmini değiştirdi, işte yeni maaş tablosu",
-      "url": "https://www.sozcu.com.tr/emekli-zamminda-hesap-sil-bastan-merkez-bankasi-tahmini-degistirdi-iste-yeni-maas-tablosu-p346960",
-      "tarih": "2026-08-13T09:22:27+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aaf5812effb0",
-      "baslik": "İflasın eşiğindeki giyim devi ürünlerini resmen bedavaya satılıyor",
-      "ozet": "İflasın eşiğindeki giyim devi ürünlerini resmen bedavaya satılıyor",
-      "url": "https://www.sozcu.com.tr/iflasin-esigindeki-giyim-devi-urunlerini-resmen-bedavaya-satiliyor-p346974",
-      "tarih": "2026-08-13T08:46:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "47a4aea2fde8",
-      "baslik": "Planlanan Küresel Kömür Madenciliği Kapasitesi %11 Arttı",
-      "ozet": "Yeni bir rapora göre, planlanan küresel kömür madenciliği kapasitesi geçtiğimiz sene %11 arttı. Türkiye’de de Ağustos 2021- Ekim 2025 arasında 31 kentte toplam 123 kömür madeni projesinin izin süreci başladı. Uzmanlar kömür üretimini sürdürmeye ve yeni alanlara genişletmeye yönel",
-      "url": "https://www.iklimhaber.org/planlanan-kuresel-komur-madenciligi-kapasitesi-%11-artti/",
-      "tarih": "2026-08-13T08:13:31+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a54c3984f159",
-      "baslik": "Russell Westbrook basketbolu bıraktı",
-      "ozet": "Russell Westbrook basketbolu bıraktı",
-      "url": "https://www.sozcu.com.tr/russell-westbrook-basketbolu-birakti-p346950",
-      "tarih": "2026-08-13T07:43:57+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
