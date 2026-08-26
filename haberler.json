@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-25T18:27:53.388514+00:00",
+    "guncelleme": "2026-08-26T03:46:49.900798+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6511,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6513,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "d4a4485e3006",
+      "baslik": "Kademeli emeklilik Erdoğan’ın masasında",
+      "ozet": "Kademeli emeklilik Erdoğan’ın masasında",
+      "url": "https://www.sozcu.com.tr/kademeli-emeklilik-erdogan-in-masasinda-p352685",
+      "tarih": "2026-08-26T02:30:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fc8f28d21a44",
+      "baslik": "Erdoğan’ın marketi zararda",
+      "ozet": "Erdoğan’ın marketi zararda",
+      "url": "https://www.sozcu.com.tr/erdogan-in-marketi-zararda-p352684",
+      "tarih": "2026-08-26T02:30:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8f31edc22ee6",
+      "baslik": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
+      "ozet": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
+      "url": "https://www.sozcu.com.tr/turkiye-akdeniz-oyunlari-nda-1000-madalya-zaferini-yasadi-p352645",
+      "tarih": "2026-08-25T18:46:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "3e50e9cf097d",
       "baslik": "Taş ocağından doğa harikasına dönüşmüştü: Lüks tatil köyü için düğmeye bastılar",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-13T07:43:57+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a179f8f908bf",
-      "baslik": "Aydın'daki orman yangını 2'nci gününde: Ekiplerin müdahalesi sürüyor - Cumhuriyet",
-      "ozet": "Aydın'daki orman yangını 2'nci gününde: Ekiplerin müdahalesi sürüyor Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW9YczlhR2xsbVExT0FxOVdldEEtSm55MDNyR0J5NXFHb2xjUDZ6c3hmbndWQnlNQkN5ZlluMFB4N3czSEZxQ2plbms4NHpqZ0ttc3NrQTJYbjZWdjNZNjFIem1qdUhKVFI0bGFIUkJQc0lEaEpvVF8tR2htb090Tlh6VEF3OEZLb2daUHhwcGlhUVJ0RXdlRzBQT29CZDJ1eW00?oc=5",
-      "tarih": "2026-08-13T07:20:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bb6aa81ac790",
-      "baslik": "Kazdağları'nın eteklerinde yangın: Alevler yerleşim yerlerine ulaştı - Cumhuriyet",
-      "ozet": "Kazdağları'nın eteklerinde yangın: Alevler yerleşim yerlerine ulaştı Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUM0WFM4XzlwV05SRDM4WHQxSnl0amw5Sk1NcXltS0ZaWHZkOVJZdWJGSXpISFZ2bGlCQ3NTYnhFWVdyOEJRbzRUWXg5Yy1GdEt3SHRFMFNGVFpCYzFvUDZucWFKRjI0MVlVbnBZQ1dUaUF4c3k1U2Q1ckZvZ2JTYjY2dFN3TlUyTlFkY28tSDNKLTl6VXZrekRONm9LWk02TVcwS3JwQUVoeC16bkR6TFdaYw?oc=5",
-      "tarih": "2026-08-13T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ffe83897a2f5",
-      "baslik": "Yüzyıl Sonuna Kadar Akdeniz Deniz Çayırlarının Beşte Biri Yok Olabilir",
-      "ozet": "Akdeniz’in en önemli ekosistemleri arasında yer alan deniz çayırlarının beşte biri, iklim değişikliği nedeniyle yüzyıl sonuna kadar yok olma riskiyle karşı karşıya. Yeni bir araştırmaya göre deniz sıcak hava dalgaları başta olmak üzere çeşitli baskılar, bu habitatların alanını da",
-      "url": "https://www.iklimhaber.org/yuzyil-sonuna-kadar-akdeniz-deniz-cayirlarinin-beste-biri-yok-olabilir/",
-      "tarih": "2026-08-13T06:38:36+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -93164,6 +93164,34 @@
       "ozet": "Malatya Kuluncak’ta maden sahası genişletme projesi için verilen 'ÇED Olumlu' kararına dava: 10 Aralık’ta keşif yapılacak Anka Haber",
       "lat": 38.3076,
       "lng": 38.2508,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-69a6f62d3086",
+      "baslik": "Tekirdağ'da 'orman yangınları' önlemi: Balya bağlanması ve açık alanda ateş yakılması yasaklandı - Cumhuriyet",
+      "konum": "Tekirdağ",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "26.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGdrX19Hczc0c0NPd25JSGNEZThjRDMxMW9xamhUUTBOLWgtVmotandpbWJ3cDI4Rl9maFhwV2o5YnBjdS1feENDb0lNN3N0MzJYZHFITEExMC1ZREs5cWU0Q1VSdEM3VU44djRpaEduWjNZVkxMbTJzLWJlQkx2dU5zMUZsSFFFZjFCSGp1UUFUdk9wbGl5SW1LTmNzYnlrNnJhbW0tOUFkWnJLN3F5Q2hBb1RuUUplXzZSN3ZYNHhlOWUwLWtrb1kzUGxtVmEwYWFjdUV3?oc=5",
+      "ozet": "Tekirdağ'da 'orman yangınları' önlemi: Balya bağlanması ve açık alanda ateş yakılması yasaklandı Cumhuriyet",
+      "lat": 41.0151,
+      "lng": 27.5625,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-7c1937d6eb99",
+      "baslik": "Mersin’deki orman yangını ikinci gününde kontrol altına alındı - Cumhuriyet",
+      "konum": "Mersin",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "26.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm81dGhLcEcxaFpOaXhBM0pmSWt1ZGFSU0JNSEUyZExEdmdabTRXNzFhWmFndTFmM0Q2ajlKT3I0NEl3RHJ0SGdoYml2WDRWREt2c3h4SEF6Uk5FLU16cS1KTXhVSjJONGt3WlpBM0U2bHg3YlQwVkZlcmlleE9XdWZUM19yWmE1REE5R0Q2OGxkMkUtZ1hVX1FmZ1FfVzZkcDFtbDdrTXJraWFB?oc=5",
+      "ozet": "Mersin’deki orman yangını ikinci gününde kontrol altına alındı Cumhuriyet",
+      "lat": 36.7469,
+      "lng": 34.5498,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
