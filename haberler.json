@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-26T09:33:19.284373+00:00",
+    "guncelleme": "2026-08-26T12:35:49.557238+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6514,
+    "harita_kayit_sayisi": 6515,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "ec213e3871b0",
+      "baslik": "Son dakika: AFAD duyurdu: Marmara Denizi'nde deprem",
+      "ozet": "Son dakika: AFAD duyurdu: Marmara Denizi'nde deprem",
+      "url": "https://www.sozcu.com.tr/son-dakika-marmara-denizi-nde-deprem-afad-ilk-verileri-acikladi-p352875",
+      "tarih": "2026-08-26T12:13:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7626cc049beb",
+      "baslik": "Böyle dehşet görülmedi: Nepal'de sel felaketinde dev dalga yüzlerce kişiyi yuttu",
+      "ozet": "Böyle dehşet görülmedi: Nepal'de sel felaketinde dev dalga yüzlerce kişiyi yuttu",
+      "url": "https://www.sozcu.com.tr/boyle-dehset-gorulmedi-nepal-de-sel-felaketinde-dev-dalga-yuzlerce-kisiyi-yuttu-p352864",
+      "tarih": "2026-08-26T12:02:42+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "69972b6e2fa6",
+      "baslik": "Tapuda satış yapan ev sahibine o para iade edilecek: Yeni karar Resmi Gazete'de",
+      "ozet": "Tapuda satış yapan ev sahibine o para iade edilecek: Yeni karar Resmi Gazete'de",
+      "url": "https://www.sozcu.com.tr/tapuda-satis-yapan-ev-sahibine-o-para-iade-edilecek-yeni-karar-resmi-gazete-de-p352862",
+      "tarih": "2026-08-26T11:36:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3bfa6e371d20",
+      "baslik": "Ümit Özdağ'dan olay iddia: Erdoğan sonrası için AKP'de panik",
+      "ozet": "Ümit Özdağ'dan olay iddia: Erdoğan sonrası için AKP'de panik",
+      "url": "https://www.sozcu.com.tr/umit-ozdag-dan-olay-iddia-erdogan-sonrasi-icin-akp-de-panik-p352857",
+      "tarih": "2026-08-26T11:07:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "56ca30e05de0",
+      "baslik": "Denizin ortasındaki yatta 3 milyarder gizlice toplandı: Süper lüks yatta ne konuştular?",
+      "ozet": "Denizin ortasındaki yatta 3 milyarder gizlice toplandı: Süper lüks yatta ne konuştular?",
+      "url": "https://www.sozcu.com.tr/denizin-ortasindaki-yatta-3-milyarder-gizlice-toplandi-p352849",
+      "tarih": "2026-08-26T10:25:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0004de72adab",
       "baslik": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
@@ -29,6 +79,16 @@
       "tarih": "2026-08-26T08:37:36+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a8ed2735811d",
+      "baslik": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada - bursatv.com.tr",
+      "ozet": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada bursatv.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVdpeVQtbW9zTDd2NFNWOGJWaUF1di1aT2N3YklienJuSThQcFZ3X3BZZUNYeGVHT2h5RnlfZ3B4cXpCLTU3ZmdzeDhUWHVmcjY4TXQwcTBzdlpjczlnMjR4NFRNZFpZTVVhMEYtS2QyVS1rTFgxcm1xdVdTd1ZZWl9XVU1uYzVabjFuN3Z30gGTAUFVX3lxTE1kMW9ubTdHMERHak9EZTdpYWFoWkRIMGJ4OWtkLVBOaGVXYnZCVE1MMlBWcy1rc241TXRBSk1yakJsZ2xEQnhkZGowREVBV1dVSmh6SmRWcmNmQUtTR09MUi1HRnRqRzNzQUgzY0ZRc1JrT2VqRFBfTjVWcFlYaWFTdG9FMlEzcHhnMVlyOWtqRW52cw?oc=5",
+      "tarih": "2026-08-26T08:21:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1947,66 +2007,6 @@
       "ozet": "Bakteri dolu nehri tarıma kazandırmanın yolunu buldular",
       "url": "https://www.sozcu.com.tr/bakteri-dolu-nehri-tarima-kazandirmanin-yolunu-buldular-p347117",
       "tarih": "2026-08-13T16:12:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4dbffd72ad58",
-      "baslik": "Selin Hürmeriç, Budapeşte'de dünya gençler 5'incisi oldu",
-      "ozet": "Selin Hürmeriç, Budapeşte'de dünya gençler 5'incisi oldu",
-      "url": "https://www.sozcu.com.tr/selin-hurmeric-budapestede-dunya-gencler-5incisi-oldu-p347106",
-      "tarih": "2026-08-13T15:09:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c49744df668e",
-      "baslik": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
-      "ozet": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
-      "url": "https://www.sozcu.com.tr/bursa-ve-istanbul-arasinda-deniz-ulasimi-aksadi-seferler-iptal-edildi-p347099",
-      "tarih": "2026-08-13T14:45:19+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d56bdc25bf38",
-      "baslik": "AKP mitinginde hak arayacak madenciler üçüncü kez gözaltına alındı",
-      "ozet": "AKP mitinginde hak arayacak madenciler üçüncü kez gözaltına alındı",
-      "url": "https://www.sozcu.com.tr/akp-mitinginde-hak-arayacak-madenciler-ucuncu-kez-gozaltina-alindi-p347095",
-      "tarih": "2026-08-13T14:37:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6d186c02b52c",
-      "baslik": "Erdoğan yarın ne mesaj verecek?",
-      "ozet": "Erdoğan yarın ne mesaj verecek?",
-      "url": "https://www.sozcu.com.tr/erdogan-yarin-ne-mesaj-verecek-p347091",
-      "tarih": "2026-08-13T14:17:52+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "67bf08d48677",
-      "baslik": "Somer Sivrioğlu’nun oğlu Deniz Avustralya’dan geldi: Babasının gençliğine benzetildi",
-      "ozet": "Somer Sivrioğlu’nun oğlu Deniz Avustralya’dan geldi: Babasının gençliğine benzetildi",
-      "url": "https://www.sozcu.com.tr/somer-sivrioglu-nun-oglu-deniz-ortaya-cikti-babasinin-gencligi-gibi-p347075",
-      "tarih": "2026-08-13T13:26:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "19517ab93a71",
-      "baslik": "Kıvanç Tatlıtuğ'un hesabını kapatma sebebi ortaya çıktı",
-      "ozet": "Kıvanç Tatlıtuğ'un hesabını kapatma sebebi ortaya çıktı",
-      "url": "https://www.sozcu.com.tr/kivanc-tatlitug-un-hesabini-kapatma-sebebi-ortaya-cikti-p347060",
-      "tarih": "2026-08-13T12:48:51+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93206,6 +93206,20 @@
       "ozet": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
       "lat": 41.0461,
       "lng": 40.5652,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a8ed2735811d",
+      "baslik": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada - bursatv.com.tr",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "26.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVdpeVQtbW9zTDd2NFNWOGJWaUF1di1aT2N3YklienJuSThQcFZ3X3BZZUNYeGVHT2h5RnlfZ3B4cXpCLTU3ZmdzeDhUWHVmcjY4TXQwcTBzdlpjczlnMjR4NFRNZFpZTVVhMEYtS2QyVS1rTFgxcm1xdVdTd1ZZWl9XVU1uYzVabjFuN3Z30gGTAUFVX3lxTE1kMW9ubTdHMERHak9EZTdpYWFoWkRIMGJ4OWtkLVBOaGVXYnZCVE1MMlBWcy1rc241TXRBSk1yakJsZ2xEQnhkZGowREVBV1dVSmh6SmRWcmNmQUtTR09MUi1HRnRqRzNzQUgzY0ZRc1JrT2VqRFBfTjVWcFlYaWFTdG9FMlEzcHhnMVlyOWtqRW52cw?oc=5",
+      "ozet": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada bursatv.com.tr",
+      "lat": 40.1604,
+      "lng": 28.944,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

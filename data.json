@@ -118317,5 +118317,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/melisa-dongel-rizede-cay-topladi-karadenize-asigim-p352829"
+  },
+  {
+    "id": "tarayici-a8ed2735811d",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada - bursatv.com.tr",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada bursatv.com.tr",
+    "koordinatlar": {
+      "lat": 40.1604,
+      "lng": 28.944
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "26.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVdpeVQtbW9zTDd2NFNWOGJWaUF1di1aT2N3YklienJuSThQcFZ3X3BZZUNYeGVHT2h5RnlfZ3B4cXpCLTU3ZmdzeDhUWHVmcjY4TXQwcTBzdlpjczlnMjR4NFRNZFpZTVVhMEYtS2QyVS1rTFgxcm1xdVdTd1ZZWl9XVU1uYzVabjFuN3Z30gGTAUFVX3lxTE1kMW9ubTdHMERHak9EZTdpYWFoWkRIMGJ4OWtkLVBOaGVXYnZCVE1MMlBWcy1rc241TXRBSk1yakJsZ2xEQnhkZGowREVBV1dVSmh6SmRWcmNmQUtTR09MUi1HRnRqRzNzQUgzY0ZRc1JrT2VqRFBfTjVWcFlYaWFTdG9FMlEzcHhnMVlyOWtqRW52cw?oc=5"
   }
 ]
