@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-26T16:11:58.955837+00:00",
+    "guncelleme": "2026-08-26T19:39:36.284324+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6515,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "645e7cf828c2",
+      "baslik": "Haluk Levent'in Instagram hesabına erişim engeli getirildi",
+      "ozet": "Haluk Levent'in Instagram hesabına erişim engeli getirildi",
+      "url": "https://www.sozcu.com.tr/haluk-levent-instagram-hesabi-erisim-engeli-karari-p352955",
+      "tarih": "2026-08-26T18:34:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2839eca66bab",
+      "baslik": "Ölüdeniz’de feci kaza: Pilot ve Çinli turist hayatını kaybetti",
+      "ozet": "Ölüdeniz’de feci kaza: Pilot ve Çinli turist hayatını kaybetti",
+      "url": "https://www.sozcu.com.tr/oludeniz-de-feci-kaza-pilot-ve-cinli-turist-hayatini-kaybetti-p352942",
+      "tarih": "2026-08-26T16:47:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0382da5bd37c",
+      "baslik": "1.450 ton istiridye kabuğunu denize bıraktılar",
+      "ozet": "1.450 ton istiridye kabuğunu denize bıraktılar",
+      "url": "https://www.sozcu.com.tr/1-450-ton-istiridye-kabugunu-denize-biraktilar-p352941",
+      "tarih": "2026-08-26T16:42:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f225dcac3bf2",
       "baslik": "Şeytantepe belgeseline soruşturma: Narin Güran cinayetini konu alıyordu",
@@ -1977,36 +2007,6 @@
       "ozet": "Zeynep Sönmez, Cincinnati Open'da ikinci tura yükseldi",
       "url": "https://www.sozcu.com.tr/zeynep-sonmez-cincinnati-open-da-ikinci-tura-yukseldi-p347139",
       "tarih": "2026-08-13T18:37:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d608254246c7",
-      "baslik": "Fenerbahçe ayrılığı resmen duyurdu",
-      "ozet": "Fenerbahçe ayrılığı resmen duyurdu",
-      "url": "https://www.sozcu.com.tr/fenerbahce-ayriligi-resmen-duyurdu-p347135",
-      "tarih": "2026-08-13T18:14:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0563d5d620ae",
-      "baslik": "Antalya’da orman yangını",
-      "ozet": "Antalya’da orman yangını",
-      "url": "https://www.sozcu.com.tr/antalya-da-orman-yangini-p347131",
-      "tarih": "2026-08-13T17:53:43+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b597d37cc33a",
-      "baslik": "106 yıllık barajı yıkma kararı aldılar",
-      "ozet": "106 yıllık barajı yıkma kararı aldılar",
-      "url": "https://www.sozcu.com.tr/106-yillik-baraji-yikma-karari-aldilar-p347127",
-      "tarih": "2026-08-13T17:26:51+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
