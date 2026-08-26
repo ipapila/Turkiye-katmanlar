@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-26T06:34:29.277206+00:00",
+    "guncelleme": "2026-08-26T09:33:19.284373+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6513,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6514,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "0004de72adab",
+      "baslik": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
+      "ozet": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
+      "url": "https://www.sozcu.com.tr/melisa-dongel-rizede-cay-topladi-karadenize-asigim-p352829",
+      "tarih": "2026-08-26T09:17:25+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2e30ac5f9bd3",
+      "baslik": "İlahiyat profesörü Erdoğan'ın memleketine 'Gavur' dedi",
+      "ozet": "İlahiyat profesörü Erdoğan'ın memleketine 'Gavur' dedi",
+      "url": "https://www.sozcu.com.tr/ilahiyat-profesoru-erdogan-in-memleketine-gavur-dedi-p352808",
+      "tarih": "2026-08-26T08:37:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8433672a54a2",
+      "baslik": "Üzerinden ABD yükü kalkan Halkbank'ın hisseleri uçuşa geçti",
+      "ozet": "Üzerinden ABD yükü kalkan Halkbank'ın hisseleri uçuşa geçti",
+      "url": "https://www.sozcu.com.tr/halkbank-tan-kap-a-gece-yarisi-aciklama-geldi-hisse-ucusa-gecti-p352797",
+      "tarih": "2026-08-26T08:19:47+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c973ed4c5a14",
+      "baslik": "El Niño Etkisi: Mısır Fiyatları Üç Yılın Zirvesinde",
+      "ozet": "Jeopolitik riskler ve iklimsel faktörler emtia piyasasında arz endişelerine yol açıyor. Tarım grubu ürünlerde kayda değer yükselişler görülürken, sert fiyat artışlarının yaşandığı ürünlerden biri de mısır. El Niño’nun da etkisiyle mısırın kile başına fiyatı, uluslararası piyasala",
+      "url": "https://www.iklimhaber.org/el-nino-etkisi-misir-fiyatlari-uc-yilin-zirvesinde/",
+      "tarih": "2026-08-26T07:45:55+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8507a90459d1",
+      "baslik": "İklim İnkârcılığı Sözlüğü-9: “Yoksa Her şey Büyük Bir Sıfırlama mı?",
+      "ozet": "Küresel şirketlerin, zenginlerin ve devletlerin faaliyetleri insan kaynaklı iklim krizinde başrolde. Eğer ortada bir “sıfırlama” varsa da bunu kendi elleriyle, fosil yakıt kullanarak, doğanın sınırlı kaynaklarını sorumsuzca tüketerek yapıyorlar. Bilimsel verilerle kanıtlanan gerç",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-9-yoksa-her-sey-buyuk-bir-sifirlama-mi/",
+      "tarih": "2026-08-26T07:21:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "12754677b9cb",
+      "baslik": "COP31’in Tematik Günleri Duyuruldu",
+      "ozet": "Programın en üst düzey bölümünü oluşturan Dünya Liderleri İklim Eylemi Zirvesi, konferansın üçüncü ve dördüncü gününde toplanacak. Zirvenin ilk günü Sıfır Atık temasıyla, ikinci günü ise Dayanıklı Şehirler ve Yapılı Çevre temasıyla eş zamanlı olarak gerçekleşecek. COP31 Başkanlığ",
+      "url": "https://www.iklimhaber.org/cop31in-tematik-gunleri-duyuruldu/",
+      "tarih": "2026-08-26T06:44:28+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "652e9ce6802d",
       "baslik": "Yemek kartı kullananları ilgilendiren gelişme: Restoranlarda yeni dönem başlıyor",
@@ -1947,66 +2007,6 @@
       "ozet": "Kıvanç Tatlıtuğ'un hesabını kapatma sebebi ortaya çıktı",
       "url": "https://www.sozcu.com.tr/kivanc-tatlitug-un-hesabini-kapatma-sebebi-ortaya-cikti-p347060",
       "tarih": "2026-08-13T12:48:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "af68f3a206dc",
-      "baslik": "Silivri'de tarlada yangın: Alevler geniş alana yayıldı! - Cumhuriyet",
-      "ozet": "Silivri'de tarlada yangın: Alevler geniş alana yayıldı! Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVl1ZDdDaHZyU01GOVpHLXRJS3ZJa1dGb250SUZZd1ZtVVVOYTJaSEZIOWFlT0NwcEY2aFVESDVCOTFOOGJyemZKMkNJVF83ekc5a1ZkNG9UWTZ6YnJEN21ZaHlhaDh4Y1FoODlTUTRZTmN1cXN4dDJfRnM3OExOV2liTzNSQnFQTzkybktDVUFOejVTaV9CMElFNmx2cjZB?oc=5",
-      "tarih": "2026-08-13T12:47:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ed13a1667006",
-      "baslik": "Ormanda gezerken bir anda milyoner oldular",
-      "ozet": "Ormanda gezerken bir anda milyoner oldular",
-      "url": "https://www.sozcu.com.tr/ormanda-gezerken-bir-anda-milyoner-oldular-p347059",
-      "tarih": "2026-08-13T12:44:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4af6e9488989",
-      "baslik": "Silivri'de yangın paniği: TEM Otoyolu trafiğe kapatıldı, evler tahliye edildi",
-      "ozet": "Silivri'de yangın paniği: TEM Otoyolu trafiğe kapatıldı, evler tahliye edildi",
-      "url": "https://www.sozcu.com.tr/silivri-de-yangin-panigi-tem-otoyolu-trafige-kapatildi-evler-tahliye-edildi-p347050",
-      "tarih": "2026-08-13T12:31:27+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "920bca0cdb30",
-      "baslik": "Mekke anlaşmasının ilk etkisi: Kızıldeniz'i Türkiye koruyacak",
-      "ozet": "Mekke anlaşmasının ilk etkisi: Kızıldeniz'i Türkiye koruyacak",
-      "url": "https://www.sozcu.com.tr/mekke-anlasmasinin-ilk-etkisi-turk-gemileri-kizildeniz-e-gidiyor-p347016",
-      "tarih": "2026-08-13T12:23:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cf525b6b66d0",
-      "baslik": "ABD’den İklim Bilimine Bir Darbe Daha",
-      "ozet": "Trump yönetimi, Arktik bölgesinin atmosferinde, okyanuslarında, donmuş su ve buz sistemlerinde ve tundrasında meydana gelen kritik değişimleri takip eden ve aslında tüm gezegenin iklimini ilgilendiren yıllık Arktik çevre raporuna desteğini çekti. Ulusal Okyanus ve Atmosfer İdares",
-      "url": "https://www.iklimhaber.org/abdden-iklim-bilimine-bir-darbe-daha/",
-      "tarih": "2026-08-13T10:36:32+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a87c2f5e483d",
-      "baslik": "Dünyanın en yüksek yolu açıldı: Everest'i bile geçiyor",
-      "ozet": "Dünyanın en yüksek yolu açıldı: Everest'i bile geçiyor",
-      "url": "https://www.sozcu.com.tr/dunyanin-en-yuksek-yolu-acildi-everest-i-bile-geciyor-p346992",
-      "tarih": "2026-08-13T09:29:46+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93192,6 +93192,20 @@
       "ozet": "Mersin’deki orman yangını ikinci gününde kontrol altına alındı Cumhuriyet",
       "lat": 36.7469,
       "lng": 34.5498,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0004de72adab",
+      "baslik": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
+      "konum": "Rize",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "26.08.2026",
+      "url": "https://www.sozcu.com.tr/melisa-dongel-rizede-cay-topladi-karadenize-asigim-p352829",
+      "ozet": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
+      "lat": 41.0461,
+      "lng": 40.5652,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

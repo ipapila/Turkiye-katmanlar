@@ -118298,5 +118298,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm81dGhLcEcxaFpOaXhBM0pmSWt1ZGFSU0JNSEUyZExEdmdabTRXNzFhWmFndTFmM0Q2ajlKT3I0NEl3RHJ0SGdoYml2WDRWREt2c3h4SEF6Uk5FLU16cS1KTXhVSjJONGt3WlpBM0U2bHg3YlQwVkZlcmlleE9XdWZUM19yWmE1REE5R0Q2OGxkMkUtZ1hVX1FmZ1FfVzZkcDFtbDdrTXJraWFB?oc=5"
+  },
+  {
+    "id": "tarayici-0004de72adab",
+    "tip": "Ekolojik İhlal",
+    "ad": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
+    "il": "Rize",
+    "ilce": "",
+    "aciklama": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
+    "koordinatlar": {
+      "lat": 41.0461,
+      "lng": 40.5652
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "26.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/melisa-dongel-rizede-cay-topladi-karadenize-asigim-p352829"
   }
 ]
