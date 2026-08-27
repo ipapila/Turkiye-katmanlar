@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-26T19:39:36.284324+00:00",
+    "guncelleme": "2026-08-27T13:26:14.068310+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6515,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6516,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "7a29aa0180aa",
+      "baslik": "Beşiktaş ayrılığı resmen duyurdu",
+      "ozet": "Beşiktaş ayrılığı resmen duyurdu",
+      "url": "https://www.sozcu.com.tr/besiktas-ayriligi-resmen-duyurdu-p353187",
+      "tarih": "2026-08-27T12:22:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ae4c33e09b72",
+      "baslik": "Binlerce liralık telefonlara inat geri döndü: Ne ekranı kırılıyor ne borca sokuyor",
+      "ozet": "Binlerce liralık telefonlara inat geri döndü: Ne ekranı kırılıyor ne borca sokuyor",
+      "url": "https://www.sozcu.com.tr/milyarlik-telefonlara-inat-geri-dondu-ne-ekrani-kiriliyor-ne-borca-sokuyor-p353173",
+      "tarih": "2026-08-27T12:03:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a1932e045256",
+      "baslik": "ABD Kuraklık Mekanizmasına Karşı Kırmızı Çizgi Çekti; COP17 Müzakereleri Tıkandı",
+      "ozet": "Küresel kuraklığa ilişkin artan endişelere ve 2022-2023 yıllarında her dört kişiden birinin kuraklıktan etkilenmiş olmasına rağmen, başını ABD’nin çektiği küçük bir taraf ülke grubu, bağlayıcı olsun ya da olmasın, kuraklıkla ilgili herhangi bir uluslararası metni kabul etmeyeceği",
+      "url": "https://www.iklimhaber.org/abd-kuraklik-mekanizmasina-karsi-kirmizi-cizgi-cekti-cop17-muzakereleri-tikandi/",
+      "tarih": "2026-08-27T09:47:32+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "563b503c12ce",
+      "baslik": "Buzul Çökmesi Felakete Yol Açtı: Sel, Nepal ve Tibet’i Yuttu",
+      "ozet": "Nepal-Çin sınırında meydana gelen sarsıntı, ABD Jeolojik Araştırmalar Merkezi tarafından ilk olarak 4,4 büyüklüğünde bir deprem şeklinde bildirildi. Daha sonra yapılan incelemede ise kaydedilen sismik hareket, 5,2 büyüklüğünde bir buzul çökmesi olarak güncellendi. Buzuldan kopan ",
+      "url": "https://www.iklimhaber.org/buzul-cokmesi-felakete-yol-acti-sel-nepal-ve-tibeti-yuttu/",
+      "tarih": "2026-08-27T09:19:41+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5fd383b8d969",
+      "baslik": "Gökay Çakır ve Başaran Aksu Tutuklandı",
+      "ozet": "Yıldızlar SSS Holding bünyesindeki Doruk Madencilik ve Eti Gümüş Maden işçileri, aylardır ödenmeyen ücret, kıdem tazminatı ve sigorta alacakları nedeniyle hak mücadelesine devam ediyor. Hak mücadelesi sürerken Bağımsız Maden-İş Genel Başkanı Gökay Çakır ile Örgütlenme Uzmanı Başa",
+      "url": "https://www.iklimhaber.org/gokay-cakir-ve-basaran-aksu-tutuklandi/",
+      "tarih": "2026-08-27T08:20:27+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1b0483f838e8",
+      "baslik": "ETS Yönetmeliği Yürürlüğe Girdi",
+      "ozet": "Türkiye Emisyon Ticaret Sistemi Yönetmeliği’nin Resmi Gazete’de yayımlanmasıyla birlikte Türkiye’nin ulusal karbon piyasasının hukuki çerçevesi çizildi. Yönetmelikle büyük emisyon kaynaklarına izin, tahsisat, raporlama ve yeni yükümlülükler geliyor. EPİAŞ’ın işleteceği piyasada k",
+      "url": "https://www.iklimhaber.org/ets-yonetmeligi-yururluge-girdi/",
+      "tarih": "2026-08-27T07:51:48+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f805be5a1f27",
+      "baslik": "Geçen Yıl Doğanlar İki Kat Fazla “Yangın Havası” Yaşayacak",
+      "ozet": "Sıcak, kuru ve rüzgarlı hava koşullarını ifade eden “yangın havası” koşullarında; yangın çıkma olasılığı artıyor, yangınlar daha hızlı yayılabiliyor ve söndürme çalışmaları zorlaşıyor. Yeni bir araştırmanın sonuçları ise bugün doğan bebeklerin, büyükanne ve büyükbabalarına göre ö",
+      "url": "https://www.iklimhaber.org/gecen-yil-doganlar-iki-kat-fazla-yangin-havasi-yasayacak/",
+      "tarih": "2026-08-27T07:26:29+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "645e7cf828c2",
       "baslik": "Haluk Levent'in Instagram hesabına erişim engeli getirildi",
@@ -1937,76 +2007,6 @@
       "ozet": "Merkez bankaları devlet sırrı gibi saklıyor: Litresi milyonlar ediyor",
       "url": "https://www.sozcu.com.tr/merkez-bankalari-devlet-sirri-gibi-sakliyor-litresi-milyonlar-ediyor-p347303",
       "tarih": "2026-08-14T08:08:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "040d59cdf576",
-      "baslik": "Türkiye Deniz Üstü Rüzgar Enerjisinde İlk YEKA Yarışmasını 2027’de Yapacak",
-      "ozet": "Saros Körfezi, Gökçeada, Bozcaada ve Edremit açıklarında dört ayrı deniz üstü rüzgar enerjisi sahası belirlendi. Türkiye, 2027’de deniz üstü (offshore) rüzgar alanında ilk kez Yenilenebilir Enerji Kaynak Alanları (YEKA) yarışması yapacak. Enerji ve Tabii Kaynaklar Bakanı Alparsla",
-      "url": "https://www.iklimhaber.org/turkiye-deniz-ustu-ruzgar-enerjisinde-ilk-yeka-yarismasini-2027de-yapacak/",
-      "tarih": "2026-08-14T07:37:38+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "298f414eabcc",
-      "baslik": "Ninh Binh Polisi: Çevre suçlarına karşı denetimi sıkılaştırıyor ve sert önlemler alıyor. - Vietnam.vn",
-      "ozet": "Ninh Binh Polisi: Çevre suçlarına karşı denetimi sıkılaştırıyor ve sert önlemler alıyor. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmtEUlNrUEJ1aTJjelctcDcyb0NfU0ljVzN1cWxiOG0tMVNXT2RNMkh3TnZWTURVRjc4WDR0clN0bnRsZUNIOHhPOHdJT1l4Ulg1YjUxS3lrVndZM2lySWhnYUVDWDBza1huNnE5YklhZ1c3X2YycGpsMC0yTmdfSnpVZ0VyWTkzSklhUEQ3d3BnZEtWVWdJ?oc=5",
-      "tarih": "2026-08-14T06:19:36+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d2eb2f64295b",
-      "baslik": "Küresel piyasalar çift yönlü baskı altında",
-      "ozet": "Küresel piyasalar çift yönlü baskı altında",
-      "url": "https://www.sozcu.com.tr/kuresel-piyasalar-cift-yonlu-baski-altinda-p347233",
-      "tarih": "2026-08-14T06:10:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8c3fd81fc693",
-      "baslik": "Araba alacakların beklediği haber geldi: Düşecek mi yükselecek mi?",
-      "ozet": "Araba alacakların beklediği haber geldi: Düşecek mi yükselecek mi?",
-      "url": "https://www.sozcu.com.tr/araba-alacaklarinin-bekledigi-haber-geldi-dusecek-mi-yukselecek-mi-p347229",
-      "tarih": "2026-08-14T05:59:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "842068875f06",
-      "baslik": "Fenerbahçe'nin yeni transferi Lukaku'nun bilinmeyen özelliği: Milyonda bir görülüyor, sular seller gibi konuşuyor",
-      "ozet": "Fenerbahçe'nin yeni transferi Lukaku'nun bilinmeyen özelliği: Milyonda bir görülüyor, sular seller gibi konuşuyor",
-      "url": "https://www.sozcu.com.tr/fenerbahce-nin-yeni-transferi-lukaku-nun-bilinmeyen-ozelligi-milyonda-bir-goruluyor-sular-seller-p347221",
-      "tarih": "2026-08-14T05:39:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c5cffaa4f768",
-      "baslik": "Selanik uçağında dehşet: Cam kırıldı, yolcunun kafası dışarı vakumlandı",
-      "ozet": "Selanik uçağında dehşet: Cam kırıldı, yolcunun kafası dışarı vakumlandı",
-      "url": "https://www.sozcu.com.tr/selanik-ucaginda-dehset-cam-kirildi-yolcunun-kafasi-disari-vakumlandi-p347201",
-      "tarih": "2026-08-14T04:40:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a7cc86a11133",
-      "baslik": "Zeynep Sönmez, Cincinnati Open'da ikinci tura yükseldi",
-      "ozet": "Zeynep Sönmez, Cincinnati Open'da ikinci tura yükseldi",
-      "url": "https://www.sozcu.com.tr/zeynep-sonmez-cincinnati-open-da-ikinci-tura-yukseldi-p347139",
-      "tarih": "2026-08-13T18:37:01+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93220,6 +93220,20 @@
       "ozet": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada bursatv.com.tr",
       "lat": 40.1604,
       "lng": 28.944,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-cb07b5f641b7",
+      "baslik": "YALOVA BELEDİYESİ’NE MARMARA DENİZİ’Nİ KİRLETMEKTEN 1.3 MİLYON TL CEZA - Çevre Gazetesi",
+      "konum": "Yalova",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "27.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTI1TEdoZFhmZjNPZW5sTVNldUd0bzdpd09FMWk3VDI4UFJkRzhZMjZfUXRnYXFBSW96UV9UajRHbnZoVmdlY3p5c3dEcDJWdnVqWGxZS3M4XzhkaHFUUm0wS0xsekY2OTFTelcyRGVLYmhrYnU3Rk1VN3ZWMlRoNVZEejZMeTRwTWN5YldZMXpOd3hUalp5Tw?oc=5",
+      "ozet": "YALOVA BELEDİYESİ’NE MARMARA DENİZİ’Nİ KİRLETMEKTEN 1.3 MİLYON TL CEZA Çevre Gazetesi",
+      "lat": 40.5769,
+      "lng": 29.2684,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
