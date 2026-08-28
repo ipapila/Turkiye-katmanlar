@@ -118374,5 +118374,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMDFpWVhHb29pajBldDAxWndNOGVwX0ZXU05aeExVQ0U4SVl0bjIxX2NkWmU5N2ppU1VfcUVOelAwUE1NTG5XYVh6Z01NNFRBeldGOElSSXF1SDYzWFJZSERuSWNnNGFTRjRvX2JmTmZraDB3eGZPWFFtd3RncWlPVTVIb0JNb1BCaGFxUGIxdmlKNFo5SVZJYnlQdncxbFI0YWR4WklLa3JDcFlzVUtDRkdyRTBBZzdzU0F6d3FhcVRpekxaZXpOU3M1Z2VUM0xQ?oc=5"
+  },
+  {
+    "id": "tarayici-95980b453323",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ordu’da 3 gün denize girme yasağı",
+    "il": "Ordu",
+    "ilce": "",
+    "aciklama": "Ordu’da 3 gün denize girme yasağı",
+    "koordinatlar": {
+      "lat": 40.8968,
+      "lng": 37.8633
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "28.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/ordu-da-3-gun-denize-girme-yasagi-p353534"
   }
 ]

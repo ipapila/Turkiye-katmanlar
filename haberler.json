@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-28T00:11:03.408253+00:00",
+    "guncelleme": "2026-08-28T14:46:02.001779+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6517,
+    "harita_kayit_sayisi": 6518,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "95980b453323",
+      "baslik": "Ordu’da 3 gün denize girme yasağı",
+      "ozet": "Ordu’da 3 gün denize girme yasağı",
+      "url": "https://www.sozcu.com.tr/ordu-da-3-gun-denize-girme-yasagi-p353534",
+      "tarih": "2026-08-28T14:16:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e63a9cf3fcb3",
+      "baslik": "AKP'den 'erken seçim' açıklaması: İşte Erdoğan'ın yeniden adaylık formülü",
+      "ozet": "AKP'den 'erken seçim' açıklaması: İşte Erdoğan'ın yeniden adaylık formülü",
+      "url": "https://www.sozcu.com.tr/akp-den-erken-secim-aciklamasi-iste-erdogan-in-yeniden-adaylik-formulu-p353499",
+      "tarih": "2026-08-28T12:56:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d27da3157ad2",
+      "baslik": "Türkiye’nin “Çifte Risk” Haritası: 120 İlçe Sıcaklık ve Yoksulluk Tehdidi Altında",
+      "ozet": "Aşırı sıcak riski yalnızca termometrenin gösterdiği sıcaklığa değil, bu sıcaklıklardan korunma kapasitesine de bağlı. Türkiye’nin 973 ilçesini kapsayan yeni bir araştırmada, sıcak tehlikesi ile sosyoekonomik kırılganlığın kesiştiği ilçeler ilk kez haritalandırıldı. Çalışmaya göre",
+      "url": "https://www.iklimhaber.org/turkiyenin-cifte-risk-haritasi-120-ilce-sicaklik-ve-yoksulluk-tehdidi-altinda/",
+      "tarih": "2026-08-28T09:35:04+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9cfad93c5b2b",
+      "baslik": "El Niño Fosil Yakıtların Yakılmasıyla Daha da Şiddetleniyor",
+      "ozet": "Bu yılın ilerleyen dönemlerinde zirve yapması beklenen son El Niño’nun, hafızalardaki en güçlü El Niño olacağı tahmin ediliyor ve gayriresmî olarak “Godzilla” olarak adlandırılıyor. Yeni bir çalışmaya göre, gezegeni kasıp kavurması beklenen ve dünya genelindeki hava durumunu altü",
+      "url": "https://www.iklimhaber.org/el-nino-fosil-yakitlarin-yakilmasiyla-daha-da-siddetleniyor/",
+      "tarih": "2026-08-28T09:14:23+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8b2334145eeb",
+      "baslik": "ETS Türkiye’de Nasıl İşleyecek?",
+      "ozet": "Uzmanlar, Türkiye’nin ETS kapsamında sektör bazlı net sıfır yol haritaları hazırlayarak piyasa öngörülebilirliğini ve yatırımcı güvenini artırılabileceğini belirtiyor. Türkiye, 27 Ağustos 2026 itibarıyla ulusal Emisyon Ticaret Sistemi Yönetmeliğini (ETS) yayımlayarak iklim politi",
+      "url": "https://www.iklimhaber.org/ets-turkiyede-nasil-isleyecek/",
+      "tarih": "2026-08-28T08:19:32+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a9d9653e44b1",
       "baslik": "Dünya finans devi uyardı: Küresel gıda tedarik krizi kapıda",
@@ -1957,56 +2007,6 @@
       "ozet": "Özcan Deniz 23 yaş küçük eşiyle aşka geldi: Sarılıp öpmelere doyamadı",
       "url": "https://www.sozcu.com.tr/ozcan-deniz-23-yas-kucuk-esiyle-aska-geldi-sarilip-opmelere-doyamadi-p347406",
       "tarih": "2026-08-14T12:33:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7ad023092c96",
-      "baslik": "16 milyon tonluk rezerv buldular: Çin'in küresel hakimiyeti bitecek",
-      "ozet": "16 milyon tonluk rezerv buldular: Çin'in küresel hakimiyeti bitecek",
-      "url": "https://www.sozcu.com.tr/16-milyon-tonluk-rezerv-buldular-cin-in-kuresel-hakimiyeti-bitecek-p347405",
-      "tarih": "2026-08-14T12:30:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "530c197109f8",
-      "baslik": "İstanbul, Ankara, İzmir geride kaldı: Karadeniz'in bir ili zirveye yerleşti",
-      "ozet": "İstanbul, Ankara, İzmir geride kaldı: Karadeniz'in bir ili zirveye yerleşti",
-      "url": "https://www.sozcu.com.tr/istanbul-ankara-izmir-geride-kaldi-karadeniz-in-bir-ili-zirveye-yerlesti-p347385",
-      "tarih": "2026-08-14T12:00:52+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e5e33fbcfbac",
-      "baslik": "Bisikletle gezerken çölü ormana çevirdi",
-      "ozet": "Bisikletle gezerken çölü ormana çevirdi",
-      "url": "https://www.sozcu.com.tr/bisikletle-gezerken-colu-ormana-cevirdi-p347338",
-      "tarih": "2026-08-14T09:36:21+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "00e03cc6a215",
-      "baslik": "NOAA: El Nino Rekorları Altüst Edecek bir Şiddete Doğru İlerliyor",
-      "ozet": "Her El Niño’nun etkisi kendine özgü olma eğiliminde ve insanlık henüz keşfedilmemiş bir alana doğru ilerliyor. ABD’nin Ulusal Okyanus ve Atmosfer Dairesi (NOAA) tarafından yeni yayımlanan tahmine göre, giderek güçlenen “Süper El Niño” olayının bugüne kadar kaydedilmiş en güçlü El",
-      "url": "https://www.iklimhaber.org/noaa-el-nino-rekorlari-altust-edecek-bir-siddete-dogru-ilerliyor/",
-      "tarih": "2026-08-14T09:22:28+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "89cc9f6376c4",
-      "baslik": "Psikologlara göre elleri arkada yürümenin asıl nedeni: Karadenizliler hep yapıyor",
-      "ozet": "Psikologlara göre elleri arkada yürümenin asıl nedeni: Karadenizliler hep yapıyor",
-      "url": "https://www.sozcu.com.tr/psikologlara-gore-ellerini-arkaya-koyarak-yuruyen-insanlarin-nedeni-baskaymis-karadenizliler-hep-p347330",
-      "tarih": "2026-08-14T09:15:56+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93248,6 +93248,20 @@
       "ozet": "Bursa’da yanan 100 hektarlık alanda maden ruhsatına köylülerden tepki: 'Kimden izin aldılar?' Cumhuriyet",
       "lat": 40.2286,
       "lng": 29.1216,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-95980b453323",
+      "baslik": "Ordu’da 3 gün denize girme yasağı",
+      "konum": "Ordu",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "28.08.2026",
+      "url": "https://www.sozcu.com.tr/ordu-da-3-gun-denize-girme-yasagi-p353534",
+      "ozet": "Ordu’da 3 gün denize girme yasağı",
+      "lat": 40.8968,
+      "lng": 37.8633,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
