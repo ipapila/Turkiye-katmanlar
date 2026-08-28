@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-28T14:46:02.001779+00:00",
+    "guncelleme": "2026-08-28T23:47:55.159146+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6518,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "fcd6f929725e",
+      "baslik": "Trump’ın Grönland sözleri gölgesinde İzlanda referanduma gidiyor",
+      "ozet": "Trump’ın Grönland sözleri gölgesinde İzlanda referanduma gidiyor",
+      "url": "https://www.sozcu.com.tr/trump-in-gronland-sozleri-golgesinde-izlanda-referanduma-gidiyor-p353582",
+      "tarih": "2026-08-28T20:30:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "81dbd935dc9d",
+      "baslik": "Vincent Aboubakar yeniden Türkiye'de! Yeni adresi resmen açıklandı",
+      "ozet": "Vincent Aboubakar yeniden Türkiye'de! Yeni adresi resmen açıklandı",
+      "url": "https://www.sozcu.com.tr/vincent-aboubakar-bodrum-fkda-11-yillik-sozlesme-imzalandi-p353577",
+      "tarih": "2026-08-28T19:33:44+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "58846edd3141",
+      "baslik": "Fenerbahçe yeni transferi resmen açıkladı! İmza töreni tarihi belli oldu",
+      "ozet": "Fenerbahçe yeni transferi resmen açıkladı! İmza töreni tarihi belli oldu",
+      "url": "https://www.sozcu.com.tr/fenerbahce-yeni-transferi-resmen-acikladi-imza-toreni-tarihi-belli-oldu-p353568",
+      "tarih": "2026-08-28T18:16:54+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "95980b453323",
       "baslik": "Ordu’da 3 gün denize girme yasağı",
@@ -1977,36 +2007,6 @@
       "ozet": "Maden işçileri ve eşleri gözaltına alındı: 'Mitinge katılmaya niyetliyiz'",
       "url": "https://www.sozcu.com.tr/maden-iscileri-ve-esleri-gozaltina-alindi-mitinge-katilmaya-niyetliyiz-p349441",
       "tarih": "2026-08-14T15:25:42+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "64bb32321051",
-      "baslik": "4 ilde denize girme yasağı: Sahillere kırmızı bayrak çekildi",
-      "ozet": "4 ilde denize girme yasağı: Sahillere kırmızı bayrak çekildi",
-      "url": "https://www.sozcu.com.tr/4-ilde-denize-girme-yasagi-sahillere-kirmizi-bayrak-cekildi-p349436",
-      "tarih": "2026-08-14T14:58:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0f235959018b",
-      "baslik": "Yasağa rağmen denize giren baba ve oğulları son anda kurtarıldı",
-      "ozet": "Yasağa rağmen denize giren baba ve oğulları son anda kurtarıldı",
-      "url": "https://www.sozcu.com.tr/yasaga-ragmen-denize-giren-baba-ve-ogullari-son-anda-kurtarildi-p348438",
-      "tarih": "2026-08-14T14:34:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4996ca064328",
-      "baslik": "Özcan Deniz 23 yaş küçük eşiyle aşka geldi: Sarılıp öpmelere doyamadı",
-      "ozet": "Özcan Deniz 23 yaş küçük eşiyle aşka geldi: Sarılıp öpmelere doyamadı",
-      "url": "https://www.sozcu.com.tr/ozcan-deniz-23-yas-kucuk-esiyle-aska-geldi-sarilip-opmelere-doyamadi-p347406",
-      "tarih": "2026-08-14T12:33:00+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
