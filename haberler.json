@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-28T23:47:55.159146+00:00",
+    "guncelleme": "2026-08-29T09:36:50.413805+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6518,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6519,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "0646b312bfc8",
+      "baslik": "Türkiye'nin en ilginç yürüyüş rotası: Denizin içinden yürüyerek karşı adaya geçiyorlar",
+      "ozet": "Türkiye'nin en ilginç yürüyüş rotası: Denizin içinden yürüyerek karşı adaya geçiyorlar",
+      "url": "https://www.sozcu.com.tr/turkiye-nin-en-ilginc-yuruyus-rotasi-denizin-icinden-yuruyerek-karsi-adaya-geciyorlar-p353689",
+      "tarih": "2026-08-29T08:41:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e34a7ae07a3f",
+      "baslik": "Akdeniz'de sular yeniden ısındı: Yunan F-16'ları Türk İHA'sına karşı havalandı",
+      "ozet": "Akdeniz'de sular yeniden ısındı: Yunan F-16'ları Türk İHA'sına karşı havalandı",
+      "url": "https://www.sozcu.com.tr/akdeniz-de-sular-yeniden-isindi-yunan-f-16-lari-turk-iha-sina-karsi-havalandi-p353684",
+      "tarih": "2026-08-29T08:31:38+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "aa02f19b99f3",
+      "baslik": "Eylül ayında 5 burç resmen sırtından vurulmuş gibi hissedecek",
+      "ozet": "Eylül ayında 5 burç resmen sırtından vurulmuş gibi hissedecek",
+      "url": "https://www.sozcu.com.tr/eylul-ayinda-5-burc-resmen-sirtindan-vurulmus-gibi-hissedecek-p353671",
+      "tarih": "2026-08-29T07:47:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "fcd6f929725e",
       "baslik": "Trump’ın Grönland sözleri gölgesinde İzlanda referanduma gidiyor",
@@ -649,6 +679,16 @@
       "tarih": "2026-08-24T06:51:15+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "42dcdd0eb5f1",
+      "baslik": "Bursa’da orman yangını: Ekipler müdahale ediyor - Cumhuriyet",
+      "ozet": "Bursa’da orman yangını: Ekipler müdahale ediyor Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1FqQjlmeUhrQ2I2Z255dUNzTDlQMXJrTWw5Q2JvUmNfX1NWV2YzTFNkLXFteGgyN2I2QkRnU05lT1BVV0FJSGpPa1lvYUxkSVFubzhkOGZZanFwNHltM1JwcU5NWE5DaEduNWt6MURyUXF2LVZQZGR6QmZuY2JYNFc5VGswQ0x6QlRqSUJCTkdORnYzVjlB?oc=5",
+      "tarih": "2026-08-24T06:51:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1967,46 +2007,6 @@
       "ozet": "'Onun gölgesinde kalırsın' dediler: Ünlü oyuncu yıllar sonra itiraf etti",
       "url": "https://www.sozcu.com.tr/onun-golgesinde-kalirsin-dediler-unlu-oyuncu-yillar-sonra-itiraf-etti-p349631",
       "tarih": "2026-08-15T12:11:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "feeed70fe802",
-      "baslik": "Ferran Torres'in yeni adresi belli oldu",
-      "ozet": "Ferran Torres'in yeni adresi belli oldu",
-      "url": "https://www.sozcu.com.tr/ferran-torres-in-yeni-adresi-belli-oldu-p349623",
-      "tarih": "2026-08-15T11:46:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9cb49cf56916",
-      "baslik": "800 kişi makine kullanmadan 500 hektarlık sulak alanı 2 hafta içinde tarlaya dönüştürdü",
-      "ozet": "800 kişi makine kullanmadan 500 hektarlık sulak alanı 2 hafta içinde tarlaya dönüştürdü",
-      "url": "https://www.sozcu.com.tr/800-kisi-makine-kullanmadan-500-hektarlik-sulak-alani-2-hafta-icinde-tarlaya-donusturdu-p349526",
-      "tarih": "2026-08-15T05:50:58+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "efe703de9c47",
-      "baslik": "Tuncer Bakırhan'dan Selahattin Demirtaş mesajı: İnşallah bizimle olacak",
-      "ozet": "Tuncer Bakırhan'dan Selahattin Demirtaş mesajı: İnşallah bizimle olacak",
-      "url": "https://www.sozcu.com.tr/tuncer-bakirhan-dan-selahattin-demirtas-aciklamasi-p349457",
-      "tarih": "2026-08-14T17:53:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2e7c69f6eac0",
-      "baslik": "Maden işçileri ve eşleri gözaltına alındı: 'Mitinge katılmaya niyetliyiz'",
-      "ozet": "Maden işçileri ve eşleri gözaltına alındı: 'Mitinge katılmaya niyetliyiz'",
-      "url": "https://www.sozcu.com.tr/maden-iscileri-ve-esleri-gozaltina-alindi-mitinge-katilmaya-niyetliyiz-p349441",
-      "tarih": "2026-08-14T15:25:42+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93262,6 +93262,20 @@
       "ozet": "Ordu’da 3 gün denize girme yasağı",
       "lat": 40.8968,
       "lng": 37.8633,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-42dcdd0eb5f1",
+      "baslik": "Bursa’da orman yangını: Ekipler müdahale ediyor - Cumhuriyet",
+      "konum": "Bursa",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "29.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1FqQjlmeUhrQ2I2Z255dUNzTDlQMXJrTWw5Q2JvUmNfX1NWV2YzTFNkLXFteGgyN2I2QkRnU05lT1BVV0FJSGpPa1lvYUxkSVFubzhkOGZZanFwNHltM1JwcU5NWE5DaEduNWt6MURyUXF2LVZQZGR6QmZuY2JYNFc5VGswQ0x6QlRqSUJCTkdORnYzVjlB?oc=5",
+      "ozet": "Bursa’da orman yangını: Ekipler müdahale ediyor Cumhuriyet",
+      "lat": 40.2445,
+      "lng": 29.1217,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

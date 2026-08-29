@@ -118393,5 +118393,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/ordu-da-3-gun-denize-girme-yasagi-p353534"
+  },
+  {
+    "id": "tarayici-42dcdd0eb5f1",
+    "tip": "İklim Olayları",
+    "ad": "Bursa’da orman yangını: Ekipler müdahale ediyor - Cumhuriyet",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa’da orman yangını: Ekipler müdahale ediyor Cumhuriyet",
+    "koordinatlar": {
+      "lat": 40.2445,
+      "lng": 29.1217
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "29.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1FqQjlmeUhrQ2I2Z255dUNzTDlQMXJrTWw5Q2JvUmNfX1NWV2YzTFNkLXFteGgyN2I2QkRnU05lT1BVV0FJSGpPa1lvYUxkSVFubzhkOGZZanFwNHltM1JwcU5NWE5DaEduNWt6MURyUXF2LVZQZGR6QmZuY2JYNFc5VGswQ0x6QlRqSUJCTkdORnYzVjlB?oc=5"
   }
 ]
