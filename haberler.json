@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-08-29T09:36:50.413805+00:00",
+    "guncelleme": "2026-08-29T15:59:53.158215+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6519,
+    "harita_kayit_sayisi": 6520,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "7280fa445373",
+      "baslik": "Kıyıya gizemli konteyner vurdu: İnceleme başlatıldı",
+      "ozet": "Kıyıya gizemli konteyner vurdu: İnceleme başlatıldı",
+      "url": "https://www.sozcu.com.tr/kiyiya-gizemli-konteyner-vurdu-inceleme-baslatildi-p353772",
+      "tarih": "2026-08-29T15:20:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e355a2cf42e1",
+      "baslik": "Muğla Seydikemer'de çıkan yangın Kaş'a sıçradı",
+      "ozet": "Muğla Seydikemer'de çıkan yangın Kaş'a sıçradı",
+      "url": "https://www.sozcu.com.tr/mugla-seydikemer-de-cikan-yangin-kas-a-sicradi-p353766",
+      "tarih": "2026-08-29T15:08:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1c5a73b45d55",
+      "baslik": "Şok üstüne şok yaşadı... Cinsel saldırıya uğrayan kadının maaşına haciz geldi",
+      "ozet": "Şok üstüne şok yaşadı... Cinsel saldırıya uğrayan kadının maaşına haciz geldi",
+      "url": "https://www.sozcu.com.tr/sok-ustune-sok-yasadi-cinsel-saldiriya-ugrayan-kadinin-maasina-haciz-geldi-p353763",
+      "tarih": "2026-08-29T14:09:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fb9664874822",
+      "baslik": "Binlerce kadını gizlice kayda aldılar... Skandalın yaşandığı güzellik merkezinin adresi belli oldu",
+      "ozet": "Binlerce kadını gizlice kayda aldılar... Skandalın yaşandığı güzellik merkezinin adresi belli oldu",
+      "url": "https://www.sozcu.com.tr/binlerce-kadini-gizlice-kayda-aldilar-skandalin-yasandigi-guzellik-merkezinin-adresi-belli-oldu-p353753",
+      "tarih": "2026-08-29T13:31:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fceee363040f",
+      "baslik": "AKP'li Türkeş'ten Erdoğan'ın danışmanına 'AİHS' tepkisi: 'Akıl tutulması'",
+      "ozet": "AKP'li Türkeş'ten Erdoğan'ın danışmanına 'AİHS' tepkisi: 'Akıl tutulması'",
+      "url": "https://www.sozcu.com.tr/akp-li-turkes-ten-erdogan-in-danismanina-aihs-tepkisi-akil-tutulmasi-p353737",
+      "tarih": "2026-08-29T12:20:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0646b312bfc8",
       "baslik": "Türkiye'nin en ilginç yürüyüş rotası: Denizin içinden yürüyerek karşı adaya geçiyorlar",
@@ -1957,56 +2007,6 @@
       "ozet": "Fenerbahçe'den Jamie Gittens iddialarına resmi yanıt",
       "url": "https://www.sozcu.com.tr/fenerbahceden-jamie-gittens-iddialarina-resmi-yanit-p349678",
       "tarih": "2026-08-15T17:12:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "981ad377cb4b",
-      "baslik": "Akhisar’da orman yangını: Ekipler seferber oldu - Cumhuriyet",
-      "ozet": "Akhisar’da orman yangını: Ekipler seferber oldu Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckFyMnpPQlkwSGdVNUQ5bEdkSDgzY3lJR0hNUFdaMGp5RWRWbXFyQ0tQSEtSellxTFNQUFRkNlVKZ09CWU9mbllOTmpNWnR5ZFA5SjZTUFZYSmtJT1l1OGNpTWVwYTVva2t6VGdoYXRJQWtvWlcxSWE0czdyYXFhc3praURoNW5MQWhnQ1cweGhDWVd0aHpB?oc=5",
-      "tarih": "2026-08-15T16:35:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ddc3ee6b97a6",
-      "baslik": "Bağımsız Maden-İş: Bu saatten sonra eylemimiz buradaki 150 işçinin eylemi değil, Türkiye işçi sınıfının eylemidir - egepostasi.com",
-      "ozet": "Bağımsız Maden-İş: Bu saatten sonra eylemimiz buradaki 150 işçinin eylemi değil, Türkiye işçi sınıfının eylemidir egepostasi.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaUxTam9sYjZkbmxxN1ZfZGtiUWdlWVg4SW02NklvUmNLVXVnejZqZXpBNFNqWWFPTW5vTnlKSzhsU3U1a3cwMVNmdjN1a20zRXZEYTczWjlvSTdRQW9STVhiWG9kdjkzUVRMRWNnT192Nl9ZNjJ1b0RaQlFFQXdTeFpqeW0xczB0MkFnOFpsRkVXemdUeWsxUlJLOEdsRjFZUjJ6TzJjUHlyWnFpMGlvOS04VGlvRWhGSjV6UXh5LUoxYzVlZHRrSTdQdWlnVTdNVkltRTBzdVdqcEtxcTFHWVo4TzdKZw?oc=5",
-      "tarih": "2026-08-15T14:21:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e383fca4af1b",
-      "baslik": "Bağımsız Maden-İş: Bu saatten sonra eylemimiz buradaki 150 işçinin eylemi değil, Türkiye işçi sınıfının eylemidir - Ege Postası",
-      "ozet": "Bağımsız Maden-İş: Bu saatten sonra eylemimiz buradaki 150 işçinin eylemi değil, Türkiye işçi sınıfının eylemidir Ege Postası",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaUxTam9sYjZkbmxxN1ZfZGtiUWdlWVg4SW02NklvUmNLVXVnejZqZXpBNFNqWWFPTW5vTnlKSzhsU3U1a3cwMVNmdjN1a20zRXZEYTczWjlvSTdRQW9STVhiWG9kdjkzUVRMRWNnT192Nl9ZNjJ1b0RaQlFFQXdTeFpqeW0xczB0MkFnOFpsRkVXemdUeWsxUlJLOEdsRjFZUjJ6TzJjUHlyWnFpMGlvOS04VGlvRWhGSjV6UXh5LUoxYzVlZHRrSTdQdWlnVTdNVkltRTBzdVdqcEtxcTFHWVo4TzdKZw?oc=5",
-      "tarih": "2026-08-15T14:21:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ee7e0c72059f",
-      "baslik": "Çevre iller bile sıraya girdi: Altın yumurtlayan hasatta siparişlere yetişemiyor",
-      "ozet": "Çevre iller bile sıraya girdi: Altın yumurtlayan hasatta siparişlere yetişemiyor",
-      "url": "https://www.sozcu.com.tr/cevre-iller-bile-siraya-girdi-altin-yumurtlayan-hasatta-siparislere-yetisemiyor-p349644",
-      "tarih": "2026-08-15T13:05:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "733955f6fbf0",
-      "baslik": "'Onun gölgesinde kalırsın' dediler: Ünlü oyuncu yıllar sonra itiraf etti",
-      "ozet": "'Onun gölgesinde kalırsın' dediler: Ünlü oyuncu yıllar sonra itiraf etti",
-      "url": "https://www.sozcu.com.tr/onun-golgesinde-kalirsin-dediler-unlu-oyuncu-yillar-sonra-itiraf-etti-p349631",
-      "tarih": "2026-08-15T12:11:38+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93276,6 +93276,20 @@
       "ozet": "Bursa’da orman yangını: Ekipler müdahale ediyor Cumhuriyet",
       "lat": 40.2445,
       "lng": 29.1217,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e355a2cf42e1",
+      "baslik": "Muğla Seydikemer'de çıkan yangın Kaş'a sıçradı",
+      "konum": "Muğla",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "29.08.2026",
+      "url": "https://www.sozcu.com.tr/mugla-seydikemer-de-cikan-yangin-kas-a-sicradi-p353766",
+      "ozet": "Muğla Seydikemer'de çıkan yangın Kaş'a sıçradı",
+      "lat": 37.1244,
+      "lng": 28.3208,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

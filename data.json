@@ -118412,5 +118412,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1FqQjlmeUhrQ2I2Z255dUNzTDlQMXJrTWw5Q2JvUmNfX1NWV2YzTFNkLXFteGgyN2I2QkRnU05lT1BVV0FJSGpPa1lvYUxkSVFubzhkOGZZanFwNHltM1JwcU5NWE5DaEduNWt6MURyUXF2LVZQZGR6QmZuY2JYNFc5VGswQ0x6QlRqSUJCTkdORnYzVjlB?oc=5"
+  },
+  {
+    "id": "tarayici-e355a2cf42e1",
+    "tip": "Ekolojik İhlal",
+    "ad": "Muğla Seydikemer'de çıkan yangın Kaş'a sıçradı",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Muğla Seydikemer'de çıkan yangın Kaş'a sıçradı",
+    "koordinatlar": {
+      "lat": 37.1244,
+      "lng": 28.3208
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "29.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/mugla-seydikemer-de-cikan-yangin-kas-a-sicradi-p353766"
   }
 ]
