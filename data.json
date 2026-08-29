@@ -118431,5 +118431,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/mugla-seydikemer-de-cikan-yangin-kas-a-sicradi-p353766"
+  },
+  {
+    "id": "tarayici-73e2c9be5b88",
+    "tip": "Ekolojik İhlal",
+    "ad": "Giresun’da 3 gün denize girme yasağı: Akıntıya kapılan İranlı boğuldu",
+    "il": "Giresun",
+    "ilce": "",
+    "aciklama": "Giresun’da 3 gün denize girme yasağı: Akıntıya kapılan İranlı boğuldu",
+    "koordinatlar": {
+      "lat": 40.9778,
+      "lng": 38.3255
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "29.08.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/giresun-da-3-gun-denize-girme-yasagi-akintiya-kapilan-iranli-boguldu-p353800"
   }
 ]
