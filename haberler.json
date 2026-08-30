@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-29T20:14:51.166322+00:00",
+    "guncelleme": "2026-08-30T08:47:00.730901+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6521,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "b8d629ddeada",
+      "baslik": "Topuklu Efe Erdoğan'lı 30 Ağustos paylaşımıyla AKP'lilerin gönlünü fethetti",
+      "ozet": "Topuklu Efe Erdoğan'lı 30 Ağustos paylaşımıyla AKP'lilerin gönlünü fethetti",
+      "url": "https://www.sozcu.com.tr/topuklu-efe-erdogan-li-30-agustos-paylasimiyla-akp-lilerin-gonlunu-fethetti-p353901",
+      "tarih": "2026-08-30T08:25:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "255ee45761f5",
+      "baslik": "Devletin hesabından AKP propagandası: Paylaşım silindi, hesap kapatıldı",
+      "ozet": "Devletin hesabından AKP propagandası: Paylaşım silindi, hesap kapatıldı",
+      "url": "https://www.sozcu.com.tr/devletin-hesabindan-akp-propagandasi-paylasim-silindi-hesap-kapatildi-p353866",
+      "tarih": "2026-08-30T07:04:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "18385ebbaf0d",
+      "baslik": "Anketleri gören Erdoğan seçim planını değiştirdi",
+      "ozet": "Anketleri gören Erdoğan seçim planını değiştirdi",
+      "url": "https://www.sozcu.com.tr/anketleri-goren-erdogan-secim-planini-degistirdi-p353863",
+      "tarih": "2026-08-30T06:35:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "73e2c9be5b88",
       "baslik": "Giresun’da 3 gün denize girme yasağı: Akıntıya kapılan İranlı boğuldu",
@@ -1977,36 +2007,6 @@
       "ozet": "Cem Gürdeniz: Türkiye’nin gaz rezervlerini çalacaklar",
       "url": "https://www.sozcu.com.tr/cem-gurdeniz-turkiye-nin-gaz-rezervlerini-calacaklar-p349724",
       "tarih": "2026-08-16T03:00:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "51ac7d123bd5",
-      "baslik": "Kuzey Ormanları’ndan demiryolu geçecek, 45 bin kesilecek!",
-      "ozet": "Kuzey Ormanları’ndan demiryolu geçecek, 45 bin kesilecek!",
-      "url": "https://www.sozcu.com.tr/kuzey-ormanlari-ndan-demiryolu-gececek-45-bin-kesilecek-p349723",
-      "tarih": "2026-08-16T02:36:50+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f9f332a4b188",
-      "baslik": "Bodrum’un suyunu madenler tüketiyor",
-      "ozet": "Bodrum’un suyunu madenler tüketiyor",
-      "url": "https://www.sozcu.com.tr/bodrum-un-suyunu-madenler-tuketiyor-p349715",
-      "tarih": "2026-08-16T01:30:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d22beefb948a",
-      "baslik": "Çifte dolandırıcılık yöntemi: Gerçek adrese gittiklerinde ortaya çıktı",
-      "ozet": "Çifte dolandırıcılık yöntemi: Gerçek adrese gittiklerinde ortaya çıktı",
-      "url": "https://www.sozcu.com.tr/cifte-dolandiricilik-yontemi-gercek-adrese-gittiklerinde-ortaya-cikti-p349682",
-      "tarih": "2026-08-15T17:52:17+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
