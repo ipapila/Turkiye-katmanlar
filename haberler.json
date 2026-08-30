@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-08-30T08:47:00.730901+00:00",
+    "guncelleme": "2026-08-30T14:10:50.930183+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6521,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "25105226517a",
+      "baslik": "Batan gemi neden alabora oldu? Korkunç şüphe",
+      "ozet": "Batan gemi neden alabora oldu? Korkunç şüphe",
+      "url": "https://www.sozcu.com.tr/batan-gemi-neden-alabora-oldu-korkunc-suphe-p353948",
+      "tarih": "2026-08-30T13:04:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c5d71f7ea7f0",
+      "baslik": "Denizde kaybolan 23 kişiye ulaşılamıyor!",
+      "ozet": "Denizde kaybolan 23 kişiye ulaşılamıyor!",
+      "url": "https://www.sozcu.com.tr/cok-kritik-dakikalar-70-e-yakin-yolcuya-ulasilamiyor-p353932",
+      "tarih": "2026-08-30T13:03:09+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4841eaaccd70",
+      "baslik": "Amrabat resmen Ajax'ta",
+      "ozet": "Amrabat resmen Ajax'ta",
+      "url": "https://www.sozcu.com.tr/amrabat-resmen-ajax-ta-p353947",
+      "tarih": "2026-08-30T12:31:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "504734fb21f3",
+      "baslik": "Leao’nun Galatasaray'a maliyeti ne kadar? Resmi açıklama geldi",
+      "ozet": "Leao’nun Galatasaray'a maliyeti ne kadar? Resmi açıklama geldi",
+      "url": "https://www.sozcu.com.tr/leao-nun-galatasaray-a-maliyeti-ne-kadar-resmi-aciklama-geldi-p353925",
+      "tarih": "2026-08-30T10:07:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b8d629ddeada",
       "baslik": "Topuklu Efe Erdoğan'lı 30 Ağustos paylaşımıyla AKP'lilerin gönlünü fethetti",
@@ -1502,6 +1542,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "13803e285509",
+      "baslik": "Metal işçilerinden maden işçilerine dayanışma eylemi - Cumhuriyet",
+      "ozet": "Metal işçilerinden maden işçilerine dayanışma eylemi Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3VuQ05YWEYxcDZIWE5xeUpSRzNjQU9RRGtJd2tsYlJZR3c1bXF5a0ZxMjg0TDZ3R09CYkF4dnE5cU9HYy1fcm9tZFVZeHdIYm9aNHNPS2hiWHpIb1oxdm41MHZhYjNsWExYdU1VQnNVRjF0cVlINVFzVFJ6YWtodGNqV20ySFVxbXZGSG9yd2d6TUYwd0k3X2Z5Q2laLWs?oc=5",
+      "tarih": "2026-08-19T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "4a3e3305227a",
       "baslik": "İklim İnkârcılığı Sözlüğü-8: “Uçaklardan Yayılan Kimyasallarla İklim Kontrol Ediliyor”",
       "ozet": "İnkârcı hikâyeye göre, uçaklardan yayılan gazlarla iklim yapay olarak değiştiriliyor. Amaç ise gizli güçlerin iklim değişiyor algısı yaratarak dünyaya egemen olmayı ve nüfusu azaltmayı hedeflemeleri. Üzerinde onlarca komplo teorisi ve ipe sapa gelmez hikâye yaratılan uçak izlerin",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-08-16T07:20:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f6185bebfb7c",
-      "baslik": "Marmaris’te orman yangını! Çıkarma gemileri devreye girdi",
-      "ozet": "Marmaris’te orman yangını! Çıkarma gemileri devreye girdi",
-      "url": "https://www.sozcu.com.tr/marmariste-yangina-denizden-mudahale-cikarma-gemileri-devreye-girdi-p349749",
-      "tarih": "2026-08-16T06:01:45+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7481ede729a9",
-      "baslik": "Milyarder yatırımcıların altın yorumu: Yükseliş daha yeni başlıyor",
-      "ozet": "Milyarder yatırımcıların altın yorumu: Yükseliş daha yeni başlıyor",
-      "url": "https://www.sozcu.com.tr/milyarder-yatirimcilarin-altin-yorumu-yukselis-daha-yeni-basliyor-p349741",
-      "tarih": "2026-08-16T05:26:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5a5b731b036c",
-      "baslik": "Söz vereli 40 gün oldu, adım atılmadı: Erdoğan'dan Trump'a F-35 sitemi",
-      "ozet": "Söz vereli 40 gün oldu, adım atılmadı: Erdoğan'dan Trump'a F-35 sitemi",
-      "url": "https://www.sozcu.com.tr/soz-vereli-40-gun-oldu-adim-atilmadi-erdogan-dan-trump-a-f-35-sitemi-p349745",
-      "tarih": "2026-08-16T05:26:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5b70f7f4c794",
-      "baslik": "Deniz Baysal’dan çadırda kamp keyfi: Soluğu doğada aldı",
-      "ozet": "Deniz Baysal’dan çadırda kamp keyfi: Soluğu doğada aldı",
-      "url": "https://www.sozcu.com.tr/deniz-baysal-dan-cadirda-kamp-keyfi-solugu-dogada-aldi-p349742",
-      "tarih": "2026-08-16T05:17:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "377a76296975",
-      "baslik": "Cem Gürdeniz: Türkiye’nin gaz rezervlerini çalacaklar",
-      "ozet": "Cem Gürdeniz: Türkiye’nin gaz rezervlerini çalacaklar",
-      "url": "https://www.sozcu.com.tr/cem-gurdeniz-turkiye-nin-gaz-rezervlerini-calacaklar-p349724",
-      "tarih": "2026-08-16T03:00:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
