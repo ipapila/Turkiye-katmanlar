@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-30T14:10:50.930183+00:00",
+    "guncelleme": "2026-08-30T18:19:32.577496+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6521,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6522,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "6164e1b777eb",
+      "baslik": "Beşiktaş'tan Hadziahmetovic kararı, resmen açıklandı",
+      "ozet": "Beşiktaş'tan Hadziahmetovic kararı, resmen açıklandı",
+      "url": "https://www.sozcu.com.tr/besiktas-tan-hadziahmetovic-karari-resmen-aciklandi-p353996",
+      "tarih": "2026-08-30T17:36:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c5dbe4d9d4da",
+      "baslik": "Karton bardakta çay kahve içenlere kötü haber: Her mililitresinde milyonlarcası çıktı",
+      "ozet": "Karton bardakta çay kahve içenlere kötü haber: Her mililitresinde milyonlarcası çıktı",
+      "url": "https://www.sozcu.com.tr/karton-bardakta-cay-kahve-icenlere-kotu-haber-her-mililitresinde-milyonlarcasi-cikti-p353988",
+      "tarih": "2026-08-30T16:40:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5373a1f69e4f",
+      "baslik": "Sergen Yalçın'ın yeni adresi belli oldu: Aynı isimle çalışacak",
+      "ozet": "Sergen Yalçın'ın yeni adresi belli oldu: Aynı isimle çalışacak",
+      "url": "https://www.sozcu.com.tr/sergen-yalcin-in-yeni-adresi-belli-oldu-ayni-isimle-calisacak-p353982",
+      "tarih": "2026-08-30T15:53:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4b77acb234d2",
+      "baslik": "714 metro vagonunu denizin dibine batırdılar",
+      "ozet": "714 metro vagonunu denizin dibine batırdılar",
+      "url": "https://www.sozcu.com.tr/714-metro-vagonunu-denizin-dibine-batirdilar-p353976",
+      "tarih": "2026-08-30T15:18:59+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "25105226517a",
       "baslik": "Batan gemi neden alabora oldu? Korkunç şüphe",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-08-16T21:28:22+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0673539ec7f0",
-      "baslik": "Burj Khalifa'yı bile geride bırakacak: 1 kilometrelik dev binanın 430 metresi tamamlandı",
-      "ozet": "Burj Khalifa'yı bile geride bırakacak: 1 kilometrelik dev binanın 430 metresi tamamlandı",
-      "url": "https://www.sozcu.com.tr/burj-khalifa-yi-bile-geride-birakacak-1-kilometrelik-dev-binanin-430-metresi-tamamlandi-p349897",
-      "tarih": "2026-08-16T15:21:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "058d2161aa74",
-      "baslik": "Binbir Gece’yle yıldızı köyüne döndü: Oyuncu Ergün Demir’in doğayla iç içe yeni hayatı",
-      "ozet": "Binbir Gece’yle yıldızı köyüne döndü: Oyuncu Ergün Demir’in doğayla iç içe yeni hayatı",
-      "url": "https://www.sozcu.com.tr/binbir-gece-yle-yildizi-koyune-dondu-oyuncu-ergun-demir-in-yeni-hayati-p349869",
-      "tarih": "2026-08-16T12:08:47+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b05820438b45",
-      "baslik": "Galatasaray ile anılıyordu: Ahmetcan Kaplan'ın yeni adresi belli oldu",
-      "ozet": "Galatasaray ile anılıyordu: Ahmetcan Kaplan'ın yeni adresi belli oldu",
-      "url": "https://www.sozcu.com.tr/galatasaray-ile-aniliyordu-ahmetcan-kaplan-in-yeni-adresi-belli-oldu-p349835",
-      "tarih": "2026-08-16T09:08:44+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "479d1a4e68e1",
-      "baslik": "Marmaris'te orman yangını ikinci gününde kontrol altına alındı - Cumhuriyet",
-      "ozet": "Marmaris'te orman yangını ikinci gününde kontrol altına alındı Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0hSVFhsR2dLdEJZY0ZQbXRUdDBuWEhud3lNOV9oMmZHeUk0MThsbHRGVm1JeXBvYnI2Xy11QlBtQ0ZPdy1lMFk2aU5XbGN3ZlRoX09saHBTVFBBZUt0RXprQkVtcDMxa3QxTk95S2FlRWhrWVpqQ3lJcFpyUGQzZHJ3OWFSbll3NjB1T2VLajVsdVRrR3BMWmNxOEY5bDYzNkdlVUFROFlHbGZ1?oc=5",
-      "tarih": "2026-08-16T07:20:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
@@ -93304,6 +93304,20 @@
       "ozet": "Giresun’da 3 gün denize girme yasağı: Akıntıya kapılan İranlı boğuldu",
       "lat": 40.9778,
       "lng": 38.3255,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-898700bba8e5",
+      "baslik": "Diyarbakır Sur'da yıkım başladı, mahalleliler mağduriyetten şikayetçi - BBC",
+      "konum": "Diyarbakır",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "30.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41QVFJQS1NYlgtWTdXMlBNemtsUjN2LTRkY2RzcWVaRTZHWTczSkJMVkU2TE52OW53LWVCV1BqdzNwai1ZUk9ZeHNRRGJiaDRtc3B3eXBqanhvOWxHZ0J4aVVB0gFnQVVfeXFMTTFlejQ3SUJydW9LZWw0dFE4NlBWNWl5LXBCd3R2bVVlZVlTcFpac0hvTUtLQXVoRnVWMzZ5SVdZQmx1eG5sckJDTDNEVG10SVlKXy1OMW13Y2tSdmk2aW0wSmw3SjJHdw?oc=5",
+      "ozet": "Diyarbakır Sur'da yıkım başladı, mahalleliler mağduriyetten şikayetçi BBC",
+      "lat": 37.9521,
+      "lng": 40.147,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

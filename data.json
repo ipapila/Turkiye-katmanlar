@@ -118450,5 +118450,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/giresun-da-3-gun-denize-girme-yasagi-akintiya-kapilan-iranli-boguldu-p353800"
+  },
+  {
+    "id": "tarayici-898700bba8e5",
+    "tip": "Ekolojik İhlal",
+    "ad": "Diyarbakır Sur'da yıkım başladı, mahalleliler mağduriyetten şikayetçi - BBC",
+    "il": "Diyarbakır",
+    "ilce": "",
+    "aciklama": "Diyarbakır Sur'da yıkım başladı, mahalleliler mağduriyetten şikayetçi BBC",
+    "koordinatlar": {
+      "lat": 37.9521,
+      "lng": 40.147
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "30.08.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41QVFJQS1NYlgtWTdXMlBNemtsUjN2LTRkY2RzcWVaRTZHWTczSkJMVkU2TE52OW53LWVCV1BqdzNwai1ZUk9ZeHNRRGJiaDRtc3B3eXBqanhvOWxHZ0J4aVVB0gFnQVVfeXFMTTFlejQ3SUJydW9LZWw0dFE4NlBWNWl5LXBCd3R2bVVlZVlTcFpac0hvTUtLQXVoRnVWMzZ5SVdZQmx1eG5sckJDTDNEVG10SVlKXy1OMW13Y2tSdmk2aW0wSmw3SjJHdw?oc=5"
   }
 ]
