@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-31T09:08:59.055683+00:00",
+    "guncelleme": "2026-08-31T18:32:35.472295+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6522,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6523,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "4d0522155be7",
+      "baslik": "Galatasaray'da ayrılık an meselesi! Gideceği kulüp bile belli oldu",
+      "ozet": "Galatasaray'da ayrılık an meselesi! Gideceği kulüp bile belli oldu",
+      "url": "https://www.sozcu.com.tr/galatasaraydan-victor-nelsson-ayriligi-monzaya-gidiyor-p354278",
+      "tarih": "2026-08-31T15:54:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "591184ef2b82",
+      "baslik": "Doğadan silinmelerine ramak kalmıştı: 10 bin tanesini aynı bölgeye bıraktılar",
+      "ozet": "Doğadan silinmelerine ramak kalmıştı: 10 bin tanesini aynı bölgeye bıraktılar",
+      "url": "https://www.sozcu.com.tr/dogadan-silinmelerine-ramak-kalmisti-10-bin-tanesini-ayni-bolgeye-biraktilar-p354279",
+      "tarih": "2026-08-31T15:52:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "071b4ac3f092",
+      "baslik": "Denize 62 bin litre soda döktüler",
+      "ozet": "Denize 62 bin litre soda döktüler",
+      "url": "https://www.sozcu.com.tr/denize-62-bin-litre-soda-doktuler-p354273",
+      "tarih": "2026-08-31T15:13:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cf4dfba7e254",
+      "baslik": "İzmir’de Güneş Seferberliği",
+      "ozet": "İzmir Büyükşehir Belediyesi, konutlarda güneş enerjisi kullanımının yaygınlaşmasını kolaylaştıracak önemli bir çalışma başlattı. 30 ilçe, 25 kW ve altı konut tipi çatı GES başvurularında ruhsat ve izin süreçlerini standartlaştırmak için ortak yol haritası oluşturdu. İzmir Büyükşe",
+      "url": "https://www.iklimhaber.org/izmirde-gunes-seferberligi/",
+      "tarih": "2026-08-31T11:37:43+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2c1270bb6968",
+      "baslik": "Mercan Ağarması Sıklaştı: Resifler Kendini Yenileyemiyor",
+      "ozet": "Küresel Mercan Resifleri İzleme Ağı’nın, 120 ülke ve yaklaşık 37 bin resif bölgesinden elde edilen 40 yılı aşkın veriye dayanarak hazırladığı raporda, ağarma olayları arasındaki sürenin eskiden onlarca yılı bulduğu, ancak artık ortalama sadece beş veya altı yılda bir yaşandığı be",
+      "url": "https://www.iklimhaber.org/mercan-agarmasi-siklasti-resifler-kendini-yenileyemiyor/",
+      "tarih": "2026-08-31T09:17:30+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c234507ab96f",
       "baslik": "Süper Lig’in çarkları: Büyük paralar, küçük hesaplar",
@@ -1957,56 +2007,6 @@
       "ozet": "Erdoğan El Cezire röportajında Avrupa'ya rest çekti: AB üyeliği artık öncelik değil",
       "url": "https://www.sozcu.com.tr/erdogan-el-cezire-roportajinda-avrupa-ya-rest-cekti-ab-uyeligi-artik-oncelik-degil-p350105",
       "tarih": "2026-08-17T08:36:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b039be062e8c",
-      "baslik": "Türkiye Karbon Piyasalarını Büyütme Koalisyonu’na Dahil Oldu",
-      "ozet": "14 üye ülkesi bulunan girişimin karbon kredilerine yönelik siyasi ve düzenleyici zemini güçlendirmesi hedefleniyor. Murat Kurum, kasım ayında Türkiye’nin ev sahipliğinde gerçekleştirilecek COP31 zirvesinde karbon kredilerine yönelik küresel talebin artırılmasının öncelikli başlık",
-      "url": "https://www.iklimhaber.org/turkiye-karbon-piyasalarini-buyutme-koalisyonuna-dahil-oldu/",
-      "tarih": "2026-08-17T08:30:12+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "80bd7da0f956",
-      "baslik": "Orman Yangınlarında Kritik Eşik: 30-30-30",
-      "ozet": "Hava sıcaklığının 30 derecenin üzerine çıktığı, nemin %30’un altına düştüğü ve rüzgar hızının saatte 30 kilometreyi aştığı dönemlerde orman yangını riskinin kritik seviyeye ulaştığını belirten Prof. Dr. Tolunay, “30-30-30 koşullarının yaşandığı günlerde kırmızı alarm seviyesinde ",
-      "url": "https://www.iklimhaber.org/orman-yanginlarinda-kritik-esik-30-30-30/",
-      "tarih": "2026-08-17T07:09:52+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a3b582fd486b",
-      "baslik": "Ege ve Akdeniz’de Bazı Bölgeler Deniz Milli Parkı İlan Edildi",
-      "ozet": "Resmi Gazete’de yayımlanan karara göre, Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları belirlenen saha, “Deniz Milli Parkı” olarak belirlendi. Muğla Fethiye ile Antalya Kaş açıklarında yer alan deniz alanı ile Kuzey Ege’de sınırları beli",
-      "url": "https://www.iklimhaber.org/ege-ve-akdenizde-bazi-bolgeler-deniz-milli-parki-ilan-edildi/",
-      "tarih": "2026-08-17T06:56:35+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c8381b906ad7",
-      "baslik": "Hesabından para çekenler bunu bilmiyor: 1 dakikalık kullanım bile ücretli",
-      "ozet": "Hesabından para çekenler bunu bilmiyor: 1 dakikalık kullanım bile ücretli",
-      "url": "https://www.sozcu.com.tr/hesabindan-para-cekenler-bunu-bilmiyor-1-dakikalik-kullanim-bile-ucretli-p350013",
-      "tarih": "2026-08-17T05:58:45+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6a0c30be733b",
-      "baslik": "Doğalgaz kombileri tarih olacak: Satış yasağı geliyor",
-      "ozet": "Doğalgaz kombileri tarih olacak: Satış yasağı geliyor",
-      "url": "https://www.sozcu.com.tr/dogalgaz-kombileri-tarih-olacak-satis-yasagi-geliyor-p350020",
-      "tarih": "2026-08-17T05:57:30+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93318,6 +93318,20 @@
       "ozet": "Diyarbakır Sur'da yıkım başladı, mahalleliler mağduriyetten şikayetçi BBC",
       "lat": 37.9521,
       "lng": 40.147,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-cf4dfba7e254",
+      "baslik": "İzmir’de Güneş Seferberliği",
+      "konum": "İzmir",
+      "kategori": "GES",
+      "siddet": "Takip Ediliyor",
+      "tarih": "31.08.2026",
+      "url": "https://www.iklimhaber.org/izmirde-gunes-seferberligi/",
+      "ozet": "İzmir Büyükşehir Belediyesi, konutlarda güneş enerjisi kullanımının yaygınlaşmasını kolaylaştıracak önemli bir çalışma başlattı. 30 ilçe, 25 kW ve altı konut tipi çatı GES başvurularında ruhsat ve izin süreçlerini standartlaştırmak için ortak yol haritası oluşturdu. İzmir Büyükşe",
+      "lat": 38.32,
+      "lng": 27.2084,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

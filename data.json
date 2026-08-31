@@ -118469,5 +118469,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41QVFJQS1NYlgtWTdXMlBNemtsUjN2LTRkY2RzcWVaRTZHWTczSkJMVkU2TE52OW53LWVCV1BqdzNwai1ZUk9ZeHNRRGJiaDRtc3B3eXBqanhvOWxHZ0J4aVVB0gFnQVVfeXFMTTFlejQ3SUJydW9LZWw0dFE4NlBWNWl5LXBCd3R2bVVlZVlTcFpac0hvTUtLQXVoRnVWMzZ5SVdZQmx1eG5sckJDTDNEVG10SVlKXy1OMW13Y2tSdmk2aW0wSmw3SjJHdw?oc=5"
+  },
+  {
+    "id": "tarayici-cf4dfba7e254",
+    "tip": "GES",
+    "ad": "İzmir’de Güneş Seferberliği",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir Büyükşehir Belediyesi, konutlarda güneş enerjisi kullanımının yaygınlaşmasını kolaylaştıracak önemli bir çalışma başlattı. 30 ilçe, 25 kW ve altı konut tipi çatı GES başvurularında ruhsat ve izin süreçlerini standartlaştırmak için ortak yol haritası oluşturdu. İzmir Büyükşe",
+    "koordinatlar": {
+      "lat": 38.32,
+      "lng": 27.2084
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "31.08.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/izmirde-gunes-seferberligi/"
   }
 ]
