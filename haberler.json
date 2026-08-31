@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-30T18:19:32.577496+00:00",
+    "guncelleme": "2026-08-31T09:08:59.055683+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6522,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "c234507ab96f",
+      "baslik": "Süper Lig’in çarkları: Büyük paralar, küçük hesaplar",
+      "ozet": "Süper Lig’in çarkları: Büyük paralar, küçük hesaplar",
+      "url": "https://www.sozcu.com.tr/super-lig-in-carklari-buyuk-paralar-kucuk-hesaplar-p354144",
+      "tarih": "2026-08-31T08:54:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2e3436bfec02",
+      "baslik": "Alabora olan geminin kaptanı kendini böyle savundu",
+      "ozet": "Alabora olan geminin kaptanı kendini böyle savundu",
+      "url": "https://www.sozcu.com.tr/alabora-olan-geminin-kaptani-kendini-boyle-savundu-p354146",
+      "tarih": "2026-08-31T08:52:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c4696f47dfee",
+      "baslik": "Nepal-Tibet Faciasının Perde Arkasında İklim Değişikliği Var",
+      "ozet": "Nepal ve Tibet sınırında 26 Ağustos’ta yaşanan heyelan ve sellerde en az 900 kişi hayatını kaybetti, 4.700 kişi hâlâ kayıp. İTÜ Avrasya Yer Bilimleri Enstitüsü Müdürü Prof. Dr. Tolga Görüm, olayın kaynağının bir kaya-buz kütlesinin yenilmesi olduğunu belirtiyor. Görüm’e g",
+      "url": "https://www.iklimhaber.org/nepal-tibet-faciasinin-perde-arkasinda-iklim-degisikligi-var/",
+      "tarih": "2026-08-31T08:28:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2cc4e0eed698",
+      "baslik": "Ülkeler Kuraklık ve Arazi Bozulumuyla Mücadele için 1,3 Milyar Dolar Taahhüt Etti",
+      "ozet": "UNCCD Yürütme Sekreteri Yasmine Fouad, konferansın taahhütlerden uygulama aşamasına geçmek için gerekli olan siyasi kararları, bilimsel kanıtları, finansman mekanizmalarını ve ortaklıkları ortaya koyduğunu söyledi. Birleşmiş Milletler Çölleşmeyle Mücadele Sözleşmesi’nin 17. Taraf",
+      "url": "https://www.iklimhaber.org/ulkeler-kuraklik-ve-arazi-bozulumuyla-mucadele-icin-13-milyar-dolar-taahhut-etti/",
+      "tarih": "2026-08-31T08:06:35+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d0bf03cbea1f",
+      "baslik": "İşsizlik rakamları açıkladı: Temmuzda sert yükseldi",
+      "ozet": "İşsizlik rakamları açıkladı: Temmuzda sert yükseldi",
+      "url": "https://www.sozcu.com.tr/issizlik-rakamlari-acikladi-temmuzda-sert-yukseldi-p354116",
+      "tarih": "2026-08-31T07:17:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "775eb54ae656",
+      "baslik": "Borsa güne düşüşle başladı - 31 Ağustos 2026",
+      "ozet": "Borsa güne düşüşle başladı - 31 Ağustos 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-31-agustos-2026-p354119",
+      "tarih": "2026-08-31T07:15:54+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "6164e1b777eb",
       "baslik": "Beşiktaş'tan Hadziahmetovic kararı, resmen açıklandı",
@@ -1947,66 +2007,6 @@
       "ozet": "Doğalgaz kombileri tarih olacak: Satış yasağı geliyor",
       "url": "https://www.sozcu.com.tr/dogalgaz-kombileri-tarih-olacak-satis-yasagi-geliyor-p350020",
       "tarih": "2026-08-17T05:57:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "be28d8740137",
-      "baslik": "Manchester'da sokakta yakalanan tacizci, dayak yerken Türkçe konuşmaya başladı",
-      "ozet": "Manchester'da sokakta yakalanan tacizci, dayak yerken Türkçe konuşmaya başladı",
-      "url": "https://www.sozcu.com.tr/manchester-da-sokakta-yakalanan-tacizci-dayak-yerken-turkce-konusmaya-basladi-p350005",
-      "tarih": "2026-08-17T05:27:52+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ad0387051d10",
-      "baslik": "MHP’li Başkan, madene karşı çıkan halka parmak salladı",
-      "ozet": "MHP’li Başkan, madene karşı çıkan halka parmak salladı",
-      "url": "https://www.sozcu.com.tr/mhp-li-baskan-madene-karsi-cikan-halka-parmak-salladi-p349955",
-      "tarih": "2026-08-17T02:30:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a7cc16603394",
-      "baslik": "Marmaris’te skandal: Çevreci isim koyu kirletti, dev ceza kesildi - Cumhuriyet",
-      "ozet": "Marmaris’te skandal: Çevreci isim koyu kirletti, dev ceza kesildi Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3ZQY3pvLVdxWDlqTDZCMDF5ZTUtTkJxNDJ4aHNUeU5IelloZHJ6TXRGWXB4YzhfbkktTkl6NEZfNWZlWmNLOUExRzRhMlRIRXphR3lsc0ZXWXV1T3YxRmdzejZZdzBqZUVLZWVzVG5PYXp3M0RkT05vYVcwQ0NHSzk3VW1ZWm9udWc3dlJkX2s3WDVqTUxwS0dNZDEzZHNiVE5UNHhMejBsMlFDS1E?oc=5",
-      "tarih": "2026-08-17T01:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0e76184a3dbb",
-      "baslik": "Marmaris’te Çevre İhlali Skandalı: Çevreci İsim Koyu Pisletti, Dev Ceza Kesildi - Cumhuriyet",
-      "ozet": "Marmaris’te Çevre İhlali Skandalı: Çevreci İsim Koyu Pisletti, Dev Ceza Kesildi Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHc4YTJjWVJiN3RvU240WjM3OTU0VndDa1JnYTQ2VkhHOW4zeEUtdkJTdDRsaXQ0dUxyTW5GSnpwTThad2Rtb0VVTksySVJHejktaEQxUmNuZ2VvUmc3TENid1kxNUlsN2NRa1Qtd2xRVkNycFlnN0gwUnA5Wk4wM3hOMFZnblFNb05kbVFaNkZxQUVmcU9LS0dYMVhfcjIzZlU5dEg4YUthX0cxLUhreC1NMVF0bWJkYVlISjV4NVc?oc=5",
-      "tarih": "2026-08-17T01:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d257435d8bca",
-      "baslik": "Marmaris’te Çevre İhlali Skandalı: Çevreci İsim Koyu Pisletti, Dev Ceza Kesildi - cumhuriyet.com.tr",
-      "ozet": "Marmaris’te Çevre İhlali Skandalı: Çevreci İsim Koyu Pisletti, Dev Ceza Kesildi cumhuriyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHc4YTJjWVJiN3RvU240WjM3OTU0VndDa1JnYTQ2VkhHOW4zeEUtdkJTdDRsaXQ0dUxyTW5GSnpwTThad2Rtb0VVTksySVJHejktaEQxUmNuZ2VvUmc3TENid1kxNUlsN2NRa1Qtd2xRVkNycFlnN0gwUnA5Wk4wM3hOMFZnblFNb05kbVFaNkZxQUVmcU9LS0dYMVhfcjIzZlU5dEg4YUthX0cxLUhreC1NMVF0bWJkYVlISjV4NVc?oc=5",
-      "tarih": "2026-08-17T01:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fd4b986dd381",
-      "baslik": "Flört uygulamasından tanışıp yemeğe çıktı, gelen hesabı görünce şoke oldu",
-      "ozet": "Flört uygulamasından tanışıp yemeğe çıktı, gelen hesabı görünce şoke oldu",
-      "url": "https://www.sozcu.com.tr/flort-uygulamasiyla-tanisip-yemege-cikan-adamin-hesabi-gorunce-soke-oldu-p349952",
-      "tarih": "2026-08-16T21:28:22+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
