@@ -118488,5 +118488,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/izmirde-gunes-seferberligi/"
+  },
+  {
+    "id": "tarayici-dd59b965ab3e",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Bursa'nın bu projesi için acele kamulaştırma kararı - Olay Gazetesi Bursa - Olay Gazetesi Bursa",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa'nın bu projesi için acele kamulaştırma kararı - Olay Gazetesi Bursa Olay Gazetesi Bursa",
+    "koordinatlar": {
+      "lat": 40.2622,
+      "lng": 29.0055
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "01.09.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLWtXV2ZxWVFJVy1nTDBrU1ZBUExIeXFvN1ViZFRpdTlfVHc0cmhrWnZnZUlnVmhEbzdUOHdBRWdEanRQUGMxTnljNHlkT1htLVF0ZTFDZVZoNDNNRGFqVW1BVnBzUmo2OXNZT1Z5UXVuRUwwa2NtVWxLTjY5bVA0ZVR3UDlyRU9RLWfSAZIBQVVfeXFMTmZpWTRzSFdxTmRJUGJXMy1LWHgyZzFTMXVnVXU5cVZ6ZDVESDVMTGV1WVlVMGdyM0p1RXU1MGZxYkxEYnZoZEZSX0FGSGJianBUWU1XaFNIS0pEUG1XUm1WVnNnNDhoVm9vZlBTeEhFLUVxMXIzZU16Zmw4NnprbEpTSnZpVnp3TnFReDJiRmM0b0E?oc=5"
+  },
+  {
+    "id": "tarayici-01b0a7f6687c",
+    "tip": "Ekolojik İhlal",
+    "ad": "Marketlerin Pestisit Karnesi Açıklandı",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Greenpeace Türkiye’nin yeni kampanyası kapsamında İstanbul’un dört ilçesindeki beş market zincirinden domates örnekleri alındı. Sonuçlara göre 20 üründen 3’ünde mevzuata aykırı pestisit kullanımı, 7’sinde ise 3’ten fazla pestisite rastlandı. Mevzuata aykırı pestisit kullanılan ür",
+    "koordinatlar": {
+      "lat": 41.1056,
+      "lng": 29.0489
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "01.09.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/marketlerin-pestisit-karnesi-aciklandi/"
   }
 ]

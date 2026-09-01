@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-01T08:09:53.465357+00:00",
+    "guncelleme": "2026-09-01T13:50:23.130424+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6523,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6525,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "4d8baee5e699",
+      "baslik": "Kredi kartı borcu olanları ilgilendiren karar: Eylül faiz oranları belli oldu!",
+      "ozet": "Kredi kartı borcu olanları ilgilendiren karar: Eylül faiz oranları belli oldu!",
+      "url": "https://www.sozcu.com.tr/kredi-karti-borcu-olanlari-ilgilendiren-karar-eylul-faiz-oranlari-belli-oldu-p354507",
+      "tarih": "2026-09-01T13:13:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "25a4af973399",
+      "baslik": "Ormanda terk edilmiş SUV'da kilolarca altın ve 50 milyon liralık nakit para bulundu",
+      "ozet": "Ormanda terk edilmiş SUV'da kilolarca altın ve 50 milyon liralık nakit para bulundu",
+      "url": "https://www.sozcu.com.tr/ormanda-terk-edilmis-suv-da-kilolarca-altin-ve-50-milyon-liralik-nakit-para-bulundu-p354512",
+      "tarih": "2026-09-01T12:35:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6ace8763bc36",
+      "baslik": "Ramazan Yılmaz, pist bisikletinde dünya 2'nciliğine yükseldi",
+      "ozet": "Ramazan Yılmaz, pist bisikletinde dünya 2'nciliğine yükseldi",
+      "url": "https://www.sozcu.com.tr/ramazan-yilmaz-pist-bisikletinde-dunya-2-nciligine-yukseldi-p354504",
+      "tarih": "2026-09-01T12:16:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "63d325b3ca6a",
+      "baslik": "Yeni Çalışma: Klimalar Can Kurtarırken Gezegeni de Isıtıyor",
+      "ozet": "İklim değişikliği nedeniyle gücü ve sıklığı artan sıcak hava dalgaları neredeyse her kıtayı etkisi altına alıyor. Yeni bir araştırmaya göre serin kalmak için kullanılan klimalar yalnızca ABD’de yılda 5 binden fazla hayat kurtarıyor. Ancak klima kullanımının artışı küresel ısınmay",
+      "url": "https://www.iklimhaber.org/yeni-calisma-klimalar-can-kurtarirken-gezegeni-de-isitiyor/",
+      "tarih": "2026-09-01T10:28:04+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "01b0a7f6687c",
+      "baslik": "Marketlerin Pestisit Karnesi Açıklandı",
+      "ozet": "Greenpeace Türkiye’nin yeni kampanyası kapsamında İstanbul’un dört ilçesindeki beş market zincirinden domates örnekleri alındı. Sonuçlara göre 20 üründen 3’ünde mevzuata aykırı pestisit kullanımı, 7’sinde ise 3’ten fazla pestisite rastlandı. Mevzuata aykırı pestisit kullanılan ür",
+      "url": "https://www.iklimhaber.org/marketlerin-pestisit-karnesi-aciklandi/",
+      "tarih": "2026-09-01T08:36:44+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "48915b27b096",
       "baslik": "Yeni Rapor: Türkiye’nin Enerji Dönüşümünde Finansman İhtiyacı 200 Milyar Dolar",
@@ -1957,56 +2007,6 @@
       "ozet": "100 yıl önce diktikleri bitki kıyıları ele geçirdi: Şimdi tek tek söküyorlar",
       "url": "https://www.sozcu.com.tr/100-yil-once-diktikleri-bitki-kiyilari-ele-gecirdi-simdi-tek-tek-sokuyorlar-p350287",
       "tarih": "2026-08-17T20:34:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "117184cefa61",
-      "baslik": "Müslim Sarı'dan 'Menderes' itirafı: Üyeleri bile 'butlan'ı dinlememiş",
-      "ozet": "Müslim Sarı'dan 'Menderes' itirafı: Üyeleri bile 'butlan'ı dinlememiş",
-      "url": "https://www.sozcu.com.tr/muslim-sari-menderes-aciklamasi-p350263",
-      "tarih": "2026-08-17T18:20:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9a52fcbf0179",
-      "baslik": "Menderes'te AKP kazandı, 'butlan' CHP'sinden açıklama geldi: Kaybetmeye alışın kardeşim",
-      "ozet": "Menderes'te AKP kazandı, 'butlan' CHP'sinden açıklama geldi: Kaybetmeye alışın kardeşim",
-      "url": "https://www.sozcu.com.tr/utku-gumrukcu-menderes-aciklamasi-p350259",
-      "tarih": "2026-08-17T17:53:47+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e28567961528",
-      "baslik": "10 bin kişinin yaşadığı balıkçı kasabasını deniz yutuyor",
-      "ozet": "10 bin kişinin yaşadığı balıkçı kasabasını deniz yutuyor",
-      "url": "https://www.sozcu.com.tr/10-bin-kisinin-yasadigi-balikci-kasabasini-deniz-yutuyor-p350256",
-      "tarih": "2026-08-17T17:27:19+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f09f906d101d",
-      "baslik": "Yunan basını: Türkiye Ege Denizi'ni ikiye bölmeye hazırlanıyor",
-      "ozet": "Yunan basını: Türkiye Ege Denizi'ni ikiye bölmeye hazırlanıyor",
-      "url": "https://www.sozcu.com.tr/yunan-basini-turkiye-ege-denizi-ni-ikiye-bolmeye-hazirlaniyor-p350223",
-      "tarih": "2026-08-17T14:17:02+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "915442fd6b3c",
-      "baslik": "Borcu olanlar için son 15 gün: SGK başvuru takvimini açıkladı",
-      "ozet": "Borcu olanlar için son 15 gün: SGK başvuru takvimini açıkladı",
-      "url": "https://www.sozcu.com.tr/borcu-olanlar-icin-son-15-gun-sgk-basvuru-takvimini-acikladi-p350192",
-      "tarih": "2026-08-17T12:48:07+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93332,6 +93332,34 @@
       "ozet": "İzmir Büyükşehir Belediyesi, konutlarda güneş enerjisi kullanımının yaygınlaşmasını kolaylaştıracak önemli bir çalışma başlattı. 30 ilçe, 25 kW ve altı konut tipi çatı GES başvurularında ruhsat ve izin süreçlerini standartlaştırmak için ortak yol haritası oluşturdu. İzmir Büyükşe",
       "lat": 38.32,
       "lng": 27.2084,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-dd59b965ab3e",
+      "baslik": "Bursa'nın bu projesi için acele kamulaştırma kararı - Olay Gazetesi Bursa - Olay Gazetesi Bursa",
+      "konum": "Bursa",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "01.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLWtXV2ZxWVFJVy1nTDBrU1ZBUExIeXFvN1ViZFRpdTlfVHc0cmhrWnZnZUlnVmhEbzdUOHdBRWdEanRQUGMxTnljNHlkT1htLVF0ZTFDZVZoNDNNRGFqVW1BVnBzUmo2OXNZT1Z5UXVuRUwwa2NtVWxLTjY5bVA0ZVR3UDlyRU9RLWfSAZIBQVVfeXFMTmZpWTRzSFdxTmRJUGJXMy1LWHgyZzFTMXVnVXU5cVZ6ZDVESDVMTGV1WVlVMGdyM0p1RXU1MGZxYkxEYnZoZEZSX0FGSGJianBUWU1XaFNIS0pEUG1XUm1WVnNnNDhoVm9vZlBTeEhFLUVxMXIzZU16Zmw4NnprbEpTSnZpVnp3TnFReDJiRmM0b0E?oc=5",
+      "ozet": "Bursa'nın bu projesi için acele kamulaştırma kararı - Olay Gazetesi Bursa Olay Gazetesi Bursa",
+      "lat": 40.2622,
+      "lng": 29.0055,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-01b0a7f6687c",
+      "baslik": "Marketlerin Pestisit Karnesi Açıklandı",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "01.09.2026",
+      "url": "https://www.iklimhaber.org/marketlerin-pestisit-karnesi-aciklandi/",
+      "ozet": "Greenpeace Türkiye’nin yeni kampanyası kapsamında İstanbul’un dört ilçesindeki beş market zincirinden domates örnekleri alındı. Sonuçlara göre 20 üründen 3’ünde mevzuata aykırı pestisit kullanımı, 7’sinde ise 3’ten fazla pestisite rastlandı. Mevzuata aykırı pestisit kullanılan ür",
+      "lat": 41.1056,
+      "lng": 29.0489,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
