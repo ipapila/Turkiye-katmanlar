@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-08-31T18:32:35.472295+00:00",
+    "guncelleme": "2026-09-01T08:09:53.465357+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6523,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "48915b27b096",
+      "baslik": "Yeni Rapor: Türkiye’nin Enerji Dönüşümünde Finansman İhtiyacı 200 Milyar Dolar",
+      "ozet": "Enerji ve Tabii Kaynaklar Bakanlığının öngörülerine yer verilen raporda, Türkiye’nin 2035’e kadar rüzgar ve güneş enerjisindeki toplam kurulu gücünü 120 gigavata ulaştırmayı hedeflediği, buna ulaşılması için gelecek dönemde her yıl 8 ila 9 gigavat yeni kapasitenin devreye alınmas",
+      "url": "https://www.iklimhaber.org/yeni-rapor-turkiyenin-enerji-donusumunde-finansman-ihtiyaci-200-milyar-dolar/",
+      "tarih": "2026-09-01T08:02:08+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "84e07f9b72b5",
+      "baslik": "Türkiye İklim Değişikliği Kaynaklı Zincirleme Afet Riskine Hazırlanmalı",
+      "ozet": "26 Ağustos’ta Nepal-Tibet sınırında yaşanan ve yüzlerce kişinin hayatını kaybetmesine neden olan felaketin, bir heyelan akabinde buzul-kaya kütlesinin kopmasının başlattığı olaylar zincirinden kaynaklandığı düşünülüyor. Yeni bir çalışma ise iki yıl önce Fransız Alplerindeki La Bé",
+      "url": "https://www.iklimhaber.org/turkiye-iklim-degisikligi-kaynakli-zincirleme-afet-riskine-hazirlanmali/",
+      "tarih": "2026-09-01T07:19:22+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "72cb580cd323",
+      "baslik": "Borsa güne düşüşle başladı - 1 Eylül 2026",
+      "ozet": "Borsa güne düşüşle başladı - 1 Eylül 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-1-eylul-2026-p354417",
+      "tarih": "2026-09-01T07:06:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ec4ea7d947bc",
+      "baslik": "Ağaçta 'D' harfi şeklinde delik varsa hemen kaçın çağrısı yapıldı: 8 ilçede kırmızı alarm",
+      "ozet": "Ağaçta 'D' harfi şeklinde delik varsa hemen kaçın çağrısı yapıldı: 8 ilçede kırmızı alarm",
+      "url": "https://www.sozcu.com.tr/agacta-d-harfi-seklinde-delik-varsa-hemen-kacin-cagrisi-yapildi-8-ilcede-kirmizi-alarm-p354415",
+      "tarih": "2026-09-01T07:00:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0b42962bd3b8",
+      "baslik": "Piyasalar Kırmızıya Boyandı: Orta Doğu'daki Sıcak Çatışma Küresel Borsaları Vurdu!",
+      "ozet": "Piyasalar Kırmızıya Boyandı: Orta Doğu'daki Sıcak Çatışma Küresel Borsaları Vurdu!",
+      "url": "https://www.sozcu.com.tr/piyasalar-kirmiziya-boyandi-orta-dogu-daki-sicak-catisma-kuresel-borsalari-vurdu-p354404",
+      "tarih": "2026-09-01T06:32:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "4d0522155be7",
       "baslik": "Galatasaray'da ayrılık an meselesi! Gideceği kulüp bile belli oldu",
@@ -1957,56 +2007,6 @@
       "ozet": "Borcu olanlar için son 15 gün: SGK başvuru takvimini açıkladı",
       "url": "https://www.sozcu.com.tr/borcu-olanlar-icin-son-15-gun-sgk-basvuru-takvimini-acikladi-p350192",
       "tarih": "2026-08-17T12:48:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c4a2efb23356",
-      "baslik": "İddia: Merkez Bankası fonlama faizini indirecek dövizin yükselmesine izin verecek",
-      "ozet": "İddia: Merkez Bankası fonlama faizini indirecek dövizin yükselmesine izin verecek",
-      "url": "https://www.sozcu.com.tr/bu-hazirliklar-secimin-ayak-sesleri-mi-p350144",
-      "tarih": "2026-08-17T12:08:29+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1b6e5285b779",
-      "baslik": "Basra'dan İstanbul'da sıcak hava dalgası geliyor: Termometreler 36 dereceye kadar yükselecek",
-      "ozet": "Basra'dan İstanbul'da sıcak hava dalgası geliyor: Termometreler 36 dereceye kadar yükselecek",
-      "url": "https://www.sozcu.com.tr/basradan-istanbulda-sicak-hava-dalgasi-geliyor-termometreler-36-dereceye-kadar-yukselecek-p350160",
-      "tarih": "2026-08-17T12:07:44+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "699fd62cbc17",
-      "baslik": "Prens Selman, Türkiye'nin dev şirketine ortak oluyor",
-      "ozet": "Prens Selman, Türkiye'nin dev şirketine ortak oluyor",
-      "url": "https://www.sozcu.com.tr/turkiye-nin-dev-sirketi-ortaklik-icin-prens-selman-ile-el-sikisti-p350162",
-      "tarih": "2026-08-17T11:37:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e31bfaa8da63",
-      "baslik": "20 günde üç aylık transfer hesabı",
-      "ozet": "20 günde üç aylık transfer hesabı",
-      "url": "https://www.sozcu.com.tr/20-gunde-uc-aylik-transfer-hesabi-p350154",
-      "tarih": "2026-08-17T11:05:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "76029e43b294",
-      "baslik": "Erdoğan El Cezire röportajında Avrupa'ya rest çekti: AB üyeliği artık öncelik değil",
-      "ozet": "Erdoğan El Cezire röportajında Avrupa'ya rest çekti: AB üyeliği artık öncelik değil",
-      "url": "https://www.sozcu.com.tr/erdogan-el-cezire-roportajinda-avrupa-ya-rest-cekti-ab-uyeligi-artik-oncelik-degil-p350105",
-      "tarih": "2026-08-17T08:36:04+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
