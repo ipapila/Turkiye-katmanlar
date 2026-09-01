@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-01T13:50:23.130424+00:00",
+    "guncelleme": "2026-09-01T18:05:12.378023+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6525,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "e709282bddbf",
+      "baslik": "Facia \"Geliyorum\" demiş! İşte Girne'de alabora olan geminin bir gün önceki görüntüleri",
+      "ozet": "Facia \"Geliyorum\" demiş! İşte Girne'de alabora olan geminin bir gün önceki görüntüleri",
+      "url": "https://www.sozcu.com.tr/facia-geliyorum-demis-iste-girne-de-alabora-olan-geminin-bir-gun-onceki-goruntuleri-p354576",
+      "tarih": "2026-09-01T17:38:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e1bd84bd2128",
+      "baslik": "İngiltere’de bir devir resmen kapandı",
+      "ozet": "İngiltere’de bir devir resmen kapandı",
+      "url": "https://www.sozcu.com.tr/ingiltere-de-bir-devir-resmen-kapandi-p354562",
+      "tarih": "2026-09-01T16:35:38+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8bc1a4826f56",
+      "baslik": "Milyonlarca cam şişeyi öğütüp kıyılara döktüler",
+      "ozet": "Milyonlarca cam şişeyi öğütüp kıyılara döktüler",
+      "url": "https://www.sozcu.com.tr/milyonlarca-cam-siseyi-ogutup-kiyilara-doktuler-p354558",
+      "tarih": "2026-09-01T16:11:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c290b5a66d4f",
+      "baslik": "Yüksekliği 100 katlı gökdelene denk: Dünyanın en yüksek barajında üretim başladı",
+      "ozet": "Yüksekliği 100 katlı gökdelene denk: Dünyanın en yüksek barajında üretim başladı",
+      "url": "https://www.sozcu.com.tr/dunyanin-en-yuksek-barajinda-dugmeye-basildi-315-metrelik-dev-uretime-basladi-p354549",
+      "tarih": "2026-09-01T15:18:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "4d8baee5e699",
       "baslik": "Kredi kartı borcu olanları ilgilendiren karar: Eylül faiz oranları belli oldu!",
@@ -1242,6 +1282,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "bd21c8aa97f6",
+      "baslik": "Bilecik’te Hareketli Saatler: Maden Kazası, Orman Yangını ve Araç Yangınları Peş Peşe Geldi - memleket.com.tr",
+      "ozet": "Bilecik’te Hareketli Saatler: Maden Kazası, Orman Yangını ve Araç Yangınları Peş Peşe Geldi memleket.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDBJODlkbFY5VDNtUkZHaHRBQ1o1ZVBBek4yT2JSX2dwM2V4XzdoQjM1TGdiV2g5OU0yNktKd3RIa3Y2elZQUUd1bTU2YnFlYXFTaWpiNnNSX2c0ajJLZ0hHd0lOYjFmaDRRN1lMbXdvRGliUXNXcEVkUkhsWGo1R0ZFRFplY1dCWXBSX0h3bkZaUTRrN2VQbjlJbFVBYnVteFNLVTA0ajVqUnBfU29Vb1hUb21RY1hJOUNEUUJsYTXSAdABQVVfeXFMTU53aTVFSUFrTEd5Wm1ZMTNuRzBCOXJxdVEtZ2ZBblQ1T2owY0lkQmNRZG1mSEEtOWc3RUo1dG4tQVo5ZDZQOGJCLWFfM1hxYkpDMzBSbThrM2V3M1RzMEZ2eXZ3VFBjaUZfRl8xR3VfcUZJVzF5RHUxNlRBczZhYkZfV3lYcmRfY2FQeDJSSWdIS015S2Frdzl0X2RlaXUta3lxY0VYS1lqU0hrVXVQTl85OVBxS2dRZEZwVFl4MEpjd3h3QlN2dU5LZHFWYnJuQw?oc=5",
+      "tarih": "2026-08-22T17:41:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "a661ec29b613",
       "baslik": "Bilecik’te Hareketli Saatler: Maden Kazası, Orman Yangını ve Araç Yangınları Peş Peşe Geldi - Memleket",
       "ozet": "Bilecik’te Hareketli Saatler: Maden Kazası, Orman Yangını ve Araç Yangınları Peş Peşe Geldi Memleket",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-08-18T06:43:00+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dc39fc56536c",
-      "baslik": "Denizin ortasına 13 bin güneş paneli kurdular: Evdeki hesap çarşıya uymadı",
-      "ozet": "Denizin ortasına 13 bin güneş paneli kurdular: Evdeki hesap çarşıya uymadı",
-      "url": "https://www.sozcu.com.tr/denizden-gunes-enerjisi-ureteceklerdi-ama-evdeki-hesap-carsiya-uymadi-p350332",
-      "tarih": "2026-08-18T05:41:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f45b32ad95e9",
-      "baslik": "Telefonda bu iki cümleyi duyarsanız hemen kapatın: Hesabınız anında boşaltılıyor",
-      "ozet": "Telefonda bu iki cümleyi duyarsanız hemen kapatın: Hesabınız anında boşaltılıyor",
-      "url": "https://www.sozcu.com.tr/telefonda-bu-iki-cumleyi-duyarsaniz-hemen-kapatin-hesabiniz-aninda-bosaltiliyor-p350336",
-      "tarih": "2026-08-18T05:27:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "57dc8e77e76e",
-      "baslik": "Erdoğan bir hafta sonra onayladı; 'çerçeve yasa' Resmi Gazete’de yayımlandı",
-      "ozet": "Erdoğan bir hafta sonra onayladı; 'çerçeve yasa' Resmi Gazete’de yayımlandı",
-      "url": "https://www.sozcu.com.tr/cerceve-yasa-resmi-gazete-de-18-agustos-2026-p350292",
-      "tarih": "2026-08-18T03:32:50+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ab26bc53d576",
-      "baslik": "Ağır çekim yıkım",
-      "ozet": "Ağır çekim yıkım",
-      "url": "https://www.sozcu.com.tr/agir-cekim-yikim-p350283",
-      "tarih": "2026-08-18T02:30:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "62c174676024",
-      "baslik": "100 yıl önce diktikleri bitki kıyıları ele geçirdi: Şimdi tek tek söküyorlar",
-      "ozet": "100 yıl önce diktikleri bitki kıyıları ele geçirdi: Şimdi tek tek söküyorlar",
-      "url": "https://www.sozcu.com.tr/100-yil-once-diktikleri-bitki-kiyilari-ele-gecirdi-simdi-tek-tek-sokuyorlar-p350287",
-      "tarih": "2026-08-17T20:34:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
