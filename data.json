@@ -118526,5 +118526,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/marketlerin-pestisit-karnesi-aciklandi/"
+  },
+  {
+    "id": "tarayici-4e5f82eee511",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa Gürsu’da maden projesi tartışması: Orman Bölge Müdürlüğü’nden açıklama - Evrensel.net",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa Gürsu’da maden projesi tartışması: Orman Bölge Müdürlüğü’nden açıklama Evrensel.net",
+    "koordinatlar": {
+      "lat": 40.1096,
+      "lng": 29.0946
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "02.09.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVRRVUtXZ19uLXh4cUFUd05LNl82aXdBQW5fVFZueTB5Q3hFUEplTGxRaDh3cGpRSGllTDRvQklvdkxob2N5bVNGX1FsbkYwbENTOXFxblZJSkNlZVpzU21Gek9qX2RrQjhleHBvS1gwUWNtZnYwZ2FoR3VJLWdXSzg5TkhKeUN2ZVdnVFNMY2lWOGpscl9lanUtcnF3Z1p4Zml6UmNiRzNXd3VYbzVnM1p3?oc=5"
   }
 ]

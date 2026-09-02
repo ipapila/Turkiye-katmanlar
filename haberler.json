@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-01T18:05:12.378023+00:00",
+    "guncelleme": "2026-09-02T07:29:07.051755+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6525,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6526,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "7d4f4cf3ca87",
+      "baslik": "İklim İnkârcılığı Sözlüğü-10: Nepal’deki Felaketin Sebebi Ne?",
+      "ozet": "Felaketin acı sonuçları herkesi şoke ederken sosyal medya ağlarında faal olan iklim inkârcısı komplo teorisyenleri de boş durmadı. Yüzlerce insanı su ve balçığın altından çıkarmak için saatlerle yarışılırken inkârcı teoriler piyasaya sürüldü. Gerçek olan şu ki Nepal’deki felaket ",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-10-nepaldeki-felaketin-sebebi-ne/",
+      "tarih": "2026-09-02T07:23:28+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f44aff995022",
+      "baslik": "Erdoğan ve Putin görüşmesinde 'Türkiye planı' masaya yatırıldı",
+      "ozet": "Erdoğan ve Putin görüşmesinde 'Türkiye planı' masaya yatırıldı",
+      "url": "https://www.sozcu.com.tr/erdogan-ve-putin-gorusmesinde-turkiye-plani-masaya-yatirildi-p354697",
+      "tarih": "2026-09-02T06:58:38+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0eb5e776e5e4",
+      "baslik": "ABD-İran gerilimi küresel piyasaları vurdu: Petrol fırladı, borsalar çakıldı!",
+      "ozet": "ABD-İran gerilimi küresel piyasaları vurdu: Petrol fırladı, borsalar çakıldı!",
+      "url": "https://www.sozcu.com.tr/abd-iran-gerilimi-kuresel-piyasalari-vurdu-petrol-firladi-borsalar-cakildi-p354681",
+      "tarih": "2026-09-02T06:22:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e709282bddbf",
       "baslik": "Facia \"Geliyorum\" demiş! İşte Girne'de alabora olan geminin bir gün önceki görüntüleri",
@@ -1322,6 +1352,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "4e5f82eee511",
+      "baslik": "Bursa Gürsu’da maden projesi tartışması: Orman Bölge Müdürlüğü’nden açıklama - Evrensel.net",
+      "ozet": "Bursa Gürsu’da maden projesi tartışması: Orman Bölge Müdürlüğü’nden açıklama Evrensel.net",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVRRVUtXZ19uLXh4cUFUd05LNl82aXdBQW5fVFZueTB5Q3hFUEplTGxRaDh3cGpRSGllTDRvQklvdkxob2N5bVNGX1FsbkYwbENTOXFxblZJSkNlZVpzU21Gek9qX2RrQjhleHBvS1gwUWNtZnYwZ2FoR3VJLWdXSzg5TkhKeUN2ZVdnVFNMY2lWOGpscl9lanUtcnF3Z1p4Zml6UmNiRzNXd3VYbzVnM1p3?oc=5",
+      "tarih": "2026-08-22T12:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "223c5d89093b",
       "baslik": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
       "ozet": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
@@ -1967,46 +2007,6 @@
       "ozet": "El Nino etkilerinin iklim değişikliği birleştiğinde daha da şiddetlenmesinin beklendiği uyarısında bulunan Kurnaz, El Nino’nun kısa vadeli bir sıcaklık dalgası, iklim değişikliğinin ise bu dalganın üzerine bindiği yükselen bir taban çizgisi olduğunu anlattı. Columbia Üniversitesi",
       "url": "https://www.iklimhaber.org/el-nino-ile-beraber-yeni-sicaklik-rekorlari-kapida/",
       "tarih": "2026-08-18T08:36:14+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9a65c72edf3a",
-      "baslik": "662 metrelik çukurun dibinden gizli orman çıktı",
-      "ozet": "662 metrelik çukurun dibinden gizli orman çıktı",
-      "url": "https://www.sozcu.com.tr/662-metrelik-cukurun-dibinden-gizli-orman-cikti-p350435",
-      "tarih": "2026-08-18T08:32:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "887cde913b85",
-      "baslik": "Avrupa Yeni Orman Yangını Dalgasıyla Sarsılıyor",
-      "ozet": "Yeni bir orman yangını dalgasıyla mücadele eden Avrupa’da can kayıpları yaşanırken, binlerce hektarlık alan küle döndü. İspanya, Hırvatistan, Yunanistan ve Fransa’yı etkileyen yangınlarda en ağır hasarı Belçika aldı. Avrupa Orman Yangını Bilgi Sistemi verilerine göre Belçika’daki",
-      "url": "https://www.iklimhaber.org/avrupa-yeni-orman-yangini-dalgasiyla-sarsiliyor/",
-      "tarih": "2026-08-18T08:21:17+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6c31a9c7620b",
-      "baslik": "Icardi'nin yeni adresi belli oluyor! Geri dönmek istiyor",
-      "ozet": "Icardi'nin yeni adresi belli oluyor! Geri dönmek istiyor",
-      "url": "https://www.sozcu.com.tr/icardi-nin-yeni-adresi-belli-oluyor-geri-donmek-istiyor-p350413",
-      "tarih": "2026-08-18T07:29:59+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1aff122e5315",
-      "baslik": "Güneş Enerjisi Rüzgarı Geride Bırakıyor",
-      "ozet": "IEA’ye göre, güneş enerjisi üretimi 2026 yılında 610 teravatsaat artış göstererek rüzgar enerjisini geride bırakacak ve hidrosantralların ardından en çok elektrik üretilen ikinci yenilenebilir kaynak haline gelecek. Uluslararası Enerji Ajansı (IEA), Elektrik Piyasası Raporu veril",
-      "url": "https://www.iklimhaber.org/gunes-enerjisi-ruzgari-geride-birakiyor/",
-      "tarih": "2026-08-18T06:43:00+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -93360,6 +93360,20 @@
       "ozet": "Greenpeace Türkiye’nin yeni kampanyası kapsamında İstanbul’un dört ilçesindeki beş market zincirinden domates örnekleri alındı. Sonuçlara göre 20 üründen 3’ünde mevzuata aykırı pestisit kullanımı, 7’sinde ise 3’ten fazla pestisite rastlandı. Mevzuata aykırı pestisit kullanılan ür",
       "lat": 41.1056,
       "lng": 29.0489,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-4e5f82eee511",
+      "baslik": "Bursa Gürsu’da maden projesi tartışması: Orman Bölge Müdürlüğü’nden açıklama - Evrensel.net",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "02.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVRRVUtXZ19uLXh4cUFUd05LNl82aXdBQW5fVFZueTB5Q3hFUEplTGxRaDh3cGpRSGllTDRvQklvdkxob2N5bVNGX1FsbkYwbENTOXFxblZJSkNlZVpzU21Gek9qX2RrQjhleHBvS1gwUWNtZnYwZ2FoR3VJLWdXSzg5TkhKeUN2ZVdnVFNMY2lWOGpscl9lanUtcnF3Z1p4Zml6UmNiRzNXd3VYbzVnM1p3?oc=5",
+      "ozet": "Bursa Gürsu’da maden projesi tartışması: Orman Bölge Müdürlüğü’nden açıklama Evrensel.net",
+      "lat": 40.1096,
+      "lng": 29.0946,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
