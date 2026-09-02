@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-02T07:29:07.051755+00:00",
+    "guncelleme": "2026-09-02T13:07:43.558257+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6526,
+    "harita_kayit_sayisi": 6527,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "70e2ad1c99fe",
+      "baslik": "Marmara Denizi'ndeki gemi kazasında telsiz kayıtları ortaya çıktı....",
+      "ozet": "Marmara Denizi'ndeki gemi kazasında telsiz kayıtları ortaya çıktı....",
+      "url": "https://www.sozcu.com.tr/telsiz-kayitlari-ortaya-cikti-alsu-iskeleye-kir-p354810",
+      "tarih": "2026-09-02T12:55:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b45493e2949c",
+      "baslik": "Erdoğan rahatsız oldu... DEM Partililere uçaktan mesaj yolladı",
+      "ozet": "Erdoğan rahatsız oldu... DEM Partililere uçaktan mesaj yolladı",
+      "url": "https://www.sozcu.com.tr/erdogan-rahatsiz-oldu-dem-partililere-ucaktan-mesaj-yolladi-p354794",
+      "tarih": "2026-09-02T12:53:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9b11b202bc4f",
+      "baslik": "Altındaki sert düşüşün nedeni belli oldu: Uzmanlar yükseliş için tarih verdi!",
+      "ozet": "Altındaki sert düşüşün nedeni belli oldu: Uzmanlar yükseliş için tarih verdi!",
+      "url": "https://www.sozcu.com.tr/altindaki-sert-dususun-nedeni-belli-oldu-uzmanlar-yukselis-icin-tarih-verdi-p354806",
+      "tarih": "2026-09-02T12:47:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a1c8e4ffce06",
+      "baslik": "Denize 65 bin litre süt döktüler",
+      "ozet": "Denize 65 bin litre süt döktüler",
+      "url": "https://www.sozcu.com.tr/denize-65-bin-litre-sut-doktuler-p354786",
+      "tarih": "2026-09-02T11:53:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e814819f9750",
+      "baslik": "Piyasalarda kırmızıya büründü: Borsa ve altın çakıldı petrol tırmandı",
+      "ozet": "Piyasalarda kırmızıya büründü: Borsa ve altın çakıldı petrol tırmandı",
+      "url": "https://www.sozcu.com.tr/piyasalarda-kirmiziya-burundu-borsa-ve-altin-cakildi-petrol-tirmandi-p354773",
+      "tarih": "2026-09-02T11:14:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d92d33fd68b8",
+      "baslik": "Türkiye’nin Biyoçeşitliliği Kayıt Altında",
+      "ozet": "Doğa Derneği’nin koordinasyonunda 2023 yılında başlatılan ve 2029 yılında tamamlanması hedeflenen Önemli Doğa Alanları güncelleme çalışması, son 20 yılda Türkiye doğasında yaşanan değişimleri, kayıpları ve umut verici yeni keşifleri bilimsel verilerle kayıt altına alacak. Biyoçeş",
+      "url": "https://www.iklimhaber.org/turkiyenin-biyocesitliligi-kayit-altinda/",
+      "tarih": "2026-09-02T10:33:14+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "25c79cecf55d",
+      "baslik": "BM Uyarıyor: Sıcaklık Artışı En Az 1,8 Dereceye Ulaşacak",
+      "ozet": "Yeni bir BM raporu sıcaklık artışının en az 1,8 dereceye ulaşacağını ortaya koyuyor. Bilim insanları, gezegenin ancak derin ve hızlı emisyon azaltımları ile atmosferden karbonun uzaklaştırılması sayesinde 1,5 derecelik ısınma seviyesine dönebileceğini söylüyor. Birleşmiş Milletle",
+      "url": "https://www.iklimhaber.org/bm-uyariyor-sicaklik-artisi-en-az-18-dereceye-ulasacak/",
+      "tarih": "2026-09-02T09:47:11+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "199419ae99ef",
+      "baslik": "BM: “Himalayalar Şiddetli Buzul Seli Riskleriyle Karşı Karşıya”",
+      "ozet": "Araştırmacılar 2020 yılında Nepal, Çin ve Hindistan’da potansiyel olarak tehlikeli 47 buzul gölü belirledi. O zamandan bu yana sayının önemli ölçüde yükseldiği tahmin ediliyor. Nepal’de geçen hafta bir buzulun çökmesi sonucu meydana gelen selde ölü sayısı 1.000’i geçerken, üst dü",
+      "url": "https://www.iklimhaber.org/bm-himalayalar-siddetli-buzul-seli-riskleriyle-karsi-karsiya/",
+      "tarih": "2026-09-02T07:58:28+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "7d4f4cf3ca87",
       "baslik": "İklim İnkârcılığı Sözlüğü-10: Nepal’deki Felaketin Sebebi Ne?",
@@ -1712,6 +1792,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "3cf7ae9a0c48",
+      "baslik": "Son Dakika | Balıkesir'deki orman yangını 2 günde kontrol altına alındı - Halk TV",
+      "ozet": "Son Dakika | Balıkesir'deki orman yangını 2 günde kontrol altına alındı Halk TV",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGVHZWs3ZTBSMXMtMS02anU2T2ZrYk9taXlYWWlsQ3JFb2ZZWDBSZzFHYVFOY3gtYk1LY0tlcUFPQ1k1WGxoNklnVlNhcFNETEdGeUdSNXBJMWlueVluaDk0cndJNkVpRFM1TlJza2tOMHh2TTVDWERXTTZydDFsQVVJbk44d3NwWXFOVTBJU3NGZTJRbXpqdG0xNkV6VlB3M1B4enNnR1BqaXM?oc=5",
+      "tarih": "2026-08-20T07:48:56+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "5ad1b7b2dce7",
       "baslik": "81 İlin İklim Karnesi Çıkarılacak",
       "ozet": "Türkiye’nin 2053 net sıfır emisyon hedefi doğrultusunda belediyeler tarafından farklı yöntemlerle hazırlanan yerel iklim planları, yeni düzenlemeyle tüm illeri kapsayan ortak sistemle ele alınacak. Her il, kendi iklim risklerini ve seragazı emisyonlarını tespit ederek azaltım hed",
@@ -1919,96 +2009,6 @@
       "tarih": "2026-08-19T02:30:10+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a4ba475842f4",
-      "baslik": "Denize indirmek için 278 taşıyıcı kullandılar: Donanmanın yeni devi suyla buluştu",
-      "ozet": "Denize indirmek için 278 taşıyıcı kullandılar: Donanmanın yeni devi suyla buluştu",
-      "url": "https://www.sozcu.com.tr/denize-indirmek-icin-278-tasiyici-kullandilar-donanmanin-yeni-devi-suyla-bulustu-p350630",
-      "tarih": "2026-08-18T22:00:49+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "94f934644437",
-      "baslik": "Avrupa'da yılın transferi resmen açıklandı! Rodri'nin yeni adresi Barcelona oldu",
-      "ozet": "Avrupa'da yılın transferi resmen açıklandı! Rodri'nin yeni adresi Barcelona oldu",
-      "url": "https://www.sozcu.com.tr/avrupa-da-yilin-transferi-resmen-aciklandi-rodri-nin-yeni-adresi-barcelona-oldu-p350582",
-      "tarih": "2026-08-18T17:09:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a77b08056ebc",
-      "baslik": "ABD'nin en yetkili kurumu resmen açıkladı: Sonbahar sonu ve kış başında hiç görülmemiş olaylara kendinizi hazırlayın",
-      "ozet": "ABD'nin en yetkili kurumu resmen açıkladı: Sonbahar sonu ve kış başında hiç görülmemiş olaylara kendinizi hazırlayın",
-      "url": "https://www.sozcu.com.tr/2027-rekor-sicaklara-sahne-olacak-super-el-nino-kapida-p350567",
-      "tarih": "2026-08-18T15:54:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f218722ea2d6",
-      "baslik": "Galatasaray giden yıldızını geri alıyor: Resmi görüşmeler başladı",
-      "ozet": "Galatasaray giden yıldızını geri alıyor: Resmi görüşmeler başladı",
-      "url": "https://www.sozcu.com.tr/galatasaray-giden-yildizini-geri-aliyor-resmi-gorusmeler-basladi-p350564",
-      "tarih": "2026-08-18T15:41:57+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e747b32f0d15",
-      "baslik": "Deniz Seki’den hastane odasından yeni mesaj: Tedavisinde yeni aşamaya geçti",
-      "ozet": "Deniz Seki’den hastane odasından yeni mesaj: Tedavisinde yeni aşamaya geçti",
-      "url": "https://www.sozcu.com.tr/deniz-seki-den-hastane-odasindan-yeni-mesaj-tedavisinde-yeni-asamaya-gecti-p350532",
-      "tarih": "2026-08-18T13:28:52+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "698d9fbb4341",
-      "baslik": "Karadeniz'e yeni ulaşım sistemi geliyor: Tarih verildi",
-      "ozet": "Karadeniz'e yeni ulaşım sistemi geliyor: Tarih verildi",
-      "url": "https://www.sozcu.com.tr/karadeniz-e-yeni-ulasim-sistemi-geliyor-tarih-verildi-p350511",
-      "tarih": "2026-08-18T12:26:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b9e1f7198070",
-      "baslik": "Karadeniz ve Marmara'dan fışkırıyor: Bu yıl üç balık hem bol hem ucuz olacak",
-      "ozet": "Karadeniz ve Marmara'dan fışkırıyor: Bu yıl üç balık hem bol hem ucuz olacak",
-      "url": "https://www.sozcu.com.tr/karadeniz-ve-marmara-dan-fiskiriyor-bu-yil-uc-balik-hem-bol-hem-ucuz-olacak-p350498",
-      "tarih": "2026-08-18T12:19:23+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bf31b89f0b83",
-      "baslik": "TMMOB Maden Mühendisleri Odası'ndan, Yıldızlar SSS Holding çağrısı: 'Ruhsatlarını iptal edin' - Cumhuriyet",
-      "ozet": "TMMOB Maden Mühendisleri Odası'ndan, Yıldızlar SSS Holding çağrısı: 'Ruhsatlarını iptal edin' Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMTFQTVZ6Q3ZJa2wwTk9naXhzbzJ6d0g2bzJEV3BFYUlBZDFaWVAyWm85QlAzWWNlQUZBQnZHVXZxWXFCY2doTFh1aG9nOTYxcVB5WWxkVGhidjdpUGtvd19sdkNZOGhvVjExTnQwOUJOUUVDckVWLWJwc2lsUm5QVFN4WEF5ZXV5bVF6YTR5LTJKUmtKVXV6cHVoLWFVMnJpWlJNT1k4SU9OZEtNZ3I0QVZBSHdRcDN4ZHN0S3FIV3JvQy0tNFdBd0xhYnM4YnMt?oc=5",
-      "tarih": "2026-08-18T09:55:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "86a34e2ffa29",
-      "baslik": "El Nino ile Beraber Yeni Sıcaklık Rekorları Kapıda",
-      "ozet": "El Nino etkilerinin iklim değişikliği birleştiğinde daha da şiddetlenmesinin beklendiği uyarısında bulunan Kurnaz, El Nino’nun kısa vadeli bir sıcaklık dalgası, iklim değişikliğinin ise bu dalganın üzerine bindiği yükselen bir taban çizgisi olduğunu anlattı. Columbia Üniversitesi",
-      "url": "https://www.iklimhaber.org/el-nino-ile-beraber-yeni-sicaklik-rekorlari-kapida/",
-      "tarih": "2026-08-18T08:36:14+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -93374,6 +93374,20 @@
       "ozet": "Bursa Gürsu’da maden projesi tartışması: Orman Bölge Müdürlüğü’nden açıklama Evrensel.net",
       "lat": 40.1096,
       "lng": 29.0946,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-3cf7ae9a0c48",
+      "baslik": "Son Dakika | Balıkesir'deki orman yangını 2 günde kontrol altına alındı - Halk TV",
+      "konum": "Balıkesir",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "02.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGVHZWs3ZTBSMXMtMS02anU2T2ZrYk9taXlYWWlsQ3JFb2ZZWDBSZzFHYVFOY3gtYk1LY0tlcUFPQ1k1WGxoNklnVlNhcFNETEdGeUdSNXBJMWlueVluaDk0cndJNkVpRFM1TlJza2tOMHh2TTVDWERXTTZydDFsQVVJbk44d3NwWXFOVTBJU3NGZTJRbXpqdG0xNkV6VlB3M1B4enNnR1BqaXM?oc=5",
+      "ozet": "Son Dakika | Balıkesir'deki orman yangını 2 günde kontrol altına alındı Halk TV",
+      "lat": 39.5387,
+      "lng": 27.8405,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
