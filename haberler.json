@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-02T18:17:49.704791+00:00",
+    "guncelleme": "2026-09-03T07:34:23.631679+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6529,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6536,
+    "haritaya_eklenen_yeni_kayit": 7,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "a5a8143b56de",
+      "baslik": "1 milyon hektarlık alana ağaç dikip imkansızı başardılar: Kurtulmak istedikleri ne kum ne de denizdi",
+      "ozet": "1 milyon hektarlık alana ağaç dikip imkansızı başardılar: Kurtulmak istedikleri ne kum ne de denizdi",
+      "url": "https://www.sozcu.com.tr/1-milyon-hektarlik-alana-agac-dikip-imkansizi-basardilar-asil-kurtulmak-istedikleri-ne-kum-ne-de-p354984",
+      "tarih": "2026-09-03T06:32:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "60143e6fa56d",
+      "baslik": "Kuraklık Yağmur Ülkesi Birleşik Krallık‘ı Tehdit Ediyor",
+      "ozet": "2026 yazında Birleşik Krallık, yağışlı geçen kış aylarına rağmen, tarihinin en şiddetli kuraklıklarından birini yaşadı. Newcastle Üniversitesi’nden Hidrolog Dr. Anna Murgatroyd, son beş yılda üçüncü kez yaşanan bu kuraklığın, uzun süreli sıcak hava dalgalarıyla çakışması nedeniyl",
+      "url": "https://www.iklimhaber.org/kuraklik-yagmur-ulkesi-birlesik-kralliki-tehdit-ediyor/",
+      "tarih": "2026-09-03T06:30:21+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b2d3e576e873",
       "baslik": "Kuduz virüsü karadan denize sıçradı: O tür arasında hızla yayılıyor",
@@ -177,6 +197,16 @@
       "ozet": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci Haber 26",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0I3MURaMXBvQjEybTkxVWN1dzEtQVZxQWczZjlDc3FaUktBYzdGUkxWWTRNQWNQRUNUZ1RFTHV2VW9LRU11RUFxdlNSaDRJRVZVSGdZYkR1T204RmxsYVNGTnphRlVzaFZ1S0lhXzk1R3VWWFJWdGxobzRSZGxwaldjcTh1d2lQTUxpNVRGMnZNZ0NtbUlVaFpncnpsdw?oc=5",
       "tarih": "2026-09-02T06:52:33+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "758f9bcbf59a",
+      "baslik": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci - Son Dakika",
+      "ozet": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci Son Dakika",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR18tY2xTdDI5TjFKSDJzdEVmNGRVWlFWVWZBaFg0SF9WQy1CRVZBMzdUZ0pKb2p0WVF1RW55Mm1VcDRQWm1FeGJRWmwyM3NoQUJwY1JmaUtjMy1NTVB1SmNUbGdnbzdfQ2lWSXhRWmc5WmowMkpOdlJRM3BRVzV5aGJSS2t6OTVySTNBRzhCdWY3S2t0aGxYc2JJY9IBlgFBVV95cUxOc1VIS3hteHJiZUc2XzVqSXpmYnh1SGprVkRCazVFZUhnS0ZDWUI2QUdtMmV3RGhiNEhmVHZFQV83NkJJeURLdXBlSDh3OXp1WlhJZW82RDc2Vy1rQlU4djhCZ0ZCNmFTMVdCMkUwUjUxV2U5aFZmckFNdHJvMHhxdTlqUkZlenNzN3dkUmY5Z3NLZndCOXc?oc=5",
+      "tarih": "2026-09-02T06:49:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
@@ -439,6 +469,16 @@
       "tarih": "2026-08-31T07:15:54+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2199c04d3244",
+      "baslik": "Eskişehir'deki nadir toprak elementlerinin ekonomiye kazandırılması için acele kamulaştırma kararı - Anadolu Ajansı",
+      "ozet": "Eskişehir'deki nadir toprak elementlerinin ekonomiye kazandırılması için acele kamulaştırma kararı Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONDRfSUhOcHI3SUxhS1JsNmNHYzBtTmFfWjhWSUhzV2ZjWEQyUV9uQUcwbFRuZEFsNkRuUVRwcjNsbGtVekl6a3JoYnNUVkQwVXlPbVU0aWt3TjZQc2NHYi02N2hfZ0c0WnV4dzlQM2xZdm5xd0dJRUpoQzB6bDU1eTZWbjFmTnM3UmJnUkwxb0NrNXZWQS1PSkNkNUZteXN3Z0pEOXJCWTVMVENleTJzZlZsanJqSEl2WUZoWmF5eVNYWWFVanl0X19VZm9zUEFXXy15SFNzeXBQdXVhbFdOb2E2X3nSAewBQVVfeXFMTXZNVFhSek9MQ1NzTlhXUWF5R3l0eUxVNldqTlhsRTFXNU90SkhaRzVSSTc0TC03b1dkUUJiRVkzSDlGSGNVSkZCWGRCVUZaZUNUcm9IdWswTHFDZ2lFUEk2WmZ1Nkh6R1dQT3hMNm9UYkFUZEdsc3RseV9nRlozWHJRa1BCQ0tYUl8xRW1OQXg0cENzSmJfc0RvQW5ybENEek9rRzZfei1td01TZ1NXOENoaEZ5aTdCb1AyUWdDUTFMVWRSZzRtRWJkZTRySTdiMlNsM1dHWndMUnRycXBlYzY3VW1mU2ExelhiZUM?oc=5",
+      "tarih": "2026-08-31T06:44:12+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1967,46 +2007,6 @@
       "ozet": "Altın madeninden geriye çorak arazi kalmıştı: Dronlarla binlercesini bıraktılar",
       "url": "https://www.sozcu.com.tr/altin-madeninden-geriye-corak-arazi-kalmisti-dronlarla-binlercesini-biraktilar-p350947",
       "tarih": "2026-08-19T22:01:23+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "51cbd3470917",
-      "baslik": "Tarımı ayakta tutan dev göl haritadan silindi",
-      "ozet": "Tarımı ayakta tutan dev göl haritadan silindi",
-      "url": "https://www.sozcu.com.tr/tarimi-ayakta-tutan-dev-gol-haritadan-silindi-p350897",
-      "tarih": "2026-08-19T17:09:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f552c5698270",
-      "baslik": "Günde 7 saat mesai yapıyorlar: Orman yangınlarına karşı 18 eşeği görevlendirdiler",
-      "ozet": "Günde 7 saat mesai yapıyorlar: Orman yangınlarına karşı 18 eşeği görevlendirdiler",
-      "url": "https://www.sozcu.com.tr/gunde-7-saat-mesai-yapiyorlar-orman-yanginlarina-karsi-18-esegi-gorevlendirdiler-p350863",
-      "tarih": "2026-08-19T14:09:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e7c74c41f4f0",
-      "baslik": "Vakko'nun veliahtı sevgilisiyle Bodrum'da: Önce denize girdi, sonra fotoğrafını çekti",
-      "ozet": "Vakko'nun veliahtı sevgilisiyle Bodrum'da: Önce denize girdi, sonra fotoğrafını çekti",
-      "url": "https://www.sozcu.com.tr/vakko-nun-veliahti-sevgilisiyle-bodrum-da-once-denize-girdi-sonra-fotografini-cekti-p350849",
-      "tarih": "2026-08-19T13:26:29+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0303da0295eb",
-      "baslik": "Türk maden devine müjdeli haber: Veliaht geliyor",
-      "ozet": "Türk maden devine müjdeli haber: Veliaht geliyor",
-      "url": "https://www.sozcu.com.tr/turk-maden-devine-mujdeli-haber-veliaht-geliyor-p350763",
-      "tarih": "2026-08-19T08:48:58+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93416,6 +93416,104 @@
       "ozet": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci Haber 26",
       "lat": 39.7112,
       "lng": 30.4206,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0473a0929e04",
+      "baslik": "Manisa’da çevre denetimlerinde 49 milyon liralık ceza İhlas Haber Ajansı - İhlas Haber Ajansı",
+      "konum": "Manisa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUl3Vkk3N2ZkRzVPbERfLWtIU1NkOGRIcGxGM3RiYVM5RFhYMHpVckRWWklLMWNOQklMVHQ4XzRtRXJKanVtTU5nZ0EyQ1BadU1Vek9sMVQyRm54ZnF4ekJ0T21KTEU1b0tnTnlIdExSWW5sMnhMNTIwbzhWT00xaFBxRlRIN1k4UzRGSkF3WjNzQVhSSUE2RDcxY3BiUnZuX0Nqbg?oc=5",
+      "ozet": "Manisa’da çevre denetimlerinde 49 milyon liralık ceza İhlas Haber Ajansı İhlas Haber Ajansı",
+      "lat": 38.5042,
+      "lng": 27.4637,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-8f7057a0d01e",
+      "baslik": "Mardin'de çevreyi kirleten iki sanayi tesisine 2,6 milyon lira ceza - TRT Haber",
+      "konum": "Mardin",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVYwdERHUkRGR2NhOVFHMWQ1eVBVR1lid283ZnQtQ2JqLThMVHpCa3N1bzAyX3NrMUpaVEtiRktlMGd4MlhwMGpjNGFyUmpZVG1zY3o3aTROT21PRUI5LV9ITGxvaUM0ajZuZTZIN2phbmdwYnBub3NrWk9ac1NjdjV3NWRKZmVPVWpCcUlBdzlIU1l2d3BNZHVyRk5ZQzh0b2piTmgtVzBjWWNKREUtaEZQNk9YY28?oc=5",
+      "ozet": "Mardin'de çevreyi kirleten iki sanayi tesisine 2,6 milyon lira ceza TRT Haber",
+      "lat": 37.216,
+      "lng": 40.658,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-540eee5d800a",
+      "baslik": "EMNİYET BÜNYESİNDE ÇEVRE POLİSİ ARTIK ZORUNLULUK HALİNE GELMİŞTİR - Antalya Son Haber",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWZnQWdkQjd5MEdBQWhlZFpvZWYwUC1WTzNpLUMzT1J2QlR2QmlrQ09YOVdya295bmNzeFpsM3ZfbU9Ga0ZYaUQ4T0VMSTd5M0lTaW5JbjVwbjZRYmlwZVo0ejhmazhIOWd4enRzUksxTFRVblFrc2VPaGlpYThDaFprX1VHZl9NaTZzZGFEWkVMWFdJSG1rLW9raFBmeHZUUEZxY2kwZWxJQW9k?oc=5",
+      "ozet": "EMNİYET BÜNYESİNDE ÇEVRE POLİSİ ARTIK ZORUNLULUK HALİNE GELMİŞTİR Antalya Son Haber",
+      "lat": 36.821,
+      "lng": 30.6737,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-2199c04d3244",
+      "baslik": "Eskişehir'deki nadir toprak elementlerinin ekonomiye kazandırılması için acele kamulaştırma kararı - Anadolu Ajansı",
+      "konum": "Eskişehir",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONDRfSUhOcHI3SUxhS1JsNmNHYzBtTmFfWjhWSUhzV2ZjWEQyUV9uQUcwbFRuZEFsNkRuUVRwcjNsbGtVekl6a3JoYnNUVkQwVXlPbVU0aWt3TjZQc2NHYi02N2hfZ0c0WnV4dzlQM2xZdm5xd0dJRUpoQzB6bDU1eTZWbjFmTnM3UmJnUkwxb0NrNXZWQS1PSkNkNUZteXN3Z0pEOXJCWTVMVENleTJzZlZsanJqSEl2WUZoWmF5eVNYWWFVanl0X19VZm9zUEFXXy15SFNzeXBQdXVhbFdOb2E2X3nSAewBQVVfeXFMTXZNVFhSek9MQ1NzTlhXUWF5R3l0eUxVNldqTlhsRTFXNU90SkhaRzVSSTc0TC03b1dkUUJiRVkzSDlGSGNVSkZCWGRCVUZaZUNUcm9IdWswTHFDZ2lFUEk2WmZ1Nkh6R1dQT3hMNm9UYkFUZEdsc3RseV9nRlozWHJRa1BCQ0tYUl8xRW1OQXg0cENzSmJfc0RvQW5ybENEek9rRzZfei1td01TZ1NXOENoaEZ5aTdCb1AyUWdDUTFMVWRSZzRtRWJkZTRySTdiMlNsM1dHWndMUnRycXBlYzY3VW1mU2ExelhiZUM?oc=5",
+      "ozet": "Eskişehir'deki nadir toprak elementlerinin ekonomiye kazandırılması için acele kamulaştırma kararı Anadolu Ajansı",
+      "lat": 39.7327,
+      "lng": 30.4966,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-758f9bcbf59a",
+      "baslik": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci - Son Dakika",
+      "konum": "Eskişehir",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR18tY2xTdDI5TjFKSDJzdEVmNGRVWlFWVWZBaFg0SF9WQy1CRVZBMzdUZ0pKb2p0WVF1RW55Mm1VcDRQWm1FeGJRWmwyM3NoQUJwY1JmaUtjMy1NTVB1SmNUbGdnbzdfQ2lWSXhRWmc5WmowMkpOdlJRM3BRVzV5aGJSS2t6OTVySTNBRzhCdWY3S2t0aGxYc2JJY9IBlgFBVV95cUxOc1VIS3hteHJiZUc2XzVqSXpmYnh1SGprVkRCazVFZUhnS0ZDWUI2QUdtMmV3RGhiNEhmVHZFQV83NkJJeURLdXBlSDh3OXp1WlhJZW82RDc2Vy1rQlU4djhCZ0ZCNmFTMVdCMkUwUjUxV2U5aFZmckFNdHJvMHhxdTlqUkZlenNzN3dkUmY5Z3NLZndCOXc?oc=5",
+      "ozet": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci Son Dakika",
+      "lat": 39.7524,
+      "lng": 30.5553,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c02b44430087",
+      "baslik": "Adıyaman'da halk doğa katliamına karşı tek ses oldu: 3 kez reddedilen maden firmasının ısrarı sürüyor - Halk TV",
+      "konum": "Adıyaman",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObnFPa29QV196LXVJeFFPQi13ZEdfbFlZNEF0ZlhDVFlJZTdlMWZfMktaNDNNZkRwcFdYbFZ5RDZTLUU2OUtVa0x5YjVxcmd2VzVBamtQMjEyUW9fMEJ5YkQ2UUFNNUVBRDEzMkhCZHJ5bV9RSHRGT1YwWklIWFBxSmMyZ1BKMmROd3lHUFpsM294ZVZvem5BeVR5QlZrU3R6RWdJRHdqaElLQ2wzbXNFYUM4QWZXOFYwRExMSDlpVWJMamR5NWZLUmZyVWpjSE52SHRZ?oc=5",
+      "ozet": "Adıyaman'da halk doğa katliamına karşı tek ses oldu: 3 kez reddedilen maden firmasının ısrarı sürüyor Halk TV",
+      "lat": 37.7421,
+      "lng": 38.2171,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-cc515ccb4ae3",
+      "baslik": "Artvin’de orman talanına onay: Maden projesine ÇED olumlu raporu verildi - Yurtsever",
+      "konum": "Artvin",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVJuc3M5Y2Nsc2dzT2NBS1pwUTg3ZlVUTlZKNzRIRi02MXRydnNaMUlOZjhJeVptaDgxb1lwX1psVDItNkhJbU43RzZJamRPWWpoSzU3M0hFYWM1blVGdEh6RGxsLV9VTEM5aFprZVg5UTlXM3hTOS1mSmpQNF96eDVZVEZqYlBlS191eUQ0NmU0ZzZ4aFBpUDhoZTE3S1dvWHctajEzY3lILXp40gGyAUFVX3lxTE9oeldtWE4zOV9POWVaVEQ0QTR6dE10Q0hOODEzZ3l3dk5KMFc4TXdWcFhYdnZiY3NpRGZNY25mRW55ekd4WjFDTk9nVTFSR0RvekRMcS1xcjE3RjhPclowalIyYkZVZXduX2RTdFE2LXlRUWU4TFl6TG96bDdud3ZmSVJnR1BzZTZBb0pQVk83RS0yMG56aXhuVWZGZGRGVlFyZTRuODk1RmQ2Z1IzaDdXY2c?oc=5",
+      "ozet": "Artvin’de orman talanına onay: Maden projesine ÇED olumlu raporu verildi Yurtsever",
+      "lat": 41.1657,
+      "lng": 41.929,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
