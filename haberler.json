@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-03T13:09:16.449914+00:00",
+    "guncelleme": "2026-09-03T18:16:09.037638+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6536,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6542,
+    "haritaya_eklenen_yeni_kayit": 6,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "81161fc27256",
+      "baslik": "Karadeniz’de tansiyon yükseldi: Rusya 2 gemiyi vurdu",
+      "ozet": "Karadeniz’de tansiyon yükseldi: Rusya 2 gemiyi vurdu",
+      "url": "https://www.sozcu.com.tr/karadeniz-de-tansiyon-yukseldi-rusya-2-gemiyi-vurdu-p355162",
+      "tarih": "2026-09-03T16:41:35+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7c45ab5c9d60",
+      "baslik": "İki ülkeyi denizin altından birbirine bağlayacaklar",
+      "ozet": "İki ülkeyi denizin altından birbirine bağlayacaklar",
+      "url": "https://www.sozcu.com.tr/iki-ulkeyi-denizin-altindan-birbirine-baglayacaklar-p355155",
+      "tarih": "2026-09-03T16:07:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "63d246df7248",
       "baslik": "Döviz, altın ve borsa... Piyasanın gözü kulağı bu haberde",
@@ -1342,6 +1362,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "2a139b059a41",
+      "baslik": "Fahri trafik müfettişlerinin tutanaklarında ilk sırayı cep telefonu ihlali aldı - Anadolu Ajansı",
+      "ozet": "Fahri trafik müfettişlerinin tutanaklarında ilk sırayı cep telefonu ihlali aldı Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOU16OW11cmctbmhHZWRjSFpSbjIzSi15Vl9tU1BtUUxydVl6RzFYQVdBZTVKb3c3VDduQ0NqUmVuMklMY0FzSnlEeVdQR0pBYXFIQy03eVYwMGt0TjdjTklTQzFJNGY5U1ljMDVVUGpEeFFwSEtMYVBtRDk3dGpwcGlEUE55YXBIaW1vX1lNNGVEU3NmcnZDWXR2cEx0Ymt5ampoYWY4RnZQaHo4WkdjUDRxZDRwU09tbFZN?oc=5",
+      "tarih": "2026-08-24T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "be834c8de45c",
       "baslik": "IEA Başkanı Birol’dan Enerji Krizi Uyarısı: “Vazo Kırıldı”",
       "ozet": "Enerji sektöründeki son gelişmeleri değerlendiren IEA Başkanı Fatih Birol, dünyanın karşılaştığı en büyük enerji krizinin yaşandığını belirterek, Hürmüz Boğazı için “Vazo kırıldı” ifadelerini kullandı. Kırılan bir vazonun yapıştırılarak eski haline getirilemeyeceğini vurgulayan B",
@@ -1977,36 +2007,6 @@
       "ozet": "Komşunun nükleer harp başlık sayısını açıklarken sesi titredi",
       "url": "https://www.sozcu.com.tr/komsunun-nukleer-harp-baslik-sayisini-aciklarken-sesi-titredi-p351009",
       "tarih": "2026-08-20T06:21:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "16803ed8f79c",
-      "baslik": "Tuşladıktan sonra geri dönüşü olmuyor: Banka hesabınızda 1 kuruş bile kalmıyor",
-      "ozet": "Tuşladıktan sonra geri dönüşü olmuyor: Banka hesabınızda 1 kuruş bile kalmıyor",
-      "url": "https://www.sozcu.com.tr/banka-hesabi-olanlar-icin-yeni-karar-sifreyi-veren-hem-suclu-sayiliyor-hem-dolandiriliyor-p350984",
-      "tarih": "2026-08-20T05:43:29+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5951719836b3",
-      "baslik": "Balıkesir'deki yangın Kütahya'ya ilerliyor! Kamyondan çıkan yangın saatlerdir devam ediyor",
-      "ozet": "Balıkesir'deki yangın Kütahya'ya ilerliyor! Kamyondan çıkan yangın saatlerdir devam ediyor",
-      "url": "https://www.sozcu.com.tr/sindirgidaki-orman-yangini-kutahya-sinirina-yaklasti-p350985",
-      "tarih": "2026-08-20T05:42:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "50771dea3815",
-      "baslik": "2 çocuğu olanın borcu tamamen silinecek: 2 şart var",
-      "ozet": "2 çocuğu olanın borcu tamamen silinecek: 2 şart var",
-      "url": "https://www.sozcu.com.tr/2-cocugu-olanin-borcu-tamamen-silinecek-2-sart-var-p350973",
-      "tarih": "2026-08-20T05:11:17+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93514,6 +93514,90 @@
       "ozet": "Artvin’de orman talanına onay: Maden projesine ÇED olumlu raporu verildi Yurtsever",
       "lat": 41.1657,
       "lng": 41.929,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c621e5b8fed9",
+      "baslik": "Manisa’da çevre kirliliğine milyonluk ceza - Yeni Asır",
+      "konum": "Manisa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamYtZU1OOTFQNENUYmtZWmVkR3RTeGUwNDlNZGFjdF8zb19tRlAyaGpXc3E1NkFVQlJtakhvVHcyc0dNN2F0Z0EtUW40ZzBqaG14VFVyT1BRS2ZlZnNCeUROcjVFcWk1b2p0M3AtMU0yZjVVZFpqRHVBTy1hSm0zbHpHbVB1QWpCV0ZTbk1OUzR4a1hWa1E?oc=5",
+      "ozet": "Manisa’da çevre kirliliğine milyonluk ceza Yeni Asır",
+      "lat": 38.4969,
+      "lng": 27.3176,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-7d8b06a8c6da",
+      "baslik": "İstanbul Barosu Başkanı İbrahim Kaboğlu: Savaş halinde dahi dokunulamayacak temel hak alanları sistematik biçimde ihlal edilmektedir - Anka Haber",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNMFNGOElIeVlXM2RuelZocjlzME9PUmxkTS1XVmVsTzkyUkQtcFFka1psZ3dBWlh0SFgwMTZsYWxzcFpnQjNqbUhhd0pCbVkxdUNsTzF1WExkMnNCMmRZMVNDaloxSWMtRXNXbU9BN1pLdUJQQl9mb0xFRjNMOGJNZ19VV2hlODlwbjQxRnluVl9vRkRLazE4bXQ5RlZ1SzFEVGU5dFBOQk9RLWM3ZnI1OHRFcnI3ZGlEZXl0blVXWDdLMUw4VHdhM1l6VzhmdXNGVlVXMFRfQ0d2a1JFejc5ZWdjNW11MURjdmFVU2JFV3lGSUFuMHFxTkJrWHRsd19adWU3LTlITkpPYnNTU2VqdS1hU0FUVVNobkhyXzNLWFZVMHlT?oc=5",
+      "ozet": "İstanbul Barosu Başkanı İbrahim Kaboğlu: Savaş halinde dahi dokunulamayacak temel hak alanları sistematik biçimde ihlal edilmektedir Anka Haber",
+      "lat": 40.9599,
+      "lng": 28.9341,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-5c17a5044761",
+      "baslik": "Bolu'da maden ocağında göçük. Bir işçi mahsur - NTV Haber",
+      "konum": "Bolu",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWJuWXZnOUxnaExzNG1LMjdZeU9Zc3VLT0N6M3JINTRVMDcxdFJlR0kzZ2JmRXNydDNZYUxfNVJGVzJBTXY0SkIzWUs2MEMtZ0xrM0k0SnhWU2s0UkdNcTR5UWU0dzFBU1pKdGpOb1lOWWFGcHhQMFpQYWxhU1Q2aGFmaXEyUFV0VlHSAY8BQVVfeXFMT1liM0NSSHdwcFR0cnZqR1ZSd3dVZHI2ZzR0aVhyMDMwVHE2cjBqVUxLc09sYUZseVdNeXQ4OVBfU05sM0FyRlprQnpVQVA4TG1qLVBhWklCcXRSa3pxRmdHT0U1NkRxTnBLQUc1NHh1VmZkRzNlZTBxaUVheFR4VVFzd2pfSGtJcVVtak5WbUk?oc=5",
+      "ozet": "Bolu'da maden ocağında göçük. Bir işçi mahsur NTV Haber",
+      "lat": 40.6904,
+      "lng": 31.5242,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-57af44b666ae",
+      "baslik": "Bursa’da 2 yeni maden ocağı ve 1 kapasite artışına onay - Halk TV",
+      "konum": "Bursa",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcVJEaGs3elNQNTJoMk5wLXEtYjJ6RVJWalFLWGdlLXJXTkZ1eUFIbWJCVUVoS3pIdTM3cXN4WGl6dGZYcG1TNG5PUUM1WjhWcDBEeEJ1QTdSa2lqRGhKNFhmU0gxRlNvc3J0MmV1VkVUMk9qTDlHWWZRVUtoMmJYUjRNYVQ5VHBlQ0kzTmRPaHRrd0dHVXhn?oc=5",
+      "ozet": "Bursa’da 2 yeni maden ocağı ve 1 kapasite artışına onay Halk TV",
+      "lat": 40.3,
+      "lng": 29.16,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-83797a27ee74",
+      "baslik": "Bursa'daki orman yangınında son durum: Harmancık'ta alevler yeniden canlandı - NTV Haber",
+      "konum": "Bursa",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0VoUkxNT0dkY0pNQklLVHNKeVEya2IzV1J4QkhQR0FqMlFzcnRfWlljdnlBQUN5TnFKQ2VyOEctUk42TnpUWGVMRUhfaUUwa2Y2QmgzMkhvSV9oRm80VS1YaTk4ckdMenQyX05xT0NoVHNtaXJfdUttNS02S1ZpWG1fRGVqMTBVVFU1VElta0RIMVFQbGJwTk81RmptdTZId19fa1NB0gGrAUFVX3lxTFBJazczNUFsTnMybWFadG5HWm5jeGsxczBva0M4TElzb1NJdVhpb2piMlFPelp4eFRFT0Z4ckVrNzZlMF80eG5GOUdoZHkxQUNaVWh0TnotZXM4VEpTeUh5Wk1nVTJyeHRwZ09BZHN2ZUwxR1lISm9wMWJ6d2JBMjdPRTJMSmh0ZGN4dEoydnlWajhFOVozbjN3Ymw5aE1jYndOX2RfYjlMM25faw?oc=5",
+      "ozet": "Bursa'daki orman yangınında son durum: Harmancık'ta alevler yeniden canlandı NTV Haber",
+      "lat": 40.0719,
+      "lng": 28.979,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0ed932822efc",
+      "baslik": "Resmi Gazete'de yayımlandı: Antalya'da acele kamulaştırma kararı! - Antalya Ekspres",
+      "konum": "Antalya",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUY0aUd6WVRnWURkMnBBdDI4eUg2eFEzcldDSnk2eHdVdjd4dU9ZVTN6WXp0Xzl1N1BFSWNRaXQ3UnVWa1JuTWR5Sl9iamNYUjMzcnY4b2ZOQU9zNVJveFgxd2Zic1FpRXQySzhQN2c5Q1JDbHYxb1RlaW5Dd0g5VmdRcDRCM2ZXVnFWTlZsRXhqYUZ3bFZLWG0tRdIBoAFBVV95cUxQUXFRbnlnNFZpMDhtdUxmV0VwMzZDbGFTelRlZVd6MXV6RTJqdnJjWEdVVlNVQ3o4UUpjaF9KN3hTTm9pRF9IVURmTVJSM1BQU0JSUDg3akhXUjRENnVvSlp6Vm9qczZsaExWMUJUeS1FMG9LU0RKb1hMNm55RmV1blhCSmVmTmRKYnp1SGNmUVRMTlZmanNjYWhHb0NlQVZU?oc=5",
+      "ozet": "Resmi Gazete'de yayımlandı: Antalya'da acele kamulaştırma kararı! Antalya Ekspres",
+      "lat": 36.9718,
+      "lng": 30.727,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
