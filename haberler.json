@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-03T07:34:23.631679+00:00",
+    "guncelleme": "2026-09-03T13:09:16.449914+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6536,
-    "haritaya_eklenen_yeni_kayit": 7,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "63d246df7248",
+      "baslik": "Döviz, altın ve borsa... Piyasanın gözü kulağı bu haberde",
+      "ozet": "Döviz, altın ve borsa... Piyasanın gözü kulağı bu haberde",
+      "url": "https://www.sozcu.com.tr/doviz-altin-ve-borsa-piyasanin-gozu-kulagi-bu-haberde-p355102",
+      "tarih": "2026-09-03T12:10:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a6b97aaae701",
+      "baslik": "Türkiye Sigorta Birliği’nden COP31 Mesajı: “Sigortanın Rolü Hasar Ödemekten İbaret Değil”",
+      "ozet": "TSB Başkanı Yaşar, iklim değişikliğinin ekonomik hayat üzerindeki etkilerinin giderek daha görünür hale geldiğine dikkati çekerek, “Sigortanın rolünü yalnızca hasar gerçekleştikten sonra ödeme yapan bir sistem olarak tanımlayamayız” dedi. Türkiye Sigorta Birliği (TSB) Yönetim Kur",
+      "url": "https://www.iklimhaber.org/turkiye-sigorta-birliginden-cop31-mesaji-sigortanin-rolu-hasar-odemekten-ibaret-degil/",
+      "tarih": "2026-09-03T10:34:58+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1ec3f9b12fe7",
+      "baslik": "Borsa günün ilk yarısında değer kaybetti -3 Eylül 2026",
+      "ozet": "Borsa günün ilk yarısında değer kaybetti -3 Eylül 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-deger-kaybetti-3-eylul-2026-p355065",
+      "tarih": "2026-09-03T10:16:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a5a8143b56de",
       "baslik": "1 milyon hektarlık alana ağaç dikip imkansızı başardılar: Kurtulmak istedikleri ne kum ne de denizdi",
@@ -1977,36 +2007,6 @@
       "ozet": "2 çocuğu olanın borcu tamamen silinecek: 2 şart var",
       "url": "https://www.sozcu.com.tr/2-cocugu-olanin-borcu-tamamen-silinecek-2-sart-var-p350973",
       "tarih": "2026-08-20T05:11:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d14036e5e2a1",
-      "baslik": "Nur Batur'dan medreseyi savunan Nagehan Alcı'yı köşeye sıkıştıran soru",
-      "ozet": "Nur Batur'dan medreseyi savunan Nagehan Alcı'yı köşeye sıkıştıran soru",
-      "url": "https://www.sozcu.com.tr/nur-batur-dan-medreseyi-savunan-nagehan-alci-yi-koseye-sikistiran-soru-p350960",
-      "tarih": "2026-08-20T03:28:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6abaf7f327b5",
-      "baslik": "Her 2 kişiden 1’i borç batağında",
-      "ozet": "Her 2 kişiden 1’i borç batağında",
-      "url": "https://www.sozcu.com.tr/her-2-kisiden-1-i-borc-bataginda-p350946",
-      "tarih": "2026-08-20T02:30:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c5600c646211",
-      "baslik": "Altın madeninden geriye çorak arazi kalmıştı: Dronlarla binlercesini bıraktılar",
-      "ozet": "Altın madeninden geriye çorak arazi kalmıştı: Dronlarla binlercesini bıraktılar",
-      "url": "https://www.sozcu.com.tr/altin-madeninden-geriye-corak-arazi-kalmisti-dronlarla-binlercesini-biraktilar-p350947",
-      "tarih": "2026-08-19T22:01:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
