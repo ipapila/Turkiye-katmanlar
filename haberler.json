@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-03T18:16:09.037638+00:00",
+    "guncelleme": "2026-09-04T07:35:21.181186+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6542,
-    "haritaya_eklenen_yeni_kayit": 6,
+    "harita_kayit_sayisi": 6547,
+    "haritaya_eklenen_yeni_kayit": 5,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "cb693a543728",
+      "baslik": "Dünyadaki Çiftçilerin Neredeyse Yarısı Her Yıl Pestisitlerden Zehirleniyor",
+      "ozet": "Çalışmaya göre her yıl pestisit zehirlenmesi nedeniyle 11 bin insan yaşamını yitiriyor. Yeni bir çalışma, dünyadaki çiftçilerin neredeyse yarısının her yıl pestisitlerden zehirlendiği ortaya koydu. Pesticide Action Network (PAN) tarafından yaptırılan ve 2006-2023 yılları arasında",
+      "url": "https://www.iklimhaber.org/dunyadaki-ciftcilerin-neredeyse-yarisi-her-yil-pestisitlerden-zehirleniyor/",
+      "tarih": "2026-09-04T07:31:32+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9d01725dd2d7",
+      "baslik": "Dikkat: Altın fiyatları saatler sonra sert yükselebilir, gözler 15.30'a çevrildi",
+      "ozet": "Dikkat: Altın fiyatları saatler sonra sert yükselebilir, gözler 15.30'a çevrildi",
+      "url": "https://www.sozcu.com.tr/dikkat-altin-fiyatlari-saatler-sonra-sert-yukselebilir-gozler-15-30-a-cevrildi-p355295",
+      "tarih": "2026-09-04T07:11:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ffc9945c5357",
+      "baslik": "Denize saçılan 28 bin oyuncak ördek 15 yıl sonra imkansızı başardı",
+      "ozet": "Denize saçılan 28 bin oyuncak ördek 15 yıl sonra imkansızı başardı",
+      "url": "https://www.sozcu.com.tr/denize-sacilan-28-bin-oyuncak-ordek-15-yil-sonra-imkansizi-basardi-p355262",
+      "tarih": "2026-09-04T05:42:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "81161fc27256",
       "baslik": "Karadeniz’de tansiyon yükseldi: Rusya 2 gemiyi vurdu",
@@ -912,6 +942,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "a4906e9461a3",
+      "baslik": "5 Haziran Dünya Çevre Gününe İlişkin Barolardan Ortak Açıklama... · Çevre ve Kent Hukuku Komisyonu - Diyarbakır Barosu",
+      "ozet": "5 Haziran Dünya Çevre Gününe İlişkin Barolardan Ortak Açıklama... · Çevre ve Kent Hukuku Komisyonu Diyarbakır Barosu",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX29Odjc0cUFROWowcUp1X3pVdHpRTG1QVVhiVUxwLS15YjdwMUdZSDJwMEJISUR0QlBTX2hDQU85OHRpZmdicU1jek1fbnVUQVpscmt0a3p1blZUbGxnZUQ3YjFDTmZ1cmpSREVldFhDbWNmeTBfaHJKOFQ5VVNQdFByVm43TlUxTGlrSnNLZzZUVVUtZ3RKbWlFN1RGVVdQX1ZyV2h6RUIxMVJKNjl5YXRMMms5RzJpWHo3WjJEQ2NaUzhXcTBKLVl0cW1VcWJlR1BTS05YdTZ5SWJuaEo4cWJHcjkzQQ?oc=5",
+      "tarih": "2026-08-26T19:24:47+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "645e7cf828c2",
       "baslik": "Haluk Levent'in Instagram hesabına erişim engeli getirildi",
       "ozet": "Haluk Levent'in Instagram hesabına erişim engeli getirildi",
@@ -1359,6 +1399,16 @@
       "tarih": "2026-08-24T07:38:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f3cc82d961fa",
+      "baslik": "Fahri trafik müfettişlerinin tutanaklarında ilk sırayı cep telefonu ihlali aldı - aa.com.tr",
+      "ozet": "Fahri trafik müfettişlerinin tutanaklarında ilk sırayı cep telefonu ihlali aldı aa.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOU16OW11cmctbmhHZWRjSFpSbjIzSi15Vl9tU1BtUUxydVl6RzFYQVdBZTVKb3c3VDduQ0NqUmVuMklMY0FzSnlEeVdQR0pBYXFIQy03eVYwMGt0TjdjTklTQzFJNGY5U1ljMDVVUGpEeFFwSEtMYVBtRDk3dGpwcGlEUE55YXBIaW1vX1lNNGVEU3NmcnZDWXR2cEx0Ymt5ampoYWY4RnZQaHo4WkdjUDRxZDRwU09tbFZN?oc=5",
+      "tarih": "2026-08-24T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1959,56 +2009,6 @@
       "tarih": "2026-08-20T08:13:00+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3cf7ae9a0c48",
-      "baslik": "Son Dakika | Balıkesir'deki orman yangını 2 günde kontrol altına alındı - Halk TV",
-      "ozet": "Son Dakika | Balıkesir'deki orman yangını 2 günde kontrol altına alındı Halk TV",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGVHZWs3ZTBSMXMtMS02anU2T2ZrYk9taXlYWWlsQ3JFb2ZZWDBSZzFHYVFOY3gtYk1LY0tlcUFPQ1k1WGxoNklnVlNhcFNETEdGeUdSNXBJMWlueVluaDk0cndJNkVpRFM1TlJza2tOMHh2TTVDWERXTTZydDFsQVVJbk44d3NwWXFOVTBJU3NGZTJRbXpqdG0xNkV6VlB3M1B4enNnR1BqaXM?oc=5",
-      "tarih": "2026-08-20T07:48:56+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5ad1b7b2dce7",
-      "baslik": "81 İlin İklim Karnesi Çıkarılacak",
-      "ozet": "Türkiye’nin 2053 net sıfır emisyon hedefi doğrultusunda belediyeler tarafından farklı yöntemlerle hazırlanan yerel iklim planları, yeni düzenlemeyle tüm illeri kapsayan ortak sistemle ele alınacak. Her il, kendi iklim risklerini ve seragazı emisyonlarını tespit ederek azaltım hed",
-      "url": "https://www.iklimhaber.org/81-ilin-iklim-karnesi-cikarilacak/",
-      "tarih": "2026-08-20T07:30:07+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6594f7876f43",
-      "baslik": "Türkiye’den Yunanistan’ın Ege’deki Enerji Hamlesine Tepki",
-      "ozet": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Yunanistan’ın Ege Denizi’ni kapsayacak şekilde ilan ettiği “Yenilenebilir Enerji Kaynakları Özel Mekansal Çerçevesi” kararına yanıt verdi: “Aidiyeti uluslararası antlaşmalarla Yunanistan’a devredilmemiş coğrafi formasyonlar dahil, iki ülke",
-      "url": "https://www.iklimhaber.org/turkiyeden-yunanistanin-egedeki-enerji-hamlesine-tepki/",
-      "tarih": "2026-08-20T07:06:44+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "982abccefbdc",
-      "baslik": "Bilecik’te orman yangını... Kontrol altına alındı - Cumhuriyet",
-      "ozet": "Bilecik’te orman yangını... Kontrol altına alındı Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEFRQWgwUlVzbHhqcmFJckl0MXV4TndvSkxBZWNuYldMTjlINnpuYS1JSnJRSnFoYThfQ2g0YW41M29DallDMV9RVk9ENEUtR1dFZ0I0VUFXQUJxVmprS3VLREZMVlVMOGFRaGdYRnJXYUoydG1SRExFQ3d3YTNmdk4yR3d5dnpaZG96Zi1xeUlZNWlQaUlv?oc=5",
-      "tarih": "2026-08-20T06:28:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a6b5b6b830fb",
-      "baslik": "Komşunun nükleer harp başlık sayısını açıklarken sesi titredi",
-      "ozet": "Komşunun nükleer harp başlık sayısını açıklarken sesi titredi",
-      "url": "https://www.sozcu.com.tr/komsunun-nukleer-harp-baslik-sayisini-aciklarken-sesi-titredi-p351009",
-      "tarih": "2026-08-20T06:21:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -93598,6 +93598,76 @@
       "ozet": "Resmi Gazete'de yayımlandı: Antalya'da acele kamulaştırma kararı! Antalya Ekspres",
       "lat": 36.9718,
       "lng": 30.727,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a4906e9461a3",
+      "baslik": "5 Haziran Dünya Çevre Gününe İlişkin Barolardan Ortak Açıklama... · Çevre ve Kent Hukuku Komisyonu - Diyarbakır Barosu",
+      "konum": "Diyarbakır",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX29Odjc0cUFROWowcUp1X3pVdHpRTG1QVVhiVUxwLS15YjdwMUdZSDJwMEJISUR0QlBTX2hDQU85OHRpZmdicU1jek1fbnVUQVpscmt0a3p1blZUbGxnZUQ3YjFDTmZ1cmpSREVldFhDbWNmeTBfaHJKOFQ5VVNQdFByVm43TlUxTGlrSnNLZzZUVVUtZ3RKbWlFN1RGVVdQX1ZyV2h6RUIxMVJKNjl5YXRMMms5RzJpWHo3WjJEQ2NaUzhXcTBKLVl0cW1VcWJlR1BTS05YdTZ5SWJuaEo4cWJHcjkzQQ?oc=5",
+      "ozet": "5 Haziran Dünya Çevre Gününe İlişkin Barolardan Ortak Açıklama... · Çevre ve Kent Hukuku Komisyonu Diyarbakır Barosu",
+      "lat": 37.8598,
+      "lng": 40.2903,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f79939d1a44d",
+      "baslik": "Balıkesir'deki orman yangını Bergama'daki Kozak Yaylası’na ulaştı - dokuz8HABER",
+      "konum": "Balıkesir",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObERONzZzLTgxcU1TYWhSLXZMQ0hMNlVXSmJzR2hYMlJaSXZtSTMyX1hzVkY5V0hrR1c5OTAzVzhXdTRWY2RnYlo4T3ptRmZrVVVCN1pzMUZFV1pLa3lOU1g4QlJUU0tZbXYxR3B6ci1FaFdrMkFmS2lubmpONzRVcy05T1h4VXdMVTM0TXA3c9IBlgFBVV95cUxQZ0ZQVXNxc1hHd3p4MEV3cURJRHg2TjFGeUE2T0pVcUJIRGRLRkJvZUZROFBHWURGLWk2ejI1azgyM0JRZG9qeWVsbTlMZHg3SXg4ZHlGejY0eVFUZjVNNURkZjgyWDFRTlhvOXI2Y05QSFhCb3Atb1JjOGRCSllvSGtqZXVoMHdtbW44N2NRSUJxOVdxaGc?oc=5",
+      "ozet": "Balıkesir'deki orman yangını Bergama'daki Kozak Yaylası’na ulaştı dokuz8HABER",
+      "lat": 39.7215,
+      "lng": 27.9865,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-612a283f22f1",
+      "baslik": "SON DAKİKA! Bolu'da maden ocağında göçük: 1 işçi mahsur kaldı - CNN Türk",
+      "konum": "Bolu",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa0hYUTFKQWJ6aGhnTC1WSVZLc1lTSW45MGFoS2d2VEtxdzJaNGI5T2UwTDljci1VVllMUk5QaE4yVkNFMktIckp0RjVZamVWdGEzM3cybnFHNUJDWlExNWxNRF9QZDFYaks4RDVxbkNXRXBkeG1sMHA2c1BVbE5HYXdtMVg?oc=5",
+      "ozet": "SON DAKİKA! Bolu'da maden ocağında göçük: 1 işçi mahsur kaldı CNN Türk",
+      "lat": 40.741,
+      "lng": 31.6049,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-38c52d27d9a3",
+      "baslik": "Orman yangını nedeniyle Fethiye-Seydikemer-Antalya karayolu trafiğe kapatıldı - dokuz8HABER",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlY0bUVxNDQyQ2FzS2QyNlZwb0F3SzhMRlBMS0Z1blhKbFpoWGJoYUZzdmlOQmJ4MjVfYnpRNkw4Qnc4RktEdTRMZ0lFMXhqenBOdnZMc0I5SWcyTER0dmlFZHdyVlFJdUlOdTN6QkVFNVQweXdhQVBUd0FqT0J3bkJPMW9nYzVYeDF3VG9Pc3F1M19taENQanpKM3dTUGQ5M3dB0gGqAUFVX3lxTFB0aWxMeExpZG5VM1hRQjdNRTQ0X3JFWVhvWmpaTzV5LWkwWFdhNnVkZllEWmtDSzd5dUZQVExpZWgtMEYzYjFSVWl0V3JOVGl1ZTZZR09ZMjdTSFRsdlFSaUlPVXJSbk83MktkQjdVQUxKTzlNNGEzcjhMU3d4Y2pVZlNSYlQyOXZ0akl2eXozMGh0ckZ5c0JPbmJFWHprZ2xrRXZ3Z1dGUlhR?oc=5",
+      "ozet": "Orman yangını nedeniyle Fethiye-Seydikemer-Antalya karayolu trafiğe kapatıldı dokuz8HABER",
+      "lat": 37.0121,
+      "lng": 30.6884,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-bd667a71ff6d",
+      "baslik": "Bolu Mengen’de kuvarsit ocağına 'ÇED' kararına tepki: Köylülerden ortak dava kararı - dokuz8HABER",
+      "konum": "Bolu",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGVvREc3cmVQRUxBcll3WE5Ma241VFBEdDFHLUhKVlJIRktmNDBXeGxwQTFibUZScTRjbHNLMkViLVNqcF9QNHRlN3dnSkswQl8xendwMEdzRkNNakh5NlJJNHhPVFlnYTk4bVBjVjRpczFBS3M0WTFZUzl0QXU2Mm1xLXNYSzhHYUcyYnlmODNGbWpXak50ejJxVm0yb2hUWnVjajZ30gGsAUFVX3lxTE12ZlZfM3QwbkxyeWFjbmxleHdjVVphQjYtYUFweUVKMFUyWnAwUVduenc2QnFWZWlNazN2dGtEMTNCdjYwUXJycE10VDQzV0pDOXRwWUkxSGNKak9UdTQ1TW9qWEwyMF83b1JHTHJSeHJidHd6OGQySTgyb0lILWRjbDZXbkV5Vm5HTlNMZEx6aGpMd1J5RkRwX1FHWU9UT0NjZ29QcUtYODZTYW0?oc=5",
+      "ozet": "Bolu Mengen’de kuvarsit ocağına 'ÇED' kararına tepki: Köylülerden ortak dava kararı dokuz8HABER",
+      "lat": 40.7504,
+      "lng": 31.6523,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
