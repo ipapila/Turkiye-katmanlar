@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-04T13:03:20.113665+00:00",
+    "guncelleme": "2026-09-04T17:56:50.493900+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6548,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "35a36a341aa4",
+      "baslik": "Son dakika...Eski Bakan Denizolgun'un doktoru tutuklandı",
+      "ozet": "Son dakika...Eski Bakan Denizolgun'un doktoru tutuklandı",
+      "url": "https://www.sozcu.com.tr/son-dakika-eski-bakan-denizolgun-un-doktoru-tutuklandi-p355450",
+      "tarih": "2026-09-04T17:48:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8f7ef48f3ca3",
+      "baslik": "Yüksel Yıldırım: 'Dünü asla unutmadık ve unutmayacağız'",
+      "ozet": "Yüksel Yıldırım: 'Dünü asla unutmadık ve unutmayacağız'",
+      "url": "https://www.sozcu.com.tr/yuksel-yildirim-dunu-asla-unutmadik-ve-unutmayacagiz-p355437",
+      "tarih": "2026-09-04T15:12:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "906579e50dcd",
       "baslik": "Deniz Göktaş için istenen ceza belli oldu",
@@ -849,6 +869,16 @@
       "tarih": "2026-08-28T12:56:16+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "22ad34ddd0cb",
+      "baslik": "Verilen sözler tutulmadı... Türkiye Maden-İş madencileri direnişi sürdürüyor - Cumhuriyet",
+      "ozet": "Verilen sözler tutulmadı... Türkiye Maden-İş madencileri direnişi sürdürüyor Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjRrS1ltelhncFYtaFNJMGJZTmJHNUVvZ0UzS01oV201R3JKU1N0UzNNRzA1aHpkQkNnQzk3T01tVzlMSG1Mbzh4QmJaNmFOMkxZQ2l2MlNHNWFhVTVHclpjdFEzaUFwenVnaUZnb3BGSGo0bXlhUlQweFBuTUttMFRMenRtLVA2SmczYzkyTUR0MnFPMk1GTllSVmZ1RHNIMWF5U3c3ek5YSElHUHlhUVFBQlFOUUF1cFdF?oc=5",
+      "tarih": "2026-08-28T12:43:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1977,36 +2007,6 @@
       "ozet": "Dış borç 539 milyar dolar",
       "url": "https://www.sozcu.com.tr/dis-borc-539-milyar-dolar-p351279",
       "tarih": "2026-08-21T02:30:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "63b128180d3c",
-      "baslik": "Üç isim Erdoğan’a büyük fark atıyor",
-      "ozet": "Üç isim Erdoğan’a büyük fark atıyor",
-      "url": "https://www.sozcu.com.tr/uc-isim-erdogan-a-buyuk-fark-atiyor-p351276",
-      "tarih": "2026-08-21T02:30:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9982018da948",
-      "baslik": "Porsuk kıyısında festival havası",
-      "ozet": "Porsuk kıyısında festival havası",
-      "url": "https://www.sozcu.com.tr/porsuk-kiyisinda-festival-havasi-p351272",
-      "tarih": "2026-08-21T02:30:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ca3b48e4bdbe",
-      "baslik": "Aynı anda 500 tanesini doğaya saldılar mucizeyi getirdi",
-      "ozet": "Aynı anda 500 tanesini doğaya saldılar mucizeyi getirdi",
-      "url": "https://www.sozcu.com.tr/ayni-anda-500-tanesini-dogaya-saldilar-mucizeyi-getirdi-p351154",
-      "tarih": "2026-08-20T12:16:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
