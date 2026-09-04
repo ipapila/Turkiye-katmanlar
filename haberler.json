@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-04T17:56:50.493900+00:00",
+    "guncelleme": "2026-09-04T20:12:10.921371+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6548,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6549,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "7a0c7fe253a3",
+      "baslik": "Erdoğan'dan Meloni'ye 'görev süresi' tebriği",
+      "ozet": "Erdoğan'dan Meloni'ye 'görev süresi' tebriği",
+      "url": "https://www.sozcu.com.tr/erdogan-dan-meloni-ye-gorev-suresi-tebrigi-p355467",
+      "tarih": "2026-09-04T19:39:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "15aa7e055e32",
+      "baslik": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret - Aydın Times",
+      "ozet": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret Aydın Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0FCV0h1dEJDaGo4UTZoa1RRZWxsT2pqUTZ5NkRVSi1EMWprRkNmaDBsbERWMXVWZlpLZ1o4SDNLclVCLWJJekZuc2NaYmplM21yTzNRQURGLXVVTC1jRVdBbUk1V1lCeUJfdExHenBndE4zdTZRbUFRY3k2Tk91ZWdlcmlLYnhJVmc?oc=5",
+      "tarih": "2026-09-04T17:52:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "35a36a341aa4",
       "baslik": "Son dakika...Eski Bakan Denizolgun'un doktoru tutuklandı",
@@ -1987,26 +2007,6 @@
       "ozet": "Sibel Aytan Bodrum'da görüntülendi: Denizin ortasındaki iskelede uzun süre güneşlendi",
       "url": "https://www.sozcu.com.tr/sibel-aytan-bodrum-da-goruntulendi-denizin-ortasindaki-iskelede-uzun-sure-guneslendi-p351336",
       "tarih": "2026-08-21T05:58:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "532b59f8295d",
-      "baslik": "Everest Dağı'nın 4 katı yüksekliğindeki dağ 45 saniyede göle aktı: 2 bin kişi hayatını kaybetti",
-      "ozet": "Everest Dağı'nın 4 katı yüksekliğindeki dağ 45 saniyede göle aktı: 2 bin kişi hayatını kaybetti",
-      "url": "https://www.sozcu.com.tr/everest-dagi-nin-4-kati-yuksekligindeki-dag-45-saniyede-gole-akti-2-bin-kisi-hayatini-kaybetti-p351330",
-      "tarih": "2026-08-21T05:47:50+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8ba45a18efbc",
-      "baslik": "Dış borç 539 milyar dolar",
-      "ozet": "Dış borç 539 milyar dolar",
-      "url": "https://www.sozcu.com.tr/dis-borc-539-milyar-dolar-p351279",
-      "tarih": "2026-08-21T02:30:14+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93682,6 +93682,20 @@
       "ozet": "Havzada son yıllarda artan sıcaklıklar ve şiddetlenen buharlaşma, göldeki su kaybını hızlandırırken, bilim insanları 2026 yılında görülen yoğun yağışların bu tabloyu tamamen tersine çevirmeye yetmediği belirtti. Van Gölü Havzası, bir yandan bu yılki yüksek yağışlarla su kaynaklar",
       "lat": 38.5005,
       "lng": 43.4607,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-15aa7e055e32",
+      "baslik": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret - Aydın Times",
+      "konum": "Aydın",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0FCV0h1dEJDaGo4UTZoa1RRZWxsT2pqUTZ5NkRVSi1EMWprRkNmaDBsbERWMXVWZlpLZ1o4SDNLclVCLWJJekZuc2NaYmplM21yTzNRQURGLXVVTC1jRVdBbUk1V1lCeUJfdExHenBndE4zdTZRbUFRY3k2Tk91ZWdlcmlLYnhJVmc?oc=5",
+      "ozet": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret Aydın Times",
+      "lat": 37.8631,
+      "lng": 27.9331,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

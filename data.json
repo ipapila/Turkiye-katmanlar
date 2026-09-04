@@ -118963,5 +118963,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/van-golunde-kuraklik-tehdidi-suruyor/"
+  },
+  {
+    "id": "tarayici-15aa7e055e32",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret - Aydın Times",
+    "il": "Aydın",
+    "ilce": "",
+    "aciklama": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret Aydın Times",
+    "koordinatlar": {
+      "lat": 37.8631,
+      "lng": 27.9331
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.09.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0FCV0h1dEJDaGo4UTZoa1RRZWxsT2pqUTZ5NkRVSi1EMWprRkNmaDBsbERWMXVWZlpLZ1o4SDNLclVCLWJJekZuc2NaYmplM21yTzNRQURGLXVVTC1jRVdBbUk1V1lCeUJfdExHenBndE4zdTZRbUFRY3k2Tk91ZWdlcmlLYnhJVmc?oc=5"
   }
 ]
