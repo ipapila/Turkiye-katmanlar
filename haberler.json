@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-04T07:35:21.181186+00:00",
+    "guncelleme": "2026-09-04T13:03:20.113665+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6547,
-    "haritaya_eklenen_yeni_kayit": 5,
+    "harita_kayit_sayisi": 6548,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "906579e50dcd",
+      "baslik": "Deniz Göktaş için istenen ceza belli oldu",
+      "ozet": "Deniz Göktaş için istenen ceza belli oldu",
+      "url": "https://www.sozcu.com.tr/deniz-goktas-icin-istenen-ceza-belli-oldu-p355351",
+      "tarih": "2026-09-04T11:36:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "06be5b8cb65b",
+      "baslik": "Çağlar Söyüncü Süper Lig'de kaldı: İşte yeni adresi",
+      "ozet": "Çağlar Söyüncü Süper Lig'de kaldı: İşte yeni adresi",
+      "url": "https://www.sozcu.com.tr/caglar-soyuncu-super-lig-de-kaldi-iste-yeni-adresi-p355361",
+      "tarih": "2026-09-04T10:43:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "aa44e76bd62e",
+      "baslik": "Van Gölü’nde Kuraklık Tehdidi Sürüyor",
+      "ozet": "Havzada son yıllarda artan sıcaklıklar ve şiddetlenen buharlaşma, göldeki su kaybını hızlandırırken, bilim insanları 2026 yılında görülen yoğun yağışların bu tabloyu tamamen tersine çevirmeye yetmediği belirtti. Van Gölü Havzası, bir yandan bu yılki yüksek yağışlarla su kaynaklar",
+      "url": "https://www.iklimhaber.org/van-golunde-kuraklik-tehdidi-suruyor/",
+      "tarih": "2026-09-04T08:11:40+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e3d774e653e9",
+      "baslik": "Nepal’deki Felaketin Maliyeti 2,5 Milyar Doları Aşacak",
+      "ozet": "26 Ağustos’ta Nepal’in Çin sınır bölgesinde bir buzulun çökmesi sonucu Trishuli Nehri boyunca akan buz, kaya ve çamur seli kasabaları ve köyleri haritadan sildi. 1.250’den fazla kişinin hayatını kaybettiği felakette 4.200’den fazla kişi hâlen kayıp ve binlerce insan yerinden edil",
+      "url": "https://www.iklimhaber.org/nepaldeki-felaketin-maliyeti-25-milyar-dolari-asacak/",
+      "tarih": "2026-09-04T07:48:47+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "cb693a543728",
       "baslik": "Dünyadaki Çiftçilerin Neredeyse Yarısı Her Yıl Pestisitlerden Zehirleniyor",
@@ -1872,6 +1912,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "00b9ed42b355",
+      "baslik": "'Çevre dostu' belgesi aldı, sahili çöplüğe çevirdi - halktv.com.tr",
+      "ozet": "'Çevre dostu' belgesi aldı, sahili çöplüğe çevirdi halktv.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSklrd25IVklGZXpjdzBIZXdyaWZJQloybFAwOFJacXhPVW1VYnpCYWRhZFlEM2lkQUtrbTVGQ3NyRm5keW5EZGVBQjJhRy1TWnFNaUprYXZnd0gwM21MQ25qWThoQzZrWTJac2J4MTBxNGJzTUNPcElCTnNfem5KenFPOWxDOEVwZ2RlX0NYTQ?oc=5",
+      "tarih": "2026-08-21T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "a969ad41d94d",
       "baslik": "OGM’den Kritik Uyarı: Önümüzdeki 10 Güne Dikkat!",
       "ozet": "Orman Genel Müdürlüğü (OGM), Türkiye genelinde önümüzdeki 10 gün boyunca etkili olması beklenen sıcak ve kurak hava koşullarına karşı vatandaşları orman yangınları konusunda dikkatli olmaya çağırdı.  Meteoroloji tahminlerine göre özellikle Ege, Akdeniz, İç Anadolu’nun güneyi ve G",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-08-20T12:16:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e63e85f2620d",
-      "baslik": "Galatasaray yeni yıldızı Batrakov'u resmen duyurdu",
-      "ozet": "Galatasaray yeni yıldızı Batrakov'u resmen duyurdu",
-      "url": "https://www.sozcu.com.tr/galatasaray-yeni-yildizi-batrakov-u-resmen-duyurdu-p351120",
-      "tarih": "2026-08-20T11:49:50+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "906e75df99a1",
-      "baslik": "Isı Stresi 60 Yaş ve Üzeri için Alarm Veriyor",
-      "ozet": "Yaşlı yetişkinler, sanayi öncesi döneme kıyasla yalnızca 1,5 derecelik küresel ısınmada bile sağlığa zararlı ısı stresine maruz kalabilecekler. Yeni bir çalışma aşırı sıcaklıkların özellikle 60 yaş ve üzerindekiler için daha önce sanılandan çok daha tehlikeli olduğuna dikkat çeki",
-      "url": "https://www.iklimhaber.org/isi-stresi-60-yas-ve-uzeri-icin-alarm-veriyor/",
-      "tarih": "2026-08-20T11:23:51+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7ee3842b16c5",
-      "baslik": "Muğla Valiliği'nden orman yangınlarına karşı genel emir: Açık alanda yangın tüpü zorunluluğu - Cumhuriyet",
-      "ozet": "Muğla Valiliği'nden orman yangınlarına karşı genel emir: Açık alanda yangın tüpü zorunluluğu Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQi1aZk5jcDdhX0VkWkZhSHdrVnZvNmhYaFd4QUs2eDFHWkhNY0Y5LWxWUlZFcGdMSVpBNDI4REJuSElhSTE0VERweVZ6NldBY3VYeHlsdjFPaUMwWXc3TVMyM2NDT1dzS2dyb2ZCcTJIYUFYRlJKUU1MbzAzeGhZUHJpYnFscW13b2VLcUp1dkRMbmFnNFlsVTNYcThjMjNPbG5mRFdtLW9mMEZ4VU91bWxtRl9WWVlZWmw3SmZUNnp1THhNOVBZTFJZV0x6OTlXNnFB?oc=5",
-      "tarih": "2026-08-20T10:42:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "61bef2570405",
-      "baslik": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
-      "ozet": "Ankara'da cinsel ilişki tuzağı: 'Balkız' yakalandı",
-      "url": "https://www.sozcu.com.tr/ankara-da-cinsel-iliski-tuzagi-p351073",
-      "tarih": "2026-08-20T08:48:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "eb5685e9ddd1",
-      "baslik": "Avrupa’da Kuraklığın Faturası 180 Milyar Euroyu Bulabilir!",
-      "ozet": "Avrupa’da bu yaz etkili olan aşırı sıcaklıklar ve hızla derinleşen kuraklık, kıtanın ekonomik faaliyetleri üzerinde giderek daha fazla baskı oluştururken, maliyetin kısa vadede en az 50 milyar euroya, toplamda ise 180 milyar euroya ulaşabileceği hesaplanıyor. Avrupa’da bu yaz etk",
-      "url": "https://www.iklimhaber.org/avrupada-kurakligin-faturasi-180-milyar-euroya-cikabilir/",
-      "tarih": "2026-08-20T08:13:00+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -93668,6 +93668,20 @@
       "ozet": "Bolu Mengen’de kuvarsit ocağına 'ÇED' kararına tepki: Köylülerden ortak dava kararı dokuz8HABER",
       "lat": 40.7504,
       "lng": 31.6523,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-aa44e76bd62e",
+      "baslik": "Van Gölü’nde Kuraklık Tehdidi Sürüyor",
+      "konum": "Van",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.09.2026",
+      "url": "https://www.iklimhaber.org/van-golunde-kuraklik-tehdidi-suruyor/",
+      "ozet": "Havzada son yıllarda artan sıcaklıklar ve şiddetlenen buharlaşma, göldeki su kaybını hızlandırırken, bilim insanları 2026 yılında görülen yoğun yağışların bu tabloyu tamamen tersine çevirmeye yetmediği belirtti. Van Gölü Havzası, bir yandan bu yılki yüksek yağışlarla su kaynaklar",
+      "lat": 38.5005,
+      "lng": 43.4607,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

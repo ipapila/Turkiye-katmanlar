@@ -118944,5 +118944,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGVvREc3cmVQRUxBcll3WE5Ma241VFBEdDFHLUhKVlJIRktmNDBXeGxwQTFibUZScTRjbHNLMkViLVNqcF9QNHRlN3dnSkswQl8xendwMEdzRkNNakh5NlJJNHhPVFlnYTk4bVBjVjRpczFBS3M0WTFZUzl0QXU2Mm1xLXNYSzhHYUcyYnlmODNGbWpXak50ejJxVm0yb2hUWnVjajZ30gGsAUFVX3lxTE12ZlZfM3QwbkxyeWFjbmxleHdjVVphQjYtYUFweUVKMFUyWnAwUVduenc2QnFWZWlNazN2dGtEMTNCdjYwUXJycE10VDQzV0pDOXRwWUkxSGNKak9UdTQ1TW9qWEwyMF83b1JHTHJSeHJidHd6OGQySTgyb0lILWRjbDZXbkV5Vm5HTlNMZEx6aGpMd1J5RkRwX1FHWU9UT0NjZ29QcUtYODZTYW0?oc=5"
+  },
+  {
+    "id": "tarayici-aa44e76bd62e",
+    "tip": "İklim Olayları",
+    "ad": "Van Gölü’nde Kuraklık Tehdidi Sürüyor",
+    "il": "Van",
+    "ilce": "",
+    "aciklama": "Havzada son yıllarda artan sıcaklıklar ve şiddetlenen buharlaşma, göldeki su kaybını hızlandırırken, bilim insanları 2026 yılında görülen yoğun yağışların bu tabloyu tamamen tersine çevirmeye yetmediği belirtti. Van Gölü Havzası, bir yandan bu yılki yüksek yağışlarla su kaynaklar",
+    "koordinatlar": {
+      "lat": 38.5005,
+      "lng": 43.4607
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.09.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/van-golunde-kuraklik-tehdidi-suruyor/"
   }
 ]
