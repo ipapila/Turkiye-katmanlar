@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-04T20:12:10.921371+00:00",
+    "guncelleme": "2026-09-05T07:16:13.753772+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6549,
+    "harita_kayit_sayisi": 6550,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "6085860488ed",
+      "baslik": "Ruhi Çenet'ten olay yaratacak açıklama... ‘Hasidik Yahudiler’ belgeseli bir haftada 50 milyon izlendi",
+      "ozet": "Ruhi Çenet'ten olay yaratacak açıklama... ‘Hasidik Yahudiler’ belgeseli bir haftada 50 milyon izlendi",
+      "url": "https://www.sozcu.com.tr/ruhi-cenet-ten-olay-yaratacak-aciklama-hasidik-yahudiler-belgeseli-bir-haftada-50-milyon-izlendi-p355527",
+      "tarih": "2026-09-05T07:06:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d84be6757abe",
+      "baslik": "Hatalı basılan madeni para değerinin 122 katına satıldı",
+      "ozet": "Hatalı basılan madeni para değerinin 122 katına satıldı",
+      "url": "https://www.sozcu.com.tr/hatali-basilan-madeni-para-degerinin-122-katina-satildi-p355520",
+      "tarih": "2026-09-05T06:38:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6a247f1ac89e",
+      "baslik": "Erdoğan imzaladı: 2 boğaz köprüsü ve 8 otoyol özelleştirme kapsamına alındı",
+      "ozet": "Erdoğan imzaladı: 2 boğaz köprüsü ve 8 otoyol özelleştirme kapsamına alındı",
+      "url": "https://www.sozcu.com.tr/erdogan-imzaladi-3-otoyol-ozellestirme-kapsamina-alindi-p355514",
+      "tarih": "2026-09-05T06:36:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "91051789a86f",
+      "baslik": "Taşacak Bu Deniz’in ünlü ismi Burak Yörük sessiz sedasız evlendi",
+      "ozet": "Taşacak Bu Deniz’in ünlü ismi Burak Yörük sessiz sedasız evlendi",
+      "url": "https://www.sozcu.com.tr/tasacak-bu-deniz-in-unlu-ismi-burak-yoruk-sessiz-sedasiz-evlendi-p355509",
+      "tarih": "2026-09-05T05:54:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4854514a248c",
+      "baslik": "Kurtuluş Kuş konserinde tansiyon yükseldi: Sahneyi terk etti",
+      "ozet": "Kurtuluş Kuş konserinde tansiyon yükseldi: Sahneyi terk etti",
+      "url": "https://www.sozcu.com.tr/kurtulus-kus-konserinde-tansiyon-yukseldi-sahneyi-terk-etti-p355508",
+      "tarih": "2026-09-05T05:42:43+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "7a0c7fe253a3",
       "baslik": "Erdoğan'dan Meloni'ye 'görev süresi' tebriği",
@@ -1957,56 +2007,6 @@
       "ozet": "Ege'de egemenlik ilan ettiler: Yunanistan'da 'Deniz Parkı' krizi",
       "url": "https://www.sozcu.com.tr/atina-dan-ankara-ya-meydan-p351398",
       "tarih": "2026-08-21T07:57:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "00b9ed42b355",
-      "baslik": "'Çevre dostu' belgesi aldı, sahili çöplüğe çevirdi - halktv.com.tr",
-      "ozet": "'Çevre dostu' belgesi aldı, sahili çöplüğe çevirdi halktv.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSklrd25IVklGZXpjdzBIZXdyaWZJQloybFAwOFJacXhPVW1VYnpCYWRhZFlEM2lkQUtrbTVGQ3NyRm5keW5EZGVBQjJhRy1TWnFNaUprYXZnd0gwM21MQ25qWThoQzZrWTJac2J4MTBxNGJzTUNPcElCTnNfem5KenFPOWxDOEVwZ2RlX0NYTQ?oc=5",
-      "tarih": "2026-08-21T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a969ad41d94d",
-      "baslik": "OGM’den Kritik Uyarı: Önümüzdeki 10 Güne Dikkat!",
-      "ozet": "Orman Genel Müdürlüğü (OGM), Türkiye genelinde önümüzdeki 10 gün boyunca etkili olması beklenen sıcak ve kurak hava koşullarına karşı vatandaşları orman yangınları konusunda dikkatli olmaya çağırdı.  Meteoroloji tahminlerine göre özellikle Ege, Akdeniz, İç Anadolu’nun güneyi ve G",
-      "url": "https://www.iklimhaber.org/ogmden-kritik-uyari-onumuzdeki-10-gune-dikkat/",
-      "tarih": "2026-08-21T06:52:23+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "38ae3fc26da6",
-      "baslik": "El Niño’nun Küresel Ekonomiye Faturası 84 Trilyon Dolara Ulaşabilir",
-      "ozet": "El Niño’nun ekonomik maliyetinin yalnızca olayın yaşandığı yılla sınırlı kalmadığına ilişkin çalışmalar dikkati çekiyor. Bir çalışmaya göre, yalnızca 2023’teki El Niño’nun dünya ekonomisinde 2029’a kadar 3 trilyon dolarlık kayba neden olabileceği tahmin ediliyor. Dünyada 21. yüzy",
-      "url": "https://www.iklimhaber.org/el-nino-olaylarinin-kuresel-ekonomiye-faturasi-84-trilyon-dolara-ulasabilir/",
-      "tarih": "2026-08-21T06:33:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "04c2b24b25fe",
-      "baslik": "El Niño Olaylarının Küresel Ekonomiye Faturası 84 Trilyon Dolara Ulaşabilir",
-      "ozet": "El Niño’nun ekonomik maliyetinin yalnızca olayın yaşandığı yılla sınırlı kalmadığına ilişkin çalışmalar dikkati çekiyor. Bir çalışmaya göre, yalnızca 2023’teki El Niño’nun dünya ekonomisinde 2029’a kadar 3 trilyon dolarlık kayba neden olabileceği tahmin ediliyor. Dünyada 21. yüzy",
-      "url": "https://www.iklimhaber.org/el-nino-olaylarinin-kuresel-ekonomiye-faturasi-84-trilyon-dolara-ulasabilir/",
-      "tarih": "2026-08-21T06:33:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a20a7da1025d",
-      "baslik": "Sibel Aytan Bodrum'da görüntülendi: Denizin ortasındaki iskelede uzun süre güneşlendi",
-      "ozet": "Sibel Aytan Bodrum'da görüntülendi: Denizin ortasındaki iskelede uzun süre güneşlendi",
-      "url": "https://www.sozcu.com.tr/sibel-aytan-bodrum-da-goruntulendi-denizin-ortasindaki-iskelede-uzun-sure-guneslendi-p351336",
-      "tarih": "2026-08-21T05:58:36+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93696,6 +93696,20 @@
       "ozet": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret Aydın Times",
       "lat": 37.8631,
       "lng": 27.9331,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f3fd27ba3e65",
+      "baslik": "ÇED OLUMLU KARAR İLANI (Kabadüz-Favori Maden) - Ordu Büyükşehir Belediyesi",
+      "konum": "Ordu",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFR0bmFTNTJyUmxkRTB2cDdrRi1WbGdFbVYxMzhfcU9SQkRjUWtCcUVxMmtKN045RFluMTN0ZE5lMmpNVkV1YThqRG5tNUJNOGFrYnB1NUdTRFBoT19pNWlqcG8wdTB1Unpqd2dPNUtkUV9NeTdPcUFmb21oWmpHR0RtUQ?oc=5",
+      "ozet": "ÇED OLUMLU KARAR İLANI (Kabadüz-Favori Maden) Ordu Büyükşehir Belediyesi",
+      "lat": 40.8932,
+      "lng": 37.9299,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
