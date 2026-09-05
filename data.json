@@ -119001,5 +119001,43 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFR0bmFTNTJyUmxkRTB2cDdrRi1WbGdFbVYxMzhfcU9SQkRjUWtCcUVxMmtKN045RFluMTN0ZE5lMmpNVkV1YThqRG5tNUJNOGFrYnB1NUdTRFBoT19pNWlqcG8wdTB1Unpqd2dPNUtkUV9NeTdPcUFmb21oWmpHR0RtUQ?oc=5"
+  },
+  {
+    "id": "tarayici-cce5c72d0b7a",
+    "tip": "İklim Olayları",
+    "ad": "Manisa Soma'da orman yangını",
+    "il": "Manisa",
+    "ilce": "",
+    "aciklama": "Manisa Soma'da orman yangını",
+    "koordinatlar": {
+      "lat": 38.5044,
+      "lng": 27.4761
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "05.09.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/manisa-soma-da-orman-yangini-p355634"
+  },
+  {
+    "id": "tarayici-56d305fc8864",
+    "tip": "Ekolojik İhlal",
+    "ad": "MHP Antalya İl Kongresi’ne saatler kala il başkanının casino görüntüleri ortaya çıktı",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "MHP Antalya İl Kongresi’ne saatler kala il başkanının casino görüntüleri ortaya çıktı",
+    "koordinatlar": {
+      "lat": 36.8957,
+      "lng": 30.6067
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "05.09.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/mhp-antalya-il-kongresi-ne-saatler-kala-il-baskaninin-casino-goruntuleri-ortaya-cikti-p355624"
   }
 ]
