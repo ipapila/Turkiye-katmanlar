@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-05T17:03:12.209518+00:00",
+    "guncelleme": "2026-09-05T19:46:08.446742+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6552,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6553,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "f8de59bdc035",
+      "baslik": "Meloni'den Erdoğan'ın o mesajına yanıt",
+      "ozet": "Meloni'den Erdoğan'ın o mesajına yanıt",
+      "url": "https://www.sozcu.com.tr/meloniden-erdoganin-o-mesajina-yanit-p355651",
+      "tarih": "2026-09-05T19:37:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b86413037938",
+      "baslik": "Boğaz'da 4 bin 141 yapı için yıkım kararı: Ünlü isimler de listede",
+      "ozet": "Boğaz'da 4 bin 141 yapı için yıkım kararı: Ünlü isimler de listede",
+      "url": "https://www.sozcu.com.tr/bogazda-4-bin-141-yapi-icin-yikim-karari-unlu-isimler-de-listede-p355644",
+      "tarih": "2026-09-05T18:49:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "cce5c72d0b7a",
       "baslik": "Manisa Soma'da orman yangını",
@@ -89,6 +109,16 @@
       "tarih": "2026-09-05T10:27:55+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a3f268812aba",
+      "baslik": "Mersin’den Türkiye’ye denizcilik çağrısı | Erdal Fernergiz Köşe Yazısı - Hürriyet",
+      "ozet": "Mersin’den Türkiye’ye denizcilik çağrısı | Erdal Fernergiz Köşe Yazısı Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVNVUHdzUDB4ZC16SnR1UkZrZ3g2QXpTWFNrelZ3ZzFxbV8tOElNdWlMaXhGSXByT2pnLXg1YVdRNWQtaGctbEFHdDBHZVJubHhSUFd1RWN1RWRGa0U4WVhCb3p4NmxnUlRHOFFlTmtQU3ZCYU5WamFDOVBDVmM5b0hLZ2NvcEVwaVNERF9GVWwwLXZ2WnpTdTFJNS1FeEdMMFE?oc=5",
+      "tarih": "2026-09-05T09:46:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1977,36 +2007,6 @@
       "ozet": "Marmaris’te ormanda gece saatlerinde yangın çıktı",
       "url": "https://www.sozcu.com.tr/marmaris-te-ormanda-gece-saatlerinde-yangin-cikti-p351581",
       "tarih": "2026-08-21T21:32:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "66a62f41699f",
-      "baslik": "Ankara'da maden ocağında göçük: Çok sayıda ölü ve yaralı var",
-      "ozet": "Ankara'da maden ocağında göçük: Çok sayıda ölü ve yaralı var",
-      "url": "https://www.sozcu.com.tr/ankara-maden-ocagi-gocuk-21-agustos-2026-p351548",
-      "tarih": "2026-08-21T18:09:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "afc2ff3bf88f",
-      "baslik": "Galatasaray ayrılığı resmen açıkladı",
-      "ozet": "Galatasaray ayrılığı resmen açıkladı",
-      "url": "https://www.sozcu.com.tr/galatasaray-ayriligi-resmen-acikladi-p351531",
-      "tarih": "2026-08-21T14:32:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3bd2e43d7ece",
-      "baslik": "Galatasaray'ın yeni yengesi: Batrakov'dan 10 yaş büyük çıktı",
-      "ozet": "Galatasaray'ın yeni yengesi: Batrakov'dan 10 yaş büyük çıktı",
-      "url": "https://www.sozcu.com.tr/galatasaray-in-yeni-yengesi-batrakov-dan-10-yas-buyuk-cikti-p351520",
-      "tarih": "2026-08-21T13:42:05+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93738,6 +93738,20 @@
       "ozet": "MHP Antalya İl Kongresi’ne saatler kala il başkanının casino görüntüleri ortaya çıktı",
       "lat": 36.8957,
       "lng": 30.6067,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a3f268812aba",
+      "baslik": "Mersin’den Türkiye’ye denizcilik çağrısı | Erdal Fernergiz Köşe Yazısı - Hürriyet",
+      "konum": "Mersin",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVNVUHdzUDB4ZC16SnR1UkZrZ3g2QXpTWFNrelZ3ZzFxbV8tOElNdWlMaXhGSXByT2pnLXg1YVdRNWQtaGctbEFHdDBHZVJubHhSUFd1RWN1RWRGa0U4WVhCb3p4NmxnUlRHOFFlTmtQU3ZCYU5WamFDOVBDVmM5b0hLZ2NvcEVwaVNERF9GVWwwLXZ2WnpTdTFJNS1FeEdMMFE?oc=5",
+      "ozet": "Mersin’den Türkiye’ye denizcilik çağrısı | Erdal Fernergiz Köşe Yazısı Hürriyet",
+      "lat": 36.8136,
+      "lng": 34.6058,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
