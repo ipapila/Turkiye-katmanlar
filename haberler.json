@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-05T07:16:13.753772+00:00",
+    "guncelleme": "2026-09-05T12:15:22.683115+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6550,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "331b41ee25af",
+      "baslik": "Milyoner sandığı kocasının gerçek serveti şaşırttı: Hesabını kontrol edince...",
+      "ozet": "Milyoner sandığı kocasının gerçek serveti şaşırttı: Hesabını kontrol edince...",
+      "url": "https://www.sozcu.com.tr/milyoner-sandigi-kocasinin-gercek-serveti-sasirtti-hesabini-kontrol-edince-p355597",
+      "tarih": "2026-09-05T12:02:42+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "33acf5b8bbff",
+      "baslik": "Erdoğan imam hatipli harp okulu birincisi hakkında ilk kez konuştu",
+      "ozet": "Erdoğan imam hatipli harp okulu birincisi hakkında ilk kez konuştu",
+      "url": "https://www.sozcu.com.tr/erdogan-imam-hatipli-harp-okulu-birincisi-hakkinda-ilk-kez-konustu-p355578",
+      "tarih": "2026-09-05T10:27:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "6085860488ed",
       "baslik": "Ruhi Çenet'ten olay yaratacak açıklama... ‘Hasidik Yahudiler’ belgeseli bir haftada 50 milyon izlendi",
@@ -69,6 +89,16 @@
       "tarih": "2026-09-04T19:39:19+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7a1223b70abe",
+      "baslik": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret - aydintimes.com",
+      "ozet": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret aydintimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0FCV0h1dEJDaGo4UTZoa1RRZWxsT2pqUTZ5NkRVSi1EMWprRkNmaDBsbERWMXVWZlpLZ1o4SDNLclVCLWJJekZuc2NaYmplM21yTzNRQURGLXVVTC1jRVdBbUk1V1lCeUJfdExHenBndE4zdTZRbUFRY3k2Tk91ZWdlcmlLYnhJVmc?oc=5",
+      "tarih": "2026-09-04T17:52:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-21T10:07:21+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fe5c93dd647a",
-      "baslik": "Bora Cengiz’den sevgilisi Ahu Yağtu’ya aşk dolu bakışlar: O kare geceye damga vurdu",
-      "ozet": "Bora Cengiz’den sevgilisi Ahu Yağtu’ya aşk dolu bakışlar: O kare geceye damga vurdu",
-      "url": "https://www.sozcu.com.tr/bora-cengiz-den-sevgilisi-ahu-yagtu-ya-ask-dolu-bakislar-o-kare-geceye-damga-vurdu-p351426",
-      "tarih": "2026-08-21T09:08:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ee323665c70f",
-      "baslik": "İstanbul’un dibinde doğal gaz arayacaklar",
-      "ozet": "İstanbul’un dibinde doğal gaz arayacaklar",
-      "url": "https://www.sozcu.com.tr/istanbul-un-dibinde-dogal-gaz-arayacaklar-p351419",
-      "tarih": "2026-08-21T08:46:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c5a0ef3a8cd9",
-      "baslik": "Ege'de egemenlik ilan ettiler: Yunanistan'da 'Deniz Parkı' krizi",
-      "ozet": "Ege'de egemenlik ilan ettiler: Yunanistan'da 'Deniz Parkı' krizi",
-      "url": "https://www.sozcu.com.tr/atina-dan-ankara-ya-meydan-p351398",
-      "tarih": "2026-08-21T07:57:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
