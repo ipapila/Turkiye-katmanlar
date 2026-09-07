@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-07T07:44:56.966442+00:00",
+    "guncelleme": "2026-09-07T14:38:57.744616+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6555,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6556,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "4e36d918e324",
+      "baslik": "Felaket anında şehri koruyacak: Kıyı şeridine 680 bin ağaç diktiler",
+      "ozet": "Felaket anında şehri koruyacak: Kıyı şeridine 680 bin ağaç diktiler",
+      "url": "https://www.sozcu.com.tr/felaket-aninda-sehri-koruyacak-kiyi-seridine-680-bin-agac-diktiler-p356138",
+      "tarih": "2026-09-07T14:16:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e0fda523b586",
+      "baslik": "BM: İklim Eylemine ve Temiz Havaya Yatırılacak Her 1 Dolar 15 Kat Getiri Sağlayabilir",
+      "ozet": "Yeni bir çalışmaya göre, belirlenen önlemlerin hemen ve tamamen uygulamaya konması durumunda 2050’ye kadar hava kirliliğiyle ilişkili toplam 144 milyon erken ölüm ve yüz milyonlarca kronik hastalık vakası önlenebilir. BM Çevre Programı’nın (UNEP) İklim ve Temiz Hava Koalisyonu (C",
+      "url": "https://www.iklimhaber.org/bm-iklim-eylemine-ve-temiz-havaya-yatirilacak-her-1-dolar-15-kat-getiri-saglayabilir/",
+      "tarih": "2026-09-07T09:00:45+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "993bf9e12487",
+      "baslik": "Rahimdeki Bebeklerden Yaşlılara: Kömür Türkiye’nin Sağlığını Bozuyor",
+      "ozet": "Yeni bir çalışmada Türkiye’de elektrik üretimi için kömür yakılmasının en büyük sera gazı emisyonu kaynağı olduğu vurgulanırken, kömür bağımlılığının ise rahimdeki bebeklerden yaşlılara kadar tüm toplum sağlığını olumsuz etkilediği belirtildi.  Greenpeace Türkiye, uluslararası ve",
+      "url": "https://www.iklimhaber.org/rahimdeki-bebeklerden-yaslilara-komur-turkiyenin-sagligini-bozuyor/",
+      "tarih": "2026-09-07T08:15:05+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1a3ddf01cad9",
       "baslik": "Piyango kazanma ihtimalinin en yüksek olduğu şehir: Bu ilçedekiler tek tek zengin oluyor",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-22T12:22:37+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4e5f82eee511",
-      "baslik": "Bursa Gürsu’da maden projesi tartışması: Orman Bölge Müdürlüğü’nden açıklama - Evrensel.net",
-      "ozet": "Bursa Gürsu’da maden projesi tartışması: Orman Bölge Müdürlüğü’nden açıklama Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVRRVUtXZ19uLXh4cUFUd05LNl82aXdBQW5fVFZueTB5Q3hFUEplTGxRaDh3cGpRSGllTDRvQklvdkxob2N5bVNGX1FsbkYwbENTOXFxblZJSkNlZVpzU21Gek9qX2RrQjhleHBvS1gwUWNtZnYwZ2FoR3VJLWdXSzg5TkhKeUN2ZVdnVFNMY2lWOGpscl9lanUtcnF3Z1p4Zml6UmNiRzNXd3VYbzVnM1p3?oc=5",
-      "tarih": "2026-08-22T12:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "223c5d89093b",
-      "baslik": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
-      "ozet": "SON DAKİKA.... Giresun'da helikopter düştü iddiası: Bölgeye ekipler sevk edildi",
-      "url": "https://www.sozcu.com.tr/giresun-da-elektrik-dagitim-helikopteri-dustu-p351720",
-      "tarih": "2026-08-22T11:59:23+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "310212c41615",
-      "baslik": "O otelin çevre ihlali cezasız kalmadı: 1 milyon 678 bin TL ödeyecek - Haberimiz Var",
-      "ozet": "O otelin çevre ihlali cezasız kalmadı: 1 milyon 678 bin TL ödeyecek Haberimiz Var",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnNYR0NwaC1xbEZHNmNBMjc5TTdhaWpBZ09WQjdMQkFvSUY3cFRrVUR3eG10NlhJbjgyNXR0WkUyaGlWRlQ1UVJpaFJvV1Z5WC1rdFpLQlQyRndqd1ZHSlVxSDF6enBXUzBTVkN2RkhvOWp5TFNkeWZkc2RkMDMzRjJBWEVHMTQ3eFBOWm5xcWh1Tm15SjV1N0Z3dkEwUjhTR2Q1UmlB?oc=5",
-      "tarih": "2026-08-22T08:33:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
@@ -93780,6 +93780,20 @@
       "ozet": "Bağımsız Maden-İş: ‘Verilen sözler tutulmadı, pazartesi Ankara’dayız’ Cumhuriyet",
       "lat": 39.8104,
       "lng": 32.818,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-2a29e6120788",
+      "baslik": "Eskişehir Büyükşehir Belediye Başkanı Ünlüce açıkladı: Sarıcakaya'da yapılması planlanan maden ocağı projesi iptal edildi - Cumhuriyet",
+      "konum": "Eskişehir",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "07.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeHhnbnR6VVJxYjFwZEVBYnJNWmtOdm5aN3Q3UzU0RWllRnNZdEZMRjlDdFpzLTRrZS1MZ3dIby1SMThiZ3FPVjBaY0VHZllGNC11Ny04bFRDazFnZmYtTmpvamp3X3lveGUxVld2WE05UGRYM0JudFNiV1RwZzhmR2xyeDIyMDFQa3pTOFZ0RWpWdzhNdWQ3NEEwNVBqLTM1R3V0WTNfRHJYY1JwUGVwRFhvc2ZYbzE4WTJ2UkZRSE5jN1djWFFuXzZBUldpX1JIcEhRZExvRElFSzdrUkw4QkdMdTJraGlfeG5iaEplR1RtNmhBSk5pbi1n?oc=5",
+      "ozet": "Eskişehir Büyükşehir Belediye Başkanı Ünlüce açıkladı: Sarıcakaya'da yapılması planlanan maden ocağı projesi iptal edildi Cumhuriyet",
+      "lat": 39.813,
+      "lng": 30.5572,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
