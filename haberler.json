@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-07T14:38:57.744616+00:00",
+    "guncelleme": "2026-09-07T18:56:44.625032+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6556,
+    "harita_kayit_sayisi": 6557,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "1f81c827bee9",
+      "baslik": "Tuzla Meclisi'nde AKP'ye geçen Eren Ali Bingöl'e sert tepki: Özür borcunuz var",
+      "ozet": "Tuzla Meclisi'nde AKP'ye geçen Eren Ali Bingöl'e sert tepki: Özür borcunuz var",
+      "url": "https://www.sozcu.com.tr/tuzla-belediyesi-meclis-tartisma-p356167",
+      "tarih": "2026-09-07T17:54:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f2c534bdb44a",
+      "baslik": "Denizin dibinde unutulan 121 bin ton boru parçalanmaya başladı",
+      "ozet": "Denizin dibinde unutulan 121 bin ton boru parçalanmaya başladı",
+      "url": "https://www.sozcu.com.tr/denizin-dibinde-unutulan-121-bin-ton-boru-parcalanmaya-basladi-p356154",
+      "tarih": "2026-09-07T16:20:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "4e36d918e324",
       "baslik": "Felaket anında şehri koruyacak: Kıyı şeridine 680 bin ağaç diktiler",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-08-22T17:41:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3b630d9006c1",
-      "baslik": "Galatasaray ayrılığı resmen duyurdu: Avrupa derken Süper Lig'de kaldı",
-      "ozet": "Galatasaray ayrılığı resmen duyurdu: Avrupa derken Süper Lig'de kaldı",
-      "url": "https://www.sozcu.com.tr/galatasaray-ayriligi-resmen-duyurdu-avrupa-derken-super-lig-de-kaldi-p351766",
-      "tarih": "2026-08-22T16:07:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "829ad7c44750",
-      "baslik": "Ayaküstü transfer teklifine Erdoğan'ın memleketinden yanıt",
-      "ozet": "Ayaküstü transfer teklifine Erdoğan'ın memleketinden yanıt",
-      "url": "https://www.sozcu.com.tr/ayakustu-transfer-teklifine-erdogan-in-memleketinden-yanit-p351736",
-      "tarih": "2026-08-22T12:22:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -93794,6 +93794,20 @@
       "ozet": "Eskişehir Büyükşehir Belediye Başkanı Ünlüce açıkladı: Sarıcakaya'da yapılması planlanan maden ocağı projesi iptal edildi Cumhuriyet",
       "lat": 39.813,
       "lng": 30.5572,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-1f81c827bee9",
+      "baslik": "Tuzla Meclisi'nde AKP'ye geçen Eren Ali Bingöl'e sert tepki: Özür borcunuz var",
+      "konum": "Bingöl",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "07.09.2026",
+      "url": "https://www.sozcu.com.tr/tuzla-belediyesi-meclis-tartisma-p356167",
+      "ozet": "Tuzla Meclisi'nde AKP'ye geçen Eren Ali Bingöl'e sert tepki: Özür borcunuz var",
+      "lat": 38.9524,
+      "lng": 40.5116,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
