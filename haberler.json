@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-08T07:38:27.508747+00:00",
+    "guncelleme": "2026-09-08T13:12:31.848816+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6558,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "c7a512ab2e9a",
+      "baslik": "Petrolden Çıkış Sancılı Olabilir",
+      "ozet": "Uzmanlara göre petrolden küresel çıkışın ivmelenmesiyle beraber, kamu hizmetlerini finanse etmek için petrol gelirlerine bağımlı olan ülkeler bundan fazlasıyla etkilenebilir, mali krizlere dolayısıyla da çatışmalara ve göçe neden olabilir. Bu durumdan en çok etkilenecek ülkelere ",
+      "url": "https://www.iklimhaber.org/petrolden-cikis-sancili-olabilir/",
+      "tarih": "2026-09-08T09:53:45+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "958ab9f31dcb",
+      "baslik": "COP31’e Dair Anlaşma ve Kararlar Resmi Gazete’de",
+      "ozet": "Türkiye’nin imzaladığı 4 milletlerarası anlaşma Resmi Gazete’de yayımlanırken, kararlar arasında Türkiye’nin ev sahipliği yapacağı COP31 ve bu kapsamda verilere ilişkin mutabakat zaptı da yer aldı. Türkiye’nin imzaladığı 4 milletlerarası anlaşma, Cumhurbaşkanı Tayyip Erdoğan tara",
+      "url": "https://www.iklimhaber.org/cop31e-dair-anlasma-ve-kararlar-resmi-gazetede/",
+      "tarih": "2026-09-08T08:19:00+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "6375df868900",
       "baslik": "Petrol yükselişe geçti",
@@ -1987,26 +2007,6 @@
       "ozet": "2 bin 400 kurbağayı doğaya bıraktıklarına pişman oldular",
       "url": "https://www.sozcu.com.tr/2-bin-400-kurbagayi-dogaya-biraktiklarina-pisman-oldular-p351979",
       "tarih": "2026-08-23T14:27:31+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3a7d4e2d1677",
-      "baslik": "Yok olmak üzere olan ormanın imdadına arılar yetişti",
-      "ozet": "Yok olmak üzere olan ormanın imdadına arılar yetişti",
-      "url": "https://www.sozcu.com.tr/yok-olmak-uzere-olan-ormanin-imdadina-arilar-yetisti-p351975",
-      "tarih": "2026-08-23T14:11:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "89fc083dae4c",
-      "baslik": "Vergi ve ceza borçları olanlar dikkat: Başvuru için son 8 gün",
-      "ozet": "Vergi ve ceza borçları olanlar dikkat: Başvuru için son 8 gün",
-      "url": "https://www.sozcu.com.tr/vergi-ve-ceza-borclari-olanlar-dikkat-basvuru-icin-son-8-gun-p351954",
-      "tarih": "2026-08-23T12:12:28+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
