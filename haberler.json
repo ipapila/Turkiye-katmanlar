@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-08T13:12:31.848816+00:00",
+    "guncelleme": "2026-09-08T18:13:28.148224+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6558,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "87f1c148554c",
+      "baslik": "AKP'ye geçeceği iddia edilen Ahmet Aras'tan Erdoğan'a teşekkür",
+      "ozet": "AKP'ye geçeceği iddia edilen Ahmet Aras'tan Erdoğan'a teşekkür",
+      "url": "https://www.sozcu.com.tr/ahmet-aras-recep-tayyi-p-erdogan-a-tesekkur-p356464",
+      "tarih": "2026-09-08T18:00:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d2d445b6e03a",
+      "baslik": "198 adet çöp kamyonunu denizin dibine bıraktılar",
+      "ozet": "198 adet çöp kamyonunu denizin dibine bıraktılar",
+      "url": "https://www.sozcu.com.tr/198-adet-cop-kamyonunu-denizin-dibine-biraktilar-p356458",
+      "tarih": "2026-09-08T16:40:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "223dfd4c62ec",
+      "baslik": "Fenerbahçe'den ayrılır ayrılmaz teknik direktörüne rest çekti",
+      "ozet": "Fenerbahçe'den ayrılır ayrılmaz teknik direktörüne rest çekti",
+      "url": "https://www.sozcu.com.tr/fenerbahce-den-ayrilir-ayrilmaz-teknik-direktorune-rest-cekti-p356451",
+      "tarih": "2026-09-08T15:50:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b0bcb4532549",
+      "baslik": "Instagram'da yeni dolandırıcılık yöntemi: Hesabı bir anda kapandı, ardından gelen mesaj şaşkına çevirdi",
+      "ozet": "Instagram'da yeni dolandırıcılık yöntemi: Hesabı bir anda kapandı, ardından gelen mesaj şaşkına çevirdi",
+      "url": "https://www.sozcu.com.tr/instagram-da-yeni-dolandiricilik-yontemi-hesabi-bir-anda-kapandi-ardindan-gelen-mesaj-saskina-p356448",
+      "tarih": "2026-09-08T15:44:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "87836861ebd7",
+      "baslik": "Şiddetli yağışlar kapıda: Akdeniz’deki ısınmanın derinlere kadar ulaştığı ortaya çıktı",
+      "ozet": "Şiddetli yağışlar kapıda: Akdeniz’deki ısınmanın derinlere kadar ulaştığı ortaya çıktı",
+      "url": "https://www.sozcu.com.tr/siddetli-yagislar-kapida-akdeniz-deki-isinmanin-derinlere-kadar-ulastigi-ortaya-cikti-p356449",
+      "tarih": "2026-09-08T15:40:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c7a512ab2e9a",
       "baslik": "Petrolden Çıkış Sancılı Olabilir",
@@ -1957,56 +2007,6 @@
       "ozet": "Diyarbakır'da plazada yangın! Alevler binayı sardı",
       "url": "https://www.sozcu.com.tr/diyarbakir-plazasinda-yangin-panigi-mudahale-suruyor-p352037",
       "tarih": "2026-08-23T21:14:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1cb6303a790e",
-      "baslik": "Gençlerbirliği İzmir’de kazandı, liderliğe yükseldi",
-      "ozet": "Gençlerbirliği İzmir’de kazandı, liderliğe yükseldi",
-      "url": "https://www.sozcu.com.tr/genclerbirligi-izmir-de-kazandi-liderlige-yukseldi-p352033",
-      "tarih": "2026-08-23T20:50:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "11a1b80fa19c",
-      "baslik": "Metrelerce kalınlıktaki buzları nükleer güçle parçalayacaklar: 15 reaktör birden hazırlanıyor",
-      "ozet": "Metrelerce kalınlıktaki buzları nükleer güçle parçalayacaklar: 15 reaktör birden hazırlanıyor",
-      "url": "https://www.sozcu.com.tr/metrelerce-kalinliktaki-buzlari-nukleer-gucle-parcalayacaklar-15-reaktor-birden-hazirlaniyor-p352009",
-      "tarih": "2026-08-23T18:05:50+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "52ec0f4ddea0",
-      "baslik": "Trabzon’da Salah fırtınası! Bordo-mavililer sezonun ilk galibiyetini aldı",
-      "ozet": "Trabzon’da Salah fırtınası! Bordo-mavililer sezonun ilk galibiyetini aldı",
-      "url": "https://www.sozcu.com.tr/trabzon-da-salah-firtinasi-bordo-mavililer-sezonun-ilk-galibiyetini-aldi-p352007",
-      "tarih": "2026-08-23T18:04:31+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2931e7c8a4a9",
-      "baslik": "Dev yolcu uçağını denizin dibine batırdılar",
-      "ozet": "Dev yolcu uçağını denizin dibine batırdılar",
-      "url": "https://www.sozcu.com.tr/dev-yolcu-ucagini-denizin-dibine-batirdilar-p352000",
-      "tarih": "2026-08-23T16:46:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "23d05f4c76de",
-      "baslik": "2 bin 400 kurbağayı doğaya bıraktıklarına pişman oldular",
-      "ozet": "2 bin 400 kurbağayı doğaya bıraktıklarına pişman oldular",
-      "url": "https://www.sozcu.com.tr/2-bin-400-kurbagayi-dogaya-biraktiklarina-pisman-oldular-p351979",
-      "tarih": "2026-08-23T14:27:31+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
