@@ -119134,5 +119134,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/tuzla-belediyesi-meclis-tartisma-p356167"
+  },
+  {
+    "id": "tarayici-e1801ef21ff8",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim Krizinin Türkiye’deki Görünür Yüzü: Obruklar",
+    "il": "Konya",
+    "ilce": "",
+    "aciklama": "350 Türkiye gönüllüleri, Konya’da obruk bölgesinde “İklim Krizi Burada” pankartı açarak, iklim krizinin Türkiye’nin su kaynakları ve tarım alanları üzerindeki yıkıcı etkisine dikkat çekti. Gerçek Sebep: Fosil Yakıtlar kampanyası kapsamında 350 Türkiye, Konya Ovası’nda obrukların ",
+    "koordinatlar": {
+      "lat": 37.83,
+      "lng": 32.3826
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "08.09.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/iklim-krizinin-turkiyedeki-gorunur-yuzu-obruklar/"
   }
 ]
