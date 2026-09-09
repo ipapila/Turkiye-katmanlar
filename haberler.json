@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-09T07:43:31.417371+00:00",
+    "guncelleme": "2026-09-09T13:17:22.851399+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6558,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6559,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "8cdd1565cd19",
+      "baslik": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
+      "ozet": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
+      "url": "https://www.sozcu.com.tr/gurcistan-dan-kalkan-ucak-rize-aciklarina-acil-inis-yapti-p356680",
+      "tarih": "2026-09-09T12:27:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1384b4a65edc",
+      "baslik": "Küresel bankalar gümüşte ikiye bölündü: Bu iki rakamın kavgası veriliyor",
+      "ozet": "Küresel bankalar gümüşte ikiye bölündü: Bu iki rakamın kavgası veriliyor",
+      "url": "https://www.sozcu.com.tr/kuresel-bankalar-gumuste-ikiye-bolundu-bu-iki-rakamin-kavgasi-veriliyor-p356693",
+      "tarih": "2026-09-09T12:03:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a10ac604c747",
+      "baslik": "Davutoğlu Erdoğan'ı nikaha davet etti",
+      "ozet": "Davutoğlu Erdoğan'ı nikaha davet etti",
+      "url": "https://www.sozcu.com.tr/davutoglu-nikaha-erdogan-i-davet-etti-p356688",
+      "tarih": "2026-09-09T12:01:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dcf119a9f9d2",
+      "baslik": "Döviz, borsa ve gram altında nefesler tutuldu: Yarın 14.00'te dananın kuyruğu kopabilir",
+      "ozet": "Döviz, borsa ve gram altında nefesler tutuldu: Yarın 14.00'te dananın kuyruğu kopabilir",
+      "url": "https://www.sozcu.com.tr/doviz-borsa-ve-gram-altinda-nefesler-tutuldu-yarin-14-00-te-dananin-kuyrugu-kopabilir-p356683",
+      "tarih": "2026-09-09T11:23:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1859cba24973",
+      "baslik": "“İklim İşbirliğine Yönelik Koşullar Her Geçen Yıl Zorlaşıyor”",
+      "ozet": "COP29 Başkanı Babayev dünyanın Paris Anlaşması’nın kabulünden bu yana köklü bir şekilde değiştiğini belirtirken “Bir pandemi yaşadık; çatışmalara, enerji krizlerine, enflasyona ve artan jeopolitik rekabete tanıklık ettik. İklim iş birliğine yönelik koşulların 10 yıl öncesine kıya",
+      "url": "https://www.iklimhaber.org/iklim-isbirligine-yonelik-kosullar-her-gecen-yil-zorlasiyor/",
+      "tarih": "2026-09-09T09:26:15+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2d2edeadcd22",
+      "baslik": "Endonezya’daki Orman Yangını Emisyonları Ülkelerin 1 Haftada Neden Olduğu Emisyonları Aştı",
+      "ozet": "Yeni açıklanan veriler Endonezya’nın, Borneo ve Sumatra adalarındaki kurumuş orman ve turbalık alanlarda yayılan orman yangınları nedeniyle emisyonlarda büyük bir artışla karşı karşıya olduğunu ve karbondioksit oranlarının şu anda dünyadaki en yüksek seviyeye ulaştığını gösterdi.",
+      "url": "https://www.iklimhaber.org/endonezyadaki-orman-yangini-emisyonlari-ulkelerin-1-haftada-neden-oldugu-emisyonlari-asti/",
+      "tarih": "2026-09-09T08:31:51+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e1846db9445f",
+      "baslik": "COP31 Başkanı: “Geleceğin Kazananı Yeşil Dönüşüme Bugün Yatırım Yapanlar Olacak”",
+      "ozet": "COP31 Başkanı Murat Kurum, iklim finansmanının ekonomik ve sosyal kayıpları bugünden önleyen stratejik bir yatırım olarak ele alınması gerektiğini söylerken, Başkanlığın sunduğu İklim Uygulama Köprüsü sayesinde, ülkelerin, açıkladıkları ulusal iklim hedefleri ile bu hedeflerin uy",
+      "url": "https://www.iklimhaber.org/cop31-baskani-gelecegin-kazanani-yesil-donusume-bugun-yatirim-yapanlar-olacak/",
+      "tarih": "2026-09-09T07:42:50+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "46af15b5f1b5",
       "baslik": "COP31 Başkanı: “Geleceğin Kazanını Yeşil Dönüşüme Bugün Yatırım Yapanlar Olacak”",
@@ -1937,76 +2007,6 @@
       "ozet": "Almanya'nın tüm dengesi bozulacak: Euro bölgesinden çıkıp Schengen'den çekilecekler",
       "url": "https://www.sozcu.com.tr/almanya-nin-tum-dengesi-bozulacak-euro-bolgesinden-cikip-schengen-den-cekilecekler-p352191",
       "tarih": "2026-08-24T08:53:23+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8c3637d16c08",
-      "baslik": "Direnen Maden İşçileri: “Bakanlık Sözünü Tutmazsa Cumhurbaşkanlığı’na Yürüyeceğiz”",
-      "ozet": "Doruk Madencilik ve Eti Gümüş işçilerinin Bakanlık önündeki direnişi 14. gününde devam ediyor. Görüşme talepleri yanıtsız kalan maden işçileri, salı gününe kadar sözlerin tutulmaması durumunda çarşamba günü Cumhurbaşkanlığı’na yürüyeceklerini duyurdu. Enerji Bakanlığı önündeki ey",
-      "url": "https://www.iklimhaber.org/direnen-maden-iscileri-bakanlik-sozunu-tutmazsa-cumhurbaskanligina-yuruyecegiz/",
-      "tarih": "2026-08-24T08:15:16+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5de7e466c228",
-      "baslik": "Bursa’da yanan 100 hektarlık alanda maden ruhsatına köylülerden tepki: 'Kimden izin aldılar?' - Cumhuriyet",
-      "ozet": "Bursa’da yanan 100 hektarlık alanda maden ruhsatına köylülerden tepki: 'Kimden izin aldılar?' Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMDFpWVhHb29pajBldDAxWndNOGVwX0ZXU05aeExVQ0U4SVl0bjIxX2NkWmU5N2ppU1VfcUVOelAwUE1NTG5XYVh6Z01NNFRBeldGOElSSXF1SDYzWFJZSERuSWNnNGFTRjRvX2JmTmZraDB3eGZPWFFtd3RncWlPVTVIb0JNb1BCaGFxUGIxdmlKNFo5SVZJYnlQdncxbFI0YWR4WklLa3JDcFlzVUtDRkdyRTBBZzdzU0F6d3FhcVRpekxaZXpOU3M1Z2VUM0xQ?oc=5",
-      "tarih": "2026-08-24T07:38:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f3cc82d961fa",
-      "baslik": "Fahri trafik müfettişlerinin tutanaklarında ilk sırayı cep telefonu ihlali aldı - aa.com.tr",
-      "ozet": "Fahri trafik müfettişlerinin tutanaklarında ilk sırayı cep telefonu ihlali aldı aa.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOU16OW11cmctbmhHZWRjSFpSbjIzSi15Vl9tU1BtUUxydVl6RzFYQVdBZTVKb3c3VDduQ0NqUmVuMklMY0FzSnlEeVdQR0pBYXFIQy03eVYwMGt0TjdjTklTQzFJNGY5U1ljMDVVUGpEeFFwSEtMYVBtRDk3dGpwcGlEUE55YXBIaW1vX1lNNGVEU3NmcnZDWXR2cEx0Ymt5ampoYWY4RnZQaHo4WkdjUDRxZDRwU09tbFZN?oc=5",
-      "tarih": "2026-08-24T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2a139b059a41",
-      "baslik": "Fahri trafik müfettişlerinin tutanaklarında ilk sırayı cep telefonu ihlali aldı - Anadolu Ajansı",
-      "ozet": "Fahri trafik müfettişlerinin tutanaklarında ilk sırayı cep telefonu ihlali aldı Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOU16OW11cmctbmhHZWRjSFpSbjIzSi15Vl9tU1BtUUxydVl6RzFYQVdBZTVKb3c3VDduQ0NqUmVuMklMY0FzSnlEeVdQR0pBYXFIQy03eVYwMGt0TjdjTklTQzFJNGY5U1ljMDVVUGpEeFFwSEtMYVBtRDk3dGpwcGlEUE55YXBIaW1vX1lNNGVEU3NmcnZDWXR2cEx0Ymt5ampoYWY4RnZQaHo4WkdjUDRxZDRwU09tbFZN?oc=5",
-      "tarih": "2026-08-24T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "be834c8de45c",
-      "baslik": "IEA Başkanı Birol’dan Enerji Krizi Uyarısı: “Vazo Kırıldı”",
-      "ozet": "Enerji sektöründeki son gelişmeleri değerlendiren IEA Başkanı Fatih Birol, dünyanın karşılaştığı en büyük enerji krizinin yaşandığını belirterek, Hürmüz Boğazı için “Vazo kırıldı” ifadelerini kullandı. Kırılan bir vazonun yapıştırılarak eski haline getirilemeyeceğini vurgulayan B",
-      "url": "https://www.iklimhaber.org/iea-baskani-biroldan-enerji-krizi-uyarisi-vazo-kirildi/",
-      "tarih": "2026-08-24T06:51:15+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "42dcdd0eb5f1",
-      "baslik": "Bursa’da orman yangını: Ekipler müdahale ediyor - Cumhuriyet",
-      "ozet": "Bursa’da orman yangını: Ekipler müdahale ediyor Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1FqQjlmeUhrQ2I2Z255dUNzTDlQMXJrTWw5Q2JvUmNfX1NWV2YzTFNkLXFteGgyN2I2QkRnU05lT1BVV0FJSGpPa1lvYUxkSVFubzhkOGZZanFwNHltM1JwcU5NWE5DaEduNWt6MURyUXF2LVZQZGR6QmZuY2JYNFc5VGswQ0x6QlRqSUJCTkdORnYzVjlB?oc=5",
-      "tarih": "2026-08-24T06:51:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "303cf827c483",
-      "baslik": "Fikret Orman kıskandı: Güzide Duran defileye iki saat kala podyumdan çekildi",
-      "ozet": "Fikret Orman kıskandı: Güzide Duran defileye iki saat kala podyumdan çekildi",
-      "url": "https://www.sozcu.com.tr/fikret-orman-kiskandi-guzide-duran-defileye-iki-saat-kala-podyumdan-cekildi-p352102",
-      "tarih": "2026-08-24T06:02:31+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93822,6 +93822,20 @@
       "ozet": "350 Türkiye gönüllüleri, Konya’da obruk bölgesinde “İklim Krizi Burada” pankartı açarak, iklim krizinin Türkiye’nin su kaynakları ve tarım alanları üzerindeki yıkıcı etkisine dikkat çekti. Gerçek Sebep: Fosil Yakıtlar kampanyası kapsamında 350 Türkiye, Konya Ovası’nda obrukların ",
       "lat": 37.83,
       "lng": 32.3826,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-8cdd1565cd19",
+      "baslik": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
+      "konum": "Rize",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.09.2026",
+      "url": "https://www.sozcu.com.tr/gurcistan-dan-kalkan-ucak-rize-aciklarina-acil-inis-yapti-p356680",
+      "ozet": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
+      "lat": 41.0959,
+      "lng": 40.5906,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

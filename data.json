@@ -119153,5 +119153,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/iklim-krizinin-turkiyedeki-gorunur-yuzu-obruklar/"
+  },
+  {
+    "id": "tarayici-8cdd1565cd19",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
+    "il": "Rize",
+    "ilce": "",
+    "aciklama": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
+    "koordinatlar": {
+      "lat": 41.0959,
+      "lng": 40.5906
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.09.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/gurcistan-dan-kalkan-ucak-rize-aciklarina-acil-inis-yapti-p356680"
   }
 ]
