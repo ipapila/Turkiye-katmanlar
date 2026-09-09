@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-09T13:17:22.851399+00:00",
+    "guncelleme": "2026-09-09T18:13:18.393618+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6559,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6561,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "05cf30066314",
+      "baslik": "Erdoğan ile görüşen Mansur Yavaş'tan açıklama geldi",
+      "ozet": "Erdoğan ile görüşen Mansur Yavaş'tan açıklama geldi",
+      "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-mansur-yavas-ile-gorustu-p356775",
+      "tarih": "2026-09-09T17:53:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ebf5d2f4ab53",
+      "baslik": "Özgür Özel açıkladı: Mansur Yavaş Erdoğan ile ne görüştü?",
+      "ozet": "Özgür Özel açıkladı: Mansur Yavaş Erdoğan ile ne görüştü?",
+      "url": "https://www.sozcu.com.tr/ozgur-ozel-acikladi-mansur-yavas-erdogan-ile-ne-gorustu-p356778",
+      "tarih": "2026-09-09T17:52:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c924e4deee3c",
+      "baslik": "İzmir'de 3 ton midye kabuğu denizin dibine bırakıldı",
+      "ozet": "İzmir'de 3 ton midye kabuğu denizin dibine bırakıldı",
+      "url": "https://www.sozcu.com.tr/izmir-de-3-ton-midye-kabugu-denizin-dibine-birakildi-p356776",
+      "tarih": "2026-09-09T17:26:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "04599ccbd42c",
+      "baslik": "Son dakika...CHP’li İzmir Foça Belediye Başkanı Saniye Bora Fıçı AKP'ye geçiyor",
+      "ozet": "Son dakika...CHP’li İzmir Foça Belediye Başkanı Saniye Bora Fıçı AKP'ye geçiyor",
+      "url": "https://www.sozcu.com.tr/son-dakika-chp-li-izmir-foca-belediye-baskani-saniye-bora-fici-akp-ye-geciyor-p356766",
+      "tarih": "2026-09-09T17:03:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b8558eaf155b",
+      "baslik": "Terk edilmiş kömür madenlerinde çay yetiştirecekler",
+      "ozet": "Terk edilmiş kömür madenlerinde çay yetiştirecekler",
+      "url": "https://www.sozcu.com.tr/terk-edilmis-komur-madenlerinde-cay-yetistirecekler-p356768",
+      "tarih": "2026-09-09T16:25:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8cdd1565cd19",
       "baslik": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
@@ -1957,56 +2007,6 @@
       "ozet": "Bahçedeki yığının altından yüzlerce zehirli yılan çıktı",
       "url": "https://www.sozcu.com.tr/bahcedeki-yiginin-altindan-yuzlerce-zehirli-yilan-cikti-p352308",
       "tarih": "2026-08-24T14:27:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "89f89256faa8",
-      "baslik": "Süresi dolan kredi kartlarında temassız ödeme riski",
-      "ozet": "Süresi dolan kredi kartlarında temassız ödeme riski",
-      "url": "https://www.sozcu.com.tr/suresi-dolan-kredi-kartlarinda-temassiz-odeme-riski-p352287",
-      "tarih": "2026-08-24T13:01:58+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0abb458cf12f",
-      "baslik": "Deniz Baysal ve Barış Yurtçu’nun boşanmasında yeni gelişme",
-      "ozet": "Deniz Baysal ve Barış Yurtçu’nun boşanmasında yeni gelişme",
-      "url": "https://www.sozcu.com.tr/deniz-baysal-ve-baris-yurtcu-nun-bosanmasinda-yeni-gelisme-p352285",
-      "tarih": "2026-08-24T12:59:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d17d245213a6",
-      "baslik": "“Çin COP33’e Göz Kırpıyor” İddiası",
-      "ozet": "Bazı iddialara göre Çin, 2028 Birleşmiş Milletler (BM) iklim zirvesine ev sahipliği yapmak için adaylığı değerlendiriyor: BM iklim müzakerelerine ev sahipliği yapmanın, Çin açısından iklim alanındaki liderlik iddiasını güçlendirmek adına bir fırsat olabileceği düşünülüyor. Çin, k",
-      "url": "https://www.iklimhaber.org/cin-cop33e-goz-kirpiyor-iddiasi/",
-      "tarih": "2026-08-24T12:40:05+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "69942714f8d2",
-      "baslik": "Orman Yangınlarını Nasıl Azaltabiliriz?",
-      "ozet": "",
-      "url": "https://www.iklimhaber.org/orman-yanginlarini-nasil-azaltabiliriz/",
-      "tarih": "2026-08-24T09:38:18.638651+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "web"
-    },
-    {
-      "id": "e5e955c6157c",
-      "baslik": "Almanya'nın tüm dengesi bozulacak: Euro bölgesinden çıkıp Schengen'den çekilecekler",
-      "ozet": "Almanya'nın tüm dengesi bozulacak: Euro bölgesinden çıkıp Schengen'den çekilecekler",
-      "url": "https://www.sozcu.com.tr/almanya-nin-tum-dengesi-bozulacak-euro-bolgesinden-cikip-schengen-den-cekilecekler-p352191",
-      "tarih": "2026-08-24T08:53:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93836,6 +93836,34 @@
       "ozet": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
       "lat": 41.0959,
       "lng": 40.5906,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c924e4deee3c",
+      "baslik": "İzmir'de 3 ton midye kabuğu denizin dibine bırakıldı",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.09.2026",
+      "url": "https://www.sozcu.com.tr/izmir-de-3-ton-midye-kabugu-denizin-dibine-birakildi-p356776",
+      "ozet": "İzmir'de 3 ton midye kabuğu denizin dibine bırakıldı",
+      "lat": 38.3939,
+      "lng": 27.0466,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-04599ccbd42c",
+      "baslik": "Son dakika...CHP’li İzmir Foça Belediye Başkanı Saniye Bora Fıçı AKP'ye geçiyor",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.09.2026",
+      "url": "https://www.sozcu.com.tr/son-dakika-chp-li-izmir-foca-belediye-baskani-saniye-bora-fici-akp-ye-geciyor-p356766",
+      "ozet": "Son dakika...CHP’li İzmir Foça Belediye Başkanı Saniye Bora Fıçı AKP'ye geçiyor",
+      "lat": 38.3741,
+      "lng": 27.0475,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

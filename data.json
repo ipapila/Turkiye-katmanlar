@@ -119172,5 +119172,43 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/gurcistan-dan-kalkan-ucak-rize-aciklarina-acil-inis-yapti-p356680"
+  },
+  {
+    "id": "tarayici-c924e4deee3c",
+    "tip": "Ekolojik İhlal",
+    "ad": "İzmir'de 3 ton midye kabuğu denizin dibine bırakıldı",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir'de 3 ton midye kabuğu denizin dibine bırakıldı",
+    "koordinatlar": {
+      "lat": 38.3939,
+      "lng": 27.0466
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.09.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/izmir-de-3-ton-midye-kabugu-denizin-dibine-birakildi-p356776"
+  },
+  {
+    "id": "tarayici-04599ccbd42c",
+    "tip": "Ekolojik İhlal",
+    "ad": "Son dakika...CHP’li İzmir Foça Belediye Başkanı Saniye Bora Fıçı AKP'ye geçiyor",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Son dakika...CHP’li İzmir Foça Belediye Başkanı Saniye Bora Fıçı AKP'ye geçiyor",
+    "koordinatlar": {
+      "lat": 38.3741,
+      "lng": 27.0475
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.09.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/son-dakika-chp-li-izmir-foca-belediye-baskani-saniye-bora-fici-akp-ye-geciyor-p356766"
   }
 ]
