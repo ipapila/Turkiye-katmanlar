@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-10T17:58:58.386622+00:00",
+    "guncelleme": "2026-09-10T20:31:08.964109+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6563,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "af14e6906787",
+      "baslik": "Tarım müdürü makam odasında mermileri dizdi",
+      "ozet": "Tarım müdürü makam odasında mermileri dizdi",
+      "url": "https://www.sozcu.com.tr/ali-ihsan-soker-makam-odasindaki-goruntu-gundem-oldu-p357125",
+      "tarih": "2026-09-10T19:58:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "54ecf239604f",
+      "baslik": "CHP’den AKP’ye geçen Saniye Bora Fıçı’ya eski belediye başkanı ağabeyi ateş püskürdü",
+      "ozet": "CHP’den AKP’ye geçen Saniye Bora Fıçı’ya eski belediye başkanı ağabeyi ateş püskürdü",
+      "url": "https://www.sozcu.com.tr/chp-den-akp-ye-gecen-saniye-bora-fici-ya-eski-belediye-baskani-agabeyi-ates-puskurdu-p357111",
+      "tarih": "2026-09-10T18:39:33+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "9bad74bca288",
       "baslik": "Yavaş-Erdoğan görüşmesine ilişkin AKP'den açıklama",
@@ -1987,26 +2007,6 @@
       "ozet": "Kademeli emeklilik Erdoğan’ın masasında",
       "url": "https://www.sozcu.com.tr/kademeli-emeklilik-erdogan-in-masasinda-p352685",
       "tarih": "2026-08-26T02:30:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fc8f28d21a44",
-      "baslik": "Erdoğan’ın marketi zararda",
-      "ozet": "Erdoğan’ın marketi zararda",
-      "url": "https://www.sozcu.com.tr/erdogan-in-marketi-zararda-p352684",
-      "tarih": "2026-08-26T02:30:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8f31edc22ee6",
-      "baslik": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
-      "ozet": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
-      "url": "https://www.sozcu.com.tr/turkiye-akdeniz-oyunlari-nda-1000-madalya-zaferini-yasadi-p352645",
-      "tarih": "2026-08-25T18:46:03+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
