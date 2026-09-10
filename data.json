@@ -119229,5 +119229,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/dunyaca-unlu-restoran-turkiye-de-istanbul-da-tabagi-3-bin-liraya-istakoz-satacaklar-p356898"
+  },
+  {
+    "id": "tarayici-d257daed8cb5",
+    "tip": "Ekolojik İhlal",
+    "ad": "Hikmet Karaman'ın yeni adresi belli oldu",
+    "il": "Karaman",
+    "ilce": "",
+    "aciklama": "Hikmet Karaman'ın yeni adresi belli oldu",
+    "koordinatlar": {
+      "lat": 37.2453,
+      "lng": 33.1157
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "10.09.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/hikmet-karaman-in-yeni-adresi-belli-oldu-p357085"
   }
 ]

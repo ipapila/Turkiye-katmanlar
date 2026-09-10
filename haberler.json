@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-10T13:14:58.039724+00:00",
+    "guncelleme": "2026-09-10T17:58:58.386622+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6562,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6563,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "9bad74bca288",
+      "baslik": "Yavaş-Erdoğan görüşmesine ilişkin AKP'den açıklama",
+      "ozet": "Yavaş-Erdoğan görüşmesine ilişkin AKP'den açıklama",
+      "url": "https://www.sozcu.com.tr/akp-den-yavas-erdogan-gorusmesine-iliskin-bir-aciklama-p357087",
+      "tarih": "2026-09-10T16:06:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cc19d8d7a42a",
+      "baslik": "Denizin dibine 380 kilometrelik hat çektiler: Yeni hattın güzergahında Türkiye de var",
+      "ozet": "Denizin dibine 380 kilometrelik hat çektiler: Yeni hattın güzergahında Türkiye de var",
+      "url": "https://www.sozcu.com.tr/denizin-dibine-380-kilometrelik-hat-cektiler-yeni-hattin-guzergahinda-turkiye-de-var-p357088",
+      "tarih": "2026-09-10T15:48:33+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d64bacbe8578",
+      "baslik": "Karadeniz’de gemiye İHA saldırısı: 2 ölü",
+      "ozet": "Karadeniz’de gemiye İHA saldırısı: 2 ölü",
+      "url": "https://www.sozcu.com.tr/karadeniz-de-gemiye-iha-saldirisi-2-olu-p357083",
+      "tarih": "2026-09-10T15:31:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d257daed8cb5",
+      "baslik": "Hikmet Karaman'ın yeni adresi belli oldu",
+      "ozet": "Hikmet Karaman'ın yeni adresi belli oldu",
+      "url": "https://www.sozcu.com.tr/hikmet-karaman-in-yeni-adresi-belli-oldu-p357085",
+      "tarih": "2026-09-10T15:31:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0eecd3fb8f12",
       "baslik": "Telefonlara çıkmayan belediye başkanı Erdoğan'ın masasından çıktı",
@@ -1967,46 +2007,6 @@
       "ozet": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
       "url": "https://www.sozcu.com.tr/turkiye-akdeniz-oyunlari-nda-1000-madalya-zaferini-yasadi-p352645",
       "tarih": "2026-08-25T18:46:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3e50e9cf097d",
-      "baslik": "Taş ocağından doğa harikasına dönüşmüştü: Lüks tatil köyü için düğmeye bastılar",
-      "ozet": "Taş ocağından doğa harikasına dönüşmüştü: Lüks tatil köyü için düğmeye bastılar",
-      "url": "https://www.sozcu.com.tr/tas-ocagindan-doga-harikasina-donusmustu-luks-tatil-koyu-icin-dugmeye-bastilar-p352627",
-      "tarih": "2026-08-25T16:45:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "88a245f5853b",
-      "baslik": "170 bin ton radyoaktif atık suyu denize bıraktılar",
-      "ozet": "170 bin ton radyoaktif atık suyu denize bıraktılar",
-      "url": "https://www.sozcu.com.tr/170-bin-ton-radyoaktif-atik-suyu-denize-biraktilar-p352592",
-      "tarih": "2026-08-25T14:19:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7f1d2558d03a",
-      "baslik": "Okyanuslar Rekor Sıcaklık Seviyesine Ulaştı",
-      "ozet": "Güney Yarımküre, Kuzey Yarımküre’ye kıyasla daha geniş bir okyanus yüzeyine sahip olduğu için küresel deniz sıcaklığı ortalamaları üzerinde daha büyük bir etki yaratıyor. Okyanusların, doğal bir süreç olan El Nino hava olayının henüz zirve noktasına ulaşmadan bu seviyelerde ısınm",
-      "url": "https://www.iklimhaber.org/okyanuslar-rekor-sicaklik-seviyesine-ulasti/",
-      "tarih": "2026-08-25T07:37:35+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b618267b8633",
-      "baslik": "Emekli ve memur maaşlarında dengeler değişti: Yeni zamlar kuruşu kuruşuna hesaplandı",
-      "ozet": "Emekli ve memur maaşlarında dengeler değişti: Yeni zamlar kuruşu kuruşuna hesaplandı",
-      "url": "https://www.sozcu.com.tr/emekli-ve-memur-maaslarinda-dengeler-degisti-yeni-zamlar-kurusu-kurusuna-hesaplandi-p352471",
-      "tarih": "2026-08-25T07:35:59+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93878,6 +93878,20 @@
       "ozet": "Dünyaca ünlü restoran Türkiye'de: İstanbul'da tabağı 3 bin liraya ıstakoz satacaklar",
       "lat": 41.0167,
       "lng": 29.0577,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d257daed8cb5",
+      "baslik": "Hikmet Karaman'ın yeni adresi belli oldu",
+      "konum": "Karaman",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "10.09.2026",
+      "url": "https://www.sozcu.com.tr/hikmet-karaman-in-yeni-adresi-belli-oldu-p357085",
+      "ozet": "Hikmet Karaman'ın yeni adresi belli oldu",
+      "lat": 37.2453,
+      "lng": 33.1157,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
