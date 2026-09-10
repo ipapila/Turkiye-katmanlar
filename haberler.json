@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-10T07:42:46.727808+00:00",
+    "guncelleme": "2026-09-10T13:14:58.039724+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6562,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "0eecd3fb8f12",
+      "baslik": "Telefonlara çıkmayan belediye başkanı Erdoğan'ın masasından çıktı",
+      "ozet": "Telefonlara çıkmayan belediye başkanı Erdoğan'ın masasından çıktı",
+      "url": "https://www.sozcu.com.tr/telefonlara-cikmayan-belediye-baskani-erdogan-in-masasindan-cikti-p357036",
+      "tarih": "2026-09-10T13:09:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2cdab688a721",
+      "baslik": "Dünya genelinde WhatsApp hesapları gece yarısı ele geçirildi: Sinsi tehlike Türkiye’ye sıçradı",
+      "ozet": "Dünya genelinde WhatsApp hesapları gece yarısı ele geçirildi: Sinsi tehlike Türkiye’ye sıçradı",
+      "url": "https://www.sozcu.com.tr/dunya-genelinde-whatsapp-hesaplari-gece-yarisi-ele-gecirildi-sinsi-tehlike-turkiye-ye-sicradi-p357029",
+      "tarih": "2026-09-10T12:48:07+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f6f4da4c7cdf",
+      "baslik": "Ünlü teknik adamdan Sane için şok sözler: 'Ne yazık ki süresi doldu'",
+      "ozet": "Ünlü teknik adamdan Sane için şok sözler: 'Ne yazık ki süresi doldu'",
+      "url": "https://www.sozcu.com.tr/unlu-teknik-adamdan-sane-icin-sok-sozler-ne-yazik-ki-suresi-doldu-p356991",
+      "tarih": "2026-09-10T11:24:38+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b1ab42ec0ef4",
+      "baslik": "Borsa günün ilk yarısında geriledi -10 Eylül 2026",
+      "ozet": "Borsa günün ilk yarısında geriledi -10 Eylül 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-geriledi-10-eylul-2026-p356996",
+      "tarih": "2026-09-10T11:22:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4433e4bc8c26",
+      "baslik": "En Yüksek Kaldıraç Etkisini Temiz Elektriğe Geçiş Yapacak",
+      "ozet": "Bilim insanları yeni bir analizle, “olumlu eşik noktalarına” ulaşma ihtimali en yüksek iklim çözümlerini açıkladı. Bunlar arasında temiz elektriğe küresel geçiş öne çıkarken, bu geçişin hava kirliliğinin azaltılmasına, atıkların azaltılmasına ve okyanusların canlandırılmasına yar",
+      "url": "https://www.iklimhaber.org/en-yuksek-kaldirac-etkisini-temiz-elektrige-gecis-yapacak/",
+      "tarih": "2026-09-10T10:30:05+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b43a992331d2",
+      "baslik": "Yeni Rapor: Küresel Temiz Hidrojen Yatırımı 130 Milyar Doları Aştı",
+      "ozet": "Çalışma, taahhüt edilen 570’ten fazla projeye yapılan yatırımın yıllık yaklaşık 6,9 milyon metrik tonluk temiz hidrojen üretim kapasitesini desteklediğini bildirdi. Hidrojen Konseyi, hükümetlerin hidrojeni karbon emisyonlarını azaltmanın yanı sıra enerji güvenliği ve sanayi büyüm",
+      "url": "https://www.iklimhaber.org/yeni-rapor-kuresel-temiz-hidrojen-yatirimi-130-milyar-dolari-asti/",
+      "tarih": "2026-09-10T08:00:28+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c414261b8e01",
       "baslik": "Deniz koca şehri kıyıdan parça parça yutmaya başladı",
@@ -1947,66 +2007,6 @@
       "ozet": "Emekli ve memur maaşlarında dengeler değişti: Yeni zamlar kuruşu kuruşuna hesaplandı",
       "url": "https://www.sozcu.com.tr/emekli-ve-memur-maaslarinda-dengeler-degisti-yeni-zamlar-kurusu-kurusuna-hesaplandi-p352471",
       "tarih": "2026-08-25T07:35:59+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a6c8bd8c5a11",
-      "baslik": "Türkiye'de sadece tek bir ilçede yetişiyor: Suyu ekip tuz biçiyorlar",
-      "ozet": "Türkiye'de sadece tek bir ilçede yetişiyor: Suyu ekip tuz biçiyorlar",
-      "url": "https://www.sozcu.com.tr/turkiye-de-sadece-tek-bir-ilcede-yetisiyor-suyu-ekip-tuz-biciyorlar-p352469",
-      "tarih": "2026-08-25T07:32:59+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b1ba33396801",
-      "baslik": "Bağımsız Maden-İş Sendikası Cumhurbaşkanlığı’na yürüyecek: Madenciler başkentte direnişi sürdürüyor - Cumhuriyet",
-      "ozet": "Bağımsız Maden-İş Sendikası Cumhurbaşkanlığı’na yürüyecek: Madenciler başkentte direnişi sürdürüyor Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1FxOWUwbjJ5ZkVKbDZpaUR6T2lUTWc5bV9uSG9TWTlueW1kc1BUNmJwdEJOR1RUelQ2MnhnbWJtZlBVOVRSQ1VyTVBpX21fQkJpR05CWDljcXduNy1RQkRIbEtLYzNfbk1LUGJUS3J6c08yU2JrN2h2R3BEbTJwa2htNVlvaE9VN2RHLS1OamFpcEtNUDhGYlNHbnExUEpFU3RpWFhMWXdTaTZyRzBxTDZDdFJnbFdqN3l6dFBJTjBpUkxUTUN1TW9KUHhkSzdOZEZnZEJaQ0lFMndF?oc=5",
-      "tarih": "2026-08-25T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3b7d60240178",
-      "baslik": "Vatikan’dan 100 Milyon Euroluk Temiz Enerji Hamlesi",
-      "ozet": "Santralın iki yıl içinde faaliyete geçmesi ve 80 ila 90 megavat kapasiteye sahip olması bekleniyor. Bu kapasitenin, tesisi İtalya’daki en büyük tarım-güneş enerjisi santrallarından biri haline getireceği belirtiliyor. Vatikan’ın güneş enerjisi ile tarımsal üretimi bir araya getir",
-      "url": "https://www.iklimhaber.org/vatikandan-100-milyon-euroluk-temiz-enerji-hamlesi/",
-      "tarih": "2026-08-25T06:30:56+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b21f6c169b46",
-      "baslik": "Aşırı Sıcaklar Avrupa’da İlave 35 Binden Fazla Can Aldı",
-      "ozet": "Bu yaz Avrupa’nın çoğu bölgesini etkisi altına alan aşırı sıcak hava dalgalarının en az ilave 35 bin kişinin ölümüne neden olduğu tahmin ediliyor. Üstelik bu sayı kıtanın yalnızca yaklaşık olarak yarısından elde edilirken, Ağustos ayı sonu itibariyle gelecek verilerle aşırı sıcak",
-      "url": "https://www.iklimhaber.org/asiri-sicaklar-avrupada-ilave-35-binden-fazla-can-aldi/",
-      "tarih": "2026-08-25T06:30:47+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6dba45a253bd",
-      "baslik": "Denizin altına 60 bin tonluk 18 blok batırdılar: 1 saatlik yol 5 dakikaya indi",
-      "ozet": "Denizin altına 60 bin tonluk 18 blok batırdılar: 1 saatlik yol 5 dakikaya indi",
-      "url": "https://www.sozcu.com.tr/denizin-altina-60-bin-tonluk-18-blok-batirdilar-1-saatlik-yol-5-dakikaya-indi-p352434",
-      "tarih": "2026-08-25T06:07:57+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "87eb98ae6302",
-      "baslik": "Piyasaların gözü bu tarihte: Dolar, altın ve borsayı sarsan çifte tehdit!",
-      "ozet": "Piyasaların gözü bu tarihte: Dolar, altın ve borsayı sarsan çifte tehdit!",
-      "url": "https://www.sozcu.com.tr/piyasalarin-gozu-bu-tarihte-dolar-altin-ve-borsayi-sarsan-cifte-tehdit-p352432",
-      "tarih": "2026-08-25T06:05:27+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
