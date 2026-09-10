@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-09T18:13:18.393618+00:00",
+    "guncelleme": "2026-09-10T07:42:46.727808+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6561,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6562,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "c414261b8e01",
+      "baslik": "Deniz koca şehri kıyıdan parça parça yutmaya başladı",
+      "ozet": "Deniz koca şehri kıyıdan parça parça yutmaya başladı",
+      "url": "https://www.sozcu.com.tr/deniz-koca-sehri-kiyidan-parca-parca-yutmaya-basladi-p356918",
+      "tarih": "2026-09-10T07:23:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b15b6546f657",
+      "baslik": "Ağustos 2026 En Sıcak Ay Olarak Kayıtlara Geçti",
+      "ozet": "Dünya genelinde ortalama yüzey sıcaklığının 16,96 dereceye ulaştığı Ağustos 2026, kayıtlardaki en sıcak ay oldu. Avrupa Birliği’nin (AB) Copernicus İklim Değişikliği Servisi (C3S), Ağustos 2026 dönemine ilişkin küresel sıcaklık verilerini yayımladı. Verilere göre, ağustosta küres",
+      "url": "https://www.iklimhaber.org/agustos-2026-en-sicak-ay-olarak-kayitlara-gecti/",
+      "tarih": "2026-09-10T07:15:09+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4a4e733b8afb",
+      "baslik": "Dünyaca ünlü restoran Türkiye'de: İstanbul'da tabağı 3 bin liraya ıstakoz satacaklar",
+      "ozet": "Dünyaca ünlü restoran Türkiye'de: İstanbul'da tabağı 3 bin liraya ıstakoz satacaklar",
+      "url": "https://www.sozcu.com.tr/dunyaca-unlu-restoran-turkiye-de-istanbul-da-tabagi-3-bin-liraya-istakoz-satacaklar-p356898",
+      "tarih": "2026-09-10T06:56:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b603c950b217",
+      "baslik": "AB’nin Çevre Mevzuatında Sadeleştirme Çabaları Tepki Topluyor",
+      "ozet": "Avrupa Birliği mevcut mevzuatlarını sadeleştirmeyi amaçlamaya yönelik adımlar atmaya devam ederken, çevre ve sürdürülebilirlik alanında da bu sadeleştirilmeye gidiliyor. Çevre grupları da son olarak su kaynaklarının korunmasına yönelik mevzuat değişikliğinin aceleye getirildiğini",
+      "url": "https://www.iklimhaber.org/abnin-cevre-mevzuatinda-sadelestirme-cabalari-tepki-topluyor/",
+      "tarih": "2026-09-10T06:30:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1cae9d491d37",
+      "baslik": "Şampiyonlar Ligi performansıyla Süper Lig devlerini pişman etti",
+      "ozet": "Şampiyonlar Ligi performansıyla Süper Lig devlerini pişman etti",
+      "url": "https://www.sozcu.com.tr/sampiyonlar-ligi-performansiyla-super-lig-devlerini-pisman-etti-p356877",
+      "tarih": "2026-09-10T06:20:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "05cf30066314",
       "baslik": "Erdoğan ile görüşen Mansur Yavaş'tan açıklama geldi",
@@ -1957,56 +2007,6 @@
       "ozet": "Piyasaların gözü bu tarihte: Dolar, altın ve borsayı sarsan çifte tehdit!",
       "url": "https://www.sozcu.com.tr/piyasalarin-gozu-bu-tarihte-dolar-altin-ve-borsayi-sarsan-cifte-tehdit-p352432",
       "tarih": "2026-08-25T06:05:27+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "27e69321516d",
-      "baslik": "MTV, SGK ve vergi borcu olanlar dikkat: 7 gün içinde başvurmayan haklarını kaybedecek",
-      "ozet": "MTV, SGK ve vergi borcu olanlar dikkat: 7 gün içinde başvurmayan haklarını kaybedecek",
-      "url": "https://www.sozcu.com.tr/mtv-sgk-ve-vergi-borcu-olanlar-dikkat-7-gun-icinde-basvurmayan-haklarini-kaybedecek-p352430",
-      "tarih": "2026-08-25T06:03:28+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0d7961f8e642",
-      "baslik": "Zehirli alg çevre felaketine yol açtı: 4 tondan fazla balık bir anda öldü",
-      "ozet": "Zehirli alg çevre felaketine yol açtı: 4 tondan fazla balık bir anda öldü",
-      "url": "https://www.sozcu.com.tr/zehirli-alg-cevre-felaketine-yol-acti-4-tondan-fazla-balik-bir-anda-oldu-p352351",
-      "tarih": "2026-08-24T19:20:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a871fdbdc7c1",
-      "baslik": "Rafael Leao, Milan’a rest çekti! ‘Sadece Galatasaray’a giderim’",
-      "ozet": "Rafael Leao, Milan’a rest çekti! ‘Sadece Galatasaray’a giderim’",
-      "url": "https://www.sozcu.com.tr/rafael-leao-milan-a-rest-cekti-sadece-galatasaray-a-giderim-p352334",
-      "tarih": "2026-08-24T16:52:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0c3ab4d6eb94",
-      "baslik": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
-      "ozet": "SON DAKİKA | Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
-      "url": "https://www.sozcu.com.tr/son-dakika-veya-balikesir-ve-cevre-illerde-hissedilen-bir-deprem-meydana-geldi-p352293",
-      "tarih": "2026-08-24T14:40:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "be7174f8e4c5",
-      "baslik": "Bahçedeki yığının altından yüzlerce zehirli yılan çıktı",
-      "ozet": "Bahçedeki yığının altından yüzlerce zehirli yılan çıktı",
-      "url": "https://www.sozcu.com.tr/bahcedeki-yiginin-altindan-yuzlerce-zehirli-yilan-cikti-p352308",
-      "tarih": "2026-08-24T14:27:12+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93864,6 +93864,20 @@
       "ozet": "Son dakika...CHP’li İzmir Foça Belediye Başkanı Saniye Bora Fıçı AKP'ye geçiyor",
       "lat": 38.3741,
       "lng": 27.0475,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-4a4e733b8afb",
+      "baslik": "Dünyaca ünlü restoran Türkiye'de: İstanbul'da tabağı 3 bin liraya ıstakoz satacaklar",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "10.09.2026",
+      "url": "https://www.sozcu.com.tr/dunyaca-unlu-restoran-turkiye-de-istanbul-da-tabagi-3-bin-liraya-istakoz-satacaklar-p356898",
+      "ozet": "Dünyaca ünlü restoran Türkiye'de: İstanbul'da tabağı 3 bin liraya ıstakoz satacaklar",
+      "lat": 41.0167,
+      "lng": 29.0577,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

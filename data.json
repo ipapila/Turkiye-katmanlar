@@ -119210,5 +119210,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/son-dakika-chp-li-izmir-foca-belediye-baskani-saniye-bora-fici-akp-ye-geciyor-p356766"
+  },
+  {
+    "id": "tarayici-4a4e733b8afb",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dünyaca ünlü restoran Türkiye'de: İstanbul'da tabağı 3 bin liraya ıstakoz satacaklar",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Dünyaca ünlü restoran Türkiye'de: İstanbul'da tabağı 3 bin liraya ıstakoz satacaklar",
+    "koordinatlar": {
+      "lat": 41.0167,
+      "lng": 29.0577
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "10.09.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/dunyaca-unlu-restoran-turkiye-de-istanbul-da-tabagi-3-bin-liraya-istakoz-satacaklar-p356898"
   }
 ]
