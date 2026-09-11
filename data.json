@@ -119248,5 +119248,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/hikmet-karaman-in-yeni-adresi-belli-oldu-p357085"
+  },
+  {
+    "id": "tarayici-14cfb5bd8096",
+    "tip": "Ekolojik İhlal",
+    "ad": "Borsa İstanbul bir hisseyi işleme kapattı",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Borsa İstanbul bir hisseyi işleme kapattı",
+    "koordinatlar": {
+      "lat": 40.9434,
+      "lng": 29.0165
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "11.09.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/borsa-istanbul-bir-hisseyi-isleme-kapattigini-acikladi-p357223"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-10T20:31:08.964109+00:00",
+    "guncelleme": "2026-09-11T07:38:41.988530+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6563,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6564,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "12a7d9550dd2",
+      "baslik": "Kömür madenini suyla doldurup imkansızı başardılar",
+      "ozet": "Kömür madenini suyla doldurup imkansızı başardılar",
+      "url": "https://www.sozcu.com.tr/komur-madenini-suyla-doldurup-imkansizi-basardilar-p357256",
+      "tarih": "2026-09-11T07:33:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9de390e7a5a3",
+      "baslik": "Döviz ve borsa yatırımcıları bu habere kilitlendi!",
+      "ozet": "Döviz ve borsa yatırımcıları bu habere kilitlendi!",
+      "url": "https://www.sozcu.com.tr/doviz-ve-borsa-yatirimcilari-bu-habere-kilitlendi-p357241",
+      "tarih": "2026-09-11T07:07:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "14cfb5bd8096",
+      "baslik": "Borsa İstanbul bir hisseyi işleme kapattı",
+      "ozet": "Borsa İstanbul bir hisseyi işleme kapattı",
+      "url": "https://www.sozcu.com.tr/borsa-istanbul-bir-hisseyi-isleme-kapattigini-acikladi-p357223",
+      "tarih": "2026-09-11T06:47:59+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "af14e6906787",
       "baslik": "Tarım müdürü makam odasında mermileri dizdi",
@@ -1977,36 +2007,6 @@
       "ozet": "Küresel piyasalarda gözler ABD verileri ve Nvidia bilançosunda",
       "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-gozler-abd-verileri-ve-nvidia-bilancosunda-p352741",
       "tarih": "2026-08-26T06:15:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6d6f5b67a520",
-      "baslik": "Doğal gaz faturaları için karar verildi: 1 hafta içinde yapın çağrısı yapıldı",
-      "ozet": "Doğal gaz faturaları için karar verildi: 1 hafta içinde yapın çağrısı yapıldı",
-      "url": "https://www.sozcu.com.tr/dogal-gaz-faturalari-icin-karar-verildi-1-hafta-icinde-yapin-cagrisi-yapildi-p352732",
-      "tarih": "2026-08-26T05:54:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0630462a1d2c",
-      "baslik": "60 tanesini doğaya saldılar bir anda 200 milyonu buldu: Durdurulamaz felakete neden oldu",
-      "ozet": "60 tanesini doğaya saldılar bir anda 200 milyonu buldu: Durdurulamaz felakete neden oldu",
-      "url": "https://www.sozcu.com.tr/60-tanesini-dogaya-saldilar-bir-anda-200-milyonu-buldu-durdurulamaz-felakete-neden-oldu-p352726",
-      "tarih": "2026-08-26T05:47:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d4a4485e3006",
-      "baslik": "Kademeli emeklilik Erdoğan’ın masasında",
-      "ozet": "Kademeli emeklilik Erdoğan’ın masasında",
-      "url": "https://www.sozcu.com.tr/kademeli-emeklilik-erdogan-in-masasinda-p352685",
-      "tarih": "2026-08-26T02:30:06+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93892,6 +93892,20 @@
       "ozet": "Hikmet Karaman'ın yeni adresi belli oldu",
       "lat": 37.2453,
       "lng": 33.1157,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-14cfb5bd8096",
+      "baslik": "Borsa İstanbul bir hisseyi işleme kapattı",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "11.09.2026",
+      "url": "https://www.sozcu.com.tr/borsa-istanbul-bir-hisseyi-isleme-kapattigini-acikladi-p357223",
+      "ozet": "Borsa İstanbul bir hisseyi işleme kapattı",
+      "lat": 40.9434,
+      "lng": 29.0165,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
