@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-11T07:38:41.988530+00:00",
+    "guncelleme": "2026-09-11T13:08:44.453596+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6564,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "e5b8e4fa39ae",
+      "baslik": "Erdoğan'ın Mansur Yavaş’ı ağırlaması Gökçek'e mesaj",
+      "ozet": "Erdoğan'ın Mansur Yavaş’ı ağırlaması Gökçek'e mesaj",
+      "url": "https://www.sozcu.com.tr/erdogan-in-mansur-yavas-i-agirlamasi-bir-mesaj-p357363",
+      "tarih": "2026-09-11T12:58:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c79291e17753",
+      "baslik": "Kış hazırlıkları başladı: Evlerine poşet poşet doğal gaz taşıyorlar",
+      "ozet": "Kış hazırlıkları başladı: Evlerine poşet poşet doğal gaz taşıyorlar",
+      "url": "https://www.sozcu.com.tr/kis-hazirliklari-basladi-evlerine-poset-poset-dogal-gaz-tasiyorlar-p357355",
+      "tarih": "2026-09-11T12:28:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2c02c988a3c7",
+      "baslik": "Mağaza ve restoranlarda ödeme sistemi tamamen değişiyor",
+      "ozet": "Mağaza ve restoranlarda ödeme sistemi tamamen değişiyor",
+      "url": "https://www.sozcu.com.tr/magaza-ve-restoranlarda-odeme-sistemi-tamamen-degisiyor-p357347",
+      "tarih": "2026-09-11T12:09:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "13f9e360b727",
+      "baslik": "Yangında 2,5 milyon dolarlık villaları kül olmuştu: Kenan Doğulu ve Beren Saat’in yeni kararı şaşırttı",
+      "ozet": "Yangında 2,5 milyon dolarlık villaları kül olmuştu: Kenan Doğulu ve Beren Saat’in yeni kararı şaşırttı",
+      "url": "https://www.sozcu.com.tr/yanginda-2-5-milyon-dolarlik-villalari-kul-olmustu-kenan-dogulu-ve-beren-saat-in-yeni-karari-p357329",
+      "tarih": "2026-09-11T10:44:42+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1c073bbb5e99",
+      "baslik": "Hürmüz Krizi Nedeniyle Kömür Talebi Rekora Koşuyor",
+      "ozet": "IEA, gelecek yıl talebe ilişkin belirsizlik olduğunu, bunun Hürmüz Boğazı’ndan geçen gemi trafiğinin düzelip düzelmeyeceğine bağlı olacağını belirtti. Ajans, trafiğin düzelmesi halinde talebin 2027’de düşebileceğini, ancak boğazın LNG sevkiyatlarına büyük ölçüde kapalı kalmaya de",
+      "url": "https://www.iklimhaber.org/hurmuz-krizi-nedeniyle-komur-talebi-rekora-kosuyor/",
+      "tarih": "2026-09-11T09:12:28+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7619fbbc9954",
+      "baslik": "COP31’in Başarısı Neye Bağlı?",
+      "ozet": "Prof. Dr. Semra Cerit Mazlum COP31’in “iklim diplomasisi tarihinde kritik bir aşama olacağını” belirtirken, Dr. Ümit Şahin ise bu kritik COP’un başarısının, nereden bakıldığına göre değişebileceğine dikkat çekti. İklim Masası’nın, 9 Eylül Çarşamba günü düzenlediği “COP31’e Doğru:",
+      "url": "https://www.iklimhaber.org/cop31in-basarisi-neye-bagli/",
+      "tarih": "2026-09-11T08:47:37+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "12a7d9550dd2",
       "baslik": "Kömür madenini suyla doldurup imkansızı başardılar",
@@ -39,6 +99,16 @@
       "tarih": "2026-09-11T06:47:59+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "808f2a012409",
+      "baslik": "Tırmanan Sıcaklıklar İklim Risklerini Derinleştiriyor: Yaşlı Nüfus Tehdit Altında!",
+      "ozet": "Araştırmalar, küresel ısınmayla birlikte dayanılmaz sıcaklıkların çok daha büyük ölçeklerde ve daha uzun süreler boyunca yaşanacağını, bununla birlikte artan ısı maruziyetine bağlı iklim risklerinin de özellikle yaşlılarda tehlikeli boyuta ulaşabileceğini ortaya koyuyor. Bilim in",
+      "url": "https://www.iklimhaber.org/tirmanan-sicakliklar-iklim-risklerini-derinlestiriyor-yasli-nufus-tehdit-altinda/",
+      "tarih": "2026-09-11T06:30:31+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
       "kaynak_turu": "rss"
     },
     {
@@ -1937,76 +2007,6 @@
       "ozet": "İlahiyat profesörü Erdoğan'ın memleketine 'Gavur' dedi",
       "url": "https://www.sozcu.com.tr/ilahiyat-profesoru-erdogan-in-memleketine-gavur-dedi-p352808",
       "tarih": "2026-08-26T08:37:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a8ed2735811d",
-      "baslik": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada - bursatv.com.tr",
-      "ozet": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada bursatv.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVdpeVQtbW9zTDd2NFNWOGJWaUF1di1aT2N3YklienJuSThQcFZ3X3BZZUNYeGVHT2h5RnlfZ3B4cXpCLTU3ZmdzeDhUWHVmcjY4TXQwcTBzdlpjczlnMjR4NFRNZFpZTVVhMEYtS2QyVS1rTFgxcm1xdVdTd1ZZWl9XVU1uYzVabjFuN3Z30gGTAUFVX3lxTE1kMW9ubTdHMERHak9EZTdpYWFoWkRIMGJ4OWtkLVBOaGVXYnZCVE1MMlBWcy1rc241TXRBSk1yakJsZ2xEQnhkZGowREVBV1dVSmh6SmRWcmNmQUtTR09MUi1HRnRqRzNzQUgzY0ZRc1JrT2VqRFBfTjVWcFlYaWFTdG9FMlEzcHhnMVlyOWtqRW52cw?oc=5",
-      "tarih": "2026-08-26T08:21:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8433672a54a2",
-      "baslik": "Üzerinden ABD yükü kalkan Halkbank'ın hisseleri uçuşa geçti",
-      "ozet": "Üzerinden ABD yükü kalkan Halkbank'ın hisseleri uçuşa geçti",
-      "url": "https://www.sozcu.com.tr/halkbank-tan-kap-a-gece-yarisi-aciklama-geldi-hisse-ucusa-gecti-p352797",
-      "tarih": "2026-08-26T08:19:47+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c973ed4c5a14",
-      "baslik": "El Niño Etkisi: Mısır Fiyatları Üç Yılın Zirvesinde",
-      "ozet": "Jeopolitik riskler ve iklimsel faktörler emtia piyasasında arz endişelerine yol açıyor. Tarım grubu ürünlerde kayda değer yükselişler görülürken, sert fiyat artışlarının yaşandığı ürünlerden biri de mısır. El Niño’nun da etkisiyle mısırın kile başına fiyatı, uluslararası piyasala",
-      "url": "https://www.iklimhaber.org/el-nino-etkisi-misir-fiyatlari-uc-yilin-zirvesinde/",
-      "tarih": "2026-08-26T07:45:55+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8507a90459d1",
-      "baslik": "İklim İnkârcılığı Sözlüğü-9: “Yoksa Her şey Büyük Bir Sıfırlama mı?",
-      "ozet": "Küresel şirketlerin, zenginlerin ve devletlerin faaliyetleri insan kaynaklı iklim krizinde başrolde. Eğer ortada bir “sıfırlama” varsa da bunu kendi elleriyle, fosil yakıt kullanarak, doğanın sınırlı kaynaklarını sorumsuzca tüketerek yapıyorlar. Bilimsel verilerle kanıtlanan gerç",
-      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-9-yoksa-her-sey-buyuk-bir-sifirlama-mi/",
-      "tarih": "2026-08-26T07:21:17+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "12754677b9cb",
-      "baslik": "COP31’in Tematik Günleri Duyuruldu",
-      "ozet": "Programın en üst düzey bölümünü oluşturan Dünya Liderleri İklim Eylemi Zirvesi, konferansın üçüncü ve dördüncü gününde toplanacak. Zirvenin ilk günü Sıfır Atık temasıyla, ikinci günü ise Dayanıklı Şehirler ve Yapılı Çevre temasıyla eş zamanlı olarak gerçekleşecek. COP31 Başkanlığ",
-      "url": "https://www.iklimhaber.org/cop31in-tematik-gunleri-duyuruldu/",
-      "tarih": "2026-08-26T06:44:28+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "652e9ce6802d",
-      "baslik": "Yemek kartı kullananları ilgilendiren gelişme: Restoranlarda yeni dönem başlıyor",
-      "ozet": "Yemek kartı kullananları ilgilendiren gelişme: Restoranlarda yeni dönem başlıyor",
-      "url": "https://www.sozcu.com.tr/yemek-karti-kullananlari-ilgilendiren-gelisme-restoranlarda-yeni-donem-basliyor-p352747",
-      "tarih": "2026-08-26T06:29:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "722394fcf696",
-      "baslik": "Küresel piyasalarda gözler ABD verileri ve Nvidia bilançosunda",
-      "ozet": "Küresel piyasalarda gözler ABD verileri ve Nvidia bilançosunda",
-      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-gozler-abd-verileri-ve-nvidia-bilancosunda-p352741",
-      "tarih": "2026-08-26T06:15:36+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
