@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-11T13:08:44.453596+00:00",
+    "guncelleme": "2026-09-11T18:03:32.732798+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6564,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "272d477b3bb8",
+      "baslik": "Bitkisel içecek faciası: Can kaybı 30’a yükseldi",
+      "ozet": "Bitkisel içecek faciası: Can kaybı 30’a yükseldi",
+      "url": "https://www.sozcu.com.tr/bitkisel-icecek-faciasi-can-kaybi-30-a-yukseldi-p357421",
+      "tarih": "2026-09-11T17:52:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "09e3b4b69caa",
+      "baslik": "Kızıldeniz’de alarm: Stratejik ada artık Husilerin kontrolünde",
+      "ozet": "Kızıldeniz’de alarm: Stratejik ada artık Husilerin kontrolünde",
+      "url": "https://www.sozcu.com.tr/kizildeniz-de-alarm-stratejik-ada-artik-husilerin-kontrolunde-p357419",
+      "tarih": "2026-09-11T17:31:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f40a2453eae0",
+      "baslik": "Icardi'nin yeni adresi şaşkına çevirdi: Premier Lig'e gidiyor",
+      "ozet": "Icardi'nin yeni adresi şaşkına çevirdi: Premier Lig'e gidiyor",
+      "url": "https://www.sozcu.com.tr/icardi-nin-yeni-adresi-saskina-cevirdi-premier-lig-e-gidiyor-p357404",
+      "tarih": "2026-09-11T15:40:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e5b8e4fa39ae",
       "baslik": "Erdoğan'ın Mansur Yavaş’ı ağırlaması Gökçek'e mesaj",
@@ -1977,36 +2007,6 @@
       "ozet": "Ümit Özdağ'dan olay iddia: Erdoğan sonrası için AKP'de panik",
       "url": "https://www.sozcu.com.tr/umit-ozdag-dan-olay-iddia-erdogan-sonrasi-icin-akp-de-panik-p352857",
       "tarih": "2026-08-26T11:07:02+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "56ca30e05de0",
-      "baslik": "Denizin ortasındaki yatta 3 milyarder gizlice toplandı: Süper lüks yatta ne konuştular?",
-      "ozet": "Denizin ortasındaki yatta 3 milyarder gizlice toplandı: Süper lüks yatta ne konuştular?",
-      "url": "https://www.sozcu.com.tr/denizin-ortasindaki-yatta-3-milyarder-gizlice-toplandi-p352849",
-      "tarih": "2026-08-26T10:25:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0004de72adab",
-      "baslik": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
-      "ozet": "Melisa Döngel Rize'de çay topladı: Karadeniz'e aşığım",
-      "url": "https://www.sozcu.com.tr/melisa-dongel-rizede-cay-topladi-karadenize-asigim-p352829",
-      "tarih": "2026-08-26T09:17:25+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2e30ac5f9bd3",
-      "baslik": "İlahiyat profesörü Erdoğan'ın memleketine 'Gavur' dedi",
-      "ozet": "İlahiyat profesörü Erdoğan'ın memleketine 'Gavur' dedi",
-      "url": "https://www.sozcu.com.tr/ilahiyat-profesoru-erdogan-in-memleketine-gavur-dedi-p352808",
-      "tarih": "2026-08-26T08:37:36+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
