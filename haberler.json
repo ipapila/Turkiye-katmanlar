@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-12T17:34:51.260363+00:00",
+    "guncelleme": "2026-09-12T19:57:07.122588+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6564,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "c4f6779cc57c",
+      "baslik": "Cumhurbaşkanı Erdoğan’ın AKP’ye davet ettiği belediye başkanı YENİ Parti’ye katıldı",
+      "ozet": "Cumhurbaşkanı Erdoğan’ın AKP’ye davet ettiği belediye başkanı YENİ Parti’ye katıldı",
+      "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-in-akp-ye-davet-ettigi-belediye-baskani-yeni-parti-ye-katildi-p357631",
+      "tarih": "2026-09-12T19:47:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "df3eb04766bc",
       "baslik": "Davutoğlu'nun oğlunun nikahında dikkat çeken detay: Erdoğan yoktu, Özel ve Kılıçdaroğlu şahit oldu",
@@ -1997,16 +2007,6 @@
       "ozet": "2026 Dünya Kupası'nın genç yıldızı Manchester City'de: Servet döktüler",
       "url": "https://www.sozcu.com.tr/2026-dunya-kupasi-nin-genc-yildizi-manchester-city-de-servet-doktuler-p352906",
       "tarih": "2026-08-26T13:38:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ec213e3871b0",
-      "baslik": "Son dakika: AFAD duyurdu: Marmara Denizi'nde deprem",
-      "ozet": "Son dakika: AFAD duyurdu: Marmara Denizi'nde deprem",
-      "url": "https://www.sozcu.com.tr/son-dakika-marmara-denizi-nde-deprem-afad-ilk-verileri-acikladi-p352875",
-      "tarih": "2026-08-26T12:13:24+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
