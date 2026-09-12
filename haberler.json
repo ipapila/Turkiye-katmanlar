@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-12T12:32:59.294704+00:00",
+    "guncelleme": "2026-09-12T17:34:51.260363+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6564,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "df3eb04766bc",
+      "baslik": "Davutoğlu'nun oğlunun nikahında dikkat çeken detay: Erdoğan yoktu, Özel ve Kılıçdaroğlu şahit oldu",
+      "ozet": "Davutoğlu'nun oğlunun nikahında dikkat çeken detay: Erdoğan yoktu, Özel ve Kılıçdaroğlu şahit oldu",
+      "url": "https://www.sozcu.com.tr/ahmet-davutoglu-nun-oglu-nikahinda-dikkat-ceken-isimler-p357616",
+      "tarih": "2026-09-12T16:21:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "17a48e8103bb",
       "baslik": "Çin ülkedeki maden kokusunu aldı: Milyonlarda dolar parayı bölgeye akıtacak",
@@ -1997,16 +2007,6 @@
       "ozet": "Son dakika: AFAD duyurdu: Marmara Denizi'nde deprem",
       "url": "https://www.sozcu.com.tr/son-dakika-marmara-denizi-nde-deprem-afad-ilk-verileri-acikladi-p352875",
       "tarih": "2026-08-26T12:13:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7626cc049beb",
-      "baslik": "Böyle dehşet görülmedi: Nepal'de sel felaketinde dev dalga yüzlerce kişiyi yuttu",
-      "ozet": "Böyle dehşet görülmedi: Nepal'de sel felaketinde dev dalga yüzlerce kişiyi yuttu",
-      "url": "https://www.sozcu.com.tr/boyle-dehset-gorulmedi-nepal-de-sel-felaketinde-dev-dalga-yuzlerce-kisiyi-yuttu-p352864",
-      "tarih": "2026-08-26T12:02:42+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
