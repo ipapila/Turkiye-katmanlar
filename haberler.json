@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-11T18:03:32.732798+00:00",
+    "guncelleme": "2026-09-12T07:31:25.520421+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6564,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "1a8f6fa1da70",
+      "baslik": "Yandaş yazar Erdoğan’ın sözlerini tercüme etti",
+      "ozet": "Yandaş yazar Erdoğan’ın sözlerini tercüme etti",
+      "url": "https://www.sozcu.com.tr/yandas-yazar-erdogan-in-sozlerini-tercume-etti-p357488",
+      "tarih": "2026-09-12T06:24:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "272d477b3bb8",
       "baslik": "Bitkisel içecek faciası: Can kaybı 30’a yükseldi",
@@ -1997,16 +2007,6 @@
       "ozet": "Tapuda satış yapan ev sahibine o para iade edilecek: Yeni karar Resmi Gazete'de",
       "url": "https://www.sozcu.com.tr/tapuda-satis-yapan-ev-sahibine-o-para-iade-edilecek-yeni-karar-resmi-gazete-de-p352862",
       "tarih": "2026-08-26T11:36:58+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3bfa6e371d20",
-      "baslik": "Ümit Özdağ'dan olay iddia: Erdoğan sonrası için AKP'de panik",
-      "ozet": "Ümit Özdağ'dan olay iddia: Erdoğan sonrası için AKP'de panik",
-      "url": "https://www.sozcu.com.tr/umit-ozdag-dan-olay-iddia-erdogan-sonrasi-icin-akp-de-panik-p352857",
-      "tarih": "2026-08-26T11:07:02+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
