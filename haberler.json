@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-12T07:31:25.520421+00:00",
+    "guncelleme": "2026-09-12T12:32:59.294704+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6564,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "17a48e8103bb",
+      "baslik": "Çin ülkedeki maden kokusunu aldı: Milyonlarda dolar parayı bölgeye akıtacak",
+      "ozet": "Çin ülkedeki maden kokusunu aldı: Milyonlarda dolar parayı bölgeye akıtacak",
+      "url": "https://www.sozcu.com.tr/cin-ulkedeki-maden-kokusunu-aldi-milyonlarda-dolar-parayi-bolgeye-akitacak-p357565",
+      "tarih": "2026-09-12T10:03:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1a8f6fa1da70",
       "baslik": "Yandaş yazar Erdoğan’ın sözlerini tercüme etti",
@@ -1997,16 +2007,6 @@
       "ozet": "Böyle dehşet görülmedi: Nepal'de sel felaketinde dev dalga yüzlerce kişiyi yuttu",
       "url": "https://www.sozcu.com.tr/boyle-dehset-gorulmedi-nepal-de-sel-felaketinde-dev-dalga-yuzlerce-kisiyi-yuttu-p352864",
       "tarih": "2026-08-26T12:02:42+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "69972b6e2fa6",
-      "baslik": "Tapuda satış yapan ev sahibine o para iade edilecek: Yeni karar Resmi Gazete'de",
-      "ozet": "Tapuda satış yapan ev sahibine o para iade edilecek: Yeni karar Resmi Gazete'de",
-      "url": "https://www.sozcu.com.tr/tapuda-satis-yapan-ev-sahibine-o-para-iade-edilecek-yeni-karar-resmi-gazete-de-p352862",
-      "tarih": "2026-08-26T11:36:58+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
