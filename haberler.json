@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-13T13:34:06.463033+00:00",
+    "guncelleme": "2026-09-13T17:48:50.003378+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6564,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "881cc0d42742",
+      "baslik": "Göz çevresindeki sarı lekeler kalp krizinin belirtisi olabilir",
+      "ozet": "Göz çevresindeki sarı lekeler kalp krizinin belirtisi olabilir",
+      "url": "https://www.sozcu.com.tr/goz-cevresindeki-sari-lekeler-kalp-krizinin-belirtisi-olabilir-p357887",
+      "tarih": "2026-09-13T15:38:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "9a159d540ea5",
       "baslik": "Milli motosikletçi Deniz Öncü, rahatsızlığına rağmen çıktığı yarışta 20. oldu",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-08-27T07:26:29+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a4906e9461a3",
-      "baslik": "5 Haziran Dünya Çevre Gününe İlişkin Barolardan Ortak Açıklama... · Çevre ve Kent Hukuku Komisyonu - Diyarbakır Barosu",
-      "ozet": "5 Haziran Dünya Çevre Gününe İlişkin Barolardan Ortak Açıklama... · Çevre ve Kent Hukuku Komisyonu Diyarbakır Barosu",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX29Odjc0cUFROWowcUp1X3pVdHpRTG1QVVhiVUxwLS15YjdwMUdZSDJwMEJISUR0QlBTX2hDQU85OHRpZmdicU1jek1fbnVUQVpscmt0a3p1blZUbGxnZUQ3YjFDTmZ1cmpSREVldFhDbWNmeTBfaHJKOFQ5VVNQdFByVm43TlUxTGlrSnNLZzZUVVUtZ3RKbWlFN1RGVVdQX1ZyV2h6RUIxMVJKNjl5YXRMMms5RzJpWHo3WjJEQ2NaUzhXcTBKLVl0cW1VcWJlR1BTS05YdTZ5SWJuaEo4cWJHcjkzQQ?oc=5",
-      "tarih": "2026-08-26T19:24:47+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
