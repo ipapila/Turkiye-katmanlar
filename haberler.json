@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-13T07:52:09.689244+00:00",
+    "guncelleme": "2026-09-13T13:34:06.463033+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6564,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "9a159d540ea5",
+      "baslik": "Milli motosikletçi Deniz Öncü, rahatsızlığına rağmen çıktığı yarışta 20. oldu",
+      "ozet": "Milli motosikletçi Deniz Öncü, rahatsızlığına rağmen çıktığı yarışta 20. oldu",
+      "url": "https://www.sozcu.com.tr/milli-motosikletci-deniz-oncu-rahatsizligina-ragmen-ciktigi-yarista-20-oldu-p357853",
+      "tarih": "2026-09-13T13:25:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f741260e7254",
+      "baslik": "Erbakan Erdoğan’ın yaşına dikkat çekti: “Bir daha aday olmaması en uygun olanıdır”",
+      "ozet": "Erbakan Erdoğan’ın yaşına dikkat çekti: “Bir daha aday olmaması en uygun olanıdır”",
+      "url": "https://www.sozcu.com.tr/erbakan-erdogan-in-yasina-dikkat-cekti-bir-daha-aday-olmamasi-en-uygun-olanidir-p357851",
+      "tarih": "2026-09-13T13:14:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6d9c513893a6",
+      "baslik": "Yanıltıcı borsa paylaşımlarına ilişkin soruşturma başlatıldı",
+      "ozet": "Yanıltıcı borsa paylaşımlarına ilişkin soruşturma başlatıldı",
+      "url": "https://www.sozcu.com.tr/yaniltici-borsa-paylasimlarina-iliskin-sorusturma-baslatildi-p357812",
+      "tarih": "2026-09-13T11:24:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a132c7860d11",
       "baslik": "Fenomen Mika Can Raun’un sosyal medya hesaplarına erişim engeli",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-26T19:24:47+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "645e7cf828c2",
-      "baslik": "Haluk Levent'in Instagram hesabına erişim engeli getirildi",
-      "ozet": "Haluk Levent'in Instagram hesabına erişim engeli getirildi",
-      "url": "https://www.sozcu.com.tr/haluk-levent-instagram-hesabi-erisim-engeli-karari-p352955",
-      "tarih": "2026-08-26T18:34:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2839eca66bab",
-      "baslik": "Ölüdeniz’de feci kaza: Pilot ve Çinli turist hayatını kaybetti",
-      "ozet": "Ölüdeniz’de feci kaza: Pilot ve Çinli turist hayatını kaybetti",
-      "url": "https://www.sozcu.com.tr/oludeniz-de-feci-kaza-pilot-ve-cinli-turist-hayatini-kaybetti-p352942",
-      "tarih": "2026-08-26T16:47:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0382da5bd37c",
-      "baslik": "1.450 ton istiridye kabuğunu denize bıraktılar",
-      "ozet": "1.450 ton istiridye kabuğunu denize bıraktılar",
-      "url": "https://www.sozcu.com.tr/1-450-ton-istiridye-kabugunu-denize-biraktilar-p352941",
-      "tarih": "2026-08-26T16:42:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
