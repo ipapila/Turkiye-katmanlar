@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-12T19:57:07.122588+00:00",
+    "guncelleme": "2026-09-13T07:52:09.689244+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6564,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "a132c7860d11",
+      "baslik": "Fenomen Mika Can Raun’un sosyal medya hesaplarına erişim engeli",
+      "ozet": "Fenomen Mika Can Raun’un sosyal medya hesaplarına erişim engeli",
+      "url": "https://www.sozcu.com.tr/fenomen-mika-can-raun-un-sosyal-medya-hesaplarina-erisim-engeli-p357750",
+      "tarih": "2026-09-13T07:36:59+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "232c118a6b14",
+      "baslik": "Maç sonu röportajında Deniz Türüç'ü çılgına çeviren muamele",
+      "ozet": "Maç sonu röportajında Deniz Türüç'ü çılgına çeviren muamele",
+      "url": "https://www.sozcu.com.tr/mac-sonu-roportajinda-deniz-turuc-u-cilgina-ceviren-muamele-p357738",
+      "tarih": "2026-09-13T07:13:59+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c4f6779cc57c",
       "baslik": "Cumhurbaşkanı Erdoğan’ın AKP’ye davet ettiği belediye başkanı YENİ Parti’ye katıldı",
@@ -1987,26 +2007,6 @@
       "ozet": "1.450 ton istiridye kabuğunu denize bıraktılar",
       "url": "https://www.sozcu.com.tr/1-450-ton-istiridye-kabugunu-denize-biraktilar-p352941",
       "tarih": "2026-08-26T16:42:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f225dcac3bf2",
-      "baslik": "Şeytantepe belgeseline soruşturma: Narin Güran cinayetini konu alıyordu",
-      "ozet": "Şeytantepe belgeseline soruşturma: Narin Güran cinayetini konu alıyordu",
-      "url": "https://www.sozcu.com.tr/seytantepe-belgeseline-sorusturma-narin-guran-cinayetini-konu-aliyordu-p352931",
-      "tarih": "2026-08-26T15:43:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1f27e75e9642",
-      "baslik": "2026 Dünya Kupası'nın genç yıldızı Manchester City'de: Servet döktüler",
-      "ozet": "2026 Dünya Kupası'nın genç yıldızı Manchester City'de: Servet döktüler",
-      "url": "https://www.sozcu.com.tr/2026-dunya-kupasi-nin-genc-yildizi-manchester-city-de-servet-doktuler-p352906",
-      "tarih": "2026-08-26T13:38:03+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
