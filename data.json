@@ -119286,5 +119286,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/diyarbakir-da-bilal-erdogan-a-demirtas-sorusu-verdigi-yanit-gundem-oldu-p358206"
+  },
+  {
+    "id": "tarayici-384125f56d80",
+    "tip": "Ekolojik İhlal",
+    "ad": "CVK Madencilik'ten Bursa'daki yangınların ardından KAP açıklaması - Bloomberght",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "CVK Madencilik'ten Bursa'daki yangınların ardından KAP açıklaması Bloomberght",
+    "koordinatlar": {
+      "lat": 40.2046,
+      "lng": 29.1505
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "14.09.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDVJLUtXbnZqcF9rWW9yRmxsdnQ1dVlDNmF5MEpTaW56bWxmeGhXQ2dzWTFybmZ2ak1YRlgxRk8zRGYtM0VDNGlEcy10X1JiQ05EU0ljNi1iQUFSZDNhVEdWeWxEOEtJbHRaa00ycVZZWW5PWGVaWGdzMng2U1hwMmVfZktoWVMya3IwSW5fbTdfOW9nR28yMw?oc=5"
   }
 ]

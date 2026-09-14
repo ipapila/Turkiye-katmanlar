@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-14T15:31:44.175291+00:00",
+    "guncelleme": "2026-09-14T21:14:23.028742+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6565,
+    "harita_kayit_sayisi": 6566,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "287a5b4992dd",
+      "baslik": "Denizin ortasında dev proje: 307 tanesi yan yana duracak, 6 milyon eve elektrik sağlayacak",
+      "ozet": "Denizin ortasında dev proje: 307 tanesi yan yana duracak, 6 milyon eve elektrik sağlayacak",
+      "url": "https://www.sozcu.com.tr/denizin-ortasinda-dev-proje-307-tanesi-yan-yana-duracak-6-milyon-eve-elektrik-saglayacak-p358230",
+      "tarih": "2026-09-14T17:51:33+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c891f8f584ed",
       "baslik": "Diyarbakır'da Bilal Erdoğan'a Demirtaş sorusu! Verdiği yanıt gündem oldu",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-08-28T12:43:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d27da3157ad2",
-      "baslik": "Türkiye’nin “Çifte Risk” Haritası: 120 İlçe Sıcaklık ve Yoksulluk Tehdidi Altında",
-      "ozet": "Aşırı sıcak riski yalnızca termometrenin gösterdiği sıcaklığa değil, bu sıcaklıklardan korunma kapasitesine de bağlı. Türkiye’nin 973 ilçesini kapsayan yeni bir araştırmada, sıcak tehlikesi ile sosyoekonomik kırılganlığın kesiştiği ilçeler ilk kez haritalandırıldı. Çalışmaya göre",
-      "url": "https://www.iklimhaber.org/turkiyenin-cifte-risk-haritasi-120-ilce-sicaklik-ve-yoksulluk-tehdidi-altinda/",
-      "tarih": "2026-08-28T09:35:04+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -93920,6 +93920,20 @@
       "ozet": "Diyarbakır'da Bilal Erdoğan'a Demirtaş sorusu! Verdiği yanıt gündem oldu",
       "lat": 38.0151,
       "lng": 40.3472,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-384125f56d80",
+      "baslik": "CVK Madencilik'ten Bursa'daki yangınların ardından KAP açıklaması - Bloomberght",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "14.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDVJLUtXbnZqcF9rWW9yRmxsdnQ1dVlDNmF5MEpTaW56bWxmeGhXQ2dzWTFybmZ2ak1YRlgxRk8zRGYtM0VDNGlEcy10X1JiQ05EU0ljNi1iQUFSZDNhVEdWeWxEOEtJbHRaa00ycVZZWW5PWGVaWGdzMng2U1hwMmVfZktoWVMya3IwSW5fbTdfOW9nR28yMw?oc=5",
+      "ozet": "CVK Madencilik'ten Bursa'daki yangınların ardından KAP açıklaması Bloomberght",
+      "lat": 40.2046,
+      "lng": 29.1505,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
