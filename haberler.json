@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-14T08:24:16.589055+00:00",
+    "guncelleme": "2026-09-14T15:31:44.175291+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6564,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6565,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "c891f8f584ed",
+      "baslik": "Diyarbakır'da Bilal Erdoğan'a Demirtaş sorusu! Verdiği yanıt gündem oldu",
+      "ozet": "Diyarbakır'da Bilal Erdoğan'a Demirtaş sorusu! Verdiği yanıt gündem oldu",
+      "url": "https://www.sozcu.com.tr/diyarbakir-da-bilal-erdogan-a-demirtas-sorusu-verdigi-yanit-gundem-oldu-p358206",
+      "tarih": "2026-09-14T15:18:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "661f82465849",
+      "baslik": "Denizin dibine 276 kilometre boyunca kablo döşeyecekler",
+      "ozet": "Denizin dibine 276 kilometre boyunca kablo döşeyecekler",
+      "url": "https://www.sozcu.com.tr/denizin-dibine-276-kilometre-boyunca-kablo-doseyecekler-p358195",
+      "tarih": "2026-09-14T14:38:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "140d640b9f62",
+      "baslik": "Fed öncesi piyasa diken üstünde: Petrol yükseldi, altın ve gümüş düştü",
+      "ozet": "Fed öncesi piyasa diken üstünde: Petrol yükseldi, altın ve gümüş düştü",
+      "url": "https://www.sozcu.com.tr/fed-oncesi-piyasa-diken-ustunde-petrol-yukseldi-altin-ve-gumus-dustu-p358177",
+      "tarih": "2026-09-14T13:28:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "afef4a240f6b",
       "baslik": "Dünyaca ünlü maden suyu markaları yasaklı çıktı: Yıllarca doğal diye içtik",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-28T09:35:04+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9cfad93c5b2b",
-      "baslik": "El Niño Fosil Yakıtların Yakılmasıyla Daha da Şiddetleniyor",
-      "ozet": "Bu yılın ilerleyen dönemlerinde zirve yapması beklenen son El Niño’nun, hafızalardaki en güçlü El Niño olacağı tahmin ediliyor ve gayriresmî olarak “Godzilla” olarak adlandırılıyor. Yeni bir çalışmaya göre, gezegeni kasıp kavurması beklenen ve dünya genelindeki hava durumunu altü",
-      "url": "https://www.iklimhaber.org/el-nino-fosil-yakitlarin-yakilmasiyla-daha-da-siddetleniyor/",
-      "tarih": "2026-08-28T09:14:23+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8b2334145eeb",
-      "baslik": "ETS Türkiye’de Nasıl İşleyecek?",
-      "ozet": "Uzmanlar, Türkiye’nin ETS kapsamında sektör bazlı net sıfır yol haritaları hazırlayarak piyasa öngörülebilirliğini ve yatırımcı güvenini artırılabileceğini belirtiyor. Türkiye, 27 Ağustos 2026 itibarıyla ulusal Emisyon Ticaret Sistemi Yönetmeliğini (ETS) yayımlayarak iklim politi",
-      "url": "https://www.iklimhaber.org/ets-turkiyede-nasil-isleyecek/",
-      "tarih": "2026-08-28T08:19:32+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a9d9653e44b1",
-      "baslik": "Dünya finans devi uyardı: Küresel gıda tedarik krizi kapıda",
-      "ozet": "Dünya finans devi uyardı: Küresel gıda tedarik krizi kapıda",
-      "url": "https://www.sozcu.com.tr/dunya-finans-devi-uyardi-kuresel-gida-tedarik-krizi-kapida-p353288",
-      "tarih": "2026-08-27T20:25:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -93906,6 +93906,20 @@
       "ozet": "Borsa İstanbul bir hisseyi işleme kapattı",
       "lat": 40.9434,
       "lng": 29.0165,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c891f8f584ed",
+      "baslik": "Diyarbakır'da Bilal Erdoğan'a Demirtaş sorusu! Verdiği yanıt gündem oldu",
+      "konum": "Diyarbakır",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "14.09.2026",
+      "url": "https://www.sozcu.com.tr/diyarbakir-da-bilal-erdogan-a-demirtas-sorusu-verdigi-yanit-gundem-oldu-p358206",
+      "ozet": "Diyarbakır'da Bilal Erdoğan'a Demirtaş sorusu! Verdiği yanıt gündem oldu",
+      "lat": 38.0151,
+      "lng": 40.3472,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
