@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-14T21:14:23.028742+00:00",
+    "guncelleme": "2026-09-15T08:15:43.232500+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6566,
+    "harita_kayit_sayisi": 6567,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "fa9d400720d8",
+      "baslik": "ABD’den İklim Eylemine Bir Darbe Daha",
+      "ozet": "Trump yönetimi, kömür ve gaz santrallarındaki emisyon sınırlamalarını iptal ederek iklim kriziyle mücadelede kritik bir aracı ortadan kaldırdı. ABD’de kaydedilen en sıcak yazın hemen ardından Trump yönetimi, kömür ve gaz santrallarının gezegenimizi tehlikeli derecede ısıtan emisy",
+      "url": "https://www.iklimhaber.org/abdden-iklim-eylemine-bir-darbe-daha/",
+      "tarih": "2026-09-15T07:34:07+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fc5bfa23cc24",
+      "baslik": "134 Kurumdan Çağrı: “Türkiye Acilen Kömürden Çıkmalı!”",
+      "ozet": "134 kurum, Türkiye’ye iklim adaleti için başta kömür olmak üzere fosil yakıtları yerin altında bırakması çağrısında bulundu. Türkiye 9-20 Kasım tarihleri arasında COP31 iklim zirvesine ev sahipliği yapmaya hazırlanırken, Antalya’da bir araya gelen 134 kurumun temsilcileri ve gönü",
+      "url": "https://www.iklimhaber.org/134-kurumdan-cagri-turkiye-acilen-komurden-cikmali/",
+      "tarih": "2026-09-15T07:11:44+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "173ab44f33dd",
+      "baslik": "Küresel piyasalar alarm veriyor: ABD'de 2007’den bu yana ilk",
+      "ozet": "Küresel piyasalar alarm veriyor: ABD'de 2007’den bu yana ilk",
+      "url": "https://www.sozcu.com.tr/kuresel-piyasalar-alarm-veriyor-abd-de-2007-den-bu-yana-ilk-p358351",
+      "tarih": "2026-09-15T06:33:25+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "287a5b4992dd",
       "baslik": "Denizin ortasında dev proje: 307 tanesi yan yana duracak, 6 milyon eve elektrik sağlayacak",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-28T18:16:54+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "95980b453323",
-      "baslik": "Ordu’da 3 gün denize girme yasağı",
-      "ozet": "Ordu’da 3 gün denize girme yasağı",
-      "url": "https://www.sozcu.com.tr/ordu-da-3-gun-denize-girme-yasagi-p353534",
-      "tarih": "2026-08-28T14:16:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e63a9cf3fcb3",
-      "baslik": "AKP'den 'erken seçim' açıklaması: İşte Erdoğan'ın yeniden adaylık formülü",
-      "ozet": "AKP'den 'erken seçim' açıklaması: İşte Erdoğan'ın yeniden adaylık formülü",
-      "url": "https://www.sozcu.com.tr/akp-den-erken-secim-aciklamasi-iste-erdogan-in-yeniden-adaylik-formulu-p353499",
-      "tarih": "2026-08-28T12:56:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "22ad34ddd0cb",
-      "baslik": "Verilen sözler tutulmadı... Türkiye Maden-İş madencileri direnişi sürdürüyor - Cumhuriyet",
-      "ozet": "Verilen sözler tutulmadı... Türkiye Maden-İş madencileri direnişi sürdürüyor Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjRrS1ltelhncFYtaFNJMGJZTmJHNUVvZ0UzS01oV201R3JKU1N0UzNNRzA1aHpkQkNnQzk3T01tVzlMSG1Mbzh4QmJaNmFOMkxZQ2l2MlNHNWFhVTVHclpjdFEzaUFwenVnaUZnb3BGSGo0bXlhUlQweFBuTUttMFRMenRtLVA2SmczYzkyTUR0MnFPMk1GTllSVmZ1RHNIMWF5U3c3ek5YSElHUHlhUVFBQlFOUUF1cFdF?oc=5",
-      "tarih": "2026-08-28T12:43:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
@@ -93934,6 +93934,20 @@
       "ozet": "CVK Madencilik'ten Bursa'daki yangınların ardından KAP açıklaması Bloomberght",
       "lat": 40.2046,
       "lng": 29.1505,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-fc5bfa23cc24",
+      "baslik": "134 Kurumdan Çağrı: “Türkiye Acilen Kömürden Çıkmalı!”",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "15.09.2026",
+      "url": "https://www.iklimhaber.org/134-kurumdan-cagri-turkiye-acilen-komurden-cikmali/",
+      "ozet": "134 kurum, Türkiye’ye iklim adaleti için başta kömür olmak üzere fosil yakıtları yerin altında bırakması çağrısında bulundu. Türkiye 9-20 Kasım tarihleri arasında COP31 iklim zirvesine ev sahipliği yapmaya hazırlanırken, Antalya’da bir araya gelen 134 kurumun temsilcileri ve gönü",
+      "lat": 36.8583,
+      "lng": 30.8277,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

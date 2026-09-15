@@ -119305,5 +119305,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDVJLUtXbnZqcF9rWW9yRmxsdnQ1dVlDNmF5MEpTaW56bWxmeGhXQ2dzWTFybmZ2ak1YRlgxRk8zRGYtM0VDNGlEcy10X1JiQ05EU0ljNi1iQUFSZDNhVEdWeWxEOEtJbHRaa00ycVZZWW5PWGVaWGdzMng2U1hwMmVfZktoWVMya3IwSW5fbTdfOW9nR28yMw?oc=5"
+  },
+  {
+    "id": "tarayici-fc5bfa23cc24",
+    "tip": "Ekolojik İhlal",
+    "ad": "134 Kurumdan Çağrı: “Türkiye Acilen Kömürden Çıkmalı!”",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "134 kurum, Türkiye’ye iklim adaleti için başta kömür olmak üzere fosil yakıtları yerin altında bırakması çağrısında bulundu. Türkiye 9-20 Kasım tarihleri arasında COP31 iklim zirvesine ev sahipliği yapmaya hazırlanırken, Antalya’da bir araya gelen 134 kurumun temsilcileri ve gönü",
+    "koordinatlar": {
+      "lat": 36.8583,
+      "lng": 30.8277
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "15.09.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/134-kurumdan-cagri-turkiye-acilen-komurden-cikmali/"
   }
 ]
