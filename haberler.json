@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-15T08:15:43.232500+00:00",
+    "guncelleme": "2026-09-15T14:03:37.913514+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6567,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "a8de40b82c78",
+      "baslik": "Erdoğan'ın sözleri siyaset kulislerine bomba gibi düşmüştü: Spekülasyon artınca AKP'den 'Erken Seçim' açıklaması geldi",
+      "ozet": "Erdoğan'ın sözleri siyaset kulislerine bomba gibi düşmüştü: Spekülasyon artınca AKP'den 'Erken Seçim' açıklaması geldi",
+      "url": "https://www.sozcu.com.tr/erdogan-in-sozleri-siyaset-kulislerine-bomba-gibi-dusmustu-spekulasyon-artinca-akp-den-erken-secim-p358514",
+      "tarih": "2026-09-15T13:51:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "17c798b380b7",
+      "baslik": "Deniz Göktaş'ın cezaevinde birbirinden ünlü komşuları! Dışarıda yan yana bile gelmeyecek isimler...",
+      "ozet": "Deniz Göktaş'ın cezaevinde birbirinden ünlü komşuları! Dışarıda yan yana bile gelmeyecek isimler...",
+      "url": "https://www.sozcu.com.tr/deniz-goktas-in-cezaevindeki-birbirinden-unlu-komsulari-ortaya-cikti-p358511",
+      "tarih": "2026-09-15T13:48:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ae2d89f7e38d",
+      "baslik": "Sergen Yalçın'dan olay sözler: 'Madem yıldızdı neden Manchester City'ye gitmedi?'",
+      "ozet": "Sergen Yalçın'dan olay sözler: 'Madem yıldızdı neden Manchester City'ye gitmedi?'",
+      "url": "https://www.sozcu.com.tr/sergen-yalcindan-transfer-elestirisi-madem-yildizdi-neden-manchester-cityye-gitmedi-p358492",
+      "tarih": "2026-09-15T12:50:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ab5910998f3e",
+      "baslik": "İklim Geri Besleme Döngüleri Isınmayı Daha da Artıracak",
+      "ozet": "Yeni bir araştırma, küresel ısınma nedeniyle donmuş toprakların çözülmesi, orman yangınlarının artması ve sulak alanların ısınması gibi doğal kaynaklardan atmosfere salınan ve gezegeni ısıtan metan ile karbondioksit emisyonlarının iklim krizini daha da kötüleştireceğini ortaya ko",
+      "url": "https://www.iklimhaber.org/iklim-geri-besleme-donguleri-isinmayi-daha-da-artiracak/",
+      "tarih": "2026-09-15T09:05:02+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4c0086d22303",
+      "baslik": "Rüzgar ve Güneşin Elektrik Kurulu Gücündeki Payı 10 Yılda Katlanarak Büyüdü",
+      "ozet": "Güneş enerjisinin elektrik üretimindeki payı 2016-2026 döneminde 28 kat artışla %11,6’ya, rüzgarın payı 1,1 kat artışla %12,1’e yükseldi. AA’nın haberine göre, Enerji ve Tabii Kaynaklar Bakanlığının yaptığı açıklama, Türkiye’nin son dönemde güneş ve rüzgar enerjisi yatırımlarında",
+      "url": "https://www.iklimhaber.org/elektrik-kurulu-gucunde-ruzgar-ve-gunesin-payi-10-yilda-katlanarak-artti/",
+      "tarih": "2026-09-15T08:51:12+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "fa9d400720d8",
       "baslik": "ABD’den İklim Eylemine Bir Darbe Daha",
@@ -1957,56 +2007,6 @@
       "ozet": "Türkiye'nin en ilginç yürüyüş rotası: Denizin içinden yürüyerek karşı adaya geçiyorlar",
       "url": "https://www.sozcu.com.tr/turkiye-nin-en-ilginc-yuruyus-rotasi-denizin-icinden-yuruyerek-karsi-adaya-geciyorlar-p353689",
       "tarih": "2026-08-29T08:41:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e34a7ae07a3f",
-      "baslik": "Akdeniz'de sular yeniden ısındı: Yunan F-16'ları Türk İHA'sına karşı havalandı",
-      "ozet": "Akdeniz'de sular yeniden ısındı: Yunan F-16'ları Türk İHA'sına karşı havalandı",
-      "url": "https://www.sozcu.com.tr/akdeniz-de-sular-yeniden-isindi-yunan-f-16-lari-turk-iha-sina-karsi-havalandi-p353684",
-      "tarih": "2026-08-29T08:31:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aa02f19b99f3",
-      "baslik": "Eylül ayında 5 burç resmen sırtından vurulmuş gibi hissedecek",
-      "ozet": "Eylül ayında 5 burç resmen sırtından vurulmuş gibi hissedecek",
-      "url": "https://www.sozcu.com.tr/eylul-ayinda-5-burc-resmen-sirtindan-vurulmus-gibi-hissedecek-p353671",
-      "tarih": "2026-08-29T07:47:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fcd6f929725e",
-      "baslik": "Trump’ın Grönland sözleri gölgesinde İzlanda referanduma gidiyor",
-      "ozet": "Trump’ın Grönland sözleri gölgesinde İzlanda referanduma gidiyor",
-      "url": "https://www.sozcu.com.tr/trump-in-gronland-sozleri-golgesinde-izlanda-referanduma-gidiyor-p353582",
-      "tarih": "2026-08-28T20:30:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "81dbd935dc9d",
-      "baslik": "Vincent Aboubakar yeniden Türkiye'de! Yeni adresi resmen açıklandı",
-      "ozet": "Vincent Aboubakar yeniden Türkiye'de! Yeni adresi resmen açıklandı",
-      "url": "https://www.sozcu.com.tr/vincent-aboubakar-bodrum-fkda-11-yillik-sozlesme-imzalandi-p353577",
-      "tarih": "2026-08-28T19:33:44+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "58846edd3141",
-      "baslik": "Fenerbahçe yeni transferi resmen açıkladı! İmza töreni tarihi belli oldu",
-      "ozet": "Fenerbahçe yeni transferi resmen açıkladı! İmza töreni tarihi belli oldu",
-      "url": "https://www.sozcu.com.tr/fenerbahce-yeni-transferi-resmen-acikladi-imza-toreni-tarihi-belli-oldu-p353568",
-      "tarih": "2026-08-28T18:16:54+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
