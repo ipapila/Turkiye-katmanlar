@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-16T08:09:11.897076+00:00",
+    "guncelleme": "2026-09-16T13:56:50.325745+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6569,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6570,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "2e3aa4eeb605",
+      "baslik": "Cumhuriyet tarihinde bir ilk! Motorinin litresi 100 lirayı aşacak",
+      "ozet": "Cumhuriyet tarihinde bir ilk! Motorinin litresi 100 lirayı aşacak",
+      "url": "https://www.sozcu.com.tr/cumhuriyet-tarihinde-bir-ilk-motorinin-litresi-100-lirayi-asacak-p358852",
+      "tarih": "2026-09-16T13:26:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "95320d6f0e51",
+      "baslik": "İzmir'i ayağa kaldıran olay! '6 erkeğin cinsel saldırısına uğradım'",
+      "ozet": "İzmir'i ayağa kaldıran olay! '6 erkeğin cinsel saldırısına uğradım'",
+      "url": "https://www.sozcu.com.tr/izmir-i-ayaga-kaldiran-olay-6-erkegin-cinsel-saldirisina-ugrayip-darp-edildim-p358819",
+      "tarih": "2026-09-16T13:00:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "dee2df458a08",
       "baslik": "Altın düşerken maden hisseleri çakıldı: JPMorgan'dan 'Tarihi ucuzluk' uyarısı",
@@ -47,6 +67,16 @@
       "ozet": "Yeni bir çalışma, Türkiye’de ortalama bir kişinin, iklim değişikliği nedeniyle 2026 yazında fazladan 32 gün boyunca riskli sıcaklara maruz kaldığını ortaya koydu. Climate Central’ın yeni analizi, 2026 yazı boyunca bir buçuk milyardan fazla insanın, iklim değişikliği nedeniyle say",
       "url": "https://www.iklimhaber.org/iklim-krizi-turkiyeyi-kavurdu-2026-yazinda-fazladan-32-gun-riskli-sicak-gun-yasandi/",
       "tarih": "2026-09-16T06:51:39+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1d29ba4219f4",
+      "baslik": "El Nino Kaynaklı Kuraklık Panama Kanalını da Vurdu",
+      "ozet": "El Nino kaynaklı kuraklığın şiddetlenmesiyle Panama Kanalı’ndaki gemi trafiğinde yeni kısıtlamalar gündeme geliyor. Kanalda planlanan günlük geçiş sınırlamaları, dünyanın en önemli deniz taşımacılığı güzergâhlarından birindeki sıkışıklığı daha da artıracak gibi görünüyor. El Nino",
+      "url": "https://www.iklimhaber.org/el-nino-kaynakli-kuraklik-panama-kanalini-da-vurdu/",
+      "tarih": "2026-09-16T06:30:55+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -1977,36 +2007,6 @@
       "ozet": "Batan gemi neden alabora oldu? Korkunç şüphe",
       "url": "https://www.sozcu.com.tr/batan-gemi-neden-alabora-oldu-korkunc-suphe-p353948",
       "tarih": "2026-08-30T13:04:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c5d71f7ea7f0",
-      "baslik": "Denizde kaybolan 23 kişiye ulaşılamıyor!",
-      "ozet": "Denizde kaybolan 23 kişiye ulaşılamıyor!",
-      "url": "https://www.sozcu.com.tr/cok-kritik-dakikalar-70-e-yakin-yolcuya-ulasilamiyor-p353932",
-      "tarih": "2026-08-30T13:03:09+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4841eaaccd70",
-      "baslik": "Amrabat resmen Ajax'ta",
-      "ozet": "Amrabat resmen Ajax'ta",
-      "url": "https://www.sozcu.com.tr/amrabat-resmen-ajax-ta-p353947",
-      "tarih": "2026-08-30T12:31:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "504734fb21f3",
-      "baslik": "Leao’nun Galatasaray'a maliyeti ne kadar? Resmi açıklama geldi",
-      "ozet": "Leao’nun Galatasaray'a maliyeti ne kadar? Resmi açıklama geldi",
-      "url": "https://www.sozcu.com.tr/leao-nun-galatasaray-a-maliyeti-ne-kadar-resmi-aciklama-geldi-p353925",
-      "tarih": "2026-08-30T10:07:32+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93976,6 +93976,20 @@
       "ozet": "Çanakkale’de yeni bir ithal kömürlü termik santral için izin sürecinin başlamasının, Türkiye’nin COP31 ev sahipliği ve başkanlığı kapsamında ortaya koyduğu iklim hedefleriyle çeliştiğine dikkati çeken İklim Ağı, Türkiye’nin enerji dönüşümünü somutlaştırması ve dönüşümü önce evind",
       "lat": 40.1835,
       "lng": 26.5292,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-95320d6f0e51",
+      "baslik": "İzmir'i ayağa kaldıran olay! '6 erkeğin cinsel saldırısına uğradım'",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "16.09.2026",
+      "url": "https://www.sozcu.com.tr/izmir-i-ayaga-kaldiran-olay-6-erkegin-cinsel-saldirisina-ugrayip-darp-edildim-p358819",
+      "ozet": "İzmir'i ayağa kaldıran olay! '6 erkeğin cinsel saldırısına uğradım'",
+      "lat": 38.3612,
+      "lng": 27.1184,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

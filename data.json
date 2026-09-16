@@ -119362,5 +119362,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/iklim-agi-elektrifikasyonun-yolu-komurden-degil-komurden-adil-cikistan-geciyor/"
+  },
+  {
+    "id": "tarayici-95320d6f0e51",
+    "tip": "Ekolojik İhlal",
+    "ad": "İzmir'i ayağa kaldıran olay! '6 erkeğin cinsel saldırısına uğradım'",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir'i ayağa kaldıran olay! '6 erkeğin cinsel saldırısına uğradım'",
+    "koordinatlar": {
+      "lat": 38.3612,
+      "lng": 27.1184
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "16.09.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/izmir-i-ayaga-kaldiran-olay-6-erkegin-cinsel-saldirisina-ugrayip-darp-edildim-p358819"
   }
 ]
