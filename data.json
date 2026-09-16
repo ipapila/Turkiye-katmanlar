@@ -119324,5 +119324,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/134-kurumdan-cagri-turkiye-acilen-komurden-cikmali/"
+  },
+  {
+    "id": "tarayici-0d4410d4010b",
+    "tip": "Ekolojik İhlal",
+    "ad": "Giresun’da maden işgaline tepki çığ gibi büyüyor - Giresun Öncü Gazetesi",
+    "il": "Giresun",
+    "ilce": "",
+    "aciklama": "Giresun’da maden işgaline tepki çığ gibi büyüyor Giresun Öncü Gazetesi",
+    "koordinatlar": {
+      "lat": 40.957,
+      "lng": 38.2747
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "16.09.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX1ZMV3BrU0ZYNVMxLUNBaU04VmczZzF5MEY2dGpITUdCN2ZRdzc1ZFRhLWxwMWM0elZhSUUyZ2luVDB2aE5sM2ZYSmhZVDNldENFTTBqZlhOMDY4ZE9XQnRXMDdCdkRxWnpvcnhBTVJwYkp6XzdPY1ZuaFVOQ3k1X2EtLXY5bFJGYlpmWnJ1Z9IBlAFBVV95cUxPZ0tGbk54SVhjcUVRV3pWUUdpektyVTBYTzQxMWtySG9EMXlBVU9aX2tDMVR2dDZMOTFxZkQ4OG9KVV9maGVfY3FtWXpMbWU2QzBJdkJqbUozLW5hUF9HWFRndFdfSkpnSE1OYkdaenlCZjdsSUo1eC12emRhS3cwQVJIQ2JKUzF2MFZJTkxlS2UzQ1hI?oc=5"
+  },
+  {
+    "id": "tarayici-fd729abeceaa",
+    "tip": "Termik Reaktör",
+    "ad": "İklim Ağı: “Elektrifikasyonun Yolu Kömürden Değil, Kömürden Adil Çıkıştan Geçiyor”",
+    "il": "Çanakkale",
+    "ilce": "",
+    "aciklama": "Çanakkale’de yeni bir ithal kömürlü termik santral için izin sürecinin başlamasının, Türkiye’nin COP31 ev sahipliği ve başkanlığı kapsamında ortaya koyduğu iklim hedefleriyle çeliştiğine dikkati çeken İklim Ağı, Türkiye’nin enerji dönüşümünü somutlaştırması ve dönüşümü önce evind",
+    "koordinatlar": {
+      "lat": 40.1835,
+      "lng": 26.5292
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "16.09.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/iklim-agi-elektrifikasyonun-yolu-komurden-degil-komurden-adil-cikistan-geciyor/"
   }
 ]

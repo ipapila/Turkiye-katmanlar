@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-15T18:38:32.258533+00:00",
+    "guncelleme": "2026-09-16T08:09:11.897076+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6567,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6569,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "dee2df458a08",
+      "baslik": "Altın düşerken maden hisseleri çakıldı: JPMorgan'dan 'Tarihi ucuzluk' uyarısı",
+      "ozet": "Altın düşerken maden hisseleri çakıldı: JPMorgan'dan 'Tarihi ucuzluk' uyarısı",
+      "url": "https://www.sozcu.com.tr/altin-duserken-maden-hisseleri-cakildi-jpmorgandan-tarihi-ucuzluk-uyarisi-p358719",
+      "tarih": "2026-09-16T07:35:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "011d14fece65",
+      "baslik": "Danıştay’dan Önemli Karar: Büyük Sanayi Tesislerine Çevre Muafiyeti Yok",
+      "ozet": "Temiz Hava Hakkı Derneği’nin açtığı davada Danıştay, fosil yakıt kullanan büyük yakma tesislerinin kirlilik önleme standartlarından muaf tutulmasına olanak veren yönetmelik hükmünün yürütmesini durdurdu.  Ocak 2025’te yürürlüğe giren Endüstriyel Emisyonların Yönetimi Yönetmeliği,",
+      "url": "https://www.iklimhaber.org/danistaydan-onemli-karar-buyuk-sanayi-tesislerine-cevre-muafiyeti-yok/",
+      "tarih": "2026-09-16T07:30:33+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "11282fa477f1",
+      "baslik": "Borsa güne düşüşle başladı -16 Eylül 2026",
+      "ozet": "Borsa güne düşüşle başladı -16 Eylül 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-16-eylul-2026-p358701",
+      "tarih": "2026-09-16T07:03:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "591ec3df896c",
+      "baslik": "İklim Krizi Türkiye’yi Kavurdu: 2026 Yazında Fazladan 32 Gün Riskli Sıcak Gün Yaşandı",
+      "ozet": "Yeni bir çalışma, Türkiye’de ortalama bir kişinin, iklim değişikliği nedeniyle 2026 yazında fazladan 32 gün boyunca riskli sıcaklara maruz kaldığını ortaya koydu. Climate Central’ın yeni analizi, 2026 yazı boyunca bir buçuk milyardan fazla insanın, iklim değişikliği nedeniyle say",
+      "url": "https://www.iklimhaber.org/iklim-krizi-turkiyeyi-kavurdu-2026-yazinda-fazladan-32-gun-riskli-sicak-gun-yasandi/",
+      "tarih": "2026-09-16T06:51:39+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fd729abeceaa",
+      "baslik": "İklim Ağı: “Elektrifikasyonun Yolu Kömürden Değil, Kömürden Adil Çıkıştan Geçiyor”",
+      "ozet": "Çanakkale’de yeni bir ithal kömürlü termik santral için izin sürecinin başlamasının, Türkiye’nin COP31 ev sahipliği ve başkanlığı kapsamında ortaya koyduğu iklim hedefleriyle çeliştiğine dikkati çeken İklim Ağı, Türkiye’nin enerji dönüşümünü somutlaştırması ve dönüşümü önce evind",
+      "url": "https://www.iklimhaber.org/iklim-agi-elektrifikasyonun-yolu-komurden-degil-komurden-adil-cikistan-geciyor/",
+      "tarih": "2026-09-16T06:04:29+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5ff23662c4b2",
       "baslik": "Yemen cephesi alev alev! Husiler çatışma görüntülerini yayımladı",
@@ -139,6 +189,16 @@
       "tarih": "2026-09-14T17:51:33+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "356085ce0859",
+      "baslik": "Çevre ihlallerinin yönetimi ve ele alınmasının güçlendirilmesi. - Vietnam.vn",
+      "ozet": "Çevre ihlallerinin yönetimi ve ele alınmasının güçlendirilmesi. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFdpWUI3bG91OVZTbTNQdlp3aWR5cnROeW91cDBPZTlCVEQ1QkoxQTBrZWFaNkQ5YWZVZV93b1JuX1BiaS02aU5oSVZCM3BQYmJXOEpqRTNzY3NQR1JJb013WHZKcVctekpZWU1qemtHWHZGb3VvZUVOTk1GYmNHZHVzc1FNRmFD?oc=5",
+      "tarih": "2026-09-14T15:33:23+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1947,66 +2007,6 @@
       "ozet": "Leao’nun Galatasaray'a maliyeti ne kadar? Resmi açıklama geldi",
       "url": "https://www.sozcu.com.tr/leao-nun-galatasaray-a-maliyeti-ne-kadar-resmi-aciklama-geldi-p353925",
       "tarih": "2026-08-30T10:07:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b8d629ddeada",
-      "baslik": "Topuklu Efe Erdoğan'lı 30 Ağustos paylaşımıyla AKP'lilerin gönlünü fethetti",
-      "ozet": "Topuklu Efe Erdoğan'lı 30 Ağustos paylaşımıyla AKP'lilerin gönlünü fethetti",
-      "url": "https://www.sozcu.com.tr/topuklu-efe-erdogan-li-30-agustos-paylasimiyla-akp-lilerin-gonlunu-fethetti-p353901",
-      "tarih": "2026-08-30T08:25:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "255ee45761f5",
-      "baslik": "Devletin hesabından AKP propagandası: Paylaşım silindi, hesap kapatıldı",
-      "ozet": "Devletin hesabından AKP propagandası: Paylaşım silindi, hesap kapatıldı",
-      "url": "https://www.sozcu.com.tr/devletin-hesabindan-akp-propagandasi-paylasim-silindi-hesap-kapatildi-p353866",
-      "tarih": "2026-08-30T07:04:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "18385ebbaf0d",
-      "baslik": "Anketleri gören Erdoğan seçim planını değiştirdi",
-      "ozet": "Anketleri gören Erdoğan seçim planını değiştirdi",
-      "url": "https://www.sozcu.com.tr/anketleri-goren-erdogan-secim-planini-degistirdi-p353863",
-      "tarih": "2026-08-30T06:35:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "73e2c9be5b88",
-      "baslik": "Giresun’da 3 gün denize girme yasağı: Akıntıya kapılan İranlı boğuldu",
-      "ozet": "Giresun’da 3 gün denize girme yasağı: Akıntıya kapılan İranlı boğuldu",
-      "url": "https://www.sozcu.com.tr/giresun-da-3-gun-denize-girme-yasagi-akintiya-kapilan-iranli-boguldu-p353800",
-      "tarih": "2026-08-29T19:20:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7280fa445373",
-      "baslik": "Kıyıya gizemli konteyner vurdu: İnceleme başlatıldı",
-      "ozet": "Kıyıya gizemli konteyner vurdu: İnceleme başlatıldı",
-      "url": "https://www.sozcu.com.tr/kiyiya-gizemli-konteyner-vurdu-inceleme-baslatildi-p353772",
-      "tarih": "2026-08-29T15:20:21+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e355a2cf42e1",
-      "baslik": "Muğla Seydikemer'de çıkan yangın Kaş'a sıçradı",
-      "ozet": "Muğla Seydikemer'de çıkan yangın Kaş'a sıçradı",
-      "url": "https://www.sozcu.com.tr/mugla-seydikemer-de-cikan-yangin-kas-a-sicradi-p353766",
-      "tarih": "2026-08-29T15:08:30+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -93948,6 +93948,34 @@
       "ozet": "134 kurum, Türkiye’ye iklim adaleti için başta kömür olmak üzere fosil yakıtları yerin altında bırakması çağrısında bulundu. Türkiye 9-20 Kasım tarihleri arasında COP31 iklim zirvesine ev sahipliği yapmaya hazırlanırken, Antalya’da bir araya gelen 134 kurumun temsilcileri ve gönü",
       "lat": 36.8583,
       "lng": 30.8277,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0d4410d4010b",
+      "baslik": "Giresun’da maden işgaline tepki çığ gibi büyüyor - Giresun Öncü Gazetesi",
+      "konum": "Giresun",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "16.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX1ZMV3BrU0ZYNVMxLUNBaU04VmczZzF5MEY2dGpITUdCN2ZRdzc1ZFRhLWxwMWM0elZhSUUyZ2luVDB2aE5sM2ZYSmhZVDNldENFTTBqZlhOMDY4ZE9XQnRXMDdCdkRxWnpvcnhBTVJwYkp6XzdPY1ZuaFVOQ3k1X2EtLXY5bFJGYlpmWnJ1Z9IBlAFBVV95cUxPZ0tGbk54SVhjcUVRV3pWUUdpektyVTBYTzQxMWtySG9EMXlBVU9aX2tDMVR2dDZMOTFxZkQ4OG9KVV9maGVfY3FtWXpMbWU2QzBJdkJqbUozLW5hUF9HWFRndFdfSkpnSE1OYkdaenlCZjdsSUo1eC12emRhS3cwQVJIQ2JKUzF2MFZJTkxlS2UzQ1hI?oc=5",
+      "ozet": "Giresun’da maden işgaline tepki çığ gibi büyüyor Giresun Öncü Gazetesi",
+      "lat": 40.957,
+      "lng": 38.2747,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-fd729abeceaa",
+      "baslik": "İklim Ağı: “Elektrifikasyonun Yolu Kömürden Değil, Kömürden Adil Çıkıştan Geçiyor”",
+      "konum": "Çanakkale",
+      "kategori": "Termik Reaktör",
+      "siddet": "Takip Ediliyor",
+      "tarih": "16.09.2026",
+      "url": "https://www.iklimhaber.org/iklim-agi-elektrifikasyonun-yolu-komurden-degil-komurden-adil-cikistan-geciyor/",
+      "ozet": "Çanakkale’de yeni bir ithal kömürlü termik santral için izin sürecinin başlamasının, Türkiye’nin COP31 ev sahipliği ve başkanlığı kapsamında ortaya koyduğu iklim hedefleriyle çeliştiğine dikkati çeken İklim Ağı, Türkiye’nin enerji dönüşümünü somutlaştırması ve dönüşümü önce evind",
+      "lat": 40.1835,
+      "lng": 26.5292,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
