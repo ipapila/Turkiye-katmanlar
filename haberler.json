@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-16T18:35:31.853146+00:00",
+    "guncelleme": "2026-09-17T08:15:37.652788+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6570,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6572,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "9b9f5a806b19",
+      "baslik": "AB İklim Sigortası Planını Hayata Geçiriyor",
+      "ozet": "İklim sigortası ittifakı, grup sigortası veya yağış miktarları ile sıcaklıklar gibi önceden belirlenmiş eşikler aşıldığında ödemelerin otomatik olarak yapıldığı parametrik sigorta gibi riski azaltabilecek araçları tespit edecek ve teşvik edecek. Avrupa Birliği (AB) Komisyonu Başk",
+      "url": "https://www.iklimhaber.org/ab-iklim-sigortasi-planini-hayata-geciriyor/",
+      "tarih": "2026-09-17T07:44:44+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d5b4791a71d9",
+      "baslik": "Akbelen Çevresindeki Kamulaştırma Kararı Danıştay’da Görüldü - Turizm Gazetesi",
+      "ozet": "Akbelen Çevresindeki Kamulaştırma Kararı Danıştay’da Görüldü Turizm Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVlySVFWdjdvQ2RDbXJuWWxyQ1JGR1pUNUJEUUVjSUFwZlE2dHZMVU45cjQ5QmJMeHZTMkV4ZVNHOHFWeG9BU0ZucVo5SVZyT1lXMVo0X2NrUVFWUktVUS0ya1VZWk0yRXZ3M21IWjhzM19GS3U1SHhwbWtHQTFfMmZTT2xGdE12bXZDcnU1c2F0WUZrZE04a3dWRy1kTEpES1Z0eFh3?oc=5",
+      "tarih": "2026-09-17T07:31:49+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e17e20be9fd0",
+      "baslik": "Şehirlerin altına denizden su sızmaya başladı: Felaketin kapısı aralandı",
+      "ozet": "Şehirlerin altına denizden su sızmaya başladı: Felaketin kapısı aralandı",
+      "url": "https://www.sozcu.com.tr/sehirlerin-altina-denizden-su-sizmaya-basladi-felaketin-kapisi-aralandi-p359021",
+      "tarih": "2026-09-17T07:01:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c965f4a00b1b",
+      "baslik": "İklim İnkârcılığı Sözlüğü-12: “Bireylerden Karbon Ayak İzi Vergisi Alınacak”",
+      "ozet": "Ne İklim Kanunu’nda ne de Paris İklim Anlaşması’nda bu iddiaların yanından geçen bir satır bile olmamasına, resmi kanallardan birçok kez yapılan yalanlamalara rağmen bu inkârcı teoriler sosyal medyada halen kullanıma sokuluyor. İklim krizi üzerine yapılacak en basit araştırmada b",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-12-bireylerden-karbon-ayak-izi-vergisi-alinacak/",
+      "tarih": "2026-09-17T06:32:06+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b5984fc79fda",
+      "baslik": "Akbelen Duruşmasında Kritik Gelişme: Danıştay Savcısı’ndan “Kamu Yararı” Mütalaası",
+      "ozet": "Avukat İsmail Hakkı Atal,  Akbelen’deki “acele kamulaştırma” kararının iptali talebiyle açılan davada Danıştay Savcısı’nın söz konusu kararda “kamu yararı” yönünde mütalaa verdiğini aktardı. Akbelen Avukatı İsmail Hakkı Atal, Akbelen’deki 7 köyün sınırları içinde yer alan zeytinl",
+      "url": "https://www.iklimhaber.org/akbelen-durusmasinda-kritik-gelisme-danistay-savcisindan-kamu-yarari-mutalaasi/",
+      "tarih": "2026-09-17T06:11:48+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "2e3aa4eeb605",
       "baslik": "Cumhuriyet tarihinde bir ilk! Motorinin litresi 100 lirayı aşacak",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-08-31T06:44:12+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6164e1b777eb",
-      "baslik": "Beşiktaş'tan Hadziahmetovic kararı, resmen açıklandı",
-      "ozet": "Beşiktaş'tan Hadziahmetovic kararı, resmen açıklandı",
-      "url": "https://www.sozcu.com.tr/besiktas-tan-hadziahmetovic-karari-resmen-aciklandi-p353996",
-      "tarih": "2026-08-30T17:36:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c5dbe4d9d4da",
-      "baslik": "Karton bardakta çay kahve içenlere kötü haber: Her mililitresinde milyonlarcası çıktı",
-      "ozet": "Karton bardakta çay kahve içenlere kötü haber: Her mililitresinde milyonlarcası çıktı",
-      "url": "https://www.sozcu.com.tr/karton-bardakta-cay-kahve-icenlere-kotu-haber-her-mililitresinde-milyonlarcasi-cikti-p353988",
-      "tarih": "2026-08-30T16:40:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5373a1f69e4f",
-      "baslik": "Sergen Yalçın'ın yeni adresi belli oldu: Aynı isimle çalışacak",
-      "ozet": "Sergen Yalçın'ın yeni adresi belli oldu: Aynı isimle çalışacak",
-      "url": "https://www.sozcu.com.tr/sergen-yalcin-in-yeni-adresi-belli-oldu-ayni-isimle-calisacak-p353982",
-      "tarih": "2026-08-30T15:53:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4b77acb234d2",
-      "baslik": "714 metro vagonunu denizin dibine batırdılar",
-      "ozet": "714 metro vagonunu denizin dibine batırdılar",
-      "url": "https://www.sozcu.com.tr/714-metro-vagonunu-denizin-dibine-batirdilar-p353976",
-      "tarih": "2026-08-30T15:18:59+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "25105226517a",
-      "baslik": "Batan gemi neden alabora oldu? Korkunç şüphe",
-      "ozet": "Batan gemi neden alabora oldu? Korkunç şüphe",
-      "url": "https://www.sozcu.com.tr/batan-gemi-neden-alabora-oldu-korkunc-suphe-p353948",
-      "tarih": "2026-08-30T13:04:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -93990,6 +93990,34 @@
       "ozet": "İzmir'i ayağa kaldıran olay! '6 erkeğin cinsel saldırısına uğradım'",
       "lat": 38.3612,
       "lng": 27.1184,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-4484db0e191b",
+      "baslik": "Antalya'da yıldırımın neden olduğu yangın söndürüldü - Cumhuriyet",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "17.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUFsWjlmNnRTeUFtZ2RUaUQtN2pMTWk3TnpxcjVRcGxacDAyZHBLZW5VLWs2by1JMVhQYWVTZXdlOGNERGFmN3JWVjRyOGRueTdTWElSMmJlTi1yOHBwN245UlBfQUltak1nR0JURXBBLU1mQlVaVnNiQmtMUUt1ODBRVWdiQ3FtNWo0SmZJOXBkcXZXS1F4SEpRU3h6RzQ?oc=5",
+      "ozet": "Antalya'da yıldırımın neden olduğu yangın söndürüldü Cumhuriyet",
+      "lat": 36.8897,
+      "lng": 30.6297,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c5b41b933082",
+      "baslik": "CHP'li Adıgüzel'den maden projesiyle ilgili ÇED toplantısına tepki: 'Ünye'yi de Ordu'yu da Hilmi Güler'e ve onun ayak takımına teslim etmeyeceğiz' - Cumhuriyet",
+      "konum": "Ordu",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "17.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZzljR3g5Wk5yY3lPYWNlQ0tyeG5LeDJucjg0ekxOZTdyTkVWZUNOUEtkN0lyRXhOb01vZE5FVVRISEtFeDBKUVdLU1RsZWFoMmE2aWRNRThkUzBIaF9qNVA1LVRyTVZjQTdVSDA2TTZwbUhRTGdJbDRIdzFjVUQ3cTVpWVFRd1FJTWZKZUNvY003SGU0cXd4WFFlV2l2LWp5b1NGMlpBbktTNXFUZFBaRUN0RUJyZUt0V21aT0NMNWpJaUViSXJuN2pxblFXaDZ2NHFJRk9fSmNPcVB1ZkZtRzlRSXZ4NkxuaXdLSVJZUHhySHdaalpqdHZ4LTdKNWdUU1BCMm9teU0zVGRYa21MX3c3am85VmZI?oc=5",
+      "ozet": "CHP'li Adıgüzel'den maden projesiyle ilgili ÇED toplantısına tepki: 'Ünye'yi de Ordu'yu da Hilmi Güler'e ve onun ayak takımına teslim etmeyeceğiz' Cumhuriyet",
+      "lat": 40.8881,
+      "lng": 37.8634,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
