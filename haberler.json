@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-17T08:15:37.652788+00:00",
+    "guncelleme": "2026-09-17T14:00:25.418134+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6572,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "e0e037674f16",
+      "baslik": "Bakan Şimşek rakam verdi, hesap sil baştan yapıldı: Memur ve emekli zammında masada 4 oran var",
+      "ozet": "Bakan Şimşek rakam verdi, hesap sil baştan yapıldı: Memur ve emekli zammında masada 4 oran var",
+      "url": "https://www.sozcu.com.tr/bakan-simsek-rakam-verdi-hesap-sil-bastan-yapildi-memur-ve-emekli-zamminda-masada-4-oran-var-p359188",
+      "tarih": "2026-09-17T13:26:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "92b56c82fa88",
+      "baslik": "Stresin uğramıyor: Türkiye’nin en huzurlu ilçeleri belli oldu",
+      "ozet": "Stresin uğramıyor: Türkiye’nin en huzurlu ilçeleri belli oldu",
+      "url": "https://www.sozcu.com.tr/stresin-ugramiyor-turkiye-nin-en-huzurlu-ilceleri-belli-oldu-p359176",
+      "tarih": "2026-09-17T12:48:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "9b9f5a806b19",
       "baslik": "AB İklim Sigortası Planını Hayata Geçiriyor",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-08-31T07:17:41+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "775eb54ae656",
-      "baslik": "Borsa güne düşüşle başladı - 31 Ağustos 2026",
-      "ozet": "Borsa güne düşüşle başladı - 31 Ağustos 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-31-agustos-2026-p354119",
-      "tarih": "2026-08-31T07:15:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2199c04d3244",
-      "baslik": "Eskişehir'deki nadir toprak elementlerinin ekonomiye kazandırılması için acele kamulaştırma kararı - Anadolu Ajansı",
-      "ozet": "Eskişehir'deki nadir toprak elementlerinin ekonomiye kazandırılması için acele kamulaştırma kararı Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONDRfSUhOcHI3SUxhS1JsNmNHYzBtTmFfWjhWSUhzV2ZjWEQyUV9uQUcwbFRuZEFsNkRuUVRwcjNsbGtVekl6a3JoYnNUVkQwVXlPbVU0aWt3TjZQc2NHYi02N2hfZ0c0WnV4dzlQM2xZdm5xd0dJRUpoQzB6bDU1eTZWbjFmTnM3UmJnUkwxb0NrNXZWQS1PSkNkNUZteXN3Z0pEOXJCWTVMVENleTJzZlZsanJqSEl2WUZoWmF5eVNYWWFVanl0X19VZm9zUEFXXy15SFNzeXBQdXVhbFdOb2E2X3nSAewBQVVfeXFMTXZNVFhSek9MQ1NzTlhXUWF5R3l0eUxVNldqTlhsRTFXNU90SkhaRzVSSTc0TC03b1dkUUJiRVkzSDlGSGNVSkZCWGRCVUZaZUNUcm9IdWswTHFDZ2lFUEk2WmZ1Nkh6R1dQT3hMNm9UYkFUZEdsc3RseV9nRlozWHJRa1BCQ0tYUl8xRW1OQXg0cENzSmJfc0RvQW5ybENEek9rRzZfei1td01TZ1NXOENoaEZ5aTdCb1AyUWdDUTFMVWRSZzRtRWJkZTRySTdiMlNsM1dHWndMUnRycXBlYzY3VW1mU2ExelhiZUM?oc=5",
-      "tarih": "2026-08-31T06:44:12+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
