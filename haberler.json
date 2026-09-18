@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-17T18:43:06.421275+00:00",
+    "guncelleme": "2026-09-18T07:49:46.895882+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6572,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6573,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "d70684001dce",
+      "baslik": "Borsa güne düşüşle başladı - 18 Eylül 2026",
+      "ozet": "Borsa güne düşüşle başladı - 18 Eylül 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-18-eylul-2026-p359390",
+      "tarih": "2026-09-18T07:45:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9bedee686581",
+      "baslik": "Italiano'nun bu karesi geceye damga vurdu: 4-1 kazandığı maçın sonundaki hareketi inanılmaz",
+      "ozet": "Italiano'nun bu karesi geceye damga vurdu: 4-1 kazandığı maçın sonundaki hareketi inanılmaz",
+      "url": "https://www.sozcu.com.tr/italiano-nun-bu-karesi-geceye-damga-vurdu-4-1-kazandigi-macin-sonundaki-hareketi-inanilmaz-p359351",
+      "tarih": "2026-09-18T06:21:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e9302aff73c8",
       "baslik": "Son dakika...Kayyum Gürsel Tekin'in görevi sona erdi",
@@ -99,6 +119,16 @@
       "tarih": "2026-09-17T06:11:48+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5c43f20a067c",
+      "baslik": "Akbelen'deki 'acele kamulaştırma' davası: Danıştay Savcısı'ndan 'kamu yararı' yönünde mütalaa - Cumhuriyet",
+      "ozet": "Akbelen'deki 'acele kamulaştırma' davası: Danıştay Savcısı'ndan 'kamu yararı' yönünde mütalaa Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbVNXZDJ2YXFla3Y4RVF0MDdPSEFiUTlwM0laMXY0YjZ5a3dVbkl2enZZOXF0Z3o4UTNPMnprWW95QVZXbFNwTGc1cnhNSGlFeDJyMFRfWG9PX090OHA4dFdnUV8yWGVoNlplc1ZyekE4S0RPekROeVdKQmozZ1Y1dFQ0LTJ5cm9FY1k0VWpMX3JWMDNWWEVSdjRjTXhMZUJyOTliNUpBa1hkMUxzU1JMeWFqOHF6NVdOem9XZjdpbXBLUGlSODlUZDc0QWhZRkE?oc=5",
+      "tarih": "2026-09-16T16:19:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-31T11:37:43+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2c1270bb6968",
-      "baslik": "Mercan Ağarması Sıklaştı: Resifler Kendini Yenileyemiyor",
-      "ozet": "Küresel Mercan Resifleri İzleme Ağı’nın, 120 ülke ve yaklaşık 37 bin resif bölgesinden elde edilen 40 yılı aşkın veriye dayanarak hazırladığı raporda, ağarma olayları arasındaki sürenin eskiden onlarca yılı bulduğu, ancak artık ortalama sadece beş veya altı yılda bir yaşandığı be",
-      "url": "https://www.iklimhaber.org/mercan-agarmasi-siklasti-resifler-kendini-yenileyemiyor/",
-      "tarih": "2026-08-31T09:17:30+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c234507ab96f",
-      "baslik": "Süper Lig’in çarkları: Büyük paralar, küçük hesaplar",
-      "ozet": "Süper Lig’in çarkları: Büyük paralar, küçük hesaplar",
-      "url": "https://www.sozcu.com.tr/super-lig-in-carklari-buyuk-paralar-kucuk-hesaplar-p354144",
-      "tarih": "2026-08-31T08:54:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2e3436bfec02",
-      "baslik": "Alabora olan geminin kaptanı kendini böyle savundu",
-      "ozet": "Alabora olan geminin kaptanı kendini böyle savundu",
-      "url": "https://www.sozcu.com.tr/alabora-olan-geminin-kaptani-kendini-boyle-savundu-p354146",
-      "tarih": "2026-08-31T08:52:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -94018,6 +94018,20 @@
       "ozet": "CHP'li Adıgüzel'den maden projesiyle ilgili ÇED toplantısına tepki: 'Ünye'yi de Ordu'yu da Hilmi Güler'e ve onun ayak takımına teslim etmeyeceğiz' Cumhuriyet",
       "lat": 40.8881,
       "lng": 37.8634,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-6e1c0c17dedf",
+      "baslik": "Doruk Madencilik işçileri haklarını almadan dönmemekte kararlı: ‘Bin gün geçse de Ankara’dan ayrılmayacağız’ - Cumhuriyet",
+      "konum": "Ankara",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "18.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPXzZJR3JpdGJBNWpWS0ZReENEX2RoZEE5RWJNMGd1c0xLYVE1c0VLbkRXelBmaFVyVUxiWWFqYlk1eVB4SE53X3FZN0tjZkVlY2F1WktJYUk3eC1rV0o1S2tLTjdJTktVVlNMVnBNZTBkMEdyWF9vWm5NSmx4YVhoMm9MRlF5TzkxYWVwTFdQNWVldVEteXRzc1FPOHNtck9RaXhod1hZbWhRZFY2SllDZ3BWZ3FBbUp1V181eUZFekFTcnU0dGVJeVVmZGU1VGVsOHlIcjB3a0ZCVnBObkVCU211SWktZw?oc=5",
+      "ozet": "Doruk Madencilik işçileri haklarını almadan dönmemekte kararlı: ‘Bin gün geçse de Ankara’dan ayrılmayacağız’ Cumhuriyet",
+      "lat": 39.9076,
+      "lng": 32.792,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
