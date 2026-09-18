@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-18T13:17:33.753835+00:00",
+    "guncelleme": "2026-09-18T17:59:21.982429+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6573,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "2845d15f204e",
+      "baslik": "Beşiktaş tribününe yeni sponsorluk! Resmi açıklama geldi",
+      "ozet": "Beşiktaş tribününe yeni sponsorluk! Resmi açıklama geldi",
+      "url": "https://www.sozcu.com.tr/besiktasin-tribunune-yeni-isim-p359521",
+      "tarih": "2026-09-18T14:29:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "dea512092a27",
       "baslik": "TFF resmen küme düşürdü: Rakipleri hükmen galip sayılacak",
@@ -1997,16 +2007,6 @@
       "ozet": "Piyasalar Kırmızıya Boyandı: Orta Doğu'daki Sıcak Çatışma Küresel Borsaları Vurdu!",
       "url": "https://www.sozcu.com.tr/piyasalar-kirmiziya-boyandi-orta-dogu-daki-sicak-catisma-kuresel-borsalari-vurdu-p354404",
       "tarih": "2026-09-01T06:32:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4d0522155be7",
-      "baslik": "Galatasaray'da ayrılık an meselesi! Gideceği kulüp bile belli oldu",
-      "ozet": "Galatasaray'da ayrılık an meselesi! Gideceği kulüp bile belli oldu",
-      "url": "https://www.sozcu.com.tr/galatasaraydan-victor-nelsson-ayriligi-monzaya-gidiyor-p354278",
-      "tarih": "2026-08-31T15:54:10+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
