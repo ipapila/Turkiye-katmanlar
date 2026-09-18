@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-18T07:49:46.895882+00:00",
+    "guncelleme": "2026-09-18T13:17:33.753835+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6573,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "dea512092a27",
+      "baslik": "TFF resmen küme düşürdü: Rakipleri hükmen galip sayılacak",
+      "ozet": "TFF resmen küme düşürdü: Rakipleri hükmen galip sayılacak",
+      "url": "https://www.sozcu.com.tr/tff-resmen-kume-dusurdu-rakipleri-hukmen-galip-sayilacak-p359496",
+      "tarih": "2026-09-18T12:55:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "aaf5a857d800",
+      "baslik": "Guterres: “Bölünmüş Dünya Yapay zeka, İklim Krizi ve Eşitsizlik Konularında Birleşmeli”",
+      "ozet": "Antonio Guterres, yıllık BM Genel Kurulu öncesinde dünya liderlerine çatışmalar, yapay zeka, iklim değişikliği ve eşitsizlik konularında iş birliği yapmaları çağrısında bulundu. BM Genel Sekreteri Antonio Guterres, dünyanın derin bölünmelerle, felç olmuş bir Güvenlik Konseyi ile ",
+      "url": "https://www.iklimhaber.org/guterres-bolunmus-dunya-yapay-zeka-iklim-krizi-ve-esitsizlik-konularinda-birlesmeli/",
+      "tarih": "2026-09-18T09:52:08+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9e0341ba81b5",
+      "baslik": "Ho Chi Minh Şehri Halk Komitesi, inşaat ve çevre ihlalleri nedeniyle elektrik ve su tedarikinin kesilmesine izin veren bir taslak öneri sundu. - Vietnam.vn",
+      "ozet": "Ho Chi Minh Şehri Halk Komitesi, inşaat ve çevre ihlalleri nedeniyle elektrik ve su tedarikinin kesilmesine izin veren bir taslak öneri sundu. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYU5aNlRkYjRIbmtrNm5FbkJlS2RqT25pTEZUSnFhS1c4S0sxSVo5dU55VXY3dW5lelp0TDJ6TjJwam5aRlJ2Y2lDbHJiWG5PY3dKUzRzeXBfc1VHOUxnWVNjQjJacms1enQ4MldsUEFQR1h6X0x2VDV6cmZsT3d6MnlwcUlWSnBsb25ObG0xbFJFLWVTckMyWFIyOHVIM19ISzRFU1JzQm80NHNLcFVBMWdzdy16XzBfT0I5TGdJUlNWT21zakE?oc=5",
+      "tarih": "2026-09-18T08:20:40+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d70684001dce",
       "baslik": "Borsa güne düşüşle başladı - 18 Eylül 2026",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-08-31T15:54:10+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "591184ef2b82",
-      "baslik": "Doğadan silinmelerine ramak kalmıştı: 10 bin tanesini aynı bölgeye bıraktılar",
-      "ozet": "Doğadan silinmelerine ramak kalmıştı: 10 bin tanesini aynı bölgeye bıraktılar",
-      "url": "https://www.sozcu.com.tr/dogadan-silinmelerine-ramak-kalmisti-10-bin-tanesini-ayni-bolgeye-biraktilar-p354279",
-      "tarih": "2026-08-31T15:52:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "071b4ac3f092",
-      "baslik": "Denize 62 bin litre soda döktüler",
-      "ozet": "Denize 62 bin litre soda döktüler",
-      "url": "https://www.sozcu.com.tr/denize-62-bin-litre-soda-doktuler-p354273",
-      "tarih": "2026-08-31T15:13:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cf4dfba7e254",
-      "baslik": "İzmir’de Güneş Seferberliği",
-      "ozet": "İzmir Büyükşehir Belediyesi, konutlarda güneş enerjisi kullanımının yaygınlaşmasını kolaylaştıracak önemli bir çalışma başlattı. 30 ilçe, 25 kW ve altı konut tipi çatı GES başvurularında ruhsat ve izin süreçlerini standartlaştırmak için ortak yol haritası oluşturdu. İzmir Büyükşe",
-      "url": "https://www.iklimhaber.org/izmirde-gunes-seferberligi/",
-      "tarih": "2026-08-31T11:37:43+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
