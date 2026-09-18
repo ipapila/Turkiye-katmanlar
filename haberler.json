@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-18T17:59:21.982429+00:00",
+    "guncelleme": "2026-09-18T20:36:07.049014+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6573,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6574,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "4b5bf5c8c985",
+      "baslik": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
+      "ozet": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
+      "url": "https://www.sozcu.com.tr/nevsehir-de-saganak-sonrasi-sel-18-eylul-2026-p359563",
+      "tarih": "2026-09-18T20:25:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a05190612ba1",
+      "baslik": "Küçükçekmece'de yıkımı yapılan bina çöktü",
+      "ozet": "Küçükçekmece'de yıkımı yapılan bina çöktü",
+      "url": "https://www.sozcu.com.tr/kucukcekmece-de-yikimi-yapilan-bina-coktu-p359546",
+      "tarih": "2026-09-18T19:29:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "2845d15f204e",
       "baslik": "Beşiktaş tribününe yeni sponsorluk! Resmi açıklama geldi",
@@ -1987,26 +2007,6 @@
       "ozet": "Borsa güne düşüşle başladı - 1 Eylül 2026",
       "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-1-eylul-2026-p354417",
       "tarih": "2026-09-01T07:06:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ec4ea7d947bc",
-      "baslik": "Ağaçta 'D' harfi şeklinde delik varsa hemen kaçın çağrısı yapıldı: 8 ilçede kırmızı alarm",
-      "ozet": "Ağaçta 'D' harfi şeklinde delik varsa hemen kaçın çağrısı yapıldı: 8 ilçede kırmızı alarm",
-      "url": "https://www.sozcu.com.tr/agacta-d-harfi-seklinde-delik-varsa-hemen-kacin-cagrisi-yapildi-8-ilcede-kirmizi-alarm-p354415",
-      "tarih": "2026-09-01T07:00:10+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0b42962bd3b8",
-      "baslik": "Piyasalar Kırmızıya Boyandı: Orta Doğu'daki Sıcak Çatışma Küresel Borsaları Vurdu!",
-      "ozet": "Piyasalar Kırmızıya Boyandı: Orta Doğu'daki Sıcak Çatışma Küresel Borsaları Vurdu!",
-      "url": "https://www.sozcu.com.tr/piyasalar-kirmiziya-boyandi-orta-dogu-daki-sicak-catisma-kuresel-borsalari-vurdu-p354404",
-      "tarih": "2026-09-01T06:32:01+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94032,6 +94032,20 @@
       "ozet": "Doruk Madencilik işçileri haklarını almadan dönmemekte kararlı: ‘Bin gün geçse de Ankara’dan ayrılmayacağız’ Cumhuriyet",
       "lat": 39.9076,
       "lng": 32.792,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-4b5bf5c8c985",
+      "baslik": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
+      "konum": "Nevşehir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "18.09.2026",
+      "url": "https://www.sozcu.com.tr/nevsehir-de-saganak-sonrasi-sel-18-eylul-2026-p359563",
+      "ozet": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
+      "lat": 38.5245,
+      "lng": 34.6438,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
