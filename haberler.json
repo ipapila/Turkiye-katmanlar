@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-18T20:36:07.049014+00:00",
+    "guncelleme": "2026-09-19T07:42:00.750412+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6574,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "5e67cdf8549f",
+      "baslik": "Ülke yeni kararını duyurdu: Vize süresi geçen turistler gözaltına alınacak",
+      "ozet": "Ülke yeni kararını duyurdu: Vize süresi geçen turistler gözaltına alınacak",
+      "url": "https://www.sozcu.com.tr/ulke-yeni-kararini-duyurdu-vize-suresi-gecen-turistler-gozaltina-alinacak-p359626",
+      "tarih": "2026-09-19T06:48:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "57c89f8ac440",
+      "baslik": "Baraja 96 milyon siyah top döktüler: Gizli felaketi son anda engellediler",
+      "ozet": "Baraja 96 milyon siyah top döktüler: Gizli felaketi son anda engellediler",
+      "url": "https://www.sozcu.com.tr/baraja-96-milyon-siyah-top-doktuler-gizli-felaketi-son-anda-engellediler-p359617",
+      "tarih": "2026-09-19T06:27:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "4b5bf5c8c985",
       "baslik": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
@@ -179,6 +199,16 @@
       "tarih": "2026-09-17T06:11:48+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "14d2e59f4310",
+      "baslik": "Akbelen'deki 'acele kamulaştırma' davası: Danıştay Savcısı'ndan 'kamu yararı' yönünde mütalaa - cumhuriyet.com.tr",
+      "ozet": "Akbelen'deki 'acele kamulaştırma' davası: Danıştay Savcısı'ndan 'kamu yararı' yönünde mütalaa cumhuriyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbVNXZDJ2YXFla3Y4RVF0MDdPSEFiUTlwM0laMXY0YjZ5a3dVbkl2enZZOXF0Z3o4UTNPMnprWW95QVZXbFNwTGc1cnhNSGlFeDJyMFRfWG9PX090OHA4dFdnUV8yWGVoNlplc1ZyekE4S0RPekROeVdKQmozZ1Y1dFQ0LTJ5cm9FY1k0VWpMX3JWMDNWWEVSdjRjTXhMZUJyOTliNUpBa1hkMUxzU1JMeWFqOHF6NVdOem9XZjdpbXBLUGlSODlUZDc0QWhZRkE?oc=5",
+      "tarih": "2026-09-16T16:19:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1979,36 +2009,6 @@
       "tarih": "2026-09-01T08:36:44+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "48915b27b096",
-      "baslik": "Yeni Rapor: Türkiye’nin Enerji Dönüşümünde Finansman İhtiyacı 200 Milyar Dolar",
-      "ozet": "Enerji ve Tabii Kaynaklar Bakanlığının öngörülerine yer verilen raporda, Türkiye’nin 2035’e kadar rüzgar ve güneş enerjisindeki toplam kurulu gücünü 120 gigavata ulaştırmayı hedeflediği, buna ulaşılması için gelecek dönemde her yıl 8 ila 9 gigavat yeni kapasitenin devreye alınmas",
-      "url": "https://www.iklimhaber.org/yeni-rapor-turkiyenin-enerji-donusumunde-finansman-ihtiyaci-200-milyar-dolar/",
-      "tarih": "2026-09-01T08:02:08+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "84e07f9b72b5",
-      "baslik": "Türkiye İklim Değişikliği Kaynaklı Zincirleme Afet Riskine Hazırlanmalı",
-      "ozet": "26 Ağustos’ta Nepal-Tibet sınırında yaşanan ve yüzlerce kişinin hayatını kaybetmesine neden olan felaketin, bir heyelan akabinde buzul-kaya kütlesinin kopmasının başlattığı olaylar zincirinden kaynaklandığı düşünülüyor. Yeni bir çalışma ise iki yıl önce Fransız Alplerindeki La Bé",
-      "url": "https://www.iklimhaber.org/turkiye-iklim-degisikligi-kaynakli-zincirleme-afet-riskine-hazirlanmali/",
-      "tarih": "2026-09-01T07:19:22+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "72cb580cd323",
-      "baslik": "Borsa güne düşüşle başladı - 1 Eylül 2026",
-      "ozet": "Borsa güne düşüşle başladı - 1 Eylül 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-1-eylul-2026-p354417",
-      "tarih": "2026-09-01T07:06:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
