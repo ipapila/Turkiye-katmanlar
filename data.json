@@ -119457,5 +119457,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/nevsehir-de-saganak-sonrasi-sel-18-eylul-2026-p359563"
+  },
+  {
+    "id": "tarayici-ede0cf653cf8",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ordu'da maden karşıtı mitinge çağrı: 'Bir olacağız, bin olacağız, birlikte direneceğiz!' - Cumhuriyet",
+    "il": "Ordu",
+    "ilce": "",
+    "aciklama": "Ordu'da maden karşıtı mitinge çağrı: 'Bir olacağız, bin olacağız, birlikte direneceğiz!' Cumhuriyet",
+    "koordinatlar": {
+      "lat": 41.0499,
+      "lng": 37.8833
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "19.09.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1dqeWVvLXZuLVkxTzM1QmFWNGlLazN6NFdTOGtpM2hSRlZ6dl9ja2o4MjA3UmRYS1lyMVQ5cHhKTVRZaDVzOV94emE3OEFRZ1hxYWE2bXpyWV8xa1k4aUg0dC1sajNxMjFjRG5NU19rYmlxdFhoQ1A4d0xxYndJZUw3WUdqVEZfNUg1UERqOUhTaThCbnM5UWR0WklQQ1Y3Ukd1Z2RLaVp2SWxRYVlkX2R2bzZMeXpYVkJCa2dMYkFfYzUtT2dv?oc=5"
   }
 ]

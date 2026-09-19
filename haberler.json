@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-19T07:42:00.750412+00:00",
+    "guncelleme": "2026-09-19T12:48:16.048396+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6574,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6575,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -109,6 +109,16 @@
       "tarih": "2026-09-18T06:21:32+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "856054b1431f",
+      "baslik": "Akbelen Çevresindeki Kamulaştırma Kararı Danıştay’da Görüldü - turizmgazetesi.com",
+      "ozet": "Akbelen Çevresindeki Kamulaştırma Kararı Danıştay’da Görüldü turizmgazetesi.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVlySVFWdjdvQ2RDbXJuWWxyQ1JGR1pUNUJEUUVjSUFwZlE2dHZMVU45cjQ5QmJMeHZTMkV4ZVNHOHFWeG9BU0ZucVo5SVZyT1lXMVo0X2NrUVFWUktVUS0ya1VZWk0yRXZ3M21IWjhzM19GS3U1SHhwbWtHQTFfMmZTT2xGdE12bXZDcnU1c2F0WUZrZE04a3dWRy1kTEpES1Z0eFh3?oc=5",
+      "tarih": "2026-09-17T19:27:58+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1997,16 +2007,6 @@
       "ozet": "İklim değişikliği nedeniyle gücü ve sıklığı artan sıcak hava dalgaları neredeyse her kıtayı etkisi altına alıyor. Yeni bir araştırmaya göre serin kalmak için kullanılan klimalar yalnızca ABD’de yılda 5 binden fazla hayat kurtarıyor. Ancak klima kullanımının artışı küresel ısınmay",
       "url": "https://www.iklimhaber.org/yeni-calisma-klimalar-can-kurtarirken-gezegeni-de-isitiyor/",
       "tarih": "2026-09-01T10:28:04+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "01b0a7f6687c",
-      "baslik": "Marketlerin Pestisit Karnesi Açıklandı",
-      "ozet": "Greenpeace Türkiye’nin yeni kampanyası kapsamında İstanbul’un dört ilçesindeki beş market zincirinden domates örnekleri alındı. Sonuçlara göre 20 üründen 3’ünde mevzuata aykırı pestisit kullanımı, 7’sinde ise 3’ten fazla pestisite rastlandı. Mevzuata aykırı pestisit kullanılan ür",
-      "url": "https://www.iklimhaber.org/marketlerin-pestisit-karnesi-aciklandi/",
-      "tarih": "2026-09-01T08:36:44+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -94046,6 +94046,20 @@
       "ozet": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
       "lat": 38.5245,
       "lng": 34.6438,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-ede0cf653cf8",
+      "baslik": "Ordu'da maden karşıtı mitinge çağrı: 'Bir olacağız, bin olacağız, birlikte direneceğiz!' - Cumhuriyet",
+      "konum": "Ordu",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "19.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1dqeWVvLXZuLVkxTzM1QmFWNGlLazN6NFdTOGtpM2hSRlZ6dl9ja2o4MjA3UmRYS1lyMVQ5cHhKTVRZaDVzOV94emE3OEFRZ1hxYWE2bXpyWV8xa1k4aUg0dC1sajNxMjFjRG5NU19rYmlxdFhoQ1A4d0xxYndJZUw3WUdqVEZfNUg1UERqOUhTaThCbnM5UWR0WklQQ1Y3Ukd1Z2RLaVp2SWxRYVlkX2R2bzZMeXpYVkJCa2dMYkFfYzUtT2dv?oc=5",
+      "ozet": "Ordu'da maden karşıtı mitinge çağrı: 'Bir olacağız, bin olacağız, birlikte direneceğiz!' Cumhuriyet",
+      "lat": 41.0499,
+      "lng": 37.8833,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
