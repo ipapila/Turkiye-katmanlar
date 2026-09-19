@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-19T17:38:22.557081+00:00",
+    "guncelleme": "2026-09-19T19:50:28.472720+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6575,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "6fd26c9dd830",
+      "baslik": "Erdoğan’dan ABD’ye ziyaret kararı",
+      "ozet": "Erdoğan’dan ABD’ye ziyaret kararı",
+      "url": "https://www.sozcu.com.tr/erdogan-dan-abd-ye-ziyaret-karari-p359767",
+      "tarih": "2026-09-19T19:39:07+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "328f50afd7bc",
       "baslik": "Erdoğan-Yavaş anketinde büyük fark: Seçmenlerin parti dağılımı dikkat çekti",
@@ -1997,16 +2007,6 @@
       "ozet": "Yüksekliği 100 katlı gökdelene denk: Dünyanın en yüksek barajında üretim başladı",
       "url": "https://www.sozcu.com.tr/dunyanin-en-yuksek-barajinda-dugmeye-basildi-315-metrelik-dev-uretime-basladi-p354549",
       "tarih": "2026-09-01T15:18:45+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4d8baee5e699",
-      "baslik": "Kredi kartı borcu olanları ilgilendiren karar: Eylül faiz oranları belli oldu!",
-      "ozet": "Kredi kartı borcu olanları ilgilendiren karar: Eylül faiz oranları belli oldu!",
-      "url": "https://www.sozcu.com.tr/kredi-karti-borcu-olanlari-ilgilendiren-karar-eylul-faiz-oranlari-belli-oldu-p354507",
-      "tarih": "2026-09-01T13:13:32+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
