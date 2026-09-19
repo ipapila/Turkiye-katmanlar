@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-19T12:48:16.048396+00:00",
+    "guncelleme": "2026-09-19T17:38:22.557081+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6575,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "328f50afd7bc",
+      "baslik": "Erdoğan-Yavaş anketinde büyük fark: Seçmenlerin parti dağılımı dikkat çekti",
+      "ozet": "Erdoğan-Yavaş anketinde büyük fark: Seçmenlerin parti dağılımı dikkat çekti",
+      "url": "https://www.sozcu.com.tr/erdogan-yavas-anketinde-buyuk-fark-partili-secmenlerin-tercihi-dikkat-cekti-p359740",
+      "tarih": "2026-09-19T15:44:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5e67cdf8549f",
       "baslik": "Ülke yeni kararını duyurdu: Vize süresi geçen turistler gözaltına alınacak",
@@ -79,6 +89,16 @@
       "tarih": "2026-09-18T09:52:08+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d675a46a0a8b",
+      "baslik": "Ho Chi Minh Şehri Halk Komitesi, inşaat ve çevre ihlalleri nedeniyle elektrik ve su tedarikinin kesilmesine izin veren bir taslak öneri sundu. - vietnam.vn",
+      "ozet": "Ho Chi Minh Şehri Halk Komitesi, inşaat ve çevre ihlalleri nedeniyle elektrik ve su tedarikinin kesilmesine izin veren bir taslak öneri sundu. vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYU5aNlRkYjRIbmtrNm5FbkJlS2RqT25pTEZUSnFhS1c4S0sxSVo5dU55VXY3dW5lelp0TDJ6TjJwam5aRlJ2Y2lDbHJiWG5PY3dKUzRzeXBfc1VHOUxnWVNjQjJacms1enQ4MldsUEFQR1h6X0x2VDV6cmZsT3d6MnlwcUlWSnBsb25ObG0xbFJFLWVTckMyWFIyOHVIM19ISzRFU1JzQm80NHNLcFVBMWdzdy16XzBfT0I5TGdJUlNWT21zakE?oc=5",
+      "tarih": "2026-09-18T08:20:40+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -309,6 +329,16 @@
       "tarih": "2026-09-16T06:04:29+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "499bf81d44ce",
+      "baslik": "Hanoi'de 4.527 çevre koruma ihlali vakası ele alınıyor. - vietnam.vn",
+      "ozet": "Hanoi'de 4.527 çevre koruma ihlali vakası ele alınıyor. vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQkJnNmRhR1c5Nk1MR2V3S2gwTS02ZFZCX2U4dDZJemlQNG5LUHZqdzJUOVhyd1BLY21OSHhGNm9UR25JV0d2Yi1VWXNwV28wV2E5MTBZbTlyZWxCdVJrVUpybmwzbjg5ME9udnFTS2x2ZzZDWW1QQTRUSWRUWnZtSklR?oc=5",
+      "tarih": "2026-09-16T05:26:37+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1979,36 +2009,6 @@
       "tarih": "2026-09-01T13:13:32+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "25a4af973399",
-      "baslik": "Ormanda terk edilmiş SUV'da kilolarca altın ve 50 milyon liralık nakit para bulundu",
-      "ozet": "Ormanda terk edilmiş SUV'da kilolarca altın ve 50 milyon liralık nakit para bulundu",
-      "url": "https://www.sozcu.com.tr/ormanda-terk-edilmis-suv-da-kilolarca-altin-ve-50-milyon-liralik-nakit-para-bulundu-p354512",
-      "tarih": "2026-09-01T12:35:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6ace8763bc36",
-      "baslik": "Ramazan Yılmaz, pist bisikletinde dünya 2'nciliğine yükseldi",
-      "ozet": "Ramazan Yılmaz, pist bisikletinde dünya 2'nciliğine yükseldi",
-      "url": "https://www.sozcu.com.tr/ramazan-yilmaz-pist-bisikletinde-dunya-2-nciligine-yukseldi-p354504",
-      "tarih": "2026-09-01T12:16:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "63d325b3ca6a",
-      "baslik": "Yeni Çalışma: Klimalar Can Kurtarırken Gezegeni de Isıtıyor",
-      "ozet": "İklim değişikliği nedeniyle gücü ve sıklığı artan sıcak hava dalgaları neredeyse her kıtayı etkisi altına alıyor. Yeni bir araştırmaya göre serin kalmak için kullanılan klimalar yalnızca ABD’de yılda 5 binden fazla hayat kurtarıyor. Ancak klima kullanımının artışı küresel ısınmay",
-      "url": "https://www.iklimhaber.org/yeni-calisma-klimalar-can-kurtarirken-gezegeni-de-isitiyor/",
-      "tarih": "2026-09-01T10:28:04+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
