@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-20T08:09:18.779186+00:00",
+    "guncelleme": "2026-09-20T13:22:57.631577+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6575,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "98f13c78b140",
+      "baslik": "Milli motosikletçi Deniz Öncü, Avusturya'da 9'uncu",
+      "ozet": "Milli motosikletçi Deniz Öncü, Avusturya'da 9'uncu",
+      "url": "https://www.sozcu.com.tr/milli-motosikletci-deniz-oncu-avusturya-da-9-uncu-p359923",
+      "tarih": "2026-09-20T11:29:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d528f318c46f",
       "baslik": "Denizin dibinden kilo kilo altın bulundu",
@@ -1997,16 +2007,6 @@
       "ozet": "İngiltere’de bir devir resmen kapandı",
       "url": "https://www.sozcu.com.tr/ingiltere-de-bir-devir-resmen-kapandi-p354562",
       "tarih": "2026-09-01T16:35:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8bc1a4826f56",
-      "baslik": "Milyonlarca cam şişeyi öğütüp kıyılara döktüler",
-      "ozet": "Milyonlarca cam şişeyi öğütüp kıyılara döktüler",
-      "url": "https://www.sozcu.com.tr/milyonlarca-cam-siseyi-ogutup-kiyilara-doktuler-p354558",
-      "tarih": "2026-09-01T16:11:55+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
