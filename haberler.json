@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-20T13:22:57.631577+00:00",
+    "guncelleme": "2026-09-20T17:49:59.534053+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6575,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "47e41543d01c",
+      "baslik": "Fon soruşturmasında dikkat çeken para trafiği: İki ayrı hesaptan İsviçre'ye milyonluk transfer",
+      "ozet": "Fon soruşturmasında dikkat çeken para trafiği: İki ayrı hesaptan İsviçre'ye milyonluk transfer",
+      "url": "https://www.sozcu.com.tr/milyonlarca-euroluk-transferler-p359975",
+      "tarih": "2026-09-20T17:33:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e0f9594a6532",
+      "baslik": "Forex ağının perde arkası: Yurt dışından 'data', kripto hesapları ve elden maaş iddiası",
+      "ozet": "Forex ağının perde arkası: Yurt dışından 'data', kripto hesapları ve elden maaş iddiası",
+      "url": "https://www.sozcu.com.tr/forex-aginin-perde-arkasi-p359971",
+      "tarih": "2026-09-20T16:37:33+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "748b29ce73c4",
+      "baslik": "Fenerbahçe resital sundu! Tarihin en farklısı",
+      "ozet": "Fenerbahçe resital sundu! Tarihin en farklısı",
+      "url": "https://www.sozcu.com.tr/fenerbahce-eyupsporu-8-golle-gecti-p359969",
+      "tarih": "2026-09-20T16:26:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1d1b6151eb8f",
+      "baslik": "8 gollü müthiş düello Manchester City'nin",
+      "ozet": "8 gollü müthiş düello Manchester City'nin",
+      "url": "https://www.sozcu.com.tr/8-gollu-muthis-duello-manchester-citynin-p359963",
+      "tarih": "2026-09-20T15:18:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "98f13c78b140",
       "baslik": "Milli motosikletçi Deniz Öncü, Avusturya'da 9'uncu",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-09-02T06:52:33+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "758f9bcbf59a",
-      "baslik": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci - Son Dakika",
-      "ozet": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci Son Dakika",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR18tY2xTdDI5TjFKSDJzdEVmNGRVWlFWVWZBaFg0SF9WQy1CRVZBMzdUZ0pKb2p0WVF1RW55Mm1VcDRQWm1FeGJRWmwyM3NoQUJwY1JmaUtjMy1NTVB1SmNUbGdnbzdfQ2lWSXhRWmc5WmowMkpOdlJRM3BRVzV5aGJSS2t6OTVySTNBRzhCdWY3S2t0aGxYc2JJY9IBlgFBVV95cUxOc1VIS3hteHJiZUc2XzVqSXpmYnh1SGprVkRCazVFZUhnS0ZDWUI2QUdtMmV3RGhiNEhmVHZFQV83NkJJeURLdXBlSDh3OXp1WlhJZW82RDc2Vy1rQlU4djhCZ0ZCNmFTMVdCMkUwUjUxV2U5aFZmckFNdHJvMHhxdTlqUkZlenNzN3dkUmY5Z3NLZndCOXc?oc=5",
-      "tarih": "2026-09-02T06:49:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0eb5e776e5e4",
-      "baslik": "ABD-İran gerilimi küresel piyasaları vurdu: Petrol fırladı, borsalar çakıldı!",
-      "ozet": "ABD-İran gerilimi küresel piyasaları vurdu: Petrol fırladı, borsalar çakıldı!",
-      "url": "https://www.sozcu.com.tr/abd-iran-gerilimi-kuresel-piyasalari-vurdu-petrol-firladi-borsalar-cakildi-p354681",
-      "tarih": "2026-09-02T06:22:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e709282bddbf",
-      "baslik": "Facia \"Geliyorum\" demiş! İşte Girne'de alabora olan geminin bir gün önceki görüntüleri",
-      "ozet": "Facia \"Geliyorum\" demiş! İşte Girne'de alabora olan geminin bir gün önceki görüntüleri",
-      "url": "https://www.sozcu.com.tr/facia-geliyorum-demis-iste-girne-de-alabora-olan-geminin-bir-gun-onceki-goruntuleri-p354576",
-      "tarih": "2026-09-01T17:38:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e1bd84bd2128",
-      "baslik": "İngiltere’de bir devir resmen kapandı",
-      "ozet": "İngiltere’de bir devir resmen kapandı",
-      "url": "https://www.sozcu.com.tr/ingiltere-de-bir-devir-resmen-kapandi-p354562",
-      "tarih": "2026-09-01T16:35:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
