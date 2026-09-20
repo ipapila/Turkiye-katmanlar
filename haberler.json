@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-19T19:50:28.472720+00:00",
+    "guncelleme": "2026-09-20T08:09:18.779186+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6575,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "d528f318c46f",
+      "baslik": "Denizin dibinden kilo kilo altın bulundu",
+      "ozet": "Denizin dibinden kilo kilo altın bulundu",
+      "url": "https://www.sozcu.com.tr/denizin-dibinden-kilo-kilo-altin-bulundu-p359827",
+      "tarih": "2026-09-20T07:51:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "6fd26c9dd830",
       "baslik": "Erdoğan’dan ABD’ye ziyaret kararı",
@@ -1997,16 +2007,6 @@
       "ozet": "Milyonlarca cam şişeyi öğütüp kıyılara döktüler",
       "url": "https://www.sozcu.com.tr/milyonlarca-cam-siseyi-ogutup-kiyilara-doktuler-p354558",
       "tarih": "2026-09-01T16:11:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c290b5a66d4f",
-      "baslik": "Yüksekliği 100 katlı gökdelene denk: Dünyanın en yüksek barajında üretim başladı",
-      "ozet": "Yüksekliği 100 katlı gökdelene denk: Dünyanın en yüksek barajında üretim başladı",
-      "url": "https://www.sozcu.com.tr/dunyanin-en-yuksek-barajinda-dugmeye-basildi-315-metrelik-dev-uretime-basladi-p354549",
-      "tarih": "2026-09-01T15:18:45+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
