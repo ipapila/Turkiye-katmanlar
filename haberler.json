@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-20T20:04:29.037353+00:00",
+    "guncelleme": "2026-09-21T08:26:05.449629+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6575,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6576,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "65b5556fd734",
+      "baslik": "Fransa ve Yunanistan Akdeniz'de Türkiye'yi karşısına almaya hazırlanıyor",
+      "ozet": "Fransa ve Yunanistan Akdeniz'de Türkiye'yi karşısına almaya hazırlanıyor",
+      "url": "https://www.sozcu.com.tr/fransa-ve-yunanistan-akdeniz-de-turkiye-yi-karsisina-almaya-hazirlaniyor-p362127",
+      "tarih": "2026-09-21T08:23:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c9382fd235e1",
+      "baslik": "Gece saatlerinde denize açılan balıkçılar 8 saatte servet sahibi oldu",
+      "ozet": "Gece saatlerinde denize açılan balıkçılar 8 saatte servet sahibi oldu",
+      "url": "https://www.sozcu.com.tr/gece-saatlerinde-denize-acilan-balikcilar-8-saatte-servet-sahibi-oldu-p362122",
+      "tarih": "2026-09-21T08:10:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1969a1c46a81",
+      "baslik": "Borsada düşüş hızlandı: Kayıp yüzde 2'yi aştı",
+      "ozet": "Borsada düşüş hızlandı: Kayıp yüzde 2'yi aştı",
+      "url": "https://www.sozcu.com.tr/borsa-haftaya-dususle-basladi-21-eylul-2026-p362096",
+      "tarih": "2026-09-21T08:10:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "05006e20d953",
+      "baslik": "TÜİK açıkladı: Tarımdaki en yüksek artış akaryakıt fiyatları oldu",
+      "ozet": "TÜİK açıkladı: Tarımdaki en yüksek artış akaryakıt fiyatları oldu",
+      "url": "https://www.sozcu.com.tr/tuik-acikladi-tarimdaki-en-yuksek-artis-akaryakit-fiyatlari-oldu-p362120",
+      "tarih": "2026-09-21T08:04:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0b5eda6c7403",
+      "baslik": "IEA: Türkiye’nin Enerji Dönüşümü Yolculuğu Kritik Bir Dönüm Noktasında",
+      "ozet": "IEA’nın yeni politika incelemesi, Türkiye’nin bölgesel enerji pazarlarındaki artan rolüne ve şebekelere, esnekliğe ve enerji verimliliğine yönelik yatırımların hızlandırılması gerektiğine dikkat çekiyor. Uluslararası Enerji Ajansı’nın (IEA) yeni raporuna göre COP31 Başkanı Türkiy",
+      "url": "https://www.iklimhaber.org/iea-turkiyenin-enerji-donusumu-yolculugu-kritik-bir-donum-noktasinda/",
+      "tarih": "2026-09-21T08:00:51+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bc7b819437bb",
+      "baslik": "Otoyollarda sabit hız limiti değişiyor: Yeni sistem 1 Ekim'de resmen başlıyor",
+      "ozet": "Otoyollarda sabit hız limiti değişiyor: Yeni sistem 1 Ekim'de resmen başlıyor",
+      "url": "https://www.sozcu.com.tr/otoyollarda-sabit-hiz-limiti-degisiyor-yeni-sistem-1-ekim-de-resmen-basliyor-p362111",
+      "tarih": "2026-09-21T07:49:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "537cee2529e1",
+      "baslik": "Ekolojik Borcumuz Artıyor!",
+      "ozet": "Her yıl 23 Eylül tarihi “Dünya Ekolojik Borç Günü” olarak kabul ediliyor ve insanlığın doğal kaynak talebi ile gezegenimizin yenilenme kapasitesi arasındaki açığa bakıldığında, 2026 yılında bu limit 30 Temmuz tarihi itibarıyla aşıldı. Dünya Ekolojik Borç Günü’nün geçmişi 1990’lar",
+      "url": "https://www.iklimhaber.org/ekolojik-borcumuz-artiyor/",
+      "tarih": "2026-09-21T07:15:04+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "47e41543d01c",
       "baslik": "Fon soruşturmasında dikkat çeken para trafiği: İki ayrı hesaptan İsviçre'ye milyonluk transfer",
@@ -1939,76 +2009,6 @@
       "tarih": "2026-09-02T11:53:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e814819f9750",
-      "baslik": "Piyasalarda kırmızıya büründü: Borsa ve altın çakıldı petrol tırmandı",
-      "ozet": "Piyasalarda kırmızıya büründü: Borsa ve altın çakıldı petrol tırmandı",
-      "url": "https://www.sozcu.com.tr/piyasalarda-kirmiziya-burundu-borsa-ve-altin-cakildi-petrol-tirmandi-p354773",
-      "tarih": "2026-09-02T11:14:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d92d33fd68b8",
-      "baslik": "Türkiye’nin Biyoçeşitliliği Kayıt Altında",
-      "ozet": "Doğa Derneği’nin koordinasyonunda 2023 yılında başlatılan ve 2029 yılında tamamlanması hedeflenen Önemli Doğa Alanları güncelleme çalışması, son 20 yılda Türkiye doğasında yaşanan değişimleri, kayıpları ve umut verici yeni keşifleri bilimsel verilerle kayıt altına alacak. Biyoçeş",
-      "url": "https://www.iklimhaber.org/turkiyenin-biyocesitliligi-kayit-altinda/",
-      "tarih": "2026-09-02T10:33:14+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "25c79cecf55d",
-      "baslik": "BM Uyarıyor: Sıcaklık Artışı En Az 1,8 Dereceye Ulaşacak",
-      "ozet": "Yeni bir BM raporu sıcaklık artışının en az 1,8 dereceye ulaşacağını ortaya koyuyor. Bilim insanları, gezegenin ancak derin ve hızlı emisyon azaltımları ile atmosferden karbonun uzaklaştırılması sayesinde 1,5 derecelik ısınma seviyesine dönebileceğini söylüyor. Birleşmiş Milletle",
-      "url": "https://www.iklimhaber.org/bm-uyariyor-sicaklik-artisi-en-az-18-dereceye-ulasacak/",
-      "tarih": "2026-09-02T09:47:11+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "199419ae99ef",
-      "baslik": "BM: “Himalayalar Şiddetli Buzul Seli Riskleriyle Karşı Karşıya”",
-      "ozet": "Araştırmacılar 2020 yılında Nepal, Çin ve Hindistan’da potansiyel olarak tehlikeli 47 buzul gölü belirledi. O zamandan bu yana sayının önemli ölçüde yükseldiği tahmin ediliyor. Nepal’de geçen hafta bir buzulun çökmesi sonucu meydana gelen selde ölü sayısı 1.000’i geçerken, üst dü",
-      "url": "https://www.iklimhaber.org/bm-himalayalar-siddetli-buzul-seli-riskleriyle-karsi-karsiya/",
-      "tarih": "2026-09-02T07:58:28+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7d4f4cf3ca87",
-      "baslik": "İklim İnkârcılığı Sözlüğü-10: Nepal’deki Felaketin Sebebi Ne?",
-      "ozet": "Felaketin acı sonuçları herkesi şoke ederken sosyal medya ağlarında faal olan iklim inkârcısı komplo teorisyenleri de boş durmadı. Yüzlerce insanı su ve balçığın altından çıkarmak için saatlerle yarışılırken inkârcı teoriler piyasaya sürüldü. Gerçek olan şu ki Nepal’deki felaket ",
-      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-10-nepaldeki-felaketin-sebebi-ne/",
-      "tarih": "2026-09-02T07:23:28+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f44aff995022",
-      "baslik": "Erdoğan ve Putin görüşmesinde 'Türkiye planı' masaya yatırıldı",
-      "ozet": "Erdoğan ve Putin görüşmesinde 'Türkiye planı' masaya yatırıldı",
-      "url": "https://www.sozcu.com.tr/erdogan-ve-putin-gorusmesinde-turkiye-plani-masaya-yatirildi-p354697",
-      "tarih": "2026-09-02T06:58:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a0706c0d1460",
-      "baslik": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci - Haber 26",
-      "ozet": "Eskişehir’de NTE sahası için acele kamulaştırma kararı sevinci Haber 26",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0I3MURaMXBvQjEybTkxVWN1dzEtQVZxQWczZjlDc3FaUktBYzdGUkxWWTRNQWNQRUNUZ1RFTHV2VW9LRU11RUFxdlNSaDRJRVZVSGdZYkR1T204RmxsYVNGTnphRlVzaFZ1S0lhXzk1R3VWWFJWdGxobzRSZGxwaldjcTh1d2lQTUxpNVRGMnZNZ0NtbUlVaFpncnpsdw?oc=5",
-      "tarih": "2026-09-02T06:52:33+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
@@ -94060,6 +94060,20 @@
       "ozet": "Ordu'da maden karşıtı mitinge çağrı: 'Bir olacağız, bin olacağız, birlikte direneceğiz!' Cumhuriyet",
       "lat": 41.0499,
       "lng": 37.8833,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-601b396f3812",
+      "baslik": "Muğla'da 2025 yılında 30 maden projesine ÇED onayı verildi - dokuz8HABER",
+      "konum": "Muğla",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "21.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkMtcmhFWVJ6bHdST1FWTjhoLV8wSVRZNHpHbW9zZE5FZkxaLWVpSFY5Y1FRTHJ6SFdDSFJvWUJmQjB2M3FqQzgxU2J3QVZ1Yk4waXVEQy1KQjJ2MHFsMXp2cVJPYW5yclcxSll5UVJXbnVHYjZpRElDTGVtS0JtNWIzcjNMZE9HREdnNDhR0gGOAUFVX3lxTE5OQy1yaEVZUnpsd1JPUVZOOGgtXzBJVFk0ekdtb3NkTkVmTFotZWlIVjljUVFMcnpIV0NIUm9ZQmZCMHYzcWpDODFTYndBVnViTjBpdURDLUpCMnYwcWwxenZxUk9hbnJyVzFKWXlRUldudUdiNmlESUNMZW1LQm01YjNyM0xkT0dER2c0OFE?oc=5",
+      "ozet": "Muğla'da 2025 yılında 30 maden projesine ÇED onayı verildi dokuz8HABER",
+      "lat": 37.2488,
+      "lng": 28.3283,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
