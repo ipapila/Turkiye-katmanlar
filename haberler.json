@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-21T08:26:05.449629+00:00",
+    "guncelleme": "2026-09-21T15:32:08.631525+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6576,
+    "harita_kayit_sayisi": 6577,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "311cf2e4e36a",
+      "baslik": "47 yılın ardından rekor seviyeye ulaştı: Sel ve fırtına riski giderek büyüyor",
+      "ozet": "47 yılın ardından rekor seviyeye ulaştı: Sel ve fırtına riski giderek büyüyor",
+      "url": "https://www.sozcu.com.tr/47-yilin-ardindan-rekor-seviyeye-ulasti-sel-ve-firtina-riski-giderek-buyuyor-p362258",
+      "tarih": "2026-09-21T14:33:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3a05d2443525",
+      "baslik": "Gezegen Savaş, Yapay Zeka ve İklim Şoklarıyla Mücadele Ederken Dünya Liderleri BM’de Bir Araya Geliyor",
+      "ozet": "Küresel çapta savaşların ve sert bölünmelerin gölgesi altında dünya liderleri  bu hafta Birleşmiş Milletler’de bir araya geliyor. İklim şokları ve yükselen fiyatlar yüz milyonlarca insan için hayatı halihazırda çok daha zorlaştırırken, kontrolden çıkan yapay zekanın insanlığı teh",
+      "url": "https://www.iklimhaber.org/gezegen-savas-yapay-zeka-ve-iklim-soklariyla-mucadele-ederken-dunya-liderleri-bmde-bir-araya-geliyor/",
+      "tarih": "2026-09-21T10:06:32+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "65b5556fd734",
       "baslik": "Fransa ve Yunanistan Akdeniz'de Türkiye'yi karşısına almaya hazırlanıyor",
@@ -1987,26 +2007,6 @@
       "ozet": "Erdoğan rahatsız oldu... DEM Partililere uçaktan mesaj yolladı",
       "url": "https://www.sozcu.com.tr/erdogan-rahatsiz-oldu-dem-partililere-ucaktan-mesaj-yolladi-p354794",
       "tarih": "2026-09-02T12:53:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9b11b202bc4f",
-      "baslik": "Altındaki sert düşüşün nedeni belli oldu: Uzmanlar yükseliş için tarih verdi!",
-      "ozet": "Altındaki sert düşüşün nedeni belli oldu: Uzmanlar yükseliş için tarih verdi!",
-      "url": "https://www.sozcu.com.tr/altindaki-sert-dususun-nedeni-belli-oldu-uzmanlar-yukselis-icin-tarih-verdi-p354806",
-      "tarih": "2026-09-02T12:47:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a1c8e4ffce06",
-      "baslik": "Denize 65 bin litre süt döktüler",
-      "ozet": "Denize 65 bin litre süt döktüler",
-      "url": "https://www.sozcu.com.tr/denize-65-bin-litre-sut-doktuler-p354786",
-      "tarih": "2026-09-02T11:53:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94074,6 +94074,20 @@
       "ozet": "Muğla'da 2025 yılında 30 maden projesine ÇED onayı verildi dokuz8HABER",
       "lat": 37.2488,
       "lng": 28.3283,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-3032d82f2d00",
+      "baslik": "Bursa Orman Bölge Müdürlüğü’nden Gürsu’daki maden iddialarına yalanlama - Bursa Hakimiyet",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "21.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNck5FaEpQcm1lQkNCOUQzN1FNRTltUW1mM0k3Zk56Y0xDYmFEMEphLWM3M3NjSF9oXzkxSG84MnFPMmtHU1doRWs4SVdHTlBOYkpUZi1ZYTNBcjFvSUxnVDNxckthUGs1ZjJrRV9NcUgzOHAtRjVjeExNWGZFamEzSkdkZjRaNjMtdzlZeUM2TjRSR1hNWFNTSVdORUc5WGMxX3JxbURMX1p5NzhYTW9hQ20yaU5GNkpVemtZ?oc=5",
+      "ozet": "Bursa Orman Bölge Müdürlüğü’nden Gürsu’daki maden iddialarına yalanlama Bursa Hakimiyet",
+      "lat": 40.2466,
+      "lng": 29.1254,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
