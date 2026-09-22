@@ -119533,5 +119533,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUl0bUJKSkFWQ0xWZHA1aXhvcUFMalVrRUM1S0EtNFdmWVBmUDVTbmxYcGh1YmZucGFnRzVfMUpSWEtQRVpfMjFfVmI2OG9UUXlJRTJpVl9kdS1ITWJaUzRXWHppckc4MU9MdkdoeVhsSjdBWGlSRlNrNE55cVdhZV92VzdSY0U?oc=5"
+  },
+  {
+    "id": "tarayici-36d2d91b3e46",
+    "tip": "Ekolojik İhlal",
+    "ad": "Türkiye Elektrifikasyon Hedefini Bir Kez Daha Duyurdu; Fosil Yakıtları Pas Geçti",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Uzmanlar, elektrifikasyon gündeminin fosil yakıtlardan çıkış sürecinin önüne geçmemesi gerektiğini belirtirken, COP31’in ev sahibi olarak Türkiye’nin her iki gündemi birlikte ilerletme sorumluluğuna sahip olduğunu hatırlattı. Kasım ayında Antalya’da COP31 İklim Zirvesi’ne ev sahi",
+    "koordinatlar": {
+      "lat": 36.9408,
+      "lng": 30.7693
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "22.09.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/turkiye-elektrifikasyon-hedefini-bir-kez-daha-duyurdu-fosil-yakitlari-pas-gecti/"
   }
 ]

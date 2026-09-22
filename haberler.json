@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-22T08:07:26.187058+00:00",
+    "guncelleme": "2026-09-22T13:48:34.187960+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6578,
+    "harita_kayit_sayisi": 6579,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "74835a2be3fb",
+      "baslik": "Yeni resmi tatil geliyor: Sayılı günler sonra Meclis'e sunulacak",
+      "ozet": "Yeni resmi tatil geliyor: Sayılı günler sonra Meclis'e sunulacak",
+      "url": "https://www.sozcu.com.tr/yeni-resmi-tatil-geliyor-sayili-gunler-sonra-meclis-e-sunulacak-p362542",
+      "tarih": "2026-09-22T13:06:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7086b412eb71",
+      "baslik": "Devasa El Nino’nun Etkileri de Devasa Olacak",
+      "ozet": "El Nino’nun yıl sonunda daha da güçlenmesi bekleniyor. Bilim insanları, bu olağanüstü hava olayının küresel ısınmayla da birleşerek 2027 yılını şimdiye kadar ölçülen en sıcak yıl haline getirebileceği, küresel anlamda gıda ve ekonomik krizlere neden olacağı uyarısında bulunuyor. ",
+      "url": "https://www.iklimhaber.org/devasa-el-ninonun-etkileri-de-devasa-olacak/",
+      "tarih": "2026-09-22T11:38:58+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b02802b7a564",
+      "baslik": "2030 Hedefine Ulaşmak için Küresel Yenilenebilir Enerji Kurulumu 2 Katına Çıkmalı",
+      "ozet": "Türkiye’nin COP31 Başkanlığının yenilenebilir enerji gruplarıyla hazırladığı yeni rapora göre, kapasiteyi üç katına çıkarma taahhüdünü karşılayabilmek için kurulumların 2030 yılına kadar her yıl ortalama yaklaşık 1.200 GW seviyesinde olması gerekiyor. Yeni yayımlanan bir rapora g",
+      "url": "https://www.iklimhaber.org/2030-hedefine-ulasmak-icin-kuresel-yenilenebilir-enerji-kurulumu-2-katina-cikmali/",
+      "tarih": "2026-09-22T11:13:44+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "36d2d91b3e46",
+      "baslik": "Türkiye Elektrifikasyon Hedefini Bir Kez Daha Duyurdu; Fosil Yakıtları Pas Geçti",
+      "ozet": "Uzmanlar, elektrifikasyon gündeminin fosil yakıtlardan çıkış sürecinin önüne geçmemesi gerektiğini belirtirken, COP31’in ev sahibi olarak Türkiye’nin her iki gündemi birlikte ilerletme sorumluluğuna sahip olduğunu hatırlattı. Kasım ayında Antalya’da COP31 İklim Zirvesi’ne ev sahi",
+      "url": "https://www.iklimhaber.org/turkiye-elektrifikasyon-hedefini-bir-kez-daha-duyurdu-fosil-yakitlari-pas-gecti/",
+      "tarih": "2026-09-22T10:04:51+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f8473de6d667",
+      "baslik": "Durmaz \"Acele kamulaştırma kararı derhal geri çekilsin!” - MEDYA KEŞAN",
+      "ozet": "Durmaz \"Acele kamulaştırma kararı derhal geri çekilsin!” MEDYA KEŞAN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3h0eG1xRjQxbGwtMDRRNHBmTmlGak9Ydld1R1ZIdEQzMlRzanFLNGFJMHJfdkQwYkJndlhjQ0xobllrYWdEWVBaTjlwS2E5QWJMZDlnR2RkQTJ3akhRbmZVZ0JmU3I1QVVhZzBpUVJORFBNNUg5YmhBLWRiQURXdHNQRTZoNEJVei1XclJVRHPSAZABQVVfeXFMT1N4dHhtcUY0MWxsLTA0UTRwZk5pRmpPWHZXdUdWSHREMzJUc2pxSzRhSTByX3ZEMGJCZ3ZYY0NMaG5Za2FnRFlQWk45cEthOUFiTGQ5Z0dkZEEyd2pIUW5mVWdCZlNyNUFVYWcwaVFSTkRQTTVIOWJoQS1kYkFEV3RzUEU2aDRCVXotV3JSVURz?oc=5",
+      "tarih": "2026-09-22T08:14:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1b9466c84b90",
       "baslik": "Bu sır perdesini enteresan bulundu: Şarkıcı Simge 101 gülün peşine düştü",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-09-03T10:34:58+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1ec3f9b12fe7",
-      "baslik": "Borsa günün ilk yarısında değer kaybetti -3 Eylül 2026",
-      "ozet": "Borsa günün ilk yarısında değer kaybetti -3 Eylül 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-deger-kaybetti-3-eylul-2026-p355065",
-      "tarih": "2026-09-03T10:16:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a5a8143b56de",
-      "baslik": "1 milyon hektarlık alana ağaç dikip imkansızı başardılar: Kurtulmak istedikleri ne kum ne de denizdi",
-      "ozet": "1 milyon hektarlık alana ağaç dikip imkansızı başardılar: Kurtulmak istedikleri ne kum ne de denizdi",
-      "url": "https://www.sozcu.com.tr/1-milyon-hektarlik-alana-agac-dikip-imkansizi-basardilar-asil-kurtulmak-istedikleri-ne-kum-ne-de-p354984",
-      "tarih": "2026-09-03T06:32:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "60143e6fa56d",
-      "baslik": "Kuraklık Yağmur Ülkesi Birleşik Krallık‘ı Tehdit Ediyor",
-      "ozet": "2026 yazında Birleşik Krallık, yağışlı geçen kış aylarına rağmen, tarihinin en şiddetli kuraklıklarından birini yaşadı. Newcastle Üniversitesi’nden Hidrolog Dr. Anna Murgatroyd, son beş yılda üçüncü kez yaşanan bu kuraklığın, uzun süreli sıcak hava dalgalarıyla çakışması nedeniyl",
-      "url": "https://www.iklimhaber.org/kuraklik-yagmur-ulkesi-birlesik-kralliki-tehdit-ediyor/",
-      "tarih": "2026-09-03T06:30:21+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b2d3e576e873",
-      "baslik": "Kuduz virüsü karadan denize sıçradı: O tür arasında hızla yayılıyor",
-      "ozet": "Kuduz virüsü karadan denize sıçradı: O tür arasında hızla yayılıyor",
-      "url": "https://www.sozcu.com.tr/kuduz-virusu-karadan-denize-sicradi-o-tur-arasinda-hizla-yayiliyor-p354858",
-      "tarih": "2026-09-02T16:33:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d01cd3f9c639",
-      "baslik": "Galatasaray ayrılığı resmen açıkladı! Victor Nelsson'un sözleşmesi feshedildi",
-      "ozet": "Galatasaray ayrılığı resmen açıkladı! Victor Nelsson'un sözleşmesi feshedildi",
-      "url": "https://www.sozcu.com.tr/galatasaray-ayriligi-resmen-acikladi-victor-nelsson-un-sozlesmesi-feshedildi-p354857",
-      "tarih": "2026-09-02T16:29:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -94102,6 +94102,20 @@
       "ozet": "Bursa'da kural ihlali kaza yaptırdı turkhaber.com",
       "lat": 40.2591,
       "lng": 29.1226,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-36d2d91b3e46",
+      "baslik": "Türkiye Elektrifikasyon Hedefini Bir Kez Daha Duyurdu; Fosil Yakıtları Pas Geçti",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.09.2026",
+      "url": "https://www.iklimhaber.org/turkiye-elektrifikasyon-hedefini-bir-kez-daha-duyurdu-fosil-yakitlari-pas-gecti/",
+      "ozet": "Uzmanlar, elektrifikasyon gündeminin fosil yakıtlardan çıkış sürecinin önüne geçmemesi gerektiğini belirtirken, COP31’in ev sahibi olarak Türkiye’nin her iki gündemi birlikte ilerletme sorumluluğuna sahip olduğunu hatırlattı. Kasım ayında Antalya’da COP31 İklim Zirvesi’ne ev sahi",
+      "lat": 36.9408,
+      "lng": 30.7693,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
