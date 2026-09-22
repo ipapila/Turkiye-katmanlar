@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-22T13:48:34.187960+00:00",
+    "guncelleme": "2026-09-22T18:26:28.355838+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6579,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "f4110fc5d006",
+      "baslik": "Erdoğan’dan Guterres’e kritik mesaj: Rahatsızız",
+      "ozet": "Erdoğan’dan Guterres’e kritik mesaj: Rahatsızız",
+      "url": "https://www.sozcu.com.tr/erdogan-dan-guterres-e-kritik-mesaj-rahatsiziz-p362612",
+      "tarih": "2026-09-22T18:23:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "37d27b0e3b8c",
+      "baslik": "Aziz İhsan Aktaş'a suikast iddiasıyla tutukluydu! Tahliye edilen Selahattin Yılmaz'dan Bahçeli'ye ziyaret",
+      "ozet": "Aziz İhsan Aktaş'a suikast iddiasıyla tutukluydu! Tahliye edilen Selahattin Yılmaz'dan Bahçeli'ye ziyaret",
+      "url": "https://www.sozcu.com.tr/selahattin-yilmaz-tahliye-sonrasi-bahceli-yi-ziyaret-etti-p362608",
+      "tarih": "2026-09-22T18:19:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "55beb25731fa",
+      "baslik": "Erdoğan konuşurken salondan ayrıldılar",
+      "ozet": "Erdoğan konuşurken salondan ayrıldılar",
+      "url": "https://www.sozcu.com.tr/erdogan-konusurken-salondan-ayrildilar-p362602",
+      "tarih": "2026-09-22T17:25:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "886543e2496e",
+      "baslik": "Uygulamadan tanıştığı kadınla restorana giden adam, çıkışta soluğu emniyette aldı",
+      "ozet": "Uygulamadan tanıştığı kadınla restorana giden adam, çıkışta soluğu emniyette aldı",
+      "url": "https://www.sozcu.com.tr/uygulamadan-tanistigi-kadinla-restorana-giden-adam-cikista-solugu-emniyette-aldi-p362595",
+      "tarih": "2026-09-22T16:54:07+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "57967193654f",
+      "baslik": "Erdoğan BM kürsüsünde Sezai Karakoç'un şiirini okudu; Binali Yıldırım gözyaşlarını tutamadı",
+      "ozet": "Erdoğan BM kürsüsünde Sezai Karakoç'un şiirini okudu; Binali Yıldırım gözyaşlarını tutamadı",
+      "url": "https://www.sozcu.com.tr/erdogan-konustu-binali-yildirim-gozyaslarini-tutamadi-p362594",
+      "tarih": "2026-09-22T16:48:44+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "74835a2be3fb",
       "baslik": "Yeni resmi tatil geliyor: Sayılı günler sonra Meclis'e sunulacak",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-09-04T07:11:45+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ffc9945c5357",
-      "baslik": "Denize saçılan 28 bin oyuncak ördek 15 yıl sonra imkansızı başardı",
-      "ozet": "Denize saçılan 28 bin oyuncak ördek 15 yıl sonra imkansızı başardı",
-      "url": "https://www.sozcu.com.tr/denize-sacilan-28-bin-oyuncak-ordek-15-yil-sonra-imkansizi-basardi-p355262",
-      "tarih": "2026-09-04T05:42:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "81161fc27256",
-      "baslik": "Karadeniz’de tansiyon yükseldi: Rusya 2 gemiyi vurdu",
-      "ozet": "Karadeniz’de tansiyon yükseldi: Rusya 2 gemiyi vurdu",
-      "url": "https://www.sozcu.com.tr/karadeniz-de-tansiyon-yukseldi-rusya-2-gemiyi-vurdu-p355162",
-      "tarih": "2026-09-03T16:41:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7c45ab5c9d60",
-      "baslik": "İki ülkeyi denizin altından birbirine bağlayacaklar",
-      "ozet": "İki ülkeyi denizin altından birbirine bağlayacaklar",
-      "url": "https://www.sozcu.com.tr/iki-ulkeyi-denizin-altindan-birbirine-baglayacaklar-p355155",
-      "tarih": "2026-09-03T16:07:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "63d246df7248",
-      "baslik": "Döviz, altın ve borsa... Piyasanın gözü kulağı bu haberde",
-      "ozet": "Döviz, altın ve borsa... Piyasanın gözü kulağı bu haberde",
-      "url": "https://www.sozcu.com.tr/doviz-altin-ve-borsa-piyasanin-gozu-kulagi-bu-haberde-p355102",
-      "tarih": "2026-09-03T12:10:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a6b97aaae701",
-      "baslik": "Türkiye Sigorta Birliği’nden COP31 Mesajı: “Sigortanın Rolü Hasar Ödemekten İbaret Değil”",
-      "ozet": "TSB Başkanı Yaşar, iklim değişikliğinin ekonomik hayat üzerindeki etkilerinin giderek daha görünür hale geldiğine dikkati çekerek, “Sigortanın rolünü yalnızca hasar gerçekleştikten sonra ödeme yapan bir sistem olarak tanımlayamayız” dedi. Türkiye Sigorta Birliği (TSB) Yönetim Kur",
-      "url": "https://www.iklimhaber.org/turkiye-sigorta-birliginden-cop31-mesaji-sigortanin-rolu-hasar-odemekten-ibaret-degil/",
-      "tarih": "2026-09-03T10:34:58+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
