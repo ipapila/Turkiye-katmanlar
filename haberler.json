@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-22T18:26:28.355838+00:00",
+    "guncelleme": "2026-09-23T08:09:24.879190+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6579,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "85362934fdd4",
+      "baslik": "Evlerini kaybedip tarıma başladılar: Şimdi yılda 34 milyon lira kazanıyorlar",
+      "ozet": "Evlerini kaybedip tarıma başladılar: Şimdi yılda 34 milyon lira kazanıyorlar",
+      "url": "https://www.sozcu.com.tr/evlerini-kaybedip-tarima-basladilar-simdi-yilda-34-milyon-lira-kazaniyorlar-p362765",
+      "tarih": "2026-09-23T08:08:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ac68f2bfea37",
+      "baslik": "IEA: Elektrifikasyon Hanehalkı Enerji Faturalarını %15 Düşürebilir",
+      "ozet": "IEA’nın yeni raporuna göre “2035’e kadar %35” hedefine ulaşılması, küresel enerji ithalat faturalarını yılda 400 milyar dolardan fazla azaltabilir ve hanehalkı enerji faturalarını %15 oranında düşürebilir.  Uluslararası Enerji Ajansı’nın (IEA) yeni yayımlanan raporu, COP31 Başkan",
+      "url": "https://www.iklimhaber.org/iea-elektrifikasyon-hanehalki-enerji-faturalarini-%15-dusurebilir/",
+      "tarih": "2026-09-23T07:27:47+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "25c992a6d6a2",
+      "baslik": "Borsa güne düşüşle başladı - 23 Eylül 2026",
+      "ozet": "Borsa güne düşüşle başladı - 23 Eylül 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-23-eylul-2026-p362739",
+      "tarih": "2026-09-23T07:03:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7f259fcb1982",
+      "baslik": "Küresel piyasalarda enerji arzı iyimserliği",
+      "ozet": "Küresel piyasalarda enerji arzı iyimserliği",
+      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-enerji-arzi-iyimserligi-p362731",
+      "tarih": "2026-09-23T06:50:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f4110fc5d006",
       "baslik": "Erdoğan’dan Guterres’e kritik mesaj: Rahatsızız",
@@ -1967,46 +2007,6 @@
       "ozet": "Çağlar Söyüncü Süper Lig'de kaldı: İşte yeni adresi",
       "url": "https://www.sozcu.com.tr/caglar-soyuncu-super-lig-de-kaldi-iste-yeni-adresi-p355361",
       "tarih": "2026-09-04T10:43:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aa44e76bd62e",
-      "baslik": "Van Gölü’nde Kuraklık Tehdidi Sürüyor",
-      "ozet": "Havzada son yıllarda artan sıcaklıklar ve şiddetlenen buharlaşma, göldeki su kaybını hızlandırırken, bilim insanları 2026 yılında görülen yoğun yağışların bu tabloyu tamamen tersine çevirmeye yetmediği belirtti. Van Gölü Havzası, bir yandan bu yılki yüksek yağışlarla su kaynaklar",
-      "url": "https://www.iklimhaber.org/van-golunde-kuraklik-tehdidi-suruyor/",
-      "tarih": "2026-09-04T08:11:40+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e3d774e653e9",
-      "baslik": "Nepal’deki Felaketin Maliyeti 2,5 Milyar Doları Aşacak",
-      "ozet": "26 Ağustos’ta Nepal’in Çin sınır bölgesinde bir buzulun çökmesi sonucu Trishuli Nehri boyunca akan buz, kaya ve çamur seli kasabaları ve köyleri haritadan sildi. 1.250’den fazla kişinin hayatını kaybettiği felakette 4.200’den fazla kişi hâlen kayıp ve binlerce insan yerinden edil",
-      "url": "https://www.iklimhaber.org/nepaldeki-felaketin-maliyeti-25-milyar-dolari-asacak/",
-      "tarih": "2026-09-04T07:48:47+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cb693a543728",
-      "baslik": "Dünyadaki Çiftçilerin Neredeyse Yarısı Her Yıl Pestisitlerden Zehirleniyor",
-      "ozet": "Çalışmaya göre her yıl pestisit zehirlenmesi nedeniyle 11 bin insan yaşamını yitiriyor. Yeni bir çalışma, dünyadaki çiftçilerin neredeyse yarısının her yıl pestisitlerden zehirlendiği ortaya koydu. Pesticide Action Network (PAN) tarafından yaptırılan ve 2006-2023 yılları arasında",
-      "url": "https://www.iklimhaber.org/dunyadaki-ciftcilerin-neredeyse-yarisi-her-yil-pestisitlerden-zehirleniyor/",
-      "tarih": "2026-09-04T07:31:32+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9d01725dd2d7",
-      "baslik": "Dikkat: Altın fiyatları saatler sonra sert yükselebilir, gözler 15.30'a çevrildi",
-      "ozet": "Dikkat: Altın fiyatları saatler sonra sert yükselebilir, gözler 15.30'a çevrildi",
-      "url": "https://www.sozcu.com.tr/dikkat-altin-fiyatlari-saatler-sonra-sert-yukselebilir-gozler-15-30-a-cevrildi-p355295",
-      "tarih": "2026-09-04T07:11:45+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
