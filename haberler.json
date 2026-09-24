@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-24T08:00:34.046409+00:00",
+    "guncelleme": "2026-09-24T13:56:29.392284+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6581,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6582,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "027273fbed8a",
+      "baslik": "50 yıl önce şehri terk edip ormana kaçtı: Öldüğünde gömülmek için bu reçeteyi bıraktı",
+      "ozet": "50 yıl önce şehri terk edip ormana kaçtı: Öldüğünde gömülmek için bu reçeteyi bıraktı",
+      "url": "https://www.sozcu.com.tr/50-yil-once-sehri-terk-edip-ormana-kacti-oldugunde-gomulmek-icin-bu-receteyi-birakti-p363214",
+      "tarih": "2026-09-24T13:48:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8425cd7bdb25",
+      "baslik": "İnsanları oyuncak gibi gören 4 devasa yaratık",
+      "ozet": "İnsanları oyuncak gibi gören 4 devasa yaratık",
+      "url": "https://www.sozcu.com.tr/insanlari-oyuncak-gibi-goren-4-devasa-yaratik-p363194",
+      "tarih": "2026-09-24T13:18:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0645820ec98a",
+      "baslik": "Putin'in gözünü kan bürüdü, CIA uyardı: Bu görüntüler yakında Akdeniz'de yaşanabilir",
+      "ozet": "Putin'in gözünü kan bürüdü, CIA uyardı: Bu görüntüler yakında Akdeniz'de yaşanabilir",
+      "url": "https://www.sozcu.com.tr/putin-in-gozunu-kan-burudu-cia-uyardi-akdeniz-ulkelerine-iha-saldirisi-geliyor-p363183",
+      "tarih": "2026-09-24T12:36:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b892fcf82470",
+      "baslik": "Bu tarihten sonra doğanlara ömür boyu sigara satılmayacak",
+      "ozet": "Bu tarihten sonra doğanlara ömür boyu sigara satılmayacak",
+      "url": "https://www.sozcu.com.tr/bu-tarihten-sonra-doganlara-omur-boyu-sigara-satilmayacak-p363178",
+      "tarih": "2026-09-24T12:24:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0b4f08a0ed00",
+      "baslik": "Yabancılar bu hafta borsadan kaçtı",
+      "ozet": "Yabancılar bu hafta borsadan kaçtı",
+      "url": "https://www.sozcu.com.tr/yabancilar-bu-hafta-borsadan-kacti-p363170",
+      "tarih": "2026-09-24T12:01:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e5fcc2854b6e",
+      "baslik": "İklim Ağı: “Elektrifikasyon ile İklim Hedeflerine Ulaşmak için Temiz Enerjiye İhtiyaç Var”",
+      "ozet": "İklim Ağı Türkiye’nin COP31 Başkanlığı kapsamında ortaya koyduğu elektrifikasyon hedefinin gerçek bir iklim liderliğine dönüşmesi için ihtiyaç duyulanın daha fazla kömür değil; temiz, esnek ve yenilenebilir bir enerji sistemi olduğunu vurguladı. 9-20 Kasım tarihleri arasında Anta",
+      "url": "https://www.iklimhaber.org/iklim-agi-elektrifikasyon-ile-iklim-hedeflerine-ulasmak-icin-temiz-enerjiye-ihtiyac-var/",
+      "tarih": "2026-09-24T09:27:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "fa648bab5dca",
       "baslik": "Yapay Zeka COP31 Gündeminde: İklime Zarar mı Verecek, Fayda mı Sağlayacak?",
@@ -1947,66 +2007,6 @@
       "ozet": "Milyoner sandığı kocasının gerçek serveti şaşırttı: Hesabını kontrol edince...",
       "url": "https://www.sozcu.com.tr/milyoner-sandigi-kocasinin-gercek-serveti-sasirtti-hesabini-kontrol-edince-p355597",
       "tarih": "2026-09-05T12:02:42+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "33acf5b8bbff",
-      "baslik": "Erdoğan imam hatipli harp okulu birincisi hakkında ilk kez konuştu",
-      "ozet": "Erdoğan imam hatipli harp okulu birincisi hakkında ilk kez konuştu",
-      "url": "https://www.sozcu.com.tr/erdogan-imam-hatipli-harp-okulu-birincisi-hakkinda-ilk-kez-konustu-p355578",
-      "tarih": "2026-09-05T10:27:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "96af15a7d4a6",
-      "baslik": "Mersin’den Türkiye’ye denizcilik çağrısı - Hürriyet",
-      "ozet": "Mersin’den Türkiye’ye denizcilik çağrısı Hürriyet",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVNVUHdzUDB4ZC16SnR1UkZrZ3g2QXpTWFNrelZ3ZzFxbV8tOElNdWlMaXhGSXByT2pnLXg1YVdRNWQtaGctbEFHdDBHZVJubHhSUFd1RWN1RWRGa0U4WVhCb3p4NmxnUlRHOFFlTmtQU3ZCYU5WamFDOVBDVmM5b0hLZ2NvcEVwaVNERF9GVWwwLXZ2WnpTdTFJNS1FeEdMMFE?oc=5",
-      "tarih": "2026-09-05T09:46:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a3f268812aba",
-      "baslik": "Mersin’den Türkiye’ye denizcilik çağrısı | Erdal Fernergiz Köşe Yazısı - Hürriyet",
-      "ozet": "Mersin’den Türkiye’ye denizcilik çağrısı | Erdal Fernergiz Köşe Yazısı Hürriyet",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVNVUHdzUDB4ZC16SnR1UkZrZ3g2QXpTWFNrelZ3ZzFxbV8tOElNdWlMaXhGSXByT2pnLXg1YVdRNWQtaGctbEFHdDBHZVJubHhSUFd1RWN1RWRGa0U4WVhCb3p4NmxnUlRHOFFlTmtQU3ZCYU5WamFDOVBDVmM5b0hLZ2NvcEVwaVNERF9GVWwwLXZ2WnpTdTFJNS1FeEdMMFE?oc=5",
-      "tarih": "2026-09-05T09:46:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6085860488ed",
-      "baslik": "Ruhi Çenet'ten olay yaratacak açıklama... ‘Hasidik Yahudiler’ belgeseli bir haftada 50 milyon izlendi",
-      "ozet": "Ruhi Çenet'ten olay yaratacak açıklama... ‘Hasidik Yahudiler’ belgeseli bir haftada 50 milyon izlendi",
-      "url": "https://www.sozcu.com.tr/ruhi-cenet-ten-olay-yaratacak-aciklama-hasidik-yahudiler-belgeseli-bir-haftada-50-milyon-izlendi-p355527",
-      "tarih": "2026-09-05T07:06:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d84be6757abe",
-      "baslik": "Hatalı basılan madeni para değerinin 122 katına satıldı",
-      "ozet": "Hatalı basılan madeni para değerinin 122 katına satıldı",
-      "url": "https://www.sozcu.com.tr/hatali-basilan-madeni-para-degerinin-122-katina-satildi-p355520",
-      "tarih": "2026-09-05T06:38:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6a247f1ac89e",
-      "baslik": "Erdoğan imzaladı: 2 boğaz köprüsü ve 8 otoyol özelleştirme kapsamına alındı",
-      "ozet": "Erdoğan imzaladı: 2 boğaz köprüsü ve 8 otoyol özelleştirme kapsamına alındı",
-      "url": "https://www.sozcu.com.tr/erdogan-imzaladi-3-otoyol-ozellestirme-kapsamina-alindi-p355514",
-      "tarih": "2026-09-05T06:36:12+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94144,6 +94144,20 @@
       "ozet": "Yapay zekanın iklim üzerindeki etkisi tartışılırken gözler çoğunlukla veri merkezlerinin hızla artan elektrik tüketimine çevriliyor. Konuyu önceliklendirdiğini açıklayan COP31 Başkanı Türkiye de, 2026 Antalya Yapay Zeka Taahhüdü’nün hazırlandığını duyurdu. Ancak yeni bir araştırm",
       "lat": 37.0042,
       "lng": 30.6327,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-44aa57a1048b",
+      "baslik": "887 Mülk Sahibini İlgilendiriyor: Acele Kamulaştırma Kararı Resmi Gazete'de! Çevre Yolu İçin Hangi Arsa ve Tarlalar Kamulaştırılacak? - Çanakkale Kalem Gazetesi",
+      "konum": "Çanakkale",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdWpaUmZjb1ppQXlzbVBScGtKVVVndUlTV2kyTVRGdnY5N2gzTVcyRUxzUU0xazhuWTBjVFV6Q0xqNkZHUFpfaWxrODkyZG90ZVNsRzR1WlNLWm85QjV6d3lrSDZPZXlPYlc5aER4Y1pNVFFhd1F6WDZROFRTWURFYzRNOHljeXlXWDJwdE5UZWNaaG5DYU1saUxXcnVkaTRkdUNXbE1NZkFmcUtfNHhTMi1MRDYzSk9LQ0ZNYnJ0OVExcFJfX1dSc3EtbVlaNEUwWGJaRkJNdjJvMmVxLXhJczRVTjhFTWd1aVJNbGtoOUtBVzRrdU11YUZJOVdvTHZpSWQ0QnJR0gGLAkFVX3lxTFBtdWEwUEVBcGpUeTJtMDBLdjA4QWJUcXBLWnBQTHdzQ19rMGIwNzBNYzJpYzJ6b1BkazE3TU84S2hhblZlUldRQjJhTEtheGZja3V3RDZDUWRrZlQ0MndjbkhwSXJWOElWQ1p4bUh5SHZmZUhRbjZvRjJtWnN4aGJjVUphbk5KSTR4M3Y4U1pndWFZSkQ5RXd5S1pqc2ZoaWQxYTdIUkNLUVdvQll6RlM0UVQyejRvaTEwWTF1eTg4T2ZIUExuRkJXc2JWUTRtM0Fzb3dPa0Z6dnlscnhaU0xxMi1iZWctblhBdGdsYnd3MGJNcXNFZEZYaWFfaVE1U0lfUy1MMDg4d19uZw?oc=5",
+      "ozet": "887 Mülk Sahibini İlgilendiriyor: Acele Kamulaştırma Kararı Resmi Gazete'de! Çevre Yolu İçin Hangi Arsa ve Tarlalar Kamulaştırılacak? Çanakkale Kalem Gazetesi",
+      "lat": 40.1525,
+      "lng": 26.2944,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
