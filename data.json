@@ -119552,5 +119552,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/turkiye-elektrifikasyon-hedefini-bir-kez-daha-duyurdu-fosil-yakitlari-pas-gecti/"
+  },
+  {
+    "id": "tarayici-2012b968d518",
+    "tip": "Acele Kamulaştırma",
+    "ad": "İstanbul Ataşehir'de Acele Kamulaştırma Kararı! Hangi Bölgeyi Kapsıyor? - Çanakkale Kalem Gazetesi",
+    "il": "Çanakkale",
+    "ilce": "",
+    "aciklama": "İstanbul Ataşehir'de Acele Kamulaştırma Kararı! Hangi Bölgeyi Kapsıyor? Çanakkale Kalem Gazetesi",
+    "koordinatlar": {
+      "lat": 40.2166,
+      "lng": 26.3232
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "24.09.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkhGZXVGdXdHNF9ILTJqMXBWcmtzbklFcmFXdXZIWWpoeEtUQVZTVG1fc193enhsdWVfRFBwQi1VNEdGMDdKdTZ2SGwwNTQ1YXhySUpHZURzMFFtVWlySDNRakRwUEUtZ2hwX1AtbmhES1A1ZnZmZy1lQUlXWW1fS29ObEVyOE9TVV9DbXpSLVZhMlN4RTlxSm1KRkt0TWFvVldyOWYxY1hhem9XMGxOVE9PbDXSAboBQVVfeXFMTlhCVlp5RjlhMW81LXV3V2pFY3JOelhqeE00N0MtYWJNVlpOV3QtaUoyMjBHSVREcDhuWU85WVJnNGhzc004UnhSVHJoVDB1S0ZGMmJBeDQtYnVYZGpHS2o3SGhuVXlSdklYV1BiMW9wUk04SE1GRUF5Z0d6NkhJTDFnVFcwVUNpSTVxUElaUDRmd05xbXd2Um5MVEtvQm1RbS13ZzYtYlNwOG8xY25YcDhCRmdiYlVCT0hB?oc=5"
+  },
+  {
+    "id": "tarayici-fa648bab5dca",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yapay Zeka COP31 Gündeminde: İklime Zarar mı Verecek, Fayda mı Sağlayacak?",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Yapay zekanın iklim üzerindeki etkisi tartışılırken gözler çoğunlukla veri merkezlerinin hızla artan elektrik tüketimine çevriliyor. Konuyu önceliklendirdiğini açıklayan COP31 Başkanı Türkiye de, 2026 Antalya Yapay Zeka Taahhüdü’nün hazırlandığını duyurdu. Ancak yeni bir araştırm",
+    "koordinatlar": {
+      "lat": 37.0042,
+      "lng": 30.6327
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "24.09.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/yapay-zeka-cop31-gundeminde-iklime-zarar-mi-verecek-fayda-mi-saglayacak/"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-23T18:45:40.887410+00:00",
+    "guncelleme": "2026-09-24T08:00:34.046409+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6579,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6581,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "fa648bab5dca",
+      "baslik": "Yapay Zeka COP31 Gündeminde: İklime Zarar mı Verecek, Fayda mı Sağlayacak?",
+      "ozet": "Yapay zekanın iklim üzerindeki etkisi tartışılırken gözler çoğunlukla veri merkezlerinin hızla artan elektrik tüketimine çevriliyor. Konuyu önceliklendirdiğini açıklayan COP31 Başkanı Türkiye de, 2026 Antalya Yapay Zeka Taahhüdü’nün hazırlandığını duyurdu. Ancak yeni bir araştırm",
+      "url": "https://www.iklimhaber.org/yapay-zeka-cop31-gundeminde-iklime-zarar-mi-verecek-fayda-mi-saglayacak/",
+      "tarih": "2026-09-24T07:52:37+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "054243ebd356",
+      "baslik": "Özel iddia etmiş, Erdoğan 'uyduruyor' demişti... ABD ile Boeing anlaşması kesinleşti",
+      "ozet": "Özel iddia etmiş, Erdoğan 'uyduruyor' demişti... ABD ile Boeing anlaşması kesinleşti",
+      "url": "https://www.sozcu.com.tr/ozel-iddia-etmis-erdogan-uyduruyor-demisti-abd-ile-boeing-anlasmasi-kesinlesti-p363071",
+      "tarih": "2026-09-24T07:37:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "591d348779da",
+      "baslik": "Erdoğan BM’deki Konuşmasında Fosil Yakıtlara Değinmedi",
+      "ozet": "BM Genel Kurulu’ndaki konuşmasında COP31’de uygulamaya öncelik verme sözü veren Erdoğan fosil yakıtlardan söz etmedi. İklim STK’ları ise Türkiye’nin bir an önce başta kömür olmak üzere fosil yakıtlardan çıkış planını duyurması ve zirveye liderlik etmesi gerektiğini savunuyor. Bu ",
+      "url": "https://www.iklimhaber.org/erdogan-bmdeki-konusmasinda-fosil-yakitlara-deginmedi/",
+      "tarih": "2026-09-24T07:35:40+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dd38de1f0f07",
+      "baslik": "Borsa güne düşüşle başladı - 24 Eylül 2026",
+      "ozet": "Borsa güne düşüşle başladı - 24 Eylül 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-24-eylul-2026-p363052",
+      "tarih": "2026-09-24T06:59:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "9d4bd2ea63b7",
       "baslik": "Çevrecilerden acele kamulaştırma tepkisi - edirnesonhaber.com",
@@ -647,6 +687,16 @@
       "ozet": "Akbelen'deki 'acele kamulaştırma' davası: Danıştay Savcısı'ndan 'kamu yararı' yönünde mütalaa Cumhuriyet",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbVNXZDJ2YXFla3Y4RVF0MDdPSEFiUTlwM0laMXY0YjZ5a3dVbkl2enZZOXF0Z3o4UTNPMnprWW95QVZXbFNwTGc1cnhNSGlFeDJyMFRfWG9PX090OHA4dFdnUV8yWGVoNlplc1ZyekE4S0RPekROeVdKQmozZ1Y1dFQ0LTJ5cm9FY1k0VWpMX3JWMDNWWEVSdjRjTXhMZUJyOTliNUpBa1hkMUxzU1JMeWFqOHF6NVdOem9XZjdpbXBLUGlSODlUZDc0QWhZRkE?oc=5",
       "tarih": "2026-09-16T16:19:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9b09c52e4e43",
+      "baslik": "Hak savunucularından \"acele kamulaştırma\" projelerine tepki: Bir şirketi binlerce hayvana tercih ediyorlar - Anka Haber",
+      "ozet": "Hak savunucularından \"acele kamulaştırma\" projelerine tepki: Bir şirketi binlerce hayvana tercih ediyorlar Anka Haber",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNem9MTTJ5MlBraGxvZWk4LWl5UlRRY3NNR05TbTNmczlTUmN0LVVHNFlrNmhLVVotU1JYYV84T282MlNvQ3FjRnlfN19MMEJtODM2bGdSZUxnMmphNDdvcXYyd0Q1UmM1aEk1S196Q2pxckhPMWNVUG50TXl2RVM5RmpYRDVrZzNTT3NXOEFyUmFYdnFJTGtQejN4YS04dmpsYTQ1dTFvYnB1cElYdXN5TENZcHREMnc0TE1JajViSGkzci1vLWxZNUZGVVpIaFR6ZkhHOExaaw?oc=5",
+      "tarih": "2026-09-16T15:16:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
@@ -1959,56 +2009,6 @@
       "tarih": "2026-09-05T06:36:12+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "91051789a86f",
-      "baslik": "Taşacak Bu Deniz’in ünlü ismi Burak Yörük sessiz sedasız evlendi",
-      "ozet": "Taşacak Bu Deniz’in ünlü ismi Burak Yörük sessiz sedasız evlendi",
-      "url": "https://www.sozcu.com.tr/tasacak-bu-deniz-in-unlu-ismi-burak-yoruk-sessiz-sedasiz-evlendi-p355509",
-      "tarih": "2026-09-05T05:54:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4854514a248c",
-      "baslik": "Kurtuluş Kuş konserinde tansiyon yükseldi: Sahneyi terk etti",
-      "ozet": "Kurtuluş Kuş konserinde tansiyon yükseldi: Sahneyi terk etti",
-      "url": "https://www.sozcu.com.tr/kurtulus-kus-konserinde-tansiyon-yukseldi-sahneyi-terk-etti-p355508",
-      "tarih": "2026-09-05T05:42:43+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7a0c7fe253a3",
-      "baslik": "Erdoğan'dan Meloni'ye 'görev süresi' tebriği",
-      "ozet": "Erdoğan'dan Meloni'ye 'görev süresi' tebriği",
-      "url": "https://www.sozcu.com.tr/erdogan-dan-meloni-ye-gorev-suresi-tebrigi-p355467",
-      "tarih": "2026-09-04T19:39:19+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7a1223b70abe",
-      "baslik": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret - aydintimes.com",
-      "ozet": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret aydintimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0FCV0h1dEJDaGo4UTZoa1RRZWxsT2pqUTZ5NkRVSi1EMWprRkNmaDBsbERWMXVWZlpLZ1o4SDNLclVCLWJJekZuc2NaYmplM21yTzNRQURGLXVVTC1jRVdBbUk1V1lCeUJfdExHenBndE4zdTZRbUFRY3k2Tk91ZWdlcmlLYnhJVmc?oc=5",
-      "tarih": "2026-09-04T17:52:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "15aa7e055e32",
-      "baslik": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret - Aydın Times",
-      "ozet": "Kaltun Maden yöneticilerinden Başkan Zencirci’ye ziyaret Aydın Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0FCV0h1dEJDaGo4UTZoa1RRZWxsT2pqUTZ5NkRVSi1EMWprRkNmaDBsbERWMXVWZlpLZ1o4SDNLclVCLWJJekZuc2NaYmplM21yTzNRQURGLXVVTC1jRVdBbUk1V1lCeUJfdExHenBndE4zdTZRbUFRY3k2Tk91ZWdlcmlLYnhJVmc?oc=5",
-      "tarih": "2026-09-04T17:52:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
@@ -94116,6 +94116,34 @@
       "ozet": "Uzmanlar, elektrifikasyon gündeminin fosil yakıtlardan çıkış sürecinin önüne geçmemesi gerektiğini belirtirken, COP31’in ev sahibi olarak Türkiye’nin her iki gündemi birlikte ilerletme sorumluluğuna sahip olduğunu hatırlattı. Kasım ayında Antalya’da COP31 İklim Zirvesi’ne ev sahi",
       "lat": 36.9408,
       "lng": 30.7693,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-2012b968d518",
+      "baslik": "İstanbul Ataşehir'de Acele Kamulaştırma Kararı! Hangi Bölgeyi Kapsıyor? - Çanakkale Kalem Gazetesi",
+      "konum": "Çanakkale",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkhGZXVGdXdHNF9ILTJqMXBWcmtzbklFcmFXdXZIWWpoeEtUQVZTVG1fc193enhsdWVfRFBwQi1VNEdGMDdKdTZ2SGwwNTQ1YXhySUpHZURzMFFtVWlySDNRakRwUEUtZ2hwX1AtbmhES1A1ZnZmZy1lQUlXWW1fS29ObEVyOE9TVV9DbXpSLVZhMlN4RTlxSm1KRkt0TWFvVldyOWYxY1hhem9XMGxOVE9PbDXSAboBQVVfeXFMTlhCVlp5RjlhMW81LXV3V2pFY3JOelhqeE00N0MtYWJNVlpOV3QtaUoyMjBHSVREcDhuWU85WVJnNGhzc004UnhSVHJoVDB1S0ZGMmJBeDQtYnVYZGpHS2o3SGhuVXlSdklYV1BiMW9wUk04SE1GRUF5Z0d6NkhJTDFnVFcwVUNpSTVxUElaUDRmd05xbXd2Um5MVEtvQm1RbS13ZzYtYlNwOG8xY25YcDhCRmdiYlVCT0hB?oc=5",
+      "ozet": "İstanbul Ataşehir'de Acele Kamulaştırma Kararı! Hangi Bölgeyi Kapsıyor? Çanakkale Kalem Gazetesi",
+      "lat": 40.2166,
+      "lng": 26.3232,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-fa648bab5dca",
+      "baslik": "Yapay Zeka COP31 Gündeminde: İklime Zarar mı Verecek, Fayda mı Sağlayacak?",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.09.2026",
+      "url": "https://www.iklimhaber.org/yapay-zeka-cop31-gundeminde-iklime-zarar-mi-verecek-fayda-mi-saglayacak/",
+      "ozet": "Yapay zekanın iklim üzerindeki etkisi tartışılırken gözler çoğunlukla veri merkezlerinin hızla artan elektrik tüketimine çevriliyor. Konuyu önceliklendirdiğini açıklayan COP31 Başkanı Türkiye de, 2026 Antalya Yapay Zeka Taahhüdü’nün hazırlandığını duyurdu. Ancak yeni bir araştırm",
+      "lat": 37.0042,
+      "lng": 30.6327,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
