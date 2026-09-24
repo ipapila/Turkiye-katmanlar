@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-24T13:56:29.392284+00:00",
+    "guncelleme": "2026-09-24T18:46:15.363196+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6582,
+    "harita_kayit_sayisi": 6583,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "dff05d641710",
+      "baslik": "Rahmi Koç'tan Beşiktaş'a dev destek! Borcun yarısını ödedi",
+      "ozet": "Rahmi Koç'tan Beşiktaş'a dev destek! Borcun yarısını ödedi",
+      "url": "https://www.sozcu.com.tr/rahmi-koc-tan-besiktas-a-dev-destek-borcun-yarisini-odedi-p363267",
+      "tarih": "2026-09-24T18:41:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "027273fbed8a",
       "baslik": "50 yıl önce şehri terk edip ormana kaçtı: Öldüğünde gömülmek için bu reçeteyi bıraktı",
@@ -1997,16 +2007,6 @@
       "ozet": "İki şehir arasındaki 14 saatlik seyahat süresi 3,5 saate inecek: Bakan detayları açıkladı",
       "url": "https://www.sozcu.com.tr/iki-sehir-arasindaki-14-saatlik-seyahat-suresi-3-5-saate-inecek-bakan-detaylari-acikladi-p355608",
       "tarih": "2026-09-05T12:41:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "331b41ee25af",
-      "baslik": "Milyoner sandığı kocasının gerçek serveti şaşırttı: Hesabını kontrol edince...",
-      "ozet": "Milyoner sandığı kocasının gerçek serveti şaşırttı: Hesabını kontrol edince...",
-      "url": "https://www.sozcu.com.tr/milyoner-sandigi-kocasinin-gercek-serveti-sasirtti-hesabini-kontrol-edince-p355597",
-      "tarih": "2026-09-05T12:02:42+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94158,6 +94158,20 @@
       "ozet": "887 Mülk Sahibini İlgilendiriyor: Acele Kamulaştırma Kararı Resmi Gazete'de! Çevre Yolu İçin Hangi Arsa ve Tarlalar Kamulaştırılacak? Çanakkale Kalem Gazetesi",
       "lat": 40.1525,
       "lng": 26.2944,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d9720ebeedc6",
+      "baslik": "Kars'ta baraj sularının çekilmesiyle köy gün yüzüne çıktı - dikGAZETE.com",
+      "konum": "Kars",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGRuMVE4Vm5qNlczZkhWS3NUTHhPbHo2RlZUWGZtVFJjMzF2OXVDbEwtNlUyUUNiQmwtNERjVTlDVEpYeXR2Qmt2Qjh2MEhLZTRDMFJGV3o3THFFTUdDX2RXQjgtQ0Fra2VCS2Q1OXlTX0RfZ2NZQUR6bnY5YWlRY2sxanNIWVlRVzVad0Z4M21vTlNiMTJvVWVFZWYyQVhFaWlV?oc=5",
+      "ozet": "Kars'ta baraj sularının çekilmesiyle köy gün yüzüne çıktı dikGAZETE.com",
+      "lat": 40.5739,
+      "lng": 43.0839,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
