@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-25T08:24:35.007517+00:00",
+    "guncelleme": "2026-09-25T14:20:40.932579+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6583,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "d2c255f022e5",
+      "baslik": "Mehmetçik Yemene gidecek mi? Erdoğan ilk sinyali verdi",
+      "ozet": "Mehmetçik Yemene gidecek mi? Erdoğan ilk sinyali verdi",
+      "url": "https://www.sozcu.com.tr/mekke-pakti-nin-acil-toplantisi-sona-erdi-dikkat-ceken-hazirlik-aciklamasi-p363503",
+      "tarih": "2026-09-25T12:48:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ddd0ef605379",
+      "baslik": "On milyonlarca numara resmen yağmalanmış! Ne kimliğiniz ne de telefon numaranız...",
+      "ozet": "On milyonlarca numara resmen yağmalanmış! Ne kimliğiniz ne de telefon numaranız...",
+      "url": "https://www.sozcu.com.tr/101-milyon-kisinin-verisini-satmislar-panelin-kurucularina-operasyon-p363478",
+      "tarih": "2026-09-25T12:12:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7a47e0bf7e08",
+      "baslik": "Ne menü var ne adisyon: Bu restoranda hesap çok farklı yolla ödeniyor",
+      "ozet": "Ne menü var ne adisyon: Bu restoranda hesap çok farklı yolla ödeniyor",
+      "url": "https://www.sozcu.com.tr/ne-menu-var-ne-adisyon-bu-restoranda-hesap-cok-farkli-yolla-odeniyor-p363480",
+      "tarih": "2026-09-25T11:37:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2ec67af6e2e7",
+      "baslik": "BM’de Dünyaya Çağrı: “İklim Krizi, Küresel Adalet ve Hakkaniyetin En Büyük Sınavıdır”",
+      "ozet": "Dünyanın dört bir yanından liderler, BM’de iklim değişikliğine karşı eylem çağrısında bulunuyor. BM Genel Kurulu’nun deniz seviyesinin yükselmesine ilişkin ilk bildirgesini kabul ettiği Perşembe günü BM Genel Sekreteri Antonio Guterres, dünyanın “ülkelerin ve kültürlerin dalgalar",
+      "url": "https://www.iklimhaber.org/bmde-dunyaya-cagri-iklim-krizi-kuresel-adalet-ve-hakkaniyetin-en-buyuk-sinavidir/",
+      "tarih": "2026-09-25T09:46:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2101de32cf45",
+      "baslik": "95 STK’dan COP31 Başkanlığına Açık Mektup: “Elektrifikasyon Amaç Değil, Araç Olmalı”",
+      "ozet": "Türkiye’nin ve Avustralya’nın COP31 Başkanlıklarına yönelik açık mektup yayımlayan 95 STK, küresel bir elektrifikasyon hedefini memnuniyetle karşılarken hakkaniyetli ve yenilenebilir enerji öncülüğünde bir uygulama için yedi güvence ilkesi çağrısında bulunuyor. Türkiye’nin",
+      "url": "https://www.iklimhaber.org/95-stkdan-cop31-baskanligina-acik-mektup-elektrifikasyon-amac-degil-arac-olmali/",
+      "tarih": "2026-09-25T08:57:21+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "47909afbbeba",
+      "baslik": "COP31’de İklim Krizi, Biyoçeşitlilik ve Çölleşme Arasındaki Bağ Güçlenmeli",
+      "ozet": "Yıldıray Lise, COP31’de iklim değişikliği, biyolojik çeşitlilik ve çölleşmeyle mücadele arasındaki bağın güçlendirilmesinin, üç kardeş sözleşmenin ortak hedefleri açısından önemli bir adım olabileceğini dile getirdi. İklim Haber ve Medyascope işbirliği ile hazırlanan COP31 Yolu’n",
+      "url": "https://www.iklimhaber.org/cop31de-iklim-krizi-biyocesitlilik-ve-collesme-arasindaki-bag-guclenmeli/",
+      "tarih": "2026-09-25T08:31:22+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1fee70dc58e5",
       "baslik": "İklim İnkârcılığı-13: “Yapay Et Zorunlu Hale Gelecek”",
@@ -1332,6 +1392,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "45f6e6b0c77f",
+      "baslik": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi - Evrensel.net",
+      "ozet": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi Evrensel.net",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa29zbEpGTzhHM3hEYUdhU09HdWZKUWtNRjZUcnJjdkhpaFRYMWVObm5kb2ZrU01FQ3lNa0F1SDE2dWtxeHptQm00akY4bFgtNXNxeXJOa0pVUDVxWkdTdmRuZUJSV2tIUVpWQ2dJVmZBeFRnYlpnQkpWUjNnVlAtWHljc0pnaUw2RXFpZG1UclgwMHNCRXd2U2d4UlN3T0g3MXNQc2tLN1FxWW9Hb0p4WUg3VXZaQQ?oc=5",
+      "tarih": "2026-09-11T10:54:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "13f9e360b727",
       "baslik": "Yangında 2,5 milyon dolarlık villaları kül olmuştu: Kenan Doğulu ve Beren Saat’in yeni kararı şaşırttı",
       "ozet": "Yangında 2,5 milyon dolarlık villaları kül olmuştu: Kenan Doğulu ve Beren Saat’in yeni kararı şaşırttı",
@@ -1939,76 +2009,6 @@
       "tarih": "2026-09-07T05:55:33+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d13acec5f13b",
-      "baslik": "Deniz suyunun toprağa karışması felakete neden oldu: 10 milyondan fazla ağaç öldü",
-      "ozet": "Deniz suyunun toprağa karışması felakete neden oldu: 10 milyondan fazla ağaç öldü",
-      "url": "https://www.sozcu.com.tr/deniz-suyunun-topraga-karismasi-felakete-neden-oldu-10-milyondan-fazla-agac-oldu-p355865",
-      "tarih": "2026-09-06T17:13:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7b4ce26d99fd",
-      "baslik": "MHP'den 2028 mesajı: Adayımız yine Erdoğan",
-      "ozet": "MHP'den 2028 mesajı: Adayımız yine Erdoğan",
-      "url": "https://www.sozcu.com.tr/ismail-ozdemir-2028-aciklamasi-p355861",
-      "tarih": "2026-09-06T16:38:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0ab274b31ea3",
-      "baslik": "Denizin 72 metre altına dönel kavşak inşa ettiler: Bir saatlik yol 15 dakikaya indi",
-      "ozet": "Denizin 72 metre altına dönel kavşak inşa ettiler: Bir saatlik yol 15 dakikaya indi",
-      "url": "https://www.sozcu.com.tr/denizin-72-metre-altina-donel-kavsak-insa-ettiler-bir-saatlik-yol-15-dakikaya-indi-p355860",
-      "tarih": "2026-09-06T16:24:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f8de59bdc035",
-      "baslik": "Meloni'den Erdoğan'ın o mesajına yanıt",
-      "ozet": "Meloni'den Erdoğan'ın o mesajına yanıt",
-      "url": "https://www.sozcu.com.tr/meloniden-erdoganin-o-mesajina-yanit-p355651",
-      "tarih": "2026-09-05T19:37:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b86413037938",
-      "baslik": "Boğaz'da 4 bin 141 yapı için yıkım kararı: Ünlü isimler de listede",
-      "ozet": "Boğaz'da 4 bin 141 yapı için yıkım kararı: Ünlü isimler de listede",
-      "url": "https://www.sozcu.com.tr/bogazda-4-bin-141-yapi-icin-yikim-karari-unlu-isimler-de-listede-p355644",
-      "tarih": "2026-09-05T18:49:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cce5c72d0b7a",
-      "baslik": "Manisa Soma'da orman yangını",
-      "ozet": "Manisa Soma'da orman yangını",
-      "url": "https://www.sozcu.com.tr/manisa-soma-da-orman-yangini-p355634",
-      "tarih": "2026-09-05T16:59:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2fec7f84ffa0",
-      "baslik": "Pes dedirten görüntüler: Piknik yapıp çöplerini denize attılar",
-      "ozet": "Pes dedirten görüntüler: Piknik yapıp çöplerini denize attılar",
-      "url": "https://www.sozcu.com.tr/pes-dedirten-goruntuler-piknik-yapip-coplerini-denize-attilar-p355626",
-      "tarih": "2026-09-05T15:13:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
