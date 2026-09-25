@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-24T18:46:15.363196+00:00",
+    "guncelleme": "2026-09-25T08:24:35.007517+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6583,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "1fee70dc58e5",
+      "baslik": "İklim İnkârcılığı-13: “Yapay Et Zorunlu Hale Gelecek”",
+      "ozet": "Dünya üzerinde hiçbir ülkede geleneksel hayvancılığı yasaklayan bir yasa yok. Tam tersine Türkiye ve İtalya gibi ülkelerde yapay et üretimi ve ithalatı yasak. Ancak bir gerçeğin de altını çizmek gerek, geleneksel hayvancılık küresel sera gazı emisyonlarının yaklaşık %11 ila %14.5",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-13-yapay-et-zorunlu-hale-gelecek/",
+      "tarih": "2026-09-25T08:17:37+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0dfe8992f40e",
+      "baslik": "Türkiye Yeşil Taksonomisi Yönetmeliği Yürürlüğe Girdi",
+      "ozet": "Türkiye Yeşil Taksonomisi hangi yatırımların çevresel açıdan sürdürülebilir olduğunu belirlemede yol gösterici olacak. Yönetmelik kapsamında 6 çevresel hedef belirlendi. bir ekonomik faaliyetin “Yeşil Taksonomiye Uyumlu” olarak nitelendirilebilmesi için 3 şartı eş zamanlı sağlama",
+      "url": "https://www.iklimhaber.org/turkiye-yesil-taksonomisi-yonetmeligi-yururluge-girdi/",
+      "tarih": "2026-09-25T08:11:46+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "17ebd36acc63",
+      "baslik": "Borsa güne yatay başladı -25 Eylül 2026",
+      "ozet": "Borsa güne yatay başladı -25 Eylül 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-yatay-basladi-25-eylul-2026-p363383",
+      "tarih": "2026-09-25T07:05:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "32e22f8b7ca6",
+      "baslik": "Brent petrol 105 dolara yükseldi",
+      "ozet": "Brent petrol 105 dolara yükseldi",
+      "url": "https://www.sozcu.com.tr/brent-petrol-105-dolara-yukseldi-p363380",
+      "tarih": "2026-09-25T06:56:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "dff05d641710",
       "baslik": "Rahmi Koç'tan Beşiktaş'a dev destek! Borcun yarısını ödedi",
@@ -1967,46 +2007,6 @@
       "ozet": "Pes dedirten görüntüler: Piknik yapıp çöplerini denize attılar",
       "url": "https://www.sozcu.com.tr/pes-dedirten-goruntuler-piknik-yapip-coplerini-denize-attilar-p355626",
       "tarih": "2026-09-05T15:13:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f6fb3abce3aa",
-      "baslik": "Destan yazmaya devam! Sultanlar finale yükseldi",
-      "ozet": "Destan yazmaya devam! Sultanlar finale yükseldi",
-      "url": "https://www.sozcu.com.tr/destan-yazmaya-devam-sultanlar-finale-yukseldi-p355623",
-      "tarih": "2026-09-05T14:50:43+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "56d305fc8864",
-      "baslik": "MHP Antalya İl Kongresi’ne saatler kala il başkanının casino görüntüleri ortaya çıktı",
-      "ozet": "MHP Antalya İl Kongresi’ne saatler kala il başkanının casino görüntüleri ortaya çıktı",
-      "url": "https://www.sozcu.com.tr/mhp-antalya-il-kongresi-ne-saatler-kala-il-baskaninin-casino-goruntuleri-ortaya-cikti-p355624",
-      "tarih": "2026-09-05T14:43:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "44d872d2a67e",
-      "baslik": "Silivri açıklarında batan geminin deniz altındaki ilk görüntüleri ortaya çıktı",
-      "ozet": "Silivri açıklarında batan geminin deniz altındaki ilk görüntüleri ortaya çıktı",
-      "url": "https://www.sozcu.com.tr/silivri-aciklarinda-batan-geminin-deniz-altindaki-ilk-goruntuleri-ortaya-cikti-p355622",
-      "tarih": "2026-09-05T14:39:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cf05319e8bb6",
-      "baslik": "İki şehir arasındaki 14 saatlik seyahat süresi 3,5 saate inecek: Bakan detayları açıkladı",
-      "ozet": "İki şehir arasındaki 14 saatlik seyahat süresi 3,5 saate inecek: Bakan detayları açıkladı",
-      "url": "https://www.sozcu.com.tr/iki-sehir-arasindaki-14-saatlik-seyahat-suresi-3-5-saate-inecek-bakan-detaylari-acikladi-p355608",
-      "tarih": "2026-09-05T12:41:38+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
