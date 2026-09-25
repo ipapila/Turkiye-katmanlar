@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-25T14:20:40.932579+00:00",
+    "guncelleme": "2026-09-25T19:03:47.995487+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6583,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "5108298ea14f",
+      "baslik": "Menderes Belediyesi soruşturmasında ikinci dalga: 9 kişiden 7’si tutuklandı",
+      "ozet": "Menderes Belediyesi soruşturmasında ikinci dalga: 9 kişiden 7’si tutuklandı",
+      "url": "https://www.sozcu.com.tr/menderes-belediyesi-sorusturmasinda-ikinci-dalga-9-kisiden-7-si-tutuklandi-p363561",
+      "tarih": "2026-09-25T17:53:38+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c09e16007448",
+      "baslik": "Selçuk Özdağ'dan Davutoğlu'na sert sözler: Dükkan kapatır gibi parti kapattı",
+      "ozet": "Selçuk Özdağ'dan Davutoğlu'na sert sözler: Dükkan kapatır gibi parti kapattı",
+      "url": "https://www.sozcu.com.tr/selcuk-ozdag-ahmet-davutoglu-elestiri-p363556",
+      "tarih": "2026-09-25T17:09:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d2c255f022e5",
       "baslik": "Mehmetçik Yemene gidecek mi? Erdoğan ilk sinyali verdi",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-09-07T07:04:01+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6db0435b83b6",
-      "baslik": "Dünya Meteoroloji Örgütü: Orman Yangınları ve Sıcak Dalgaları Hava Kirliliğini Artırıyor",
-      "ozet": "BM’ye bağlı ajans, hava kirliliği ile iklim değişikliğinin birbiriyle yakından ilişkili olduğunu ve tek başlarına değil, koordineli politikalar aracılığıyla ele alınmaları gerektiğini belirtti. Dünya Meteoroloji Örgütü (WMO), iklim değişikliğinin uluslararası hava kalitesi hedefl",
-      "url": "https://www.iklimhaber.org/dunya-meteoroloji-orgutu-orman-yanginlari-ve-sicak-dalgalari-hava-kirliligini-artiriyor/",
-      "tarih": "2026-09-07T06:46:30+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "60169cc68550",
-      "baslik": "İkizköy’den 16 Eylül’deki Duruşma için Mesaj: “Kamu Yararı bir Şirketin Faydası Değildir”",
-      "ozet": "İkizköy’ü kapsayan acele kamulaştırma kararına karşı açılan iptal davasının duruşması öncesi yapılan dayanışma çağrısında, “Bu duruşmada şirketlerin kârı, rantı ve çıkarlarına karşı köylünün, toplumun kamu yararını savunacağız. Acele kamulaştırma kararının iptal edilmesini, topra",
-      "url": "https://www.iklimhaber.org/ikizkoyden-16-eyluldeki-durusma-icin-mesaj-kamu-yarari-bir-sirketin-faydasi-degildir/",
-      "tarih": "2026-09-07T05:55:33+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
