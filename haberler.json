@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-26T08:12:00.882699+00:00",
+    "guncelleme": "2026-09-26T13:32:23.407989+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6584,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "78c699a0214a",
+      "baslik": "Özgür Özel'den seçim resti: Genel Başkanlığı bırakırım",
+      "ozet": "Özgür Özel'den seçim resti: Genel Başkanlığı bırakırım",
+      "url": "https://www.sozcu.com.tr/ozgur-ozel-den-secim-resti-genel-baskanligi-birakirim-p363729",
+      "tarih": "2026-09-26T12:10:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f55b99bf36ed",
       "baslik": "Denizden kasa kasa balık fışkırıyor: Fiyatı duyan tezgahlara koşuyor",
@@ -1997,16 +2007,6 @@
       "ozet": "Tuzla Meclisi'nde AKP'ye geçen Eren Ali Bingöl'e sert tepki: Özür borcunuz var",
       "url": "https://www.sozcu.com.tr/tuzla-belediyesi-meclis-tartisma-p356167",
       "tarih": "2026-09-07T17:54:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f2c534bdb44a",
-      "baslik": "Denizin dibinde unutulan 121 bin ton boru parçalanmaya başladı",
-      "ozet": "Denizin dibinde unutulan 121 bin ton boru parçalanmaya başladı",
-      "url": "https://www.sozcu.com.tr/denizin-dibinde-unutulan-121-bin-ton-boru-parcalanmaya-basladi-p356154",
-      "tarih": "2026-09-07T16:20:46+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
