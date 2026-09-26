@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-25T19:03:47.995487+00:00",
+    "guncelleme": "2026-09-26T08:12:00.882699+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6583,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6584,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "f55b99bf36ed",
+      "baslik": "Denizden kasa kasa balık fışkırıyor: Fiyatı duyan tezgahlara koşuyor",
+      "ozet": "Denizden kasa kasa balık fışkırıyor: Fiyatı duyan tezgahlara koşuyor",
+      "url": "https://www.sozcu.com.tr/denizden-kasa-kasa-balik-fiskiriyor-fiyati-duyan-tezgahlara-kosuyor-p363666",
+      "tarih": "2026-09-26T07:58:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ef53070dd341",
+      "baslik": "Sokaklarda yaşayan kedi ve köpekleri beslemek de yasaklandı! Bu resmen toplumun vicdanına müdahale",
+      "ozet": "Sokaklarda yaşayan kedi ve köpekleri beslemek de yasaklandı! Bu resmen toplumun vicdanına müdahale",
+      "url": "https://www.sozcu.com.tr/sokaklarda-yasayan-kedi-ve-kopekleri-beslemek-de-yasaklandi-bu-resmen-toplumun-vicdanina-mudahale-p363663",
+      "tarih": "2026-09-26T07:53:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5ca67caf6841",
+      "baslik": "Hapis cezası sonrası Biran Damla Yılmaz cephesinden ilk açıklama",
+      "ozet": "Hapis cezası sonrası Biran Damla Yılmaz cephesinden ilk açıklama",
+      "url": "https://www.sozcu.com.tr/hapis-cezasi-sonrasi-biran-damla-yilmaz-cephesinden-ilk-aciklama-p363648",
+      "tarih": "2026-09-26T07:03:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5108298ea14f",
       "baslik": "Menderes Belediyesi soruşturmasında ikinci dalga: 9 kişiden 7’si tutuklandı",
@@ -29,6 +59,16 @@
       "tarih": "2026-09-25T17:09:48+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2c554b7632cc",
+      "baslik": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza - Manşet Haber",
+      "ozet": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza Manşet Haber",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEFxLURrTS1BcnZfMlFwQWF6eUxIaVNVQ0Z5WFpoVUk1OExoNmphSEdQVm9tSzNSalh2T3J0dkRRX3ZPVVlab0c4eUdvX2RSRENTX2xzNUprWnFkTjVndlA1bVlXbUVDNENXZGZHWnBxdzJaUVdYc1E1OW4td21DUDQtay1XZ2pDYktsNHFmb1pCbGtIODlBYy1jSQ?oc=5",
+      "tarih": "2026-09-25T13:19:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1967,46 +2007,6 @@
       "ozet": "Denizin dibinde unutulan 121 bin ton boru parçalanmaya başladı",
       "url": "https://www.sozcu.com.tr/denizin-dibinde-unutulan-121-bin-ton-boru-parcalanmaya-basladi-p356154",
       "tarih": "2026-09-07T16:20:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4e36d918e324",
-      "baslik": "Felaket anında şehri koruyacak: Kıyı şeridine 680 bin ağaç diktiler",
-      "ozet": "Felaket anında şehri koruyacak: Kıyı şeridine 680 bin ağaç diktiler",
-      "url": "https://www.sozcu.com.tr/felaket-aninda-sehri-koruyacak-kiyi-seridine-680-bin-agac-diktiler-p356138",
-      "tarih": "2026-09-07T14:16:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e0fda523b586",
-      "baslik": "BM: İklim Eylemine ve Temiz Havaya Yatırılacak Her 1 Dolar 15 Kat Getiri Sağlayabilir",
-      "ozet": "Yeni bir çalışmaya göre, belirlenen önlemlerin hemen ve tamamen uygulamaya konması durumunda 2050’ye kadar hava kirliliğiyle ilişkili toplam 144 milyon erken ölüm ve yüz milyonlarca kronik hastalık vakası önlenebilir. BM Çevre Programı’nın (UNEP) İklim ve Temiz Hava Koalisyonu (C",
-      "url": "https://www.iklimhaber.org/bm-iklim-eylemine-ve-temiz-havaya-yatirilacak-her-1-dolar-15-kat-getiri-saglayabilir/",
-      "tarih": "2026-09-07T09:00:45+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "993bf9e12487",
-      "baslik": "Rahimdeki Bebeklerden Yaşlılara: Kömür Türkiye’nin Sağlığını Bozuyor",
-      "ozet": "Yeni bir çalışmada Türkiye’de elektrik üretimi için kömür yakılmasının en büyük sera gazı emisyonu kaynağı olduğu vurgulanırken, kömür bağımlılığının ise rahimdeki bebeklerden yaşlılara kadar tüm toplum sağlığını olumsuz etkilediği belirtildi.  Greenpeace Türkiye, uluslararası ve",
-      "url": "https://www.iklimhaber.org/rahimdeki-bebeklerden-yaslilara-komur-turkiyenin-sagligini-bozuyor/",
-      "tarih": "2026-09-07T08:15:05+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1a3ddf01cad9",
-      "baslik": "Piyango kazanma ihtimalinin en yüksek olduğu şehir: Bu ilçedekiler tek tek zengin oluyor",
-      "ozet": "Piyango kazanma ihtimalinin en yüksek olduğu şehir: Bu ilçedekiler tek tek zengin oluyor",
-      "url": "https://www.sozcu.com.tr/piyango-kazanma-ihtimalinin-en-yuksek-oldugu-sehir-bu-ilcedekiler-tek-tek-zengin-oluyor-p355990",
-      "tarih": "2026-09-07T07:04:01+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94172,6 +94172,20 @@
       "ozet": "Kars'ta baraj sularının çekilmesiyle köy gün yüzüne çıktı dikGAZETE.com",
       "lat": 40.5739,
       "lng": 43.0839,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-2c554b7632cc",
+      "baslik": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza - Manşet Haber",
+      "konum": "Kocaeli",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "26.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEFxLURrTS1BcnZfMlFwQWF6eUxIaVNVQ0Z5WFpoVUk1OExoNmphSEdQVm9tSzNSalh2T3J0dkRRX3ZPVVlab0c4eUdvX2RSRENTX2xzNUprWnFkTjVndlA1bVlXbUVDNENXZGZHWnBxdzJaUVdYc1E1OW4td21DUDQtay1XZ2pDYktsNHFmb1pCbGtIODlBYy1jSQ?oc=5",
+      "ozet": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza Manşet Haber",
+      "lat": 40.9436,
+      "lng": 29.8063,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
