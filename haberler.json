@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-26T18:12:11.872325+00:00",
+    "guncelleme": "2026-09-27T08:48:15.743197+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6584,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6585,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "202af1e5520f",
+      "baslik": "Erdoğan'ın 'kafadan sıkıntılı' dediği muhalif vekil AKP'ye geçiyor",
+      "ozet": "Erdoğan'ın 'kafadan sıkıntılı' dediği muhalif vekil AKP'ye geçiyor",
+      "url": "https://www.sozcu.com.tr/erdogan-in-kafadan-sikintili-dedigi-muhalif-vekil-akp-ye-geciyor-p363878",
+      "tarih": "2026-09-27T07:50:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a832d12540a5",
+      "baslik": "242 metrelik dev baraj ülkenin kaderini değiştirecek",
+      "ozet": "242 metrelik dev baraj ülkenin kaderini değiştirecek",
+      "url": "https://www.sozcu.com.tr/242-metrelik-dev-baraj-ulkenin-kaderini-degistirecek-p363870",
+      "tarih": "2026-09-27T07:23:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d760bd6b9728",
       "baslik": "Azerbaycan Grand Prix'sinde kazanan  Russell",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-09-08T06:30:31+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9c38aa619df9",
-      "baslik": "Küresel piyasalarda jeopolitik deprem: Altın yükselişte, petrol 97 doları aştı",
-      "ozet": "Küresel piyasalarda jeopolitik deprem: Altın yükselişte, petrol 97 doları aştı",
-      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-jeopolitik-deprem-altin-yukseliste-petrol-97-dolari-asti-p356260",
-      "tarih": "2026-09-08T06:15:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b678ea340261",
-      "baslik": "Güzide Duran ile Fikret Orman aşkında yeni gelişme: Orman Ailesi’ne girdi",
-      "ozet": "Güzide Duran ile Fikret Orman aşkında yeni gelişme: Orman Ailesi’ne girdi",
-      "url": "https://www.sozcu.com.tr/guzide-duran-ile-fikret-orman-askinda-yeni-gelisme-orman-ailesi-ne-girdi-p356256",
-      "tarih": "2026-09-08T06:03:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -94186,6 +94186,20 @@
       "ozet": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza Manşet Haber",
       "lat": 40.9436,
       "lng": 29.8063,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-efaf9e6c2683",
+      "baslik": "Özgür Ceylan’dan Kirazlı Maden Sahası İçin TBMM’de Soru Önergesi - Çanakkale Kalem Gazetesi",
+      "konum": "Çanakkale",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "27.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcktEN01IRFl0bmhLRFUyX3RDSHVXT240dkJROWNkX18xaUxvUHBxVk1RclFsMnJ0Q2haTnNpZ0JnQ1RQclZaYy1oaTdqWU5sRHl6ZDNfLWlUX2Zmei1OUGZmR0FCQTdaQ0dtTkhkRF8xaHhZWUdMRUlxYmltb2paSWRFc3lUVHhfbG5fOHhiNWcwbWpxQS05bGJxQTNCeW1wMDRILVA0b1hHMFFPWmJybEtn0gGyAUFVX3lxTE1yS0Q3TUhEWXRuaEtEVTJfdENIdVdPbjR2QlE5Y2RfXzFpTG9QcHFWTVFyUWwycnRDaFpOc2lnQmdDVFByVlpjLWhpN2pZTmxEeXpkM18taVRfZmZ6LU5QZmZHQUJBN1pDR21OSGREXzFoeFlZR0xFSXFiaW1valpJZEVzeVRUeF9sbl84eGI1ZzBtanFBLTlsYnFBM0J5bXAwNEgtUDRvWEcwUU9aYnJsS2c?oc=5",
+      "ozet": "Özgür Ceylan’dan Kirazlı Maden Sahası İçin TBMM’de Soru Önergesi Çanakkale Kalem Gazetesi",
+      "lat": 40.1462,
+      "lng": 26.516,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
