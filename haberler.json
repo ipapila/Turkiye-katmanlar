@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-27T14:28:33.438671+00:00",
+    "guncelleme": "2026-09-27T18:48:56.366071+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6586,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "414dfa44d377",
+      "baslik": "84 milyon kişinin yaşadığı kıyı şeridi çökmeye başladı",
+      "ozet": "84 milyon kişinin yaşadığı kıyı şeridi çökmeye başladı",
+      "url": "https://www.sozcu.com.tr/84-milyon-kisinin-yasadigi-kiyi-seridi-cokmeye-basladi-p363981",
+      "tarih": "2026-09-27T15:40:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "15ccf19d9e6a",
+      "baslik": "Acun Ilıcalı’nın Fenerbahçe’ye olan borcu ortaya çıktı! Aziz Yıldırım genel kurulda açıkladı",
+      "ozet": "Acun Ilıcalı’nın Fenerbahçe’ye olan borcu ortaya çıktı! Aziz Yıldırım genel kurulda açıkladı",
+      "url": "https://www.sozcu.com.tr/acun-ilicali-nin-fenerbahce-ye-olan-borcu-ortaya-cikti-aziz-yildirim-genel-kurulda-acikladi-p363977",
+      "tarih": "2026-09-27T15:24:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "65dc583c233c",
       "baslik": "Son dakika... Erdoğan, Fatma Betül Sayan Kaya hakkındaki kararını verdi",
@@ -1512,6 +1532,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "e8bed9d71a93",
+      "baslik": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi - evrensel.net",
+      "ozet": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi evrensel.net",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa29zbEpGTzhHM3hEYUdhU09HdWZKUWtNRjZUcnJjdkhpaFRYMWVObm5kb2ZrU01FQ3lNa0F1SDE2dWtxeHptQm00akY4bFgtNXNxeXJOa0pVUDVxWkdTdmRuZUJSV2tIUVpWQ2dJVmZBeFRnYlpnQkpWUjNnVlAtWHljc0pnaUw2RXFpZG1UclgwMHNCRXd2U2d4UlN3T0g3MXNQc2tLN1FxWW9Hb0p4WUg3VXZaQQ?oc=5",
+      "tarih": "2026-09-11T10:54:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "45f6e6b0c77f",
       "baslik": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi - Evrensel.net",
       "ozet": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi Evrensel.net",
@@ -1977,36 +2007,6 @@
       "ozet": "Uzmanlara göre petrolden küresel çıkışın ivmelenmesiyle beraber, kamu hizmetlerini finanse etmek için petrol gelirlerine bağımlı olan ülkeler bundan fazlasıyla etkilenebilir, mali krizlere dolayısıyla da çatışmalara ve göçe neden olabilir. Bu durumdan en çok etkilenecek ülkelere ",
       "url": "https://www.iklimhaber.org/petrolden-cikis-sancili-olabilir/",
       "tarih": "2026-09-08T09:53:45+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "958ab9f31dcb",
-      "baslik": "COP31’e Dair Anlaşma ve Kararlar Resmi Gazete’de",
-      "ozet": "Türkiye’nin imzaladığı 4 milletlerarası anlaşma Resmi Gazete’de yayımlanırken, kararlar arasında Türkiye’nin ev sahipliği yapacağı COP31 ve bu kapsamda verilere ilişkin mutabakat zaptı da yer aldı. Türkiye’nin imzaladığı 4 milletlerarası anlaşma, Cumhurbaşkanı Tayyip Erdoğan tara",
-      "url": "https://www.iklimhaber.org/cop31e-dair-anlasma-ve-kararlar-resmi-gazetede/",
-      "tarih": "2026-09-08T08:19:00+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6375df868900",
-      "baslik": "Petrol yükselişe geçti",
-      "ozet": "Petrol yükselişe geçti",
-      "url": "https://www.sozcu.com.tr/petrol-yukselise-gecti-p356294",
-      "tarih": "2026-09-08T07:30:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a3d336c88a1e",
-      "baslik": "Nepal’den İklim Tazminatı Talebi: Büyük Kirleticiler Artık “Uyanmalı”",
-      "ozet": "Nepal Dışişleri Bakanı, küresel sera gazı emisyonlarının %0,1’inden daha azına neden olan ülkesine dünyanın en büyük ekonomilerinin yardım etmesi gerektiğini söyledi. Nepal’ın Dışişleri Bakanı Shisir Khanal, dünyayı en çok kirleten ülkelere “uyanma” ve 6.000’den fazla kişinin ölü",
-      "url": "https://www.iklimhaber.org/nepalden-iklim-tazminati-talebi-buyuk-kirleticiler-artik-uyanmali/",
-      "tarih": "2026-09-08T07:13:26+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
