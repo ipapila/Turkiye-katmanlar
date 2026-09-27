@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-27T08:48:15.743197+00:00",
+    "guncelleme": "2026-09-27T14:28:33.438671+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6585,
+    "harita_kayit_sayisi": 6586,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "65dc583c233c",
+      "baslik": "Son dakika... Erdoğan, Fatma Betül Sayan Kaya hakkındaki kararını verdi",
+      "ozet": "Son dakika... Erdoğan, Fatma Betül Sayan Kaya hakkındaki kararını verdi",
+      "url": "https://www.sozcu.com.tr/son-dakika-erdogan-fatma-betul-sayan-kaya-hakkindaki-kararini-verdi-p363945",
+      "tarih": "2026-09-27T13:02:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f7d57fb72784",
+      "baslik": "Kılıçdaroğlu'ndan Gürsel Tekin'e soğuk duş",
+      "ozet": "Kılıçdaroğlu'ndan Gürsel Tekin'e soğuk duş",
+      "url": "https://www.sozcu.com.tr/kilicdaroglu-ndan-gursel-tekin-e-soguk-dus-p363938",
+      "tarih": "2026-09-27T11:25:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "202af1e5520f",
       "baslik": "Erdoğan'ın 'kafadan sıkıntılı' dediği muhalif vekil AKP'ye geçiyor",
@@ -1987,26 +2007,6 @@
       "ozet": "Nepal Dışişleri Bakanı, küresel sera gazı emisyonlarının %0,1’inden daha azına neden olan ülkesine dünyanın en büyük ekonomilerinin yardım etmesi gerektiğini söyledi. Nepal’ın Dışişleri Bakanı Shisir Khanal, dünyayı en çok kirleten ülkelere “uyanma” ve 6.000’den fazla kişinin ölü",
       "url": "https://www.iklimhaber.org/nepalden-iklim-tazminati-talebi-buyuk-kirleticiler-artik-uyanmali/",
       "tarih": "2026-09-08T07:13:26+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c3c5c71e6adc",
-      "baslik": "Dolar/TL'de yeni rekor senaryoları: 16 kurum tahminlerini tek tek yükseltti!",
-      "ozet": "Dolar/TL'de yeni rekor senaryoları: 16 kurum tahminlerini tek tek yükseltti!",
-      "url": "https://www.sozcu.com.tr/dolar-tl-de-yeni-rekor-senaryolari-16-kurum-tahminlerini-tek-tek-yukseltti-p356282",
-      "tarih": "2026-09-08T07:12:02+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e1801ef21ff8",
-      "baslik": "İklim Krizinin Türkiye’deki Görünür Yüzü: Obruklar",
-      "ozet": "350 Türkiye gönüllüleri, Konya’da obruk bölgesinde “İklim Krizi Burada” pankartı açarak, iklim krizinin Türkiye’nin su kaynakları ve tarım alanları üzerindeki yıkıcı etkisine dikkat çekti. Gerçek Sebep: Fosil Yakıtlar kampanyası kapsamında 350 Türkiye, Konya Ovası’nda obrukların ",
-      "url": "https://www.iklimhaber.org/iklim-krizinin-turkiyedeki-gorunur-yuzu-obruklar/",
-      "tarih": "2026-09-08T06:30:31+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -94200,6 +94200,20 @@
       "ozet": "Özgür Ceylan’dan Kirazlı Maden Sahası İçin TBMM’de Soru Önergesi Çanakkale Kalem Gazetesi",
       "lat": 40.1462,
       "lng": 26.516,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-054c692f6e70",
+      "baslik": "Çorum'da maden projesine 'ÇED Olumlu' kararı: Hukuka ve kamu yararına uygun bulundu - Cumhuriyet",
+      "konum": "Çorum",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "27.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaEJNMVpwbnJQWHhxOFJYcG5jLTY5QlpIQUZ2RTJHUm5tczltczdtWGFDRXhfSVBIaVBRVTlYRWZiWmRmWTRCX0puMDh1eHhYc3FkeEFJek5JRnlVd09EYWNUWVJFMFdCMlhFSFV3Q0RnR09KLUQ5VGF5ekh5M1VaM0JfYUFyMkFpeWN1TlVGWUNMMldNN3QwM2NvNEtZZWpmUGFMNEY4OXdPT2FTVUVydTN1OE1nSFhweDA2VTltMG1qVC1X?oc=5",
+      "ozet": "Çorum'da maden projesine 'ÇED Olumlu' kararı: Hukuka ve kamu yararına uygun bulundu Cumhuriyet",
+      "lat": 40.616,
+      "lng": 34.889,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
