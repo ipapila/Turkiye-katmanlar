@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-27T18:48:56.366071+00:00",
+    "guncelleme": "2026-09-28T09:12:19.214211+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6586,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "4d9f0341e230",
+      "baslik": "Deniz Göktaş'tan mahkemede Kılıçdaroğlu hakkında olay sözler",
+      "ozet": "Deniz Göktaş'tan mahkemede Kılıçdaroğlu hakkında olay sözler",
+      "url": "https://www.sozcu.com.tr/deniz-goktas-tan-mahkemede-kilicdaroglu-hakkinda-olay-sozler-p364179",
+      "tarih": "2026-09-28T09:08:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4ff9c6a9b1e1",
+      "baslik": "Nepal Ölümcül Buzul Felaketinin Ardından Yaralarını Sarmak için Kredi Değil, Hibe İstiyor",
+      "ozet": "Nepal Başbakanı, iklim felaketlerinin ardından yeniden inşa sürecinde savunmasız ülkelerin ek borç yükü altına girmeye zorlanmaması gerektiğini savundu. Nepal Başbakanı Balendra Shah, Birleşmiş Milletler Genel Kurulu’nda yaptığı konuşmada, en az 1.450 kişinin ölümüne yol açan buz",
+      "url": "https://www.iklimhaber.org/nepal-olumcul-buzul-felaketinin-ardindan-yaralarini-sarmak-icin-kredi-degil-hibe-istiyor/",
+      "tarih": "2026-09-28T08:29:02+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4877ac6ca4f4",
+      "baslik": "Denizin içinden nur topu gibi yeni bir ada doğdu",
+      "ozet": "Denizin içinden nur topu gibi yeni bir ada doğdu",
+      "url": "https://www.sozcu.com.tr/denizin-icinden-nur-topu-gibi-yeni-bir-ada-dogdu-p364154",
+      "tarih": "2026-09-28T08:11:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0e2611697621",
+      "baslik": "Küresel piyasalarda jeopolitik belirsizlik etkisi",
+      "ozet": "Küresel piyasalarda jeopolitik belirsizlik etkisi",
+      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-jeopolitik-belirsizlik-etkisi-p364139",
+      "tarih": "2026-09-28T07:44:04+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "414dfa44d377",
       "baslik": "84 milyon kişinin yaşadığı kıyı şeridi çökmeye başladı",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-09-08T16:40:58+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "223dfd4c62ec",
-      "baslik": "Fenerbahçe'den ayrılır ayrılmaz teknik direktörüne rest çekti",
-      "ozet": "Fenerbahçe'den ayrılır ayrılmaz teknik direktörüne rest çekti",
-      "url": "https://www.sozcu.com.tr/fenerbahce-den-ayrilir-ayrilmaz-teknik-direktorune-rest-cekti-p356451",
-      "tarih": "2026-09-08T15:50:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b0bcb4532549",
-      "baslik": "Instagram'da yeni dolandırıcılık yöntemi: Hesabı bir anda kapandı, ardından gelen mesaj şaşkına çevirdi",
-      "ozet": "Instagram'da yeni dolandırıcılık yöntemi: Hesabı bir anda kapandı, ardından gelen mesaj şaşkına çevirdi",
-      "url": "https://www.sozcu.com.tr/instagram-da-yeni-dolandiricilik-yontemi-hesabi-bir-anda-kapandi-ardindan-gelen-mesaj-saskina-p356448",
-      "tarih": "2026-09-08T15:44:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "87836861ebd7",
-      "baslik": "Şiddetli yağışlar kapıda: Akdeniz’deki ısınmanın derinlere kadar ulaştığı ortaya çıktı",
-      "ozet": "Şiddetli yağışlar kapıda: Akdeniz’deki ısınmanın derinlere kadar ulaştığı ortaya çıktı",
-      "url": "https://www.sozcu.com.tr/siddetli-yagislar-kapida-akdeniz-deki-isinmanin-derinlere-kadar-ulastigi-ortaya-cikti-p356449",
-      "tarih": "2026-09-08T15:40:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c7a512ab2e9a",
-      "baslik": "Petrolden Çıkış Sancılı Olabilir",
-      "ozet": "Uzmanlara göre petrolden küresel çıkışın ivmelenmesiyle beraber, kamu hizmetlerini finanse etmek için petrol gelirlerine bağımlı olan ülkeler bundan fazlasıyla etkilenebilir, mali krizlere dolayısıyla da çatışmalara ve göçe neden olabilir. Bu durumdan en çok etkilenecek ülkelere ",
-      "url": "https://www.iklimhaber.org/petrolden-cikis-sancili-olabilir/",
-      "tarih": "2026-09-08T09:53:45+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
