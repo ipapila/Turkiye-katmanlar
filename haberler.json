@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-29T09:20:48.015948+00:00",
+    "guncelleme": "2026-09-29T17:23:30.392377+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6586,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "e73fa83ba8a5",
+      "baslik": "Bahçeli'den fon krizi çıkışı: Sorumlular hukuk önünde hesabını vermeli",
+      "ozet": "Bahçeli'den fon krizi çıkışı: Sorumlular hukuk önünde hesabını vermeli",
+      "url": "https://www.sozcu.com.tr/devlet-bahceli-aciklamalar-29-eylul-2026-p364607",
+      "tarih": "2026-09-29T17:20:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "78a848b55b51",
+      "baslik": "Borsada da işlem görüyordu: 54 yıllık seramik devi konkordato başvurusu yaptı",
+      "ozet": "Borsada da işlem görüyordu: 54 yıllık seramik devi konkordato başvurusu yaptı",
+      "url": "https://www.sozcu.com.tr/borsada-da-islem-goruyordu-54-yillik-seramik-devi-konkordato-basvurusu-yapti-p364621",
+      "tarih": "2026-09-29T17:14:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "156bcf93d3da",
+      "baslik": "Erdoğan'dan fon toplantısı sonrası ilk sözler",
+      "ozet": "Erdoğan'dan fon toplantısı sonrası ilk sözler",
+      "url": "https://www.sozcu.com.tr/erdogan-dan-fon-toplantisi-sonrasi-ilk-sozler-p364602",
+      "tarih": "2026-09-29T16:37:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0495c6d40364",
+      "baslik": "215 milyar dolarlık hazine ormanda keşfedilmeyi bekliyor",
+      "ozet": "215 milyar dolarlık hazine ormanda keşfedilmeyi bekliyor",
+      "url": "https://www.sozcu.com.tr/215-milyar-dolarlik-hazine-ormanda-kesfedilmeyi-bekliyor-p364609",
+      "tarih": "2026-09-29T16:17:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "66f05c1fbdba",
+      "baslik": "Güneş ve Rüzgar Nükleeri 2’ye Katladı",
+      "ozet": "2025’te güneş enerjisinden üretilen elektrik %30, rüzgârdan elde edilen ise %8 oranında artarken nükleer santrallardan üretilen elektrik miktarı ise %1 oranında arttı. Böylece güneş ve rüzgârın toplam elektrik üretimi nükleer enerjinin iki katını aştı. Dünya Nükleer Endüstrisi Du",
+      "url": "https://www.iklimhaber.org/gunes-ve-ruzgar-nukleeri-2ye-katladi/",
+      "tarih": "2026-09-29T12:50:55+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ca9d4cf85875",
+      "baslik": "BM: Orman Restorasyonu Her Ulusun Önceliği Olmalı",
+      "ozet": "BM Gıda ve Tarım Örgütü ormanların küresel haline dair yayımladığı yeni raporunda,  ormanları restore etmek adına pencerenin daraldığı bir dönemden geçildiği uyarısında bulunarak, hükümetlere orman restorasyonunu ulusal bir öncelik haline getirme çağrış yaptı. Birleşmiş Milletler",
+      "url": "https://www.iklimhaber.org/bm-orman-restorasyonu-her-ulusun-onceligi-olmali/",
+      "tarih": "2026-09-29T10:23:05+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "47b0b7bfa259",
+      "baslik": "İklim Krizi ile Mücadelede Kolektif Eylem ve İşbirliği Şart",
+      "ozet": "UN Global Compact Türkiye, Birleşmiş Milletler 81. Genel Kurulu Haftası kapsamında New York’ta düzenlenen UN Global Compact Liderler Zirvesi ve üst düzey toplantılarda, Türkiye’den iş dünyası temsilcilerinin küresel sürdürülebilirlik gündemine katkı sundu. 750’yi aşkın katılımcıy",
+      "url": "https://www.iklimhaber.org/iklim-krizi-ile-mucadelede-kolektif-eylem-ve-isbirligi-sart/",
+      "tarih": "2026-09-29T09:50:45+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "16bc274c9644",
       "baslik": "Hedef Holding borcunu ödeyemediğini açıkladı",
@@ -1937,76 +2007,6 @@
       "ozet": "Özgür Özel açıkladı: Mansur Yavaş Erdoğan ile ne görüştü?",
       "url": "https://www.sozcu.com.tr/ozgur-ozel-acikladi-mansur-yavas-erdogan-ile-ne-gorustu-p356778",
       "tarih": "2026-09-09T17:52:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c924e4deee3c",
-      "baslik": "İzmir'de 3 ton midye kabuğu denizin dibine bırakıldı",
-      "ozet": "İzmir'de 3 ton midye kabuğu denizin dibine bırakıldı",
-      "url": "https://www.sozcu.com.tr/izmir-de-3-ton-midye-kabugu-denizin-dibine-birakildi-p356776",
-      "tarih": "2026-09-09T17:26:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "04599ccbd42c",
-      "baslik": "Son dakika...CHP’li İzmir Foça Belediye Başkanı Saniye Bora Fıçı AKP'ye geçiyor",
-      "ozet": "Son dakika...CHP’li İzmir Foça Belediye Başkanı Saniye Bora Fıçı AKP'ye geçiyor",
-      "url": "https://www.sozcu.com.tr/son-dakika-chp-li-izmir-foca-belediye-baskani-saniye-bora-fici-akp-ye-geciyor-p356766",
-      "tarih": "2026-09-09T17:03:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b8558eaf155b",
-      "baslik": "Terk edilmiş kömür madenlerinde çay yetiştirecekler",
-      "ozet": "Terk edilmiş kömür madenlerinde çay yetiştirecekler",
-      "url": "https://www.sozcu.com.tr/terk-edilmis-komur-madenlerinde-cay-yetistirecekler-p356768",
-      "tarih": "2026-09-09T16:25:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8cdd1565cd19",
-      "baslik": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
-      "ozet": "Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı!",
-      "url": "https://www.sozcu.com.tr/gurcistan-dan-kalkan-ucak-rize-aciklarina-acil-inis-yapti-p356680",
-      "tarih": "2026-09-09T12:27:29+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1384b4a65edc",
-      "baslik": "Küresel bankalar gümüşte ikiye bölündü: Bu iki rakamın kavgası veriliyor",
-      "ozet": "Küresel bankalar gümüşte ikiye bölündü: Bu iki rakamın kavgası veriliyor",
-      "url": "https://www.sozcu.com.tr/kuresel-bankalar-gumuste-ikiye-bolundu-bu-iki-rakamin-kavgasi-veriliyor-p356693",
-      "tarih": "2026-09-09T12:03:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a10ac604c747",
-      "baslik": "Davutoğlu Erdoğan'ı nikaha davet etti",
-      "ozet": "Davutoğlu Erdoğan'ı nikaha davet etti",
-      "url": "https://www.sozcu.com.tr/davutoglu-nikaha-erdogan-i-davet-etti-p356688",
-      "tarih": "2026-09-09T12:01:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dcf119a9f9d2",
-      "baslik": "Döviz, borsa ve gram altında nefesler tutuldu: Yarın 14.00'te dananın kuyruğu kopabilir",
-      "ozet": "Döviz, borsa ve gram altında nefesler tutuldu: Yarın 14.00'te dananın kuyruğu kopabilir",
-      "url": "https://www.sozcu.com.tr/doviz-borsa-ve-gram-altinda-nefesler-tutuldu-yarin-14-00-te-dananin-kuyrugu-kopabilir-p356683",
-      "tarih": "2026-09-09T11:23:52+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
