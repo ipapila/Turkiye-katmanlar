@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-09-28T19:02:39.234450+00:00",
+    "guncelleme": "2026-09-29T09:20:48.015948+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6586,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "16bc274c9644",
+      "baslik": "Hedef Holding borcunu ödeyemediğini açıkladı",
+      "ozet": "Hedef Holding borcunu ödeyemediğini açıkladı",
+      "url": "https://www.sozcu.com.tr/hedef-holding-milyarlik-liralik-borcunu-odeyemedi-p364484",
+      "tarih": "2026-09-29T09:03:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "501e4d792461",
+      "baslik": "Deniz Göktaş cezaevinden çıkar çıkmaz sahnesine gitti",
+      "ozet": "Deniz Göktaş cezaevinden çıkar çıkmaz sahnesine gitti",
+      "url": "https://www.sozcu.com.tr/deniz-goktas-cezaevinden-cikar-cikmaz-sahnesine-gitti-p364471",
+      "tarih": "2026-09-29T08:30:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "72f7ceae4135",
       "baslik": "Komedyen Deniz Göktaş tahliye oldu; cezaevinden esprilerle çıktı",
@@ -239,6 +259,16 @@
       "tarih": "2026-09-25T17:09:48+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3d2a50a0596d",
+      "baslik": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza - mansethaber.com",
+      "ozet": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza mansethaber.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEFxLURrTS1BcnZfMlFwQWF6eUxIaVNVQ0Z5WFpoVUk1OExoNmphSEdQVm9tSzNSalh2T3J0dkRRX3ZPVVlab0c4eUdvX2RSRENTX2xzNUprWnFkTjVndlA1bVlXbUVDNENXZGZHWnBxdzJaUVdYc1E1OW4td21DUDQtay1XZ2pDYktsNHFmb1pCbGtIODlBYy1jSQ?oc=5",
+      "tarih": "2026-09-25T13:19:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1979,36 +2009,6 @@
       "tarih": "2026-09-09T11:23:52+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1859cba24973",
-      "baslik": "“İklim İşbirliğine Yönelik Koşullar Her Geçen Yıl Zorlaşıyor”",
-      "ozet": "COP29 Başkanı Babayev dünyanın Paris Anlaşması’nın kabulünden bu yana köklü bir şekilde değiştiğini belirtirken “Bir pandemi yaşadık; çatışmalara, enerji krizlerine, enflasyona ve artan jeopolitik rekabete tanıklık ettik. İklim iş birliğine yönelik koşulların 10 yıl öncesine kıya",
-      "url": "https://www.iklimhaber.org/iklim-isbirligine-yonelik-kosullar-her-gecen-yil-zorlasiyor/",
-      "tarih": "2026-09-09T09:26:15+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2d2edeadcd22",
-      "baslik": "Endonezya’daki Orman Yangını Emisyonları Ülkelerin 1 Haftada Neden Olduğu Emisyonları Aştı",
-      "ozet": "Yeni açıklanan veriler Endonezya’nın, Borneo ve Sumatra adalarındaki kurumuş orman ve turbalık alanlarda yayılan orman yangınları nedeniyle emisyonlarda büyük bir artışla karşı karşıya olduğunu ve karbondioksit oranlarının şu anda dünyadaki en yüksek seviyeye ulaştığını gösterdi.",
-      "url": "https://www.iklimhaber.org/endonezyadaki-orman-yangini-emisyonlari-ulkelerin-1-haftada-neden-oldugu-emisyonlari-asti/",
-      "tarih": "2026-09-09T08:31:51+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e1846db9445f",
-      "baslik": "COP31 Başkanı: “Geleceğin Kazananı Yeşil Dönüşüme Bugün Yatırım Yapanlar Olacak”",
-      "ozet": "COP31 Başkanı Murat Kurum, iklim finansmanının ekonomik ve sosyal kayıpları bugünden önleyen stratejik bir yatırım olarak ele alınması gerektiğini söylerken, Başkanlığın sunduğu İklim Uygulama Köprüsü sayesinde, ülkelerin, açıkladıkları ulusal iklim hedefleri ile bu hedeflerin uy",
-      "url": "https://www.iklimhaber.org/cop31-baskani-gelecegin-kazanani-yesil-donusume-bugun-yatirim-yapanlar-olacak/",
-      "tarih": "2026-09-09T07:42:50+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
