@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-29T17:23:30.392377+00:00",
+    "guncelleme": "2026-09-29T21:43:13.899282+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6586,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6587,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "fc5adeae38d3",
+      "baslik": "ABD neden Kuzey Kore’nin nükleer silahlarına müdahale etmiyor: Trump’tan kaçamak yanıt",
+      "ozet": "ABD neden Kuzey Kore’nin nükleer silahlarına müdahale etmiyor: Trump’tan kaçamak yanıt",
+      "url": "https://www.sozcu.com.tr/abd-neden-kuzey-kore-nin-nukleer-silahlarina-mudahale-etmiyor-trump-tan-kacamak-yanit-p364679",
+      "tarih": "2026-09-29T21:29:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "46cdca23a381",
+      "baslik": "Erdoğan'ın talimatı sonrası DDK Başkanı Tanrıkulu Borsa İstanbul'daki görevlerinden ayrıldı",
+      "ozet": "Erdoğan'ın talimatı sonrası DDK Başkanı Tanrıkulu Borsa İstanbul'daki görevlerinden ayrıldı",
+      "url": "https://www.sozcu.com.tr/salih-tanrikulu-borsa-istanbul-daki-gorevinden-ayrildi-p364648",
+      "tarih": "2026-09-29T21:28:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7beb66e43dd6",
+      "baslik": "Stadyumu yıkıp binlerce ton molozu kıyıya döktüler",
+      "ozet": "Stadyumu yıkıp binlerce ton molozu kıyıya döktüler",
+      "url": "https://www.sozcu.com.tr/stadyumu-yikip-binlerce-ton-molozu-kiyiya-doktuler-p364672",
+      "tarih": "2026-09-29T21:21:04+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e73fa83ba8a5",
       "baslik": "Bahçeli'den fon krizi çıkışı: Sorumlular hukuk önünde hesabını vermeli",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-09-10T06:30:17+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1cae9d491d37",
-      "baslik": "Şampiyonlar Ligi performansıyla Süper Lig devlerini pişman etti",
-      "ozet": "Şampiyonlar Ligi performansıyla Süper Lig devlerini pişman etti",
-      "url": "https://www.sozcu.com.tr/sampiyonlar-ligi-performansiyla-super-lig-devlerini-pisman-etti-p356877",
-      "tarih": "2026-09-10T06:20:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "05cf30066314",
-      "baslik": "Erdoğan ile görüşen Mansur Yavaş'tan açıklama geldi",
-      "ozet": "Erdoğan ile görüşen Mansur Yavaş'tan açıklama geldi",
-      "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-mansur-yavas-ile-gorustu-p356775",
-      "tarih": "2026-09-09T17:53:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ebf5d2f4ab53",
-      "baslik": "Özgür Özel açıkladı: Mansur Yavaş Erdoğan ile ne görüştü?",
-      "ozet": "Özgür Özel açıkladı: Mansur Yavaş Erdoğan ile ne görüştü?",
-      "url": "https://www.sozcu.com.tr/ozgur-ozel-acikladi-mansur-yavas-erdogan-ile-ne-gorustu-p356778",
-      "tarih": "2026-09-09T17:52:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -94214,6 +94214,20 @@
       "ozet": "Çorum'da maden projesine 'ÇED Olumlu' kararı: Hukuka ve kamu yararına uygun bulundu Cumhuriyet",
       "lat": 40.616,
       "lng": 34.889,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-46cdca23a381",
+      "baslik": "Erdoğan'ın talimatı sonrası DDK Başkanı Tanrıkulu Borsa İstanbul'daki görevlerinden ayrıldı",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "29.09.2026",
+      "url": "https://www.sozcu.com.tr/salih-tanrikulu-borsa-istanbul-daki-gorevinden-ayrildi-p364648",
+      "ozet": "Erdoğan'ın talimatı sonrası DDK Başkanı Tanrıkulu Borsa İstanbul'daki görevlerinden ayrıldı",
+      "lat": 40.963,
+      "lng": 29.0445,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
