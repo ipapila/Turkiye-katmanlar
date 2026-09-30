@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-30T17:21:16.539536+00:00",
+    "guncelleme": "2026-09-30T21:43:38.905772+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6587,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6588,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "af434d4f2b1f",
+      "baslik": "Dev boru hattı için düğmeye basıldı: 1.300 kilometre uzanacak, 54 milyar dolara mal olacak",
+      "ozet": "Dev boru hattı için düğmeye basıldı: 1.300 kilometre uzanacak, 54 milyar dolara mal olacak",
+      "url": "https://www.sozcu.com.tr/dev-boru-hatti-icin-dugmeye-basildi-1-300-kilometre-uzanacak-54-milyar-dolara-mal-olacak-p364972",
+      "tarih": "2026-09-30T19:38:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0a829e8d5de4",
+      "baslik": "Beştepe'de dikkat çeken görüşme: Cemil Tugay Erdoğan ile bir araya geldi",
+      "ozet": "Beştepe'de dikkat çeken görüşme: Cemil Tugay Erdoğan ile bir araya geldi",
+      "url": "https://www.sozcu.com.tr/cemil-tugay-kulliye-de-erdogan-ile-gorustu-p364947",
+      "tarih": "2026-09-30T19:14:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bc45fc62d41c",
+      "baslik": "Tekne alabora oldu: 1 polis hayatını kaybetti, 1 polis kayıp",
+      "ozet": "Tekne alabora oldu: 1 polis hayatını kaybetti, 1 polis kayıp",
+      "url": "https://www.sozcu.com.tr/tekne-alabora-oldu-1-polis-hayatini-kaybetti-1-polis-kayip-p364966",
+      "tarih": "2026-09-30T19:00:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "da50949937b0",
       "baslik": "Fatih Erbakan istedi, Milletvekili Doğan Bekin istifa etti: AKP’ye geçeceği iddia edilmişti",
@@ -1977,36 +2007,6 @@
       "ozet": "CHP’den AKP’ye geçen Saniye Bora Fıçı’ya eski belediye başkanı ağabeyi ateş püskürdü",
       "url": "https://www.sozcu.com.tr/chp-den-akp-ye-gecen-saniye-bora-fici-ya-eski-belediye-baskani-agabeyi-ates-puskurdu-p357111",
       "tarih": "2026-09-10T18:39:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9bad74bca288",
-      "baslik": "Yavaş-Erdoğan görüşmesine ilişkin AKP'den açıklama",
-      "ozet": "Yavaş-Erdoğan görüşmesine ilişkin AKP'den açıklama",
-      "url": "https://www.sozcu.com.tr/akp-den-yavas-erdogan-gorusmesine-iliskin-bir-aciklama-p357087",
-      "tarih": "2026-09-10T16:06:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cc19d8d7a42a",
-      "baslik": "Denizin dibine 380 kilometrelik hat çektiler: Yeni hattın güzergahında Türkiye de var",
-      "ozet": "Denizin dibine 380 kilometrelik hat çektiler: Yeni hattın güzergahında Türkiye de var",
-      "url": "https://www.sozcu.com.tr/denizin-dibine-380-kilometrelik-hat-cektiler-yeni-hattin-guzergahinda-turkiye-de-var-p357088",
-      "tarih": "2026-09-10T15:48:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d64bacbe8578",
-      "baslik": "Karadeniz’de gemiye İHA saldırısı: 2 ölü",
-      "ozet": "Karadeniz’de gemiye İHA saldırısı: 2 ölü",
-      "url": "https://www.sozcu.com.tr/karadeniz-de-gemiye-iha-saldirisi-2-olu-p357083",
-      "tarih": "2026-09-10T15:31:36+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94228,6 +94228,20 @@
       "ozet": "Erdoğan'ın talimatı sonrası DDK Başkanı Tanrıkulu Borsa İstanbul'daki görevlerinden ayrıldı",
       "lat": 40.963,
       "lng": 29.0445,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-50e5f8df8745",
+      "baslik": "Diyarbakır’da 8 bin yıllık mağarayı etkileyecek maden projesi... 'ÇED gerekli değildir' kararına yürütmeyi durdurma - Cumhuriyet",
+      "konum": "Diyarbakır",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "30.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMW5zN0ZELVM3aGMtRG1jcVpCNXpQQi1vaU5yaDBzNjN5ZmFFanFWUVlNV0dQcnpVVWMtZDV2WTJWMXZ4M1ozRFFlWlFZdU9rSmZMY2lBRlkzemVzYTNLay04WjA4REtjTmVQenoxSnR5ZWZRaV9vZVFnVTd5Z0tyamZlblcwNW5DMVZRYWxkUWZZRGtDVmxROVRpc3NJbG94V2pQZGp4dGtNNmd2TjFxcGwtQjNZa0F4TEhyaFZHbkRGZE1KQWRIN3EzUzNtV0tLem1ZQ29nbllUbTJvd2hjcHFfb1NDd3RJWUxYNA?oc=5",
+      "ozet": "Diyarbakır’da 8 bin yıllık mağarayı etkileyecek maden projesi... 'ÇED gerekli değildir' kararına yürütmeyi durdurma Cumhuriyet",
+      "lat": 37.9168,
+      "lng": 40.1234,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
