@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-09-29T21:43:13.899282+00:00",
+    "guncelleme": "2026-09-30T09:11:23.620928+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6587,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "5572ccbe8e48",
+      "baslik": "İklim Değişikliği Aşırı Hava Olaylarını Şiddetlendiriyor, Riskler Eşit Dağılmıyor",
+      "ozet": "İklim değişikliği fırtınaları daha şiddetli ve tehlikeli hale getirmekle birlikte aşırı doğa olayları, ekonomik yıkımı büyüterek ağır kayıplara yol açıyor. Yoksul ülkeler, bu yıkıcı etkilerden orantısız biçimde daha kötü etkilenirken, tüm doğal tehlikelerden kaynaklanan genel afe",
+      "url": "https://www.iklimhaber.org/iklim-degisikligi-asiri-hava-olaylarini-siddetlendiriyor-riskler-esit-dagilmiyor/",
+      "tarih": "2026-09-30T08:41:25+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "20a85224a494",
+      "baslik": "\"Pastırma sıcakları\" için tarih verildi: Sıcaklıklar ne zaman yükselecek?",
+      "ozet": "\"Pastırma sıcakları\" için tarih verildi: Sıcaklıklar ne zaman yükselecek?",
+      "url": "https://www.sozcu.com.tr/pastirma-sicaklari-icin-tarih-verildi-sicakliklar-ne-zaman-yukselecek-p364764",
+      "tarih": "2026-09-30T08:01:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7aef37c59fac",
+      "baslik": "COP31’e Katılımın Önünde Maliyet ve Erişim Eşikleri",
+      "ozet": "Resmi COP31 konaklama platformundaki 208 tesisi inceleyen yeni bir araştırmaya göre, 9–20 Kasım arasındaki konaklama döneminde tesislerin yalnızca %13,5’inde başlangıç maliyeti 55.000 TL veya altında. Konferans alanına yakın tesislerde maliyet belirgin biçimde yükseliyor. Social ",
+      "url": "https://www.iklimhaber.org/cop31e-katilimin-onunde-maliyet-ve-erisim-esikleri/",
+      "tarih": "2026-09-30T07:37:09+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e0f0369ff06a",
+      "baslik": "Yeraltı'nın yıldızı Deniz Can Aktaş'tan aşk itirafı: \"Hayatımda biri var\"",
+      "ozet": "Yeraltı'nın yıldızı Deniz Can Aktaş'tan aşk itirafı: \"Hayatımda biri var\"",
+      "url": "https://www.sozcu.com.tr/yeralti-nin-yildizi-deniz-can-aktas-tan-ask-itirafi-hayatimda-biri-var-p364765",
+      "tarih": "2026-09-30T07:11:25+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "fc5adeae38d3",
       "baslik": "ABD neden Kuzey Kore’nin nükleer silahlarına müdahale etmiyor: Trump’tan kaçamak yanıt",
@@ -1967,46 +2007,6 @@
       "ozet": "Çalışma, taahhüt edilen 570’ten fazla projeye yapılan yatırımın yıllık yaklaşık 6,9 milyon metrik tonluk temiz hidrojen üretim kapasitesini desteklediğini bildirdi. Hidrojen Konseyi, hükümetlerin hidrojeni karbon emisyonlarını azaltmanın yanı sıra enerji güvenliği ve sanayi büyüm",
       "url": "https://www.iklimhaber.org/yeni-rapor-kuresel-temiz-hidrojen-yatirimi-130-milyar-dolari-asti/",
       "tarih": "2026-09-10T08:00:28+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c414261b8e01",
-      "baslik": "Deniz koca şehri kıyıdan parça parça yutmaya başladı",
-      "ozet": "Deniz koca şehri kıyıdan parça parça yutmaya başladı",
-      "url": "https://www.sozcu.com.tr/deniz-koca-sehri-kiyidan-parca-parca-yutmaya-basladi-p356918",
-      "tarih": "2026-09-10T07:23:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b15b6546f657",
-      "baslik": "Ağustos 2026 En Sıcak Ay Olarak Kayıtlara Geçti",
-      "ozet": "Dünya genelinde ortalama yüzey sıcaklığının 16,96 dereceye ulaştığı Ağustos 2026, kayıtlardaki en sıcak ay oldu. Avrupa Birliği’nin (AB) Copernicus İklim Değişikliği Servisi (C3S), Ağustos 2026 dönemine ilişkin küresel sıcaklık verilerini yayımladı. Verilere göre, ağustosta küres",
-      "url": "https://www.iklimhaber.org/agustos-2026-en-sicak-ay-olarak-kayitlara-gecti/",
-      "tarih": "2026-09-10T07:15:09+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4a4e733b8afb",
-      "baslik": "Dünyaca ünlü restoran Türkiye'de: İstanbul'da tabağı 3 bin liraya ıstakoz satacaklar",
-      "ozet": "Dünyaca ünlü restoran Türkiye'de: İstanbul'da tabağı 3 bin liraya ıstakoz satacaklar",
-      "url": "https://www.sozcu.com.tr/dunyaca-unlu-restoran-turkiye-de-istanbul-da-tabagi-3-bin-liraya-istakoz-satacaklar-p356898",
-      "tarih": "2026-09-10T06:56:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b603c950b217",
-      "baslik": "AB’nin Çevre Mevzuatında Sadeleştirme Çabaları Tepki Topluyor",
-      "ozet": "Avrupa Birliği mevcut mevzuatlarını sadeleştirmeyi amaçlamaya yönelik adımlar atmaya devam ederken, çevre ve sürdürülebilirlik alanında da bu sadeleştirilmeye gidiliyor. Çevre grupları da son olarak su kaynaklarının korunmasına yönelik mevzuat değişikliğinin aceleye getirildiğini",
-      "url": "https://www.iklimhaber.org/abnin-cevre-mevzuatinda-sadelestirme-cabalari-tepki-topluyor/",
-      "tarih": "2026-09-10T06:30:17+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
