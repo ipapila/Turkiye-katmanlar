@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-01T09:38:59.370757+00:00",
+    "guncelleme": "2026-10-01T17:48:27.023413+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6589,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "5dbab0e7b8e8",
+      "baslik": "Önce ıslattılar sonra dövdüler! Liseli kızların yaptıkları 'pes' dedirtti",
+      "ozet": "Önce ıslattılar sonra dövdüler! Liseli kızların yaptıkları 'pes' dedirtti",
+      "url": "https://www.sozcu.com.tr/cesmede-islatip-dovduler-liseli-kizlarin-akran-zorbaligi-kamerada-p365284",
+      "tarih": "2026-10-01T17:10:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cbf78eabf999",
+      "baslik": "Erdoğan kürsüye çıktı, Yeni Parti salonu terk etti! Bahçeli'den ilk yorum geldi",
+      "ozet": "Erdoğan kürsüye çıktı, Yeni Parti salonu terk etti! Bahçeli'den ilk yorum geldi",
+      "url": "https://www.sozcu.com.tr/bahceli-den-yeni-partinin-salonu-terk-etmesine-ilk-yorum-p365290",
+      "tarih": "2026-10-01T16:43:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8f6f14edcd3f",
+      "baslik": "Manchester City'den sonra bir dünya devinin daha kupaları elinden alınabilir",
+      "ozet": "Manchester City'den sonra bir dünya devinin daha kupaları elinden alınabilir",
+      "url": "https://www.sozcu.com.tr/real-madrid-resmen-barcelonanin-kupalarini-istedi-p365274",
+      "tarih": "2026-10-01T15:38:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cd8d6872f046",
+      "baslik": "Bankacılık Sektörü Kömür Finansmanında “Ayrışıyor”",
+      "ozet": "Yeni bir çalışmanın sonuçlarına göre, 2022 ile 2025 yılları arasında bankaların kömür sektörüne sağladığı finansman genel olarak yatay seyretti ve yıllık ortalama yaklaşık 117 milyar dolar oldu. Birleşik Krallık bankaları Avrupa’nın en büyük kömür finansörü konumunda. Buna karşıl",
+      "url": "https://www.iklimhaber.org/bankacilik-sektoru-komur-finansmaninda-ayrisiyor/",
+      "tarih": "2026-10-01T11:34:50+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d5b589a10d7c",
       "baslik": "Ünlü gece kulübünde yangın çıktı! Küle döndü...",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-09-11T10:54:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "13f9e360b727",
-      "baslik": "Yangında 2,5 milyon dolarlık villaları kül olmuştu: Kenan Doğulu ve Beren Saat’in yeni kararı şaşırttı",
-      "ozet": "Yangında 2,5 milyon dolarlık villaları kül olmuştu: Kenan Doğulu ve Beren Saat’in yeni kararı şaşırttı",
-      "url": "https://www.sozcu.com.tr/yanginda-2-5-milyon-dolarlik-villalari-kul-olmustu-kenan-dogulu-ve-beren-saat-in-yeni-karari-p357329",
-      "tarih": "2026-09-11T10:44:42+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1c073bbb5e99",
-      "baslik": "Hürmüz Krizi Nedeniyle Kömür Talebi Rekora Koşuyor",
-      "ozet": "IEA, gelecek yıl talebe ilişkin belirsizlik olduğunu, bunun Hürmüz Boğazı’ndan geçen gemi trafiğinin düzelip düzelmeyeceğine bağlı olacağını belirtti. Ajans, trafiğin düzelmesi halinde talebin 2027’de düşebileceğini, ancak boğazın LNG sevkiyatlarına büyük ölçüde kapalı kalmaya de",
-      "url": "https://www.iklimhaber.org/hurmuz-krizi-nedeniyle-komur-talebi-rekora-kosuyor/",
-      "tarih": "2026-09-11T09:12:28+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7619fbbc9954",
-      "baslik": "COP31’in Başarısı Neye Bağlı?",
-      "ozet": "Prof. Dr. Semra Cerit Mazlum COP31’in “iklim diplomasisi tarihinde kritik bir aşama olacağını” belirtirken, Dr. Ümit Şahin ise bu kritik COP’un başarısının, nereden bakıldığına göre değişebileceğine dikkat çekti. İklim Masası’nın, 9 Eylül Çarşamba günü düzenlediği “COP31’e Doğru:",
-      "url": "https://www.iklimhaber.org/cop31in-basarisi-neye-bagli/",
-      "tarih": "2026-09-11T08:47:37+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "12a7d9550dd2",
-      "baslik": "Kömür madenini suyla doldurup imkansızı başardılar",
-      "ozet": "Kömür madenini suyla doldurup imkansızı başardılar",
-      "url": "https://www.sozcu.com.tr/komur-madenini-suyla-doldurup-imkansizi-basardilar-p357256",
-      "tarih": "2026-09-11T07:33:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
