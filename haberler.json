@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-01T17:48:27.023413+00:00",
+    "guncelleme": "2026-10-01T22:11:52.306208+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6589,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "37a058e4f51a",
+      "baslik": "Soğuk Savaş'tan beri bir ilk: Nükleer silahlanmada ibre tersine döndü",
+      "ozet": "Soğuk Savaş'tan beri bir ilk: Nükleer silahlanmada ibre tersine döndü",
+      "url": "https://www.sozcu.com.tr/soguk-savas-tan-beri-bir-ilk-nukleer-silahlanmada-ibre-tersine-dondu-p365349",
+      "tarih": "2026-10-01T21:29:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cd78286fa202",
+      "baslik": "Son dakika...Merkez Bankası'ndan yeni karar: Yüzde 5'e yükseltildi",
+      "ozet": "Son dakika...Merkez Bankası'ndan yeni karar: Yüzde 5'e yükseltildi",
+      "url": "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-ndan-yeni-karar-yuzde-5-e-yukseltildi-p365315",
+      "tarih": "2026-10-01T21:15:38+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5dbab0e7b8e8",
       "baslik": "Önce ıslattılar sonra dövdüler! Liseli kızların yaptıkları 'pes' dedirtti",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-09-11T12:09:21+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e8bed9d71a93",
-      "baslik": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi - evrensel.net",
-      "ozet": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa29zbEpGTzhHM3hEYUdhU09HdWZKUWtNRjZUcnJjdkhpaFRYMWVObm5kb2ZrU01FQ3lNa0F1SDE2dWtxeHptQm00akY4bFgtNXNxeXJOa0pVUDVxWkdTdmRuZUJSV2tIUVpWQ2dJVmZBeFRnYlpnQkpWUjNnVlAtWHljc0pnaUw2RXFpZG1UclgwMHNCRXd2U2d4UlN3T0g3MXNQc2tLN1FxWW9Hb0p4WUg3VXZaQQ?oc=5",
-      "tarih": "2026-09-11T10:54:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "45f6e6b0c77f",
-      "baslik": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi - Evrensel.net",
-      "ozet": "Kaltun ve Aktaş madencilik şikayet etti, ÇİYAP sözcüsü Ahmet Uslu adliyedeydi Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa29zbEpGTzhHM3hEYUdhU09HdWZKUWtNRjZUcnJjdkhpaFRYMWVObm5kb2ZrU01FQ3lNa0F1SDE2dWtxeHptQm00akY4bFgtNXNxeXJOa0pVUDVxWkdTdmRuZUJSV2tIUVpWQ2dJVmZBeFRnYlpnQkpWUjNnVlAtWHljc0pnaUw2RXFpZG1UclgwMHNCRXd2U2d4UlN3T0g3MXNQc2tLN1FxWW9Hb0p4WUg3VXZaQQ?oc=5",
-      "tarih": "2026-09-11T10:54:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
