@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-09-30T21:43:38.905772+00:00",
+    "guncelleme": "2026-10-01T09:38:59.370757+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6588,
+    "harita_kayit_sayisi": 6589,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "d5b589a10d7c",
+      "baslik": "Ünlü gece kulübünde yangın çıktı! Küle döndü...",
+      "ozet": "Ünlü gece kulübünde yangın çıktı! Küle döndü...",
+      "url": "https://www.sozcu.com.tr/unlu-gece-kulubunde-yangin-cikti-kule-dondu-p365167",
+      "tarih": "2026-10-01T09:27:35+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c3774d9598c7",
+      "baslik": "4 yıl kaldı: Evlere borularla taşınacak, ısınma faturasını tarihe gömecekler",
+      "ozet": "4 yıl kaldı: Evlere borularla taşınacak, ısınma faturasını tarihe gömecekler",
+      "url": "https://www.sozcu.com.tr/4-yil-kaldi-evlere-borularla-tasinacak-isinma-faturasini-tarihe-gomecekler-p365160",
+      "tarih": "2026-10-01T09:15:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d859f8ed729d",
+      "baslik": "ABD borsalarında enflasyon endişesi",
+      "ozet": "ABD borsalarında enflasyon endişesi",
+      "url": "https://www.sozcu.com.tr/abd-borsalarinda-enflasyon-endisesi-p365142",
+      "tarih": "2026-10-01T08:38:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d005633ca8a1",
+      "baslik": "Yangın Bölgesinden COP31’e Mesaj: “Fosil Yakıtlardan Çıkış Şart!”",
+      "ozet": "Antalya’da COP31’in yapılacağı bölgede orman yangınlarının bıraktığı tahribatı gözlemleyen aktivistler, yaptıkları açıklamada, “İklim krizi evimizi yakıyor, gerçek sebep ise fosil yakıtlar. COP31’in düzenleneceği alandan bir kaç km ötedeki bu tablo, COP31 Başkanlığını üstlenen Tü",
+      "url": "https://www.iklimhaber.org/yangin-bolgesinden-cop31e-mesaj-fosil-yakitlardan-cikis-sart/",
+      "tarih": "2026-10-01T07:57:35+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6a7eabcaa17c",
+      "baslik": "Aşırı Hava Olayları Gıda Enflasyonunu Artırıyor; Risk El Nino ile Büyüyor",
+      "ozet": "Yeni yayımlanan bir araştırma, aşırı iklim olaylarının hem gıda enflasyonunu hem de genel enflasyonu nasıl artırdığını ortaya koydu. Bilim insanlarına göre, fosil yakıt bağımlılığının ve aşırı hava olaylarının yol açtığı yıkımın tetiklediği iklim enflasyonu, günlük yaşam maliyetl",
+      "url": "https://www.iklimhaber.org/asiri-hava-olaylari-gida-enflasyonunu-artiriyor-risk-el-nino-ile-buyuyor/",
+      "tarih": "2026-10-01T07:18:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "af434d4f2b1f",
       "baslik": "Dev boru hattı için düğmeye basıldı: 1.300 kilometre uzanacak, 54 milyar dolara mal olacak",
@@ -1957,56 +2007,6 @@
       "ozet": "Kömür madenini suyla doldurup imkansızı başardılar",
       "url": "https://www.sozcu.com.tr/komur-madenini-suyla-doldurup-imkansizi-basardilar-p357256",
       "tarih": "2026-09-11T07:33:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9de390e7a5a3",
-      "baslik": "Döviz ve borsa yatırımcıları bu habere kilitlendi!",
-      "ozet": "Döviz ve borsa yatırımcıları bu habere kilitlendi!",
-      "url": "https://www.sozcu.com.tr/doviz-ve-borsa-yatirimcilari-bu-habere-kilitlendi-p357241",
-      "tarih": "2026-09-11T07:07:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "14cfb5bd8096",
-      "baslik": "Borsa İstanbul bir hisseyi işleme kapattı",
-      "ozet": "Borsa İstanbul bir hisseyi işleme kapattı",
-      "url": "https://www.sozcu.com.tr/borsa-istanbul-bir-hisseyi-isleme-kapattigini-acikladi-p357223",
-      "tarih": "2026-09-11T06:47:59+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "808f2a012409",
-      "baslik": "Tırmanan Sıcaklıklar İklim Risklerini Derinleştiriyor: Yaşlı Nüfus Tehdit Altında!",
-      "ozet": "Araştırmalar, küresel ısınmayla birlikte dayanılmaz sıcaklıkların çok daha büyük ölçeklerde ve daha uzun süreler boyunca yaşanacağını, bununla birlikte artan ısı maruziyetine bağlı iklim risklerinin de özellikle yaşlılarda tehlikeli boyuta ulaşabileceğini ortaya koyuyor. Bilim in",
-      "url": "https://www.iklimhaber.org/tirmanan-sicakliklar-iklim-risklerini-derinlestiriyor-yasli-nufus-tehdit-altinda/",
-      "tarih": "2026-09-11T06:30:31+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "af14e6906787",
-      "baslik": "Tarım müdürü makam odasında mermileri dizdi",
-      "ozet": "Tarım müdürü makam odasında mermileri dizdi",
-      "url": "https://www.sozcu.com.tr/ali-ihsan-soker-makam-odasindaki-goruntu-gundem-oldu-p357125",
-      "tarih": "2026-09-10T19:58:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "54ecf239604f",
-      "baslik": "CHP’den AKP’ye geçen Saniye Bora Fıçı’ya eski belediye başkanı ağabeyi ateş püskürdü",
-      "ozet": "CHP’den AKP’ye geçen Saniye Bora Fıçı’ya eski belediye başkanı ağabeyi ateş püskürdü",
-      "url": "https://www.sozcu.com.tr/chp-den-akp-ye-gecen-saniye-bora-fici-ya-eski-belediye-baskani-agabeyi-ates-puskurdu-p357111",
-      "tarih": "2026-09-10T18:39:33+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94242,6 +94242,20 @@
       "ozet": "Diyarbakır’da 8 bin yıllık mağarayı etkileyecek maden projesi... 'ÇED gerekli değildir' kararına yürütmeyi durdurma Cumhuriyet",
       "lat": 37.9168,
       "lng": 40.1234,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d005633ca8a1",
+      "baslik": "Yangın Bölgesinden COP31’e Mesaj: “Fosil Yakıtlardan Çıkış Şart!”",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "01.10.2026",
+      "url": "https://www.iklimhaber.org/yangin-bolgesinden-cop31e-mesaj-fosil-yakitlardan-cikis-sart/",
+      "ozet": "Antalya’da COP31’in yapılacağı bölgede orman yangınlarının bıraktığı tahribatı gözlemleyen aktivistler, yaptıkları açıklamada, “İklim krizi evimizi yakıyor, gerçek sebep ise fosil yakıtlar. COP31’in düzenleneceği alandan bir kaç km ötedeki bu tablo, COP31 Başkanlığını üstlenen Tü",
+      "lat": 36.8605,
+      "lng": 30.8249,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

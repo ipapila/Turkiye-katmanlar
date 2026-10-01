@@ -119723,5 +119723,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMW5zN0ZELVM3aGMtRG1jcVpCNXpQQi1vaU5yaDBzNjN5ZmFFanFWUVlNV0dQcnpVVWMtZDV2WTJWMXZ4M1ozRFFlWlFZdU9rSmZMY2lBRlkzemVzYTNLay04WjA4REtjTmVQenoxSnR5ZWZRaV9vZVFnVTd5Z0tyamZlblcwNW5DMVZRYWxkUWZZRGtDVmxROVRpc3NJbG94V2pQZGp4dGtNNmd2TjFxcGwtQjNZa0F4TEhyaFZHbkRGZE1KQWRIN3EzUzNtV0tLem1ZQ29nbllUbTJvd2hjcHFfb1NDd3RJWUxYNA?oc=5"
+  },
+  {
+    "id": "tarayici-d005633ca8a1",
+    "tip": "Ekolojik İhlal",
+    "ad": "Yangın Bölgesinden COP31’e Mesaj: “Fosil Yakıtlardan Çıkış Şart!”",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya’da COP31’in yapılacağı bölgede orman yangınlarının bıraktığı tahribatı gözlemleyen aktivistler, yaptıkları açıklamada, “İklim krizi evimizi yakıyor, gerçek sebep ise fosil yakıtlar. COP31’in düzenleneceği alandan bir kaç km ötedeki bu tablo, COP31 Başkanlığını üstlenen Tü",
+    "koordinatlar": {
+      "lat": 36.8605,
+      "lng": 30.8249
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "01.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/yangin-bolgesinden-cop31e-mesaj-fosil-yakitlardan-cikis-sart/"
   }
 ]
