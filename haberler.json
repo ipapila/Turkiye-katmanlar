@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-02T17:10:02.184274+00:00",
+    "guncelleme": "2026-10-02T21:39:33.804871+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6592,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "d730c7f2fb38",
+      "baslik": "CAATSA yaptırımları soruldu, Trump böyle yanıt verdi: Türkiye'yi seviyorum, Erdoğan benim dostum",
+      "ozet": "CAATSA yaptırımları soruldu, Trump böyle yanıt verdi: Türkiye'yi seviyorum, Erdoğan benim dostum",
+      "url": "https://www.sozcu.com.tr/trump-tan-caatsa-aciklamasi-turkiye-yi-seviyorum-p365648",
+      "tarih": "2026-10-02T20:36:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5bfb63b89914",
       "baslik": "Tel Aviv uçuşları askıya alındı: Resmen duyuruldu",
@@ -1997,16 +2007,6 @@
       "ozet": "Davutoğlu'nun oğlunun nikahında dikkat çeken detay: Erdoğan yoktu, Özel ve Kılıçdaroğlu şahit oldu",
       "url": "https://www.sozcu.com.tr/ahmet-davutoglu-nun-oglu-nikahinda-dikkat-ceken-isimler-p357616",
       "tarih": "2026-09-12T16:21:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "17a48e8103bb",
-      "baslik": "Çin ülkedeki maden kokusunu aldı: Milyonlarda dolar parayı bölgeye akıtacak",
-      "ozet": "Çin ülkedeki maden kokusunu aldı: Milyonlarda dolar parayı bölgeye akıtacak",
-      "url": "https://www.sozcu.com.tr/cin-ulkedeki-maden-kokusunu-aldi-milyonlarda-dolar-parayi-bolgeye-akitacak-p357565",
-      "tarih": "2026-09-12T10:03:41+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
