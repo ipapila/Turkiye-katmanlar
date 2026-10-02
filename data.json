@@ -119742,5 +119742,62 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/yangin-bolgesinden-cop31e-mesaj-fosil-yakitlardan-cikis-sart/"
+  },
+  {
+    "id": "tarayici-5f2215c863ef",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Eskişehir'de toryum sahasına acele kamulaştırma: Uzman, kaynağın 4 bin yıl yetebileceğini söyledi - sondakika.com",
+    "il": "Eskişehir",
+    "ilce": "",
+    "aciklama": "Eskişehir'de toryum sahasına acele kamulaştırma: Uzman, kaynağın 4 bin yıl yetebileceğini söyledi sondakika.com",
+    "koordinatlar": {
+      "lat": 39.8847,
+      "lng": 30.4696
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "02.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1BZNEhUUEhCbXlDVzByYVdpeHJFclRzYmpXTW8tRmpEZy04MnZsMFhoRlFObkRONWJzWFI4NnJGcHlhV3pnbGc2RjBCNGg3S2FQZ21JTzQwcldJZHJlVmQxZ0lyTERrR09GVm1obHZfUHNXOHJ6ZXgxNVFTMGVaTnlvZG1WMEFFaTc5UUxXWmJCVDFtNEFhRzdwVG5VZ9IBmAFBVV95cUxNQ1A2MUtKM2NVOXE2RmUzcXh2X1gzS3czY3lzeUxLREJ1TDZTVnpWQUVhZFV2U193NFNyMk5MYmJLOGM4dC1PV2JjOEhnSjhyWHQ5YWNvcTZacms1UWlmZkVLMGc0ajlIQkhiOWdqaWpOalloVmJDT2RwRWlrVGlGVWFYbExSSHdzdC1NZm5yTS10OHRneXBkbQ?oc=5"
+  },
+  {
+    "id": "tarayici-110ca9551dcd",
+    "tip": "Maden Ocağı",
+    "ad": "Soma’da Maden Ocağındaki Göçükte 5 Madenci Yaşamını Yitirdi",
+    "il": "Manisa",
+    "ilce": "",
+    "aciklama": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Manisa’nın Soma ilçesindeki maden ocağında meydana gelen göçükte 5 madencinin hayatını kaybettiğini bildirdi. Manisa Valiliği, Soma ilçesindeki bir maden işletmesinde meydana gelen göçükte 3 işçinin daha cansız bedenine ulaşıldığını ",
+    "koordinatlar": {
+      "lat": 38.5631,
+      "lng": 27.4806
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "02.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/somada-maden-ocagindaki-gocukte-5-madenci-yasamini-yitirdi/"
+  },
+  {
+    "id": "tarayici-0759bf8afcbb",
+    "tip": "Ekolojik İhlal",
+    "ad": "AB COP31 için Önceliklerini Belirledi",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya’daki COP31 Zirvesi’ne hazırlanan AB; fosil yakıtlardan kademeli çıkış sürecinin hızlanmasını, iklim finansmanının artırılmasını ve kırılgan ülkelere daha güçlü destek verilmesini talep ediyor. AB Parlamentosu’nun Türkiye, Antalya’da 9-20 Kasım tarihlerinde düzenlenecek ol",
+    "koordinatlar": {
+      "lat": 36.8055,
+      "lng": 30.7969
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "02.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/ab-cop31-icin-onceliklerini-belirledi/"
   }
 ]
