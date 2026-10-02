@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-02T09:13:04.665816+00:00",
+    "guncelleme": "2026-10-02T17:10:02.184274+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6592,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "5bfb63b89914",
+      "baslik": "Tel Aviv uçuşları askıya alındı: Resmen duyuruldu",
+      "ozet": "Tel Aviv uçuşları askıya alındı: Resmen duyuruldu",
+      "url": "https://www.sozcu.com.tr/tel-aviv-ucuslari-askiya-alindi-resmen-duyuruldu-p365626",
+      "tarih": "2026-10-02T16:57:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "34cde0ca3a6e",
       "baslik": "İklim İnkârcılığı Sözlüğü-14: “Zamların Sebebi Fosil Yakıt Kısıtlamalarıdır”",
@@ -469,6 +479,16 @@
       "tarih": "2026-09-28T09:30:44+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3f9065b34eb7",
+      "baslik": "Eskişehir'de toryum sahasına acele kamulaştırma: Uzman, kaynağın 4 bin yıl yetebileceğini söyledi - Son Dakika",
+      "ozet": "Eskişehir'de toryum sahasına acele kamulaştırma: Uzman, kaynağın 4 bin yıl yetebileceğini söyledi Son Dakika",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1BZNEhUUEhCbXlDVzByYVdpeHJFclRzYmpXTW8tRmpEZy04MnZsMFhoRlFObkRONWJzWFI4NnJGcHlhV3pnbGc2RjBCNGg3S2FQZ21JTzQwcldJZHJlVmQxZ0lyTERrR09GVm1obHZfUHNXOHJ6ZXgxNVFTMGVaTnlvZG1WMEFFaTc5UUxXWmJCVDFtNEFhRzdwVG5VZ9IBmAFBVV95cUxNQ1A2MUtKM2NVOXE2RmUzcXh2X1gzS3czY3lzeUxLREJ1TDZTVnpWQUVhZFV2U193NFNyMk5MYmJLOGM4dC1PV2JjOEhnSjhyWHQ5YWNvcTZacms1UWlmZkVLMGc0ajlIQkhiOWdqaWpOalloVmJDT2RwRWlrVGlGVWFYbExSSHdzdC1NZm5yTS10OHRneXBkbQ?oc=5",
+      "tarih": "2026-09-28T09:17:40+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1987,26 +2007,6 @@
       "ozet": "Çin ülkedeki maden kokusunu aldı: Milyonlarda dolar parayı bölgeye akıtacak",
       "url": "https://www.sozcu.com.tr/cin-ulkedeki-maden-kokusunu-aldi-milyonlarda-dolar-parayi-bolgeye-akitacak-p357565",
       "tarih": "2026-09-12T10:03:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1a8f6fa1da70",
-      "baslik": "Yandaş yazar Erdoğan’ın sözlerini tercüme etti",
-      "ozet": "Yandaş yazar Erdoğan’ın sözlerini tercüme etti",
-      "url": "https://www.sozcu.com.tr/yandas-yazar-erdogan-in-sozlerini-tercume-etti-p357488",
-      "tarih": "2026-09-12T06:24:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "272d477b3bb8",
-      "baslik": "Bitkisel içecek faciası: Can kaybı 30’a yükseldi",
-      "ozet": "Bitkisel içecek faciası: Can kaybı 30’a yükseldi",
-      "url": "https://www.sozcu.com.tr/bitkisel-icecek-faciasi-can-kaybi-30-a-yukseldi-p357421",
-      "tarih": "2026-09-11T17:52:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
