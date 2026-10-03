@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-03T08:48:06.249302+00:00",
+    "guncelleme": "2026-10-03T14:05:55.027534+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6592,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "81cccac112db",
+      "baslik": "Erdoğan istedi bakan 'roket' türküsü açtı",
+      "ozet": "Erdoğan istedi bakan 'roket' türküsü açtı",
+      "url": "https://www.sozcu.com.tr/erdogan-istedi-bakan-roket-turkusu-acti-p365820",
+      "tarih": "2026-10-03T13:48:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2eabe045eb02",
+      "baslik": "Guardiola Manchester City için harekete geçti! Geri dönüyor",
+      "ozet": "Guardiola Manchester City için harekete geçti! Geri dönüyor",
+      "url": "https://www.sozcu.com.tr/guardiola-manchester-city-icin-harekete-gecti-geri-donuyor-p365817",
+      "tarih": "2026-10-03T13:24:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8a28a5fefa4a",
+      "baslik": "AKP'nin gelir gelmez Üsküdar'daki ilk icraatı işçi kıyımı oldu",
+      "ozet": "AKP'nin gelir gelmez Üsküdar'daki ilk icraatı işçi kıyımı oldu",
+      "url": "https://www.sozcu.com.tr/akp-nin-gelir-gelmez-uskudar-daki-ilk-icraati-isci-kiyimi-oldu-p365813",
+      "tarih": "2026-10-03T13:11:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f1c424f539b6",
+      "baslik": "Deniz seviyesinin 4 metre altına ülkeyi inşa ettiler: Sular yükselince evler de yükseliyor",
+      "ozet": "Deniz seviyesinin 4 metre altına ülkeyi inşa ettiler: Sular yükselince evler de yükseliyor",
+      "url": "https://www.sozcu.com.tr/deniz-seviyesinin-4-metre-altina-ulkeyi-insa-ettiler-sular-yukselince-evler-de-yukseliyor-p365814",
+      "tarih": "2026-10-03T13:08:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c01c05d881f2",
+      "baslik": "Hayat Bilgisi'nin Barbie'si yıllar sonra ekranlara dönüyor: Yeni adresi belli oldu",
+      "ozet": "Hayat Bilgisi'nin Barbie'si yıllar sonra ekranlara dönüyor: Yeni adresi belli oldu",
+      "url": "https://www.sozcu.com.tr/hayat-bilgisi-nin-barbie-si-yillar-sonra-ekranlara-donuyor-yeni-adresi-belli-oldu-p365810",
+      "tarih": "2026-10-03T12:51:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0dd28c312ed9",
+      "baslik": "Deniz Göktaş'ın avukatından Kılıçdaroğlu'nu kızdıracak sözler",
+      "ozet": "Deniz Göktaş'ın avukatından Kılıçdaroğlu'nu kızdıracak sözler",
+      "url": "https://www.sozcu.com.tr/deniz-goktas-in-avukatindan-kilicdaroglu-nu-kizdiracak-sozler-p365808",
+      "tarih": "2026-10-03T12:44:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "239be42b7116",
       "baslik": "Yangın süsü verilen yaşlı çiftin cinayetinde yeni gelişme",
@@ -1947,66 +2007,6 @@
       "ozet": "Göz çevresindeki sarı lekeler kalp krizinin belirtisi olabilir",
       "url": "https://www.sozcu.com.tr/goz-cevresindeki-sari-lekeler-kalp-krizinin-belirtisi-olabilir-p357887",
       "tarih": "2026-09-13T15:38:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9a159d540ea5",
-      "baslik": "Milli motosikletçi Deniz Öncü, rahatsızlığına rağmen çıktığı yarışta 20. oldu",
-      "ozet": "Milli motosikletçi Deniz Öncü, rahatsızlığına rağmen çıktığı yarışta 20. oldu",
-      "url": "https://www.sozcu.com.tr/milli-motosikletci-deniz-oncu-rahatsizligina-ragmen-ciktigi-yarista-20-oldu-p357853",
-      "tarih": "2026-09-13T13:25:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f741260e7254",
-      "baslik": "Erbakan Erdoğan’ın yaşına dikkat çekti: “Bir daha aday olmaması en uygun olanıdır”",
-      "ozet": "Erbakan Erdoğan’ın yaşına dikkat çekti: “Bir daha aday olmaması en uygun olanıdır”",
-      "url": "https://www.sozcu.com.tr/erbakan-erdogan-in-yasina-dikkat-cekti-bir-daha-aday-olmamasi-en-uygun-olanidir-p357851",
-      "tarih": "2026-09-13T13:14:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6d9c513893a6",
-      "baslik": "Yanıltıcı borsa paylaşımlarına ilişkin soruşturma başlatıldı",
-      "ozet": "Yanıltıcı borsa paylaşımlarına ilişkin soruşturma başlatıldı",
-      "url": "https://www.sozcu.com.tr/yaniltici-borsa-paylasimlarina-iliskin-sorusturma-baslatildi-p357812",
-      "tarih": "2026-09-13T11:24:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a132c7860d11",
-      "baslik": "Fenomen Mika Can Raun’un sosyal medya hesaplarına erişim engeli",
-      "ozet": "Fenomen Mika Can Raun’un sosyal medya hesaplarına erişim engeli",
-      "url": "https://www.sozcu.com.tr/fenomen-mika-can-raun-un-sosyal-medya-hesaplarina-erisim-engeli-p357750",
-      "tarih": "2026-09-13T07:36:59+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "232c118a6b14",
-      "baslik": "Maç sonu röportajında Deniz Türüç'ü çılgına çeviren muamele",
-      "ozet": "Maç sonu röportajında Deniz Türüç'ü çılgına çeviren muamele",
-      "url": "https://www.sozcu.com.tr/mac-sonu-roportajinda-deniz-turuc-u-cilgina-ceviren-muamele-p357738",
-      "tarih": "2026-09-13T07:13:59+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c4f6779cc57c",
-      "baslik": "Cumhurbaşkanı Erdoğan’ın AKP’ye davet ettiği belediye başkanı YENİ Parti’ye katıldı",
-      "ozet": "Cumhurbaşkanı Erdoğan’ın AKP’ye davet ettiği belediye başkanı YENİ Parti’ye katıldı",
-      "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-in-akp-ye-davet-ettigi-belediye-baskani-yeni-parti-ye-katildi-p357631",
-      "tarih": "2026-09-12T19:47:24+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
