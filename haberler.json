@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-02T21:39:33.804871+00:00",
+    "guncelleme": "2026-10-03T08:48:06.249302+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6592,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "239be42b7116",
+      "baslik": "Yangın süsü verilen yaşlı çiftin cinayetinde yeni gelişme",
+      "ozet": "Yangın süsü verilen yaşlı çiftin cinayetinde yeni gelişme",
+      "url": "https://www.sozcu.com.tr/yangin-susu-verilen-yasli-ciftin-cinayetinde-yeni-gelisme-p365749",
+      "tarih": "2026-10-03T08:36:54+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d730c7f2fb38",
       "baslik": "CAATSA yaptırımları soruldu, Trump böyle yanıt verdi: Türkiye'yi seviyorum, Erdoğan benim dostum",
@@ -1997,16 +2007,6 @@
       "ozet": "Cumhurbaşkanı Erdoğan’ın AKP’ye davet ettiği belediye başkanı YENİ Parti’ye katıldı",
       "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-in-akp-ye-davet-ettigi-belediye-baskani-yeni-parti-ye-katildi-p357631",
       "tarih": "2026-09-12T19:47:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "df3eb04766bc",
-      "baslik": "Davutoğlu'nun oğlunun nikahında dikkat çeken detay: Erdoğan yoktu, Özel ve Kılıçdaroğlu şahit oldu",
-      "ozet": "Davutoğlu'nun oğlunun nikahında dikkat çeken detay: Erdoğan yoktu, Özel ve Kılıçdaroğlu şahit oldu",
-      "url": "https://www.sozcu.com.tr/ahmet-davutoglu-nun-oglu-nikahinda-dikkat-ceken-isimler-p357616",
-      "tarih": "2026-09-12T16:21:11+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
