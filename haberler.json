@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-03T14:05:55.027534+00:00",
+    "guncelleme": "2026-10-03T18:28:02.557343+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6592,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -189,6 +189,16 @@
       "tarih": "2026-10-01T15:38:10+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8212eb698091",
+      "baslik": "Zafer Partili Aslan’dan acele kamulaştırma tepkisi: “Toprağı da suyu da gözden çıkaramazsınız” - GazeteKalem",
+      "ozet": "Zafer Partili Aslan’dan acele kamulaştırma tepkisi: “Toprağı da suyu da gözden çıkaramazsınız” GazeteKalem",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXpZNmtxUEZoeTlXbU5admpQWTFDRnBWb0thT1dvSk9ORUFUc0l5Y3o2QW9QeU1SWllUNkhEY3lra1dPMUxuZHFta1RvaHFaaThlUUdGeFhhWE9BMlk4aklCcGZwUzJMMTJqc1k2Vm5Dal9EZ2NMOUg5NUtZRmVuT3hEZklocnd2NmhLa0pteGxaMHFIRm9vU3UyWG1vOUd2UGIzQS10T19ZWFpkU2dvVTJtTFFNZEkxUFE?oc=5",
+      "tarih": "2026-10-01T12:08:07+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1999,16 +2009,6 @@
       "tarih": "2026-09-14T06:30:40+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "881cc0d42742",
-      "baslik": "Göz çevresindeki sarı lekeler kalp krizinin belirtisi olabilir",
-      "ozet": "Göz çevresindeki sarı lekeler kalp krizinin belirtisi olabilir",
-      "url": "https://www.sozcu.com.tr/goz-cevresindeki-sari-lekeler-kalp-krizinin-belirtisi-olabilir-p357887",
-      "tarih": "2026-09-13T15:38:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
