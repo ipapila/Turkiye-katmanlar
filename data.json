@@ -119837,5 +119837,62 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/antalya-da-5-katli-binanin-terasinda-feci-yangin-p366052"
+  },
+  {
+    "id": "tarayici-aff26681bb47",
+    "tip": "İklim Olayları",
+    "ad": "Son dakika... Antalya'da orman yangını: Havadan ve karadan müdahale başladı! - Cumhuriyet",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Son dakika... Antalya'da orman yangını: Havadan ve karadan müdahale başladı! Cumhuriyet",
+    "koordinatlar": {
+      "lat": 36.9651,
+      "lng": 30.6903
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHpMdUoyRnhqTVhRaVh6ZnRKODNhT3BvNFZ5c2d5RW1CaFR3MXFObGZNS2M4b3VBQlJSNkw5My1rbXg1b3hqSnRXbWwxUkp6WV93Wkg0RFpXeElGc1pYTlUwd255X0xMRGxFT3ZZQnlBNUl4dGg3UjRyd0tyclVmbFU5M19IT2dpQnpRMzNfQlU4MU1PeEZCU3YxYWxxUV96c1ZhNkVRQzZ3VVVKd1BlZ3dUUl91aFNh?oc=5"
+  },
+  {
+    "id": "tarayici-b31d6ff8bbdc",
+    "tip": "İklim Olayları",
+    "ad": "Balıkesir'de orman yangını: Ekipler müdahale ediyor - Cumhuriyet",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "Balıkesir'de orman yangını: Ekipler müdahale ediyor Cumhuriyet",
+    "koordinatlar": {
+      "lat": 39.6168,
+      "lng": 27.9568
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0twd25UTmFWTEl3NFljcE9sczNIT1ZJdzNfLVpIQ2R4SUdweHNKMFVJTUhmNlZDZGFBc1pOR2pYTE1DS1NCU1NNOVhCTGtidUkzSms1eU1RSzZFYXk3V3h5U3RBU0paRDI0dEpkYzc4b2d1N1hPa2E1SDdiczhlU09vZTZaZjh5cUp1ay1lNW5ySDBMTEJrODJaSGI?oc=5"
+  },
+  {
+    "id": "tarayici-c453146123c0",
+    "tip": "Ekolojik İhlal",
+    "ad": "Muğla'da madencilik yağması: Bir yılda 30 proje için ÇED olumlu kararı - birgun.net",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Muğla'da madencilik yağması: Bir yılda 30 proje için ÇED olumlu kararı birgun.net",
+    "koordinatlar": {
+      "lat": 37.1859,
+      "lng": 28.3757
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcUp1c1VPNDdoZW5jbWRfMThTZXFtdE53Z3N3SDdhX3ZqQXZsTVBpQmtTVGpJaW8xdWROeG9MTnZXNVdma3ZxZ0tXaGtwLWttMjV0Skdadk9lZVVLRnZ1LTZ4akVhcE5DNXpsbWhrS3NfYmJqS1FSa0FOc0tObUZ6a0RWX1hiQTRpWlU0ZkY0SjN0cFFtNEYycFVENFZCc3NTRXRZSUZPLVo?oc=5"
   }
 ]

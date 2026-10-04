@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-04T16:14:48.071765+00:00",
+    "guncelleme": "2026-10-04T20:44:26.833029+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6594,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6597,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "327ecfcfaac6",
+      "baslik": "Nehir kıyısından 17 milyon ton radyoaktif atık çıkarıldı",
+      "ozet": "Nehir kıyısından 17 milyon ton radyoaktif atık çıkarıldı",
+      "url": "https://www.sozcu.com.tr/nehir-kiyisindan-17-milyon-ton-radyoaktif-atik-cikarildi-p366116",
+      "tarih": "2026-10-04T19:49:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a12f629dd31c",
       "baslik": "Görüntüler Türkiye'den: Deniz yüzeyi kırmızıya boyandı",
@@ -909,6 +919,16 @@
       "tarih": "2026-09-25T07:05:05+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "aff26681bb47",
+      "baslik": "Son dakika... Antalya'da orman yangını: Havadan ve karadan müdahale başladı! - Cumhuriyet",
+      "ozet": "Son dakika... Antalya'da orman yangını: Havadan ve karadan müdahale başladı! Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHpMdUoyRnhqTVhRaVh6ZnRKODNhT3BvNFZ5c2d5RW1CaFR3MXFObGZNS2M4b3VBQlJSNkw5My1rbXg1b3hqSnRXbWwxUkp6WV93Wkg0RFpXeElGc1pYTlUwd255X0xMRGxFT3ZZQnlBNUl4dGg3UjRyd0tyclVmbFU5M19IT2dpQnpRMzNfQlU4MU1PeEZCU3YxYWxxUV96c1ZhNkVRQzZ3VVVKd1BlZ3dUUl91aFNh?oc=5",
+      "tarih": "2026-09-25T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1987,26 +2007,6 @@
       "ozet": "Erdoğan'ın bu sözleri Saray'ın sitesinde duruyor",
       "url": "https://www.sozcu.com.tr/erdogan-in-bu-sozleri-saray-in-sitesinde-duruyor-p358046",
       "tarih": "2026-09-14T08:02:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a6793d3c5021",
-      "baslik": "Katılımevim hisseleri sert düştü",
-      "ozet": "Katılımevim hisseleri sert düştü",
-      "url": "https://www.sozcu.com.tr/katilimevim-hisseleri-sert-dustu-p358028",
-      "tarih": "2026-09-14T07:30:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b83dca1fd2e5",
-      "baslik": "Çölleşen toprakları seralarla kaplayarak doğanın dengesini altüst ettiler",
-      "ozet": "Çölleşen toprakları seralarla kaplayarak doğanın dengesini altüst ettiler",
-      "url": "https://www.sozcu.com.tr/collesen-topraklari-seralarla-kaplayarak-doganin-dengesini-altust-ettiler-p358026",
-      "tarih": "2026-09-14T07:29:48+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94326,6 +94326,48 @@
       "ozet": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
       "lat": 36.9125,
       "lng": 30.6846,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-aff26681bb47",
+      "baslik": "Son dakika... Antalya'da orman yangını: Havadan ve karadan müdahale başladı! - Cumhuriyet",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHpMdUoyRnhqTVhRaVh6ZnRKODNhT3BvNFZ5c2d5RW1CaFR3MXFObGZNS2M4b3VBQlJSNkw5My1rbXg1b3hqSnRXbWwxUkp6WV93Wkg0RFpXeElGc1pYTlUwd255X0xMRGxFT3ZZQnlBNUl4dGg3UjRyd0tyclVmbFU5M19IT2dpQnpRMzNfQlU4MU1PeEZCU3YxYWxxUV96c1ZhNkVRQzZ3VVVKd1BlZ3dUUl91aFNh?oc=5",
+      "ozet": "Son dakika... Antalya'da orman yangını: Havadan ve karadan müdahale başladı! Cumhuriyet",
+      "lat": 36.9651,
+      "lng": 30.6903,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b31d6ff8bbdc",
+      "baslik": "Balıkesir'de orman yangını: Ekipler müdahale ediyor - Cumhuriyet",
+      "konum": "Balıkesir",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0twd25UTmFWTEl3NFljcE9sczNIT1ZJdzNfLVpIQ2R4SUdweHNKMFVJTUhmNlZDZGFBc1pOR2pYTE1DS1NCU1NNOVhCTGtidUkzSms1eU1RSzZFYXk3V3h5U3RBU0paRDI0dEpkYzc4b2d1N1hPa2E1SDdiczhlU09vZTZaZjh5cUp1ay1lNW5ySDBMTEJrODJaSGI?oc=5",
+      "ozet": "Balıkesir'de orman yangını: Ekipler müdahale ediyor Cumhuriyet",
+      "lat": 39.6168,
+      "lng": 27.9568,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c453146123c0",
+      "baslik": "Muğla'da madencilik yağması: Bir yılda 30 proje için ÇED olumlu kararı - birgun.net",
+      "konum": "Muğla",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcUp1c1VPNDdoZW5jbWRfMThTZXFtdE53Z3N3SDdhX3ZqQXZsTVBpQmtTVGpJaW8xdWROeG9MTnZXNVdma3ZxZ0tXaGtwLWttMjV0Skdadk9lZVVLRnZ1LTZ4akVhcE5DNXpsbWhrS3NfYmJqS1FSa0FOc0tObUZ6a0RWX1hiQTRpWlU0ZkY0SjN0cFFtNEYycFVENFZCc3NTRXRZSUZPLVo?oc=5",
+      "ozet": "Muğla'da madencilik yağması: Bir yılda 30 proje için ÇED olumlu kararı birgun.net",
+      "lat": 37.1859,
+      "lng": 28.3757,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
