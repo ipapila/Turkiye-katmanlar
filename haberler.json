@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-04T09:11:21.863328+00:00",
+    "guncelleme": "2026-10-04T16:14:48.071765+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6592,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6594,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "a12f629dd31c",
+      "baslik": "Görüntüler Türkiye'den: Deniz yüzeyi kırmızıya boyandı",
+      "ozet": "Görüntüler Türkiye'den: Deniz yüzeyi kırmızıya boyandı",
+      "url": "https://www.sozcu.com.tr/goruntuler-turkiye-den-deniz-yuzeyi-kirmiziya-boyandi-p366074",
+      "tarih": "2026-10-04T15:17:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8868d4309550",
+      "baslik": "90'ların yıldızı Bendeniz'i bir de şimdi görün! Yıllar onu çok değiştirdi",
+      "ozet": "90'ların yıldızı Bendeniz'i bir de şimdi görün! Yıllar onu çok değiştirdi",
+      "url": "https://www.sozcu.com.tr/90-larin-yildizi-bendeniz-i-bir-de-simdi-gorun-yillar-onu-cok-degistirdi-p366063",
+      "tarih": "2026-10-04T14:26:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "734b0d7943c4",
+      "baslik": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
+      "ozet": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
+      "url": "https://www.sozcu.com.tr/antalya-da-5-katli-binanin-terasinda-feci-yangin-p366052",
+      "tarih": "2026-10-04T14:03:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "379916f48a29",
       "baslik": "Denizden fışkırıyor:  Yeni akının eli kulağında",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-09-14T07:29:48+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9100a26e06ea",
-      "baslik": "COP31 Başkanı Türkiye En Büyük Kirleticiler Arasında Emisyonlarını En Hızlı Artıran Ülke",
-      "ozet": "Yeni bir rapora göre, COP31 Başkanı Türkiye, en fazla emisyona neden olan ülkeler arasında 13. sıraya yükseldi. Türkiye ayrıca, en büyük 16 emisyon kaynağı arasında, emisyonlarını en hızlı artıran (+ %4,2) ülke olarak dikkat çekiyor.  Avrupa Komisyonu’nun Uluslararası Enerji Ajan",
-      "url": "https://www.iklimhaber.org/cop31-baskani-turkiye-en-buyuk-kirleticiler-arasinda-emisyonlarini-en-hizli-artiran-ulke/",
-      "tarih": "2026-09-14T07:27:07+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c9b93c8d3fef",
-      "baslik": "Borsa haftaya düşüşle başladı -14 Eylül 2026",
-      "ozet": "Borsa haftaya düşüşle başladı -14 Eylül 2026",
-      "url": "https://www.sozcu.com.tr/borsa-haftaya-dususle-basladi-14-eylul-2026-p358021",
-      "tarih": "2026-09-14T07:13:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f40d93c9a26b",
-      "baslik": "COP31 Başkanı Kurum: “Var Olan İmkanlar Tüm Ülkelerle Paylaşılmalı”",
-      "ozet": "COP31 Başkanı Murat Kurum, tarihi sorumlulukları olmamasına rağmen iklim değişikliğinin etkileri ile yüzleşmek zorunda kalan ülkeleri işaret ederek, Var olan imkanları tüm dünya ülkeleri ile paylaşmak zorundayız. ‘Dünya ortak evimiz’ diyorsak ve buna ilişkin bir irade ortaya koym",
-      "url": "https://www.iklimhaber.org/cop31-baskani-kurum-var-olan-imkanlar-tum-ulkelerle-paylasilmali/",
-      "tarih": "2026-09-14T07:08:11+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -94298,6 +94298,34 @@
       "ozet": "Antalya’daki COP31 Zirvesi’ne hazırlanan AB; fosil yakıtlardan kademeli çıkış sürecinin hızlanmasını, iklim finansmanının artırılmasını ve kırılgan ülkelere daha güçlü destek verilmesini talep ediyor. AB Parlamentosu’nun Türkiye, Antalya’da 9-20 Kasım tarihlerinde düzenlenecek ol",
       "lat": 36.8055,
       "lng": 30.7969,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-db0294b25a4c",
+      "baslik": "Antalya Kaş'ta orman yangını: Havadan ve karadan müdahale ediliyor - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkhQcnhuVE1kZnVkOTdLaGZsVW5JTkU0bzZMTDdJM3lCSEVDZWtVcVJLcFJZMVFQYlliZ1EtRURUcEtjbFB1cGpzMVpMVlUwNnQ1Sml1XzRCcUUybWlXS3h0a05FRUFROU1MV2FUMVpqanNjSDQyTTNEQTM0YkJ2U0V0dEpwaWZmT3pjWG9TLVE3SmVNalA3ams4My1IZE5LNV8wVmx3UUpzUDhJYkhUMA?oc=5",
+      "ozet": "Antalya Kaş'ta orman yangını: Havadan ve karadan müdahale ediliyor - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "lat": 36.9395,
+      "lng": 30.7855,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-734b0d7943c4",
+      "baslik": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.10.2026",
+      "url": "https://www.sozcu.com.tr/antalya-da-5-katli-binanin-terasinda-feci-yangin-p366052",
+      "ozet": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
+      "lat": 36.9125,
+      "lng": 30.6846,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

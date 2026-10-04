@@ -119799,5 +119799,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/ab-cop31-icin-onceliklerini-belirledi/"
+  },
+  {
+    "id": "tarayici-db0294b25a4c",
+    "tip": "İklim Olayları",
+    "ad": "Antalya Kaş'ta orman yangını: Havadan ve karadan müdahale ediliyor - Son Dakika Türkiye Haberleri - Cumhuriyet",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya Kaş'ta orman yangını: Havadan ve karadan müdahale ediliyor - Son Dakika Türkiye Haberleri Cumhuriyet",
+    "koordinatlar": {
+      "lat": 36.9395,
+      "lng": 30.7855
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkhQcnhuVE1kZnVkOTdLaGZsVW5JTkU0bzZMTDdJM3lCSEVDZWtVcVJLcFJZMVFQYlliZ1EtRURUcEtjbFB1cGpzMVpMVlUwNnQ1Sml1XzRCcUUybWlXS3h0a05FRUFROU1MV2FUMVpqanNjSDQyTTNEQTM0YkJ2U0V0dEpwaWZmT3pjWG9TLVE3SmVNalA3ams4My1IZE5LNV8wVmx3UUpzUDhJYkhUMA?oc=5"
+  },
+  {
+    "id": "tarayici-734b0d7943c4",
+    "tip": "Ekolojik İhlal",
+    "ad": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
+    "koordinatlar": {
+      "lat": 36.9125,
+      "lng": 30.6846
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "04.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/antalya-da-5-katli-binanin-terasinda-feci-yangin-p366052"
   }
 ]
