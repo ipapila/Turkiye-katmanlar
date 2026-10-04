@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-03T18:28:02.557343+00:00",
+    "guncelleme": "2026-10-04T09:11:21.863328+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6592,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "379916f48a29",
+      "baslik": "Denizden fışkırıyor:  Yeni akının eli kulağında",
+      "ozet": "Denizden fışkırıyor:  Yeni akının eli kulağında",
+      "url": "https://www.sozcu.com.tr/palamutun-tanesi-125-liraya-dustu-vatandas-kapis-kapis-aldi-p365978",
+      "tarih": "2026-10-04T08:50:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "81cccac112db",
       "baslik": "Erdoğan istedi bakan 'roket' türküsü açtı",
@@ -1997,16 +2007,6 @@
       "ozet": "COP31 Başkanı Murat Kurum, tarihi sorumlulukları olmamasına rağmen iklim değişikliğinin etkileri ile yüzleşmek zorunda kalan ülkeleri işaret ederek, Var olan imkanları tüm dünya ülkeleri ile paylaşmak zorundayız. ‘Dünya ortak evimiz’ diyorsak ve buna ilişkin bir irade ortaya koym",
       "url": "https://www.iklimhaber.org/cop31-baskani-kurum-var-olan-imkanlar-tum-ulkelerle-paylasilmali/",
       "tarih": "2026-09-14T07:08:11+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "82281dfe9ddc",
-      "baslik": "Göç Yollarında Alarm: Göçmen Kuş Türlerinin Sayısı Azalıyor",
-      "ozet": "Dünya Kuş Raporu’na göre göçmen kuş türlerinden her iki tanesinden birisinin sayısı azalıyor. Her dokuz türden biri ise nesli tükenme tehlikesiyle karşı karşıya. Dünya Kuşları Koruma Kurumu (BirdLife International), Nature Kenya ev sahipliğinde düzenlenen Küresel Göç Yolları Zirv",
-      "url": "https://www.iklimhaber.org/goc-yollarinda-alarm-gocmen-kus-turlerinin-sayisi-azaliyor/",
-      "tarih": "2026-09-14T06:30:40+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
