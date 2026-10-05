@@ -119894,5 +119894,43 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcUp1c1VPNDdoZW5jbWRfMThTZXFtdE53Z3N3SDdhX3ZqQXZsTVBpQmtTVGpJaW8xdWROeG9MTnZXNVdma3ZxZ0tXaGtwLWttMjV0Skdadk9lZVVLRnZ1LTZ4akVhcE5DNXpsbWhrS3NfYmJqS1FSa0FOc0tObUZ6a0RWX1hiQTRpWlU0ZkY0SjN0cFFtNEYycFVENFZCc3NTRXRZSUZPLVo?oc=5"
+  },
+  {
+    "id": "tarayici-5abda04c4d55",
+    "tip": "İklim Olayları",
+    "ad": "Manisa'da orman yangını: Valilikten açıklama geldi - Cumhuriyet",
+    "il": "Manisa",
+    "ilce": "",
+    "aciklama": "Manisa'da orman yangını: Valilikten açıklama geldi Cumhuriyet",
+    "koordinatlar": {
+      "lat": 38.6812,
+      "lng": 27.4815
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "05.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUhFZ3ZNektiYnl6cG1mWV90QzYxQVozd201YmpxeThWMm44dEpwRjd2OUJmODRNeVNMWTVIbkFyTDhUVWUtRU45OU5SZTVVdm5TOTRCY3VRNnk2RFNraVRfYjhNaTJCRnBGcmxMbmU1eUFMMmlOY1VYN1ZkQy10V05UZFBrdjFlMWg2TzZ0R3NEbFBoQ0J1UU1wcw?oc=5"
+  },
+  {
+    "id": "tarayici-441e5d4fd66f",
+    "tip": "Ekolojik İhlal",
+    "ad": "Denizli Basket evinde ilk Avrupa maçında! Rakip BC Prievidza",
+    "il": "Denizli",
+    "ilce": "",
+    "aciklama": "Denizli Basket evinde ilk Avrupa maçında! Rakip BC Prievidza",
+    "koordinatlar": {
+      "lat": 37.8765,
+      "lng": 29.0923
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "05.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/denizli-basket-evinde-ilk-avrupa-macinda-rakip-bc-prievidza-p366276"
   }
 ]

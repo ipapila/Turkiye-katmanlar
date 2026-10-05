@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-04T20:44:26.833029+00:00",
+    "guncelleme": "2026-10-05T09:54:12.529937+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6597,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "harita_kayit_sayisi": 6599,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "53506c1309e4",
+      "baslik": "Hakemler dosyasında MASAK’tan çarpıcı para trafiği: Yasin Kol’un hesaplarından 72,1 milyon TL çıktı",
+      "ozet": "Hakemler dosyasında MASAK’tan çarpıcı para trafiği: Yasin Kol’un hesaplarından 72,1 milyon TL çıktı",
+      "url": "https://www.sozcu.com.tr/hakemler-dosyasinda-masak-tan-carpici-para-trafigi-yasin-kol-un-hesaplarindan-72-1-milyon-tl-cikti-p366301",
+      "tarih": "2026-10-05T09:44:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "39ae21c639e0",
+      "baslik": "COP Liderleri Dev Bir Kömür Tedarik Zincirini Paylaşıyor",
+      "ozet": "Yeni yayımlanan bir rapora göre, COP31 eş başkanları Türkiye ve Avustralya, Paris Anlaşması’ndan bu yana gerçekleştirdikleri kömür ticaretiyle 75 milyon ton karbondioksit salımına sebep oldu. İki ülkenin de henüz kömürden çıkış yönünde bir taahhüdü bulunmuyor. Uluslararası iklim ",
+      "url": "https://www.iklimhaber.org/cop-liderleri-dev-bir-komur-tedarik-zincirini-paylasiyor/",
+      "tarih": "2026-10-05T09:25:04+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dc2e6d264205",
+      "baslik": "Restoranda menü yerine QR kod okutanlar yandı",
+      "ozet": "Restoranda menü yerine QR kod okutanlar yandı",
+      "url": "https://www.sozcu.com.tr/restoranda-menu-yerine-qr-kod-okutanlar-yandi-p366281",
+      "tarih": "2026-10-05T09:02:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "441e5d4fd66f",
+      "baslik": "Denizli Basket evinde ilk Avrupa maçında! Rakip BC Prievidza",
+      "ozet": "Denizli Basket evinde ilk Avrupa maçında! Rakip BC Prievidza",
+      "url": "https://www.sozcu.com.tr/denizli-basket-evinde-ilk-avrupa-macinda-rakip-bc-prievidza-p366276",
+      "tarih": "2026-10-05T08:56:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b0fe27907038",
+      "baslik": "Yeni başlayan dizi öyle bir yükseldi ki 7 sezondur ekranda olan diziyi solladı",
+      "ozet": "Yeni başlayan dizi öyle bir yükseldi ki 7 sezondur ekranda olan diziyi solladı",
+      "url": "https://www.sozcu.com.tr/yeni-baslayan-dizi-oyle-bir-yukseldi-ki-7-sezondur-ekranda-olan-diziyi-solladi-p366274",
+      "tarih": "2026-10-05T08:51:09+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "94b7d6601dde",
+      "baslik": "İklim Zirvesi Devletler Arası Görüşmelerin Ötesine Geçmeli",
+      "ozet": "Medyascope ve İklim Haber iş birliği ile hazırlanan COP31 Yolu’nun yeni bölümünde değerlendirmelerde bulunan Prof. Dr. Levent Kurnaz, iklim zirvesinin devletler arası görüşmelerin ötesine geçerek özel sektör, sivil toplum, akademi ve finans dünyasının buluştuğu bir platforma dönü",
+      "url": "https://www.iklimhaber.org/cop31den-neler-bekleniyor/",
+      "tarih": "2026-10-05T08:24:46+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "83430d26ac41",
+      "baslik": "Borsa haftaya yükselişle başladı - 5 Ekim 2026",
+      "ozet": "Borsa haftaya yükselişle başladı - 5 Ekim 2026",
+      "url": "https://www.sozcu.com.tr/borsa-haftaya-yukselisle-basladi-5-ekim-2026-p366259",
+      "tarih": "2026-10-05T08:15:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2668eae0a9c1",
+      "baslik": "Uluslararası Af Örgütü: Dünya Liderleri, Pasifik’in Yanında Olduklarını Eylemlerle Göstermeli",
+      "ozet": "COP31 Öncesi Toplantıları, bugün Fiji’nin Nadi kentinde ve Tuvalu’da başladı. Uluslararası Af Örgütü, Avustralya’nın Pasifik’teki iklim liderliği iddiasını somut eylemlere dönüştürmesi gerektiğini belirterek, hükümetlere, fosil yakıtlar dönemine son verme ve hibe temelli, artırıl",
+      "url": "https://www.iklimhaber.org/uluslararasi-af-orgutu-dunya-liderleri-pasifikin-yaninda-olduklarini-eylemlerle-gostermeli/",
+      "tarih": "2026-10-05T07:57:46+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "327ecfcfaac6",
       "baslik": "Nehir kıyısından 17 milyon ton radyoaktif atık çıkarıldı",
@@ -1927,86 +2007,6 @@
       "ozet": "Küresel piyasalar alarm veriyor: ABD'de 2007’den bu yana ilk",
       "url": "https://www.sozcu.com.tr/kuresel-piyasalar-alarm-veriyor-abd-de-2007-den-bu-yana-ilk-p358351",
       "tarih": "2026-09-15T06:33:25+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "287a5b4992dd",
-      "baslik": "Denizin ortasında dev proje: 307 tanesi yan yana duracak, 6 milyon eve elektrik sağlayacak",
-      "ozet": "Denizin ortasında dev proje: 307 tanesi yan yana duracak, 6 milyon eve elektrik sağlayacak",
-      "url": "https://www.sozcu.com.tr/denizin-ortasinda-dev-proje-307-tanesi-yan-yana-duracak-6-milyon-eve-elektrik-saglayacak-p358230",
-      "tarih": "2026-09-14T17:51:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "356085ce0859",
-      "baslik": "Çevre ihlallerinin yönetimi ve ele alınmasının güçlendirilmesi. - Vietnam.vn",
-      "ozet": "Çevre ihlallerinin yönetimi ve ele alınmasının güçlendirilmesi. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFdpWUI3bG91OVZTbTNQdlp3aWR5cnROeW91cDBPZTlCVEQ1QkoxQTBrZWFaNkQ5YWZVZV93b1JuX1BiaS02aU5oSVZCM3BQYmJXOEpqRTNzY3NQR1JJb013WHZKcVctekpZWU1qemtHWHZGb3VvZUVOTk1GYmNHZHVzc1FNRmFD?oc=5",
-      "tarih": "2026-09-14T15:33:23+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c891f8f584ed",
-      "baslik": "Diyarbakır'da Bilal Erdoğan'a Demirtaş sorusu! Verdiği yanıt gündem oldu",
-      "ozet": "Diyarbakır'da Bilal Erdoğan'a Demirtaş sorusu! Verdiği yanıt gündem oldu",
-      "url": "https://www.sozcu.com.tr/diyarbakir-da-bilal-erdogan-a-demirtas-sorusu-verdigi-yanit-gundem-oldu-p358206",
-      "tarih": "2026-09-14T15:18:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "661f82465849",
-      "baslik": "Denizin dibine 276 kilometre boyunca kablo döşeyecekler",
-      "ozet": "Denizin dibine 276 kilometre boyunca kablo döşeyecekler",
-      "url": "https://www.sozcu.com.tr/denizin-dibine-276-kilometre-boyunca-kablo-doseyecekler-p358195",
-      "tarih": "2026-09-14T14:38:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "140d640b9f62",
-      "baslik": "Fed öncesi piyasa diken üstünde: Petrol yükseldi, altın ve gümüş düştü",
-      "ozet": "Fed öncesi piyasa diken üstünde: Petrol yükseldi, altın ve gümüş düştü",
-      "url": "https://www.sozcu.com.tr/fed-oncesi-piyasa-diken-ustunde-petrol-yukseldi-altin-ve-gumus-dustu-p358177",
-      "tarih": "2026-09-14T13:28:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "afef4a240f6b",
-      "baslik": "Dünyaca ünlü maden suyu markaları yasaklı çıktı: Yıllarca doğal diye içtik",
-      "ozet": "Dünyaca ünlü maden suyu markaları yasaklı çıktı: Yıllarca doğal diye içtik",
-      "url": "https://www.sozcu.com.tr/dunyaca-unlu-maden-suyu-markalari-yasakli-cikti-yillarca-dogal-diye-ictik-p358048",
-      "tarih": "2026-09-14T08:09:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ecb2fea7bb6f",
-      "baslik": "BM: Dünya İklim Eyleminde Siyasi Kutuplaşmayı Reddetmezse Ekonomik Yıkımla Yüzleşecek",
-      "ozet": "BM İklim Şefi, iklim eylemindeki siyasi kutuplaşmanın reddedilmesi gerektiğini, aksi takdirde dünyanın ekonomik bir felaketle karşı karşıya kalacağını belirtti. BM İklim Değişikliği Çerçeve Sözleşmesi (UNFCCC) İcra Sekreteri Simon Stiell, bu yılki “cehennem gibi sıcak” yazın sade",
-      "url": "https://www.iklimhaber.org/bm-dunya-iklim-eyleminde-siyasi-kutuplasmayi-reddetmezse-ekonomik-yikimla-yuzlesecek/",
-      "tarih": "2026-09-14T08:07:31+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "64d82f2359ff",
-      "baslik": "Erdoğan'ın bu sözleri Saray'ın sitesinde duruyor",
-      "ozet": "Erdoğan'ın bu sözleri Saray'ın sitesinde duruyor",
-      "url": "https://www.sozcu.com.tr/erdogan-in-bu-sozleri-saray-in-sitesinde-duruyor-p358046",
-      "tarih": "2026-09-14T08:02:55+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94368,6 +94368,34 @@
       "ozet": "Muğla'da madencilik yağması: Bir yılda 30 proje için ÇED olumlu kararı birgun.net",
       "lat": 37.1859,
       "lng": 28.3757,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-5abda04c4d55",
+      "baslik": "Manisa'da orman yangını: Valilikten açıklama geldi - Cumhuriyet",
+      "konum": "Manisa",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUhFZ3ZNektiYnl6cG1mWV90QzYxQVozd201YmpxeThWMm44dEpwRjd2OUJmODRNeVNMWTVIbkFyTDhUVWUtRU45OU5SZTVVdm5TOTRCY3VRNnk2RFNraVRfYjhNaTJCRnBGcmxMbmU1eUFMMmlOY1VYN1ZkQy10V05UZFBrdjFlMWg2TzZ0R3NEbFBoQ0J1UU1wcw?oc=5",
+      "ozet": "Manisa'da orman yangını: Valilikten açıklama geldi Cumhuriyet",
+      "lat": 38.6812,
+      "lng": 27.4815,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-441e5d4fd66f",
+      "baslik": "Denizli Basket evinde ilk Avrupa maçında! Rakip BC Prievidza",
+      "konum": "Denizli",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.10.2026",
+      "url": "https://www.sozcu.com.tr/denizli-basket-evinde-ilk-avrupa-macinda-rakip-bc-prievidza-p366276",
+      "ozet": "Denizli Basket evinde ilk Avrupa maçında! Rakip BC Prievidza",
+      "lat": 37.8765,
+      "lng": 29.0923,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
