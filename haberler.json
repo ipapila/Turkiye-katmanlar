@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-06T09:39:45.978731+00:00",
+    "guncelleme": "2026-10-06T17:41:05.199812+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6599,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -12,11 +12,51 @@
   },
   "haberler": [
     {
+      "id": "33d426ff7495",
+      "baslik": "Pelin Karahan'ın yıllar öncesine ait karesi gündem oldu",
+      "ozet": "Pelin Karahan'ın yıllar öncesine ait karesi gündem oldu",
+      "url": "https://www.sozcu.com.tr/pelin-karahan-in-yillar-oncesine-ait-karesi-gundem-oldu-p366733",
+      "tarih": "2026-10-06T16:23:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6920059d57d8",
+      "baslik": "Litvanya’dan Rusya’yı alarma geçiren karar: Rusya’nın nükleer hedefi haline gelir",
+      "ozet": "Litvanya’dan Rusya’yı alarma geçiren karar: Rusya’nın nükleer hedefi haline gelir",
+      "url": "https://www.sozcu.com.tr/litvanya-dan-rusya-yi-alarma-geciren-karar-rusya-nin-nukleer-hedefi-haline-gelir-p366732",
+      "tarih": "2026-10-06T16:22:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1876f0b05c1b",
+      "baslik": "BM İklim Şefi: “Aşırı Sıcaklar Hamileleri ve Bebekleri Tehlikeye Atıyor”",
+      "ozet": "Yeni bir araştırmanın sonuçlarını değerlendiren BM İklim Şefi Stiell, “Aşırı sıcaklar kötüleşirken, hamilelik ve doğum, küresel iklim krizinde yeni bir fay hattıdır” dedi. Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi (UNFCCC) Sekreteri Simon Stiell, Pre-COP toplantısı",
+      "url": "https://www.iklimhaber.org/bm-iklim-sefi-asiri-sicaklar-hamileleri-ve-bebekleri-tehlikeye-atiyor/",
+      "tarih": "2026-10-06T10:05:10+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "1b8394264947",
       "baslik": "Pasifik Adası Liderleri: Fosil Yakıtlardan Uzaklaşma Kararı Yeniden Müzakere Edilemez",
       "ozet": "Pasifik adası liderleri, COP31’e ivme kazandırma çabasıyla Tuvalu’da bir araya gelirken, fosil yakıtlardan küresel uzaklaşmanın yeniden müzakere edilemeyeceğini vurguladı. İklim krizinden en çok etkilenen ülkelerin yaşadığı duruma dikkat çekmek amacıyla, aralarında Avustralya Baş",
       "url": "https://www.iklimhaber.org/pasifik-adasi-liderleri-fosil-yakitlardan-uzaklasma-karari-yeniden-muzakere-edilemez/",
       "tarih": "2026-10-06T07:17:58+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "08d9c2d2e9f9",
+      "baslik": "Kentlerin Geleceği Dijital İklim Merkezinde Ölçümlenecek",
+      "ozet": "Yeni açılan Dijital İklim Merkezi; kentlerin iklim hedeflerini veriye dayalı, ölçülebilir ve izlenebilir eylemlere dönüştürmeyi amaçlıyor. Merkez, iklim planlarının hazırlanmasının yanı sıra iklim çalışmalarının güncel veriler üzerinden izlenmesi ve karar alma süreçlerinin somut ",
+      "url": "https://www.iklimhaber.org/kentlerin-gelecegi-dijital-iklim-merkezinde-olcumlenecek/",
+      "tarih": "2026-10-06T06:30:20+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -1969,46 +2009,6 @@
       "tarih": "2026-09-15T12:50:11+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ab5910998f3e",
-      "baslik": "İklim Geri Besleme Döngüleri Isınmayı Daha da Artıracak",
-      "ozet": "Yeni bir araştırma, küresel ısınma nedeniyle donmuş toprakların çözülmesi, orman yangınlarının artması ve sulak alanların ısınması gibi doğal kaynaklardan atmosfere salınan ve gezegeni ısıtan metan ile karbondioksit emisyonlarının iklim krizini daha da kötüleştireceğini ortaya ko",
-      "url": "https://www.iklimhaber.org/iklim-geri-besleme-donguleri-isinmayi-daha-da-artiracak/",
-      "tarih": "2026-09-15T09:05:02+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4c0086d22303",
-      "baslik": "Rüzgar ve Güneşin Elektrik Kurulu Gücündeki Payı 10 Yılda Katlanarak Büyüdü",
-      "ozet": "Güneş enerjisinin elektrik üretimindeki payı 2016-2026 döneminde 28 kat artışla %11,6’ya, rüzgarın payı 1,1 kat artışla %12,1’e yükseldi. AA’nın haberine göre, Enerji ve Tabii Kaynaklar Bakanlığının yaptığı açıklama, Türkiye’nin son dönemde güneş ve rüzgar enerjisi yatırımlarında",
-      "url": "https://www.iklimhaber.org/elektrik-kurulu-gucunde-ruzgar-ve-gunesin-payi-10-yilda-katlanarak-artti/",
-      "tarih": "2026-09-15T08:51:12+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fa9d400720d8",
-      "baslik": "ABD’den İklim Eylemine Bir Darbe Daha",
-      "ozet": "Trump yönetimi, kömür ve gaz santrallarındaki emisyon sınırlamalarını iptal ederek iklim kriziyle mücadelede kritik bir aracı ortadan kaldırdı. ABD’de kaydedilen en sıcak yazın hemen ardından Trump yönetimi, kömür ve gaz santrallarının gezegenimizi tehlikeli derecede ısıtan emisy",
-      "url": "https://www.iklimhaber.org/abdden-iklim-eylemine-bir-darbe-daha/",
-      "tarih": "2026-09-15T07:34:07+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fc5bfa23cc24",
-      "baslik": "134 Kurumdan Çağrı: “Türkiye Acilen Kömürden Çıkmalı!”",
-      "ozet": "134 kurum, Türkiye’ye iklim adaleti için başta kömür olmak üzere fosil yakıtları yerin altında bırakması çağrısında bulundu. Türkiye 9-20 Kasım tarihleri arasında COP31 iklim zirvesine ev sahipliği yapmaya hazırlanırken, Antalya’da bir araya gelen 134 kurumun temsilcileri ve gönü",
-      "url": "https://www.iklimhaber.org/134-kurumdan-cagri-turkiye-acilen-komurden-cikmali/",
-      "tarih": "2026-09-15T07:11:44+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
