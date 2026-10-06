@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-06T17:41:05.199812+00:00",
+    "guncelleme": "2026-10-06T22:05:06.083260+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6599,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6600,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "ee7abf230ad2",
+      "baslik": "Ormana 300 bin litre tuzlu su döktüler",
+      "ozet": "Ormana 300 bin litre tuzlu su döktüler",
+      "url": "https://www.sozcu.com.tr/ormana-300-bin-litre-tuzlu-su-doktuler-p366769",
+      "tarih": "2026-10-06T19:18:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f9d38846cfb9",
+      "baslik": "Şanlıurfa depremi sonrası Suriye’de dikkat çeken hareketlilik: Topraktan buhar yükseliyor",
+      "ozet": "Şanlıurfa depremi sonrası Suriye’de dikkat çeken hareketlilik: Topraktan buhar yükseliyor",
+      "url": "https://www.sozcu.com.tr/sanliurfa-depremi-sonrasi-suriye-de-dikkat-hareketlilik-topraktan-buhar-yukseliyor-p366745",
+      "tarih": "2026-10-06T17:49:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "33d426ff7495",
       "baslik": "Pelin Karahan'ın yıllar öncesine ait karesi gündem oldu",
@@ -1987,26 +2007,6 @@
       "ozet": "Erdoğan'ın sözleri siyaset kulislerine bomba gibi düşmüştü: Spekülasyon artınca AKP'den 'Erken Seçim' açıklaması geldi",
       "url": "https://www.sozcu.com.tr/erdogan-in-sozleri-siyaset-kulislerine-bomba-gibi-dusmustu-spekulasyon-artinca-akp-den-erken-secim-p358514",
       "tarih": "2026-09-15T13:51:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "17c798b380b7",
-      "baslik": "Deniz Göktaş'ın cezaevinde birbirinden ünlü komşuları! Dışarıda yan yana bile gelmeyecek isimler...",
-      "ozet": "Deniz Göktaş'ın cezaevinde birbirinden ünlü komşuları! Dışarıda yan yana bile gelmeyecek isimler...",
-      "url": "https://www.sozcu.com.tr/deniz-goktas-in-cezaevindeki-birbirinden-unlu-komsulari-ortaya-cikti-p358511",
-      "tarih": "2026-09-15T13:48:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ae2d89f7e38d",
-      "baslik": "Sergen Yalçın'dan olay sözler: 'Madem yıldızdı neden Manchester City'ye gitmedi?'",
-      "ozet": "Sergen Yalçın'dan olay sözler: 'Madem yıldızdı neden Manchester City'ye gitmedi?'",
-      "url": "https://www.sozcu.com.tr/sergen-yalcindan-transfer-elestirisi-madem-yildizdi-neden-manchester-cityye-gitmedi-p358492",
-      "tarih": "2026-09-15T12:50:11+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94396,6 +94396,20 @@
       "ozet": "Denizli Basket evinde ilk Avrupa maçında! Rakip BC Prievidza",
       "lat": 37.8765,
       "lng": 29.0923,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f9d38846cfb9",
+      "baslik": "Şanlıurfa depremi sonrası Suriye’de dikkat çeken hareketlilik: Topraktan buhar yükseliyor",
+      "konum": "Şanlıurfa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "06.10.2026",
+      "url": "https://www.sozcu.com.tr/sanliurfa-depremi-sonrasi-suriye-de-dikkat-hareketlilik-topraktan-buhar-yukseliyor-p366745",
+      "ozet": "Şanlıurfa depremi sonrası Suriye’de dikkat çeken hareketlilik: Topraktan buhar yükseliyor",
+      "lat": 37.0939,
+      "lng": 38.885,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

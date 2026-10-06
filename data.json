@@ -119932,5 +119932,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/denizli-basket-evinde-ilk-avrupa-macinda-rakip-bc-prievidza-p366276"
+  },
+  {
+    "id": "tarayici-f9d38846cfb9",
+    "tip": "Ekolojik İhlal",
+    "ad": "Şanlıurfa depremi sonrası Suriye’de dikkat çeken hareketlilik: Topraktan buhar yükseliyor",
+    "il": "Şanlıurfa",
+    "ilce": "",
+    "aciklama": "Şanlıurfa depremi sonrası Suriye’de dikkat çeken hareketlilik: Topraktan buhar yükseliyor",
+    "koordinatlar": {
+      "lat": 37.0939,
+      "lng": 38.885
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "06.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/sanliurfa-depremi-sonrasi-suriye-de-dikkat-hareketlilik-topraktan-buhar-yukseliyor-p366745"
   }
 ]
