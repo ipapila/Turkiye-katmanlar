@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-05T09:54:12.529937+00:00",
+    "guncelleme": "2026-10-06T09:39:45.978731+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6599,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "1b8394264947",
+      "baslik": "Pasifik Adası Liderleri: Fosil Yakıtlardan Uzaklaşma Kararı Yeniden Müzakere Edilemez",
+      "ozet": "Pasifik adası liderleri, COP31’e ivme kazandırma çabasıyla Tuvalu’da bir araya gelirken, fosil yakıtlardan küresel uzaklaşmanın yeniden müzakere edilemeyeceğini vurguladı. İklim krizinden en çok etkilenen ülkelerin yaşadığı duruma dikkat çekmek amacıyla, aralarında Avustralya Baş",
+      "url": "https://www.iklimhaber.org/pasifik-adasi-liderleri-fosil-yakitlardan-uzaklasma-karari-yeniden-muzakere-edilemez/",
+      "tarih": "2026-10-06T07:17:58+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "53506c1309e4",
       "baslik": "Hakemler dosyasında MASAK’tan çarpıcı para trafiği: Yasin Kol’un hesaplarından 72,1 milyon TL çıktı",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-09-15T07:11:44+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "173ab44f33dd",
-      "baslik": "Küresel piyasalar alarm veriyor: ABD'de 2007’den bu yana ilk",
-      "ozet": "Küresel piyasalar alarm veriyor: ABD'de 2007’den bu yana ilk",
-      "url": "https://www.sozcu.com.tr/kuresel-piyasalar-alarm-veriyor-abd-de-2007-den-bu-yana-ilk-p358351",
-      "tarih": "2026-09-15T06:33:25+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
