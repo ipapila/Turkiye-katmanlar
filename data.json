@@ -119951,5 +119951,62 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/sanliurfa-depremi-sonrasi-suriye-de-dikkat-hareketlilik-topraktan-buhar-yukseliyor-p366745"
+  },
+  {
+    "id": "tarayici-b4a7573a2f8b",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kayseri'de altın çıkaran maden devi Danıştay'a gidiyor - Kayseri Olay Haber",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Kayseri'de altın çıkaran maden devi Danıştay'a gidiyor Kayseri Olay Haber",
+    "koordinatlar": {
+      "lat": 38.747,
+      "lng": 35.5083
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "07.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGJ2YTlxc1VpNnJpNEppNHNWNzhHczJQYkpOMGl5bzhta0Q2cXprdURZVjI5ejNkWVdudHhXMHBqUTVkVVJ5WkdacklIZG5lR2lMeU5OT1B6Z0ZyaDB3c3NENFVZa2RsSFdqcjFQWTViTWo3My0tUS1Ta2VIZWVuQ0lIU0NGQWxpLURoZTBfUGdZNnlj?oc=5"
+  },
+  {
+    "id": "tarayici-bdef6ee19d7f",
+    "tip": "Ekolojik İhlal",
+    "ad": "Gediz Deltası’nın Ekolojik Bütünlüğü için Beş Yıllık Restorasyon Çalışması Başlıyor",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir Gediz Deltası; dalyanları, tuzcul çayırları, sazlıkları, lagünleri, tarım arazileri ve geleneksel üretim biçimleriyle öne çıkıyor. Dünya flamingo popülasyonunun %10’una kuluçka alanı sunan Gediz Deltası’nın ekosistem bütünlüğünün ve biyoçeşitliliğinin korunması amacıyla 203",
+    "koordinatlar": {
+      "lat": 38.4498,
+      "lng": 27.1487
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "07.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/gediz-deltasinin-ekolojik-butunlugu-icin-bes-yillik-restorasyon-calismasi-basliyor/"
+  },
+  {
+    "id": "tarayici-99d529233507",
+    "tip": "Ekolojik İhlal",
+    "ad": "Türkiye'nin yeni stadyumu İstanbul'da yükseliyor! Maliyeti 1 milyar TL'nin üzerinde",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Türkiye'nin yeni stadyumu İstanbul'da yükseliyor! Maliyeti 1 milyar TL'nin üzerinde",
+    "koordinatlar": {
+      "lat": 41.0254,
+      "lng": 28.8951
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "07.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/turkiye-nin-yeni-stadyumu-istanbul-da-yukseliyor-maliyeti-1-milyar-tl-nin-uzerinde-p366953"
   }
 ]

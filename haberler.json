@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-06T22:05:06.083260+00:00",
+    "guncelleme": "2026-10-07T09:36:24.243415+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6600,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6603,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "7d9151132902",
+      "baslik": "Galatasaray'dan Avrupa'yı ayağa kaldıracak transfer: İlkay Gündoğan devrede",
+      "ozet": "Galatasaray'dan Avrupa'yı ayağa kaldıracak transfer: İlkay Gündoğan devrede",
+      "url": "https://www.sozcu.com.tr/galatasaraydan-avrupayi-ayaga-kaldiracak-transfer-ilkay-gundogan-devrede-p366954",
+      "tarih": "2026-10-07T09:17:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "99d529233507",
+      "baslik": "Türkiye'nin yeni stadyumu İstanbul'da yükseliyor! Maliyeti 1 milyar TL'nin üzerinde",
+      "ozet": "Türkiye'nin yeni stadyumu İstanbul'da yükseliyor! Maliyeti 1 milyar TL'nin üzerinde",
+      "url": "https://www.sozcu.com.tr/turkiye-nin-yeni-stadyumu-istanbul-da-yukseliyor-maliyeti-1-milyar-tl-nin-uzerinde-p366953",
+      "tarih": "2026-10-07T09:16:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "202f6f4162b8",
+      "baslik": "Bu kış bu sınırı geçen yandı: Doğal gaz faturaları bu aylarda ikiye katlanacak",
+      "ozet": "Bu kış bu sınırı geçen yandı: Doğal gaz faturaları bu aylarda ikiye katlanacak",
+      "url": "https://www.sozcu.com.tr/bu-kis-bu-siniri-gecen-yandi-dogal-gaz-faturalari-bu-aylarda-ikiye-katlanacak-p366951",
+      "tarih": "2026-10-07T09:00:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bced60aa1a73",
+      "baslik": "Türkiye'de denizden hazine çıktı",
+      "ozet": "Türkiye'de denizden hazine çıktı",
+      "url": "https://www.sozcu.com.tr/turkiye-de-denizden-hazine-cikti-p366936",
+      "tarih": "2026-10-07T08:28:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "99643a18a61d",
+      "baslik": "Canlı yayında filtresi kaydı gerçek yüzü ortaya çıktı: Herkes 20 yaşında sanıyordu",
+      "ozet": "Canlı yayında filtresi kaydı gerçek yüzü ortaya çıktı: Herkes 20 yaşında sanıyordu",
+      "url": "https://www.sozcu.com.tr/canli-yayinda-filtresi-kaydi-gercek-yuzu-ortaya-cikti-herkes-20-yasinda-saniyordu-p366921",
+      "tarih": "2026-10-07T08:19:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bdef6ee19d7f",
+      "baslik": "Gediz Deltası’nın Ekolojik Bütünlüğü için Beş Yıllık Restorasyon Çalışması Başlıyor",
+      "ozet": "İzmir Gediz Deltası; dalyanları, tuzcul çayırları, sazlıkları, lagünleri, tarım arazileri ve geleneksel üretim biçimleriyle öne çıkıyor. Dünya flamingo popülasyonunun %10’una kuluçka alanı sunan Gediz Deltası’nın ekosistem bütünlüğünün ve biyoçeşitliliğinin korunması amacıyla 203",
+      "url": "https://www.iklimhaber.org/gediz-deltasinin-ekolojik-butunlugu-icin-bes-yillik-restorasyon-calismasi-basliyor/",
+      "tarih": "2026-10-07T07:38:54+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f3c984e331e2",
+      "baslik": "Pasifik Ülkeleri İklim Krizi Karşısında “Hayatta Kalmak” için Dünyadan Yardım İstiyor",
+      "ozet": "Pasifik liderleri, dünyanın dikkatini küresel ısınmanın ön saflarındaki yaşama çekmeyi amaçlayan pre-COP’ta, zengin ülkelere iklim değişikliği karşısında “hayatta kalmalarına” yardımcı olacak daha fazla fon sağlamaları için baskı yaptı. Fiji’nin Nadi kentinde bu hafta düzenlenen ",
+      "url": "https://www.iklimhaber.org/pasifik-ulkeleri-iklim-krizi-karsisinda-hayatta-kalmak-icin-dunyadan-yardim-istiyor/",
+      "tarih": "2026-10-07T07:23:48+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b4a7573a2f8b",
+      "baslik": "Kayseri'de altın çıkaran maden devi Danıştay'a gidiyor - Kayseri Olay Haber",
+      "ozet": "Kayseri'de altın çıkaran maden devi Danıştay'a gidiyor Kayseri Olay Haber",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGJ2YTlxc1VpNnJpNEppNHNWNzhHczJQYkpOMGl5bzhta0Q2cXprdURZVjI5ejNkWVdudHhXMHBqUTVkVVJ5WkdacklIZG5lR2lMeU5OT1B6Z0ZyaDB3c3NENFVZa2RsSFdqcjFQWTViTWo3My0tUS1Ta2VIZWVuQ0lIU0NGQWxpLURoZTBfUGdZNnlj?oc=5",
+      "tarih": "2026-10-07T06:37:36+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ee7abf230ad2",
       "baslik": "Ormana 300 bin litre tuzlu su döktüler",
@@ -389,6 +469,16 @@
       "tarih": "2026-10-01T15:38:10+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1e0aa7da034c",
+      "baslik": "Zafer Partili Aslan’dan acele kamulaştırma tepkisi: “Toprağı da suyu da gözden çıkaramazsınız” - Son Dakika",
+      "ozet": "Zafer Partili Aslan’dan acele kamulaştırma tepkisi: “Toprağı da suyu da gözden çıkaramazsınız” Son Dakika",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEY2N0Z6OGNlVDg1WmY0ekNUQ3J1RDhiVjVxNVZBWVVBWUtGTG93aVpDSXlXeWItdEVJYy0yaHpISl9kaWg5aG4zT2xNeFFzNUc4U0thU2RKN3Q3alZtbi1TVGR5MHJGMGVNUWNzLXk4V0VrOXhyVFF5Snp2TjBzVFpBSUdyRHlKdUNsTGdOX2pDS2lmbUhhUkdhT3hlNzA30gGcAUFVX3lxTFBzejhLOGNpVENvNk13TDhYcjNUS3NGcjV4VVJfdERGUmtjWjVPX05HUW1XZTJ4R1BGcXlHbjA5LUY0YmpvSWV1bWxRbXJkYzNyVzRhaV9JYU1GZkpQVDhyUVMyTHhjdDAzT2Ixb3JSWThRajRQMEs2TzZDR1lMdTk3Mk16VGZ3Q2xOU1U0Z1BwLUJVSGQxOEVRYnRmMw?oc=5",
+      "tarih": "2026-10-01T12:17:21+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1919,96 +2009,6 @@
       "tarih": "2026-09-16T06:51:39+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1d29ba4219f4",
-      "baslik": "El Nino Kaynaklı Kuraklık Panama Kanalını da Vurdu",
-      "ozet": "El Nino kaynaklı kuraklığın şiddetlenmesiyle Panama Kanalı’ndaki gemi trafiğinde yeni kısıtlamalar gündeme geliyor. Kanalda planlanan günlük geçiş sınırlamaları, dünyanın en önemli deniz taşımacılığı güzergâhlarından birindeki sıkışıklığı daha da artıracak gibi görünüyor. El Nino",
-      "url": "https://www.iklimhaber.org/el-nino-kaynakli-kuraklik-panama-kanalini-da-vurdu/",
-      "tarih": "2026-09-16T06:30:55+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fd729abeceaa",
-      "baslik": "İklim Ağı: “Elektrifikasyonun Yolu Kömürden Değil, Kömürden Adil Çıkıştan Geçiyor”",
-      "ozet": "Çanakkale’de yeni bir ithal kömürlü termik santral için izin sürecinin başlamasının, Türkiye’nin COP31 ev sahipliği ve başkanlığı kapsamında ortaya koyduğu iklim hedefleriyle çeliştiğine dikkati çeken İklim Ağı, Türkiye’nin enerji dönüşümünü somutlaştırması ve dönüşümü önce evind",
-      "url": "https://www.iklimhaber.org/iklim-agi-elektrifikasyonun-yolu-komurden-degil-komurden-adil-cikistan-geciyor/",
-      "tarih": "2026-09-16T06:04:29+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "499bf81d44ce",
-      "baslik": "Hanoi'de 4.527 çevre koruma ihlali vakası ele alınıyor. - vietnam.vn",
-      "ozet": "Hanoi'de 4.527 çevre koruma ihlali vakası ele alınıyor. vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQkJnNmRhR1c5Nk1MR2V3S2gwTS02ZFZCX2U4dDZJemlQNG5LUHZqdzJUOVhyd1BLY21OSHhGNm9UR25JV0d2Yi1VWXNwV28wV2E5MTBZbTlyZWxCdVJrVUpybmwzbjg5ME9udnFTS2x2ZzZDWW1QQTRUSWRUWnZtSklR?oc=5",
-      "tarih": "2026-09-16T05:26:37+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e03b02e320b0",
-      "baslik": "Hanoi'de 4.527 çevre koruma ihlali vakası ele alınıyor. - Vietnam.vn",
-      "ozet": "Hanoi'de 4.527 çevre koruma ihlali vakası ele alınıyor. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQkJnNmRhR1c5Nk1MR2V3S2gwTS02ZFZCX2U4dDZJemlQNG5LUHZqdzJUOVhyd1BLY21OSHhGNm9UR25JV0d2Yi1VWXNwV28wV2E5MTBZbTlyZWxCdVJrVUpybmwzbjg5ME9udnFTS2x2ZzZDWW1QQTRUSWRUWnZtSklR?oc=5",
-      "tarih": "2026-09-16T05:26:37+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5ff23662c4b2",
-      "baslik": "Yemen cephesi alev alev! Husiler çatışma görüntülerini yayımladı",
-      "ozet": "Yemen cephesi alev alev! Husiler çatışma görüntülerini yayımladı",
-      "url": "https://www.sozcu.com.tr/yemen-cephesi-alev-alev-husiler-catisma-goruntulerini-yayimladi-p358553",
-      "tarih": "2026-09-15T17:21:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "528d5c9146b2",
-      "baslik": "Yüzlerce trafik levhasını denizin dibine bırakacaklar",
-      "ozet": "Yüzlerce trafik levhasını denizin dibine bırakacaklar",
-      "url": "https://www.sozcu.com.tr/yuzlerce-trafik-levhasini-denizin-dibine-birakacaklar-p358544",
-      "tarih": "2026-09-15T16:10:42+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9c0b24277625",
-      "baslik": "Ömer Çelik, Erdoğan'ın 'yaklaşan seçim' sözlerine açıklık getirdi: Erken seçim sinyali değil",
-      "ozet": "Ömer Çelik, Erdoğan'ın 'yaklaşan seçim' sözlerine açıklık getirdi: Erken seçim sinyali değil",
-      "url": "https://www.sozcu.com.tr/omer-celik-erken-secim-aciklamasi-15-eylul-2026-p358542",
-      "tarih": "2026-09-15T16:08:28+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a41bf14f0aa1",
-      "baslik": "Başakşehir’de Nuri Şahin’in geleceği belli oldu! Resmi açıklama geldi",
-      "ozet": "Başakşehir’de Nuri Şahin’in geleceği belli oldu! Resmi açıklama geldi",
-      "url": "https://www.sozcu.com.tr/basaksehir-de-nuri-sahin-in-gelecegi-belli-oldu-resmi-aciklama-geldi-p358534",
-      "tarih": "2026-09-15T15:15:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a8de40b82c78",
-      "baslik": "Erdoğan'ın sözleri siyaset kulislerine bomba gibi düşmüştü: Spekülasyon artınca AKP'den 'Erken Seçim' açıklaması geldi",
-      "ozet": "Erdoğan'ın sözleri siyaset kulislerine bomba gibi düşmüştü: Spekülasyon artınca AKP'den 'Erken Seçim' açıklaması geldi",
-      "url": "https://www.sozcu.com.tr/erdogan-in-sozleri-siyaset-kulislerine-bomba-gibi-dusmustu-spekulasyon-artinca-akp-den-erken-secim-p358514",
-      "tarih": "2026-09-15T13:51:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -94410,6 +94410,48 @@
       "ozet": "Şanlıurfa depremi sonrası Suriye’de dikkat çeken hareketlilik: Topraktan buhar yükseliyor",
       "lat": 37.0939,
       "lng": 38.885,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b4a7573a2f8b",
+      "baslik": "Kayseri'de altın çıkaran maden devi Danıştay'a gidiyor - Kayseri Olay Haber",
+      "konum": "Kayseri",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "07.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGJ2YTlxc1VpNnJpNEppNHNWNzhHczJQYkpOMGl5bzhta0Q2cXprdURZVjI5ejNkWVdudHhXMHBqUTVkVVJ5WkdacklIZG5lR2lMeU5OT1B6Z0ZyaDB3c3NENFVZa2RsSFdqcjFQWTViTWo3My0tUS1Ta2VIZWVuQ0lIU0NGQWxpLURoZTBfUGdZNnlj?oc=5",
+      "ozet": "Kayseri'de altın çıkaran maden devi Danıştay'a gidiyor Kayseri Olay Haber",
+      "lat": 38.747,
+      "lng": 35.5083,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-bdef6ee19d7f",
+      "baslik": "Gediz Deltası’nın Ekolojik Bütünlüğü için Beş Yıllık Restorasyon Çalışması Başlıyor",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "07.10.2026",
+      "url": "https://www.iklimhaber.org/gediz-deltasinin-ekolojik-butunlugu-icin-bes-yillik-restorasyon-calismasi-basliyor/",
+      "ozet": "İzmir Gediz Deltası; dalyanları, tuzcul çayırları, sazlıkları, lagünleri, tarım arazileri ve geleneksel üretim biçimleriyle öne çıkıyor. Dünya flamingo popülasyonunun %10’una kuluçka alanı sunan Gediz Deltası’nın ekosistem bütünlüğünün ve biyoçeşitliliğinin korunması amacıyla 203",
+      "lat": 38.4498,
+      "lng": 27.1487,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-99d529233507",
+      "baslik": "Türkiye'nin yeni stadyumu İstanbul'da yükseliyor! Maliyeti 1 milyar TL'nin üzerinde",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "07.10.2026",
+      "url": "https://www.sozcu.com.tr/turkiye-nin-yeni-stadyumu-istanbul-da-yukseliyor-maliyeti-1-milyar-tl-nin-uzerinde-p366953",
+      "ozet": "Türkiye'nin yeni stadyumu İstanbul'da yükseliyor! Maliyeti 1 milyar TL'nin üzerinde",
+      "lat": 41.0254,
+      "lng": 28.8951,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
