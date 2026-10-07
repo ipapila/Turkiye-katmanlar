@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-07T09:36:24.243415+00:00",
+    "guncelleme": "2026-10-07T18:13:36.031617+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6603,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "aa44d4df0d2a",
+      "baslik": "Galatasaray’da 860 milyon euroluk borç krizi! Dursun Özbek anında yanıtladı",
+      "ozet": "Galatasaray’da 860 milyon euroluk borç krizi! Dursun Özbek anında yanıtladı",
+      "url": "https://www.sozcu.com.tr/galatasarayda-860-milyon-euroluk-borc-krizi-dursun-ozbek-aninda-yanitladi-p367084",
+      "tarih": "2026-10-07T16:25:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fb543cf5f32b",
+      "baslik": "Nehir kıyısındaki toprak çökmeye başladı: Evleri birer birer yutuyor",
+      "ozet": "Nehir kıyısındaki toprak çökmeye başladı: Evleri birer birer yutuyor",
+      "url": "https://www.sozcu.com.tr/nehir-kiyisindaki-toprak-cokmeye-basladi-evleri-birer-birer-yutuyor-p367082",
+      "tarih": "2026-10-07T16:12:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "401182b1e845",
+      "baslik": "Teknolojiye Bel Bağlayan Bilim İnsanları İklim Eyleminden Uzak Duruyor",
+      "ozet": "Yeni bir araştırma, iklim krizine çözüm konusunda teknolojiye güvenen bilim insanlarının iklim eylemine katılma olasılığı daha düşük olduğunu ortaya koydu. Araştırma bu türden bir “teknoloji iyimserliğinin”, toplumsal değişimlerin önüne geçerek kanıtlanmamış çözümlere bel bağlanm",
+      "url": "https://www.iklimhaber.org/teknolojiye-bel-baglayan-bilim-insanlari-iklim-eyleminden-uzak-duruyor/",
+      "tarih": "2026-10-07T09:50:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "7d9151132902",
       "baslik": "Galatasaray'dan Avrupa'yı ayağa kaldıracak transfer: İlkay Gündoğan devrede",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-09-16T07:35:00+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "011d14fece65",
-      "baslik": "Danıştay’dan Önemli Karar: Büyük Sanayi Tesislerine Çevre Muafiyeti Yok",
-      "ozet": "Temiz Hava Hakkı Derneği’nin açtığı davada Danıştay, fosil yakıt kullanan büyük yakma tesislerinin kirlilik önleme standartlarından muaf tutulmasına olanak veren yönetmelik hükmünün yürütmesini durdurdu.  Ocak 2025’te yürürlüğe giren Endüstriyel Emisyonların Yönetimi Yönetmeliği,",
-      "url": "https://www.iklimhaber.org/danistaydan-onemli-karar-buyuk-sanayi-tesislerine-cevre-muafiyeti-yok/",
-      "tarih": "2026-09-16T07:30:33+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "11282fa477f1",
-      "baslik": "Borsa güne düşüşle başladı -16 Eylül 2026",
-      "ozet": "Borsa güne düşüşle başladı -16 Eylül 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-16-eylul-2026-p358701",
-      "tarih": "2026-09-16T07:03:27+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "591ec3df896c",
-      "baslik": "İklim Krizi Türkiye’yi Kavurdu: 2026 Yazında Fazladan 32 Gün Riskli Sıcak Gün Yaşandı",
-      "ozet": "Yeni bir çalışma, Türkiye’de ortalama bir kişinin, iklim değişikliği nedeniyle 2026 yazında fazladan 32 gün boyunca riskli sıcaklara maruz kaldığını ortaya koydu. Climate Central’ın yeni analizi, 2026 yazı boyunca bir buçuk milyardan fazla insanın, iklim değişikliği nedeniyle say",
-      "url": "https://www.iklimhaber.org/iklim-krizi-turkiyeyi-kavurdu-2026-yazinda-fazladan-32-gun-riskli-sicak-gun-yasandi/",
-      "tarih": "2026-09-16T06:51:39+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
