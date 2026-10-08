@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-08T09:46:42.385175+00:00",
+    "guncelleme": "2026-10-08T18:15:06.637686+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6604,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "d327af72a0d5",
+      "baslik": "Muhalefetin ‘fon krizi araştırılsın’ önergesi AKP ve MHP oylarıyla reddedildi",
+      "ozet": "Muhalefetin ‘fon krizi araştırılsın’ önergesi AKP ve MHP oylarıyla reddedildi",
+      "url": "https://www.sozcu.com.tr/muhalefetin-fon-krizi-arastirilsin-onergesi-akp-ve-mhp-oylariyla-reddedildi-p367445",
+      "tarih": "2026-10-08T18:10:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "639ea0145503",
+      "baslik": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
+      "ozet": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
+      "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
+      "tarih": "2026-10-08T16:39:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "96028b6bd4e7",
+      "baslik": "AKP'li Savcı Sayan, Mehmet Şimşek'i topa tuttu: Esnafa şahinsiniz, milyarların hesabını kim verecek?",
+      "ozet": "AKP'li Savcı Sayan, Mehmet Şimşek'i topa tuttu: Esnafa şahinsiniz, milyarların hesabını kim verecek?",
+      "url": "https://www.sozcu.com.tr/savci-sayandan-mehmet-simseke-fon-denetimi-elestirisi-p367428",
+      "tarih": "2026-10-08T16:33:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9e6e10de054d",
+      "baslik": "Deniz Akkaya hakkında yakalama kararı talep edildi",
+      "ozet": "Deniz Akkaya hakkında yakalama kararı talep edildi",
+      "url": "https://www.sozcu.com.tr/deniz-akkaya-hakkinda-yakalama-karari-talep-edildi-p367406",
+      "tarih": "2026-10-08T14:54:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "37c0ee03d0b4",
+      "baslik": "Yeni Rapor: Doğa Kaybı İstenirse Tersine Çevrilebiliyor",
+      "ozet": "Gezegenimiz biyoçeşitlilik krizi yaşamasına rağmen, yeni bir rapor, son yıllarda yapılan çalışmalar sayesinde yabani kaplanların, orkinosların ve deniz kaplumbağalarının popülasyonlarında dikkat çekici artışı ve doğa kaybının tersine çevrilebileceğini gösterdi. Aynı rapor biyoçeş",
+      "url": "https://www.iklimhaber.org/yeni-rapor-doga-kaybi-istenirse-tersine-cevrilebiliyor/",
+      "tarih": "2026-10-08T09:52:30+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5afe4f8bd575",
       "baslik": "Kredi kartlarında yeni dönem: Sil baştan hesaplanacak",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-09-17T16:08:27+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "38d01b86d350",
-      "baslik": "Son dakika...Spekülatif paylaşım yapan 246 hesap kapatıldı",
-      "ozet": "Son dakika...Spekülatif paylaşım yapan 246 hesap kapatıldı",
-      "url": "https://www.sozcu.com.tr/son-dakika-spekulatif-paylasim-yapan-246-hesap-kapatildi-p359221",
-      "tarih": "2026-09-17T15:59:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e0e037674f16",
-      "baslik": "Bakan Şimşek rakam verdi, hesap sil baştan yapıldı: Memur ve emekli zammında masada 4 oran var",
-      "ozet": "Bakan Şimşek rakam verdi, hesap sil baştan yapıldı: Memur ve emekli zammında masada 4 oran var",
-      "url": "https://www.sozcu.com.tr/bakan-simsek-rakam-verdi-hesap-sil-bastan-yapildi-memur-ve-emekli-zamminda-masada-4-oran-var-p359188",
-      "tarih": "2026-09-17T13:26:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "92b56c82fa88",
-      "baslik": "Stresin uğramıyor: Türkiye’nin en huzurlu ilçeleri belli oldu",
-      "ozet": "Stresin uğramıyor: Türkiye’nin en huzurlu ilçeleri belli oldu",
-      "url": "https://www.sozcu.com.tr/stresin-ugramiyor-turkiye-nin-en-huzurlu-ilceleri-belli-oldu-p359176",
-      "tarih": "2026-09-17T12:48:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9b9f5a806b19",
-      "baslik": "AB İklim Sigortası Planını Hayata Geçiriyor",
-      "ozet": "İklim sigortası ittifakı, grup sigortası veya yağış miktarları ile sıcaklıklar gibi önceden belirlenmiş eşikler aşıldığında ödemelerin otomatik olarak yapıldığı parametrik sigorta gibi riski azaltabilecek araçları tespit edecek ve teşvik edecek. Avrupa Birliği (AB) Komisyonu Başk",
-      "url": "https://www.iklimhaber.org/ab-iklim-sigortasi-planini-hayata-geciriyor/",
-      "tarih": "2026-09-17T07:44:44+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d5b4791a71d9",
-      "baslik": "Akbelen Çevresindeki Kamulaştırma Kararı Danıştay’da Görüldü - Turizm Gazetesi",
-      "ozet": "Akbelen Çevresindeki Kamulaştırma Kararı Danıştay’da Görüldü Turizm Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVlySVFWdjdvQ2RDbXJuWWxyQ1JGR1pUNUJEUUVjSUFwZlE2dHZMVU45cjQ5QmJMeHZTMkV4ZVNHOHFWeG9BU0ZucVo5SVZyT1lXMVo0X2NrUVFWUktVUS0ya1VZWk0yRXZ3M21IWjhzM19GS3U1SHhwbWtHQTFfMmZTT2xGdE12bXZDcnU1c2F0WUZrZE04a3dWRy1kTEpES1Z0eFh3?oc=5",
-      "tarih": "2026-09-17T07:31:49+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
