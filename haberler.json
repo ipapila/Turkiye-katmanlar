@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-07T18:13:36.031617+00:00",
+    "guncelleme": "2026-10-08T09:46:42.385175+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6603,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6604,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "5afe4f8bd575",
+      "baslik": "Kredi kartlarında yeni dönem: Sil baştan hesaplanacak",
+      "ozet": "Kredi kartlarında yeni dönem: Sil baştan hesaplanacak",
+      "url": "https://www.sozcu.com.tr/kredi-kartlarinda-yeni-donem-sil-bastan-hesaplanacak-p367287",
+      "tarih": "2026-10-08T08:41:54+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "305092633add",
+      "baslik": "Manchester City'ye savaş açtılar! İşte felaket senaryosu",
+      "ozet": "Manchester City'ye savaş açtılar! İşte felaket senaryosu",
+      "url": "https://www.sozcu.com.tr/manchester-cityye-savas-actilar-iste-felaket-senaryosu-p367267",
+      "tarih": "2026-10-08T08:00:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0854c48bccc3",
+      "baslik": "Bütçede kara eylül: Yarım trilyonluk rekor bütçe açığı geliyor",
+      "ozet": "Bütçede kara eylül: Yarım trilyonluk rekor bütçe açığı geliyor",
+      "url": "https://www.sozcu.com.tr/butcede-kara-eylul-yarim-trilyonluk-rekor-butce-acigi-geliyor-p367264",
+      "tarih": "2026-10-08T07:48:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9c5778b07855",
+      "baslik": "BM: “El Niño Daha da Şiddetlenerek Şubat 2027’ye Kadar Sürecek”",
+      "ozet": "WMO Genel Sekreteri Celeste Saulo, yaptığı açıklamada, ” Tahminlerimiz, El Niño’nun Şubat 2027 boyunca devam etme olasılığının neredeyse %100 olduğunu ve potansiyel olarak en az 1950’den bu yana görülen en güçlü El Niño’lardan biri olacağını gösteriyor” dedi. Dünya Meteoroloji Ör",
+      "url": "https://www.iklimhaber.org/bm-el-nino-daha-da-siddetlenerek-subat-2027ye-kadar-surecek/",
+      "tarih": "2026-10-08T07:36:07+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1f312c026d7b",
+      "baslik": "KNK’den Federe Kürdistan’daki ağaç kıyımına ilişkin açıklama - Yeni Yaşam Gazetesi",
+      "ozet": "KNK’den Federe Kürdistan’daki ağaç kıyımına ilişkin açıklama Yeni Yaşam Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzc2R3kxay1tYjFXWEd4eWZadlN0MDI5T3NfSk55VTlLMThpRjlURnNJdDNSZFlwZE5YaWFlcjBORVVHQVJ4UzJiMDFicnNJdTNzNHZjNUMtSHFfeV9yVHZxc0xXNnFrRGZILTRQRXo5Y2xEeVpMYlJKZktZUjRBZGd4eXZuMG9GbXVfSUE4ajl2UktS?oc=5",
+      "tarih": "2026-10-08T07:22:52+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7a1af98e091d",
+      "baslik": "KNK: Çevre kıyımı karşısındaki sessizlik büyük bir suçtur - ANF | Articles",
+      "ozet": "KNK: Çevre kıyımı karşısındaki sessizlik büyük bir suçtur ANF | Articles",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXFPY0xHQkZMaXFrRXdfbWoyZG5GcHlwcjh0YzdWaWFkb0owOTAxYzd3TXNFNldwRnJWc3ladW9kaTZvUXdYTERNTGxwSzhxelNyRno0R2I4R1FEZ0ZPZ0hvSlprbVVweVZjNFU5MGJvclBNRHhNR28zbTlvRjBXNkV1anhsQV84ay1CcGMwNWlvdWwwY2hCV09vUmV1RHgy?oc=5",
+      "tarih": "2026-10-08T06:45:06+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8075f862e47b",
+      "baslik": "COP31 Ev Sahibine Çağrı: “Türkiye İklim Taahhütlerini Somut Adımlara Dönüştürmeli”",
+      "ozet": "İPM’nin “COP31 Diyalogları” toplantı serisinin sonuncusunda, Türkiye’nin COP31 Başkanı olarak önceliklendirdiği iklim eylemlerinin yanı sıra ,kömürden çıkış, elektrifikasyon, karbon fiyatlaması, gıda, sağlık, finansman ve adil geçiş konuları ele alındı. Toplantıya katılan uzmanla",
+      "url": "https://www.iklimhaber.org/cop31-ev-sahibine-cagri-turkiye-iklim-taahhutlerini-somut-adimlara-donusturmeli/",
+      "tarih": "2026-10-08T06:27:55+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d9e156584b7c",
+      "baslik": "COP31 Başkanı Kurum: “Fosil Yakıtlardan Adil, Düzenli ve Eşitlikçi bir Uzaklaşma Gerekli”",
+      "ozet": "Fosil yakıtlardan adil, düzenli ve eşitlikçi biçimde uzaklaşılması gerektiğini belirten Kurum, “Elektrifikasyon, depolama ve şebeke dönüşümü enerji arz güvenliğini güçlendirecek, maliyetleri düşürüp fosil bağımlılığını azaltacaktır” diye konuştu. Türkiye’nin ev sahipliğinde Antal",
+      "url": "https://www.iklimhaber.org/cop31-baskani-kurum-fosil-yakitlardan-adil-duzenli-ve-esitlikci-bir-uzaklasma-gerekli/",
+      "tarih": "2026-10-08T06:03:35+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "aa44d4df0d2a",
       "baslik": "Galatasaray’da 860 milyon euroluk borç krizi! Dursun Özbek anında yanıtladı",
@@ -449,6 +529,16 @@
       "tarih": "2026-10-02T07:15:32+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6e3728bffffc",
+      "baslik": "Soma’daki maden kazasında 5 işçi hayatını kaybetti - turkhaber.com",
+      "ozet": "Soma’daki maden kazasında 5 işçi hayatını kaybetti turkhaber.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNzZvUUw0YW1DbExQM3daYXFBaktMSG5mUkFtV0l3SktsMDF6YlNwMEdSendtM0dLX1ZtdENMajZIRXBldTlkVHFJSkhGUE5UYWJ5THBiUlNrRzNlT1p2dDFhWkcxLU5PelU2Wlg2Zld0dnZHakg5VnhmZExXVTJaNENNczhaLWlDMkdGNTRFcUxWTVBvOGl5M1NZcDAxa3hiUWhv?oc=5",
+      "tarih": "2026-10-02T05:20:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     },
     {
@@ -1919,96 +2009,6 @@
       "tarih": "2026-09-17T07:31:49+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e17e20be9fd0",
-      "baslik": "Şehirlerin altına denizden su sızmaya başladı: Felaketin kapısı aralandı",
-      "ozet": "Şehirlerin altına denizden su sızmaya başladı: Felaketin kapısı aralandı",
-      "url": "https://www.sozcu.com.tr/sehirlerin-altina-denizden-su-sizmaya-basladi-felaketin-kapisi-aralandi-p359021",
-      "tarih": "2026-09-17T07:01:19+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c965f4a00b1b",
-      "baslik": "İklim İnkârcılığı Sözlüğü-12: “Bireylerden Karbon Ayak İzi Vergisi Alınacak”",
-      "ozet": "Ne İklim Kanunu’nda ne de Paris İklim Anlaşması’nda bu iddiaların yanından geçen bir satır bile olmamasına, resmi kanallardan birçok kez yapılan yalanlamalara rağmen bu inkârcı teoriler sosyal medyada halen kullanıma sokuluyor. İklim krizi üzerine yapılacak en basit araştırmada b",
-      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-12-bireylerden-karbon-ayak-izi-vergisi-alinacak/",
-      "tarih": "2026-09-17T06:32:06+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b5984fc79fda",
-      "baslik": "Akbelen Duruşmasında Kritik Gelişme: Danıştay Savcısı’ndan “Kamu Yararı” Mütalaası",
-      "ozet": "Avukat İsmail Hakkı Atal,  Akbelen’deki “acele kamulaştırma” kararının iptali talebiyle açılan davada Danıştay Savcısı’nın söz konusu kararda “kamu yararı” yönünde mütalaa verdiğini aktardı. Akbelen Avukatı İsmail Hakkı Atal, Akbelen’deki 7 köyün sınırları içinde yer alan zeytinl",
-      "url": "https://www.iklimhaber.org/akbelen-durusmasinda-kritik-gelisme-danistay-savcisindan-kamu-yarari-mutalaasi/",
-      "tarih": "2026-09-17T06:11:48+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "14d2e59f4310",
-      "baslik": "Akbelen'deki 'acele kamulaştırma' davası: Danıştay Savcısı'ndan 'kamu yararı' yönünde mütalaa - cumhuriyet.com.tr",
-      "ozet": "Akbelen'deki 'acele kamulaştırma' davası: Danıştay Savcısı'ndan 'kamu yararı' yönünde mütalaa cumhuriyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbVNXZDJ2YXFla3Y4RVF0MDdPSEFiUTlwM0laMXY0YjZ5a3dVbkl2enZZOXF0Z3o4UTNPMnprWW95QVZXbFNwTGc1cnhNSGlFeDJyMFRfWG9PX090OHA4dFdnUV8yWGVoNlplc1ZyekE4S0RPekROeVdKQmozZ1Y1dFQ0LTJ5cm9FY1k0VWpMX3JWMDNWWEVSdjRjTXhMZUJyOTliNUpBa1hkMUxzU1JMeWFqOHF6NVdOem9XZjdpbXBLUGlSODlUZDc0QWhZRkE?oc=5",
-      "tarih": "2026-09-16T16:19:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5c43f20a067c",
-      "baslik": "Akbelen'deki 'acele kamulaştırma' davası: Danıştay Savcısı'ndan 'kamu yararı' yönünde mütalaa - Cumhuriyet",
-      "ozet": "Akbelen'deki 'acele kamulaştırma' davası: Danıştay Savcısı'ndan 'kamu yararı' yönünde mütalaa Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbVNXZDJ2YXFla3Y4RVF0MDdPSEFiUTlwM0laMXY0YjZ5a3dVbkl2enZZOXF0Z3o4UTNPMnprWW95QVZXbFNwTGc1cnhNSGlFeDJyMFRfWG9PX090OHA4dFdnUV8yWGVoNlplc1ZyekE4S0RPekROeVdKQmozZ1Y1dFQ0LTJ5cm9FY1k0VWpMX3JWMDNWWEVSdjRjTXhMZUJyOTliNUpBa1hkMUxzU1JMeWFqOHF6NVdOem9XZjdpbXBLUGlSODlUZDc0QWhZRkE?oc=5",
-      "tarih": "2026-09-16T16:19:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9b09c52e4e43",
-      "baslik": "Hak savunucularından \"acele kamulaştırma\" projelerine tepki: Bir şirketi binlerce hayvana tercih ediyorlar - Anka Haber",
-      "ozet": "Hak savunucularından \"acele kamulaştırma\" projelerine tepki: Bir şirketi binlerce hayvana tercih ediyorlar Anka Haber",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNem9MTTJ5MlBraGxvZWk4LWl5UlRRY3NNR05TbTNmczlTUmN0LVVHNFlrNmhLVVotU1JYYV84T282MlNvQ3FjRnlfN19MMEJtODM2bGdSZUxnMmphNDdvcXYyd0Q1UmM1aEk1S196Q2pxckhPMWNVUG50TXl2RVM5RmpYRDVrZzNTT3NXOEFyUmFYdnFJTGtQejN4YS04dmpsYTQ1dTFvYnB1cElYdXN5TENZcHREMnc0TE1JajViSGkzci1vLWxZNUZGVVpIaFR6ZkhHOExaaw?oc=5",
-      "tarih": "2026-09-16T15:16:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2e3aa4eeb605",
-      "baslik": "Cumhuriyet tarihinde bir ilk! Motorinin litresi 100 lirayı aşacak",
-      "ozet": "Cumhuriyet tarihinde bir ilk! Motorinin litresi 100 lirayı aşacak",
-      "url": "https://www.sozcu.com.tr/cumhuriyet-tarihinde-bir-ilk-motorinin-litresi-100-lirayi-asacak-p358852",
-      "tarih": "2026-09-16T13:26:19+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "95320d6f0e51",
-      "baslik": "İzmir'i ayağa kaldıran olay! '6 erkeğin cinsel saldırısına uğradım'",
-      "ozet": "İzmir'i ayağa kaldıran olay! '6 erkeğin cinsel saldırısına uğradım'",
-      "url": "https://www.sozcu.com.tr/izmir-i-ayaga-kaldiran-olay-6-erkegin-cinsel-saldirisina-ugrayip-darp-edildim-p358819",
-      "tarih": "2026-09-16T13:00:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dee2df458a08",
-      "baslik": "Altın düşerken maden hisseleri çakıldı: JPMorgan'dan 'Tarihi ucuzluk' uyarısı",
-      "ozet": "Altın düşerken maden hisseleri çakıldı: JPMorgan'dan 'Tarihi ucuzluk' uyarısı",
-      "url": "https://www.sozcu.com.tr/altin-duserken-maden-hisseleri-cakildi-jpmorgandan-tarihi-ucuzluk-uyarisi-p358719",
-      "tarih": "2026-09-16T07:35:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -94452,6 +94452,20 @@
       "ozet": "Türkiye'nin yeni stadyumu İstanbul'da yükseliyor! Maliyeti 1 milyar TL'nin üzerinde",
       "lat": 41.0254,
       "lng": 28.8951,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-229089b54f86",
+      "baslik": "ÇED'i denetleyen yok mu? Sivas’taki maden Van’da gösterilmiş! | Bahadır Özgür - Halk TV",
+      "konum": "Sivas",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "08.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1BSUXVObTd6WHVwb2JzX2w1amhOVExkb2pmZVJURlZZdlhxU1BmeVI4LThMT3FvUWFYdG9NOEh6RmIxWjhyVFQ1SFd6LWE5ZkxKWWJTLVVOUFZfcVp5cGpGemdzSE10eW5Pblo5cGI4TzVnT2ZaaXVzYS1GeHE0VGtzQjJHTDZhLWY4b3J5RGxLejhFRTZz?oc=5",
+      "ozet": "ÇED'i denetleyen yok mu? Sivas’taki maden Van’da gösterilmiş! | Bahadır Özgür Halk TV",
+      "lat": 39.6896,
+      "lng": 37.1211,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
