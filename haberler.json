@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-09T09:52:02.679379+00:00",
+    "guncelleme": "2026-10-09T17:48:17.335316+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6607,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "harita_kayit_sayisi": 6608,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "a04449a08088",
+      "baslik": "Denizde bu görüntüyü görenler gözlerine inanamadı",
+      "ozet": "Denizde bu görüntüyü görenler gözlerine inanamadı",
+      "url": "https://www.sozcu.com.tr/denizde-bu-goruntuyu-gorenler-gozlerine-inanamadi-p367714",
+      "tarih": "2026-10-09T14:58:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ab352c706b4f",
+      "baslik": "Pasifik Ülkeleri Seslerini Tüm Dünyaya Duyurdu",
+      "ozet": "Türkiye’de gerçekleşecek COP31 zirvesi öncesinde Pasifik’te Fiji adasında düzenlenen zirveye 100’den fazla ülkeden katılan temsilciler; 1,5 derece hedefini ulaşılabilir tutmak, okyanus-iklim ilişkisini gündemin üst sıralarına taşımak ve finansmana erişimi hızlandırmak gibi Pasifi",
+      "url": "https://www.iklimhaber.org/pasifik-ulkeleri-seslerini-tum-dunyaya-duyurdu/",
+      "tarih": "2026-10-09T10:17:23+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f9b4ed040a27",
       "baslik": "Liseliler Avrupa'yı yaktı geçti: Olaylar kontrolden çıktı",
@@ -1987,26 +2007,6 @@
       "ozet": "Küçükçekmece'de yıkımı yapılan bina çöktü",
       "url": "https://www.sozcu.com.tr/kucukcekmece-de-yikimi-yapilan-bina-coktu-p359546",
       "tarih": "2026-09-18T19:29:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2845d15f204e",
-      "baslik": "Beşiktaş tribününe yeni sponsorluk! Resmi açıklama geldi",
-      "ozet": "Beşiktaş tribününe yeni sponsorluk! Resmi açıklama geldi",
-      "url": "https://www.sozcu.com.tr/besiktasin-tribunune-yeni-isim-p359521",
-      "tarih": "2026-09-18T14:29:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dea512092a27",
-      "baslik": "TFF resmen küme düşürdü: Rakipleri hükmen galip sayılacak",
-      "ozet": "TFF resmen küme düşürdü: Rakipleri hükmen galip sayılacak",
-      "url": "https://www.sozcu.com.tr/tff-resmen-kume-dusurdu-rakipleri-hukmen-galip-sayilacak-p359496",
-      "tarih": "2026-09-18T12:55:57+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94508,6 +94508,20 @@
       "ozet": "COP31 Başkanlığını üstlenen Türkiye, zirvenin Eylem Gündemi kapsamında küresel elektrifikasyon hedefini de duyurdu. Ancak başta kömür olmak üzere fosil yakıtlardan çıkış için adım atmayarak kendi hedefleriyle çelişiyor. İstanbul Politikalar Merkezi (İPM) araştırmacısı Onur Akgül ",
       "lat": 41.0325,
       "lng": 28.9918,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-8e7d934ad3c1",
+      "baslik": "Dev Maden Şirketinin Bursa Planı Suya Düştü! Resmen İptal Edildi... - turkhaber.com",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS29kUDB6cFBDLUp6UzZvMXhjQVdEMFNQZEpCRHotWTAySHg5VVBmcEttVndXUnBmdDVFTm92aXF1RTZ2RkR0Y2RRZ3lLQzduQ0N2Z2o0azNyWkE5WkJPMmJQeW02YWZTY3ozekUzby1leFIwcU9vWlhvRW4zMjZtQ2NSa2lnNDdtaW9CVFYwUU41THhwUmt4MG1meWN1YkFaU2xPNURMc3NnZEF3RGNYclp4clQ?oc=5",
+      "ozet": "Dev Maden Şirketinin Bursa Planı Suya Düştü! Resmen İptal Edildi... turkhaber.com",
+      "lat": 40.1127,
+      "lng": 29.0446,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

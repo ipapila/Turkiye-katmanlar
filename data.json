@@ -120084,5 +120084,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31-baskani-turkiye-komurde-daha-ne-kadar-israr-edecek/"
+  },
+  {
+    "id": "tarayici-8e7d934ad3c1",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dev Maden Şirketinin Bursa Planı Suya Düştü! Resmen İptal Edildi... - turkhaber.com",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Dev Maden Şirketinin Bursa Planı Suya Düştü! Resmen İptal Edildi... turkhaber.com",
+    "koordinatlar": {
+      "lat": 40.1127,
+      "lng": 29.0446
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS29kUDB6cFBDLUp6UzZvMXhjQVdEMFNQZEpCRHotWTAySHg5VVBmcEttVndXUnBmdDVFTm92aXF1RTZ2RkR0Y2RRZ3lLQzduQ0N2Z2o0azNyWkE5WkJPMmJQeW02YWZTY3ozekUzby1leFIwcU9vWlhvRW4zMjZtQ2NSa2lnNDdtaW9CVFYwUU41THhwUmt4MG1meWN1YkFaU2xPNURMc3NnZEF3RGNYclp4clQ?oc=5"
   }
 ]
