@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-08T18:15:06.637686+00:00",
+    "guncelleme": "2026-10-09T09:52:02.679379+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6604,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6607,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "f9b4ed040a27",
+      "baslik": "Liseliler Avrupa'yı yaktı geçti: Olaylar kontrolden çıktı",
+      "ozet": "Liseliler Avrupa'yı yaktı geçti: Olaylar kontrolden çıktı",
+      "url": "https://www.sozcu.com.tr/liseliler-avrupa-yi-yakti-gecti-olaylar-kontrolden-cikti-p367630",
+      "tarih": "2026-10-09T09:36:04+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1842a3aca153",
+      "baslik": "Altın yeniden yükselişe geçti ama tehlike hala devam ediyor",
+      "ozet": "Altın yeniden yükselişe geçti ama tehlike hala devam ediyor",
+      "url": "https://www.sozcu.com.tr/altin-yeniden-yukselise-gecti-ama-tehlike-hala-devam-ediyor-p367627",
+      "tarih": "2026-10-09T09:23:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "965de5cc27ad",
+      "baslik": "Çanakkale’nin İçme Suyu Kaynağını Zehirleyecek Altın Madeninin “ÇED Olumlu” Kararı İptal Edildi",
+      "ozet": "Koza Altın İşletmeleri Anonim Şirketi tarafından gerçekleştirilmesi planlanan, Çanakkale’nin tek içme suyu kaynağı Atikhisar Barajı koruma mesafesinde, Serçiler ve Terziler Köyü civarındaki Altın-Gümüş Madeni Açık Ocak İşletmesi Projesi için verilen “ÇED Olumlu” kararı Mahkeme ta",
+      "url": "https://www.iklimhaber.org/canakkalenin-icme-suyu-kaynagini-zehirleyecek-altin-madeninin-ced-olumlu-karari-iptal-edildi/",
+      "tarih": "2026-10-09T09:04:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bd54316ac056",
+      "baslik": "İnşaatta maliyetler hız kesmeden yükseliyor",
+      "ozet": "İnşaatta maliyetler hız kesmeden yükseliyor",
+      "url": "https://www.sozcu.com.tr/insaatta-maliyetler-hiz-kesmeden-yukseliyor-p367614",
+      "tarih": "2026-10-09T08:41:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "59628a066288",
+      "baslik": "Mahkemeden Karaburun’daki GES Projesine Yürütmeyi Durdurma Kararı",
+      "ozet": "İzmir 7. İdare Mahkemesi, Karaburun Yarımadası’nda 6 bine yakın zeytin ağacının katledildiği GES projesine ilişkin imar planları ve yapı ruhsatının yürütmesini durdurdu. Mahkeme, zeytinliklerin enerji üretim alanına dönüştürülmesini hukuka ve kamu yararına aykırı buldu. İzmir 7. ",
+      "url": "https://www.iklimhaber.org/mahkemeden-karaburundaki-ges-projesine-yurutmeyi-durdurma-karari/",
+      "tarih": "2026-10-09T08:33:56+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9a739ac86e4e",
+      "baslik": "Icardi ve Wanda Nara resmen boşandı! Yıldız golcü çıkan sonucu kutladı",
+      "ozet": "Icardi ve Wanda Nara resmen boşandı! Yıldız golcü çıkan sonucu kutladı",
+      "url": "https://www.sozcu.com.tr/icardi-ve-wanda-nara-resmen-bosandi-yildiz-golcu-cikan-sonucu-kutladi-p367596",
+      "tarih": "2026-10-09T07:47:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ca80ab12fecc",
+      "baslik": "COP31 Başkanı Türkiye Kömürde Daha Ne Kadar Israr Edecek?",
+      "ozet": "COP31 Başkanlığını üstlenen Türkiye, zirvenin Eylem Gündemi kapsamında küresel elektrifikasyon hedefini de duyurdu. Ancak başta kömür olmak üzere fosil yakıtlardan çıkış için adım atmayarak kendi hedefleriyle çelişiyor. İstanbul Politikalar Merkezi (İPM) araştırmacısı Onur Akgül ",
+      "url": "https://www.iklimhaber.org/cop31-baskani-turkiye-komurde-daha-ne-kadar-israr-edecek/",
+      "tarih": "2026-10-09T07:21:59+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d327af72a0d5",
       "baslik": "Muhalefetin ‘fon krizi araştırılsın’ önergesi AKP ve MHP oylarıyla reddedildi",
@@ -1937,76 +2007,6 @@
       "ozet": "TFF resmen küme düşürdü: Rakipleri hükmen galip sayılacak",
       "url": "https://www.sozcu.com.tr/tff-resmen-kume-dusurdu-rakipleri-hukmen-galip-sayilacak-p359496",
       "tarih": "2026-09-18T12:55:57+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aaf5a857d800",
-      "baslik": "Guterres: “Bölünmüş Dünya Yapay zeka, İklim Krizi ve Eşitsizlik Konularında Birleşmeli”",
-      "ozet": "Antonio Guterres, yıllık BM Genel Kurulu öncesinde dünya liderlerine çatışmalar, yapay zeka, iklim değişikliği ve eşitsizlik konularında iş birliği yapmaları çağrısında bulundu. BM Genel Sekreteri Antonio Guterres, dünyanın derin bölünmelerle, felç olmuş bir Güvenlik Konseyi ile ",
-      "url": "https://www.iklimhaber.org/guterres-bolunmus-dunya-yapay-zeka-iklim-krizi-ve-esitsizlik-konularinda-birlesmeli/",
-      "tarih": "2026-09-18T09:52:08+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d675a46a0a8b",
-      "baslik": "Ho Chi Minh Şehri Halk Komitesi, inşaat ve çevre ihlalleri nedeniyle elektrik ve su tedarikinin kesilmesine izin veren bir taslak öneri sundu. - vietnam.vn",
-      "ozet": "Ho Chi Minh Şehri Halk Komitesi, inşaat ve çevre ihlalleri nedeniyle elektrik ve su tedarikinin kesilmesine izin veren bir taslak öneri sundu. vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYU5aNlRkYjRIbmtrNm5FbkJlS2RqT25pTEZUSnFhS1c4S0sxSVo5dU55VXY3dW5lelp0TDJ6TjJwam5aRlJ2Y2lDbHJiWG5PY3dKUzRzeXBfc1VHOUxnWVNjQjJacms1enQ4MldsUEFQR1h6X0x2VDV6cmZsT3d6MnlwcUlWSnBsb25ObG0xbFJFLWVTckMyWFIyOHVIM19ISzRFU1JzQm80NHNLcFVBMWdzdy16XzBfT0I5TGdJUlNWT21zakE?oc=5",
-      "tarih": "2026-09-18T08:20:40+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9e0341ba81b5",
-      "baslik": "Ho Chi Minh Şehri Halk Komitesi, inşaat ve çevre ihlalleri nedeniyle elektrik ve su tedarikinin kesilmesine izin veren bir taslak öneri sundu. - Vietnam.vn",
-      "ozet": "Ho Chi Minh Şehri Halk Komitesi, inşaat ve çevre ihlalleri nedeniyle elektrik ve su tedarikinin kesilmesine izin veren bir taslak öneri sundu. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYU5aNlRkYjRIbmtrNm5FbkJlS2RqT25pTEZUSnFhS1c4S0sxSVo5dU55VXY3dW5lelp0TDJ6TjJwam5aRlJ2Y2lDbHJiWG5PY3dKUzRzeXBfc1VHOUxnWVNjQjJacms1enQ4MldsUEFQR1h6X0x2VDV6cmZsT3d6MnlwcUlWSnBsb25ObG0xbFJFLWVTckMyWFIyOHVIM19ISzRFU1JzQm80NHNLcFVBMWdzdy16XzBfT0I5TGdJUlNWT21zakE?oc=5",
-      "tarih": "2026-09-18T08:20:40+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d70684001dce",
-      "baslik": "Borsa güne düşüşle başladı - 18 Eylül 2026",
-      "ozet": "Borsa güne düşüşle başladı - 18 Eylül 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-18-eylul-2026-p359390",
-      "tarih": "2026-09-18T07:45:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9bedee686581",
-      "baslik": "Italiano'nun bu karesi geceye damga vurdu: 4-1 kazandığı maçın sonundaki hareketi inanılmaz",
-      "ozet": "Italiano'nun bu karesi geceye damga vurdu: 4-1 kazandığı maçın sonundaki hareketi inanılmaz",
-      "url": "https://www.sozcu.com.tr/italiano-nun-bu-karesi-geceye-damga-vurdu-4-1-kazandigi-macin-sonundaki-hareketi-inanilmaz-p359351",
-      "tarih": "2026-09-18T06:21:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "856054b1431f",
-      "baslik": "Akbelen Çevresindeki Kamulaştırma Kararı Danıştay’da Görüldü - turizmgazetesi.com",
-      "ozet": "Akbelen Çevresindeki Kamulaştırma Kararı Danıştay’da Görüldü turizmgazetesi.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVlySVFWdjdvQ2RDbXJuWWxyQ1JGR1pUNUJEUUVjSUFwZlE2dHZMVU45cjQ5QmJMeHZTMkV4ZVNHOHFWeG9BU0ZucVo5SVZyT1lXMVo0X2NrUVFWUktVUS0ya1VZWk0yRXZ3M21IWjhzM19GS3U1SHhwbWtHQTFfMmZTT2xGdE12bXZDcnU1c2F0WUZrZE04a3dWRy1kTEpES1Z0eFh3?oc=5",
-      "tarih": "2026-09-17T19:27:58+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e9302aff73c8",
-      "baslik": "Son dakika...Kayyum Gürsel Tekin'in görevi sona erdi",
-      "ozet": "Son dakika...Kayyum Gürsel Tekin'in görevi sona erdi",
-      "url": "https://www.sozcu.com.tr/son-dakika-kayyum-gursel-tekin-in-gorevi-sona-erdi-p359224",
-      "tarih": "2026-09-17T16:08:27+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94466,6 +94466,48 @@
       "ozet": "ÇED'i denetleyen yok mu? Sivas’taki maden Van’da gösterilmiş! | Bahadır Özgür Halk TV",
       "lat": 39.6896,
       "lng": 37.1211,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-965de5cc27ad",
+      "baslik": "Çanakkale’nin İçme Suyu Kaynağını Zehirleyecek Altın Madeninin “ÇED Olumlu” Kararı İptal Edildi",
+      "konum": "Çanakkale",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.10.2026",
+      "url": "https://www.iklimhaber.org/canakkalenin-icme-suyu-kaynagini-zehirleyecek-altin-madeninin-ced-olumlu-karari-iptal-edildi/",
+      "ozet": "Koza Altın İşletmeleri Anonim Şirketi tarafından gerçekleştirilmesi planlanan, Çanakkale’nin tek içme suyu kaynağı Atikhisar Barajı koruma mesafesinde, Serçiler ve Terziler Köyü civarındaki Altın-Gümüş Madeni Açık Ocak İşletmesi Projesi için verilen “ÇED Olumlu” kararı Mahkeme ta",
+      "lat": 40.1139,
+      "lng": 26.3838,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-59628a066288",
+      "baslik": "Mahkemeden Karaburun’daki GES Projesine Yürütmeyi Durdurma Kararı",
+      "konum": "İzmir",
+      "kategori": "GES",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.10.2026",
+      "url": "https://www.iklimhaber.org/mahkemeden-karaburundaki-ges-projesine-yurutmeyi-durdurma-karari/",
+      "ozet": "İzmir 7. İdare Mahkemesi, Karaburun Yarımadası’nda 6 bine yakın zeytin ağacının katledildiği GES projesine ilişkin imar planları ve yapı ruhsatının yürütmesini durdurdu. Mahkeme, zeytinliklerin enerji üretim alanına dönüştürülmesini hukuka ve kamu yararına aykırı buldu. İzmir 7. ",
+      "lat": 38.3472,
+      "lng": 27.175,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-ca80ab12fecc",
+      "baslik": "COP31 Başkanı Türkiye Kömürde Daha Ne Kadar Israr Edecek?",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.10.2026",
+      "url": "https://www.iklimhaber.org/cop31-baskani-turkiye-komurde-daha-ne-kadar-israr-edecek/",
+      "ozet": "COP31 Başkanlığını üstlenen Türkiye, zirvenin Eylem Gündemi kapsamında küresel elektrifikasyon hedefini de duyurdu. Ancak başta kömür olmak üzere fosil yakıtlardan çıkış için adım atmayarak kendi hedefleriyle çelişiyor. İstanbul Politikalar Merkezi (İPM) araştırmacısı Onur Akgül ",
+      "lat": 41.0325,
+      "lng": 28.9918,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

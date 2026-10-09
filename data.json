@@ -120027,5 +120027,62 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1BSUXVObTd6WHVwb2JzX2w1amhOVExkb2pmZVJURlZZdlhxU1BmeVI4LThMT3FvUWFYdG9NOEh6RmIxWjhyVFQ1SFd6LWE5ZkxKWWJTLVVOUFZfcVp5cGpGemdzSE10eW5Pblo5cGI4TzVnT2ZaaXVzYS1GeHE0VGtzQjJHTDZhLWY4b3J5RGxLejhFRTZz?oc=5"
+  },
+  {
+    "id": "tarayici-965de5cc27ad",
+    "tip": "Maden Ocağı",
+    "ad": "Çanakkale’nin İçme Suyu Kaynağını Zehirleyecek Altın Madeninin “ÇED Olumlu” Kararı İptal Edildi",
+    "il": "Çanakkale",
+    "ilce": "",
+    "aciklama": "Koza Altın İşletmeleri Anonim Şirketi tarafından gerçekleştirilmesi planlanan, Çanakkale’nin tek içme suyu kaynağı Atikhisar Barajı koruma mesafesinde, Serçiler ve Terziler Köyü civarındaki Altın-Gümüş Madeni Açık Ocak İşletmesi Projesi için verilen “ÇED Olumlu” kararı Mahkeme ta",
+    "koordinatlar": {
+      "lat": 40.1139,
+      "lng": 26.3838
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/canakkalenin-icme-suyu-kaynagini-zehirleyecek-altin-madeninin-ced-olumlu-karari-iptal-edildi/"
+  },
+  {
+    "id": "tarayici-59628a066288",
+    "tip": "GES",
+    "ad": "Mahkemeden Karaburun’daki GES Projesine Yürütmeyi Durdurma Kararı",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir 7. İdare Mahkemesi, Karaburun Yarımadası’nda 6 bine yakın zeytin ağacının katledildiği GES projesine ilişkin imar planları ve yapı ruhsatının yürütmesini durdurdu. Mahkeme, zeytinliklerin enerji üretim alanına dönüştürülmesini hukuka ve kamu yararına aykırı buldu. İzmir 7. ",
+    "koordinatlar": {
+      "lat": 38.3472,
+      "lng": 27.175
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/mahkemeden-karaburundaki-ges-projesine-yurutmeyi-durdurma-karari/"
+  },
+  {
+    "id": "tarayici-ca80ab12fecc",
+    "tip": "Ekolojik İhlal",
+    "ad": "COP31 Başkanı Türkiye Kömürde Daha Ne Kadar Israr Edecek?",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "COP31 Başkanlığını üstlenen Türkiye, zirvenin Eylem Gündemi kapsamında küresel elektrifikasyon hedefini de duyurdu. Ancak başta kömür olmak üzere fosil yakıtlardan çıkış için adım atmayarak kendi hedefleriyle çelişiyor. İstanbul Politikalar Merkezi (İPM) araştırmacısı Onur Akgül ",
+    "koordinatlar": {
+      "lat": 41.0325,
+      "lng": 28.9918
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31-baskani-turkiye-komurde-daha-ne-kadar-israr-edecek/"
   }
 ]
