@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-09T17:48:17.335316+00:00",
+    "guncelleme": "2026-10-09T22:04:48.226004+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6608,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "d36319180ff0",
+      "baslik": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
+      "ozet": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
+      "url": "https://www.sozcu.com.tr/sosyal-medyaya-yeni-duzenleme-resm%C3%AE-gazetede-yayimlandi-p367770",
+      "tarih": "2026-10-09T21:35:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "84c9f2ee48d5",
+      "baslik": "İlkay Gündoğan'dan olay cevap! 'Oynamıyorum, niye hazır olayım'",
+      "ozet": "İlkay Gündoğan'dan olay cevap! 'Oynamıyorum, niye hazır olayım'",
+      "url": "https://www.sozcu.com.tr/ilkay-gundogan-dan-olay-cevap-oynamiyorum-niye-hazir-olayim-p367751",
+      "tarih": "2026-10-09T20:14:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a04449a08088",
       "baslik": "Denizde bu görüntüyü görenler gözlerine inanamadı",
@@ -1987,26 +2007,6 @@
       "ozet": "Baraja 96 milyon siyah top döktüler: Gizli felaketi son anda engellediler",
       "url": "https://www.sozcu.com.tr/baraja-96-milyon-siyah-top-doktuler-gizli-felaketi-son-anda-engellediler-p359617",
       "tarih": "2026-09-19T06:27:27+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4b5bf5c8c985",
-      "baslik": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
-      "ozet": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
-      "url": "https://www.sozcu.com.tr/nevsehir-de-saganak-sonrasi-sel-18-eylul-2026-p359563",
-      "tarih": "2026-09-18T20:25:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a05190612ba1",
-      "baslik": "Küçükçekmece'de yıkımı yapılan bina çöktü",
-      "ozet": "Küçükçekmece'de yıkımı yapılan bina çöktü",
-      "url": "https://www.sozcu.com.tr/kucukcekmece-de-yikimi-yapilan-bina-coktu-p359546",
-      "tarih": "2026-09-18T19:29:06+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
