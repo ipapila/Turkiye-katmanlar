@@ -120103,5 +120103,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS29kUDB6cFBDLUp6UzZvMXhjQVdEMFNQZEpCRHotWTAySHg5VVBmcEttVndXUnBmdDVFTm92aXF1RTZ2RkR0Y2RRZ3lLQzduQ0N2Z2o0azNyWkE5WkJPMmJQeW02YWZTY3ozekUzby1leFIwcU9vWlhvRW4zMjZtQ2NSa2lnNDdtaW9CVFYwUU41THhwUmt4MG1meWN1YkFaU2xPNURMc3NnZEF3RGNYclp4clQ?oc=5"
+  },
+  {
+    "id": "tarayici-71edc0158061",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstanbul'da hastanede yangın! Hastalar tahliye edildi",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul'da hastanede yangın! Hastalar tahliye edildi",
+    "koordinatlar": {
+      "lat": 40.9129,
+      "lng": 29.067
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "10.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-hastanede-yangin-hastalar-tahliye-ediliyor-p367930"
   }
 ]
