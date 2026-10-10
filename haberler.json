@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-10T09:16:06.237928+00:00",
+    "guncelleme": "2026-10-10T16:43:19.577241+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6608,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "650caf0f4d2f",
+      "baslik": "Putin ile Trump’ın ilginç telefon görüşmesi: İkili arasındaki diyalog liseli aşıkları hatırlattı",
+      "ozet": "Putin ile Trump’ın ilginç telefon görüşmesi: İkili arasındaki diyalog liseli aşıkları hatırlattı",
+      "url": "https://www.sozcu.com.tr/putin-ile-trump-in-ilginc-telefon-gorusmesi-ikili-arasindaki-diyalog-liseli-asiklari-hatirlatti-p367912",
+      "tarih": "2026-10-10T14:31:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6d8195d97098",
+      "baslik": "SON DAKİKA | Mansur Yavaş cephesinden 'AKP'ye katılacak' iddialarına cevap",
+      "ozet": "SON DAKİKA | Mansur Yavaş cephesinden 'AKP'ye katılacak' iddialarına cevap",
+      "url": "https://www.sozcu.com.tr/son-dakika-veya-mansur-yavas-cephesinden-akp-ye-katilacak-iddialarina-cevap-p367899",
+      "tarih": "2026-10-10T13:37:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "122646c22bfa",
+      "baslik": "Yemek içmek bedava ama hesabı çok başka şekilde ödüyorlar",
+      "ozet": "Yemek içmek bedava ama hesabı çok başka şekilde ödüyorlar",
+      "url": "https://www.sozcu.com.tr/yemek-icmek-bedava-ama-hesabi-cok-baska-sekilde-oduyorlar-p367897",
+      "tarih": "2026-10-10T13:18:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "88bf9f1e23f7",
       "baslik": "Galatasaray Şampiyonlar Ligi'nde rekor kırdı! Dursun Özbek resmen açıkladı",
@@ -1977,36 +2007,6 @@
       "ozet": "Milli motosikletçi Deniz Öncü, Avusturya'da 9'uncu",
       "url": "https://www.sozcu.com.tr/milli-motosikletci-deniz-oncu-avusturya-da-9-uncu-p359923",
       "tarih": "2026-09-20T11:29:10+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d528f318c46f",
-      "baslik": "Denizin dibinden kilo kilo altın bulundu",
-      "ozet": "Denizin dibinden kilo kilo altın bulundu",
-      "url": "https://www.sozcu.com.tr/denizin-dibinden-kilo-kilo-altin-bulundu-p359827",
-      "tarih": "2026-09-20T07:51:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6fd26c9dd830",
-      "baslik": "Erdoğan’dan ABD’ye ziyaret kararı",
-      "ozet": "Erdoğan’dan ABD’ye ziyaret kararı",
-      "url": "https://www.sozcu.com.tr/erdogan-dan-abd-ye-ziyaret-karari-p359767",
-      "tarih": "2026-09-19T19:39:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "328f50afd7bc",
-      "baslik": "Erdoğan-Yavaş anketinde büyük fark: Seçmenlerin parti dağılımı dikkat çekti",
-      "ozet": "Erdoğan-Yavaş anketinde büyük fark: Seçmenlerin parti dağılımı dikkat çekti",
-      "url": "https://www.sozcu.com.tr/erdogan-yavas-anketinde-buyuk-fark-partili-secmenlerin-tercihi-dikkat-cekti-p359740",
-      "tarih": "2026-09-19T15:44:41+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
