@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-09T22:04:48.226004+00:00",
+    "guncelleme": "2026-10-10T09:16:06.237928+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6608,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "88bf9f1e23f7",
+      "baslik": "Galatasaray Şampiyonlar Ligi'nde rekor kırdı! Dursun Özbek resmen açıkladı",
+      "ozet": "Galatasaray Şampiyonlar Ligi'nde rekor kırdı! Dursun Özbek resmen açıkladı",
+      "url": "https://www.sozcu.com.tr/galatasaray-sampiyonlar-liginde-rekor-kirdi-dursun-ozbek-resmen-acikladi-p367841",
+      "tarih": "2026-10-10T09:10:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "66c444b886b4",
+      "baslik": "Petrolü ve doğal gazı unutun: Sınırsız bir enerji kaynağı keşfedildi",
+      "ozet": "Petrolü ve doğal gazı unutun: Sınırsız bir enerji kaynağı keşfedildi",
+      "url": "https://www.sozcu.com.tr/petrolu-ve-dogal-gazi-unutun-sinirsiz-bir-enerji-kaynagi-kesfedildi-p367837",
+      "tarih": "2026-10-10T08:53:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d36319180ff0",
       "baslik": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
@@ -1987,26 +2007,6 @@
       "ozet": "Erdoğan-Yavaş anketinde büyük fark: Seçmenlerin parti dağılımı dikkat çekti",
       "url": "https://www.sozcu.com.tr/erdogan-yavas-anketinde-buyuk-fark-partili-secmenlerin-tercihi-dikkat-cekti-p359740",
       "tarih": "2026-09-19T15:44:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5e67cdf8549f",
-      "baslik": "Ülke yeni kararını duyurdu: Vize süresi geçen turistler gözaltına alınacak",
-      "ozet": "Ülke yeni kararını duyurdu: Vize süresi geçen turistler gözaltına alınacak",
-      "url": "https://www.sozcu.com.tr/ulke-yeni-kararini-duyurdu-vize-suresi-gecen-turistler-gozaltina-alinacak-p359626",
-      "tarih": "2026-09-19T06:48:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "57c89f8ac440",
-      "baslik": "Baraja 96 milyon siyah top döktüler: Gizli felaketi son anda engellediler",
-      "ozet": "Baraja 96 milyon siyah top döktüler: Gizli felaketi son anda engellediler",
-      "url": "https://www.sozcu.com.tr/baraja-96-milyon-siyah-top-doktuler-gizli-felaketi-son-anda-engellediler-p359617",
-      "tarih": "2026-09-19T06:27:27+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
