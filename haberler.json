@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-10T20:57:56.558869+00:00",
+    "guncelleme": "2026-10-11T09:32:50.840670+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6609,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "dd70ef5fbaca",
+      "baslik": "Fransa bitti, sıra İtalya’da mı? Avrupa’da yeni borç kabusu",
+      "ozet": "Fransa bitti, sıra İtalya’da mı? Avrupa’da yeni borç kabusu",
+      "url": "https://www.sozcu.com.tr/fransa-bitti-sira-italyada-mi-avrupada-yeni-borc-kabusu-p368086",
+      "tarih": "2026-10-11T08:34:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "71edc0158061",
       "baslik": "İstanbul'da hastanede yangın! Hastalar tahliye edildi",
@@ -1997,16 +2007,6 @@
       "ozet": "Fenerbahçe resital sundu! Tarihin en farklısı",
       "url": "https://www.sozcu.com.tr/fenerbahce-eyupsporu-8-golle-gecti-p359969",
       "tarih": "2026-09-20T16:26:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1d1b6151eb8f",
-      "baslik": "8 gollü müthiş düello Manchester City'nin",
-      "ozet": "8 gollü müthiş düello Manchester City'nin",
-      "url": "https://www.sozcu.com.tr/8-gollu-muthis-duello-manchester-citynin-p359963",
-      "tarih": "2026-09-20T15:18:45+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
