@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-11T09:32:50.840670+00:00",
+    "guncelleme": "2026-10-11T17:08:24.789559+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6609,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "2d5c934cc52f",
+      "baslik": "Selin Türkme'in ardından Rabia Soytürk’ten cesur sahne! Direk dansıyla dikkat çekti",
+      "ozet": "Selin Türkme'in ardından Rabia Soytürk’ten cesur sahne! Direk dansıyla dikkat çekti",
+      "url": "https://www.sozcu.com.tr/selin-turkme-in-ardindan-rabia-soyturk-ten-cesur-sahne-direk-dansiyla-dikkat-cekti-p368182",
+      "tarih": "2026-10-11T16:49:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4bb958604a00",
+      "baslik": "Akdeniz'de görülmemiş felaket: Evleri yıktı, otomobilleri devirdi",
+      "ozet": "Akdeniz'de görülmemiş felaket: Evleri yıktı, otomobilleri devirdi",
+      "url": "https://www.sozcu.com.tr/akdeniz-de-gorulmemis-felaket-evleri-yikti-otomobilleri-devirdi-p368179",
+      "tarih": "2026-10-11T16:49:07+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ab9dcbc24af4",
+      "baslik": "550 yıllık doğa harikası bir anda çöktü",
+      "ozet": "550 yıllık doğa harikası bir anda çöktü",
+      "url": "https://www.sozcu.com.tr/550-yillik-doga-harikasi-bir-anda-coktu-p368177",
+      "tarih": "2026-10-11T16:23:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "dd70ef5fbaca",
       "baslik": "Fransa bitti, sıra İtalya’da mı? Avrupa’da yeni borç kabusu",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-09-21T07:15:04+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "47e41543d01c",
-      "baslik": "Fon soruşturmasında dikkat çeken para trafiği: İki ayrı hesaptan İsviçre'ye milyonluk transfer",
-      "ozet": "Fon soruşturmasında dikkat çeken para trafiği: İki ayrı hesaptan İsviçre'ye milyonluk transfer",
-      "url": "https://www.sozcu.com.tr/milyonlarca-euroluk-transferler-p359975",
-      "tarih": "2026-09-20T17:33:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e0f9594a6532",
-      "baslik": "Forex ağının perde arkası: Yurt dışından 'data', kripto hesapları ve elden maaş iddiası",
-      "ozet": "Forex ağının perde arkası: Yurt dışından 'data', kripto hesapları ve elden maaş iddiası",
-      "url": "https://www.sozcu.com.tr/forex-aginin-perde-arkasi-p359971",
-      "tarih": "2026-09-20T16:37:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "748b29ce73c4",
-      "baslik": "Fenerbahçe resital sundu! Tarihin en farklısı",
-      "ozet": "Fenerbahçe resital sundu! Tarihin en farklısı",
-      "url": "https://www.sozcu.com.tr/fenerbahce-eyupsporu-8-golle-gecti-p359969",
-      "tarih": "2026-09-20T16:26:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
