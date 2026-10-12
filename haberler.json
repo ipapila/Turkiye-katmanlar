@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-11T21:19:02.780991+00:00",
+    "guncelleme": "2026-10-12T10:03:09.168534+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6609,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6612,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "a2a825f9c83d",
+      "baslik": "Barcelona'nın Türkçe hesabını Galatasaraylılar bastı! Paylaşımlara yorum yağdı",
+      "ozet": "Barcelona'nın Türkçe hesabını Galatasaraylılar bastı! Paylaşımlara yorum yağdı",
+      "url": "https://www.sozcu.com.tr/barcelonanin-turkce-hesabini-galatasaraylilar-basti-paylasimlara-yorum-yagdi-p368395",
+      "tarih": "2026-10-12T09:59:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "27bdef461c0a",
+      "baslik": "Felaketlerin bitmediği ülkede 'sel geçirmez' çelik köprü böyle yıkıldı",
+      "ozet": "Felaketlerin bitmediği ülkede 'sel geçirmez' çelik köprü böyle yıkıldı",
+      "url": "https://www.sozcu.com.tr/felaketlerin-bitmedigi-ulkede-sel-gecirmez-celik-kopru-boyle-yikildi-p368396",
+      "tarih": "2026-10-12T09:51:47+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "133034adfb10",
+      "baslik": "AB COP31’e Emisyon Azaltım Paketi Sunacak",
+      "ozet": "COP31 İklim Zirvesi’ne sayılı günler kala Avrupa Birliği (AB), küresel çapta emisyon azaltımını hızlandırmayı hedefleyen yeni bir paketi, zirvede ülkelere sunmaya hazırlanıyor. AB, gelecek ay Antalya’nın ev sahipliği yapacağı COP31 iklim zirvesinde gezegeni ısıtan seragazı emisyo",
+      "url": "https://www.iklimhaber.org/ab-cop31e-emisyon-azaltim-paketi-sunacak/",
+      "tarih": "2026-10-12T09:40:53+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1fc792b4a071",
+      "baslik": "Burası Türkiye, iki şeritli yolu tamamen kapattılar: Dev sürünün görsel şöleni havadan görüntülendi",
+      "ozet": "Burası Türkiye, iki şeritli yolu tamamen kapattılar: Dev sürünün görsel şöleni havadan görüntülendi",
+      "url": "https://www.sozcu.com.tr/iki-seritli-yolu-tamamen-kapattilar-dev-surunun-gorsel-soleni-havadan-goruntulendi-p368351",
+      "tarih": "2026-10-12T08:35:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fb156447331b",
+      "baslik": "Fon krizinin sorumlusu kim? Vatandaşın okları tek bir adresi işaret ediyor",
+      "ozet": "Fon krizinin sorumlusu kim? Vatandaşın okları tek bir adresi işaret ediyor",
+      "url": "https://www.sozcu.com.tr/fon-krizinin-sorumlusu-kim-vatandasin-oklari-tek-bir-adresi-isaret-ediyor-p368363",
+      "tarih": "2026-10-12T08:33:43+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e92e47b00235",
+      "baslik": "COP31’e Bir Ay Kala, Greenpeace Türkiye’den İklim Mücadelesi için Temel Talepler",
+      "ozet": "“Zirveye Taşı” kampanyasına dikkat çekerek, herkesi iklim mücadelesi taleplerini ve mücadelelerini COP31’e taşımaya çağıran Greenpeace Türkiye, fosil yakıtlardan adil çıkışın gerçekleşmesi ve plastik atık ithalatının yasaklanması gerektiğini vurguladı. Antalya’da gerçekleşecek Bi",
+      "url": "https://www.iklimhaber.org/cop31e-bir-ay-kala-greenpeace-turkiyeden-iklim-mucadelesi-icin-temel-talepler/",
+      "tarih": "2026-10-12T08:31:26+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7880ac88d2e9",
+      "baslik": "Elektrik Hatlarındaki Kuş Ölümlerine Karşı Ortak Çağrı",
+      "ozet": "Türkiye’nin farklı noktalarında elektrik hatları nedeniyle yaşanan kuş ölümlerinin ardından WWF-Türkiye, Doğa Derneği, Eko Alan ve Kuş Kolektifi öncülüğünde hazırlanan ve 70’i aşkın kurumun destek verdiği açık çağrıyla; kuş ölümlerinin önlenmesi için riskli elektrik hatlarında ac",
+      "url": "https://www.iklimhaber.org/elektrik-hatlarindaki-kus-olumlerine-karsi-ortak-cagri/",
+      "tarih": "2026-10-12T07:00:15+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d0d8640e645f",
+      "baslik": "Antalya Finike'de petrol ve doğal gaz arama alarmı - Enerji Günlüğü",
+      "ozet": "Antalya Finike'de petrol ve doğal gaz arama alarmı Enerji Günlüğü",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWN6eWZhODVLUFJpZG1UNFlFMHRjMGZ0WGg0dXQxcnFBNTdFZDZXVnE4UEl3RjZ3d3hPLUlGeUtBTzVPMGRxZDllcUJjRDNaMjZWTnlZVkEyMGphT2Q0bXFmcnlFenpvZExrX2ZXSnRrWVhQUHZHa2hma0tNdkhxS0t2WnRDbndTbWtLWFFZb1BEeGcwTTRzZHpOOHdhOUVxQ19PUHJ3OGgwWm5yZkRGOVNPMnh0Z9IBtgFBVV95cUxPeWN6eWZhODVLUFJpZG1UNFlFMHRjMGZ0WGg0dXQxcnFBNTdFZDZXVnE4UEl3RjZ3d3hPLUlGeUtBTzVPMGRxZDllcUJjRDNaMjZWTnlZVkEyMGphT2Q0bXFmcnlFenpvZExrX2ZXSnRrWVhQUHZHa2hma0tNdkhxS0t2WnRDbndTbWtLWFFZb1BEeGcwTTRzZHpOOHdhOUVxQ19PUHJ3OGgwWm5yZkRGOVNPMnh0Zw?oc=5",
+      "tarih": "2026-10-11T20:29:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "caede2737768",
       "baslik": "Dövmelerde görünmezlik dönemi resmen başladı",
@@ -1929,86 +2009,6 @@
       "tarih": "2026-09-22T07:13:48+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ac644682ef18",
-      "baslik": "Piyasalarda teknoloji hisselerindeki yükseliş ve diplomatisi etkisi",
-      "ozet": "Piyasalarda teknoloji hisselerindeki yükseliş ve diplomatisi etkisi",
-      "url": "https://www.sozcu.com.tr/piyasalarda-teknoloji-hisselerindeki-yukselis-ve-diplomatisi-etkisi-p362410",
-      "tarih": "2026-09-22T06:19:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5ecf14c080a8",
-      "baslik": "Deniz Göktaş'a destek veren imama soruşturma",
-      "ozet": "Deniz Göktaş'a destek veren imama soruşturma",
-      "url": "https://www.sozcu.com.tr/deniz-goktas-a-destek-veren-imama-sorusturma-p362399",
-      "tarih": "2026-09-22T05:52:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ba19c84b2376",
-      "baslik": "Bursa'da kural ihlali kaza yaptırdı - turkhaber.com",
-      "ozet": "Bursa'da kural ihlali kaza yaptırdı turkhaber.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUl0bUJKSkFWQ0xWZHA1aXhvcUFMalVrRUM1S0EtNFdmWVBmUDVTbmxYcGh1YmZucGFnRzVfMUpSWEtQRVpfMjFfVmI2OG9UUXlJRTJpVl9kdS1ITWJaUzRXWHppckc4MU9MdkdoeVhsSjdBWGlSRlNrNE55cVdhZV92VzdSY0U?oc=5",
-      "tarih": "2026-09-22T05:12:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9a10d535fa79",
-      "baslik": "Hanoi, arazi, inşaat ve çevre yönetmeliklerini ihlal eden hurda metal tesislerinin faaliyetlerinin durdurulmasını ve yerlerinin değiştirilmesini emretti. - Vietnam.vn",
-      "ozet": "Hanoi, arazi, inşaat ve çevre yönetmeliklerini ihlal eden hurda metal tesislerinin faaliyetlerinin durdurulmasını ve yerlerinin değiştirilmesini emretti. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHQ4LUZFdXpCRF9UR1FOWG9PY3hxelp1am54eGFndng4RmdFZ056YVpsdEV2ZXNCWk9BMXFpZDdjeVZYYzVPVXRINnozRVNmR2Q1dHVieFEtaTU3U1VkMk1QVTducmIteUhvOUZkSU5uUVh5U1A3UW9oWFBjX1ZtZGZzdzJCWXkwWERNUF9OeXFaTks4Qm1rdWtCN1pPV0c4b3RtbWE0c0FxS1RMZmRlQzlZVQ?oc=5",
-      "tarih": "2026-09-22T03:52:47+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "311cf2e4e36a",
-      "baslik": "47 yılın ardından rekor seviyeye ulaştı: Sel ve fırtına riski giderek büyüyor",
-      "ozet": "47 yılın ardından rekor seviyeye ulaştı: Sel ve fırtına riski giderek büyüyor",
-      "url": "https://www.sozcu.com.tr/47-yilin-ardindan-rekor-seviyeye-ulasti-sel-ve-firtina-riski-giderek-buyuyor-p362258",
-      "tarih": "2026-09-21T14:33:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3a05d2443525",
-      "baslik": "Gezegen Savaş, Yapay Zeka ve İklim Şoklarıyla Mücadele Ederken Dünya Liderleri BM’de Bir Araya Geliyor",
-      "ozet": "Küresel çapta savaşların ve sert bölünmelerin gölgesi altında dünya liderleri  bu hafta Birleşmiş Milletler’de bir araya geliyor. İklim şokları ve yükselen fiyatlar yüz milyonlarca insan için hayatı halihazırda çok daha zorlaştırırken, kontrolden çıkan yapay zekanın insanlığı teh",
-      "url": "https://www.iklimhaber.org/gezegen-savas-yapay-zeka-ve-iklim-soklariyla-mucadele-ederken-dunya-liderleri-bmde-bir-araya-geliyor/",
-      "tarih": "2026-09-21T10:06:32+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "65b5556fd734",
-      "baslik": "Fransa ve Yunanistan Akdeniz'de Türkiye'yi karşısına almaya hazırlanıyor",
-      "ozet": "Fransa ve Yunanistan Akdeniz'de Türkiye'yi karşısına almaya hazırlanıyor",
-      "url": "https://www.sozcu.com.tr/fransa-ve-yunanistan-akdeniz-de-turkiye-yi-karsisina-almaya-hazirlaniyor-p362127",
-      "tarih": "2026-09-21T08:23:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c9382fd235e1",
-      "baslik": "Gece saatlerinde denize açılan balıkçılar 8 saatte servet sahibi oldu",
-      "ozet": "Gece saatlerinde denize açılan balıkçılar 8 saatte servet sahibi oldu",
-      "url": "https://www.sozcu.com.tr/gece-saatlerinde-denize-acilan-balikcilar-8-saatte-servet-sahibi-oldu-p362122",
-      "tarih": "2026-09-21T08:10:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -94536,6 +94536,48 @@
       "ozet": "İstanbul'da hastanede yangın! Hastalar tahliye edildi",
       "lat": 40.9129,
       "lng": 29.067,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d0d8640e645f",
+      "baslik": "Antalya Finike'de petrol ve doğal gaz arama alarmı - Enerji Günlüğü",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "12.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWN6eWZhODVLUFJpZG1UNFlFMHRjMGZ0WGg0dXQxcnFBNTdFZDZXVnE4UEl3RjZ3d3hPLUlGeUtBTzVPMGRxZDllcUJjRDNaMjZWTnlZVkEyMGphT2Q0bXFmcnlFenpvZExrX2ZXSnRrWVhQUHZHa2hma0tNdkhxS0t2WnRDbndTbWtLWFFZb1BEeGcwTTRzZHpOOHdhOUVxQ19PUHJ3OGgwWm5yZkRGOVNPMnh0Z9IBtgFBVV95cUxPeWN6eWZhODVLUFJpZG1UNFlFMHRjMGZ0WGg0dXQxcnFBNTdFZDZXVnE4UEl3RjZ3d3hPLUlGeUtBTzVPMGRxZDllcUJjRDNaMjZWTnlZVkEyMGphT2Q0bXFmcnlFenpvZExrX2ZXSnRrWVhQUHZHa2hma0tNdkhxS0t2WnRDbndTbWtLWFFZb1BEeGcwTTRzZHpOOHdhOUVxQ19PUHJ3OGgwWm5yZkRGOVNPMnh0Zw?oc=5",
+      "ozet": "Antalya Finike'de petrol ve doğal gaz arama alarmı Enerji Günlüğü",
+      "lat": 36.8142,
+      "lng": 30.7559,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-133034adfb10",
+      "baslik": "AB COP31’e Emisyon Azaltım Paketi Sunacak",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "12.10.2026",
+      "url": "https://www.iklimhaber.org/ab-cop31e-emisyon-azaltim-paketi-sunacak/",
+      "ozet": "COP31 İklim Zirvesi’ne sayılı günler kala Avrupa Birliği (AB), küresel çapta emisyon azaltımını hızlandırmayı hedefleyen yeni bir paketi, zirvede ülkelere sunmaya hazırlanıyor. AB, gelecek ay Antalya’nın ev sahipliği yapacağı COP31 iklim zirvesinde gezegeni ısıtan seragazı emisyo",
+      "lat": 36.8506,
+      "lng": 30.6648,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e92e47b00235",
+      "baslik": "COP31’e Bir Ay Kala, Greenpeace Türkiye’den İklim Mücadelesi için Temel Talepler",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "12.10.2026",
+      "url": "https://www.iklimhaber.org/cop31e-bir-ay-kala-greenpeace-turkiyeden-iklim-mucadelesi-icin-temel-talepler/",
+      "ozet": "“Zirveye Taşı” kampanyasına dikkat çekerek, herkesi iklim mücadelesi taleplerini ve mücadelelerini COP31’e taşımaya çağıran Greenpeace Türkiye, fosil yakıtlardan adil çıkışın gerçekleşmesi ve plastik atık ithalatının yasaklanması gerektiğini vurguladı. Antalya’da gerçekleşecek Bi",
+      "lat": 36.7918,
+      "lng": 30.6079,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

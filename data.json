@@ -120122,5 +120122,62 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-hastanede-yangin-hastalar-tahliye-ediliyor-p367930"
+  },
+  {
+    "id": "tarayici-d0d8640e645f",
+    "tip": "Ekolojik İhlal",
+    "ad": "Antalya Finike'de petrol ve doğal gaz arama alarmı - Enerji Günlüğü",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya Finike'de petrol ve doğal gaz arama alarmı Enerji Günlüğü",
+    "koordinatlar": {
+      "lat": 36.8142,
+      "lng": 30.7559
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "12.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWN6eWZhODVLUFJpZG1UNFlFMHRjMGZ0WGg0dXQxcnFBNTdFZDZXVnE4UEl3RjZ3d3hPLUlGeUtBTzVPMGRxZDllcUJjRDNaMjZWTnlZVkEyMGphT2Q0bXFmcnlFenpvZExrX2ZXSnRrWVhQUHZHa2hma0tNdkhxS0t2WnRDbndTbWtLWFFZb1BEeGcwTTRzZHpOOHdhOUVxQ19PUHJ3OGgwWm5yZkRGOVNPMnh0Z9IBtgFBVV95cUxPeWN6eWZhODVLUFJpZG1UNFlFMHRjMGZ0WGg0dXQxcnFBNTdFZDZXVnE4UEl3RjZ3d3hPLUlGeUtBTzVPMGRxZDllcUJjRDNaMjZWTnlZVkEyMGphT2Q0bXFmcnlFenpvZExrX2ZXSnRrWVhQUHZHa2hma0tNdkhxS0t2WnRDbndTbWtLWFFZb1BEeGcwTTRzZHpOOHdhOUVxQ19PUHJ3OGgwWm5yZkRGOVNPMnh0Zw?oc=5"
+  },
+  {
+    "id": "tarayici-133034adfb10",
+    "tip": "Ekolojik İhlal",
+    "ad": "AB COP31’e Emisyon Azaltım Paketi Sunacak",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "COP31 İklim Zirvesi’ne sayılı günler kala Avrupa Birliği (AB), küresel çapta emisyon azaltımını hızlandırmayı hedefleyen yeni bir paketi, zirvede ülkelere sunmaya hazırlanıyor. AB, gelecek ay Antalya’nın ev sahipliği yapacağı COP31 iklim zirvesinde gezegeni ısıtan seragazı emisyo",
+    "koordinatlar": {
+      "lat": 36.8506,
+      "lng": 30.6648
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "12.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/ab-cop31e-emisyon-azaltim-paketi-sunacak/"
+  },
+  {
+    "id": "tarayici-e92e47b00235",
+    "tip": "Ekolojik İhlal",
+    "ad": "COP31’e Bir Ay Kala, Greenpeace Türkiye’den İklim Mücadelesi için Temel Talepler",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "“Zirveye Taşı” kampanyasına dikkat çekerek, herkesi iklim mücadelesi taleplerini ve mücadelelerini COP31’e taşımaya çağıran Greenpeace Türkiye, fosil yakıtlardan adil çıkışın gerçekleşmesi ve plastik atık ithalatının yasaklanması gerektiğini vurguladı. Antalya’da gerçekleşecek Bi",
+    "koordinatlar": {
+      "lat": 36.7918,
+      "lng": 30.6079
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "12.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31e-bir-ay-kala-greenpeace-turkiyeden-iklim-mucadelesi-icin-temel-talepler/"
   }
 ]
