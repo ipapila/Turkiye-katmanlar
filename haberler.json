@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-12T10:03:09.168534+00:00",
+    "guncelleme": "2026-10-12T20:40:25.472483+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6612,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "de4ddec09754",
+      "baslik": "Bir zamanlar Süper Lig'de fırtına gibi esiyordu! 72 yıllık köklü kulüp resmen satıldı",
+      "ozet": "Bir zamanlar Süper Lig'de fırtına gibi esiyordu! 72 yıllık köklü kulüp resmen satıldı",
+      "url": "https://www.sozcu.com.tr/bir-zamanlar-super-lig-de-firtina-gibi-esiyordu-72-yillik-koklu-kulup-resmen-satildi-p368537",
+      "tarih": "2026-10-12T19:37:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bf623148e8ab",
+      "baslik": "AKP'li vekil Cemil Tugay görüşmesinin detaylarını anlattı: Erdoğan'ın sözlerine mest olmuş",
+      "ozet": "AKP'li vekil Cemil Tugay görüşmesinin detaylarını anlattı: Erdoğan'ın sözlerine mest olmuş",
+      "url": "https://www.sozcu.com.tr/sebnem-bursali-cemil-tugy-erdogan-gorusmesinin-detaylarini-anlatti-p368530",
+      "tarih": "2026-10-12T18:33:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a2a825f9c83d",
       "baslik": "Barcelona'nın Türkçe hesabını Galatasaraylılar bastı! Paylaşımlara yorum yağdı",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-09-22T07:38:13+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6b23297dea69",
-      "baslik": "COP31 Yolunda Dijitalleşmenin Önemi Artıyor",
-      "ozet": "Kasım ayında Türkiye’de yapılacak COP31’de dijital altyapıların akıllı şebekeler, emisyon takibi, yapay zeka destekli enerji yönetimi ve döngüsel ekonomi süreçlerinin entegrasyonunda daha fazla rol üstlenmesi bekleniyor. Dijitalleşme, bu yönüyle iklim taahhütlerinin daha şeffaf, ",
-      "url": "https://www.iklimhaber.org/cop31-yolunda-dijitallesmenin-onemi-artiyor/",
-      "tarih": "2026-09-22T07:21:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "779789af1b04",
-      "baslik": "Makroekonomik Tabloda Enerji Güvenliği Ön Sırada",
-      "ozet": "Zorlu ve hâlâ direnç gösteren makroekonomik görünüm tablosunu ortaya koyan yeni bir rapora göre, küresel büyümenin 2026’da %2,5’e gerilemesinin ardından, 2027’de %2,9’a toparlanması bekleniyor. Enerji sektörüne bakıldığında yükselen petrol fiyatları, özellikle ABD’li petrol ve do",
-      "url": "https://www.iklimhaber.org/makroekonomik-tabloda-enerji-guvenligi-on-sirada/",
-      "tarih": "2026-09-22T07:13:48+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
