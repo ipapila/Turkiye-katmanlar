@@ -120179,5 +120179,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31e-bir-ay-kala-greenpeace-turkiyeden-iklim-mucadelesi-icin-temel-talepler/"
+  },
+  {
+    "id": "tarayici-9ffb2e5bded7",
+    "tip": "Ekolojik İhlal",
+    "ad": "COP31’in Ev Sahibi Türkiye’de Çevre Aktivistleri Yargı Baskısıyla Karşı Karşıya",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya’daki COP31 öncesinde İnsan Hakları İzleme Örgütü tarafından yapılan yeni çalışma, çevre savunucularının, çevreye verilen zararı izledikleri veya topraklarını ve çevrelerini korumaya çalıştıkları için suçlamalar, idari para cezaları ve başka hukuki baskılarla karşı karşıya",
+    "koordinatlar": {
+      "lat": 36.8103,
+      "lng": 30.6919
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "14.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31in-ev-sahibi-turkiyede-cevre-aktivistleri-yargi-baskisiyla-karsi-karsiya/"
   }
 ]
