@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-13T18:43:17.883162+00:00",
+    "guncelleme": "2026-10-14T08:15:35.716766+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6612,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "991378200aeb",
+      "baslik": "Yeni Rapor: Enerji Verimliliğindeki İlerleme Hedeflenen Seviyenin Gerisinde",
+      "ozet": "Yenilenebilir enerji kapasitesindeki rekor büyümeye dikkat çekilen IRENA raporunda, yüzyılın ortasında elektrik üretiminin %80’inden fazlasının güneş ve rüzgardan sağlanabileceği belirtildi. Küresel enerji dönüşümünün 2050’ye kadar 46 trilyon dolarlık ekonomik kazanç yaratması be",
+      "url": "https://www.iklimhaber.org/yeni-rapor-enerji-verimliligindeki-ilerleme-hedeflenen-seviyenin-gerisinde/",
+      "tarih": "2026-10-14T08:08:18+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "eea638533f11",
+      "baslik": "Türkiye’ye Çağrı: “Çevre Savunucularının Kriminalize Edilmesine Son Verin”",
+      "ozet": "Uluslararası Af Örgütü’nün başlattığı yeni kampanya doğrultusunda Türkiye’ye çevre savunucularının kriminalize edilmesine son verilmesi ve kömür madenciliği ve kömürlü termik santrallardan etkilenen toplulukların, sağlık ve çevreyle ilgili zararlardan, yerinden edilme ve diğer in",
+      "url": "https://www.iklimhaber.org/turkiyeye-cagri-cevre-savunucularinin-kriminalize-edilmesine-son-verin/",
+      "tarih": "2026-10-14T08:01:38+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7bf7e070694e",
+      "baslik": "BAĞ-KUR borcunu ödemek için yarışmaya katıldı: Bankanın milyonluk teklifini kabul etti",
+      "ozet": "BAĞ-KUR borcunu ödemek için yarışmaya katıldı: Bankanın milyonluk teklifini kabul etti",
+      "url": "https://www.sozcu.com.tr/bag-kur-borcunu-odemek-icin-yarismaya-katildi-bankanin-milyonluk-teklifini-kabul-etti-p369032",
+      "tarih": "2026-10-14T07:58:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "268a4d3a8b6d",
+      "baslik": "Deniz tabanında dev petrol katmanı bulunca komşuda üretmeye başladılar",
+      "ozet": "Deniz tabanında dev petrol katmanı bulunca komşuda üretmeye başladılar",
+      "url": "https://www.sozcu.com.tr/deniz-tabaninda-dev-petrol-kamani-bulunca-komsuda-uretmeye-basladilar-p369018",
+      "tarih": "2026-10-14T07:36:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0508bcc53328",
       "baslik": "Selçuk Yöntem'den yıllar sonra gelen Kim Milyoner Olmak İster itirafı",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-09-23T09:19:06+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6fee76f664bb",
-      "baslik": "Guterres: “Petrol Devleri Atmosferi ‘Açık bir Foseptik’ Gibi Kullanıyor”",
-      "ozet": "Yakın zamanda görevinden ayrılacak olan BM Genel Sekreteri Guterres, iklim krizine neden olanların hasarı telafi etmek adına çok daha fazlasını yapmak zorunda olduğunu söylerken, “Onlardan hesap sormak için çalışan liderlere, şehirlere, sivil topluma ve vatandaşlara gelince; sizl",
-      "url": "https://www.iklimhaber.org/guterres-petrol-devleri-atmosferi-acik-bir-foseptik-gibi-kullaniyor/",
-      "tarih": "2026-09-23T08:41:39+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "85362934fdd4",
-      "baslik": "Evlerini kaybedip tarıma başladılar: Şimdi yılda 34 milyon lira kazanıyorlar",
-      "ozet": "Evlerini kaybedip tarıma başladılar: Şimdi yılda 34 milyon lira kazanıyorlar",
-      "url": "https://www.sozcu.com.tr/evlerini-kaybedip-tarima-basladilar-simdi-yilda-34-milyon-lira-kazaniyorlar-p362765",
-      "tarih": "2026-09-23T08:08:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ac68f2bfea37",
-      "baslik": "IEA: Elektrifikasyon Hanehalkı Enerji Faturalarını %15 Düşürebilir",
-      "ozet": "IEA’nın yeni raporuna göre “2035’e kadar %35” hedefine ulaşılması, küresel enerji ithalat faturalarını yılda 400 milyar dolardan fazla azaltabilir ve hanehalkı enerji faturalarını %15 oranında düşürebilir.  Uluslararası Enerji Ajansı’nın (IEA) yeni yayımlanan raporu, COP31 Başkan",
-      "url": "https://www.iklimhaber.org/iea-elektrifikasyon-hanehalki-enerji-faturalarini-%15-dusurebilir/",
-      "tarih": "2026-09-23T07:27:47+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "25c992a6d6a2",
-      "baslik": "Borsa güne düşüşle başladı - 23 Eylül 2026",
-      "ozet": "Borsa güne düşüşle başladı - 23 Eylül 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-23-eylul-2026-p362739",
-      "tarih": "2026-09-23T07:03:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
