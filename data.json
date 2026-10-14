@@ -120198,5 +120198,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31in-ev-sahibi-turkiyede-cevre-aktivistleri-yargi-baskisiyla-karsi-karsiya/"
+  },
+  {
+    "id": "tarayici-41b231f541ad",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
+    "koordinatlar": {
+      "lat": 40.9348,
+      "lng": 28.9028
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "14.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-vatandaslar-mahsur-kaldi-sel-sularindan-kepceyle-kurtarildilar-p369213"
   }
 ]

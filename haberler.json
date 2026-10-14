@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-10-14T14:14:22.069631+00:00",
+    "guncelleme": "2026-10-14T19:06:23.022753+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6613,
+    "harita_kayit_sayisi": 6614,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "41b231f541ad",
+      "baslik": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
+      "ozet": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
+      "url": "https://www.sozcu.com.tr/istanbul-da-vatandaslar-mahsur-kaldi-sel-sularindan-kepceyle-kurtarildilar-p369213",
+      "tarih": "2026-10-14T18:43:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fd11a6010bba",
+      "baslik": "Sel suları araçları sürükledi, vatandaşlar böyle canını kurtardı",
+      "ozet": "Sel suları araçları sürükledi, vatandaşlar böyle canını kurtardı",
+      "url": "https://www.sozcu.com.tr/sel-sulari-araclari-surukledi-vatandaslar-boyle-canini-kurtardi-p369207",
+      "tarih": "2026-10-14T17:50:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dfaf3b7f256f",
+      "baslik": "Denizin dibindeki gemi 82 yıldır tehlike saçıyor: İçinde 1.400 ton patlayıcı var",
+      "ozet": "Denizin dibindeki gemi 82 yıldır tehlike saçıyor: İçinde 1.400 ton patlayıcı var",
+      "url": "https://www.sozcu.com.tr/denizin-dibindeki-gemi-82-yildir-tehlike-saciyor-icinde-1-400-ton-patlayici-var-p369206",
+      "tarih": "2026-10-14T17:28:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "085159e8c9f8",
       "baslik": "Azerbaycan'daki toplantıya İsrail Cumhurbaşkanı katıldı, Erdoğan Türkiye'de kaldı",
@@ -1977,36 +2007,6 @@
       "ozet": "İklim Ağı Türkiye’nin COP31 Başkanlığı kapsamında ortaya koyduğu elektrifikasyon hedefinin gerçek bir iklim liderliğine dönüşmesi için ihtiyaç duyulanın daha fazla kömür değil; temiz, esnek ve yenilenebilir bir enerji sistemi olduğunu vurguladı. 9-20 Kasım tarihleri arasında Anta",
       "url": "https://www.iklimhaber.org/iklim-agi-elektrifikasyon-ile-iklim-hedeflerine-ulasmak-icin-temiz-enerjiye-ihtiyac-var/",
       "tarih": "2026-09-24T09:27:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fa648bab5dca",
-      "baslik": "Yapay Zeka COP31 Gündeminde: İklime Zarar mı Verecek, Fayda mı Sağlayacak?",
-      "ozet": "Yapay zekanın iklim üzerindeki etkisi tartışılırken gözler çoğunlukla veri merkezlerinin hızla artan elektrik tüketimine çevriliyor. Konuyu önceliklendirdiğini açıklayan COP31 Başkanı Türkiye de, 2026 Antalya Yapay Zeka Taahhüdü’nün hazırlandığını duyurdu. Ancak yeni bir araştırm",
-      "url": "https://www.iklimhaber.org/yapay-zeka-cop31-gundeminde-iklime-zarar-mi-verecek-fayda-mi-saglayacak/",
-      "tarih": "2026-09-24T07:52:37+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "054243ebd356",
-      "baslik": "Özel iddia etmiş, Erdoğan 'uyduruyor' demişti... ABD ile Boeing anlaşması kesinleşti",
-      "ozet": "Özel iddia etmiş, Erdoğan 'uyduruyor' demişti... ABD ile Boeing anlaşması kesinleşti",
-      "url": "https://www.sozcu.com.tr/ozel-iddia-etmis-erdogan-uyduruyor-demisti-abd-ile-boeing-anlasmasi-kesinlesti-p363071",
-      "tarih": "2026-09-24T07:37:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "591d348779da",
-      "baslik": "Erdoğan BM’deki Konuşmasında Fosil Yakıtlara Değinmedi",
-      "ozet": "BM Genel Kurulu’ndaki konuşmasında COP31’de uygulamaya öncelik verme sözü veren Erdoğan fosil yakıtlardan söz etmedi. İklim STK’ları ise Türkiye’nin bir an önce başta kömür olmak üzere fosil yakıtlardan çıkış planını duyurması ve zirveye liderlik etmesi gerektiğini savunuyor. Bu ",
-      "url": "https://www.iklimhaber.org/erdogan-bmdeki-konusmasinda-fosil-yakitlara-deginmedi/",
-      "tarih": "2026-09-24T07:35:40+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -94592,6 +94592,20 @@
       "ozet": "Antalya’daki COP31 öncesinde İnsan Hakları İzleme Örgütü tarafından yapılan yeni çalışma, çevre savunucularının, çevreye verilen zararı izledikleri veya topraklarını ve çevrelerini korumaya çalıştıkları için suçlamalar, idari para cezaları ve başka hukuki baskılarla karşı karşıya",
       "lat": 36.8103,
       "lng": 30.6919,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-41b231f541ad",
+      "baslik": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "14.10.2026",
+      "url": "https://www.sozcu.com.tr/istanbul-da-vatandaslar-mahsur-kaldi-sel-sularindan-kepceyle-kurtarildilar-p369213",
+      "ozet": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
+      "lat": 40.9348,
+      "lng": 28.9028,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
