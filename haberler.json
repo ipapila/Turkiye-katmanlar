@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-14T19:06:23.022753+00:00",
+    "guncelleme": "2026-10-15T07:53:09.658141+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6614,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6617,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "1761723d666a",
+      "baslik": "İstanbul’u Sel Vurdu: İki Can Kaybı",
+      "ozet": "İstanbul’da etkili olan kuvvetli yağış kentte hayatı olumsuz etkiledi. Birçok yerde yollar göle döndü, araçlar suya gömüldü, ev ve iş yerlerini su bastı. Sağanak nedeniyle iki can kaybının yaşandığı kentte, eğitime bir gün ara verildi. Kentin bazı noktalarında metrekareye düşen y",
+      "url": "https://www.iklimhaber.org/istanbulu-sel-vurdu-iki-can-kaybi/",
+      "tarih": "2026-10-15T07:22:12+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "56c56d7d2c70",
+      "baslik": "Sanayide düşüş, hizmette yükseliş: Türkiye'de çalışan sayısı geriledi",
+      "ozet": "Sanayide düşüş, hizmette yükseliş: Türkiye'de çalışan sayısı geriledi",
+      "url": "https://www.sozcu.com.tr/sanayide-dusus-hizmette-yukselis-turkiyede-calisan-sayisi-geriledi-p369352",
+      "tarih": "2026-10-15T07:16:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "83660cc50759",
+      "baslik": "Türkiye’nin “Sağlık ve İklim” Karnesi Alarm Veriyor",
+      "ozet": "Küresel İklim ve Sağlık İttifakı’nın (GCHA) yayımladığı raporda, Türkiye ulusal iklim planlarına sağlığı dahil etme kriterinde 14 puanla, 132 ülke arasında 47. sırada yer aldı. Analiz özellikle yüksek emisyonlara sahip ülkelerin karnesinin zayıf olduğunu ortaya koyuyor. İklim kri",
+      "url": "https://www.iklimhaber.org/turkiyenin-saglik-ve-iklim-karnesi-alarm-veriyor/",
+      "tarih": "2026-10-15T07:11:22+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "71fccaa6e6f3",
+      "baslik": "Borsa güne düşüşle başladı - 15 Ekim 2026",
+      "ozet": "Borsa güne düşüşle başladı - 15 Ekim 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-15-ekim-2026-p369347",
+      "tarih": "2026-10-15T07:06:42+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b77432eb4d75",
+      "baslik": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
+      "ozet": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
+      "url": "https://www.sozcu.com.tr/istanbul-da-baraj-doluluk-orani-firladi-yuzde-100-e-cikan-baraj-var-p369337",
+      "tarih": "2026-10-15T07:02:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "713c3d80868e",
+      "baslik": "ABD'de enflasyon yükseldi: Piyasada satışlar hızlandı",
+      "ozet": "ABD'de enflasyon yükseldi: Piyasada satışlar hızlandı",
+      "url": "https://www.sozcu.com.tr/ab-de-enflasyon-yukseldi-piyasada-satislar-hizlandi-p369328",
+      "tarih": "2026-10-15T06:30:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "41b231f541ad",
       "baslik": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
@@ -69,6 +129,16 @@
       "tarih": "2026-10-14T10:39:18+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "781e4893525d",
+      "baslik": "Sinpaş COP31’de 'iklim destekçisi' oldu: Çevre savunucularından tepki - Bianet",
+      "ozet": "Sinpaş COP31’de 'iklim destekçisi' oldu: Çevre savunucularından tepki Bianet",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFFPeG9ENU1QTkQ0cEg4Rk5xQmtidWJfLVRxNVFSdkg1d2dZaVM4T19nakQ0b3pUNll1dnZmTzFFLTNwYUVKNkZrczFLYlgxNmVJbHp2dE5rRFZVcHpXYU1pMVZxSlQ2eU9rZ2tkemxIbkhVQlhWeWtzQThNaUdEMVNmbktVeDV0TGdkb3ozQUtxMDNScEpPTnZlYmdudw?oc=5",
+      "tarih": "2026-10-14T10:01:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -729,6 +799,16 @@
       "tarih": "2026-10-08T06:03:35+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ca6a3fb75b5d",
+      "baslik": "Murat Nehri üzerine 6’ncı baraj! - Yeni Yaşam Gazetesi",
+      "ozet": "Murat Nehri üzerine 6’ncı baraj! Yeni Yaşam Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IcWxLbU9KRDBFQXQ3SzFQYzZXUnItTW5GUHB1cTRhdEhwMVp0TnM3akczb1pUT2ZxNjVoaUlSSEJCSDlYeXduYWpyekMxTWI1VzNJODNqMEw2X09fMzUxak0xU0E1c1NFeTIybWNnMA?oc=5",
+      "tarih": "2026-10-07T20:01:17+00:00",
+      "kaynak": "Google News",
+      "kategori": "HES / RES / Baraj",
       "kaynak_turu": "rss"
     },
     {
@@ -1929,86 +2009,6 @@
       "tarih": "2026-09-25T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "32e22f8b7ca6",
-      "baslik": "Brent petrol 105 dolara yükseldi",
-      "ozet": "Brent petrol 105 dolara yükseldi",
-      "url": "https://www.sozcu.com.tr/brent-petrol-105-dolara-yukseldi-p363380",
-      "tarih": "2026-09-25T06:56:28+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dff05d641710",
-      "baslik": "Rahmi Koç'tan Beşiktaş'a dev destek! Borcun yarısını ödedi",
-      "ozet": "Rahmi Koç'tan Beşiktaş'a dev destek! Borcun yarısını ödedi",
-      "url": "https://www.sozcu.com.tr/rahmi-koc-tan-besiktas-a-dev-destek-borcun-yarisini-odedi-p363267",
-      "tarih": "2026-09-24T18:41:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "027273fbed8a",
-      "baslik": "50 yıl önce şehri terk edip ormana kaçtı: Öldüğünde gömülmek için bu reçeteyi bıraktı",
-      "ozet": "50 yıl önce şehri terk edip ormana kaçtı: Öldüğünde gömülmek için bu reçeteyi bıraktı",
-      "url": "https://www.sozcu.com.tr/50-yil-once-sehri-terk-edip-ormana-kacti-oldugunde-gomulmek-icin-bu-receteyi-birakti-p363214",
-      "tarih": "2026-09-24T13:48:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8425cd7bdb25",
-      "baslik": "İnsanları oyuncak gibi gören 4 devasa yaratık",
-      "ozet": "İnsanları oyuncak gibi gören 4 devasa yaratık",
-      "url": "https://www.sozcu.com.tr/insanlari-oyuncak-gibi-goren-4-devasa-yaratik-p363194",
-      "tarih": "2026-09-24T13:18:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0645820ec98a",
-      "baslik": "Putin'in gözünü kan bürüdü, CIA uyardı: Bu görüntüler yakında Akdeniz'de yaşanabilir",
-      "ozet": "Putin'in gözünü kan bürüdü, CIA uyardı: Bu görüntüler yakında Akdeniz'de yaşanabilir",
-      "url": "https://www.sozcu.com.tr/putin-in-gozunu-kan-burudu-cia-uyardi-akdeniz-ulkelerine-iha-saldirisi-geliyor-p363183",
-      "tarih": "2026-09-24T12:36:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b892fcf82470",
-      "baslik": "Bu tarihten sonra doğanlara ömür boyu sigara satılmayacak",
-      "ozet": "Bu tarihten sonra doğanlara ömür boyu sigara satılmayacak",
-      "url": "https://www.sozcu.com.tr/bu-tarihten-sonra-doganlara-omur-boyu-sigara-satilmayacak-p363178",
-      "tarih": "2026-09-24T12:24:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0b4f08a0ed00",
-      "baslik": "Yabancılar bu hafta borsadan kaçtı",
-      "ozet": "Yabancılar bu hafta borsadan kaçtı",
-      "url": "https://www.sozcu.com.tr/yabancilar-bu-hafta-borsadan-kacti-p363170",
-      "tarih": "2026-09-24T12:01:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e5fcc2854b6e",
-      "baslik": "İklim Ağı: “Elektrifikasyon ile İklim Hedeflerine Ulaşmak için Temiz Enerjiye İhtiyaç Var”",
-      "ozet": "İklim Ağı Türkiye’nin COP31 Başkanlığı kapsamında ortaya koyduğu elektrifikasyon hedefinin gerçek bir iklim liderliğine dönüşmesi için ihtiyaç duyulanın daha fazla kömür değil; temiz, esnek ve yenilenebilir bir enerji sistemi olduğunu vurguladı. 9-20 Kasım tarihleri arasında Anta",
-      "url": "https://www.iklimhaber.org/iklim-agi-elektrifikasyon-ile-iklim-hedeflerine-ulasmak-icin-temiz-enerjiye-ihtiyac-var/",
-      "tarih": "2026-09-24T09:27:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -94606,6 +94606,48 @@
       "ozet": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
       "lat": 40.9348,
       "lng": 28.9028,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f6a87b73f327",
+      "baslik": "Mersin Limanı’nda 99. Geminin Çevre İhlali Pahalıya Patladı! - Akdeniz Gazetesi",
+      "konum": "Mersin",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "15.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQklhZnJoeWlFVlc0TlRJM2dhSFFtdjhvT1hINEhqLVQtVkZaWHh3RnRmT3F2SlEwbVlhY19NVG52TW1KbHd4ZmpFd3VLc3NzQTZQaDdNa1drREdITFJ0VEJ0UWtLdnlPeUJOYlM0QS1ESXNRdC1kTmNUWmREQkVNRFVpSHNaclJScjdJZThnbUppemM?oc=5",
+      "ozet": "Mersin Limanı’nda 99. Geminin Çevre İhlali Pahalıya Patladı! Akdeniz Gazetesi",
+      "lat": 36.847,
+      "lng": 34.6532,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-1761723d666a",
+      "baslik": "İstanbul’u Sel Vurdu: İki Can Kaybı",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "15.10.2026",
+      "url": "https://www.iklimhaber.org/istanbulu-sel-vurdu-iki-can-kaybi/",
+      "ozet": "İstanbul’da etkili olan kuvvetli yağış kentte hayatı olumsuz etkiledi. Birçok yerde yollar göle döndü, araçlar suya gömüldü, ev ve iş yerlerini su bastı. Sağanak nedeniyle iki can kaybının yaşandığı kentte, eğitime bir gün ara verildi. Kentin bazı noktalarında metrekareye düşen y",
+      "lat": 40.8969,
+      "lng": 28.8645,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b77432eb4d75",
+      "baslik": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "15.10.2026",
+      "url": "https://www.sozcu.com.tr/istanbul-da-baraj-doluluk-orani-firladi-yuzde-100-e-cikan-baraj-var-p369337",
+      "ozet": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
+      "lat": 40.9543,
+      "lng": 29.0855,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

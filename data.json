@@ -120217,5 +120217,62 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-vatandaslar-mahsur-kaldi-sel-sularindan-kepceyle-kurtarildilar-p369213"
+  },
+  {
+    "id": "tarayici-f6a87b73f327",
+    "tip": "Ekolojik İhlal",
+    "ad": "Mersin Limanı’nda 99. Geminin Çevre İhlali Pahalıya Patladı! - Akdeniz Gazetesi",
+    "il": "Mersin",
+    "ilce": "",
+    "aciklama": "Mersin Limanı’nda 99. Geminin Çevre İhlali Pahalıya Patladı! Akdeniz Gazetesi",
+    "koordinatlar": {
+      "lat": 36.847,
+      "lng": 34.6532
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "15.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQklhZnJoeWlFVlc0TlRJM2dhSFFtdjhvT1hINEhqLVQtVkZaWHh3RnRmT3F2SlEwbVlhY19NVG52TW1KbHd4ZmpFd3VLc3NzQTZQaDdNa1drREdITFJ0VEJ0UWtLdnlPeUJOYlM0QS1ESXNRdC1kTmNUWmREQkVNRFVpSHNaclJScjdJZThnbUppemM?oc=5"
+  },
+  {
+    "id": "tarayici-1761723d666a",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstanbul’u Sel Vurdu: İki Can Kaybı",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul’da etkili olan kuvvetli yağış kentte hayatı olumsuz etkiledi. Birçok yerde yollar göle döndü, araçlar suya gömüldü, ev ve iş yerlerini su bastı. Sağanak nedeniyle iki can kaybının yaşandığı kentte, eğitime bir gün ara verildi. Kentin bazı noktalarında metrekareye düşen y",
+    "koordinatlar": {
+      "lat": 40.8969,
+      "lng": 28.8645
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "15.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/istanbulu-sel-vurdu-iki-can-kaybi/"
+  },
+  {
+    "id": "tarayici-b77432eb4d75",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
+    "koordinatlar": {
+      "lat": 40.9543,
+      "lng": 29.0855
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "15.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-baraj-doluluk-orani-firladi-yuzde-100-e-cikan-baraj-var-p369337"
   }
 ]
