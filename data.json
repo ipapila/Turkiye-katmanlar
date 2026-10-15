@@ -120274,5 +120274,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-baraj-doluluk-orani-firladi-yuzde-100-e-cikan-baraj-var-p369337"
+  },
+  {
+    "id": "tarayici-fbf3f1e324f1",
+    "tip": "Ekolojik İhlal",
+    "ad": "Anamur Çevre Platformu’ndan Kumsal İhlali Tepkisi - Mersin Portal",
+    "il": "Mersin",
+    "ilce": "",
+    "aciklama": "Anamur Çevre Platformu’ndan Kumsal İhlali Tepkisi Mersin Portal",
+    "koordinatlar": {
+      "lat": 36.6929,
+      "lng": 34.5663
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "15.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTUhZYzB6X0ZYeEk1M0hqZFVWZUI0dHhFZlc1N2xHdTQzUFEyRGkxZHhackVJU1IyM0NPMzN2WnRqbjBfbFpTOFU3blpybXB4Z2daSkZHU0ZxVDFBbFdwSHlKdWp4REFoeEFQSTdQS1ZocC1SVEYzNHBoZUpoQUtnQkl1OA?oc=5"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-15T07:53:09.658141+00:00",
+    "guncelleme": "2026-10-15T13:49:30.370847+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6617,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "harita_kayit_sayisi": 6618,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "b62e1d278f1b",
+      "baslik": "Erdoğan'ın danışmanı \"büyük oranda netleşti\" dedi, seçim tarihini açıkladı",
+      "ozet": "Erdoğan'ın danışmanı \"büyük oranda netleşti\" dedi, seçim tarihini açıkladı",
+      "url": "https://www.sozcu.com.tr/erdogan-in-danismani-buyuk-oranda-netlesti-dedi-secim-tarihini-acikladi-p369499",
+      "tarih": "2026-10-15T13:22:09+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8b48d3b96c04",
+      "baslik": "İklim Finansmanından Fosil Yakıtlardan Çıkışa: COP31 Neler Vadediyor?",
+      "ozet": "COP31’de iklim finansmanı, fosil yakıtlardan çıkış yol haritası ile beraber en sancılı konuların başında geliyor. Marmara Üniversitesi Uluslararası İlişkiler Bölümü Öğretim Üyesi Prof. Dr. Semra Cerit Mazlum, iklim finansmanının gelişmekte olan ülkelerce müzakere masasında kaldır",
+      "url": "https://www.iklimhaber.org/iklim-finansmanindan-fosil-yakitlardan-cikisa-cop31-neler-vadediyor/",
+      "tarih": "2026-10-15T12:12:21+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "001ebc824bdb",
+      "baslik": "Balıkçılar denize 15 ton zeytinyağı dökmeye başladılar",
+      "ozet": "Balıkçılar denize 15 ton zeytinyağı dökmeye başladılar",
+      "url": "https://www.sozcu.com.tr/balikcilar-denize-15-ton-zeytinyagi-dokmeye-basladilar-p369493",
+      "tarih": "2026-10-15T12:03:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5487d446097e",
+      "baslik": "Bugünden itibaren 3 burcun hayatı sil baştan değişecek: Plüton resti çekti, devir değişiyor",
+      "ozet": "Bugünden itibaren 3 burcun hayatı sil baştan değişecek: Plüton resti çekti, devir değişiyor",
+      "url": "https://www.sozcu.com.tr/bugunden-itibaren-3-burcun-hayati-sil-bastan-degisecek-pluton-resti-cekti-devir-degisiyor-p369485",
+      "tarih": "2026-10-15T11:55:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1761723d666a",
       "baslik": "İstanbul’u Sel Vurdu: İki Can Kaybı",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-09-25T08:31:22+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1fee70dc58e5",
-      "baslik": "İklim İnkârcılığı-13: “Yapay Et Zorunlu Hale Gelecek”",
-      "ozet": "Dünya üzerinde hiçbir ülkede geleneksel hayvancılığı yasaklayan bir yasa yok. Tam tersine Türkiye ve İtalya gibi ülkelerde yapay et üretimi ve ithalatı yasak. Ancak bir gerçeğin de altını çizmek gerek, geleneksel hayvancılık küresel sera gazı emisyonlarının yaklaşık %11 ila %14.5",
-      "url": "https://www.iklimhaber.org/iklim-inkarciligi-13-yapay-et-zorunlu-hale-gelecek/",
-      "tarih": "2026-09-25T08:17:37+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0dfe8992f40e",
-      "baslik": "Türkiye Yeşil Taksonomisi Yönetmeliği Yürürlüğe Girdi",
-      "ozet": "Türkiye Yeşil Taksonomisi hangi yatırımların çevresel açıdan sürdürülebilir olduğunu belirlemede yol gösterici olacak. Yönetmelik kapsamında 6 çevresel hedef belirlendi. bir ekonomik faaliyetin “Yeşil Taksonomiye Uyumlu” olarak nitelendirilebilmesi için 3 şartı eş zamanlı sağlama",
-      "url": "https://www.iklimhaber.org/turkiye-yesil-taksonomisi-yonetmeligi-yururluge-girdi/",
-      "tarih": "2026-09-25T08:11:46+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "17ebd36acc63",
-      "baslik": "Borsa güne yatay başladı -25 Eylül 2026",
-      "ozet": "Borsa güne yatay başladı -25 Eylül 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-yatay-basladi-25-eylul-2026-p363383",
-      "tarih": "2026-09-25T07:05:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aff26681bb47",
-      "baslik": "Son dakika... Antalya'da orman yangını: Havadan ve karadan müdahale başladı! - Cumhuriyet",
-      "ozet": "Son dakika... Antalya'da orman yangını: Havadan ve karadan müdahale başladı! Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHpMdUoyRnhqTVhRaVh6ZnRKODNhT3BvNFZ5c2d5RW1CaFR3MXFObGZNS2M4b3VBQlJSNkw5My1rbXg1b3hqSnRXbWwxUkp6WV93Wkg0RFpXeElGc1pYTlUwd255X0xMRGxFT3ZZQnlBNUl4dGg3UjRyd0tyclVmbFU5M19IT2dpQnpRMzNfQlU4MU1PeEZCU3YxYWxxUV96c1ZhNkVRQzZ3VVVKd1BlZ3dUUl91aFNh?oc=5",
-      "tarih": "2026-09-25T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
       "kaynak_turu": "rss"
     }
   ],
@@ -94648,6 +94648,20 @@
       "ozet": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
       "lat": 40.9543,
       "lng": 29.0855,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-fbf3f1e324f1",
+      "baslik": "Anamur Çevre Platformu’ndan Kumsal İhlali Tepkisi - Mersin Portal",
+      "konum": "Mersin",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "15.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTUhZYzB6X0ZYeEk1M0hqZFVWZUI0dHhFZlc1N2xHdTQzUFEyRGkxZHhackVJU1IyM0NPMzN2WnRqbjBfbFpTOFU3blpybXB4Z2daSkZHU0ZxVDFBbFdwSHlKdWp4REFoeEFQSTdQS1ZocC1SVEYzNHBoZUpoQUtnQkl1OA?oc=5",
+      "ozet": "Anamur Çevre Platformu’ndan Kumsal İhlali Tepkisi Mersin Portal",
+      "lat": 36.6929,
+      "lng": 34.5663,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
