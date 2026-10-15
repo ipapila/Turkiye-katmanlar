@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-15T13:49:30.370847+00:00",
+    "guncelleme": "2026-10-15T18:48:08.979606+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6618,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "9f5097265088",
+      "baslik": "Kılıçdaroğlu il başkanlığından aldığı Gürsel Tekin'i koordinatör yaptı",
+      "ozet": "Kılıçdaroğlu il başkanlığından aldığı Gürsel Tekin'i koordinatör yaptı",
+      "url": "https://www.sozcu.com.tr/kilicdaroglu-il-baskanligindan-aldigi-gursel-tekin-i-koordinator-yapti-p369590",
+      "tarih": "2026-10-15T18:06:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ca283dd13f91",
+      "baslik": "Mahkemenin verdiği süre dolunca CHP yönetimi Gürsel Tekin'i görevden aldı",
+      "ozet": "Mahkemenin verdiği süre dolunca CHP yönetimi Gürsel Tekin'i görevden aldı",
+      "url": "https://www.sozcu.com.tr/kayyum-gursel-tekin-in-yerine-gelen-isim-belli-oldu-p369562",
+      "tarih": "2026-10-15T15:36:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b62e1d278f1b",
       "baslik": "Erdoğan'ın danışmanı \"büyük oranda netleşti\" dedi, seçim tarihini açıkladı",
@@ -1987,26 +2007,6 @@
       "ozet": "Dünyanın dört bir yanından liderler, BM’de iklim değişikliğine karşı eylem çağrısında bulunuyor. BM Genel Kurulu’nun deniz seviyesinin yükselmesine ilişkin ilk bildirgesini kabul ettiği Perşembe günü BM Genel Sekreteri Antonio Guterres, dünyanın “ülkelerin ve kültürlerin dalgalar",
       "url": "https://www.iklimhaber.org/bmde-dunyaya-cagri-iklim-krizi-kuresel-adalet-ve-hakkaniyetin-en-buyuk-sinavidir/",
       "tarih": "2026-09-25T09:46:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2101de32cf45",
-      "baslik": "95 STK’dan COP31 Başkanlığına Açık Mektup: “Elektrifikasyon Amaç Değil, Araç Olmalı”",
-      "ozet": "Türkiye’nin ve Avustralya’nın COP31 Başkanlıklarına yönelik açık mektup yayımlayan 95 STK, küresel bir elektrifikasyon hedefini memnuniyetle karşılarken hakkaniyetli ve yenilenebilir enerji öncülüğünde bir uygulama için yedi güvence ilkesi çağrısında bulunuyor. Türkiye’nin",
-      "url": "https://www.iklimhaber.org/95-stkdan-cop31-baskanligina-acik-mektup-elektrifikasyon-amac-degil-arac-olmali/",
-      "tarih": "2026-09-25T08:57:21+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "47909afbbeba",
-      "baslik": "COP31’de İklim Krizi, Biyoçeşitlilik ve Çölleşme Arasındaki Bağ Güçlenmeli",
-      "ozet": "Yıldıray Lise, COP31’de iklim değişikliği, biyolojik çeşitlilik ve çölleşmeyle mücadele arasındaki bağın güçlendirilmesinin, üç kardeş sözleşmenin ortak hedefleri açısından önemli bir adım olabileceğini dile getirdi. İklim Haber ve Medyascope işbirliği ile hazırlanan COP31 Yolu’n",
-      "url": "https://www.iklimhaber.org/cop31de-iklim-krizi-biyocesitlilik-ve-collesme-arasindaki-bag-guclenmeli/",
-      "tarih": "2026-09-25T08:31:22+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
