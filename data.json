@@ -120350,5 +120350,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/14-ekim-istanbul-seli-bir-onceki-yagis-rekorunun-%35-uzerine-cikilmis-olabilir/"
+  },
+  {
+    "id": "tarayici-33bb659277a9",
+    "tip": "Maden Ocağı",
+    "ad": "Maden ocağında göçük: 1 işçi hayatını kaybetti, çok sayıda yaralı - Son Kale İzmir",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "Maden ocağında göçük: 1 işçi hayatını kaybetti, çok sayıda yaralı Son Kale İzmir",
+    "koordinatlar": {
+      "lat": 38.462,
+      "lng": 27.2258
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "16.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONE9HMWVha3B3UFdhc19USmhnMmFwTUFiSHoxdzdubUhKWjIwSVVVc09aaW1mODVxM3pxOUx0QzZYamFGQkdaNmVYVjdBQlp5YnZhQUFfUEIxMWlOc3kxWE0tMk8ybDJwQ3RIczRtWTB5SWl4UmNNQk5qNnFDUnZMbjFNcU05TEZkMkFpYzVLLVowYmVWNGxHRDM1cmlNQUZpeFlCbFBiajk?oc=5"
+  },
+  {
+    "id": "tarayici-809818a986dd",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kocaeli'nde selde kaybolan muhtardan acı haber! Cansız bedeni İzmit Körfezi'nde bulundu",
+    "il": "Kocaeli",
+    "ilce": "",
+    "aciklama": "Kocaeli'nde selde kaybolan muhtardan acı haber! Cansız bedeni İzmit Körfezi'nde bulundu",
+    "koordinatlar": {
+      "lat": 40.8891,
+      "lng": 29.8783
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "16.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/sel-sularina-kapilan-muhtar-cansiz-bedeni-bulundu-p369895"
   }
 ]
