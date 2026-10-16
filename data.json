@@ -120293,5 +120293,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTUhZYzB6X0ZYeEk1M0hqZFVWZUI0dHhFZlc1N2xHdTQzUFEyRGkxZHhackVJU1IyM0NPMzN2WnRqbjBfbFpTOFU3blpybXB4Z2daSkZHU0ZxVDFBbFdwSHlKdWp4REFoeEFQSTdQS1ZocC1SVEYzNHBoZUpoQUtnQkl1OA?oc=5"
+  },
+  {
+    "id": "tarayici-0f152c7b0f25",
+    "tip": "İklim Olayları",
+    "ad": "Ekoloji Birliği: “Rantın Faturasını Canımızla Ödüyoruz!”",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul’daki sel felaketine dair bir açıklama yayımlayan Ekoloji Birliği kapitalizmin kâr hırsının iklimi değiştirdiğini söylerken, “Sıcaklıkların artması betona boğulan yaşam alanlarımızı daha fazla güvensiz hale getirmekte ve felaketlere neden olmaktadır” dedi. İstanbul’da 14 ",
+    "koordinatlar": {
+      "lat": 40.9319,
+      "lng": 28.8713
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "16.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/ekoloji-birligi-rantin-faturasini-canimizla-oduyoruz/"
   }
 ]

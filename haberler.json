@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-15T18:48:08.979606+00:00",
+    "guncelleme": "2026-10-16T07:45:15.275659+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6618,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6619,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "f583d2f59ca8",
+      "baslik": "MSCI kararı sonrası borsada sert düşüş",
+      "ozet": "MSCI kararı sonrası borsada sert düşüş",
+      "url": "https://www.sozcu.com.tr/msci-karari-sonrasi-borsada-sert-dusus-p369728",
+      "tarih": "2026-10-16T07:41:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0f152c7b0f25",
+      "baslik": "Ekoloji Birliği: “Rantın Faturasını Canımızla Ödüyoruz!”",
+      "ozet": "İstanbul’daki sel felaketine dair bir açıklama yayımlayan Ekoloji Birliği kapitalizmin kâr hırsının iklimi değiştirdiğini söylerken, “Sıcaklıkların artması betona boğulan yaşam alanlarımızı daha fazla güvensiz hale getirmekte ve felaketlere neden olmaktadır” dedi. İstanbul’da 14 ",
+      "url": "https://www.iklimhaber.org/ekoloji-birligi-rantin-faturasini-canimizla-oduyoruz/",
+      "tarih": "2026-10-16T07:22:44+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "333b1aaf2e35",
+      "baslik": "Küresel piyasalarda risk iştahı arttı",
+      "ozet": "Küresel piyasalarda risk iştahı arttı",
+      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-risk-istahi-artti-p369710",
+      "tarih": "2026-10-16T06:25:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fd16597d620a",
+      "baslik": "Piyasalarda cuma dopingi: Altın ve gümüş yükseldi, dolar/TL rekor kırdı",
+      "ozet": "Piyasalarda cuma dopingi: Altın ve gümüş yükseldi, dolar/TL rekor kırdı",
+      "url": "https://www.sozcu.com.tr/piyasalarda-cuma-dopingi-altin-ve-gumus-yukseldi-dolartl-rekor-kirdi-p369684",
+      "tarih": "2026-10-16T05:35:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "9f5097265088",
       "baslik": "Kılıçdaroğlu il başkanlığından aldığı Gürsel Tekin'i koordinatör yaptı",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-09-25T13:19:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d2c255f022e5",
-      "baslik": "Mehmetçik Yemene gidecek mi? Erdoğan ilk sinyali verdi",
-      "ozet": "Mehmetçik Yemene gidecek mi? Erdoğan ilk sinyali verdi",
-      "url": "https://www.sozcu.com.tr/mekke-pakti-nin-acil-toplantisi-sona-erdi-dikkat-ceken-hazirlik-aciklamasi-p363503",
-      "tarih": "2026-09-25T12:48:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ddd0ef605379",
-      "baslik": "On milyonlarca numara resmen yağmalanmış! Ne kimliğiniz ne de telefon numaranız...",
-      "ozet": "On milyonlarca numara resmen yağmalanmış! Ne kimliğiniz ne de telefon numaranız...",
-      "url": "https://www.sozcu.com.tr/101-milyon-kisinin-verisini-satmislar-panelin-kurucularina-operasyon-p363478",
-      "tarih": "2026-09-25T12:12:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7a47e0bf7e08",
-      "baslik": "Ne menü var ne adisyon: Bu restoranda hesap çok farklı yolla ödeniyor",
-      "ozet": "Ne menü var ne adisyon: Bu restoranda hesap çok farklı yolla ödeniyor",
-      "url": "https://www.sozcu.com.tr/ne-menu-var-ne-adisyon-bu-restoranda-hesap-cok-farkli-yolla-odeniyor-p363480",
-      "tarih": "2026-09-25T11:37:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2ec67af6e2e7",
-      "baslik": "BM’de Dünyaya Çağrı: “İklim Krizi, Küresel Adalet ve Hakkaniyetin En Büyük Sınavıdır”",
-      "ozet": "Dünyanın dört bir yanından liderler, BM’de iklim değişikliğine karşı eylem çağrısında bulunuyor. BM Genel Kurulu’nun deniz seviyesinin yükselmesine ilişkin ilk bildirgesini kabul ettiği Perşembe günü BM Genel Sekreteri Antonio Guterres, dünyanın “ülkelerin ve kültürlerin dalgalar",
-      "url": "https://www.iklimhaber.org/bmde-dunyaya-cagri-iklim-krizi-kuresel-adalet-ve-hakkaniyetin-en-buyuk-sinavidir/",
-      "tarih": "2026-09-25T09:46:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -94662,6 +94662,20 @@
       "ozet": "Anamur Çevre Platformu’ndan Kumsal İhlali Tepkisi Mersin Portal",
       "lat": 36.6929,
       "lng": 34.5663,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0f152c7b0f25",
+      "baslik": "Ekoloji Birliği: “Rantın Faturasını Canımızla Ödüyoruz!”",
+      "konum": "İstanbul",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "16.10.2026",
+      "url": "https://www.iklimhaber.org/ekoloji-birligi-rantin-faturasini-canimizla-oduyoruz/",
+      "ozet": "İstanbul’daki sel felaketine dair bir açıklama yayımlayan Ekoloji Birliği kapitalizmin kâr hırsının iklimi değiştirdiğini söylerken, “Sıcaklıkların artması betona boğulan yaşam alanlarımızı daha fazla güvensiz hale getirmekte ve felaketlere neden olmaktadır” dedi. İstanbul’da 14 ",
+      "lat": 40.9319,
+      "lng": 28.8713,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
