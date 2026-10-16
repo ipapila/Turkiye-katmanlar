@@ -120312,5 +120312,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/ekoloji-birligi-rantin-faturasini-canimizla-oduyoruz/"
+  },
+  {
+    "id": "tarayici-feb9a5ee9b0e",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada - Bursa TV",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada Bursa TV",
+    "koordinatlar": {
+      "lat": 40.1544,
+      "lng": 29.0889
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "16.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVdpeVQtbW9zTDd2NFNWOGJWaUF1di1aT2N3YklienJuSThQcFZ3X3BZZUNYeGVHT2h5RnlfZ3B4cXpCLTU3ZmdzeDhUWHVmcjY4TXQwcTBzdlpjczlnMjR4NFRNZFpZTVVhMEYtS2QyVS1rTFgxcm1xdVdTd1ZZWl9XVU1uYzVabjFuN3Z3?oc=5"
+  },
+  {
+    "id": "tarayici-03e9a02068af",
+    "tip": "Ekolojik İhlal",
+    "ad": "14 Ekim İstanbul Seli: Bir Önceki Yağış Rekorunun %35 Üzerine Çıkılmış Olabilir",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "14 Ekim’de İstanbul’da dört kişinin hayatını kaybetmesine neden olan şiddetli yağışlar, kentin günlük yağış rekorunu yaklaşık %35 farkla kırmış olabilir. Beykoz’a bir günde, normalde yaklaşık dört Ekim ayı boyunca düşen yağmur yağdı. Balkanlardan gelen soğuk havanın Karadeniz’in ",
+    "koordinatlar": {
+      "lat": 40.8996,
+      "lng": 28.8647
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "16.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/14-ekim-istanbul-seli-bir-onceki-yagis-rekorunun-%35-uzerine-cikilmis-olabilir/"
   }
 ]

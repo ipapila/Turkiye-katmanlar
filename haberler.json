@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-16T07:45:15.275659+00:00",
+    "guncelleme": "2026-10-16T13:39:51.654641+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6619,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6621,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "a33ad1050e95",
+      "baslik": "Sevgilisinin öldürdüğü kocasını gömdükleri bahçede düğün yapmışlar!",
+      "ozet": "Sevgilisinin öldürdüğü kocasını gömdükleri bahçede düğün yapmışlar!",
+      "url": "https://www.sozcu.com.tr/sevgilisinin-oldurdugu-kocasini-gomdukleri-bahcede-dugun-yapmislar-p369868",
+      "tarih": "2026-10-16T13:13:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "441043089392",
+      "baslik": "COP17 Başlıyor: Ülkeler Doğayı Koruma Sözlerini Yerine Getirmedi",
+      "ozet": "Doğaya ayrılan finansman açığının Erivan’daki COP17 gündeminin ilk sıralarında yer alması bekleniyor. Günümüzde kamu kaynaklarından her yıl ayrılan 2,6 trilyon dolar, toprakları fakirleştiren, su kaynaklarını kirleten ve ekosistemleri tahrip eden uygulamalara aktarılıyor. Ülkeler",
+      "url": "https://www.iklimhaber.org/cop17-basliyor-ulkeler-dogayi-koruma-sozlerini-yerine-getirmedi/",
+      "tarih": "2026-10-16T11:03:10+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "03e9a02068af",
+      "baslik": "14 Ekim İstanbul Seli: Bir Önceki Yağış Rekorunun %35 Üzerine Çıkılmış Olabilir",
+      "ozet": "14 Ekim’de İstanbul’da dört kişinin hayatını kaybetmesine neden olan şiddetli yağışlar, kentin günlük yağış rekorunu yaklaşık %35 farkla kırmış olabilir. Beykoz’a bir günde, normalde yaklaşık dört Ekim ayı boyunca düşen yağmur yağdı. Balkanlardan gelen soğuk havanın Karadeniz’in ",
+      "url": "https://www.iklimhaber.org/14-ekim-istanbul-seli-bir-onceki-yagis-rekorunun-%35-uzerine-cikilmis-olabilir/",
+      "tarih": "2026-10-16T10:08:40+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fa32d6953b76",
+      "baslik": "AOSIS Baş İklim Müzakerecisi: “COP31’in Başarısı 1,5 Derece Hedefinin Korunmasına Bağlı”",
+      "ozet": "Deniz seviyesinin yükselmesi iklim krizinin yol açtığı yıkıcı etkilerden biri ve küçük ada devletleri, tam da bu nedenden var oluş mücadelesi veriyor. Bu ülkelerin iklim etkileri-kırılganlık ve borç döngüsünden kurtulamadığını belirten Küçük Ada Devletleri İttifakı’nın baş iklim ",
+      "url": "https://www.iklimhaber.org/aosis-bas-iklim-muzakerecisi-cop31in-basarisi-15-derece-hedefinin-korunmasina-bagli/",
+      "tarih": "2026-10-16T08:20:24+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "00c3b9b8f114",
+      "baslik": "Prof. Dr. Kiraz: “COP31’de Sağlık Sistemlerine Dair Somut İklim Hedefleri Şart”",
+      "ozet": "COP31’de sağlık sistemlerinin iklim değişikliğine karşı dayanıklı hale getirilmesinin somut hedeflerle ele alınması gerektiğini belirten Prof. Dr. Kiraz, ülkelerin yalnızca niyet beyanında bulunmasının yeterli olmadığını ifade etti. İklim Haber ve Medyascope işbirliği ile hazırla",
+      "url": "https://www.iklimhaber.org/prof-dr-kiraz-cop31de-saglik-sistemlerine-dair-somut-iklim-hedefleri-sart/",
+      "tarih": "2026-10-16T07:46:06+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f583d2f59ca8",
       "baslik": "MSCI kararı sonrası borsada sert düşüş",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-09-26T07:53:15+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5ca67caf6841",
-      "baslik": "Hapis cezası sonrası Biran Damla Yılmaz cephesinden ilk açıklama",
-      "ozet": "Hapis cezası sonrası Biran Damla Yılmaz cephesinden ilk açıklama",
-      "url": "https://www.sozcu.com.tr/hapis-cezasi-sonrasi-biran-damla-yilmaz-cephesinden-ilk-aciklama-p363648",
-      "tarih": "2026-09-26T07:03:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5108298ea14f",
-      "baslik": "Menderes Belediyesi soruşturmasında ikinci dalga: 9 kişiden 7’si tutuklandı",
-      "ozet": "Menderes Belediyesi soruşturmasında ikinci dalga: 9 kişiden 7’si tutuklandı",
-      "url": "https://www.sozcu.com.tr/menderes-belediyesi-sorusturmasinda-ikinci-dalga-9-kisiden-7-si-tutuklandi-p363561",
-      "tarih": "2026-09-25T17:53:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c09e16007448",
-      "baslik": "Selçuk Özdağ'dan Davutoğlu'na sert sözler: Dükkan kapatır gibi parti kapattı",
-      "ozet": "Selçuk Özdağ'dan Davutoğlu'na sert sözler: Dükkan kapatır gibi parti kapattı",
-      "url": "https://www.sozcu.com.tr/selcuk-ozdag-ahmet-davutoglu-elestiri-p363556",
-      "tarih": "2026-09-25T17:09:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3d2a50a0596d",
-      "baslik": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza - mansethaber.com",
-      "ozet": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza mansethaber.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEFxLURrTS1BcnZfMlFwQWF6eUxIaVNVQ0Z5WFpoVUk1OExoNmphSEdQVm9tSzNSalh2T3J0dkRRX3ZPVVlab0c4eUdvX2RSRENTX2xzNUprWnFkTjVndlA1bVlXbUVDNENXZGZHWnBxdzJaUVdYc1E1OW4td21DUDQtay1XZ2pDYktsNHFmb1pCbGtIODlBYy1jSQ?oc=5",
-      "tarih": "2026-09-25T13:19:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2c554b7632cc",
-      "baslik": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza - Manşet Haber",
-      "ozet": "Kocaeli'de çevre ihlalinin faturası ağır oldu: 9,4 milyon lira ceza Manşet Haber",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEFxLURrTS1BcnZfMlFwQWF6eUxIaVNVQ0Z5WFpoVUk1OExoNmphSEdQVm9tSzNSalh2T3J0dkRRX3ZPVVlab0c4eUdvX2RSRENTX2xzNUprWnFkTjVndlA1bVlXbUVDNENXZGZHWnBxdzJaUVdYc1E1OW4td21DUDQtay1XZ2pDYktsNHFmb1pCbGtIODlBYy1jSQ?oc=5",
-      "tarih": "2026-09-25T13:19:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
@@ -94676,6 +94676,34 @@
       "ozet": "İstanbul’daki sel felaketine dair bir açıklama yayımlayan Ekoloji Birliği kapitalizmin kâr hırsının iklimi değiştirdiğini söylerken, “Sıcaklıkların artması betona boğulan yaşam alanlarımızı daha fazla güvensiz hale getirmekte ve felaketlere neden olmaktadır” dedi. İstanbul’da 14 ",
       "lat": 40.9319,
       "lng": 28.8713,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-feb9a5ee9b0e",
+      "baslik": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada - Bursa TV",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "16.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVdpeVQtbW9zTDd2NFNWOGJWaUF1di1aT2N3YklienJuSThQcFZ3X3BZZUNYeGVHT2h5RnlfZ3B4cXpCLTU3ZmdzeDhUWHVmcjY4TXQwcTBzdlpjczlnMjR4NFRNZFpZTVVhMEYtS2QyVS1rTFgxcm1xdVdTd1ZZWl9XVU1uYzVabjFuN3Z3?oc=5",
+      "ozet": "Bursa Çevre Otoyolu'nda kaza! Takip mesafesi ihlali kamerada Bursa TV",
+      "lat": 40.1544,
+      "lng": 29.0889,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-03e9a02068af",
+      "baslik": "14 Ekim İstanbul Seli: Bir Önceki Yağış Rekorunun %35 Üzerine Çıkılmış Olabilir",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "16.10.2026",
+      "url": "https://www.iklimhaber.org/14-ekim-istanbul-seli-bir-onceki-yagis-rekorunun-%35-uzerine-cikilmis-olabilir/",
+      "ozet": "14 Ekim’de İstanbul’da dört kişinin hayatını kaybetmesine neden olan şiddetli yağışlar, kentin günlük yağış rekorunu yaklaşık %35 farkla kırmış olabilir. Beykoz’a bir günde, normalde yaklaşık dört Ekim ayı boyunca düşen yağmur yağdı. Balkanlardan gelen soğuk havanın Karadeniz’in ",
+      "lat": 40.8996,
+      "lng": 28.8647,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
