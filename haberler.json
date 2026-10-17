@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-10-17T07:23:18.126500+00:00",
+    "guncelleme": "2026-10-17T12:37:04.129526+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6624,
+    "harita_kayit_sayisi": 6625,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "7322f1483185",
+      "baslik": "Eski Türkiye güzeli Fatoş Seğmen’in kızı Alya Erdoğan hayatını kaybetti",
+      "ozet": "Eski Türkiye güzeli Fatoş Seğmen’in kızı Alya Erdoğan hayatını kaybetti",
+      "url": "https://www.sozcu.com.tr/eski-turkiye-guzeli-fatos-segmen-in-kizi-alya-erdogan-hayatini-kaybetti-p370051",
+      "tarih": "2026-10-17T09:33:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0d7988c603c4",
+      "baslik": "Gelibolu Yarımadası’nda 4 sondaj alanı: Acele kamulaştırma sonrası yeni süreç - Çanakkale Kalem Gazetesi",
+      "ozet": "Gelibolu Yarımadası’nda 4 sondaj alanı: Acele kamulaştırma sonrası yeni süreç Çanakkale Kalem Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlpYaG5qV2FzMVljdjVBQVlTRlFpeUdyWjNzb0NKbjZWMFZoZ2tWbGlucWFPOVRHTk5uemwza0c5ZE9CY2EyaDVwd1dnQ0kxeDFQS3RPcWVHa0hXM0QyU1dqS2lhcnoxVEtpeTRSa0Z6bTM4U2I0a21kTlVjRDJRblBUVGpjRkNBd1dYVjB6UXJIeVlvU0NWWlNYMG9xVkY3NkZ3N2tIbHBrcl8yNzZTWWZQTXlMNGhFQXU1RGtR?oc=5",
+      "tarih": "2026-10-17T08:35:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "22c4e0f90c9c",
       "baslik": "Bahçede kazı yapan işçiler 510 kiloluk servet buldu",
@@ -1987,26 +2007,6 @@
       "ozet": "Acun Ilıcalı’nın Fenerbahçe’ye olan borcu ortaya çıktı! Aziz Yıldırım genel kurulda açıkladı",
       "url": "https://www.sozcu.com.tr/acun-ilicali-nin-fenerbahce-ye-olan-borcu-ortaya-cikti-aziz-yildirim-genel-kurulda-acikladi-p363977",
       "tarih": "2026-09-27T15:24:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "65dc583c233c",
-      "baslik": "Son dakika... Erdoğan, Fatma Betül Sayan Kaya hakkındaki kararını verdi",
-      "ozet": "Son dakika... Erdoğan, Fatma Betül Sayan Kaya hakkındaki kararını verdi",
-      "url": "https://www.sozcu.com.tr/son-dakika-erdogan-fatma-betul-sayan-kaya-hakkindaki-kararini-verdi-p363945",
-      "tarih": "2026-09-27T13:02:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f7d57fb72784",
-      "baslik": "Kılıçdaroğlu'ndan Gürsel Tekin'e soğuk duş",
-      "ozet": "Kılıçdaroğlu'ndan Gürsel Tekin'e soğuk duş",
-      "url": "https://www.sozcu.com.tr/kilicdaroglu-ndan-gursel-tekin-e-soguk-dus-p363938",
-      "tarih": "2026-09-27T11:25:40+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94746,6 +94746,20 @@
       "ozet": "İstanbul’da sel sonrası poliçe patlaması: Faturayı gören acentelere koştu",
       "lat": 41.0309,
       "lng": 29.029,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0d7988c603c4",
+      "baslik": "Gelibolu Yarımadası’nda 4 sondaj alanı: Acele kamulaştırma sonrası yeni süreç - Çanakkale Kalem Gazetesi",
+      "konum": "Çanakkale",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "17.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlpYaG5qV2FzMVljdjVBQVlTRlFpeUdyWjNzb0NKbjZWMFZoZ2tWbGlucWFPOVRHTk5uemwza0c5ZE9CY2EyaDVwd1dnQ0kxeDFQS3RPcWVHa0hXM0QyU1dqS2lhcnoxVEtpeTRSa0Z6bTM4U2I0a21kTlVjRDJRblBUVGpjRkNBd1dYVjB6UXJIeVlvU0NWWlNYMG9xVkY3NkZ3N2tIbHBrcl8yNzZTWWZQTXlMNGhFQXU1RGtR?oc=5",
+      "ozet": "Gelibolu Yarımadası’nda 4 sondaj alanı: Acele kamulaştırma sonrası yeni süreç Çanakkale Kalem Gazetesi",
+      "lat": 40.1787,
+      "lng": 26.423,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
