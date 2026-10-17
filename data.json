@@ -120388,5 +120388,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/sel-sularina-kapilan-muhtar-cansiz-bedeni-bulundu-p369895"
+  },
+  {
+    "id": "tarayici-bbbabc0bbc78",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstanbul’da sel sonrası poliçe patlaması: Faturayı gören acentelere koştu",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul’da sel sonrası poliçe patlaması: Faturayı gören acentelere koştu",
+    "koordinatlar": {
+      "lat": 41.0309,
+      "lng": 29.029
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "17.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-sel-sonrasi-police-patlamasi-faturayi-goren-acentelere-kostu-p369965"
   }
 ]
