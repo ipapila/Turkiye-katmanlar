@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-17T12:37:04.129526+00:00",
+    "guncelleme": "2026-10-17T17:40:45.919224+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6625,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "ecd1bc9f882d",
+      "baslik": "Selde kaybolan vatandaşın aracının görüntüleri ortaya çıktı: Sel suları böyle sürüklemiş",
+      "ozet": "Selde kaybolan vatandaşın aracının görüntüleri ortaya çıktı: Sel suları böyle sürüklemiş",
+      "url": "https://www.sozcu.com.tr/selde-kaybolan-vatandasin-aracinin-goruntuleri-ortaya-cikti-sel-sulari-boyle-suruklemis-p370136",
+      "tarih": "2026-10-17T16:05:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dd3be1e73f49",
+      "baslik": "İlkay Gündoğan sessizliğini bozdu! Okan Buruk'a yanıt verdi",
+      "ozet": "İlkay Gündoğan sessizliğini bozdu! Okan Buruk'a yanıt verdi",
+      "url": "https://www.sozcu.com.tr/ilkay-gundogan-sessizligini-bozdu-okan-buruk-a-yanit-verdi-p370135",
+      "tarih": "2026-10-17T15:33:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "7322f1483185",
       "baslik": "Eski Türkiye güzeli Fatoş Seğmen’in kızı Alya Erdoğan hayatını kaybetti",
@@ -1987,26 +2007,6 @@
       "ozet": "Küresel piyasalarda jeopolitik belirsizlik etkisi",
       "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-jeopolitik-belirsizlik-etkisi-p364139",
       "tarih": "2026-09-28T07:44:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "414dfa44d377",
-      "baslik": "84 milyon kişinin yaşadığı kıyı şeridi çökmeye başladı",
-      "ozet": "84 milyon kişinin yaşadığı kıyı şeridi çökmeye başladı",
-      "url": "https://www.sozcu.com.tr/84-milyon-kisinin-yasadigi-kiyi-seridi-cokmeye-basladi-p363981",
-      "tarih": "2026-09-27T15:40:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "15ccf19d9e6a",
-      "baslik": "Acun Ilıcalı’nın Fenerbahçe’ye olan borcu ortaya çıktı! Aziz Yıldırım genel kurulda açıkladı",
-      "ozet": "Acun Ilıcalı’nın Fenerbahçe’ye olan borcu ortaya çıktı! Aziz Yıldırım genel kurulda açıkladı",
-      "url": "https://www.sozcu.com.tr/acun-ilicali-nin-fenerbahce-ye-olan-borcu-ortaya-cikti-aziz-yildirim-genel-kurulda-acikladi-p363977",
-      "tarih": "2026-09-27T15:24:12+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
