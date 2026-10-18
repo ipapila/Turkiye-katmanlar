@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-18T07:37:44.169273+00:00",
+    "guncelleme": "2026-10-18T12:54:11.723472+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6625,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "abc592b7fe71",
+      "baslik": "Selde mahsur kalan Zeynep bebek böyle kurtarıldı",
+      "ozet": "Selde mahsur kalan Zeynep bebek böyle kurtarıldı",
+      "url": "https://www.sozcu.com.tr/selde-mahsur-kalan-zeynep-bebek-boyle-kurtarildi-p370352",
+      "tarih": "2026-10-18T12:35:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "41b880600d30",
+      "baslik": "52 yaşında üçüncü bebeğini bekleyen Hilary Swank eleştirilere rest çekti",
+      "ozet": "52 yaşında üçüncü bebeğini bekleyen Hilary Swank eleştirilere rest çekti",
+      "url": "https://www.sozcu.com.tr/52-yasinda-ucuncu-bebegini-bekleyen-hilary-swank-elestirilere-rest-cekti-p370327",
+      "tarih": "2026-10-18T10:40:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1faca0bbf583",
+      "baslik": "Saray'a sunulan 'çok özel' anketten Erdoğan'a kötü haber",
+      "ozet": "Saray'a sunulan 'çok özel' anketten Erdoğan'a kötü haber",
+      "url": "https://www.sozcu.com.tr/saray-a-sunulan-cok-ozel-anketten-iktidara-kotu-haber-p370323",
+      "tarih": "2026-10-18T10:31:49+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e9ca9b555f19",
       "baslik": "Özcan Deniz’in eşi Samar Dadgar’ın acı kaybı: 3 yaşındaki yeğeninin ölüm nedeni belli oldu",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-09-28T09:17:40+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5f2215c863ef",
-      "baslik": "Eskişehir'de toryum sahasına acele kamulaştırma: Uzman, kaynağın 4 bin yıl yetebileceğini söyledi - sondakika.com",
-      "ozet": "Eskişehir'de toryum sahasına acele kamulaştırma: Uzman, kaynağın 4 bin yıl yetebileceğini söyledi sondakika.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1BZNEhUUEhCbXlDVzByYVdpeHJFclRzYmpXTW8tRmpEZy04MnZsMFhoRlFObkRONWJzWFI4NnJGcHlhV3pnbGc2RjBCNGg3S2FQZ21JTzQwcldJZHJlVmQxZ0lyTERrR09GVm1obHZfUHNXOHJ6ZXgxNVFTMGVaTnlvZG1WMEFFaTc5UUxXWmJCVDFtNEFhRzdwVG5VZ9IBmAFBVV95cUxNQ1A2MUtKM2NVOXE2RmUzcXh2X1gzS3czY3lzeUxLREJ1TDZTVnpWQUVhZFV2U193NFNyMk5MYmJLOGM4dC1PV2JjOEhnSjhyWHQ5YWNvcTZacms1UWlmZkVLMGc0ajlIQkhiOWdqaWpOalloVmJDT2RwRWlrVGlGVWFYbExSSHdzdC1NZm5yTS10OHRneXBkbQ?oc=5",
-      "tarih": "2026-09-28T09:17:40+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4d9f0341e230",
-      "baslik": "Deniz Göktaş'tan mahkemede Kılıçdaroğlu hakkında olay sözler",
-      "ozet": "Deniz Göktaş'tan mahkemede Kılıçdaroğlu hakkında olay sözler",
-      "url": "https://www.sozcu.com.tr/deniz-goktas-tan-mahkemede-kilicdaroglu-hakkinda-olay-sozler-p364179",
-      "tarih": "2026-09-28T09:08:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4ff9c6a9b1e1",
-      "baslik": "Nepal Ölümcül Buzul Felaketinin Ardından Yaralarını Sarmak için Kredi Değil, Hibe İstiyor",
-      "ozet": "Nepal Başbakanı, iklim felaketlerinin ardından yeniden inşa sürecinde savunmasız ülkelerin ek borç yükü altına girmeye zorlanmaması gerektiğini savundu. Nepal Başbakanı Balendra Shah, Birleşmiş Milletler Genel Kurulu’nda yaptığı konuşmada, en az 1.450 kişinin ölümüne yol açan buz",
-      "url": "https://www.iklimhaber.org/nepal-olumcul-buzul-felaketinin-ardindan-yaralarini-sarmak-icin-kredi-degil-hibe-istiyor/",
-      "tarih": "2026-09-28T08:29:02+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
