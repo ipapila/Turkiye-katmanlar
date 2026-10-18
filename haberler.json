@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-17T19:55:34.289743+00:00",
+    "guncelleme": "2026-10-18T07:37:44.169273+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6625,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "e9ca9b555f19",
+      "baslik": "Özcan Deniz’in eşi Samar Dadgar’ın acı kaybı: 3 yaşındaki yeğeninin ölüm nedeni belli oldu",
+      "ozet": "Özcan Deniz’in eşi Samar Dadgar’ın acı kaybı: 3 yaşındaki yeğeninin ölüm nedeni belli oldu",
+      "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-in-aci-kaybi-3-yasindaki-yegeninin-olum-nedeni-belli-oldu-p370265",
+      "tarih": "2026-10-18T07:11:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4773e762c3f5",
+      "baslik": "Balıkçılar balık yerine iPhone avına çıktı: Denizde şaşırtan görüntüler",
+      "ozet": "Balıkçılar balık yerine iPhone avına çıktı: Denizde şaşırtan görüntüler",
+      "url": "https://www.sozcu.com.tr/balikcilar-balik-yerine-iphone-avina-cikti-denizde-sasirtan-goruntuler-p370261",
+      "tarih": "2026-10-18T07:06:49+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ecd1bc9f882d",
       "baslik": "Selde kaybolan vatandaşın aracının görüntüleri ortaya çıktı: Sel suları böyle sürüklemiş",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-09-28T08:29:02+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4877ac6ca4f4",
-      "baslik": "Denizin içinden nur topu gibi yeni bir ada doğdu",
-      "ozet": "Denizin içinden nur topu gibi yeni bir ada doğdu",
-      "url": "https://www.sozcu.com.tr/denizin-icinden-nur-topu-gibi-yeni-bir-ada-dogdu-p364154",
-      "tarih": "2026-09-28T08:11:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0e2611697621",
-      "baslik": "Küresel piyasalarda jeopolitik belirsizlik etkisi",
-      "ozet": "Küresel piyasalarda jeopolitik belirsizlik etkisi",
-      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-jeopolitik-belirsizlik-etkisi-p364139",
-      "tarih": "2026-09-28T07:44:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
