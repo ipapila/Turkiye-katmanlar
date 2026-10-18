@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-18T17:42:13.064306+00:00",
+    "guncelleme": "2026-10-18T19:55:27.349785+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6625,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6626,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "4e047971a766",
+      "baslik": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
+      "ozet": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
+      "url": "https://www.sozcu.com.tr/izmir-de-restoran-sahibi-bicakli-kavgada-oldu-musteri-yarali-p370419",
+      "tarih": "2026-10-18T19:11:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a54454e94678",
+      "baslik": "Dünyaca ünlü yolcu gemisini denizin dibine batıracaklar",
+      "ozet": "Dünyaca ünlü yolcu gemisini denizin dibine batıracaklar",
+      "url": "https://www.sozcu.com.tr/dunyaca-unlu-yolcu-gemisini-denizin-dibine-batiracaklar-p370405",
+      "tarih": "2026-10-18T17:43:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e1daf5584180",
       "baslik": "Bakan Bayraktar açıkladı: Doğalgaza zam gelecek mi?",
@@ -1987,26 +2007,6 @@
       "ozet": "Komedyen Deniz Göktaş tahliye oldu; cezaevinden esprilerle çıktı",
       "url": "https://www.sozcu.com.tr/komedyen-deniz-goktas-tahliye-oldu-p364324",
       "tarih": "2026-09-28T18:57:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "eb1472dd40a1",
-      "baslik": "Baraj kapaklarına 34 ton midye yapışmış",
-      "ozet": "Baraj kapaklarına 34 ton midye yapışmış",
-      "url": "https://www.sozcu.com.tr/baraj-kapaklarina-34-ton-midye-yapismis-p364310",
-      "tarih": "2026-09-28T17:23:47+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "92b45c4cec69",
-      "baslik": "Erdoğan fon kriziyle ilgili yarını işaret etti",
-      "ozet": "Erdoğan fon kriziyle ilgili yarını işaret etti",
-      "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-kabine-toplantisi-aciklamalar-28-eylul-2026-p364305",
-      "tarih": "2026-09-28T17:18:10+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94760,6 +94760,20 @@
       "ozet": "Gelibolu Yarımadası’nda 4 sondaj alanı: Acele kamulaştırma sonrası yeni süreç Çanakkale Kalem Gazetesi",
       "lat": 40.1787,
       "lng": 26.423,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-4e047971a766",
+      "baslik": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "18.10.2026",
+      "url": "https://www.sozcu.com.tr/izmir-de-restoran-sahibi-bicakli-kavgada-oldu-musteri-yarali-p370419",
+      "ozet": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
+      "lat": 38.4544,
+      "lng": 27.0281,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

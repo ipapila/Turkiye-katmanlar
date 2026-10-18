@@ -120426,5 +120426,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlpYaG5qV2FzMVljdjVBQVlTRlFpeUdyWjNzb0NKbjZWMFZoZ2tWbGlucWFPOVRHTk5uemwza0c5ZE9CY2EyaDVwd1dnQ0kxeDFQS3RPcWVHa0hXM0QyU1dqS2lhcnoxVEtpeTRSa0Z6bTM4U2I0a21kTlVjRDJRblBUVGpjRkNBd1dYVjB6UXJIeVlvU0NWWlNYMG9xVkY3NkZ3N2tIbHBrcl8yNzZTWWZQTXlMNGhFQXU1RGtR?oc=5"
+  },
+  {
+    "id": "tarayici-4e047971a766",
+    "tip": "Ekolojik İhlal",
+    "ad": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
+    "koordinatlar": {
+      "lat": 38.4544,
+      "lng": 27.0281
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "18.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/izmir-de-restoran-sahibi-bicakli-kavgada-oldu-musteri-yarali-p370419"
   }
 ]
