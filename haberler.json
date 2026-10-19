@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-10-18T19:55:27.349785+00:00",
+    "guncelleme": "2026-10-19T08:19:55.366596+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6626,
+    "harita_kayit_sayisi": 6627,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "e3733f1282e7",
+      "baslik": "COP17’in Ajandasında Neler Var?",
+      "ozet": "Dünya liderleri, diplomatlar ve doğa uzmanları, biyoçeşitlilik kaybını durdurmaya yönelik çabaları değerlendirmek üzere Ermenistan’da bir araya geliyor. Ülkeler küresel hedeflerin çoğunu yakalayamazken, finansman konusundaki anlaşmazlıklar ise henüz çözülemedi. COP17 olarak adlan",
+      "url": "https://www.iklimhaber.org/cop17in-ajandasinda-neler-var/",
+      "tarih": "2026-10-19T07:57:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "09e47d528d93",
+      "baslik": "Tarımsal ürünlerin fiyatları ağustosta yükseldi",
+      "ozet": "Tarımsal ürünlerin fiyatları ağustosta yükseldi",
+      "url": "https://www.sozcu.com.tr/tarimsal-urunlerin-fiyatlari-agustosta-yukseldi-p370556",
+      "tarih": "2026-10-19T07:55:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "146afc350ebf",
+      "baslik": "Yeni Rapor: “Dünyanın İklim Sistemi Hızla İstikrarsızlaşıyor”",
+      "ozet": "Yeni yayımlanan bir araştırmaya göre, dünyanın iklim sistemi bilinmeyen bölgelerin derinliklerine doğru ilerliyor. Dünya’nın “yaşamsal belirtilerini” izleyen yıllık bir rapor olan İklimin Durumu (State of the Climate), sera gazı konsantrasyonları ve sıcaklık değişimlerinden orman",
+      "url": "https://www.iklimhaber.org/yeni-rapor-dunyanin-iklim-sistemi-hizla-istikrarsizlasiyor/",
+      "tarih": "2026-10-19T07:23:32+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c61ac71ce7ff",
+      "baslik": "Dünya bu skandalı konuşuyor! Orduda cinsel ilişki yarışması düzenlediler",
+      "ozet": "Dünya bu skandalı konuşuyor! Orduda cinsel ilişki yarışması düzenlediler",
+      "url": "https://www.sozcu.com.tr/dunya-bu-skandali-konusuyor-orduda-cinsel-iliski-yarismasi-duzenlediler-p370536",
+      "tarih": "2026-10-19T07:20:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6c6172f3072b",
+      "baslik": "Borsa haftaya yükselişle başladı -19 Ekim 2026",
+      "ozet": "Borsa haftaya yükselişle başladı -19 Ekim 2026",
+      "url": "https://www.sozcu.com.tr/borsa-haftaya-yukselisle-basladi-19-ekim-2026-p370530",
+      "tarih": "2026-10-19T07:10:04+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "23c4b6fed7ba",
+      "baslik": "Danıştay Akbelen’de Acele Kamulaştırmaya Onay Verdi",
+      "ozet": "İkizköylüler yaptıkları açıklamada, “Kimse bizden yasal kılıfa sokulmuş bir gasp faaliyetini kabullenmemizi beklemesin” derken, bu yanlıştan hızlı bir şekilde dönülmesini talep etti. Muğla’nın Milas ilçesinde bulunan Yeniköy-Kemerköy Termik Santralı’nın sahasını genişletmek için ",
+      "url": "https://www.iklimhaber.org/danistay-akbelende-acele-kamulastirmaya-onay-verdi/",
+      "tarih": "2026-10-19T06:40:56+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "4e047971a766",
       "baslik": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
@@ -1947,66 +2007,6 @@
       "ozet": "215 milyar dolarlık hazine ormanda keşfedilmeyi bekliyor",
       "url": "https://www.sozcu.com.tr/215-milyar-dolarlik-hazine-ormanda-kesfedilmeyi-bekliyor-p364609",
       "tarih": "2026-09-29T16:17:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "66f05c1fbdba",
-      "baslik": "Güneş ve Rüzgar Nükleeri 2’ye Katladı",
-      "ozet": "2025’te güneş enerjisinden üretilen elektrik %30, rüzgârdan elde edilen ise %8 oranında artarken nükleer santrallardan üretilen elektrik miktarı ise %1 oranında arttı. Böylece güneş ve rüzgârın toplam elektrik üretimi nükleer enerjinin iki katını aştı. Dünya Nükleer Endüstrisi Du",
-      "url": "https://www.iklimhaber.org/gunes-ve-ruzgar-nukleeri-2ye-katladi/",
-      "tarih": "2026-09-29T12:50:55+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ca9d4cf85875",
-      "baslik": "BM: Orman Restorasyonu Her Ulusun Önceliği Olmalı",
-      "ozet": "BM Gıda ve Tarım Örgütü ormanların küresel haline dair yayımladığı yeni raporunda,  ormanları restore etmek adına pencerenin daraldığı bir dönemden geçildiği uyarısında bulunarak, hükümetlere orman restorasyonunu ulusal bir öncelik haline getirme çağrış yaptı. Birleşmiş Milletler",
-      "url": "https://www.iklimhaber.org/bm-orman-restorasyonu-her-ulusun-onceligi-olmali/",
-      "tarih": "2026-09-29T10:23:05+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "47b0b7bfa259",
-      "baslik": "İklim Krizi ile Mücadelede Kolektif Eylem ve İşbirliği Şart",
-      "ozet": "UN Global Compact Türkiye, Birleşmiş Milletler 81. Genel Kurulu Haftası kapsamında New York’ta düzenlenen UN Global Compact Liderler Zirvesi ve üst düzey toplantılarda, Türkiye’den iş dünyası temsilcilerinin küresel sürdürülebilirlik gündemine katkı sundu. 750’yi aşkın katılımcıy",
-      "url": "https://www.iklimhaber.org/iklim-krizi-ile-mucadelede-kolektif-eylem-ve-isbirligi-sart/",
-      "tarih": "2026-09-29T09:50:45+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "16bc274c9644",
-      "baslik": "Hedef Holding borcunu ödeyemediğini açıkladı",
-      "ozet": "Hedef Holding borcunu ödeyemediğini açıkladı",
-      "url": "https://www.sozcu.com.tr/hedef-holding-milyarlik-liralik-borcunu-odeyemedi-p364484",
-      "tarih": "2026-09-29T09:03:27+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "501e4d792461",
-      "baslik": "Deniz Göktaş cezaevinden çıkar çıkmaz sahnesine gitti",
-      "ozet": "Deniz Göktaş cezaevinden çıkar çıkmaz sahnesine gitti",
-      "url": "https://www.sozcu.com.tr/deniz-goktas-cezaevinden-cikar-cikmaz-sahnesine-gitti-p364471",
-      "tarih": "2026-09-29T08:30:45+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "72f7ceae4135",
-      "baslik": "Komedyen Deniz Göktaş tahliye oldu; cezaevinden esprilerle çıktı",
-      "ozet": "Komedyen Deniz Göktaş tahliye oldu; cezaevinden esprilerle çıktı",
-      "url": "https://www.sozcu.com.tr/komedyen-deniz-goktas-tahliye-oldu-p364324",
-      "tarih": "2026-09-28T18:57:33+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94774,6 +94774,20 @@
       "ozet": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
       "lat": 38.4544,
       "lng": 27.0281,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-23c4b6fed7ba",
+      "baslik": "Danıştay Akbelen’de Acele Kamulaştırmaya Onay Verdi",
+      "konum": "Muğla",
+      "kategori": "Termik Reaktör",
+      "siddet": "Takip Ediliyor",
+      "tarih": "19.10.2026",
+      "url": "https://www.iklimhaber.org/danistay-akbelende-acele-kamulastirmaya-onay-verdi/",
+      "ozet": "İkizköylüler yaptıkları açıklamada, “Kimse bizden yasal kılıfa sokulmuş bir gasp faaliyetini kabullenmemizi beklemesin” derken, bu yanlıştan hızlı bir şekilde dönülmesini talep etti. Muğla’nın Milas ilçesinde bulunan Yeniköy-Kemerköy Termik Santralı’nın sahasını genişletmek için ",
+      "lat": 37.1628,
+      "lng": 28.4061,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

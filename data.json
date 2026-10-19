@@ -120445,5 +120445,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/izmir-de-restoran-sahibi-bicakli-kavgada-oldu-musteri-yarali-p370419"
+  },
+  {
+    "id": "tarayici-23c4b6fed7ba",
+    "tip": "Termik Reaktör",
+    "ad": "Danıştay Akbelen’de Acele Kamulaştırmaya Onay Verdi",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "İkizköylüler yaptıkları açıklamada, “Kimse bizden yasal kılıfa sokulmuş bir gasp faaliyetini kabullenmemizi beklemesin” derken, bu yanlıştan hızlı bir şekilde dönülmesini talep etti. Muğla’nın Milas ilçesinde bulunan Yeniköy-Kemerköy Termik Santralı’nın sahasını genişletmek için ",
+    "koordinatlar": {
+      "lat": 37.1628,
+      "lng": 28.4061
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "19.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/danistay-akbelende-acele-kamulastirmaya-onay-verdi/"
   }
 ]
