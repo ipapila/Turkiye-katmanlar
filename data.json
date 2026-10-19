@@ -120464,5 +120464,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/danistay-akbelende-acele-kamulastirmaya-onay-verdi/"
+  },
+  {
+    "id": "tarayici-ed1753d23248",
+    "tip": "Ekolojik İhlal",
+    "ad": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
+    "koordinatlar": {
+      "lat": 41.0618,
+      "lng": 29.0495
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "19.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/ral-yatirim-holding-konkordato-ilan-etti-p370739"
   }
 ]

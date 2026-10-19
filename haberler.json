@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-19T16:03:54.017442+00:00",
+    "guncelleme": "2026-10-19T21:53:58.741673+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6627,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6628,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "d01a889a4949",
+      "baslik": "Erdoğan imzaladı! Soruşturma izni verilen isim görevden alındı",
+      "ozet": "Erdoğan imzaladı! Soruşturma izni verilen isim görevden alındı",
+      "url": "https://www.sozcu.com.tr/resmi-gazete-de-yayimlandi-bir-gorevden-alma-daha-p370775",
+      "tarih": "2026-10-19T21:43:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ed1753d23248",
+      "baslik": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
+      "ozet": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
+      "url": "https://www.sozcu.com.tr/ral-yatirim-holding-konkordato-ilan-etti-p370739",
+      "tarih": "2026-10-19T19:51:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "87988392bb82",
       "baslik": "Yeniden Refah'ta istifa sinyali: Doğan Bekin'den çarpıcı açıklama",
@@ -1987,26 +2007,6 @@
       "ozet": "Erdoğan'ın talimatı sonrası DDK Başkanı Tanrıkulu Borsa İstanbul'daki görevlerinden ayrıldı",
       "url": "https://www.sozcu.com.tr/salih-tanrikulu-borsa-istanbul-daki-gorevinden-ayrildi-p364648",
       "tarih": "2026-09-29T21:28:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7beb66e43dd6",
-      "baslik": "Stadyumu yıkıp binlerce ton molozu kıyıya döktüler",
-      "ozet": "Stadyumu yıkıp binlerce ton molozu kıyıya döktüler",
-      "url": "https://www.sozcu.com.tr/stadyumu-yikip-binlerce-ton-molozu-kiyiya-doktuler-p364672",
-      "tarih": "2026-09-29T21:21:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e73fa83ba8a5",
-      "baslik": "Bahçeli'den fon krizi çıkışı: Sorumlular hukuk önünde hesabını vermeli",
-      "ozet": "Bahçeli'den fon krizi çıkışı: Sorumlular hukuk önünde hesabını vermeli",
-      "url": "https://www.sozcu.com.tr/devlet-bahceli-aciklamalar-29-eylul-2026-p364607",
-      "tarih": "2026-09-29T17:20:32+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94788,6 +94788,20 @@
       "ozet": "İkizköylüler yaptıkları açıklamada, “Kimse bizden yasal kılıfa sokulmuş bir gasp faaliyetini kabullenmemizi beklemesin” derken, bu yanlıştan hızlı bir şekilde dönülmesini talep etti. Muğla’nın Milas ilçesinde bulunan Yeniköy-Kemerköy Termik Santralı’nın sahasını genişletmek için ",
       "lat": 37.1628,
       "lng": 28.4061,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-ed1753d23248",
+      "baslik": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "19.10.2026",
+      "url": "https://www.sozcu.com.tr/ral-yatirim-holding-konkordato-ilan-etti-p370739",
+      "ozet": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
+      "lat": 41.0618,
+      "lng": 29.0495,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
