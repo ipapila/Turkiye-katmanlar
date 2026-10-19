@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-19T08:19:55.366596+00:00",
+    "guncelleme": "2026-10-19T16:03:54.017442+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6627,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "87988392bb82",
+      "baslik": "Yeniden Refah'ta istifa sinyali: Doğan Bekin'den çarpıcı açıklama",
+      "ozet": "Yeniden Refah'ta istifa sinyali: Doğan Bekin'den çarpıcı açıklama",
+      "url": "https://www.sozcu.com.tr/dogan-bekin-yeniden-refah-partisinden-istifa-edecek-mi-p370722",
+      "tarih": "2026-10-19T16:02:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3026d80477d4",
+      "baslik": "İstifa haberleri geldi: Borsa çakıldı",
+      "ozet": "İstifa haberleri geldi: Borsa çakıldı",
+      "url": "https://www.sozcu.com.tr/istifa-haberlerinin-ardindan-borsa-istanbul-da-satis-baskisi-derinlesiyor-p370709",
+      "tarih": "2026-10-19T15:19:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0ef9ba58efa5",
+      "baslik": "Denizin ortasındaki kuyudan petrol sızmaya başladı",
+      "ozet": "Denizin ortasındaki kuyudan petrol sızmaya başladı",
+      "url": "https://www.sozcu.com.tr/denizin-ortasindaki-kuyudan-petrol-sizmaya-basladi-p370710",
+      "tarih": "2026-10-19T14:51:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e3733f1282e7",
       "baslik": "COP17’in Ajandasında Neler Var?",
@@ -1977,36 +2007,6 @@
       "ozet": "Bahçeli'den fon krizi çıkışı: Sorumlular hukuk önünde hesabını vermeli",
       "url": "https://www.sozcu.com.tr/devlet-bahceli-aciklamalar-29-eylul-2026-p364607",
       "tarih": "2026-09-29T17:20:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "78a848b55b51",
-      "baslik": "Borsada da işlem görüyordu: 54 yıllık seramik devi konkordato başvurusu yaptı",
-      "ozet": "Borsada da işlem görüyordu: 54 yıllık seramik devi konkordato başvurusu yaptı",
-      "url": "https://www.sozcu.com.tr/borsada-da-islem-goruyordu-54-yillik-seramik-devi-konkordato-basvurusu-yapti-p364621",
-      "tarih": "2026-09-29T17:14:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "156bcf93d3da",
-      "baslik": "Erdoğan'dan fon toplantısı sonrası ilk sözler",
-      "ozet": "Erdoğan'dan fon toplantısı sonrası ilk sözler",
-      "url": "https://www.sozcu.com.tr/erdogan-dan-fon-toplantisi-sonrasi-ilk-sozler-p364602",
-      "tarih": "2026-09-29T16:37:31+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0495c6d40364",
-      "baslik": "215 milyar dolarlık hazine ormanda keşfedilmeyi bekliyor",
-      "ozet": "215 milyar dolarlık hazine ormanda keşfedilmeyi bekliyor",
-      "url": "https://www.sozcu.com.tr/215-milyar-dolarlik-hazine-ormanda-kesfedilmeyi-bekliyor-p364609",
-      "tarih": "2026-09-29T16:17:24+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
