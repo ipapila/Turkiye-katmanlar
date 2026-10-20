@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-20T08:04:41.597151+00:00",
+    "guncelleme": "2026-10-20T14:00:10.802370+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6630,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "fc85f5bd3479",
+      "baslik": "Büyük skandal... Türkiye'nin 103 yıllık sucuk markasının genel müdürü yüz milyonlarca lirayı kendi hesabına çekti",
+      "ozet": "Büyük skandal... Türkiye'nin 103 yıllık sucuk markasının genel müdürü yüz milyonlarca lirayı kendi hesabına çekti",
+      "url": "https://www.sozcu.com.tr/buyuk-skandal-turkiye-nin-103-yillik-sucuk-markasinin-genel-muduru-yuz-milyonlarca-lirayi-kendi-p371038",
+      "tarih": "2026-10-20T13:45:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8ea4b8d256c3",
+      "baslik": "Asfaltın altına sıcak su boruları döşediler",
+      "ozet": "Asfaltın altına sıcak su boruları döşediler",
+      "url": "https://www.sozcu.com.tr/asfaltin-altina-sicak-su-borulari-dosediler-p371031",
+      "tarih": "2026-10-20T13:04:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f7fd7be0bf09",
+      "baslik": "IPCC Toplantısı Yeni Raporun Yayın Tarihi Belirlenmeden Sona Erdi",
+      "ozet": "IPCC raporunun 2028 iklim müzakerelerine yetişmeme ihtimali aralarında Avrupa, Latin Amerika ve küçük ada ülkelerinin de bulunduğu ve acil eylem çağrısında bulunan 30 ülkeden oluşan koalisyonu endişelendirdi. Hükümetler, 2028’deki BM iklim müzakerelerinde “Küresel Durum Değerlend",
+      "url": "https://www.iklimhaber.org/ipcc-toplantisi-yeni-raporun-yayin-tarihi-belirlenmeden-sona-erdi/",
+      "tarih": "2026-10-20T08:18:15+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1ac614531495",
       "baslik": "Dolar/TL'de yükseliş durmuyor: Yeni rekor geldi",
@@ -57,6 +87,16 @@
       "ozet": "Sel ve su baskınları, kentlerin aşırı yağışlara karşı hazırlığını yeniden gündeme taşıyor. İstanbul’da yaşanan selin ardından değerlendirmelerde bulunan TMMOB Peyzaj Mimarları Odası Genel Başkanı Özay Yerlikaya, plansız kentleşmenin, dere yataklarındaki yapılaşmanın ve geçirimsiz",
       "url": "https://www.iklimhaber.org/tmmob-peyzaj-mimarlari-odasi-suyun-yolunu-keserek-kentleri-koruyamayiz/",
       "tarih": "2026-10-20T07:09:20+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "46892d5e627d",
+      "baslik": "AB Enerji Dönüşümü Hedefine Devam Diyor",
+      "ozet": "AB liderlerinden enerji fiyatlarının düşürülmesi, yenilenebilir enerji ve elektrik şebekelerinin yaygınlaştırılmasının hızlandırılması çağrısında bulunurken, Avrupa Konseyi’nin son toplantısında yayımlanan son bildirgesinde, fosil yakıtlardan çıkışın önemine vurgu yapıldı. Avrupa",
+      "url": "https://www.iklimhaber.org/ab-enerji-donusumu-hedefine-devam-diyor/",
+      "tarih": "2026-10-20T06:30:19+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -1969,46 +2009,6 @@
       "tarih": "2026-09-30T15:37:57+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b3262a9b2709",
-      "baslik": "Türkiye'deki S-400'ler hangi 'dost' ülkeye taşınacak? Rusya'dan resmi açıklama geldi",
-      "ozet": "Türkiye'deki S-400'ler hangi 'dost' ülkeye taşınacak? Rusya'dan resmi açıklama geldi",
-      "url": "https://www.sozcu.com.tr/s400ler-icin-kritik-aciklama-dost-bir-ulkeye-tasinabilir-p364929",
-      "tarih": "2026-09-30T15:17:19+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3c6e21ff8996",
-      "baslik": "Bahisten sevk edilen Ertuğrul Doğan'dan ilk açıklama: 'Yıllar öncesine dayanıyor'",
-      "ozet": "Bahisten sevk edilen Ertuğrul Doğan'dan ilk açıklama: 'Yıllar öncesine dayanıyor'",
-      "url": "https://www.sozcu.com.tr/bahisten-sevk-edilen-ertugrul-dogan-dan-ilk-aciklama-yillar-oncesine-dayaniyor-p364927",
-      "tarih": "2026-09-30T14:53:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3d861d59d83b",
-      "baslik": "Yıkılan iki baraj bölgenin kaderini değiştirdi: Her yer yeniden yeşile büründü",
-      "ozet": "Yıkılan iki baraj bölgenin kaderini değiştirdi: Her yer yeniden yeşile büründü",
-      "url": "https://www.sozcu.com.tr/yikilan-iki-baraj-bolgenin-kaderini-degistirdi-her-yer-yeniden-yesile-burundu-p364923",
-      "tarih": "2026-09-30T14:33:09+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d66147905d4a",
-      "baslik": "Denizler ve Okyanuslar Devasa Düzeyde Isı Emiyor",
-      "ozet": "Dünya denizleri ve okyanusları geçen yıl küresel yıllık enerji tüketiminin 40 katına eşdeğer rekor miktarda ısıyı emdi. Termal enerjideki bu artış, deniz seviyelerinin giderek yükselmesi ve okyanusların asitlenmesinin sürmesiyle aynı dönemde gerçekleşti. Yeni bir rapora göre geçe",
-      "url": "https://www.iklimhaber.org/denizler-ve-okyanuslar-devasa-duzeyde-isi-emiyor/",
-      "tarih": "2026-09-30T10:18:10+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
