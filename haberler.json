@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-19T21:53:58.741673+00:00",
+    "guncelleme": "2026-10-20T08:04:41.597151+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6628,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6630,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "1ac614531495",
+      "baslik": "Dolar/TL'de yükseliş durmuyor: Yeni rekor geldi",
+      "ozet": "Dolar/TL'de yükseliş durmuyor: Yeni rekor geldi",
+      "url": "https://www.sozcu.com.tr/dolar-tl-de-yukselis-durmuyor-yeni-rekor-geldi-p370908",
+      "tarih": "2026-10-20T08:02:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f596e7e2a820",
+      "baslik": "İşsizlik maaşı artık böyle hesaplanacak: Milyonları ilgilendiren karar verildi",
+      "ozet": "İşsizlik maaşı artık böyle hesaplanacak: Milyonları ilgilendiren karar verildi",
+      "url": "https://www.sozcu.com.tr/issizlik-maasi-artik-boyle-hesaplanacak-milyonlari-ilgilendiren-karar-verildi-p370902",
+      "tarih": "2026-10-20T07:46:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "42df5c9ffba3",
+      "baslik": "Borsada kritik gün!",
+      "ozet": "Borsada kritik gün!",
+      "url": "https://www.sozcu.com.tr/borsada-yon-yeniden-yukari-p370884",
+      "tarih": "2026-10-20T07:43:47+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d2b6e2d6335c",
+      "baslik": "COP31 Başkanı Türkiye ve Avustralya Kömüre Bel Bağlamaya Devam Ediyor",
+      "ozet": "Uzmanlara göre Türkiye, yeni kömürlü santral yapılmayacağına dair bir taahhütte bulunarak ve kömürden çıkış için adil geçiş planı hazırlayarak COP31 Başkanlığı sürecinde anlamlı bir iklim liderliği sergileyebilir. Avustralya ve Türkiye, COP31’e Antalya’da ev sahipliği yapmaya haz",
+      "url": "https://www.iklimhaber.org/cop31-baskani-turkiye-ve-avustralya-komure-bel-baglamaya-devam-ediyor/",
+      "tarih": "2026-10-20T07:31:24+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "70ec551b887c",
+      "baslik": "TMMOB Peyzaj Mimarları Odası: “Suyun Yolunu Keserek Kentleri Koruyamayız”",
+      "ozet": "Sel ve su baskınları, kentlerin aşırı yağışlara karşı hazırlığını yeniden gündeme taşıyor. İstanbul’da yaşanan selin ardından değerlendirmelerde bulunan TMMOB Peyzaj Mimarları Odası Genel Başkanı Özay Yerlikaya, plansız kentleşmenin, dere yataklarındaki yapılaşmanın ve geçirimsiz",
+      "url": "https://www.iklimhaber.org/tmmob-peyzaj-mimarlari-odasi-suyun-yolunu-keserek-kentleri-koruyamayiz/",
+      "tarih": "2026-10-20T07:09:20+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c9e174a65a7a",
+      "baslik": "Çeşitli projeler için 3 ilde acele kamulaştırma kararları - Evrensel",
+      "ozet": "Çeşitli projeler için 3 ilde acele kamulaştırma kararları Evrensel",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTFKa2pKUzc1dDJEZUNFX1pHTDRRT1Q2MmRUdGFtTnlfdmRGZl9zeVdVd0l6cWY2bDBfa051UzRIY0NpVVcwOVV5OGhDcmV3X09UWFdSRTdpWTNMclhEdDlyZ1BDRWk0a1V3SUpPQVhidFZPOEJEZHc0VUFrUGhyaTVmYnBjaFkyQ0p5b2lOTW5YWExRVms0QUFYQzY?oc=5",
+      "tarih": "2026-10-19T22:44:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d01a889a4949",
       "baslik": "Erdoğan imzaladı! Soruşturma izni verilen isim görevden alındı",
@@ -1949,66 +2009,6 @@
       "tarih": "2026-09-30T10:18:10+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5572ccbe8e48",
-      "baslik": "İklim Değişikliği Aşırı Hava Olaylarını Şiddetlendiriyor, Riskler Eşit Dağılmıyor",
-      "ozet": "İklim değişikliği fırtınaları daha şiddetli ve tehlikeli hale getirmekle birlikte aşırı doğa olayları, ekonomik yıkımı büyüterek ağır kayıplara yol açıyor. Yoksul ülkeler, bu yıkıcı etkilerden orantısız biçimde daha kötü etkilenirken, tüm doğal tehlikelerden kaynaklanan genel afe",
-      "url": "https://www.iklimhaber.org/iklim-degisikligi-asiri-hava-olaylarini-siddetlendiriyor-riskler-esit-dagilmiyor/",
-      "tarih": "2026-09-30T08:41:25+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "20a85224a494",
-      "baslik": "\"Pastırma sıcakları\" için tarih verildi: Sıcaklıklar ne zaman yükselecek?",
-      "ozet": "\"Pastırma sıcakları\" için tarih verildi: Sıcaklıklar ne zaman yükselecek?",
-      "url": "https://www.sozcu.com.tr/pastirma-sicaklari-icin-tarih-verildi-sicakliklar-ne-zaman-yukselecek-p364764",
-      "tarih": "2026-09-30T08:01:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7aef37c59fac",
-      "baslik": "COP31’e Katılımın Önünde Maliyet ve Erişim Eşikleri",
-      "ozet": "Resmi COP31 konaklama platformundaki 208 tesisi inceleyen yeni bir araştırmaya göre, 9–20 Kasım arasındaki konaklama döneminde tesislerin yalnızca %13,5’inde başlangıç maliyeti 55.000 TL veya altında. Konferans alanına yakın tesislerde maliyet belirgin biçimde yükseliyor. Social ",
-      "url": "https://www.iklimhaber.org/cop31e-katilimin-onunde-maliyet-ve-erisim-esikleri/",
-      "tarih": "2026-09-30T07:37:09+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e0f0369ff06a",
-      "baslik": "Yeraltı'nın yıldızı Deniz Can Aktaş'tan aşk itirafı: \"Hayatımda biri var\"",
-      "ozet": "Yeraltı'nın yıldızı Deniz Can Aktaş'tan aşk itirafı: \"Hayatımda biri var\"",
-      "url": "https://www.sozcu.com.tr/yeralti-nin-yildizi-deniz-can-aktas-tan-ask-itirafi-hayatimda-biri-var-p364765",
-      "tarih": "2026-09-30T07:11:25+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fc5adeae38d3",
-      "baslik": "ABD neden Kuzey Kore’nin nükleer silahlarına müdahale etmiyor: Trump’tan kaçamak yanıt",
-      "ozet": "ABD neden Kuzey Kore’nin nükleer silahlarına müdahale etmiyor: Trump’tan kaçamak yanıt",
-      "url": "https://www.sozcu.com.tr/abd-neden-kuzey-kore-nin-nukleer-silahlarina-mudahale-etmiyor-trump-tan-kacamak-yanit-p364679",
-      "tarih": "2026-09-29T21:29:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "46cdca23a381",
-      "baslik": "Erdoğan'ın talimatı sonrası DDK Başkanı Tanrıkulu Borsa İstanbul'daki görevlerinden ayrıldı",
-      "ozet": "Erdoğan'ın talimatı sonrası DDK Başkanı Tanrıkulu Borsa İstanbul'daki görevlerinden ayrıldı",
-      "url": "https://www.sozcu.com.tr/salih-tanrikulu-borsa-istanbul-daki-gorevinden-ayrildi-p364648",
-      "tarih": "2026-09-29T21:28:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -94802,6 +94802,34 @@
       "ozet": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
       "lat": 41.0618,
       "lng": 29.0495,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d2b6e2d6335c",
+      "baslik": "COP31 Başkanı Türkiye ve Avustralya Kömüre Bel Bağlamaya Devam Ediyor",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "20.10.2026",
+      "url": "https://www.iklimhaber.org/cop31-baskani-turkiye-ve-avustralya-komure-bel-baglamaya-devam-ediyor/",
+      "ozet": "Uzmanlara göre Türkiye, yeni kömürlü santral yapılmayacağına dair bir taahhütte bulunarak ve kömürden çıkış için adil geçiş planı hazırlayarak COP31 Başkanlığı sürecinde anlamlı bir iklim liderliği sergileyebilir. Avustralya ve Türkiye, COP31’e Antalya’da ev sahipliği yapmaya haz",
+      "lat": 36.9779,
+      "lng": 30.6158,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-70ec551b887c",
+      "baslik": "TMMOB Peyzaj Mimarları Odası: “Suyun Yolunu Keserek Kentleri Koruyamayız”",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "20.10.2026",
+      "url": "https://www.iklimhaber.org/tmmob-peyzaj-mimarlari-odasi-suyun-yolunu-keserek-kentleri-koruyamayiz/",
+      "ozet": "Sel ve su baskınları, kentlerin aşırı yağışlara karşı hazırlığını yeniden gündeme taşıyor. İstanbul’da yaşanan selin ardından değerlendirmelerde bulunan TMMOB Peyzaj Mimarları Odası Genel Başkanı Özay Yerlikaya, plansız kentleşmenin, dere yataklarındaki yapılaşmanın ve geçirimsiz",
+      "lat": 40.9041,
+      "lng": 28.9661,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

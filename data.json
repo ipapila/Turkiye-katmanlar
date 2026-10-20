@@ -120483,5 +120483,43 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/ral-yatirim-holding-konkordato-ilan-etti-p370739"
+  },
+  {
+    "id": "tarayici-d2b6e2d6335c",
+    "tip": "Ekolojik İhlal",
+    "ad": "COP31 Başkanı Türkiye ve Avustralya Kömüre Bel Bağlamaya Devam Ediyor",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Uzmanlara göre Türkiye, yeni kömürlü santral yapılmayacağına dair bir taahhütte bulunarak ve kömürden çıkış için adil geçiş planı hazırlayarak COP31 Başkanlığı sürecinde anlamlı bir iklim liderliği sergileyebilir. Avustralya ve Türkiye, COP31’e Antalya’da ev sahipliği yapmaya haz",
+    "koordinatlar": {
+      "lat": 36.9779,
+      "lng": 30.6158
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "20.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31-baskani-turkiye-ve-avustralya-komure-bel-baglamaya-devam-ediyor/"
+  },
+  {
+    "id": "tarayici-70ec551b887c",
+    "tip": "Ekolojik İhlal",
+    "ad": "TMMOB Peyzaj Mimarları Odası: “Suyun Yolunu Keserek Kentleri Koruyamayız”",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Sel ve su baskınları, kentlerin aşırı yağışlara karşı hazırlığını yeniden gündeme taşıyor. İstanbul’da yaşanan selin ardından değerlendirmelerde bulunan TMMOB Peyzaj Mimarları Odası Genel Başkanı Özay Yerlikaya, plansız kentleşmenin, dere yataklarındaki yapılaşmanın ve geçirimsiz",
+    "koordinatlar": {
+      "lat": 40.9041,
+      "lng": 28.9661
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "20.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/tmmob-peyzaj-mimarlari-odasi-suyun-yolunu-keserek-kentleri-koruyamayiz/"
   }
 ]
