@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-20T14:00:10.802370+00:00",
+    "guncelleme": "2026-10-20T18:51:02.990919+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6630,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6631,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "a9663969a50c",
+      "baslik": "Ülke yangın yeri: Şiddet ve yağma olayları sonrası ordu sokağa iniyor",
+      "ozet": "Ülke yangın yeri: Şiddet ve yağma olayları sonrası ordu sokağa iniyor",
+      "url": "https://www.sozcu.com.tr/ulke-yangin-yeri-siddet-ve-yagma-olaylari-sonrasi-ordu-sokaga-iniyor-p371098",
+      "tarih": "2026-10-20T18:27:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "46193d5f0853",
+      "baslik": "Sel baskınlarını önlemek için yolların altına dev süngerler yerleştirdiler",
+      "ozet": "Sel baskınlarını önlemek için yolların altına dev süngerler yerleştirdiler",
+      "url": "https://www.sozcu.com.tr/sel-baskinlarini-onlemek-icin-yollarin-altina-dev-sungerler-yerlestirdiler-p371090",
+      "tarih": "2026-10-20T17:22:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "28c02e7f239c",
+      "baslik": "2 ay önce göreve başlayan Cumhurbaşkanı saldırı talimatı verdi: Ülkede ‘kaplan dönemi’ resmen başladı",
+      "ozet": "2 ay önce göreve başlayan Cumhurbaşkanı saldırı talimatı verdi: Ülkede ‘kaplan dönemi’ resmen başladı",
+      "url": "https://www.sozcu.com.tr/2-ay-once-goreve-baslayan-cumhurbaskani-saldiri-talimati-verdi-ulkede-kaplan-donemi-resmen-basladi-p371089",
+      "tarih": "2026-10-20T17:19:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1323d5742f8c",
+      "baslik": "Selçuk İnan'dan sakatlık açıklaması! 3 ismin son durumunu açıkladı",
+      "ozet": "Selçuk İnan'dan sakatlık açıklaması! 3 ismin son durumunu açıkladı",
+      "url": "https://www.sozcu.com.tr/selcuk-inan-dan-sakatlik-aciklamasi-3-ismin-son-durumunu-acikladi-p371066",
+      "tarih": "2026-10-20T15:19:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "fc85f5bd3479",
       "baslik": "Büyük skandal... Türkiye'nin 103 yıllık sucuk markasının genel müdürü yüz milyonlarca lirayı kendi hesabına çekti",
@@ -1967,46 +2007,6 @@
       "ozet": "Dev boru hattı için düğmeye basıldı: 1.300 kilometre uzanacak, 54 milyar dolara mal olacak",
       "url": "https://www.sozcu.com.tr/dev-boru-hatti-icin-dugmeye-basildi-1-300-kilometre-uzanacak-54-milyar-dolara-mal-olacak-p364972",
       "tarih": "2026-09-30T19:38:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0a829e8d5de4",
-      "baslik": "Beştepe'de dikkat çeken görüşme: Cemil Tugay Erdoğan ile bir araya geldi",
-      "ozet": "Beştepe'de dikkat çeken görüşme: Cemil Tugay Erdoğan ile bir araya geldi",
-      "url": "https://www.sozcu.com.tr/cemil-tugay-kulliye-de-erdogan-ile-gorustu-p364947",
-      "tarih": "2026-09-30T19:14:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bc45fc62d41c",
-      "baslik": "Tekne alabora oldu: 1 polis hayatını kaybetti, 1 polis kayıp",
-      "ozet": "Tekne alabora oldu: 1 polis hayatını kaybetti, 1 polis kayıp",
-      "url": "https://www.sozcu.com.tr/tekne-alabora-oldu-1-polis-hayatini-kaybetti-1-polis-kayip-p364966",
-      "tarih": "2026-09-30T19:00:27+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "da50949937b0",
-      "baslik": "Fatih Erbakan istedi, Milletvekili Doğan Bekin istifa etti: AKP’ye geçeceği iddia edilmişti",
-      "ozet": "Fatih Erbakan istedi, Milletvekili Doğan Bekin istifa etti: AKP’ye geçeceği iddia edilmişti",
-      "url": "https://www.sozcu.com.tr/fatih-erbakan-istedi-milletvekili-dogan-bekin-istifa-etti-akp-ye-gececegi-iddia-edilmisti-p364936",
-      "tarih": "2026-09-30T15:41:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "839e5c801712",
-      "baslik": "Fenerbahçe'nin genç yıldızı A Milli Takım'a yükseldi",
-      "ozet": "Fenerbahçe'nin genç yıldızı A Milli Takım'a yükseldi",
-      "url": "https://www.sozcu.com.tr/fenerbahcenin-genc-yildizi-a-milli-takima-yukseldi-p364934",
-      "tarih": "2026-09-30T15:37:57+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94830,6 +94830,20 @@
       "ozet": "Sel ve su baskınları, kentlerin aşırı yağışlara karşı hazırlığını yeniden gündeme taşıyor. İstanbul’da yaşanan selin ardından değerlendirmelerde bulunan TMMOB Peyzaj Mimarları Odası Genel Başkanı Özay Yerlikaya, plansız kentleşmenin, dere yataklarındaki yapılaşmanın ve geçirimsiz",
       "lat": 40.9041,
       "lng": 28.9661,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a9663969a50c",
+      "baslik": "Ülke yangın yeri: Şiddet ve yağma olayları sonrası ordu sokağa iniyor",
+      "konum": "Ordu",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "20.10.2026",
+      "url": "https://www.sozcu.com.tr/ulke-yangin-yeri-siddet-ve-yagma-olaylari-sonrasi-ordu-sokaga-iniyor-p371098",
+      "ozet": "Ülke yangın yeri: Şiddet ve yağma olayları sonrası ordu sokağa iniyor",
+      "lat": 41.0751,
+      "lng": 37.9862,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

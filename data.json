@@ -120521,5 +120521,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/tmmob-peyzaj-mimarlari-odasi-suyun-yolunu-keserek-kentleri-koruyamayiz/"
+  },
+  {
+    "id": "tarayici-a9663969a50c",
+    "tip": "Ekolojik İhlal",
+    "ad": "Ülke yangın yeri: Şiddet ve yağma olayları sonrası ordu sokağa iniyor",
+    "il": "Ordu",
+    "ilce": "",
+    "aciklama": "Ülke yangın yeri: Şiddet ve yağma olayları sonrası ordu sokağa iniyor",
+    "koordinatlar": {
+      "lat": 41.0751,
+      "lng": 37.9862
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "20.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/ulke-yangin-yeri-siddet-ve-yagma-olaylari-sonrasi-ordu-sokaga-iniyor-p371098"
   }
 ]
