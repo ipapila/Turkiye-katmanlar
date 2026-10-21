@@ -120540,5 +120540,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/ulke-yangin-yeri-siddet-ve-yagma-olaylari-sonrasi-ordu-sokaga-iniyor-p371098"
+  },
+  {
+    "id": "tarayici-aad46264062d",
+    "tip": "İklim Olayları",
+    "ad": "İstanbul’daki Sel Felaketinde İklim Değişikliğinin Payı Ne?",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Yeni bir çalışmaya göre İstanbul’u sular altında bırakan yağmur, geçmişe kıyasla daha şiddetli yağışlar ve kuvvetli rüzgarlar getiren bir hava sisteminden kaynaklanıyordu. İklim değişikliğinin, yağışları %7, rüzgarları ise %9 daha şiddetli hale getirdiği hesaplandı. Dünya genelin",
+    "koordinatlar": {
+      "lat": 41.0971,
+      "lng": 29.0603
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "21.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/istanbuldaki-sel-felaketinde-iklim-degisikliginin-payi-ne/"
   }
 ]
