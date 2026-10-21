@@ -120559,5 +120559,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/istanbuldaki-sel-felaketinde-iklim-degisikliginin-payi-ne/"
+  },
+  {
+    "id": "tarayici-85526a293ad7",
+    "tip": "Ekolojik İhlal",
+    "ad": "Trabzon dışına hiç çıkarmadığı kamyonetine İstanbul'da geçiş ihlali cezası geldi - DHA | Demirören Haber Ajansı",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Trabzon dışına hiç çıkarmadığı kamyonetine İstanbul'da geçiş ihlali cezası geldi DHA | Demirören Haber Ajansı",
+    "koordinatlar": {
+      "lat": 41.0469,
+      "lng": 28.9815
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "21.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEZSNF9iNVZadzVqS09GUmd1ZlVPblNVYTRvUHhpalNKLXdJQkVFNk1GVjJtTnM3MGx1bUY5bEtMSFJuZDlaeEZpNk54Z0NKcnJfZXNXdUR6eElpQmc5VmFjTzFpMTJ6aldfY0w5UEZUdFRmZnlYZ1U4Ykhack1ZdFctZUtwV0lIeDE3ZGdzYjFOaGJCYUpPOWFfbU9nLXhKNnF4SE15WXc1emxGQ2ZEN3A1eHhlaG9sX0ExdkpLSdIBwwFBVV95cUxORDc1eDQtc1pMTHVqZDEzcU4wMU12VFc4R0JLYkRSaFBsQ0Y1ZC1wcFd0QTFfeEVGeVBxaE9mNnF2ZW56SlBMbW93dnNhdnppaUN5X2FkaVJiYXRZTFBvOUd2OEFqa241MzVydUJtbHRHcUo2TXZ0OThhYmpFdnVYSG5GVnpQY2NaSVIybXBpcVlqbXdPeV9Rb05ZUXdHN3drcFN0cEYwY2w2V05wU1dHZ0NhTW9hWmc4NDVUb2tXdzNmNms?oc=5"
+  },
+  {
+    "id": "tarayici-7e8af4a2a012",
+    "tip": "Maden Ocağı",
+    "ad": "Bolu’da maden ocağına tepki: Köylüler ‘ÇED gerekli değildir’ kararına dava açacak - İlke TV",
+    "il": "Bolu",
+    "ilce": "",
+    "aciklama": "Bolu’da maden ocağına tepki: Köylüler ‘ÇED gerekli değildir’ kararına dava açacak İlke TV",
+    "koordinatlar": {
+      "lat": 40.6479,
+      "lng": 31.6065
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "21.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE94TTdKQzIxMVFLOTBFd3JLT1h2d1JZaFBXbDZFZFpkdEdXb1JhaHFLekNRdWU4MFZlcERPcDNyQjJFRl9keW85N3NjcUZ0Sjh6bGEwNUZmelhzSXctU2kyMW1NT3dBRkxrb3lGTjlzSkp4NWFDcDlQdjU2c0xXQVllTV8tRFFwdF9FVUdHb2I3MGJ2LWtvb1V4LUZMRWZIcFE?oc=5"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-21T08:09:45.980350+00:00",
+    "guncelleme": "2026-10-21T14:16:17.504337+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6632,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6634,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "832cdb2ef647",
+      "baslik": "13 yaş farkı aşka engel olmadı: Ahu Yağtu ve Bora Cengiz ilk kez el ele",
+      "ozet": "13 yaş farkı aşka engel olmadı: Ahu Yağtu ve Bora Cengiz ilk kez el ele",
+      "url": "https://www.sozcu.com.tr/13-yas-farki-aska-engel-olmadi-ahu-yagtu-ve-bora-cengiz-ilk-kez-el-ele-p371365",
+      "tarih": "2026-10-21T12:24:43+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5a2d945afbc7",
+      "baslik": "BM: Dünya 2.8 Derecelik bir Sıcaklık Artışına Doğru Yol Alıyor",
+      "ozet": "BM’nin Emisyon Açığı 2026 raporuna göre, mevcut politikalarla devam edilmesi durumunda, küresel sıcaklık artışı yüzyıl sonuna kadar 2.8 dereceye ulaşabilir. COP31 Başkanı ve ev sahibi Türkiye de, çalışmada, 2025’te emisyonlarını en hızlı artıran ikinci G20 ülkesi olarak öne çıkıy",
+      "url": "https://www.iklimhaber.org/bm-dunya-2-8-derecelik-bir-sicaklik-artisina-dogru-yol-aliyor/",
+      "tarih": "2026-10-21T09:02:04+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "9f1c48a0b7fa",
       "baslik": "Çin COP31’in Temiz Teknolojiye Yönelik Gümrük Vergilerine Odaklanmasını İstiyor",
@@ -39,6 +59,16 @@
       "tarih": "2026-10-21T07:02:06+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "21edd755bf4b",
+      "baslik": "Türk Çevre Mevzuatında kirleten Öder İlkesi: Çevreyi kirleten kim, hangi bedeli ödüyor? - Haberton",
+      "ozet": "Türk Çevre Mevzuatında kirleten Öder İlkesi: Çevreyi kirleten kim, hangi bedeli ödüyor? Haberton",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTBLanU0ZUJiaHZ3VmNPSUFsRDRLTERtVjBXNHlWMzNUQTJrb1Vzdm9OWEM5aHphT2JkQXVPYXZ0a09TNy1NZzdtTUl0R3RWZXFrbUhDRWVkZ0p0UUZMM0pNSjFQMHdlLU9fd1Bwb1czUWZWWXJRVTZJQzhSR1ppajNIV2lZYUhEYkFTVDJRbmVNQmwtYXh2RjJCVEZHUXNFQUpQX2RSVVdrZw?oc=5",
+      "tarih": "2026-10-21T06:52:55+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -112,6 +142,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "ced7de0dbd74",
+      "baslik": "Yeni dönemde çevre güvenliğinin sağlanmasına ilişkin Politbüro Direktifi - Vietnam.vn",
+      "ozet": "Yeni dönemde çevre güvenliğinin sağlanmasına ilişkin Politbüro Direktifi Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzFFMW84eVJTaWxqQmJWeUVCeDllckR6a0RFTkg1SmIwM21xTnNYSDZ2Ri1KV1RsRXY5SjhRX1hyWVpPWW9tcVVMV1hZRU9QUmRrMnhrT3lCVW5GSkZlTWdteUl6TDkyQjRvYUtxYl9nNWdWb2Z2czEyWmNzSDB2MWRCSHJzeWIyc3dlUllGUU5WVTRHeDZQdWNZWVFacUE?oc=5",
+      "tarih": "2026-10-20T08:41:09+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "f7fd7be0bf09",
       "baslik": "IPCC Toplantısı Yeni Raporun Yayın Tarihi Belirlenmeden Sona Erdi",
       "ozet": "IPCC raporunun 2028 iklim müzakerelerine yetişmeme ihtimali aralarında Avrupa, Latin Amerika ve küçük ada ülkelerinin de bulunduğu ve acil eylem çağrısında bulunan 30 ülkeden oluşan koalisyonu endişelendirdi. Hükümetler, 2028’deki BM iklim müzakerelerinde “Küresel Durum Değerlend",
@@ -179,6 +219,16 @@
       "tarih": "2026-10-20T06:30:19+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "28033564d63f",
+      "baslik": "Politbüro: Çevre ihlallerinin örtbas edilmesine yönelik eylemlerle kararlı bir şekilde mücadele edin. - Vietnam.vn",
+      "ozet": "Politbüro: Çevre ihlallerinin örtbas edilmesine yönelik eylemlerle kararlı bir şekilde mücadele edin. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd3VJV1ZOWWo5b2hPMHNzbVNFWWFYaWtKTncwM3FSTHQ2b3M1cVZwX0tabzI4V0g2RElnUUo1TDZmMVRHYzB5c21vZ2NCaDRDOWFNd3ZiNndJY2cxOThxMUFRclJfVFVYQ09hNTJvazlIM1NWbmhFZXUyS01NZFpSb2pKV0h1UW9Hc0tvQnVRclJ3X2hUNEdvaml3?oc=5",
+      "tarih": "2026-10-20T04:39:43+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -702,6 +752,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "85526a293ad7",
+      "baslik": "Trabzon dışına hiç çıkarmadığı kamyonetine İstanbul'da geçiş ihlali cezası geldi - DHA | Demirören Haber Ajansı",
+      "ozet": "Trabzon dışına hiç çıkarmadığı kamyonetine İstanbul'da geçiş ihlali cezası geldi DHA | Demirören Haber Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEZSNF9iNVZadzVqS09GUmd1ZlVPblNVYTRvUHhpalNKLXdJQkVFNk1GVjJtTnM3MGx1bUY5bEtMSFJuZDlaeEZpNk54Z0NKcnJfZXNXdUR6eElpQmc5VmFjTzFpMTJ6aldfY0w5UEZUdFRmZnlYZ1U4Ykhack1ZdFctZUtwV0lIeDE3ZGdzYjFOaGJCYUpPOWFfbU9nLXhKNnF4SE15WXc1emxGQ2ZEN3A1eHhlaG9sX0ExdkpLSdIBwwFBVV95cUxORDc1eDQtc1pMTHVqZDEzcU4wMU12VFc4R0JLYkRSaFBsQ0Y1ZC1wcFd0QTFfeEVGeVBxaE9mNnF2ZW56SlBMbW93dnNhdnppaUN5X2FkaVJiYXRZTFBvOUd2OEFqa241MzVydUJtbHRHcUo2TXZ0OThhYmpFdnVYSG5GVnpQY2NaSVIybXBpcVlqbXdPeV9Rb05ZUXdHN3drcFN0cEYwY2w2V05wU1dHZ0NhTW9hWmc4NDVUb2tXdzNmNms?oc=5",
+      "tarih": "2026-10-15T07:03:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "b77432eb4d75",
       "baslik": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
       "ozet": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
@@ -957,6 +1017,16 @@
       "ozet": "İnsan Hakları İzleme Örgütü: COP31’in ev sahibi Türkiye’den çevre savunucularına baskı Bianet",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkJld2l5VE54ZUtFNkFrN3I2a2dSbWNLaWtxZ1JWRDFkSE94NVE1Q084V1U4cFZ2VnU1RDBELTBmTmVWbEVLQjRMbUFhalNGTER2MzZCS2xlTm9xejJCdVk0dERsNlBraWo0OGhmdkNZbWdBSEhXdXEzeTlRYjBFRjBGdmdiZkNLaFFEZ2VBSzhJbThaRVFvTmdmOEpPWDM2VnVxRTctcnUxTjhiSUJqU0dSaXZlQQ?oc=5",
       "tarih": "2026-10-13T06:10:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2d3282ddf0de",
+      "baslik": "Türkiye: COP31’in Ev Sahibinden Çevre Savunucularına Baskı - Human Rights Watch",
+      "ozet": "Türkiye: COP31’in Ev Sahibinden Çevre Savunucularına Baskı Human Rights Watch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1FNQkZMYWJQalNqWjhFQ3hLX3lNaHBrekFqX2xxVGZGRm1xOGhTalBQZWJlS0ZSTGVydHBTS3hHUjYwdFpXVkRXaWhDWk5aN1NlZDhZamxDeXZ3eUN6S3QxTFNkS3ZucmtrZTdfdHRqRS1PQ1JKUmtOUG9oQ0JveTVPWUt4bXh5cVVHVF9R?oc=5",
+      "tarih": "2026-10-13T04:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
@@ -1937,76 +2007,6 @@
       "ozet": "Önce ıslattılar sonra dövdüler! Liseli kızların yaptıkları 'pes' dedirtti",
       "url": "https://www.sozcu.com.tr/cesmede-islatip-dovduler-liseli-kizlarin-akran-zorbaligi-kamerada-p365284",
       "tarih": "2026-10-01T17:10:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cbf78eabf999",
-      "baslik": "Erdoğan kürsüye çıktı, Yeni Parti salonu terk etti! Bahçeli'den ilk yorum geldi",
-      "ozet": "Erdoğan kürsüye çıktı, Yeni Parti salonu terk etti! Bahçeli'den ilk yorum geldi",
-      "url": "https://www.sozcu.com.tr/bahceli-den-yeni-partinin-salonu-terk-etmesine-ilk-yorum-p365290",
-      "tarih": "2026-10-01T16:43:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8f6f14edcd3f",
-      "baslik": "Manchester City'den sonra bir dünya devinin daha kupaları elinden alınabilir",
-      "ozet": "Manchester City'den sonra bir dünya devinin daha kupaları elinden alınabilir",
-      "url": "https://www.sozcu.com.tr/real-madrid-resmen-barcelonanin-kupalarini-istedi-p365274",
-      "tarih": "2026-10-01T15:38:10+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1e0aa7da034c",
-      "baslik": "Zafer Partili Aslan’dan acele kamulaştırma tepkisi: “Toprağı da suyu da gözden çıkaramazsınız” - Son Dakika",
-      "ozet": "Zafer Partili Aslan’dan acele kamulaştırma tepkisi: “Toprağı da suyu da gözden çıkaramazsınız” Son Dakika",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEY2N0Z6OGNlVDg1WmY0ekNUQ3J1RDhiVjVxNVZBWVVBWUtGTG93aVpDSXlXeWItdEVJYy0yaHpISl9kaWg5aG4zT2xNeFFzNUc4U0thU2RKN3Q3alZtbi1TVGR5MHJGMGVNUWNzLXk4V0VrOXhyVFF5Snp2TjBzVFpBSUdyRHlKdUNsTGdOX2pDS2lmbUhhUkdhT3hlNzA30gGcAUFVX3lxTFBzejhLOGNpVENvNk13TDhYcjNUS3NGcjV4VVJfdERGUmtjWjVPX05HUW1XZTJ4R1BGcXlHbjA5LUY0YmpvSWV1bWxRbXJkYzNyVzRhaV9JYU1GZkpQVDhyUVMyTHhjdDAzT2Ixb3JSWThRajRQMEs2TzZDR1lMdTk3Mk16VGZ3Q2xOU1U0Z1BwLUJVSGQxOEVRYnRmMw?oc=5",
-      "tarih": "2026-10-01T12:17:21+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8212eb698091",
-      "baslik": "Zafer Partili Aslan’dan acele kamulaştırma tepkisi: “Toprağı da suyu da gözden çıkaramazsınız” - GazeteKalem",
-      "ozet": "Zafer Partili Aslan’dan acele kamulaştırma tepkisi: “Toprağı da suyu da gözden çıkaramazsınız” GazeteKalem",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXpZNmtxUEZoeTlXbU5admpQWTFDRnBWb0thT1dvSk9ORUFUc0l5Y3o2QW9QeU1SWllUNkhEY3lra1dPMUxuZHFta1RvaHFaaThlUUdGeFhhWE9BMlk4aklCcGZwUzJMMTJqc1k2Vm5Dal9EZ2NMOUg5NUtZRmVuT3hEZklocnd2NmhLa0pteGxaMHFIRm9vU3UyWG1vOUd2UGIzQS10T19ZWFpkU2dvVTJtTFFNZEkxUFE?oc=5",
-      "tarih": "2026-10-01T12:08:07+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cd8d6872f046",
-      "baslik": "Bankacılık Sektörü Kömür Finansmanında “Ayrışıyor”",
-      "ozet": "Yeni bir çalışmanın sonuçlarına göre, 2022 ile 2025 yılları arasında bankaların kömür sektörüne sağladığı finansman genel olarak yatay seyretti ve yıllık ortalama yaklaşık 117 milyar dolar oldu. Birleşik Krallık bankaları Avrupa’nın en büyük kömür finansörü konumunda. Buna karşıl",
-      "url": "https://www.iklimhaber.org/bankacilik-sektoru-komur-finansmaninda-ayrisiyor/",
-      "tarih": "2026-10-01T11:34:50+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d5b589a10d7c",
-      "baslik": "Ünlü gece kulübünde yangın çıktı! Küle döndü...",
-      "ozet": "Ünlü gece kulübünde yangın çıktı! Küle döndü...",
-      "url": "https://www.sozcu.com.tr/unlu-gece-kulubunde-yangin-cikti-kule-dondu-p365167",
-      "tarih": "2026-10-01T09:27:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c3774d9598c7",
-      "baslik": "4 yıl kaldı: Evlere borularla taşınacak, ısınma faturasını tarihe gömecekler",
-      "ozet": "4 yıl kaldı: Evlere borularla taşınacak, ısınma faturasını tarihe gömecekler",
-      "url": "https://www.sozcu.com.tr/4-yil-kaldi-evlere-borularla-tasinacak-isinma-faturasini-tarihe-gomecekler-p365160",
-      "tarih": "2026-10-01T09:15:19+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94858,6 +94858,34 @@
       "ozet": "Yeni bir çalışmaya göre İstanbul’u sular altında bırakan yağmur, geçmişe kıyasla daha şiddetli yağışlar ve kuvvetli rüzgarlar getiren bir hava sisteminden kaynaklanıyordu. İklim değişikliğinin, yağışları %7, rüzgarları ise %9 daha şiddetli hale getirdiği hesaplandı. Dünya genelin",
       "lat": 41.0971,
       "lng": 29.0603,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-85526a293ad7",
+      "baslik": "Trabzon dışına hiç çıkarmadığı kamyonetine İstanbul'da geçiş ihlali cezası geldi - DHA | Demirören Haber Ajansı",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "21.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEZSNF9iNVZadzVqS09GUmd1ZlVPblNVYTRvUHhpalNKLXdJQkVFNk1GVjJtTnM3MGx1bUY5bEtMSFJuZDlaeEZpNk54Z0NKcnJfZXNXdUR6eElpQmc5VmFjTzFpMTJ6aldfY0w5UEZUdFRmZnlYZ1U4Ykhack1ZdFctZUtwV0lIeDE3ZGdzYjFOaGJCYUpPOWFfbU9nLXhKNnF4SE15WXc1emxGQ2ZEN3A1eHhlaG9sX0ExdkpLSdIBwwFBVV95cUxORDc1eDQtc1pMTHVqZDEzcU4wMU12VFc4R0JLYkRSaFBsQ0Y1ZC1wcFd0QTFfeEVGeVBxaE9mNnF2ZW56SlBMbW93dnNhdnppaUN5X2FkaVJiYXRZTFBvOUd2OEFqa241MzVydUJtbHRHcUo2TXZ0OThhYmpFdnVYSG5GVnpQY2NaSVIybXBpcVlqbXdPeV9Rb05ZUXdHN3drcFN0cEYwY2w2V05wU1dHZ0NhTW9hWmc4NDVUb2tXdzNmNms?oc=5",
+      "ozet": "Trabzon dışına hiç çıkarmadığı kamyonetine İstanbul'da geçiş ihlali cezası geldi DHA | Demirören Haber Ajansı",
+      "lat": 41.0469,
+      "lng": 28.9815,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-7e8af4a2a012",
+      "baslik": "Bolu’da maden ocağına tepki: Köylüler ‘ÇED gerekli değildir’ kararına dava açacak - İlke TV",
+      "konum": "Bolu",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "21.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE94TTdKQzIxMVFLOTBFd3JLT1h2d1JZaFBXbDZFZFpkdEdXb1JhaHFLekNRdWU4MFZlcERPcDNyQjJFRl9keW85N3NjcUZ0Sjh6bGEwNUZmelhzSXctU2kyMW1NT3dBRkxrb3lGTjlzSkp4NWFDcDlQdjU2c0xXQVllTV8tRFFwdF9FVUdHb2I3MGJ2LWtvb1V4LUZMRWZIcFE?oc=5",
+      "ozet": "Bolu’da maden ocağına tepki: Köylüler ‘ÇED gerekli değildir’ kararına dava açacak İlke TV",
+      "lat": 40.6479,
+      "lng": 31.6065,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
