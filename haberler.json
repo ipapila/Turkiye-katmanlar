@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-10-22T08:10:25.927713+00:00",
+    "guncelleme": "2026-10-22T14:15:33.360629+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6635,
+    "harita_kayit_sayisi": 6636,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "0cc3f810487c",
+      "baslik": "Ertuğrul Doğan'dan transfer mesajı: 'Kim gerekiyorsa, alacağız'",
+      "ozet": "Ertuğrul Doğan'dan transfer mesajı: 'Kim gerekiyorsa, alacağız'",
+      "url": "https://www.sozcu.com.tr/ertugrul-dogandan-transfer-mesaji-kim-gerekiyorsa-alacagiz-p371752",
+      "tarih": "2026-10-22T13:42:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dd11c6de481a",
+      "baslik": "Küresel İklim Adaleti Savunucuları Halkların İklim Zirvesi’nde Bir Araya Geliyor",
+      "ozet": "14 Kasım Küresel Eylem Günü’nde miting ile başlayacak olan Halkların İklim Zirvesi, 130’u aşkın kurumun katılacağı yaklaşık 150 etkinlik ile 18 Kasım’a kadar Antalya’da gerçekleştirilecek. Zirve, COP31’in ötesine geçerek ekolojik yıkıma karşı iklim adaleti, demokrasi, barış ve ha",
+      "url": "https://www.iklimhaber.org/kuresel-iklim-adaleti-savunuculari-halklarin-iklim-zirvesinde-bir-araya-geliyor/",
+      "tarih": "2026-10-22T08:30:02+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "74cf584ef270",
       "baslik": "Türkiye'de gözler saat 14.00'e çevrildi: Dolar, euro ve borsa nasıl etkilenecek?",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-10-02T16:57:46+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "34cde0ca3a6e",
-      "baslik": "İklim İnkârcılığı Sözlüğü-14: “Zamların Sebebi Fosil Yakıt Kısıtlamalarıdır”",
-      "ozet": "İnkârcıların perdelemeye çalıştığı gerçek, fiyatlardaki küresel artışın ardında ABD ile İran arasındaki savaşın ve bunun getirdiği fosil yakıt krizi. Sorun milyarlarca dolarla desteklenen fosil yakıtların neden olduğu ekonomik kırılganlık. Çözüm ise yerli ve temiz enerji kaynakla",
-      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-14-zamlarin-sebebi-fosil-yakit-kisitlamalaridir/",
-      "tarih": "2026-10-02T08:41:41+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "110ca9551dcd",
-      "baslik": "Soma’da Maden Ocağındaki Göçükte 5 Madenci Yaşamını Yitirdi",
-      "ozet": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Manisa’nın Soma ilçesindeki maden ocağında meydana gelen göçükte 5 madencinin hayatını kaybettiğini bildirdi. Manisa Valiliği, Soma ilçesindeki bir maden işletmesinde meydana gelen göçükte 3 işçinin daha cansız bedenine ulaşıldığını ",
-      "url": "https://www.iklimhaber.org/somada-maden-ocagindaki-gocukte-5-madenci-yasamini-yitirdi/",
-      "tarih": "2026-10-02T08:33:55+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -94900,6 +94900,20 @@
       "ozet": "Çevrecilerden acele kamulaştırma tepkisi haberi. Son Dakika Güncel haber başlıkları ve gelişmeler Edirne Haber",
       "lat": 41.6807,
       "lng": 26.6005,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-dd11c6de481a",
+      "baslik": "Küresel İklim Adaleti Savunucuları Halkların İklim Zirvesi’nde Bir Araya Geliyor",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.10.2026",
+      "url": "https://www.iklimhaber.org/kuresel-iklim-adaleti-savunuculari-halklarin-iklim-zirvesinde-bir-araya-geliyor/",
+      "ozet": "14 Kasım Küresel Eylem Günü’nde miting ile başlayacak olan Halkların İklim Zirvesi, 130’u aşkın kurumun katılacağı yaklaşık 150 etkinlik ile 18 Kasım’a kadar Antalya’da gerçekleştirilecek. Zirve, COP31’in ötesine geçerek ekolojik yıkıma karşı iklim adaleti, demokrasi, barış ve ha",
+      "lat": 36.9379,
+      "lng": 30.7074,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

@@ -120616,5 +120616,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQanJZdzF2Z21saVNKM0x5SlpYaFYwZXFYZlpwWGJCOGg1QlpFdW1ma19JWHNuOVdMNkhJZzZUQlhYdjc3ZTJGSWphaEVNTXM2dHBnWllsWnM2alRqRW0tU21GbGdkVExXWGN5SUtsT09teHhNSlhYb0tWdXRpeWM?oc=5"
+  },
+  {
+    "id": "tarayici-dd11c6de481a",
+    "tip": "Ekolojik İhlal",
+    "ad": "Küresel İklim Adaleti Savunucuları Halkların İklim Zirvesi’nde Bir Araya Geliyor",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "14 Kasım Küresel Eylem Günü’nde miting ile başlayacak olan Halkların İklim Zirvesi, 130’u aşkın kurumun katılacağı yaklaşık 150 etkinlik ile 18 Kasım’a kadar Antalya’da gerçekleştirilecek. Zirve, COP31’in ötesine geçerek ekolojik yıkıma karşı iklim adaleti, demokrasi, barış ve ha",
+    "koordinatlar": {
+      "lat": 36.9379,
+      "lng": 30.7074
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "22.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/kuresel-iklim-adaleti-savunuculari-halklarin-iklim-zirvesinde-bir-araya-geliyor/"
   }
 ]
