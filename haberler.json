@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-21T19:03:21.205210+00:00",
+    "guncelleme": "2026-10-22T08:10:25.927713+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6634,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6635,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "74cf584ef270",
+      "baslik": "Türkiye'de gözler saat 14.00'e çevrildi: Dolar, euro ve borsa nasıl etkilenecek?",
+      "ozet": "Türkiye'de gözler saat 14.00'e çevrildi: Dolar, euro ve borsa nasıl etkilenecek?",
+      "url": "https://www.sozcu.com.tr/turkiye-de-gozler-saat-14-00-e-cevrildi-dolar-euro-ve-borsa-nasil-etkilenecek-p371593",
+      "tarih": "2026-10-22T07:03:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a5f29590bbf9",
+      "baslik": "Borsa güne düşüşle başladı -22 Ekim 2026",
+      "ozet": "Borsa güne düşüşle başladı -22 Ekim 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-22-ekim-2026-p371597",
+      "tarih": "2026-10-22T07:02:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "00b16bb5e3a5",
+      "baslik": "Deniz sınırları anlaşması Mısır'ı küplere bindirdi: Türkiye'ye karşı çok sert ifadeler",
+      "ozet": "Deniz sınırları anlaşması Mısır'ı küplere bindirdi: Türkiye'ye karşı çok sert ifadeler",
+      "url": "https://www.sozcu.com.tr/deniz-sinirlari-anlasmasi-misir-i-kuplere-bindirdi-turkiye-ye-karsi-cok-sert-ifadeler-p371592",
+      "tarih": "2026-10-22T06:48:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ebe135d6b84c",
+      "baslik": "Şafak Sezer “Erdoğan'ı neden seviyorsunuz?” sorusuna böyle yanıt verdi",
+      "ozet": "Şafak Sezer “Erdoğan'ı neden seviyorsunuz?” sorusuna böyle yanıt verdi",
+      "url": "https://www.sozcu.com.tr/safak-sezer-erdogan-i-neden-seviyorsunuz-sorusuna-boyle-yanit-verdi-p371583",
+      "tarih": "2026-10-22T06:42:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a9f7cb97852c",
+      "baslik": "Temel Gelir Yardımı Amazonları Korumada İşe Yaradı",
+      "ozet": "Peru Amazonlar’ında yerli halka günde 2 sterlinlik bir nakit desteği verilen ve 2 yıldır devam eden proje, yağmur ormanlarının korunmasına katkı sundu. Araştırmya göre temel gelir programına katılanların yaklaşık %90’ı çevreye faydalı uygulamaları benimsedi… Yeni bir araştırmaya ",
+      "url": "https://www.iklimhaber.org/temel-gelir-yardimi-amazonlari-korumada-ise-yaradi/",
+      "tarih": "2026-10-22T06:30:10+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "832cdb2ef647",
       "baslik": "13 yaş farkı aşka engel olmadı: Ahu Yağtu ve Bora Cengiz ilk kez el ele",
@@ -229,6 +279,16 @@
       "tarih": "2026-10-20T04:39:43+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1851d4e664a1",
+      "baslik": "Çeşitli projeler için 3 ilde acele kamulaştırma kararları - Evrensel.net",
+      "ozet": "Çeşitli projeler için 3 ilde acele kamulaştırma kararları Evrensel.net",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTFKa2pKUzc1dDJEZUNFX1pHTDRRT1Q2MmRUdGFtTnlfdmRGZl9zeVdVd0l6cWY2bDBfa051UzRIY0NpVVcwOVV5OGhDcmV3X09UWFdSRTdpWTNMclhEdDlyZ1BDRWk0a1V3SUpPQVhidFZPOEJEZHc0VUFrUGhyaTVmYnBjaFkyQ0p5b2lOTW5YWExRVms0QUFYQzY?oc=5",
+      "tarih": "2026-10-19T22:44:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1949,66 +2009,6 @@
       "tarih": "2026-10-02T08:33:55+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "921281e8ade0",
-      "baslik": "Kentsel dönüşümde kira desteği için yeni karar",
-      "ozet": "Kentsel dönüşümde kira desteği için yeni karar",
-      "url": "https://www.sozcu.com.tr/kentsel-donusumde-kira-destegi-icin-yeni-karar-p365472",
-      "tarih": "2026-10-02T07:56:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0759bf8afcbb",
-      "baslik": "AB COP31 için Önceliklerini Belirledi",
-      "ozet": "Antalya’daki COP31 Zirvesi’ne hazırlanan AB; fosil yakıtlardan kademeli çıkış sürecinin hızlanmasını, iklim finansmanının artırılmasını ve kırılgan ülkelere daha güçlü destek verilmesini talep ediyor. AB Parlamentosu’nun Türkiye, Antalya’da 9-20 Kasım tarihlerinde düzenlenecek ol",
-      "url": "https://www.iklimhaber.org/ab-cop31-icin-onceliklerini-belirledi/",
-      "tarih": "2026-10-02T07:15:32+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6e3728bffffc",
-      "baslik": "Soma’daki maden kazasında 5 işçi hayatını kaybetti - turkhaber.com",
-      "ozet": "Soma’daki maden kazasında 5 işçi hayatını kaybetti turkhaber.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNzZvUUw0YW1DbExQM3daYXFBaktMSG5mUkFtV0l3SktsMDF6YlNwMEdSendtM0dLX1ZtdENMajZIRXBldTlkVHFJSkhGUE5UYWJ5THBiUlNrRzNlT1p2dDFhWkcxLU5PelU2Wlg2Zld0dnZHakg5VnhmZExXVTJaNENNczhaLWlDMkdGNTRFcUxWTVBvOGl5M1NZcDAxa3hiUWhv?oc=5",
-      "tarih": "2026-10-02T05:20:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Orman / Maden",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "37a058e4f51a",
-      "baslik": "Soğuk Savaş'tan beri bir ilk: Nükleer silahlanmada ibre tersine döndü",
-      "ozet": "Soğuk Savaş'tan beri bir ilk: Nükleer silahlanmada ibre tersine döndü",
-      "url": "https://www.sozcu.com.tr/soguk-savas-tan-beri-bir-ilk-nukleer-silahlanmada-ibre-tersine-dondu-p365349",
-      "tarih": "2026-10-01T21:29:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cd78286fa202",
-      "baslik": "Son dakika...Merkez Bankası'ndan yeni karar: Yüzde 5'e yükseltildi",
-      "ozet": "Son dakika...Merkez Bankası'ndan yeni karar: Yüzde 5'e yükseltildi",
-      "url": "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-ndan-yeni-karar-yuzde-5-e-yukseltildi-p365315",
-      "tarih": "2026-10-01T21:15:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5dbab0e7b8e8",
-      "baslik": "Önce ıslattılar sonra dövdüler! Liseli kızların yaptıkları 'pes' dedirtti",
-      "ozet": "Önce ıslattılar sonra dövdüler! Liseli kızların yaptıkları 'pes' dedirtti",
-      "url": "https://www.sozcu.com.tr/cesmede-islatip-dovduler-liseli-kizlarin-akran-zorbaligi-kamerada-p365284",
-      "tarih": "2026-10-01T17:10:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -94886,6 +94886,20 @@
       "ozet": "Bolu’da maden ocağına tepki: Köylüler ‘ÇED gerekli değildir’ kararına dava açacak İlke TV",
       "lat": 40.6479,
       "lng": 31.6065,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-171402031ad2",
+      "baslik": "Çevrecilerden acele kamulaştırma tepkisi haberi. Son Dakika Güncel haber başlıkları ve gelişmeler - Edirne Haber",
+      "konum": "Edirne",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQanJZdzF2Z21saVNKM0x5SlpYaFYwZXFYZlpwWGJCOGg1QlpFdW1ma19JWHNuOVdMNkhJZzZUQlhYdjc3ZTJGSWphaEVNTXM2dHBnWllsWnM2alRqRW0tU21GbGdkVExXWGN5SUtsT09teHhNSlhYb0tWdXRpeWM?oc=5",
+      "ozet": "Çevrecilerden acele kamulaştırma tepkisi haberi. Son Dakika Güncel haber başlıkları ve gelişmeler Edirne Haber",
+      "lat": 41.6807,
+      "lng": 26.6005,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
