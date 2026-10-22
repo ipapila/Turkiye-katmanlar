@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-22T14:15:33.360629+00:00",
+    "guncelleme": "2026-10-22T18:59:11.529013+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6636,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6639,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "53b22c363352",
+      "baslik": "Merkez Bankası'ndan gelen karar borsayı vurdu",
+      "ozet": "Merkez Bankası'ndan gelen karar borsayı vurdu",
+      "url": "https://www.sozcu.com.tr/merkez-bankasi-ndan-gelen-karar-borsayi-vurdu-p371813",
+      "tarih": "2026-10-22T18:27:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d423290ad791",
+      "baslik": "Son dakika....Yasa dışı üreme hücresi ticareti soruşturmasında 8 tutuklama",
+      "ozet": "Son dakika....Yasa dışı üreme hücresi ticareti soruşturmasında 8 tutuklama",
+      "url": "https://www.sozcu.com.tr/son-dakika-yasa-disi-ureme-hucresi-ticareti-sorusturmasinda-8-tutuklama-p371788",
+      "tarih": "2026-10-22T16:39:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0cc3f810487c",
       "baslik": "Ertuğrul Doğan'dan transfer mesajı: 'Kim gerekiyorsa, alacağız'",
@@ -79,6 +99,16 @@
       "tarih": "2026-10-22T06:30:10+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "90fedf432e93",
+      "baslik": "Meta’ya New Mexico’da gizlilik ihlali nedeniyle 25 milyar dolar ceza - dikGAZETE.com",
+      "ozet": "Meta’ya New Mexico’da gizlilik ihlali nedeniyle 25 milyar dolar ceza dikGAZETE.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjIzSklSMnpkYzctbjhLUzE4YjNub3gwY1JtcGg5MTdWdWt4MjFTQ0NVeTk0VDNSSFEyTjFYX0drYks3S0pzV3JtYWdvUVRMWVlXandQZmVLS1dTaXZiRHRJaXBfRjFjTnNuRExpSkdYVk9kUFBNUG5qQWwydHA3U093b3dheVlHLUlOR1o3WUs4VkZzMXZmSldBZF9VVENvMldubXZDVkhDZHBjeFRSUnlOQQ?oc=5",
+      "tarih": "2026-10-21T19:24:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -259,6 +289,16 @@
       "tarih": "2026-10-20T07:43:47+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d8777e2cbf27",
+      "baslik": "Mardin ve Denizli'de bazı taşınmazlara acele kamulaştırma kararı verildi - Ensonhaber",
+      "ozet": "Mardin ve Denizli'de bazı taşınmazlara acele kamulaştırma kararı verildi Ensonhaber",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclBkLWczbXo3Z2N0b2RhZGFCbVVOOWd0eUl3N2YxbGVJNHFhYUc5N1RGUmw1YWJKZE5TU1JZbnR0YVpGZHBGZHFVN1Q3OTI1U1F1UFk3bXptUU9QYVJjemZjZnIwOE02UUhzbXM0aks0bVQxT1NURldreDRuRy1aX25QRFp3MUJpYW5oZ0EwZS1KY0NaS3dleXRSWUc2bHhqbUp3cUg0M19uVXc?oc=5",
+      "tarih": "2026-10-20T07:33:45+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1967,46 +2007,6 @@
       "ozet": "Hayat Bilgisi'nin Barbie'si yıllar sonra ekranlara dönüyor: Yeni adresi belli oldu",
       "url": "https://www.sozcu.com.tr/hayat-bilgisi-nin-barbie-si-yillar-sonra-ekranlara-donuyor-yeni-adresi-belli-oldu-p365810",
       "tarih": "2026-10-03T12:51:45+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0dd28c312ed9",
-      "baslik": "Deniz Göktaş'ın avukatından Kılıçdaroğlu'nu kızdıracak sözler",
-      "ozet": "Deniz Göktaş'ın avukatından Kılıçdaroğlu'nu kızdıracak sözler",
-      "url": "https://www.sozcu.com.tr/deniz-goktas-in-avukatindan-kilicdaroglu-nu-kizdiracak-sozler-p365808",
-      "tarih": "2026-10-03T12:44:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "239be42b7116",
-      "baslik": "Yangın süsü verilen yaşlı çiftin cinayetinde yeni gelişme",
-      "ozet": "Yangın süsü verilen yaşlı çiftin cinayetinde yeni gelişme",
-      "url": "https://www.sozcu.com.tr/yangin-susu-verilen-yasli-ciftin-cinayetinde-yeni-gelisme-p365749",
-      "tarih": "2026-10-03T08:36:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d730c7f2fb38",
-      "baslik": "CAATSA yaptırımları soruldu, Trump böyle yanıt verdi: Türkiye'yi seviyorum, Erdoğan benim dostum",
-      "ozet": "CAATSA yaptırımları soruldu, Trump böyle yanıt verdi: Türkiye'yi seviyorum, Erdoğan benim dostum",
-      "url": "https://www.sozcu.com.tr/trump-tan-caatsa-aciklamasi-turkiye-yi-seviyorum-p365648",
-      "tarih": "2026-10-02T20:36:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5bfb63b89914",
-      "baslik": "Tel Aviv uçuşları askıya alındı: Resmen duyuruldu",
-      "ozet": "Tel Aviv uçuşları askıya alındı: Resmen duyuruldu",
-      "url": "https://www.sozcu.com.tr/tel-aviv-ucuslari-askiya-alindi-resmen-duyuruldu-p365626",
-      "tarih": "2026-10-02T16:57:46+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94914,6 +94914,48 @@
       "ozet": "14 Kasım Küresel Eylem Günü’nde miting ile başlayacak olan Halkların İklim Zirvesi, 130’u aşkın kurumun katılacağı yaklaşık 150 etkinlik ile 18 Kasım’a kadar Antalya’da gerçekleştirilecek. Zirve, COP31’in ötesine geçerek ekolojik yıkıma karşı iklim adaleti, demokrasi, barış ve ha",
       "lat": 36.9379,
       "lng": 30.7074,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a4f81ec5e231",
+      "baslik": "Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı - Malatya Haber",
+      "konum": "Malatya",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BMl9tUFliWVBfLUctNGlPaGxNNV82dW5JeUlyZS1jWk1ZeERoS3FwMUFSUFlsWkdOM2ZPYWsyZTh3ZDhRX0hzbHhXSkFaSkZMY2JFQUtrZFpJM2E0OGRhdnBHV0pJNTlJMzh1OU14VDZWZUdfckZlcEpnQjI?oc=5",
+      "ozet": "Kuzey Çevre Yolu İçin Acele Kamulaştırma Kararı Malatya Haber",
+      "lat": 38.3561,
+      "lng": 38.337,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-42fdc0e7d483",
+      "baslik": "Şırnak'ta petrol sahaları için TPAO'ya acele kamulaştırma yetkisi verildi - Son Dakika",
+      "konum": "Şırnak",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTF6Qm5kXzF1dlZ1RF95bGZwUDBSV1lFR2JVUWFDejNoc05qQjQwYzNob1hsVUUwcGVBQ2E1RVBPQ1VUeG1USFZoSlR2eUxoaHltd2ZhcTVZTkZYdHlyNkZ0Unpxb284eFE3X0RDLV9lNzU4clEzRElGUm83ZzBXdDAxSkRXZTQ0Y0NqWVU5eWhxTkZKNzZ2aUxKMDRlN1B1QXfSAZwBQVVfeXFMT3NDcjcyazRtZlhueDJHSmRaYjZJUXJldlBCQXdBWFFQMkw5UWdqYUFoSUdlaWhETkhBejU4OFJHVVZFMk9DWGY1TS04TFlEV2RXZE9EdFpxV0MyX19HaGJRcU14ak5FT2xRWjlyY29ZT3dOR25mU0llSjNNSkFqWjBsbVJma05wX2FmZUVTd05zOGhuQTF3aGRhR09D?oc=5",
+      "ozet": "Şırnak'ta petrol sahaları için TPAO'ya acele kamulaştırma yetkisi verildi Son Dakika",
+      "lat": 37.5211,
+      "lng": 42.4145,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d8777e2cbf27",
+      "baslik": "Mardin ve Denizli'de bazı taşınmazlara acele kamulaştırma kararı verildi - Ensonhaber",
+      "konum": "Denizli",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "22.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclBkLWczbXo3Z2N0b2RhZGFCbVVOOWd0eUl3N2YxbGVJNHFhYUc5N1RGUmw1YWJKZE5TU1JZbnR0YVpGZHBGZHFVN1Q3OTI1U1F1UFk3bXptUU9QYVJjemZjZnIwOE02UUhzbXM0aks0bVQxT1NURldreDRuRy1aX25QRFp3MUJpYW5oZ0EwZS1KY0NaS3dleXRSWUc2bHhqbUp3cUg0M19uVXc?oc=5",
+      "ozet": "Mardin ve Denizli'de bazı taşınmazlara acele kamulaştırma kararı verildi Ensonhaber",
+      "lat": 37.8412,
+      "lng": 29.0225,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
