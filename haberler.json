@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-22T18:59:11.529013+00:00",
+    "guncelleme": "2026-10-23T08:08:41.364863+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6639,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "9821432993e7",
+      "baslik": "COP31 Arifesinde Türkiye’ye İklim Politikalarını Güçlendirme Çağrısı",
+      "ozet": "COP31 öncesinde Türkiye’nin iklim politikalarını değerlendiren yeni bir rapor, 2053 net sıfır hedefi doğrultusunda, Türkiye’ye emisyon azaltım hedeflerinin güçlendirilmesi, kömürden çıkış takvimi belirlenmesi ve iklim politikalarında şeffaflığın artırılması gibi önemli çağrılarda",
+      "url": "https://www.iklimhaber.org/cop31-arifesinde-turkiyeye-iklim-politikalarini-guclendirme-cagrisi/",
+      "tarih": "2026-10-23T08:00:31+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ead89dab6233",
+      "baslik": "BM: El Niño Pasifik’te Rekor Sıcaklık Artışına Yol Açabilir",
+      "ozet": "BM tarafından yapılan açıklamada, El Niño hava olayının, sele ve kuraklıklara yol açan bir “yıkım güllesi” gibi savrulurken Pasifik Okyanusu sıcaklıklarında rekor düzeyde bir artışa neden olabileceği aktarıldı. Dünya Meteoroloji Örgütü’nün (WMO) yeni mevsimsel görünüm raporu, El ",
+      "url": "https://www.iklimhaber.org/bm-el-nino-pasifikte-rekor-sicaklik-artisina-yol-acabilir/",
+      "tarih": "2026-10-23T07:00:54+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0c8e54af61cd",
+      "baslik": "Tüm ülke Muslera'yı konuşuyor: Yarı finalde tarihi performans",
+      "ozet": "Tüm ülke Muslera'yı konuşuyor: Yarı finalde tarihi performans",
+      "url": "https://www.sozcu.com.tr/yari-finalde-gecenin-kahramani-oldu-ne-yaptin-muslera-p371933",
+      "tarih": "2026-10-23T06:49:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9431082e6d8d",
+      "baslik": "Dilan Çiçek Deniz aşkını böyle kutladı: Sevgilisi öpücüklere boğdu",
+      "ozet": "Dilan Çiçek Deniz aşkını böyle kutladı: Sevgilisi öpücüklere boğdu",
+      "url": "https://www.sozcu.com.tr/dilan-cicek-deniz-askini-boyle-kutladi-sevgilisi-opucuklere-bogdu-p371940",
+      "tarih": "2026-10-23T06:43:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7c8ef6384bb5",
+      "baslik": "İklim Riskleri Küresel Ekonomiyi Tehdit Ediyor",
+      "ozet": "Allianz İklim Ekonomisi Raporu, 2025’te aşırı hava olaylarının küresel ekonomiye maliyetinin 184 milyar euroya ulaştığını belirtirken, güçlü bir El Niño’nun 2027’de küresel ekonomide 395 milyar euro değerinde üretim kaybına yol açabileceğine dikkat çekiyor. Rapor, Türkiye’yi de h",
+      "url": "https://www.iklimhaber.org/iklim-riskleri-kuresel-ekonomiyi-tehdit-ediyor/",
+      "tarih": "2026-10-23T06:30:33+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b827a53c0c7d",
+      "baslik": "Emisyon Ticaret Sistemi’nin İşleyişine Dair Yönetmelik Yayında",
+      "ozet": "Yönetmelik ile Enerji Piyasaları İşletme A.Ş. (EPİAŞ) tarafından işletilecek birincil, ikincil ve spot piyasalara yönelik ilkeler ile sistem kapsamında sağlanacak ücretsiz ve tamamlayıcı tahsisat işlemleri ve düzenlenecek tahsisat ihaleleri gibi konulardaki işleyiş kuralları beli",
+      "url": "https://www.iklimhaber.org/emisyon-ticaret-sisteminin-isleyisine-dair-yonetmelik-yayinda/",
+      "tarih": "2026-10-23T05:45:20+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "53b22c363352",
       "baslik": "Merkez Bankası'ndan gelen karar borsayı vurdu",
@@ -1947,66 +2007,6 @@
       "ozet": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
       "url": "https://www.sozcu.com.tr/antalya-da-5-katli-binanin-terasinda-feci-yangin-p366052",
       "tarih": "2026-10-04T14:03:50+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "379916f48a29",
-      "baslik": "Denizden fışkırıyor:  Yeni akının eli kulağında",
-      "ozet": "Denizden fışkırıyor:  Yeni akının eli kulağında",
-      "url": "https://www.sozcu.com.tr/palamutun-tanesi-125-liraya-dustu-vatandas-kapis-kapis-aldi-p365978",
-      "tarih": "2026-10-04T08:50:58+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "81cccac112db",
-      "baslik": "Erdoğan istedi bakan 'roket' türküsü açtı",
-      "ozet": "Erdoğan istedi bakan 'roket' türküsü açtı",
-      "url": "https://www.sozcu.com.tr/erdogan-istedi-bakan-roket-turkusu-acti-p365820",
-      "tarih": "2026-10-03T13:48:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2eabe045eb02",
-      "baslik": "Guardiola Manchester City için harekete geçti! Geri dönüyor",
-      "ozet": "Guardiola Manchester City için harekete geçti! Geri dönüyor",
-      "url": "https://www.sozcu.com.tr/guardiola-manchester-city-icin-harekete-gecti-geri-donuyor-p365817",
-      "tarih": "2026-10-03T13:24:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8a28a5fefa4a",
-      "baslik": "AKP'nin gelir gelmez Üsküdar'daki ilk icraatı işçi kıyımı oldu",
-      "ozet": "AKP'nin gelir gelmez Üsküdar'daki ilk icraatı işçi kıyımı oldu",
-      "url": "https://www.sozcu.com.tr/akp-nin-gelir-gelmez-uskudar-daki-ilk-icraati-isci-kiyimi-oldu-p365813",
-      "tarih": "2026-10-03T13:11:10+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f1c424f539b6",
-      "baslik": "Deniz seviyesinin 4 metre altına ülkeyi inşa ettiler: Sular yükselince evler de yükseliyor",
-      "ozet": "Deniz seviyesinin 4 metre altına ülkeyi inşa ettiler: Sular yükselince evler de yükseliyor",
-      "url": "https://www.sozcu.com.tr/deniz-seviyesinin-4-metre-altina-ulkeyi-insa-ettiler-sular-yukselince-evler-de-yukseliyor-p365814",
-      "tarih": "2026-10-03T13:08:58+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c01c05d881f2",
-      "baslik": "Hayat Bilgisi'nin Barbie'si yıllar sonra ekranlara dönüyor: Yeni adresi belli oldu",
-      "ozet": "Hayat Bilgisi'nin Barbie'si yıllar sonra ekranlara dönüyor: Yeni adresi belli oldu",
-      "url": "https://www.sozcu.com.tr/hayat-bilgisi-nin-barbie-si-yillar-sonra-ekranlara-donuyor-yeni-adresi-belli-oldu-p365810",
-      "tarih": "2026-10-03T12:51:45+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
