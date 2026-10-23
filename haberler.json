@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-23T13:58:55.411806+00:00",
+    "guncelleme": "2026-10-23T18:49:27.193720+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6639,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6640,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -94956,6 +94956,20 @@
       "ozet": "Mardin ve Denizli'de bazı taşınmazlara acele kamulaştırma kararı verildi Ensonhaber",
       "lat": 37.8412,
       "lng": 29.0225,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f9ff43167303",
+      "baslik": "Balıkesir’de Altın Madeni Projesine ÇED Onayı Verildi - Yapı",
+      "konum": "Balıkesir",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "23.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3pDcUktTXdpY3ZIWkJwSkwzQUFBeTdqdDdSUkwzVWpTc1pFSV9zZVNjWlp4T3UzWTY1dVE0WFplZ2FHOTNPdDhodFd5NGpXc3Q4VlF5ZllmTHlDd2lvTnB3SW9KakVYcEhyU1FRbE9idE5xczBUYkF5eWtGQXFYV3V3?oc=5",
+      "ozet": "Balıkesir’de Altın Madeni Projesine ÇED Onayı Verildi Yapı",
+      "lat": 39.6639,
+      "lng": 27.8271,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
