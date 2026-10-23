@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-23T08:08:41.364863+00:00",
+    "guncelleme": "2026-10-23T13:58:55.411806+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6639,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "49e4d6d44fa2",
+      "baslik": "Ukrayna ve Rusya arasında bölgesel ateşkes ilan edildi",
+      "ozet": "Ukrayna ve Rusya arasında bölgesel ateşkes ilan edildi",
+      "url": "https://www.sozcu.com.tr/ukrayna-ve-rusya-arasinda-bolgesel-ateskes-ilan-edildi-p372103",
+      "tarih": "2026-10-23T13:50:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "9821432993e7",
       "baslik": "COP31 Arifesinde Türkiye’ye İklim Politikalarını Güçlendirme Çağrısı",
@@ -1997,16 +2007,6 @@
       "ozet": "90'ların yıldızı Bendeniz'i bir de şimdi görün! Yıllar onu çok değiştirdi",
       "url": "https://www.sozcu.com.tr/90-larin-yildizi-bendeniz-i-bir-de-simdi-gorun-yillar-onu-cok-degistirdi-p366063",
       "tarih": "2026-10-04T14:26:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "734b0d7943c4",
-      "baslik": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
-      "ozet": "Antalya'da 5 katlı binanın terasında korkunç yangın!",
-      "url": "https://www.sozcu.com.tr/antalya-da-5-katli-binanin-terasinda-feci-yangin-p366052",
-      "tarih": "2026-10-04T14:03:50+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
