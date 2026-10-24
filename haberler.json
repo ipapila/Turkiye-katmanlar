@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-23T18:49:27.193720+00:00",
+    "guncelleme": "2026-10-24T07:47:25.482618+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6640,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6642,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "649ce13f7772",
+      "baslik": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
+      "ozet": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
+      "url": "https://www.sozcu.com.tr/maltepede-gecekondu-yangini-12-yasindaki-cocuk-hayatini-kaybetti-p372219",
+      "tarih": "2026-10-24T06:35:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "49e4d6d44fa2",
       "baslik": "Ukrayna ve Rusya arasında bölgesel ateşkes ilan edildi",
@@ -1997,16 +2007,6 @@
       "ozet": "Görüntüler Türkiye'den: Deniz yüzeyi kırmızıya boyandı",
       "url": "https://www.sozcu.com.tr/goruntuler-turkiye-den-deniz-yuzeyi-kirmiziya-boyandi-p366074",
       "tarih": "2026-10-04T15:17:58+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8868d4309550",
-      "baslik": "90'ların yıldızı Bendeniz'i bir de şimdi görün! Yıllar onu çok değiştirdi",
-      "ozet": "90'ların yıldızı Bendeniz'i bir de şimdi görün! Yıllar onu çok değiştirdi",
-      "url": "https://www.sozcu.com.tr/90-larin-yildizi-bendeniz-i-bir-de-simdi-gorun-yillar-onu-cok-degistirdi-p366063",
-      "tarih": "2026-10-04T14:26:06+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -94970,6 +94970,34 @@
       "ozet": "Balıkesir’de Altın Madeni Projesine ÇED Onayı Verildi Yapı",
       "lat": 39.6639,
       "lng": 27.8271,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-56847885a5eb",
+      "baslik": "Becan’dan acele kamulaştırma tepkisi CHP Edirne İl Başkanı Özlem Becan, Türkiye Petrolleri Anonim Ortaklığı’nın “Trakya Petrol ve Doğal Gaz Arama ve Üretim Projesi” kapsamında ihtiyaç duyacağı taşınma",
+      "konum": "Edirne",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GRVRBZ09SOGRIb3B4RTQ2Smh5dXhkaEc0NVV4MUMtV3o5alJwdXNPWjBka1JsSTZJbUs0SV9MWnZmc1JaY1A3N3doUmtnQlZiX1E?oc=5",
+      "ozet": "Becan’dan acele kamulaştırma tepkisi CHP Edirne İl Başkanı Özlem Becan, Türkiye Petrolleri Anonim Ortaklığı’nın “Trakya Petrol ve Doğal Gaz Arama ve Üretim Projesi” kapsamında ihtiyaç duyacağı taşınmazların acele kamulaştırılmasına ilişkin kararla ilgili a Instagram",
+      "lat": 41.6947,
+      "lng": 26.5092,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-649ce13f7772",
+      "baslik": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.10.2026",
+      "url": "https://www.sozcu.com.tr/maltepede-gecekondu-yangini-12-yasindaki-cocuk-hayatini-kaybetti-p372219",
+      "ozet": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
+      "lat": 41.1013,
+      "lng": 28.8771,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
