@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-24T17:44:57.616120+00:00",
+    "guncelleme": "2026-10-24T20:01:48.916825+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6645,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -1112,6 +1112,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "a2811d3a1497",
+      "baslik": "Trakya'da TPAO'nun petrol ve doğal gaz projesine tepki: Acele kamulaştırma kararı kamu yararı taşımıyor - dokuz8HABER",
+      "ozet": "Trakya'da TPAO'nun petrol ve doğal gaz projesine tepki: Acele kamulaştırma kararı kamu yararı taşımıyor dokuz8HABER",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUTBJc2lwMWxDT1YwQkNCb1QwTkJHY3kzX1c3TjNCMXhmZ3JlQm0zOWNEY1hCaC05clRFS3NEMWk4YUI0NHNPU0dqT2F1YS1Fb0hlMHk5UWczWlJmTF9RNzlobVB2WUQxNkFVV01BVV9HNHE4ZXVTbmx0RGZ6M2d2OTI5dWpabzNrYVFoT0FrdmlJVEJmdGxtRDN0N1l1cW82MFE0bmdYdTM0ejRpN3BlczJlaEhyY1FGcmhfUGpkYVFsZ9IByAFBVV95cUxQRWpoZDRRdkVoQldkWDZzak1rV0JIUnlmR1RaYWc1ZGdFUGY1MTZYeWRoZTVzRmd4dVp1Um5iNW9XRFNnczY2clNLaGY3RHozUUFvWlM1bVNadXdYV2UyOTN1WTFLc0llamNhUjZDUkZyZkM4a1FsNzIwNlF0b1FJbzdEOFRRX05nVkhpR0hucEYzQ0c3TDMxM1ZSQUJHeW82clhjMVJMU3FEZENDSWFfOG1hS2VxTF9fUWtmdUdrWW5ya2k2elNzQg?oc=5",
+      "tarih": "2026-10-14T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "0508bcc53328",
       "baslik": "Selçuk Yöntem'den yıllar sonra gelen Kim Milyoner Olmak İster itirafı",
       "ozet": "Selçuk Yöntem'den yıllar sonra gelen Kim Milyoner Olmak İster itirafı",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-10-05T07:57:46+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "327ecfcfaac6",
-      "baslik": "Nehir kıyısından 17 milyon ton radyoaktif atık çıkarıldı",
-      "ozet": "Nehir kıyısından 17 milyon ton radyoaktif atık çıkarıldı",
-      "url": "https://www.sozcu.com.tr/nehir-kiyisindan-17-milyon-ton-radyoaktif-atik-cikarildi-p366116",
-      "tarih": "2026-10-04T19:49:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
