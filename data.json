@@ -120749,5 +120749,62 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/maltepede-gecekondu-yangini-12-yasindaki-cocuk-hayatini-kaybetti-p372219"
+  },
+  {
+    "id": "tarayici-ec482aa51ff1",
+    "tip": "İklim Olayları",
+    "ad": "Balıkesir Sındırgı'da orman yangını - Cumhuriyet",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "Balıkesir Sındırgı'da orman yangını Cumhuriyet",
+    "koordinatlar": {
+      "lat": 39.5476,
+      "lng": 27.8193
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "24.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaU9UWWRHODRscV9mMVpiQzZfQm1fUG05LVVENDFqZlFlM0FPOXNXcElwZFNNRUYyRGI1Ry14M3FRMGJXQ09oX0haLVkydXdSNU5xWnZmbmstMDdWdVBsVGFxRFF2Nzc2NnFpblEtR2dReVk2SGlBUFVndUgyaUJnNHp3SGZyeE50?oc=5"
+  },
+  {
+    "id": "tarayici-a8570072ca06",
+    "tip": "Maden Ocağı",
+    "ad": "Bursa’da yanan 100 hektarlık alanda maden ruhsatına köylülerden tepki: “Kimden izin aldılar?” - Anka Haber",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa’da yanan 100 hektarlık alanda maden ruhsatına köylülerden tepki: “Kimden izin aldılar?” Anka Haber",
+    "koordinatlar": {
+      "lat": 40.113,
+      "lng": 29.1793
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "24.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWdlcjVlUWNSSTlxWHRCUF9WS1ltTkQ2WjRiaDl4MDZ3N1E2eGVJVXBvSkcyODJEcVlxdDdsNUxHR09WYVI0YjdpSE1Lb0xyQWdDZlBZdlNYdEVrS0tKLXU4NlJkdENsUG5BclNxTUxlWGEyb2d3QllIRWlaTGluaXFid0R5d2d2VUZHbFBITjliTGhGSUpnTFNHS0N2d1BySzRXTWZvZjNpRHpudjVkSTZiWVR4SFVRbEhFQkkxZGpsQl9x?oc=5"
+  },
+  {
+    "id": "tarayici-16d82f6b74fa",
+    "tip": "Maden Ocağı",
+    "ad": "'Bursa'da yanan ormanımızda maden ocağı istemiyoruz' - Evrensel.net",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "'Bursa'da yanan ormanımızda maden ocağı istemiyoruz' Evrensel.net",
+    "koordinatlar": {
+      "lat": 40.2578,
+      "lng": 29.063
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "24.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFFaME1ncXVyNkhTMUhmTnQ5cmVoLVE3SmZraDZ2dG1XZndPTjRneVZMbEtJQUFXb0JfREg5M0RSeEZWdUhLZks4S1o1VEhZNFM1Y3UySkwzd2k1V2ZCY2ROZWp2REt4UzZWN1c1bzQxaEFpdktMR1gteGY1Qm84MmR4QlN1NHI5am1oVnFXOEtCdw?oc=5"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-24T13:01:39.833989+00:00",
+    "guncelleme": "2026-10-24T17:44:57.616120+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6642,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6645,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -94998,6 +94998,48 @@
       "ozet": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
       "lat": 41.1013,
       "lng": 28.8771,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-ec482aa51ff1",
+      "baslik": "Balıkesir Sındırgı'da orman yangını - Cumhuriyet",
+      "konum": "Balıkesir",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaU9UWWRHODRscV9mMVpiQzZfQm1fUG05LVVENDFqZlFlM0FPOXNXcElwZFNNRUYyRGI1Ry14M3FRMGJXQ09oX0haLVkydXdSNU5xWnZmbmstMDdWdVBsVGFxRFF2Nzc2NnFpblEtR2dReVk2SGlBUFVndUgyaUJnNHp3SGZyeE50?oc=5",
+      "ozet": "Balıkesir Sındırgı'da orman yangını Cumhuriyet",
+      "lat": 39.5476,
+      "lng": 27.8193,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a8570072ca06",
+      "baslik": "Bursa’da yanan 100 hektarlık alanda maden ruhsatına köylülerden tepki: “Kimden izin aldılar?” - Anka Haber",
+      "konum": "Bursa",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWdlcjVlUWNSSTlxWHRCUF9WS1ltTkQ2WjRiaDl4MDZ3N1E2eGVJVXBvSkcyODJEcVlxdDdsNUxHR09WYVI0YjdpSE1Lb0xyQWdDZlBZdlNYdEVrS0tKLXU4NlJkdENsUG5BclNxTUxlWGEyb2d3QllIRWlaTGluaXFid0R5d2d2VUZHbFBITjliTGhGSUpnTFNHS0N2d1BySzRXTWZvZjNpRHpudjVkSTZiWVR4SFVRbEhFQkkxZGpsQl9x?oc=5",
+      "ozet": "Bursa’da yanan 100 hektarlık alanda maden ruhsatına köylülerden tepki: “Kimden izin aldılar?” Anka Haber",
+      "lat": 40.113,
+      "lng": 29.1793,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-16d82f6b74fa",
+      "baslik": "'Bursa'da yanan ormanımızda maden ocağı istemiyoruz' - Evrensel.net",
+      "konum": "Bursa",
+      "kategori": "Maden Ocağı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFFaME1ncXVyNkhTMUhmTnQ5cmVoLVE3SmZraDZ2dG1XZndPTjRneVZMbEtJQUFXb0JfREg5M0RSeEZWdUhLZks4S1o1VEhZNFM1Y3UySkwzd2k1V2ZCY2ROZWp2REt4UzZWN1c1bzQxaEFpdktMR1gteGY1Qm84MmR4QlN1NHI5am1oVnFXOEtCdw?oc=5",
+      "ozet": "'Bursa'da yanan ormanımızda maden ocağı istemiyoruz' Evrensel.net",
+      "lat": 40.2578,
+      "lng": 29.063,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
