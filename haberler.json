@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-24T07:47:25.482618+00:00",
+    "guncelleme": "2026-10-24T13:01:39.833989+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6642,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "06c40eb6e4dd",
+      "baslik": "Erdoğan-Mansur Yavaş anketinde çarpıcı sonuç! Partilerin tercihi belli oldu",
+      "ozet": "Erdoğan-Mansur Yavaş anketinde çarpıcı sonuç! Partilerin tercihi belli oldu",
+      "url": "https://www.sozcu.com.tr/erdogan-mansur-yavas-anketinde-carpici-sonuc-partilerin-tercihi-belli-oldu-p372292",
+      "tarih": "2026-10-24T10:26:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "649ce13f7772",
       "baslik": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
@@ -1997,16 +2007,6 @@
       "ozet": "Nehir kıyısından 17 milyon ton radyoaktif atık çıkarıldı",
       "url": "https://www.sozcu.com.tr/nehir-kiyisindan-17-milyon-ton-radyoaktif-atik-cikarildi-p366116",
       "tarih": "2026-10-04T19:49:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a12f629dd31c",
-      "baslik": "Görüntüler Türkiye'den: Deniz yüzeyi kırmızıya boyandı",
-      "ozet": "Görüntüler Türkiye'den: Deniz yüzeyi kırmızıya boyandı",
-      "url": "https://www.sozcu.com.tr/goruntuler-turkiye-den-deniz-yuzeyi-kirmiziya-boyandi-p366074",
-      "tarih": "2026-10-04T15:17:58+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
