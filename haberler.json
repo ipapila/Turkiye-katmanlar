@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-24T20:01:48.916825+00:00",
+    "guncelleme": "2026-10-25T07:58:58.054347+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6645,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6646,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "c6cc709a8e88",
+      "baslik": "Kılıçdaroğlu Mekke Anlaşmasına 'evet' diyeceklerini de açıkladı: Erdoğan'la şakalaştı yandaş hesaplardan övgü yağdı",
+      "ozet": "Kılıçdaroğlu Mekke Anlaşmasına 'evet' diyeceklerini de açıkladı: Erdoğan'la şakalaştı yandaş hesaplardan övgü yağdı",
+      "url": "https://www.sozcu.com.tr/kilicdaroglu-mekke-anlasmasina-evet-diyeceklerini-de-acikladi-erdogan-la-sakalasti-yandas-p372507",
+      "tarih": "2026-10-25T07:31:33+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "822919f366eb",
+      "baslik": "Fikret Orman ve Güzide Duran’dan Karadeniz kaçamağı: Salıncakta aşk pozu",
+      "ozet": "Fikret Orman ve Güzide Duran’dan Karadeniz kaçamağı: Salıncakta aşk pozu",
+      "url": "https://www.sozcu.com.tr/fikret-orman-ve-guzide-duran-dan-karadeniz-kacamagi-salincakta-ask-pozu-p372492",
+      "tarih": "2026-10-25T06:52:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4628192b6d8c",
+      "baslik": "Son ankette çarpıcı sonuçlar: Mansur Yavaş, Erdoğan’ı farklı yeniyor; Meclis’te kimse çoğunluk olamıyor",
+      "ozet": "Son ankette çarpıcı sonuçlar: Mansur Yavaş, Erdoğan’ı farklı yeniyor; Meclis’te kimse çoğunluk olamıyor",
+      "url": "https://www.sozcu.com.tr/son-ankette-carpici-sonuclar-mansur-yavas-erdogan-i-farkli-yeniyor-meclis-te-kimse-cogunluk-olamiyor-p372476",
+      "tarih": "2026-10-25T06:24:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "06c40eb6e4dd",
       "baslik": "Erdoğan-Mansur Yavaş anketinde çarpıcı sonuç! Partilerin tercihi belli oldu",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-10-05T08:51:09+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "94b7d6601dde",
-      "baslik": "İklim Zirvesi Devletler Arası Görüşmelerin Ötesine Geçmeli",
-      "ozet": "Medyascope ve İklim Haber iş birliği ile hazırlanan COP31 Yolu’nun yeni bölümünde değerlendirmelerde bulunan Prof. Dr. Levent Kurnaz, iklim zirvesinin devletler arası görüşmelerin ötesine geçerek özel sektör, sivil toplum, akademi ve finans dünyasının buluştuğu bir platforma dönü",
-      "url": "https://www.iklimhaber.org/cop31den-neler-bekleniyor/",
-      "tarih": "2026-10-05T08:24:46+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "83430d26ac41",
-      "baslik": "Borsa haftaya yükselişle başladı - 5 Ekim 2026",
-      "ozet": "Borsa haftaya yükselişle başladı - 5 Ekim 2026",
-      "url": "https://www.sozcu.com.tr/borsa-haftaya-yukselisle-basladi-5-ekim-2026-p366259",
-      "tarih": "2026-10-05T08:15:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2668eae0a9c1",
-      "baslik": "Uluslararası Af Örgütü: Dünya Liderleri, Pasifik’in Yanında Olduklarını Eylemlerle Göstermeli",
-      "ozet": "COP31 Öncesi Toplantıları, bugün Fiji’nin Nadi kentinde ve Tuvalu’da başladı. Uluslararası Af Örgütü, Avustralya’nın Pasifik’teki iklim liderliği iddiasını somut eylemlere dönüştürmesi gerektiğini belirterek, hükümetlere, fosil yakıtlar dönemine son verme ve hibe temelli, artırıl",
-      "url": "https://www.iklimhaber.org/uluslararasi-af-orgutu-dunya-liderleri-pasifikin-yaninda-olduklarini-eylemlerle-gostermeli/",
-      "tarih": "2026-10-05T07:57:46+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95040,6 +95040,20 @@
       "ozet": "'Bursa'da yanan ormanımızda maden ocağı istemiyoruz' Evrensel.net",
       "lat": 40.2578,
       "lng": 29.063,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-92d74fa42fdd",
+      "baslik": "Adana'da orman yangını: Müdahale sürüyor - Cumhuriyet",
+      "konum": "Adana",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "25.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXFTMm1hNUl0Y0E5UFRHY0RxLUxCNlZtXzViaGRPdmUwSjNwMWMyT2MtR2M0V3RfY2lNSkpSYWE3Umc3d0NXVXhCcW94ZUJVVUthUThhYlJmcm8zQnRWRnVEX084czhTbWdhWDluaGtobk5WVzFlT1UxREQwRWl5NzQ4Tnk2bDFJNDBudzln?oc=5",
+      "ozet": "Adana'da orman yangını: Müdahale sürüyor Cumhuriyet",
+      "lat": 37.0088,
+      "lng": 35.3231,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

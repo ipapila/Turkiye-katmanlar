@@ -120806,5 +120806,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFFaME1ncXVyNkhTMUhmTnQ5cmVoLVE3SmZraDZ2dG1XZndPTjRneVZMbEtJQUFXb0JfREg5M0RSeEZWdUhLZks4S1o1VEhZNFM1Y3UySkwzd2k1V2ZCY2ROZWp2REt4UzZWN1c1bzQxaEFpdktMR1gteGY1Qm84MmR4QlN1NHI5am1oVnFXOEtCdw?oc=5"
+  },
+  {
+    "id": "tarayici-92d74fa42fdd",
+    "tip": "İklim Olayları",
+    "ad": "Adana'da orman yangını: Müdahale sürüyor - Cumhuriyet",
+    "il": "Adana",
+    "ilce": "",
+    "aciklama": "Adana'da orman yangını: Müdahale sürüyor Cumhuriyet",
+    "koordinatlar": {
+      "lat": 37.0088,
+      "lng": 35.3231
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "25.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXFTMm1hNUl0Y0E5UFRHY0RxLUxCNlZtXzViaGRPdmUwSjNwMWMyT2MtR2M0V3RfY2lNSkpSYWE3Umc3d0NXVXhCcW94ZUJVVUthUThhYlJmcm8zQnRWRnVEX084czhTbWdhWDluaGtobk5WVzFlT1UxREQwRWl5NzQ4Tnk2bDFJNDBudzln?oc=5"
   }
 ]
