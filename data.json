@@ -120825,5 +120825,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXFTMm1hNUl0Y0E5UFRHY0RxLUxCNlZtXzViaGRPdmUwSjNwMWMyT2MtR2M0V3RfY2lNSkpSYWE3Umc3d0NXVXhCcW94ZUJVVUthUThhYlJmcm8zQnRWRnVEX084czhTbWdhWDluaGtobk5WVzFlT1UxREQwRWl5NzQ4Tnk2bDFJNDBudzln?oc=5"
+  },
+  {
+    "id": "tarayici-883ce6541867",
+    "tip": "İklim Olayları",
+    "ad": "Bolu'da korkutan orman yangını - CNN Türk",
+    "il": "Bolu",
+    "ilce": "",
+    "aciklama": "Bolu'da korkutan orman yangını CNN Türk",
+    "koordinatlar": {
+      "lat": 40.6831,
+      "lng": 31.633
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "25.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnazRPQnl3eHQ1dFFlUjg4alBjS3U5aHhpdDBmcVBpdGlxdkFOeThDaHhjSDR0NXFSSHdTczRhVlFxUm5Pc1FKcVhrOUJqN1FYRDhETmZDV2hsMnFWdkFoRHRlb2ptcXFjQndtaWNleEJJOTBCeVBGNg?oc=5"
   }
 ]

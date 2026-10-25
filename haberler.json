@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-10-25T07:58:58.054347+00:00",
+    "guncelleme": "2026-10-25T13:28:38.154809+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6646,
+    "harita_kayit_sayisi": 6647,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "a5af3025e16c",
+      "baslik": "Deniz Öncü piste çıkamadı! Yarışlara yağmur engeli",
+      "ozet": "Deniz Öncü piste çıkamadı! Yarışlara yağmur engeli",
+      "url": "https://www.sozcu.com.tr/deniz-oncu-piste-cikamadi-yarislara-yagis-engeli-p372605",
+      "tarih": "2026-10-25T13:24:57+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "89d5fd80e108",
+      "baslik": "Erdoğan'ın yolunu CHP'nin desteği mi açıyor",
+      "ozet": "Erdoğan'ın yolunu CHP'nin desteği mi açıyor",
+      "url": "https://www.sozcu.com.tr/erdogan-in-yolunu-chp-nin-destegi-mi-aciyor-p372587",
+      "tarih": "2026-10-25T11:44:42+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c6cc709a8e88",
       "baslik": "Kılıçdaroğlu Mekke Anlaşmasına 'evet' diyeceklerini de açıkladı: Erdoğan'la şakalaştı yandaş hesaplardan övgü yağdı",
@@ -1987,26 +2007,6 @@
       "ozet": "Restoranda menü yerine QR kod okutanlar yandı",
       "url": "https://www.sozcu.com.tr/restoranda-menu-yerine-qr-kod-okutanlar-yandi-p366281",
       "tarih": "2026-10-05T09:02:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "441e5d4fd66f",
-      "baslik": "Denizli Basket evinde ilk Avrupa maçında! Rakip BC Prievidza",
-      "ozet": "Denizli Basket evinde ilk Avrupa maçında! Rakip BC Prievidza",
-      "url": "https://www.sozcu.com.tr/denizli-basket-evinde-ilk-avrupa-macinda-rakip-bc-prievidza-p366276",
-      "tarih": "2026-10-05T08:56:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b0fe27907038",
-      "baslik": "Yeni başlayan dizi öyle bir yükseldi ki 7 sezondur ekranda olan diziyi solladı",
-      "ozet": "Yeni başlayan dizi öyle bir yükseldi ki 7 sezondur ekranda olan diziyi solladı",
-      "url": "https://www.sozcu.com.tr/yeni-baslayan-dizi-oyle-bir-yukseldi-ki-7-sezondur-ekranda-olan-diziyi-solladi-p366274",
-      "tarih": "2026-10-05T08:51:09+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95054,6 +95054,20 @@
       "ozet": "Adana'da orman yangını: Müdahale sürüyor Cumhuriyet",
       "lat": 37.0088,
       "lng": 35.3231,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-883ce6541867",
+      "baslik": "Bolu'da korkutan orman yangını - CNN Türk",
+      "konum": "Bolu",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "25.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnazRPQnl3eHQ1dFFlUjg4alBjS3U5aHhpdDBmcVBpdGlxdkFOeThDaHhjSDR0NXFSSHdTczRhVlFxUm5Pc1FKcVhrOUJqN1FYRDhETmZDV2hsMnFWdkFoRHRlb2ptcXFjQndtaWNleEJJOTBCeVBGNg?oc=5",
+      "ozet": "Bolu'da korkutan orman yangını CNN Türk",
+      "lat": 40.6831,
+      "lng": 31.633,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
