@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-10-25T13:28:38.154809+00:00",
+    "guncelleme": "2026-10-25T18:00:47.588214+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6647,
+    "harita_kayit_sayisi": 6648,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "86f30e0f5e5c",
+      "baslik": "Yüksel Sarıçiçek dünya ikincisi oldu",
+      "ozet": "Yüksel Sarıçiçek dünya ikincisi oldu",
+      "url": "https://www.sozcu.com.tr/yuksel-saricicek-dunya-ikincisi-oldu-p372623",
+      "tarih": "2026-10-25T14:52:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "a5af3025e16c",
       "baslik": "Deniz Öncü piste çıkamadı! Yarışlara yağmur engeli",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-10-05T09:25:04+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dc2e6d264205",
-      "baslik": "Restoranda menü yerine QR kod okutanlar yandı",
-      "ozet": "Restoranda menü yerine QR kod okutanlar yandı",
-      "url": "https://www.sozcu.com.tr/restoranda-menu-yerine-qr-kod-okutanlar-yandi-p366281",
-      "tarih": "2026-10-05T09:02:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95068,6 +95068,20 @@
       "ozet": "Bolu'da korkutan orman yangını CNN Türk",
       "lat": 40.6831,
       "lng": 31.633,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-d364ccd5457f",
+      "baslik": "Çanakkale’deki orman yangını büyük ölçüde kontrol altına alındı - Cumhuriyet",
+      "konum": "Çanakkale",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "25.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMjdScmFUMG5WNFBiLVphY0pHZVl3ZVFMVWlydnB0X2dFSXRnY1hYalhFNURIaEdLNE5mN2QxQThzSkkwOFRzMExvR0txU0owV0l5OV9FUTdMcGktS0xsN25NLTNyWlZmdjdTMjhxZF9WdHQtbXFuU3ExOU1LMnFJQUVfZWFCRHpBRmFkek90dUo0MVhOcnhGa180S2VqbDZ6MnZOeVNHci1sdWZid2c?oc=5",
+      "ozet": "Çanakkale’deki orman yangını büyük ölçüde kontrol altına alındı Cumhuriyet",
+      "lat": 40.2364,
+      "lng": 26.3849,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
