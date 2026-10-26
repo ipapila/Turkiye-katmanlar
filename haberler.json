@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-26T08:20:25.089338+00:00",
+    "guncelleme": "2026-10-26T15:40:48.902864+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6650,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6651,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "647f4ecc95ea",
+      "baslik": "Yüksel Yıldırım devre arasını işaret etti",
+      "ozet": "Yüksel Yıldırım devre arasını işaret etti",
+      "url": "https://www.sozcu.com.tr/yuksel-yildirim-devre-arasini-isaret-etti-p372978",
+      "tarih": "2026-10-26T14:32:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6f4c87c312ca",
+      "baslik": "Nepal Ölümcül Selin Ardından Kayıp ve Zarar Fonu’ndan 20 Milyon Dolar Alacak",
+      "ozet": "Kayıp ve Zarar Fonu’ndan gelecek tutar, selin neden olduğu maliyeti karşılamak için Nepal’in ihtiyaç duyduğu miktarın %1’inden daha azına denk geliyor. Nepal, ağustos ayında Çin’in Tibet bölgesi sınırında meydana gelen yıkıcı selin ardından Birleşmiş Milletler’in kayıp ve zarar f",
+      "url": "https://www.iklimhaber.org/nepal-olumcul-selin-ardindan-kayip-ve-zarar-fonundan-20-milyon-dolar-alacak/",
+      "tarih": "2026-10-26T08:39:27+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f1b6d56f27be",
       "baslik": "Borsa haftaya yükselişle başladı -26 Ekim 2026",
@@ -32,11 +52,31 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "321415ee0563",
+      "baslik": "Manisa'da çevre kirletenlere milyonluk ceza! - Manisa Haberleri",
+      "ozet": "Manisa'da çevre kirletenlere milyonluk ceza! Manisa Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUp4R0ZPSmVDSUtLdEhWczFHWXdxM1dJekNVbWNSUU5ROTh1bERjTEN1aWdxalA2ekdkaThiT25KS1VTcmlsT2tfNEpoUWhJaFpJTTVnY0dQaFU3MXVEWUJzbzNvYkVwSkRvSVFUMGYzTzhUSWtraFh0MllEUGNmM0JBaU7SAYQBQVVfeXFMTzVKeEdGT0plQ0lLS3RIVnMxR1l3cTNXSXpDVW1jUlFOUTk4dWxEY0xDdWlncWpQNnpHZGk4Yk9uSktVU3JpbE9rXzRKaFFoSWhaSU01Z2NHUGhVNzF1RFlCc28zb2JFcEpEb0lRVDBmM084VElra2hYdDJZRFBjZjNCQWlO?oc=5",
+      "tarih": "2026-10-26T07:15:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "8d3170477706",
       "baslik": "COP31’de Türkiye-Avustralya Sınavı: “Biri Başarısız Olursa İkisi de Kaybeder”",
       "ozet": "COP31 öncesinde Türkiye’nin üstleneceği köprü rolünün altını çizen Jennifer Morgan, başarılı bir zirve için iki ülkenin de iklim eylemini kendi evinde başlatması gerektiğini vurguladı. Küresel iklim diplomasisinin önde gelen isimlerinden Jennifer Morgan, İstanbul Politikalar Merk",
       "url": "https://www.iklimhaber.org/cop31de-turkiye-avustralya-sinavi-biri-basarisiz-olursa-ikisi-de-kaybeder/",
       "tarih": "2026-10-26T06:52:41+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c291f9d77c30",
+      "baslik": "COP31’in Ekolojik Yıkıma Neden Olan Sponsorları Hedefte",
+      "ozet": "Doğayı yok eden projelere imza atan Limak Holding, IC Holding, Rönesans Holding, Sinpaş Holding ve Cengiz Holding’in COP31’in resmi sponsorları olması tepki çekerken, EGEÇEP yaptığı açıklamada, “İklim mücadelesi, doğayı tahrip eden faaliyetlerin reklam ve sponsorluk yoluyla meşru",
+      "url": "https://www.iklimhaber.org/cop31in-ekolojik-yikima-neden-olan-sponsorlari-hedefte/",
+      "tarih": "2026-10-26T06:30:35+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -1969,46 +2009,6 @@
       "tarih": "2026-10-06T17:49:00+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "33d426ff7495",
-      "baslik": "Pelin Karahan'ın yıllar öncesine ait karesi gündem oldu",
-      "ozet": "Pelin Karahan'ın yıllar öncesine ait karesi gündem oldu",
-      "url": "https://www.sozcu.com.tr/pelin-karahan-in-yillar-oncesine-ait-karesi-gundem-oldu-p366733",
-      "tarih": "2026-10-06T16:23:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6920059d57d8",
-      "baslik": "Litvanya’dan Rusya’yı alarma geçiren karar: Rusya’nın nükleer hedefi haline gelir",
-      "ozet": "Litvanya’dan Rusya’yı alarma geçiren karar: Rusya’nın nükleer hedefi haline gelir",
-      "url": "https://www.sozcu.com.tr/litvanya-dan-rusya-yi-alarma-geciren-karar-rusya-nin-nukleer-hedefi-haline-gelir-p366732",
-      "tarih": "2026-10-06T16:22:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1876f0b05c1b",
-      "baslik": "BM İklim Şefi: “Aşırı Sıcaklar Hamileleri ve Bebekleri Tehlikeye Atıyor”",
-      "ozet": "Yeni bir araştırmanın sonuçlarını değerlendiren BM İklim Şefi Stiell, “Aşırı sıcaklar kötüleşirken, hamilelik ve doğum, küresel iklim krizinde yeni bir fay hattıdır” dedi. Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi (UNFCCC) Sekreteri Simon Stiell, Pre-COP toplantısı",
-      "url": "https://www.iklimhaber.org/bm-iklim-sefi-asiri-sicaklar-hamileleri-ve-bebekleri-tehlikeye-atiyor/",
-      "tarih": "2026-10-06T10:05:10+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1b8394264947",
-      "baslik": "Pasifik Adası Liderleri: Fosil Yakıtlardan Uzaklaşma Kararı Yeniden Müzakere Edilemez",
-      "ozet": "Pasifik adası liderleri, COP31’e ivme kazandırma çabasıyla Tuvalu’da bir araya gelirken, fosil yakıtlardan küresel uzaklaşmanın yeniden müzakere edilemeyeceğini vurguladı. İklim krizinden en çok etkilenen ülkelerin yaşadığı duruma dikkat çekmek amacıyla, aralarında Avustralya Baş",
-      "url": "https://www.iklimhaber.org/pasifik-adasi-liderleri-fosil-yakitlardan-uzaklasma-karari-yeniden-muzakere-edilemez/",
-      "tarih": "2026-10-06T07:17:58+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95110,6 +95110,20 @@
       "ozet": "COP31 öncesinde Türkiye’nin üstleneceği köprü rolünün altını çizen Jennifer Morgan, başarılı bir zirve için iki ülkenin de iklim eylemini kendi evinde başlatması gerektiğini vurguladı. Küresel iklim diplomasisinin önde gelen isimlerinden Jennifer Morgan, İstanbul Politikalar Merk",
       "lat": 41.0605,
       "lng": 28.9176,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-321415ee0563",
+      "baslik": "Manisa'da çevre kirletenlere milyonluk ceza! - Manisa Haberleri",
+      "konum": "Manisa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "26.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUp4R0ZPSmVDSUtLdEhWczFHWXdxM1dJekNVbWNSUU5ROTh1bERjTEN1aWdxalA2ekdkaThiT25KS1VTcmlsT2tfNEpoUWhJaFpJTTVnY0dQaFU3MXVEWUJzbzNvYkVwSkRvSVFUMGYzTzhUSWtraFh0MllEUGNmM0JBaU7SAYQBQVVfeXFMTzVKeEdGT0plQ0lLS3RIVnMxR1l3cTNXSXpDVW1jUlFOUTk4dWxEY0xDdWlncWpQNnpHZGk4Yk9uSktVU3JpbE9rXzRKaFFoSWhaSU01Z2NHUGhVNzF1RFlCc28zb2JFcEpEb0lRVDBmM084VElra2hYdDJZRFBjZjNCQWlO?oc=5",
+      "ozet": "Manisa'da çevre kirletenlere milyonluk ceza! Manisa Haberleri",
+      "lat": 38.5409,
+      "lng": 27.4044,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

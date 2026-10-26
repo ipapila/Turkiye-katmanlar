@@ -120901,5 +120901,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31de-turkiye-avustralya-sinavi-biri-basarisiz-olursa-ikisi-de-kaybeder/"
+  },
+  {
+    "id": "tarayici-321415ee0563",
+    "tip": "Ekolojik İhlal",
+    "ad": "Manisa'da çevre kirletenlere milyonluk ceza! - Manisa Haberleri",
+    "il": "Manisa",
+    "ilce": "",
+    "aciklama": "Manisa'da çevre kirletenlere milyonluk ceza! Manisa Haberleri",
+    "koordinatlar": {
+      "lat": 38.5409,
+      "lng": 27.4044
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "26.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUp4R0ZPSmVDSUtLdEhWczFHWXdxM1dJekNVbWNSUU5ROTh1bERjTEN1aWdxalA2ekdkaThiT25KS1VTcmlsT2tfNEpoUWhJaFpJTTVnY0dQaFU3MXVEWUJzbzNvYkVwSkRvSVFUMGYzTzhUSWtraFh0MllEUGNmM0JBaU7SAYQBQVVfeXFMTzVKeEdGT0plQ0lLS3RIVnMxR1l3cTNXSXpDVW1jUlFOUTk4dWxEY0xDdWlncWpQNnpHZGk4Yk9uSktVU3JpbE9rXzRKaFFoSWhaSU01Z2NHUGhVNzF1RFlCc28zb2JFcEpEb0lRVDBmM084VElra2hYdDJZRFBjZjNCQWlO?oc=5"
   }
 ]
