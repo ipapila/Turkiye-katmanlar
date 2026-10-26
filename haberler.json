@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-25T18:00:47.588214+00:00",
+    "guncelleme": "2026-10-26T08:20:25.089338+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6648,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6650,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "f1b6d56f27be",
+      "baslik": "Borsa haftaya yükselişle başladı -26 Ekim 2026",
+      "ozet": "Borsa haftaya yükselişle başladı -26 Ekim 2026",
+      "url": "https://www.sozcu.com.tr/borsa-haftaya-yukselisle-basladi-26-ekim-2026-p372815",
+      "tarih": "2026-10-26T07:40:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9ba35cf638fa",
+      "baslik": "Aşırı Sıcaklar Antalyalıları Yaylalara Yönlendiriyor",
+      "ozet": "COP31’e ev sahipliği yapmaya hazırlanan Antalya’da giderek artan yaz sıcakları, kent sakinlerini Toroslar’daki yaylalara yönlendiriyor. Yeni bir araştırmaya göre geleneksel yaylacılık yerini, sıcaktan kaçmak isteyen kentlilerin mevsimlik, hatta kalıcı yer değiştirmelerine bırakıy",
+      "url": "https://www.iklimhaber.org/asiri-sicaklar-antalyalilari-yaylalara-yonlendiriyor/",
+      "tarih": "2026-10-26T07:26:30+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8d3170477706",
+      "baslik": "COP31’de Türkiye-Avustralya Sınavı: “Biri Başarısız Olursa İkisi de Kaybeder”",
+      "ozet": "COP31 öncesinde Türkiye’nin üstleneceği köprü rolünün altını çizen Jennifer Morgan, başarılı bir zirve için iki ülkenin de iklim eylemini kendi evinde başlatması gerektiğini vurguladı. Küresel iklim diplomasisinin önde gelen isimlerinden Jennifer Morgan, İstanbul Politikalar Merk",
+      "url": "https://www.iklimhaber.org/cop31de-turkiye-avustralya-sinavi-biri-basarisiz-olursa-ikisi-de-kaybeder/",
+      "tarih": "2026-10-26T06:52:41+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "86f30e0f5e5c",
       "baslik": "Yüksel Sarıçiçek dünya ikincisi oldu",
@@ -1977,36 +2007,6 @@
       "ozet": "Pasifik adası liderleri, COP31’e ivme kazandırma çabasıyla Tuvalu’da bir araya gelirken, fosil yakıtlardan küresel uzaklaşmanın yeniden müzakere edilemeyeceğini vurguladı. İklim krizinden en çok etkilenen ülkelerin yaşadığı duruma dikkat çekmek amacıyla, aralarında Avustralya Baş",
       "url": "https://www.iklimhaber.org/pasifik-adasi-liderleri-fosil-yakitlardan-uzaklasma-karari-yeniden-muzakere-edilemez/",
       "tarih": "2026-10-06T07:17:58+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "08d9c2d2e9f9",
-      "baslik": "Kentlerin Geleceği Dijital İklim Merkezinde Ölçümlenecek",
-      "ozet": "Yeni açılan Dijital İklim Merkezi; kentlerin iklim hedeflerini veriye dayalı, ölçülebilir ve izlenebilir eylemlere dönüştürmeyi amaçlıyor. Merkez, iklim planlarının hazırlanmasının yanı sıra iklim çalışmalarının güncel veriler üzerinden izlenmesi ve karar alma süreçlerinin somut ",
-      "url": "https://www.iklimhaber.org/kentlerin-gelecegi-dijital-iklim-merkezinde-olcumlenecek/",
-      "tarih": "2026-10-06T06:30:20+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "53506c1309e4",
-      "baslik": "Hakemler dosyasında MASAK’tan çarpıcı para trafiği: Yasin Kol’un hesaplarından 72,1 milyon TL çıktı",
-      "ozet": "Hakemler dosyasında MASAK’tan çarpıcı para trafiği: Yasin Kol’un hesaplarından 72,1 milyon TL çıktı",
-      "url": "https://www.sozcu.com.tr/hakemler-dosyasinda-masak-tan-carpici-para-trafigi-yasin-kol-un-hesaplarindan-72-1-milyon-tl-cikti-p366301",
-      "tarih": "2026-10-05T09:44:10+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "39ae21c639e0",
-      "baslik": "COP Liderleri Dev Bir Kömür Tedarik Zincirini Paylaşıyor",
-      "ozet": "Yeni yayımlanan bir rapora göre, COP31 eş başkanları Türkiye ve Avustralya, Paris Anlaşması’ndan bu yana gerçekleştirdikleri kömür ticaretiyle 75 milyon ton karbondioksit salımına sebep oldu. İki ülkenin de henüz kömürden çıkış yönünde bir taahhüdü bulunmuyor. Uluslararası iklim ",
-      "url": "https://www.iklimhaber.org/cop-liderleri-dev-bir-komur-tedarik-zincirini-paylasiyor/",
-      "tarih": "2026-10-05T09:25:04+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -95082,6 +95082,34 @@
       "ozet": "Çanakkale’deki orman yangını büyük ölçüde kontrol altına alındı Cumhuriyet",
       "lat": 40.2364,
       "lng": 26.3849,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-9ba35cf638fa",
+      "baslik": "Aşırı Sıcaklar Antalyalıları Yaylalara Yönlendiriyor",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "26.10.2026",
+      "url": "https://www.iklimhaber.org/asiri-sicaklar-antalyalilari-yaylalara-yonlendiriyor/",
+      "ozet": "COP31’e ev sahipliği yapmaya hazırlanan Antalya’da giderek artan yaz sıcakları, kent sakinlerini Toroslar’daki yaylalara yönlendiriyor. Yeni bir araştırmaya göre geleneksel yaylacılık yerini, sıcaktan kaçmak isteyen kentlilerin mevsimlik, hatta kalıcı yer değiştirmelerine bırakıy",
+      "lat": 36.9294,
+      "lng": 30.7112,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-8d3170477706",
+      "baslik": "COP31’de Türkiye-Avustralya Sınavı: “Biri Başarısız Olursa İkisi de Kaybeder”",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "26.10.2026",
+      "url": "https://www.iklimhaber.org/cop31de-turkiye-avustralya-sinavi-biri-basarisiz-olursa-ikisi-de-kaybeder/",
+      "ozet": "COP31 öncesinde Türkiye’nin üstleneceği köprü rolünün altını çizen Jennifer Morgan, başarılı bir zirve için iki ülkenin de iklim eylemini kendi evinde başlatması gerektiğini vurguladı. Küresel iklim diplomasisinin önde gelen isimlerinden Jennifer Morgan, İstanbul Politikalar Merk",
+      "lat": 41.0605,
+      "lng": 28.9176,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

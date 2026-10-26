@@ -120863,5 +120863,43 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMjdScmFUMG5WNFBiLVphY0pHZVl3ZVFMVWlydnB0X2dFSXRnY1hYalhFNURIaEdLNE5mN2QxQThzSkkwOFRzMExvR0txU0owV0l5OV9FUTdMcGktS0xsN25NLTNyWlZmdjdTMjhxZF9WdHQtbXFuU3ExOU1LMnFJQUVfZWFCRHpBRmFkek90dUo0MVhOcnhGa180S2VqbDZ6MnZOeVNHci1sdWZid2c?oc=5"
+  },
+  {
+    "id": "tarayici-9ba35cf638fa",
+    "tip": "Ekolojik İhlal",
+    "ad": "Aşırı Sıcaklar Antalyalıları Yaylalara Yönlendiriyor",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "COP31’e ev sahipliği yapmaya hazırlanan Antalya’da giderek artan yaz sıcakları, kent sakinlerini Toroslar’daki yaylalara yönlendiriyor. Yeni bir araştırmaya göre geleneksel yaylacılık yerini, sıcaktan kaçmak isteyen kentlilerin mevsimlik, hatta kalıcı yer değiştirmelerine bırakıy",
+    "koordinatlar": {
+      "lat": 36.9294,
+      "lng": 30.7112
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "26.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/asiri-sicaklar-antalyalilari-yaylalara-yonlendiriyor/"
+  },
+  {
+    "id": "tarayici-8d3170477706",
+    "tip": "Ekolojik İhlal",
+    "ad": "COP31’de Türkiye-Avustralya Sınavı: “Biri Başarısız Olursa İkisi de Kaybeder”",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "COP31 öncesinde Türkiye’nin üstleneceği köprü rolünün altını çizen Jennifer Morgan, başarılı bir zirve için iki ülkenin de iklim eylemini kendi evinde başlatması gerektiğini vurguladı. Küresel iklim diplomasisinin önde gelen isimlerinden Jennifer Morgan, İstanbul Politikalar Merk",
+    "koordinatlar": {
+      "lat": 41.0605,
+      "lng": 28.9176
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "26.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31de-turkiye-avustralya-sinavi-biri-basarisiz-olursa-ikisi-de-kaybeder/"
   }
 ]
