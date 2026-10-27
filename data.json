@@ -121015,5 +121015,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/greepeaceten-cop31in-ortagi-cengiz-holdingin-santralinin-onunde-cagri-komurden-cikin/"
+  },
+  {
+    "id": "tarayici-0edf97c02cbb",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Muğla’da acele kamulaştırma, kuraklık ve su sorunu - Tarım Dünyası",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Muğla’da acele kamulaştırma, kuraklık ve su sorunu Tarım Dünyası",
+    "koordinatlar": {
+      "lat": 37.3013,
+      "lng": 28.4253
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "27.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnNLMkdPLUVYNU8yZ0IzZGFQZ25uTERwMGxtZDR3UzFBNldQbW9RUlZ0OFRidUNJMjR4cEZ2ZmowVFJRRVJOWnl6cmZ5YWxIZkMyX0xubm5tTV85R2twRktBczg3UnlGbk5PeTVCZHNxLVRlTEt2Q01ldEQtSlYycEtaZlQ?oc=5"
   }
 ]

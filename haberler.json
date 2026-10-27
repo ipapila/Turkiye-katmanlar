@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-27T15:03:07.970680+00:00",
+    "guncelleme": "2026-10-27T21:39:24.757360+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6656,
-    "haritaya_eklenen_yeni_kayit": 4,
+    "harita_kayit_sayisi": 6657,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -1452,6 +1452,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "5d5412176294",
+      "baslik": "İklim zirvesinin ev sahibi Türkiye'de petrol arama için acele kamulaştırma - Evrensel.net",
+      "ozet": "İklim zirvesinin ev sahibi Türkiye'de petrol arama için acele kamulaştırma Evrensel.net",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDZIUDZiNFlCOG9VRGpuaE1fZlpOOGdEQ3lENjNLY2JlVmhDWVVXM2d4OEo0RlZ4ejNPSlFmcnpzRmgwY3ZIa0pRM3VrcUZQeno0MDNhV2hnU1BGZUd3QWNOdWNNUktfcFVzcmRtQ08yOXNNdnlTR3REaE9tMmVEM3VydU0xUDlONDhocEVOVzQ1bXhPNkVheWl6eDlaRXZmWnJac0MyNjRrUkVSZC1zUzdR?oc=5",
+      "tarih": "2026-10-13T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "1306cabc937e",
       "baslik": "İnsan Hakları İzleme Örgütü: COP31’in ev sahibi Türkiye’den çevre savunucularına baskı - Bianet",
       "ozet": "İnsan Hakları İzleme Örgütü: COP31’in ev sahibi Türkiye’den çevre savunucularına baskı Bianet",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-10-07T09:50:17+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7d9151132902",
-      "baslik": "Galatasaray'dan Avrupa'yı ayağa kaldıracak transfer: İlkay Gündoğan devrede",
-      "ozet": "Galatasaray'dan Avrupa'yı ayağa kaldıracak transfer: İlkay Gündoğan devrede",
-      "url": "https://www.sozcu.com.tr/galatasaraydan-avrupayi-ayaga-kaldiracak-transfer-ilkay-gundogan-devrede-p366954",
-      "tarih": "2026-10-07T09:17:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95194,6 +95194,20 @@
       "ozet": "Greenpeace aktivistleri, COP31’in “Sürdürülebilir Dönüşüm Ortağı” olan Cengiz Holding’e ait CENAL Kömürlü Termik Santralı yakınında “Antalya’da İklim Zirvesi, Çanakkale’de Yeni Kömür Termik Santrali” ve “Quit coal (Kömürden Çık)” pankartı açtı. İthal kömürle çalışan santrala ek ü",
       "lat": 40.0387,
       "lng": 26.3231,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0edf97c02cbb",
+      "baslik": "Muğla’da acele kamulaştırma, kuraklık ve su sorunu - Tarım Dünyası",
+      "konum": "Muğla",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "27.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnNLMkdPLUVYNU8yZ0IzZGFQZ25uTERwMGxtZDR3UzFBNldQbW9RUlZ0OFRidUNJMjR4cEZ2ZmowVFJRRVJOWnl6cmZ5YWxIZkMyX0xubm5tTV85R2twRktBczg3UnlGbk5PeTVCZHNxLVRlTEt2Q01ldEQtSlYycEtaZlQ?oc=5",
+      "ozet": "Muğla’da acele kamulaştırma, kuraklık ve su sorunu Tarım Dünyası",
+      "lat": 37.3013,
+      "lng": 28.4253,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
