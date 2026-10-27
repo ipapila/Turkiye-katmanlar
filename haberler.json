@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-27T08:31:56.036418+00:00",
+    "guncelleme": "2026-10-27T15:03:07.970680+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6652,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6656,
+    "haritaya_eklenen_yeni_kayit": 4,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "aaa8fde23c33",
+      "baslik": "COP17’de Müzakereler Son Düzlüğe Girerken Ülkeler Anlaşmaya Varmaktan Uzak",
+      "ozet": "Tarihi bir doğa koruma anlaşmasını kurtarmaya yönelik kritik müzakereler Ermenistan’da son düzlüğe girdi ancak zaman daralırken görüşmeler tıkandı ve ülkeler bir uzlaşıdan oldukça uzak. Yaklaşık 200 ülke, doğanın tahrip edilmesini 2030 yılına kadar durdurma ve tersine çevirme yön",
+      "url": "https://www.iklimhaber.org/cop17de-muzakereler-son-duzluge-girerken-ulkeler-anlasmaya-varmaktan-uzak/",
+      "tarih": "2026-10-27T11:48:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3d9a3a407291",
+      "baslik": "Adil Geçiş Taslağında Kömür “Stratejik” Maden Oldu; Madenciye Yer Verilmedi!",
+      "ozet": "İklim Ağı, Çalışma ve Sosyal Güvenlik Bakanlığı’nın hazırladığı Ulusal Adil Geçiş Stratejisi ve Eylem Planı Taslağı’nda kömür madencilerinin yer almadığını söylerken, taslağın kömürden çıkış takvimini, kömür bölgelerine yönelik somut eylemleri ve işçiler ile etkilenen topluluklar",
+      "url": "https://www.iklimhaber.org/adil-gecis-taslaginda-komur-stratejik-maden-oldu-madenciye-yer-verilmedi/",
+      "tarih": "2026-10-27T10:51:52+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "32af34ccceff",
+      "baslik": "Türkiye’de En Zengin %0,1’in Emisyonu En Yoksul %27’nin Emisyonundan Daha Fazla",
+      "ozet": "Oxfam Konfederasyonu’nun Afet Eşitsizliği Raporu’na göre en zengin binde 1’lik kesim, dünya nüfusunun neredeyse yarısından daha fazla karbon kirliliği yaratırken, bunun doğurduğu iklim afetlerinden kazanç sağlıyor. Türkiye’deki en zengin binde birlik kesiminin, yani yalnızca 84.9",
+      "url": "https://www.iklimhaber.org/turkiyede-en-zengin-01in-emisyonu-en-yoksul-%27nin-emisyonundan-daha-fazla/",
+      "tarih": "2026-10-27T09:57:15+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ef9b1020abde",
+      "baslik": "Greepeace’ten COP31’in Ortağı Cengiz Holding’in Santralının Önünde Çağrı: “Kömürden Çıkın!”",
+      "ozet": "Greenpeace aktivistleri, COP31’in “Sürdürülebilir Dönüşüm Ortağı” olan Cengiz Holding’e ait CENAL Kömürlü Termik Santralı yakınında “Antalya’da İklim Zirvesi, Çanakkale’de Yeni Kömür Termik Santrali” ve “Quit coal (Kömürden Çık)” pankartı açtı. İthal kömürle çalışan santrala ek ü",
+      "url": "https://www.iklimhaber.org/greepeaceten-cop31in-ortagi-cengiz-holdingin-santralinin-onunde-cagri-komurden-cikin/",
+      "tarih": "2026-10-27T08:48:03+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e836d9097c4b",
       "baslik": "Borsa güne düşüşle başladı -27 Ekim 2026",
@@ -1967,46 +2007,6 @@
       "ozet": "Galatasaray'dan Avrupa'yı ayağa kaldıracak transfer: İlkay Gündoğan devrede",
       "url": "https://www.sozcu.com.tr/galatasaraydan-avrupayi-ayaga-kaldiracak-transfer-ilkay-gundogan-devrede-p366954",
       "tarih": "2026-10-07T09:17:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "99d529233507",
-      "baslik": "Türkiye'nin yeni stadyumu İstanbul'da yükseliyor! Maliyeti 1 milyar TL'nin üzerinde",
-      "ozet": "Türkiye'nin yeni stadyumu İstanbul'da yükseliyor! Maliyeti 1 milyar TL'nin üzerinde",
-      "url": "https://www.sozcu.com.tr/turkiye-nin-yeni-stadyumu-istanbul-da-yukseliyor-maliyeti-1-milyar-tl-nin-uzerinde-p366953",
-      "tarih": "2026-10-07T09:16:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "202f6f4162b8",
-      "baslik": "Bu kış bu sınırı geçen yandı: Doğal gaz faturaları bu aylarda ikiye katlanacak",
-      "ozet": "Bu kış bu sınırı geçen yandı: Doğal gaz faturaları bu aylarda ikiye katlanacak",
-      "url": "https://www.sozcu.com.tr/bu-kis-bu-siniri-gecen-yandi-dogal-gaz-faturalari-bu-aylarda-ikiye-katlanacak-p366951",
-      "tarih": "2026-10-07T09:00:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bced60aa1a73",
-      "baslik": "Türkiye'de denizden hazine çıktı",
-      "ozet": "Türkiye'de denizden hazine çıktı",
-      "url": "https://www.sozcu.com.tr/turkiye-de-denizden-hazine-cikti-p366936",
-      "tarih": "2026-10-07T08:28:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "99643a18a61d",
-      "baslik": "Canlı yayında filtresi kaydı gerçek yüzü ortaya çıktı: Herkes 20 yaşında sanıyordu",
-      "ozet": "Canlı yayında filtresi kaydı gerçek yüzü ortaya çıktı: Herkes 20 yaşında sanıyordu",
-      "url": "https://www.sozcu.com.tr/canli-yayinda-filtresi-kaydi-gercek-yuzu-ortaya-cikti-herkes-20-yasinda-saniyordu-p366921",
-      "tarih": "2026-10-07T08:19:14+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95138,6 +95138,62 @@
       "ozet": "Hem havadan hem karadan müdahale — Antalya ve Muğla’da orman yangınları Nûmedya24",
       "lat": 36.9527,
       "lng": 30.653,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-4be773d313b7",
+      "baslik": "Bursa’da yanan orman alanındaki maden projesine köylülerden tepki - Bursa Saati Gazetesi",
+      "konum": "Bursa",
+      "kategori": "Orman Alanı",
+      "siddet": "Takip Ediliyor",
+      "tarih": "27.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTRRZExUM24wVDhRNUY0R0prdkpqdnhCTklwTWxXMGg5dEFma1Z1d3RWdU9rU1UtdFFvOThnT3BEb1JqV3hMZDFWbG1KUmw4Z2tqOTh0a0M1Q1JDR2JEQWlxOWFsQ24xUHdnRDZ2R3Y4RDc5SUgta3FHVWtNUUMyeEpWdmUwLVR1UUlGZHlGM21SNjBYWlRvLWln?oc=5",
+      "ozet": "Bursa’da yanan orman alanındaki maden projesine köylülerden tepki Bursa Saati Gazetesi",
+      "lat": 40.185,
+      "lng": 29.0217,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f176f1f4d844",
+      "baslik": "Antalya'da orman yangını: Ekipler müdahale ediyor - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "27.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUdrSHJFMTBQanBwelhNdVQ5TzA4V3M3aHVKcnRTajV3SUsxRXNwMzRQVzFxOFJlS2JYTjJRbmhLTmRWSDVGaDVXR0ViLUxia25Ic0xib3REYkM2d0JMR3Z1QTJvWTM2T0NZenFxQi1ZcXliS204OE1DOENnQVJfV01TYjVpRlh5NVRkTlA1bkxWMUNud0ozSjdR?oc=5",
+      "ozet": "Antalya'da orman yangını: Ekipler müdahale ediyor - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "lat": 36.9155,
+      "lng": 30.6316,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b9c1869b1f9b",
+      "baslik": "Bursa'da maden çalışmalarına tepki! Mahalleli alana indi - Bursada Bugün",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "27.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzIxWWlfMVdSRGZnbDZlbXF3T0YwR2FuUF9VZnhEZVNER2ExelE3VVRqWlpMSDlGSExvMXEzdVNqeENRLWphdk9ad0Z5eVpRS1UzNkdkaG04M0thc202OVdENWl3aVdSV0ZjM0h5ZlVuMzF4eklUb3NUOTQ1TXJSc3AybkdBTFJSWGJCcDVjcEpKQTRQTmVQOTM3RmotZlZCdmJvWnhn0gGoAUFVX3lxTFBzVC1pNjBxcVNaZzdxa080NUJ0WnY1WGlMcTI1M3NYUzFYSUxJRExEYlpISFV0amF4elNSZFBhcHp3ZFhpekhiMno2TFhfNjJzekdPMlRSLXc3aEQ2QjQ4Ykx2bk5YNWZBendtbUZqeGVmZE1hdDdreEp2bFZkbm5hV0hZZzhBblF6N0pzUVk2WVJFRFpKU0xCU2FIR1hDUFhhaXgzUTdocw?oc=5",
+      "ozet": "Bursa'da maden çalışmalarına tepki! Mahalleli alana indi Bursada Bugün",
+      "lat": 40.1974,
+      "lng": 29.1414,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-ef9b1020abde",
+      "baslik": "Greepeace’ten COP31’in Ortağı Cengiz Holding’in Santralının Önünde Çağrı: “Kömürden Çıkın!”",
+      "konum": "Çanakkale",
+      "kategori": "Termik Reaktör",
+      "siddet": "Takip Ediliyor",
+      "tarih": "27.10.2026",
+      "url": "https://www.iklimhaber.org/greepeaceten-cop31in-ortagi-cengiz-holdingin-santralinin-onunde-cagri-komurden-cikin/",
+      "ozet": "Greenpeace aktivistleri, COP31’in “Sürdürülebilir Dönüşüm Ortağı” olan Cengiz Holding’e ait CENAL Kömürlü Termik Santralı yakınında “Antalya’da İklim Zirvesi, Çanakkale’de Yeni Kömür Termik Santrali” ve “Quit coal (Kömürden Çık)” pankartı açtı. İthal kömürle çalışan santrala ek ü",
+      "lat": 40.0387,
+      "lng": 26.3231,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
