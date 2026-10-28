@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-27T21:39:24.757360+00:00",
+    "guncelleme": "2026-10-28T09:11:01.313876+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6657,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "2f7655314baa",
+      "baslik": "20. yılına sahnede adım attı: Takım elbiseli tarzı dikkat çekti",
+      "ozet": "20. yılına sahnede adım attı: Takım elbiseli tarzı dikkat çekti",
+      "url": "https://www.sozcu.com.tr/20-yilina-sahnede-adim-atti-takim-elbiseli-tarzi-dikkat-cekti-p373529",
+      "tarih": "2026-10-28T08:25:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "aaa8fde23c33",
       "baslik": "COP17’de Müzakereler Son Düzlüğe Girerken Ülkeler Anlaşmaya Varmaktan Uzak",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-10-07T16:12:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "401182b1e845",
-      "baslik": "Teknolojiye Bel Bağlayan Bilim İnsanları İklim Eyleminden Uzak Duruyor",
-      "ozet": "Yeni bir araştırma, iklim krizine çözüm konusunda teknolojiye güvenen bilim insanlarının iklim eylemine katılma olasılığı daha düşük olduğunu ortaya koydu. Araştırma bu türden bir “teknoloji iyimserliğinin”, toplumsal değişimlerin önüne geçerek kanıtlanmamış çözümlere bel bağlanm",
-      "url": "https://www.iklimhaber.org/teknolojiye-bel-baglayan-bilim-insanlari-iklim-eyleminden-uzak-duruyor/",
-      "tarih": "2026-10-07T09:50:17+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
