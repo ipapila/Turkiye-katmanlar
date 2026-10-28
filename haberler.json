@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-28T09:11:01.313876+00:00",
+    "guncelleme": "2026-10-28T17:44:20.311444+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6657,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6660,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "ef20e32bee99",
+      "baslik": "AKP'li vekil Asuman Erdoğan'ın eşi de aralarındaydı! 3 kişinin mal varlığına gelen tedbir kararı jet hızıyla kaldırıldı",
+      "ozet": "AKP'li vekil Asuman Erdoğan'ın eşi de aralarındaydı! 3 kişinin mal varlığına gelen tedbir kararı jet hızıyla kaldırıldı",
+      "url": "https://www.sozcu.com.tr/pasifik-holdingin-uc-yoneticisinin-mal-varligi-uzerindeki-tedbir-kaldirildi-p373674",
+      "tarih": "2026-10-28T16:09:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "edb40c5eb062",
+      "baslik": "Yeni Rapor: Ulusal Katkı Beyanları Paris Anlaşması’yla Uyumlu Değil",
+      "ozet": "İklim değişikliğiyle mücadele kapsamında ülkelerin taahhütlerini içeren Ulusal Katkı Beyanlarını (NDC) inceleyen yeni bir rapor, iklim politikalarının genel anlamda genişlemesine rağmen emisyon azaltımlarının Paris Anlaşması’nın sıcaklık hedefiyle uyumlu olmadığına dikkat çekiyor",
+      "url": "https://www.iklimhaber.org/yeni-rapor-ulusal-katki-beyanlari-paris-anlasmasiyla-uyumlu-degil/",
+      "tarih": "2026-10-28T12:22:18+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f09a668be396",
+      "baslik": "İklim İnkârcılığı Sözlüğü-17: “İklim Krizi Gelişmekte Olan Ülkelerin Ekonomisini Baltalamak için Uyduruldu”",
+      "ozet": "Uluslararası Enerji Ajansı’nın yayımladığı Sürdürülebilir İyileşme Raporu’na göre hem küresel hem ulusal anlamda ekonomiyi canlandırmanın, yeni istihdam alanları yaratmanın ve uzun vadeli maliyetleri düşürmenin en etkili yolu yenilenebilir enerjiden geçiyor. İklim krizi inkârcıla",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-17-iklim-krizi-gelismekte-olan-ulkelerin-ekonomisini-baltalamak-icin-uyduruldu/",
+      "tarih": "2026-10-28T11:34:46+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bdec6e42977e",
+      "baslik": "Atmosferdeki Seragazı Seviyeleri Bir Kez Daha Rekor Kırdı",
+      "ozet": "Dünya Meteoroloji Örgütü, atmosferdeki seragazı seviyelerinin 2025’te görülmemiş düzeylere ulaştığını, bunun gezegeni daha da ısıtabileceğini ve daha şiddetli iklim olaylarına yol açabileceğini belirtti. Dünya Meteoroloji Örgütü (WMO) yeni yayımladığı rapora göre, atmosferdeki kü",
+      "url": "https://www.iklimhaber.org/atmosferdeki-seragazi-seviyeleri-bir-kez-daha-rekor-kirdi/",
+      "tarih": "2026-10-28T11:11:36+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8f335e7de0f7",
+      "baslik": "İklim Krizi Kaynaklı Yüksek Sıcaklıklar 2016-2023 Yılları Arasında 3 Milyon Ölüme Sebep Oldu",
+      "ozet": "Son 10 yılda hız kazanan yeşil dönüşümün 300 binden fazla hayat kurtardığı hesaplanıyor. Temiz enerji yatırımları, 2025’te 2,1 trilyon dolar ile fosil yakıtlara yapılan yatırımların neredeyse iki katına ulaşarak rekor kırdı. 2016’dan bugüne en az 77 ülkede fosil yakıtlardan kayna",
+      "url": "https://www.iklimhaber.org/iklim-krizi-kaynakli-yuksek-sicakliklar-2016-2023-yillari-arasinda-3-milyon-olume-sebep-oldu/",
+      "tarih": "2026-10-28T10:21:06+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0a50406761f0",
+      "baslik": "COP31 Ev Sahibi Antalya’daki Hortum Felaketine Dair Uyarılar Neden Hayat Kurtarmadı?",
+      "ozet": "26 Ekim gecesi Antalya’nın Kepez ilçesinde meydana gelen hortum, iki hafta sonra COP31’e ev sahipliği yapacak şehirde iklim risklerini bir kez daha gözler önüne serdi. MGM’nin “kıyılarda hortum riski” uyarısının ardından gerçekleşen olayda, bir inşaat alanında konteynerde barınan",
+      "url": "https://www.iklimhaber.org/cop31-ev-sahibi-antalyadaki-hortum-felaketine-dair-uyarilar-neden-hayat-kurtarmadi/",
+      "tarih": "2026-10-28T09:44:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "2f7655314baa",
       "baslik": "20. yılına sahnede adım attı: Takım elbiseli tarzı dikkat çekti",
@@ -1212,6 +1272,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "1da3fd0dc942",
+      "baslik": "17 yıldır Trabzon'dan çıkmayan kamyonete İstanbul'dan geçiş ihlali cezası geldi - Hürriyet",
+      "ozet": "17 yıldır Trabzon'dan çıkmayan kamyonete İstanbul'dan geçiş ihlali cezası geldi Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMk5GcFBOZUVobzQtaEppTDE0SFd6aS1FdTRRcDVnaWM1VmNqUjJubUcyUS1GcHBPQnRzZ1lnWUNSOGtILTVVR1Vwb0d3WHMxVDF1TlBJSGJ2T1ZaZUxuOWtaSGxBUnhXTDhaZDRkQzMzVnprVElFcTgxeWI5WHo1bFBDTlUzYlZIRC1aVThxYUVWZm9XT2puTnk0NkdHRXVWVzk3MVBKTHlscFZXRXpJZ1VpcGdTcDNUdXVTaTln?oc=5",
+      "tarih": "2026-10-15T07:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "713c3d80868e",
       "baslik": "ABD'de enflasyon yükseldi: Piyasada satışlar hızlandı",
       "ozet": "ABD'de enflasyon yükseldi: Piyasada satışlar hızlandı",
@@ -1939,76 +2009,6 @@
       "tarih": "2026-10-08T07:36:07+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1f312c026d7b",
-      "baslik": "KNK’den Federe Kürdistan’daki ağaç kıyımına ilişkin açıklama - Yeni Yaşam Gazetesi",
-      "ozet": "KNK’den Federe Kürdistan’daki ağaç kıyımına ilişkin açıklama Yeni Yaşam Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzc2R3kxay1tYjFXWEd4eWZadlN0MDI5T3NfSk55VTlLMThpRjlURnNJdDNSZFlwZE5YaWFlcjBORVVHQVJ4UzJiMDFicnNJdTNzNHZjNUMtSHFfeV9yVHZxc0xXNnFrRGZILTRQRXo5Y2xEeVpMYlJKZktZUjRBZGd4eXZuMG9GbXVfSUE4ajl2UktS?oc=5",
-      "tarih": "2026-10-08T07:22:52+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7a1af98e091d",
-      "baslik": "KNK: Çevre kıyımı karşısındaki sessizlik büyük bir suçtur - ANF | Articles",
-      "ozet": "KNK: Çevre kıyımı karşısındaki sessizlik büyük bir suçtur ANF | Articles",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXFPY0xHQkZMaXFrRXdfbWoyZG5GcHlwcjh0YzdWaWFkb0owOTAxYzd3TXNFNldwRnJWc3ladW9kaTZvUXdYTERNTGxwSzhxelNyRno0R2I4R1FEZ0ZPZ0hvSlprbVVweVZjNFU5MGJvclBNRHhNR28zbTlvRjBXNkV1anhsQV84ay1CcGMwNWlvdWwwY2hCV09vUmV1RHgy?oc=5",
-      "tarih": "2026-10-08T06:45:06+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8075f862e47b",
-      "baslik": "COP31 Ev Sahibine Çağrı: “Türkiye İklim Taahhütlerini Somut Adımlara Dönüştürmeli”",
-      "ozet": "İPM’nin “COP31 Diyalogları” toplantı serisinin sonuncusunda, Türkiye’nin COP31 Başkanı olarak önceliklendirdiği iklim eylemlerinin yanı sıra ,kömürden çıkış, elektrifikasyon, karbon fiyatlaması, gıda, sağlık, finansman ve adil geçiş konuları ele alındı. Toplantıya katılan uzmanla",
-      "url": "https://www.iklimhaber.org/cop31-ev-sahibine-cagri-turkiye-iklim-taahhutlerini-somut-adimlara-donusturmeli/",
-      "tarih": "2026-10-08T06:27:55+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d9e156584b7c",
-      "baslik": "COP31 Başkanı Kurum: “Fosil Yakıtlardan Adil, Düzenli ve Eşitlikçi bir Uzaklaşma Gerekli”",
-      "ozet": "Fosil yakıtlardan adil, düzenli ve eşitlikçi biçimde uzaklaşılması gerektiğini belirten Kurum, “Elektrifikasyon, depolama ve şebeke dönüşümü enerji arz güvenliğini güçlendirecek, maliyetleri düşürüp fosil bağımlılığını azaltacaktır” diye konuştu. Türkiye’nin ev sahipliğinde Antal",
-      "url": "https://www.iklimhaber.org/cop31-baskani-kurum-fosil-yakitlardan-adil-duzenli-ve-esitlikci-bir-uzaklasma-gerekli/",
-      "tarih": "2026-10-08T06:03:35+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ca6a3fb75b5d",
-      "baslik": "Murat Nehri üzerine 6’ncı baraj! - Yeni Yaşam Gazetesi",
-      "ozet": "Murat Nehri üzerine 6’ncı baraj! Yeni Yaşam Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IcWxLbU9KRDBFQXQ3SzFQYzZXUnItTW5GUHB1cTRhdEhwMVp0TnM3akczb1pUT2ZxNjVoaUlSSEJCSDlYeXduYWpyekMxTWI1VzNJODNqMEw2X09fMzUxak0xU0E1c1NFeTIybWNnMA?oc=5",
-      "tarih": "2026-10-07T20:01:17+00:00",
-      "kaynak": "Google News",
-      "kategori": "HES / RES / Baraj",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aa44d4df0d2a",
-      "baslik": "Galatasaray’da 860 milyon euroluk borç krizi! Dursun Özbek anında yanıtladı",
-      "ozet": "Galatasaray’da 860 milyon euroluk borç krizi! Dursun Özbek anında yanıtladı",
-      "url": "https://www.sozcu.com.tr/galatasarayda-860-milyon-euroluk-borc-krizi-dursun-ozbek-aninda-yanitladi-p367084",
-      "tarih": "2026-10-07T16:25:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fb543cf5f32b",
-      "baslik": "Nehir kıyısındaki toprak çökmeye başladı: Evleri birer birer yutuyor",
-      "ozet": "Nehir kıyısındaki toprak çökmeye başladı: Evleri birer birer yutuyor",
-      "url": "https://www.sozcu.com.tr/nehir-kiyisindaki-toprak-cokmeye-basladi-evleri-birer-birer-yutuyor-p367082",
-      "tarih": "2026-10-07T16:12:23+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95208,6 +95208,48 @@
       "ozet": "Muğla’da acele kamulaştırma, kuraklık ve su sorunu Tarım Dünyası",
       "lat": 37.3013,
       "lng": 28.4253,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-1da3fd0dc942",
+      "baslik": "17 yıldır Trabzon'dan çıkmayan kamyonete İstanbul'dan geçiş ihlali cezası geldi - Hürriyet",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "28.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMk5GcFBOZUVobzQtaEppTDE0SFd6aS1FdTRRcDVnaWM1VmNqUjJubUcyUS1GcHBPQnRzZ1lnWUNSOGtILTVVR1Vwb0d3WHMxVDF1TlBJSGJ2T1ZaZUxuOWtaSGxBUnhXTDhaZDRkQzMzVnprVElFcTgxeWI5WHo1bFBDTlUzYlZIRC1aVThxYUVWZm9XT2puTnk0NkdHRXVWVzk3MVBKTHlscFZXRXpJZ1VpcGdTcDNUdXVTaTln?oc=5",
+      "ozet": "17 yıldır Trabzon'dan çıkmayan kamyonete İstanbul'dan geçiş ihlali cezası geldi Hürriyet",
+      "lat": 41.0949,
+      "lng": 28.8689,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-09b68413b26b",
+      "baslik": "Maden Şirketi Sahipleri İstedi: ÇED Süreci Rafa Kalkıyor! - Yeni Giresun Gazetesi",
+      "konum": "Giresun",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "28.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZnhRb0E5VVE4OEdtVjd1ajM1aFJVckZMbWJEVXlUWk5ocEtQN3ZiTDFONWFVV0RoZHluNnBOdDhpTmoybHZGSUlHNmpuek84Zy1xbWl4MUdmR3Vqd1k4MnZZVUd5UkM1S3ZWY2RQUWx0aVI2WExCS0t3VlJwbWtzR0s4X0VmaUR5YlZsME1MSXZsUWp2dmVPTGwyeUE1T3fSAaQBQVVfeXFMTXNVdzBVckw3djE0LXVxeXZ2VXJCVXRTdlJQMXNzTmhyTGlxNndPMmRTX0tKQlJ2YXQ0YzhqNlpnalJmQUpwREtXQW1ZeHp4RHgycTJaWDlraHpJcVRkWkZwc3BTX2hSVF9HcFlxMmpZYmdtVDltNktXd24wUzZYMTNaWWJzOHhPa1VCY24yeXZSWlZoV3dpNm1XV1BKRmhObVV6eW8?oc=5",
+      "ozet": "Maden Şirketi Sahipleri İstedi: ÇED Süreci Rafa Kalkıyor! Yeni Giresun Gazetesi",
+      "lat": 40.9326,
+      "lng": 38.4908,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-0a50406761f0",
+      "baslik": "COP31 Ev Sahibi Antalya’daki Hortum Felaketine Dair Uyarılar Neden Hayat Kurtarmadı?",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "28.10.2026",
+      "url": "https://www.iklimhaber.org/cop31-ev-sahibi-antalyadaki-hortum-felaketine-dair-uyarilar-neden-hayat-kurtarmadi/",
+      "ozet": "26 Ekim gecesi Antalya’nın Kepez ilçesinde meydana gelen hortum, iki hafta sonra COP31’e ev sahipliği yapacak şehirde iklim risklerini bir kez daha gözler önüne serdi. MGM’nin “kıyılarda hortum riski” uyarısının ardından gerçekleşen olayda, bir inşaat alanında konteynerde barınan",
+      "lat": 36.8318,
+      "lng": 30.759,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

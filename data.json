@@ -121034,5 +121034,62 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnNLMkdPLUVYNU8yZ0IzZGFQZ25uTERwMGxtZDR3UzFBNldQbW9RUlZ0OFRidUNJMjR4cEZ2ZmowVFJRRVJOWnl6cmZ5YWxIZkMyX0xubm5tTV85R2twRktBczg3UnlGbk5PeTVCZHNxLVRlTEt2Q01ldEQtSlYycEtaZlQ?oc=5"
+  },
+  {
+    "id": "tarayici-1da3fd0dc942",
+    "tip": "Ekolojik İhlal",
+    "ad": "17 yıldır Trabzon'dan çıkmayan kamyonete İstanbul'dan geçiş ihlali cezası geldi - Hürriyet",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "17 yıldır Trabzon'dan çıkmayan kamyonete İstanbul'dan geçiş ihlali cezası geldi Hürriyet",
+    "koordinatlar": {
+      "lat": 41.0949,
+      "lng": 28.8689
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "28.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMk5GcFBOZUVobzQtaEppTDE0SFd6aS1FdTRRcDVnaWM1VmNqUjJubUcyUS1GcHBPQnRzZ1lnWUNSOGtILTVVR1Vwb0d3WHMxVDF1TlBJSGJ2T1ZaZUxuOWtaSGxBUnhXTDhaZDRkQzMzVnprVElFcTgxeWI5WHo1bFBDTlUzYlZIRC1aVThxYUVWZm9XT2puTnk0NkdHRXVWVzk3MVBKTHlscFZXRXpJZ1VpcGdTcDNUdXVTaTln?oc=5"
+  },
+  {
+    "id": "tarayici-09b68413b26b",
+    "tip": "Ekolojik İhlal",
+    "ad": "Maden Şirketi Sahipleri İstedi: ÇED Süreci Rafa Kalkıyor! - Yeni Giresun Gazetesi",
+    "il": "Giresun",
+    "ilce": "",
+    "aciklama": "Maden Şirketi Sahipleri İstedi: ÇED Süreci Rafa Kalkıyor! Yeni Giresun Gazetesi",
+    "koordinatlar": {
+      "lat": 40.9326,
+      "lng": 38.4908
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "28.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZnhRb0E5VVE4OEdtVjd1ajM1aFJVckZMbWJEVXlUWk5ocEtQN3ZiTDFONWFVV0RoZHluNnBOdDhpTmoybHZGSUlHNmpuek84Zy1xbWl4MUdmR3Vqd1k4MnZZVUd5UkM1S3ZWY2RQUWx0aVI2WExCS0t3VlJwbWtzR0s4X0VmaUR5YlZsME1MSXZsUWp2dmVPTGwyeUE1T3fSAaQBQVVfeXFMTXNVdzBVckw3djE0LXVxeXZ2VXJCVXRTdlJQMXNzTmhyTGlxNndPMmRTX0tKQlJ2YXQ0YzhqNlpnalJmQUpwREtXQW1ZeHp4RHgycTJaWDlraHpJcVRkWkZwc3BTX2hSVF9HcFlxMmpZYmdtVDltNktXd24wUzZYMTNaWWJzOHhPa1VCY24yeXZSWlZoV3dpNm1XV1BKRmhObVV6eW8?oc=5"
+  },
+  {
+    "id": "tarayici-0a50406761f0",
+    "tip": "İklim Olayları",
+    "ad": "COP31 Ev Sahibi Antalya’daki Hortum Felaketine Dair Uyarılar Neden Hayat Kurtarmadı?",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "26 Ekim gecesi Antalya’nın Kepez ilçesinde meydana gelen hortum, iki hafta sonra COP31’e ev sahipliği yapacak şehirde iklim risklerini bir kez daha gözler önüne serdi. MGM’nin “kıyılarda hortum riski” uyarısının ardından gerçekleşen olayda, bir inşaat alanında konteynerde barınan",
+    "koordinatlar": {
+      "lat": 36.8318,
+      "lng": 30.759
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "28.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31-ev-sahibi-antalyadaki-hortum-felaketine-dair-uyarilar-neden-hayat-kurtarmadi/"
   }
 ]
