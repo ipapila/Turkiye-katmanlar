@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-28T17:44:20.311444+00:00",
+    "guncelleme": "2026-10-28T22:03:32.041372+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6660,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "harita_kayit_sayisi": 6662,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "5b99a7ffaff2",
+      "baslik": "AKP'li Tayyar'dan fon krizi uyarısı: Hesap sorulması da önemli",
+      "ozet": "AKP'li Tayyar'dan fon krizi uyarısı: Hesap sorulması da önemli",
+      "url": "https://www.sozcu.com.tr/samil-tayyar-fon-aciklamasi-28-ekim-2026-p373740",
+      "tarih": "2026-10-28T20:18:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "57bce425213a",
+      "baslik": "Cumhurbaşkanı Erdoğan ile Trump görüştü: Dikkat çeken 'Mekke İttifakı' detayı",
+      "ozet": "Cumhurbaşkanı Erdoğan ile Trump görüştü: Dikkat çeken 'Mekke İttifakı' detayı",
+      "url": "https://www.sozcu.com.tr/erdogan-trump-gorusmesi-28-ekim-2026-p373724",
+      "tarih": "2026-10-28T19:20:54+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "28a607023268",
+      "baslik": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
+      "ozet": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
+      "url": "https://www.sozcu.com.tr/istanbul-da-3-ilcede-yollar-trafige-kapatilacak-p373711",
+      "tarih": "2026-10-28T17:43:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ef20e32bee99",
       "baslik": "AKP'li vekil Asuman Erdoğan'ın eşi de aralarındaydı! 3 kişinin mal varlığına gelen tedbir kararı jet hızıyla kaldırıldı",
@@ -29,6 +59,16 @@
       "tarih": "2026-10-28T12:22:18+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d4a522075f57",
+      "baslik": "Güney Kore’den Google ve Apple’a uygulama mağazası ihlalleri için 47,5 milyon dolar ceza - dikGAZETE.com",
+      "ozet": "Güney Kore’den Google ve Apple’a uygulama mağazası ihlalleri için 47,5 milyon dolar ceza dikGAZETE.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEhIancxVE10aF9iMkMtMU1oajItMXd3SEh3NnBWNzJQaXhEbUdsc2pPcmw5ekVQLXR2cl9qMW80a254SkpRc1N0UnlrNm03VEpTQ1FXVnFkWkFmRjVrUHlDNW45UExIb1RRVklsSnlvRWJ0eldSVHFBSWdCYXdlaGE2ZlRNcnRidVlqakJXdkJfMFN5SWVmWEFiaUZrMHBfVmVvbndmSE1tVDMtUXkwTHJFbm5QNUp4UFVKOEtHeHJWNkk1NkkySll2VjRSdw?oc=5",
+      "tarih": "2026-10-28T12:06:34+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1967,46 +2007,6 @@
       "ozet": "Gezegenimiz biyoçeşitlilik krizi yaşamasına rağmen, yeni bir rapor, son yıllarda yapılan çalışmalar sayesinde yabani kaplanların, orkinosların ve deniz kaplumbağalarının popülasyonlarında dikkat çekici artışı ve doğa kaybının tersine çevrilebileceğini gösterdi. Aynı rapor biyoçeş",
       "url": "https://www.iklimhaber.org/yeni-rapor-doga-kaybi-istenirse-tersine-cevrilebiliyor/",
       "tarih": "2026-10-08T09:52:30+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5afe4f8bd575",
-      "baslik": "Kredi kartlarında yeni dönem: Sil baştan hesaplanacak",
-      "ozet": "Kredi kartlarında yeni dönem: Sil baştan hesaplanacak",
-      "url": "https://www.sozcu.com.tr/kredi-kartlarinda-yeni-donem-sil-bastan-hesaplanacak-p367287",
-      "tarih": "2026-10-08T08:41:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "305092633add",
-      "baslik": "Manchester City'ye savaş açtılar! İşte felaket senaryosu",
-      "ozet": "Manchester City'ye savaş açtılar! İşte felaket senaryosu",
-      "url": "https://www.sozcu.com.tr/manchester-cityye-savas-actilar-iste-felaket-senaryosu-p367267",
-      "tarih": "2026-10-08T08:00:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0854c48bccc3",
-      "baslik": "Bütçede kara eylül: Yarım trilyonluk rekor bütçe açığı geliyor",
-      "ozet": "Bütçede kara eylül: Yarım trilyonluk rekor bütçe açığı geliyor",
-      "url": "https://www.sozcu.com.tr/butcede-kara-eylul-yarim-trilyonluk-rekor-butce-acigi-geliyor-p367264",
-      "tarih": "2026-10-08T07:48:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9c5778b07855",
-      "baslik": "BM: “El Niño Daha da Şiddetlenerek Şubat 2027’ye Kadar Sürecek”",
-      "ozet": "WMO Genel Sekreteri Celeste Saulo, yaptığı açıklamada, ” Tahminlerimiz, El Niño’nun Şubat 2027 boyunca devam etme olasılığının neredeyse %100 olduğunu ve potansiyel olarak en az 1950’den bu yana görülen en güçlü El Niño’lardan biri olacağını gösteriyor” dedi. Dünya Meteoroloji Ör",
-      "url": "https://www.iklimhaber.org/bm-el-nino-daha-da-siddetlenerek-subat-2027ye-kadar-surecek/",
-      "tarih": "2026-10-08T07:36:07+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -95250,6 +95250,34 @@
       "ozet": "26 Ekim gecesi Antalya’nın Kepez ilçesinde meydana gelen hortum, iki hafta sonra COP31’e ev sahipliği yapacak şehirde iklim risklerini bir kez daha gözler önüne serdi. MGM’nin “kıyılarda hortum riski” uyarısının ardından gerçekleşen olayda, bir inşaat alanında konteynerde barınan",
       "lat": 36.8318,
       "lng": 30.759,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-985313d87fc7",
+      "baslik": "Aydın Çine'de orman yangını: Ekipler havadan ve karadan müdahale ediyor - Cumhuriyet",
+      "konum": "Aydın",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "28.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblZobDlERnpZaXUyWk5qVjBzU0MweVhNd0JSakF1TDVVMW1wVllrckt1cTR3Y0JqNEtldm96UFIzTGUtdVRtOTFVSUxnT3UwY3J3VjBHQWhLeFp2NThIclRUU1cwT2xHV2N2YWZ2OGVhbktLSHFaSnlValZaOEYzanRTTm0tVnRZU0FRV0syaEczRDJMZUhKYm1wS0VmVTFXNVlYTkh3Uk5LdDdaVlNLZzFQMjFBaWs?oc=5",
+      "ozet": "Aydın Çine'de orman yangını: Ekipler havadan ve karadan müdahale ediyor Cumhuriyet",
+      "lat": 37.8217,
+      "lng": 27.9285,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-28a607023268",
+      "baslik": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "28.10.2026",
+      "url": "https://www.sozcu.com.tr/istanbul-da-3-ilcede-yollar-trafige-kapatilacak-p373711",
+      "ozet": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
+      "lat": 41.0119,
+      "lng": 28.8998,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

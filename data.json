@@ -121091,5 +121091,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31-ev-sahibi-antalyadaki-hortum-felaketine-dair-uyarilar-neden-hayat-kurtarmadi/"
+  },
+  {
+    "id": "tarayici-985313d87fc7",
+    "tip": "İklim Olayları",
+    "ad": "Aydın Çine'de orman yangını: Ekipler havadan ve karadan müdahale ediyor - Cumhuriyet",
+    "il": "Aydın",
+    "ilce": "",
+    "aciklama": "Aydın Çine'de orman yangını: Ekipler havadan ve karadan müdahale ediyor Cumhuriyet",
+    "koordinatlar": {
+      "lat": 37.8217,
+      "lng": 27.9285
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "28.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblZobDlERnpZaXUyWk5qVjBzU0MweVhNd0JSakF1TDVVMW1wVllrckt1cTR3Y0JqNEtldm96UFIzTGUtdVRtOTFVSUxnT3UwY3J3VjBHQWhLeFp2NThIclRUU1cwT2xHV2N2YWZ2OGVhbktLSHFaSnlValZaOEYzanRTTm0tVnRZU0FRV0syaEczRDJMZUhKYm1wS0VmVTFXNVlYTkh3Uk5LdDdaVlNLZzFQMjFBaWs?oc=5"
+  },
+  {
+    "id": "tarayici-28a607023268",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
+    "koordinatlar": {
+      "lat": 41.0119,
+      "lng": 28.8998
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "28.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-3-ilcede-yollar-trafige-kapatilacak-p373711"
   }
 ]
