@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-29T09:10:31.067084+00:00",
+    "guncelleme": "2026-10-29T17:51:24.157479+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6662,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "ebbe5752de6c",
+      "baslik": "Erdoğan ile Trump arasında 24 saatte ikinci telefon görüşmesi",
+      "ozet": "Erdoğan ile Trump arasında 24 saatte ikinci telefon görüşmesi",
+      "url": "https://www.sozcu.com.tr/erdogan-trump-gorusmesi-29-ekim-2026-p374081",
+      "tarih": "2026-10-29T17:28:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a34e3a9a5c06",
+      "baslik": "Evleri ısıtmak için denizden su çekmeye başladılar",
+      "ozet": "Evleri ısıtmak için denizden su çekmeye başladılar",
+      "url": "https://www.sozcu.com.tr/evleri-isitmak-icin-denizden-su-cekmeye-basladilar-p374085",
+      "tarih": "2026-10-29T17:23:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5b99a7ffaff2",
       "baslik": "AKP'li Tayyar'dan fon krizi uyarısı: Hesap sorulması da önemli",
@@ -1987,26 +2007,6 @@
       "ozet": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
       "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
       "tarih": "2026-10-08T16:39:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "96028b6bd4e7",
-      "baslik": "AKP'li Savcı Sayan, Mehmet Şimşek'i topa tuttu: Esnafa şahinsiniz, milyarların hesabını kim verecek?",
-      "ozet": "AKP'li Savcı Sayan, Mehmet Şimşek'i topa tuttu: Esnafa şahinsiniz, milyarların hesabını kim verecek?",
-      "url": "https://www.sozcu.com.tr/savci-sayandan-mehmet-simseke-fon-denetimi-elestirisi-p367428",
-      "tarih": "2026-10-08T16:33:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9e6e10de054d",
-      "baslik": "Deniz Akkaya hakkında yakalama kararı talep edildi",
-      "ozet": "Deniz Akkaya hakkında yakalama kararı talep edildi",
-      "url": "https://www.sozcu.com.tr/deniz-akkaya-hakkinda-yakalama-karari-talep-edildi-p367406",
-      "tarih": "2026-10-08T14:54:50+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
