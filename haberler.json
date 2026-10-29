@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-10-29T17:51:24.157479+00:00",
+    "guncelleme": "2026-10-29T22:14:42.775576+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6662,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "3040b0a355ec",
+      "baslik": "Canlı yayında QR kodunu gösterdi, takipçileri 600 bin liralık hesap çıkardı!",
+      "ozet": "Canlı yayında QR kodunu gösterdi, takipçileri 600 bin liralık hesap çıkardı!",
+      "url": "https://www.sozcu.com.tr/canli-yayinda-qr-kodunu-gosterdi-takipcileri-600-bin-liralik-hesap-cikardi-p374113",
+      "tarih": "2026-10-29T20:07:59+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ebbe5752de6c",
       "baslik": "Erdoğan ile Trump arasında 24 saatte ikinci telefon görüşmesi",
@@ -1997,16 +2007,6 @@
       "ozet": "Muhalefetin ‘fon krizi araştırılsın’ önergesi AKP ve MHP oylarıyla reddedildi",
       "url": "https://www.sozcu.com.tr/muhalefetin-fon-krizi-arastirilsin-onergesi-akp-ve-mhp-oylariyla-reddedildi-p367445",
       "tarih": "2026-10-08T18:10:21+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "639ea0145503",
-      "baslik": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
-      "ozet": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
-      "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
-      "tarih": "2026-10-08T16:39:34+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
