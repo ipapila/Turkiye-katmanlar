@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-28T22:03:32.041372+00:00",
+    "guncelleme": "2026-10-29T09:10:31.067084+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6662,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -1852,6 +1852,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "49f48d0a9931",
+      "baslik": "Enerjide acele kamulaştırma kararları - Anadolu Ajansı",
+      "ozet": "Enerjide acele kamulaştırma kararları Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSk1mZDhEVzNMWEdaZVhFRExPUXlSYmcxVnJTclQzTF9sMFJqNE11VFRlMUtnSlpOVEswUWJzYXRNc3FXdEpRZ1NpbFJPZnU0eEc4RHc2V1B6VlFVQnJCWHpTZFNBdGtzcEY5UzdGUWstakVzQTlWb2VHbHNISGxYNjZvcjNtT25hWTBaMURrQ01TbS1Q0gGcAUFVX3lxTE1vRGRueHBTNElKLW5wZTZLb0IzamlJMVMzWXJDc2NucmE4NmliekdONWRoaTladUp2ZnBWVEdqdDVRZ1dEUzRxOTVVZklaSW8wVWpvc2V6SE5uYXpodXpHalhjTXByYWU3QmV2c050MUVkUzlEMXFibkVpTTBXb3ltQUE2SUFFejZyVDY1ZmZJWFRlbUtnNUEwRXp4bw?oc=5",
+      "tarih": "2026-10-10T07:36:26+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "d36319180ff0",
       "baslik": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
       "ozet": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-10-08T14:54:50+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "37c0ee03d0b4",
-      "baslik": "Yeni Rapor: Doğa Kaybı İstenirse Tersine Çevrilebiliyor",
-      "ozet": "Gezegenimiz biyoçeşitlilik krizi yaşamasına rağmen, yeni bir rapor, son yıllarda yapılan çalışmalar sayesinde yabani kaplanların, orkinosların ve deniz kaplumbağalarının popülasyonlarında dikkat çekici artışı ve doğa kaybının tersine çevrilebileceğini gösterdi. Aynı rapor biyoçeş",
-      "url": "https://www.iklimhaber.org/yeni-rapor-doga-kaybi-istenirse-tersine-cevrilebiliyor/",
-      "tarih": "2026-10-08T09:52:30+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
