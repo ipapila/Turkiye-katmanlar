@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-30T09:21:49.725169+00:00",
+    "guncelleme": "2026-10-30T17:32:32.663862+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6663,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -109,6 +109,16 @@
       "tarih": "2026-10-29T17:23:56+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d638a691242e",
+      "baslik": "Hat Mon beldesi polisi, ihlalleri ele alıyor ve çevre temizliği çalışmalarını düzeltiyor. - Vietnam.vn",
+      "ozet": "Hat Mon beldesi polisi, ihlalleri ele alıyor ve çevre temizliği çalışmalarını düzeltiyor. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT21lRVN1ZWREbW42RGEzdVJlY19sUE1MZy1mOXRpZGRzS3FWQVBNNjBWV1RmMWF3ZzVTSlhrM3J2dEQyVmVkX1oycTc1Q3NGZkRxakxzMHhYRVRMc2Y5NDdNUDgxdWh0VzVIRkREdy1uTmdqbXllSnZHbmdob2pUYVliS3ROcXV1LXpqYzdQOG1pendmWGI3RVhFZDZ4eHVOUnluWl9JQlk?oc=5",
+      "tarih": "2026-10-29T03:59:31+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1999,16 +2009,6 @@
       "tarih": "2026-10-09T10:17:23+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f9b4ed040a27",
-      "baslik": "Liseliler Avrupa'yı yaktı geçti: Olaylar kontrolden çıktı",
-      "ozet": "Liseliler Avrupa'yı yaktı geçti: Olaylar kontrolden çıktı",
-      "url": "https://www.sozcu.com.tr/liseliler-avrupa-yi-yakti-gecti-olaylar-kontrolden-cikti-p367630",
-      "tarih": "2026-10-09T09:36:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
