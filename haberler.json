@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-29T22:14:42.775576+00:00",
+    "guncelleme": "2026-10-30T09:21:49.725169+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6662,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6663,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "0a9405751646",
+      "baslik": "TDT Azerbaycan krizinin gölgesinde başladı! Erdoğan: 'Aile fotoğrafında ayrılığa yer yoktur'",
+      "ozet": "TDT Azerbaycan krizinin gölgesinde başladı! Erdoğan: 'Aile fotoğrafında ayrılığa yer yoktur'",
+      "url": "https://www.sozcu.com.tr/tdt-azerbaycan-krizinin-golgesinde-basladi-erdogan-aile-fotografinda-ayriliga-yer-yoktur-p374256",
+      "tarih": "2026-10-30T09:20:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fb57ae98cae6",
+      "baslik": "İklim Hareketi COP31 Başkanlığından Ne Talep Ediyor?",
+      "ozet": "Türkiye’nin COP Başkanı olarak sorumluluklarına dikkat çeken Greenpeace Türkiye Direktörü Özyer, iklim hareketinin iki temel talebinin kömürlü termik santrallardan çıkış için tarih belirlenmesi ve Türkiye’ye atık ithalatının yasaklanması olduğunu vurguladı. 9 Kasım’da Antalya’da ",
+      "url": "https://www.iklimhaber.org/iklim-hareketi-cop31-baskanligindan-ne-talep-ediyor/",
+      "tarih": "2026-10-30T08:30:11+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "12645429f6e7",
+      "baslik": "Piyasalarda teknoloji hisselerine dair endişelerle satış baskısı arttı",
+      "ozet": "Piyasalarda teknoloji hisselerine dair endişelerle satış baskısı arttı",
+      "url": "https://www.sozcu.com.tr/piyasalarda-teknoloji-hisselerine-dair-endiselerle-satis-baskisi-artti-p374243",
+      "tarih": "2026-10-30T07:15:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7547053d501f",
+      "baslik": "Borsa güne düşüşle başladı -30 Ekim 2026",
+      "ozet": "Borsa güne düşüşle başladı -30 Ekim 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-30-ekim-2026-p374236",
+      "tarih": "2026-10-30T07:02:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6f351040350e",
+      "baslik": "Türkiye’nin Neden TarımGES’lere İhtiyacı Var?",
+      "ozet": "Solar 3GW ve ODTÜ-GÜNAM’ın iş birliği ile ekilen karabuğdayların ilk hasadı yapıldı. Güneş panelleri altında yetiştirilen karabuğdayda verim %7 artarken su tüketimi de %20 azaldı. TarımGES’ler, uygun ürün ve sistem tasarımıyla tarımsal verimliliği artırırken çiftçilere elektrik ü",
+      "url": "https://www.iklimhaber.org/turkiyenin-neden-tarimgeslere-ihtiyaci-var/",
+      "tarih": "2026-10-30T07:00:09+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "01d0f391ae51",
+      "baslik": "Bac Ninh: Viet Phat EPS Köpük Anonim Şirketi, çevre yönetmeliklerini ihlal ettiği gerekçesiyle 65 milyon VND para cezasına çarptırıldı. - Vietnam.vn",
+      "ozet": "Bac Ninh: Viet Phat EPS Köpük Anonim Şirketi, çevre yönetmeliklerini ihlal ettiği gerekçesiyle 65 milyon VND para cezasına çarptırıldı. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0p2cDhuYVRVN25qcUJza3o4NWtKQVBpX2hqRHdFUl9ZempZMlNiR1hlbDVrWGNqQmRKSTdSclo0SEhzZVh4QVI3MnRSdzBQVG9teWpoMHZJMnVPcEsyVVZITnpWTkVRWXloNC1OaExDUFowQWU0QUIyRGx6aGNzZnJVand4Y2htb29md05reUdQZWx2dVhfbmsxOEM4bEVuNTVTei1rckZmdTRFdXV0VUxVUWdhb2NDS2xobWY1NEpuQQ?oc=5",
+      "tarih": "2026-10-30T06:40:06+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "251e54ffe350",
+      "baslik": "Avrupa’da Aşırı Sıcaklar 50 Bin Can Aldı",
+      "ozet": "Bu yaz Avrupa’da yaşanan aşırı sıcakların 50 bin kişinin ölümüne yol açtığını açıklayan yeni bir araştırmaya göre, sıcaklığa bağlı ölümlerin nüfusa oranla en yüksek olduğu ülkeler Malta, İtalya ve Macaristan oldu. Yine aynı araştırmaya göre, iklim krizine bağlı ölümlerin toplam s",
+      "url": "https://www.iklimhaber.org/avrupada-asiri-sicaklar-50-bin-can-aldi/",
+      "tarih": "2026-10-30T06:30:49+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "3040b0a355ec",
       "baslik": "Canlı yayında QR kodunu gösterdi, takipçileri 600 bin liralık hesap çıkardı!",
@@ -1937,76 +2007,6 @@
       "ozet": "Liseliler Avrupa'yı yaktı geçti: Olaylar kontrolden çıktı",
       "url": "https://www.sozcu.com.tr/liseliler-avrupa-yi-yakti-gecti-olaylar-kontrolden-cikti-p367630",
       "tarih": "2026-10-09T09:36:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1842a3aca153",
-      "baslik": "Altın yeniden yükselişe geçti ama tehlike hala devam ediyor",
-      "ozet": "Altın yeniden yükselişe geçti ama tehlike hala devam ediyor",
-      "url": "https://www.sozcu.com.tr/altin-yeniden-yukselise-gecti-ama-tehlike-hala-devam-ediyor-p367627",
-      "tarih": "2026-10-09T09:23:57+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "965de5cc27ad",
-      "baslik": "Çanakkale’nin İçme Suyu Kaynağını Zehirleyecek Altın Madeninin “ÇED Olumlu” Kararı İptal Edildi",
-      "ozet": "Koza Altın İşletmeleri Anonim Şirketi tarafından gerçekleştirilmesi planlanan, Çanakkale’nin tek içme suyu kaynağı Atikhisar Barajı koruma mesafesinde, Serçiler ve Terziler Köyü civarındaki Altın-Gümüş Madeni Açık Ocak İşletmesi Projesi için verilen “ÇED Olumlu” kararı Mahkeme ta",
-      "url": "https://www.iklimhaber.org/canakkalenin-icme-suyu-kaynagini-zehirleyecek-altin-madeninin-ced-olumlu-karari-iptal-edildi/",
-      "tarih": "2026-10-09T09:04:17+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bd54316ac056",
-      "baslik": "İnşaatta maliyetler hız kesmeden yükseliyor",
-      "ozet": "İnşaatta maliyetler hız kesmeden yükseliyor",
-      "url": "https://www.sozcu.com.tr/insaatta-maliyetler-hiz-kesmeden-yukseliyor-p367614",
-      "tarih": "2026-10-09T08:41:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "59628a066288",
-      "baslik": "Mahkemeden Karaburun’daki GES Projesine Yürütmeyi Durdurma Kararı",
-      "ozet": "İzmir 7. İdare Mahkemesi, Karaburun Yarımadası’nda 6 bine yakın zeytin ağacının katledildiği GES projesine ilişkin imar planları ve yapı ruhsatının yürütmesini durdurdu. Mahkeme, zeytinliklerin enerji üretim alanına dönüştürülmesini hukuka ve kamu yararına aykırı buldu. İzmir 7. ",
-      "url": "https://www.iklimhaber.org/mahkemeden-karaburundaki-ges-projesine-yurutmeyi-durdurma-karari/",
-      "tarih": "2026-10-09T08:33:56+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9a739ac86e4e",
-      "baslik": "Icardi ve Wanda Nara resmen boşandı! Yıldız golcü çıkan sonucu kutladı",
-      "ozet": "Icardi ve Wanda Nara resmen boşandı! Yıldız golcü çıkan sonucu kutladı",
-      "url": "https://www.sozcu.com.tr/icardi-ve-wanda-nara-resmen-bosandi-yildiz-golcu-cikan-sonucu-kutladi-p367596",
-      "tarih": "2026-10-09T07:47:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ca80ab12fecc",
-      "baslik": "COP31 Başkanı Türkiye Kömürde Daha Ne Kadar Israr Edecek?",
-      "ozet": "COP31 Başkanlığını üstlenen Türkiye, zirvenin Eylem Gündemi kapsamında küresel elektrifikasyon hedefini de duyurdu. Ancak başta kömür olmak üzere fosil yakıtlardan çıkış için adım atmayarak kendi hedefleriyle çelişiyor. İstanbul Politikalar Merkezi (İPM) araştırmacısı Onur Akgül ",
-      "url": "https://www.iklimhaber.org/cop31-baskani-turkiye-komurde-daha-ne-kadar-israr-edecek/",
-      "tarih": "2026-10-09T07:21:59+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d327af72a0d5",
-      "baslik": "Muhalefetin ‘fon krizi araştırılsın’ önergesi AKP ve MHP oylarıyla reddedildi",
-      "ozet": "Muhalefetin ‘fon krizi araştırılsın’ önergesi AKP ve MHP oylarıyla reddedildi",
-      "url": "https://www.sozcu.com.tr/muhalefetin-fon-krizi-arastirilsin-onergesi-akp-ve-mhp-oylariyla-reddedildi-p367445",
-      "tarih": "2026-10-08T18:10:21+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95278,6 +95278,20 @@
       "ozet": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
       "lat": 41.0119,
       "lng": 28.8998,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-fb57ae98cae6",
+      "baslik": "İklim Hareketi COP31 Başkanlığından Ne Talep Ediyor?",
+      "konum": "Antalya",
+      "kategori": "Termik Reaktör",
+      "siddet": "Takip Ediliyor",
+      "tarih": "30.10.2026",
+      "url": "https://www.iklimhaber.org/iklim-hareketi-cop31-baskanligindan-ne-talep-ediyor/",
+      "ozet": "Türkiye’nin COP Başkanı olarak sorumluluklarına dikkat çeken Greenpeace Türkiye Direktörü Özyer, iklim hareketinin iki temel talebinin kömürlü termik santrallardan çıkış için tarih belirlenmesi ve Türkiye’ye atık ithalatının yasaklanması olduğunu vurguladı. 9 Kasım’da Antalya’da ",
+      "lat": 36.9121,
+      "lng": 30.7009,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

@@ -121129,5 +121129,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/istanbul-da-3-ilcede-yollar-trafige-kapatilacak-p373711"
+  },
+  {
+    "id": "tarayici-fb57ae98cae6",
+    "tip": "Termik Reaktör",
+    "ad": "İklim Hareketi COP31 Başkanlığından Ne Talep Ediyor?",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Türkiye’nin COP Başkanı olarak sorumluluklarına dikkat çeken Greenpeace Türkiye Direktörü Özyer, iklim hareketinin iki temel talebinin kömürlü termik santrallardan çıkış için tarih belirlenmesi ve Türkiye’ye atık ithalatının yasaklanması olduğunu vurguladı. 9 Kasım’da Antalya’da ",
+    "koordinatlar": {
+      "lat": 36.9121,
+      "lng": 30.7009
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "30.10.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/iklim-hareketi-cop31-baskanligindan-ne-talep-ediyor/"
   }
 ]
