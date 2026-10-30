@@ -121148,5 +121148,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/iklim-hareketi-cop31-baskanligindan-ne-talep-ediyor/"
+  },
+  {
+    "id": "tarayici-cce759753fe1",
+    "tip": "RES",
+    "ad": "Muğla’daki ormanlar maden, otel ve RES projelerine açılıyor - Bianet",
+    "il": "Muğla",
+    "ilce": "",
+    "aciklama": "Muğla’daki ormanlar maden, otel ve RES projelerine açılıyor Bianet",
+    "koordinatlar": {
+      "lat": 37.2816,
+      "lng": 28.4756
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "30.10.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzc1UVNVU1BpSURyTm5ZX2ZDT1F2bG44SXEzbEhObTk3UXNvdnJlRXJJN0dZZDNqYXZiaWd2d1F1NDBHRzNBRDMxUEFpMUFKcDdYZzJscTNhZkFaYlJSRlN1bDI5U2R4anpNOU5qTWxVR0tLUVdJOUI1OE5TQ3A0TVlTY1A2UVRhMlR5WDZzQU5yR1NS?oc=5"
   }
 ]

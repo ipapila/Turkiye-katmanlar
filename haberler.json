@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-30T17:32:32.663862+00:00",
+    "guncelleme": "2026-10-30T21:50:39.088539+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6663,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6664,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "5f518bcc76ce",
+      "baslik": "Merkezefendi Belediyesi'ne operasyon… Başkan Şeniz Doğan ve eşinin de aralarında olduğu 6 kişi tutuklandı",
+      "ozet": "Merkezefendi Belediyesi'ne operasyon… Başkan Şeniz Doğan ve eşinin de aralarında olduğu 6 kişi tutuklandı",
+      "url": "https://www.sozcu.com.tr/merkezefendi-belediye-baskani-seniz-dogan-hakkinda-karar-p374462",
+      "tarih": "2026-10-30T21:47:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "401eacae4025",
+      "baslik": "Doğal gazda limitler güncellendi! Bu sınırı aşan yüksek fatura ödeyecek",
+      "ozet": "Doğal gazda limitler güncellendi! Bu sınırı aşan yüksek fatura ödeyecek",
+      "url": "https://www.sozcu.com.tr/dogal-gazda-limitler-guncellendi-bu-siniri-asan-yuksek-fatura-odeyecek-p374428",
+      "tarih": "2026-10-30T18:09:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0a9405751646",
       "baslik": "TDT Azerbaycan krizinin gölgesinde başladı! Erdoğan: 'Aile fotoğrafında ayrılığa yer yoktur'",
@@ -309,6 +329,16 @@
       "tarih": "2026-10-26T14:32:51+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9627624a97fc",
+      "baslik": "Yeşilayın \"Türkiye Bağımlılık ve Çevre Araştırma Raporu\" açıklandı - Anadolu Ajansı",
+      "ozet": "Yeşilayın \"Türkiye Bağımlılık ve Çevre Araştırma Raporu\" açıklandı Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRW5NR1Q3R21DdUxYbVpnX2hYcFlpMEhEM3BOTlV2RGEtNmR1WkhlU2xUc21xVEFKWDc5Qng5Z0xsaE44a1g1Y2kydEIycWRBYmJqbUhxTE9KbnBobHEtbHBzTDNVbDlsa1NxY1pZQVpoaHlSLTVyQXVmZHoyVU5Ed0prWDhuSWswcGpiZVdWcG9kMHdleUNfTlQtbmZUQWQ5NmJMaERuZw?oc=5",
+      "tarih": "2026-10-26T12:52:05+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1979,36 +2009,6 @@
       "tarih": "2026-10-09T21:35:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "84c9f2ee48d5",
-      "baslik": "İlkay Gündoğan'dan olay cevap! 'Oynamıyorum, niye hazır olayım'",
-      "ozet": "İlkay Gündoğan'dan olay cevap! 'Oynamıyorum, niye hazır olayım'",
-      "url": "https://www.sozcu.com.tr/ilkay-gundogan-dan-olay-cevap-oynamiyorum-niye-hazir-olayim-p367751",
-      "tarih": "2026-10-09T20:14:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a04449a08088",
-      "baslik": "Denizde bu görüntüyü görenler gözlerine inanamadı",
-      "ozet": "Denizde bu görüntüyü görenler gözlerine inanamadı",
-      "url": "https://www.sozcu.com.tr/denizde-bu-goruntuyu-gorenler-gozlerine-inanamadi-p367714",
-      "tarih": "2026-10-09T14:58:45+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ab352c706b4f",
-      "baslik": "Pasifik Ülkeleri Seslerini Tüm Dünyaya Duyurdu",
-      "ozet": "Türkiye’de gerçekleşecek COP31 zirvesi öncesinde Pasifik’te Fiji adasında düzenlenen zirveye 100’den fazla ülkeden katılan temsilciler; 1,5 derece hedefini ulaşılabilir tutmak, okyanus-iklim ilişkisini gündemin üst sıralarına taşımak ve finansmana erişimi hızlandırmak gibi Pasifi",
-      "url": "https://www.iklimhaber.org/pasifik-ulkeleri-seslerini-tum-dunyaya-duyurdu/",
-      "tarih": "2026-10-09T10:17:23+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95292,6 +95292,20 @@
       "ozet": "Türkiye’nin COP Başkanı olarak sorumluluklarına dikkat çeken Greenpeace Türkiye Direktörü Özyer, iklim hareketinin iki temel talebinin kömürlü termik santrallardan çıkış için tarih belirlenmesi ve Türkiye’ye atık ithalatının yasaklanması olduğunu vurguladı. 9 Kasım’da Antalya’da ",
       "lat": 36.9121,
       "lng": 30.7009,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-cce759753fe1",
+      "baslik": "Muğla’daki ormanlar maden, otel ve RES projelerine açılıyor - Bianet",
+      "konum": "Muğla",
+      "kategori": "RES",
+      "siddet": "Takip Ediliyor",
+      "tarih": "30.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzc1UVNVU1BpSURyTm5ZX2ZDT1F2bG44SXEzbEhObTk3UXNvdnJlRXJJN0dZZDNqYXZiaWd2d1F1NDBHRzNBRDMxUEFpMUFKcDdYZzJscTNhZkFaYlJSRlN1bDI5U2R4anpNOU5qTWxVR0tLUVdJOUI1OE5TQ3A0TVlTY1A2UVRhMlR5WDZzQU5yR1NS?oc=5",
+      "ozet": "Muğla’daki ormanlar maden, otel ve RES projelerine açılıyor Bianet",
+      "lat": 37.2816,
+      "lng": 28.4756,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
