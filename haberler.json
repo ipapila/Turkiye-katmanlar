@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-10-30T21:50:39.088539+00:00",
+    "guncelleme": "2026-10-31T09:08:19.746063+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6664,
+    "harita_kayit_sayisi": 6665,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "7e12e75135fe",
+      "baslik": "Everest'te facia: Otel alev alev yandı",
+      "ozet": "Everest'te facia: Otel alev alev yandı",
+      "url": "https://www.sozcu.com.tr/everest-te-facia-otel-alev-alev-yandi-p374542",
+      "tarih": "2026-10-31T08:57:42+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5b3986e33286",
+      "baslik": "Canlı yayında tek tek hesaplandı: Memur, emekli ve asgari ücretlinin yeni maaş tablosu ortaya çıktı",
+      "ozet": "Canlı yayında tek tek hesaplandı: Memur, emekli ve asgari ücretlinin yeni maaş tablosu ortaya çıktı",
+      "url": "https://www.sozcu.com.tr/canli-yayinda-tek-tek-hesaplandi-memur-emekli-ve-asgari-ucretlinin-yeni-maas-tablosu-ortaya-cikti-p374550",
+      "tarih": "2026-10-31T08:44:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b1edece4c107",
+      "baslik": "Tam 8 gün sürecek, 3 burcun hayatı resmen değişecek",
+      "ozet": "Tam 8 gün sürecek, 3 burcun hayatı resmen değişecek",
+      "url": "https://www.sozcu.com.tr/tam-8-gun-surecek-3-burcun-hayati-resmen-degisecek-p374526",
+      "tarih": "2026-10-31T07:18:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "5f518bcc76ce",
       "baslik": "Merkezefendi Belediyesi'ne operasyon… Başkan Şeniz Doğan ve eşinin de aralarında olduğu 6 kişi tutuklandı",
@@ -1977,36 +2007,6 @@
       "ozet": "Galatasaray Şampiyonlar Ligi'nde rekor kırdı! Dursun Özbek resmen açıkladı",
       "url": "https://www.sozcu.com.tr/galatasaray-sampiyonlar-liginde-rekor-kirdi-dursun-ozbek-resmen-acikladi-p367841",
       "tarih": "2026-10-10T09:10:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "66c444b886b4",
-      "baslik": "Petrolü ve doğal gazı unutun: Sınırsız bir enerji kaynağı keşfedildi",
-      "ozet": "Petrolü ve doğal gazı unutun: Sınırsız bir enerji kaynağı keşfedildi",
-      "url": "https://www.sozcu.com.tr/petrolu-ve-dogal-gazi-unutun-sinirsiz-bir-enerji-kaynagi-kesfedildi-p367837",
-      "tarih": "2026-10-10T08:53:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "49f48d0a9931",
-      "baslik": "Enerjide acele kamulaştırma kararları - Anadolu Ajansı",
-      "ozet": "Enerjide acele kamulaştırma kararları Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSk1mZDhEVzNMWEdaZVhFRExPUXlSYmcxVnJTclQzTF9sMFJqNE11VFRlMUtnSlpOVEswUWJzYXRNc3FXdEpRZ1NpbFJPZnU0eEc4RHc2V1B6VlFVQnJCWHpTZFNBdGtzcEY5UzdGUWstakVzQTlWb2VHbHNISGxYNjZvcjNtT25hWTBaMURrQ01TbS1Q0gGcAUFVX3lxTE1vRGRueHBTNElKLW5wZTZLb0IzamlJMVMzWXJDc2NucmE4NmliekdONWRoaTladUp2ZnBWVEdqdDVRZ1dEUzRxOTVVZklaSW8wVWpvc2V6SE5uYXpodXpHalhjTXByYWU3QmV2c050MUVkUzlEMXFibkVpTTBXb3ltQUE2SUFFejZyVDY1ZmZJWFRlbUtnNUEwRXp4bw?oc=5",
-      "tarih": "2026-10-10T07:36:26+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d36319180ff0",
-      "baslik": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
-      "ozet": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
-      "url": "https://www.sozcu.com.tr/sosyal-medyaya-yeni-duzenleme-resm%C3%AE-gazetede-yayimlandi-p367770",
-      "tarih": "2026-10-09T21:35:23+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95306,6 +95306,20 @@
       "ozet": "Muğla’daki ormanlar maden, otel ve RES projelerine açılıyor Bianet",
       "lat": 37.2816,
       "lng": 28.4756,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e50d12c437ed",
+      "baslik": "Bursa’da 25 hektardan 117 hektara büyüyen maden projesi Gürsu’yu çoraklaştırdı - Medyascope",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "31.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdU1kNGJETXkxS1hOa3YteUM2bVJoR2hBbWhRa1E1WTVKdTA0b0piX1Z6dUMwMW03LXhjYTdQcnZPRkctWlNWNkVTVFZ3OVdGdUtCdmNIQUxNT2Z1NTNQQzR2VEtBOFJqNklxeEc2SWcyOXJ1WFVhRDFVU1FWNzFQZGkzSnotOGdSUUR5Q2ttRkpISWY0R3VUMTNKSzdCcFE?oc=5",
+      "ozet": "Bursa’da 25 hektardan 117 hektara büyüyen maden projesi Gürsu’yu çoraklaştırdı Medyascope",
+      "lat": 40.0704,
+      "lng": 29.1765,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
