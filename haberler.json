@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-31T16:37:56.518760+00:00",
+    "guncelleme": "2026-10-31T20:50:43.543228+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6665,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6666,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "46681a495772",
+      "baslik": "Galatasaray, Denizli deplasmanında kazandı",
+      "ozet": "Galatasaray, Denizli deplasmanında kazandı",
+      "url": "https://www.sozcu.com.tr/galatasaray-denizli-deplasmaninda-kazandi-p374691",
+      "tarih": "2026-10-31T19:59:25+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "2b0a6d6c6a84",
       "baslik": "Kabus devam ediyor! Manchester United galibiyeti unuttu",
@@ -192,11 +202,31 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "58b8b35f4e62",
+      "baslik": "Tarım ve Çevre Bakanlığı'nda maden ruhsatlandırmasında bir dizi ihlal yaşandı: Eksi sermayeye sahip işletmelere hâlâ onay veriliyor. - Vietnam.vn",
+      "ozet": "Tarım ve Çevre Bakanlığı'nda maden ruhsatlandırmasında bir dizi ihlal yaşandı: Eksi sermayeye sahip işletmelere hâlâ onay veriliyor. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkcxNHNkZlhaUldpelFuN01yRUxKaE5FOFJEbW50S0FRSTk5dGJRdTBfaUtjVHJFQTZCekk1RFVpa3dnRzNsdVNKanFKMVF2RFZRY0VuaG5uTE1yN2tZOTUySno4RnJZaXFKbzUwUXk2WWhULUlGc054NkxiUmJUcWFXV0Q1bEZ0U2MwbWROOUpmaVFxT201d0JRbndMTzBkVVVQV0tWU2Y2dw?oc=5",
+      "tarih": "2026-10-29T09:16:12+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "d638a691242e",
       "baslik": "Hat Mon beldesi polisi, ihlalleri ele alıyor ve çevre temizliği çalışmalarını düzeltiyor. - Vietnam.vn",
       "ozet": "Hat Mon beldesi polisi, ihlalleri ele alıyor ve çevre temizliği çalışmalarını düzeltiyor. Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT21lRVN1ZWREbW42RGEzdVJlY19sUE1MZy1mOXRpZGRzS3FWQVBNNjBWV1RmMWF3ZzVTSlhrM3J2dEQyVmVkX1oycTc1Q3NGZkRxakxzMHhYRVRMc2Y5NDdNUDgxdWh0VzVIRkREdy1uTmdqbXllSnZHbmdob2pUYVliS3ROcXV1LXpqYzdQOG1pendmWGI3RVhFZDZ4eHVOUnluWl9JQlk?oc=5",
       "tarih": "2026-10-29T03:59:31+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7bdddd354847",
+      "baslik": "Devlet Denetleme Kurumu, Tarım ve Çevre Bakanlığı'nın maden ruhsatı verme sürecinde bir dizi ihlal tespit etti. - Vietnam.vn",
+      "ozet": "Devlet Denetleme Kurumu, Tarım ve Çevre Bakanlığı'nın maden ruhsatı verme sürecinde bir dizi ihlal tespit etti. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0E1b1dsLS1Xbm9mYzY2TjBYVE5FWl9nN1dfWG5DTWQ0ZG5EWW9vRTlHSlVPVWpJdUtqcnM5MG5tUjh4Q0dxd0VUV05CejM4a0lmOS1BdFZNa2N6MVk1VXJ2QkZvVC12dGl5VmVId3R4VjdmRjZsaUp5R0x4OU4tbGVmdThLM090SmpidTgwaUViaTJsNl9DZ2h3ckNPTG1ZVXA0?oc=5",
+      "tarih": "2026-10-29T03:11:39+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
@@ -1977,36 +2007,6 @@
       "ozet": "550 yıllık doğa harikası bir anda çöktü",
       "url": "https://www.sozcu.com.tr/550-yillik-doga-harikasi-bir-anda-coktu-p368177",
       "tarih": "2026-10-11T16:23:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dd70ef5fbaca",
-      "baslik": "Fransa bitti, sıra İtalya’da mı? Avrupa’da yeni borç kabusu",
-      "ozet": "Fransa bitti, sıra İtalya’da mı? Avrupa’da yeni borç kabusu",
-      "url": "https://www.sozcu.com.tr/fransa-bitti-sira-italyada-mi-avrupada-yeni-borc-kabusu-p368086",
-      "tarih": "2026-10-11T08:34:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "71edc0158061",
-      "baslik": "İstanbul'da hastanede yangın! Hastalar tahliye edildi",
-      "ozet": "İstanbul'da hastanede yangın! Hastalar tahliye edildi",
-      "url": "https://www.sozcu.com.tr/istanbul-da-hastanede-yangin-hastalar-tahliye-ediliyor-p367930",
-      "tarih": "2026-10-10T18:42:28+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "650caf0f4d2f",
-      "baslik": "Putin ile Trump’ın ilginç telefon görüşmesi: İkili arasındaki diyalog liseli aşıkları hatırlattı",
-      "ozet": "Putin ile Trump’ın ilginç telefon görüşmesi: İkili arasındaki diyalog liseli aşıkları hatırlattı",
-      "url": "https://www.sozcu.com.tr/putin-ile-trump-in-ilginc-telefon-gorusmesi-ikili-arasindaki-diyalog-liseli-asiklari-hatirlatti-p367912",
-      "tarih": "2026-10-10T14:31:17+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95320,6 +95320,20 @@
       "ozet": "Bursa’da 25 hektardan 117 hektara büyüyen maden projesi Gürsu’yu çoraklaştırdı Medyascope",
       "lat": 40.0704,
       "lng": 29.1765,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-46681a495772",
+      "baslik": "Galatasaray, Denizli deplasmanında kazandı",
+      "konum": "Denizli",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "31.10.2026",
+      "url": "https://www.sozcu.com.tr/galatasaray-denizli-deplasmaninda-kazandi-p374691",
+      "ozet": "Galatasaray, Denizli deplasmanında kazandı",
+      "lat": 37.8175,
+      "lng": 29.1052,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

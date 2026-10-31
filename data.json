@@ -121186,5 +121186,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdU1kNGJETXkxS1hOa3YteUM2bVJoR2hBbWhRa1E1WTVKdTA0b0piX1Z6dUMwMW03LXhjYTdQcnZPRkctWlNWNkVTVFZ3OVdGdUtCdmNIQUxNT2Z1NTNQQzR2VEtBOFJqNklxeEc2SWcyOXJ1WFVhRDFVU1FWNzFQZGkzSnotOGdSUUR5Q2ttRkpISWY0R3VUMTNKSzdCcFE?oc=5"
+  },
+  {
+    "id": "tarayici-46681a495772",
+    "tip": "Ekolojik İhlal",
+    "ad": "Galatasaray, Denizli deplasmanında kazandı",
+    "il": "Denizli",
+    "ilce": "",
+    "aciklama": "Galatasaray, Denizli deplasmanında kazandı",
+    "koordinatlar": {
+      "lat": 37.8175,
+      "lng": 29.1052
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "31.10.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/galatasaray-denizli-deplasmaninda-kazandi-p374691"
   }
 ]
