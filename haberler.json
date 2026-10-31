@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-31T09:08:19.746063+00:00",
+    "guncelleme": "2026-10-31T16:37:56.518760+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6665,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "2b0a6d6c6a84",
+      "baslik": "Kabus devam ediyor! Manchester United galibiyeti unuttu",
+      "ozet": "Kabus devam ediyor! Manchester United galibiyeti unuttu",
+      "url": "https://www.sozcu.com.tr/kabus-devam-ediyor-manchester-united-galibiyeti-unuttu-p374650",
+      "tarih": "2026-10-31T14:51:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "66531f3f7862",
+      "baslik": "Ege Denizi'nde deprem meydana geldi",
+      "ozet": "Ege Denizi'nde deprem meydana geldi",
+      "url": "https://www.sozcu.com.tr/ege-denizi-nde-deprem-meydana-geldi-p374647",
+      "tarih": "2026-10-31T14:42:37+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "98133d4b39ae",
+      "baslik": "Erdoğan Zelenskiy ile bir araya geldi",
+      "ozet": "Erdoğan Zelenskiy ile bir araya geldi",
+      "url": "https://www.sozcu.com.tr/erdogan-zelenskiy-ile-bir-araya-geldi-p374645",
+      "tarih": "2026-10-31T14:22:13+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "7e12e75135fe",
       "baslik": "Everest'te facia: Otel alev alev yandı",
@@ -1977,36 +2007,6 @@
       "ozet": "Putin ile Trump’ın ilginç telefon görüşmesi: İkili arasındaki diyalog liseli aşıkları hatırlattı",
       "url": "https://www.sozcu.com.tr/putin-ile-trump-in-ilginc-telefon-gorusmesi-ikili-arasindaki-diyalog-liseli-asiklari-hatirlatti-p367912",
       "tarih": "2026-10-10T14:31:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6d8195d97098",
-      "baslik": "SON DAKİKA | Mansur Yavaş cephesinden 'AKP'ye katılacak' iddialarına cevap",
-      "ozet": "SON DAKİKA | Mansur Yavaş cephesinden 'AKP'ye katılacak' iddialarına cevap",
-      "url": "https://www.sozcu.com.tr/son-dakika-veya-mansur-yavas-cephesinden-akp-ye-katilacak-iddialarina-cevap-p367899",
-      "tarih": "2026-10-10T13:37:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "122646c22bfa",
-      "baslik": "Yemek içmek bedava ama hesabı çok başka şekilde ödüyorlar",
-      "ozet": "Yemek içmek bedava ama hesabı çok başka şekilde ödüyorlar",
-      "url": "https://www.sozcu.com.tr/yemek-icmek-bedava-ama-hesabi-cok-baska-sekilde-oduyorlar-p367897",
-      "tarih": "2026-10-10T13:18:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "88bf9f1e23f7",
-      "baslik": "Galatasaray Şampiyonlar Ligi'nde rekor kırdı! Dursun Özbek resmen açıkladı",
-      "ozet": "Galatasaray Şampiyonlar Ligi'nde rekor kırdı! Dursun Özbek resmen açıkladı",
-      "url": "https://www.sozcu.com.tr/galatasaray-sampiyonlar-liginde-rekor-kirdi-dursun-ozbek-resmen-acikladi-p367841",
-      "tarih": "2026-10-10T09:10:11+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
