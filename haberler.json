@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-01T09:56:18.028033+00:00",
+    "guncelleme": "2026-11-01T17:28:03.153189+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6666,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6667,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "867964a58fd2",
+      "baslik": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
+      "ozet": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
+      "url": "https://www.sozcu.com.tr/borsa-istanbul-genel-mudurluk-gorevi-vekaleten-atila-tureli-getirildi-p374924",
+      "tarih": "2026-11-01T15:23:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e9d564cc7105",
       "baslik": "İrem Derici nişanlısına rest çekti: 'Ya imzayı at ya beni unut'",
@@ -1997,16 +2007,6 @@
       "ozet": "Selin Türkme'in ardından Rabia Soytürk’ten cesur sahne! Direk dansıyla dikkat çekti",
       "url": "https://www.sozcu.com.tr/selin-turkme-in-ardindan-rabia-soyturk-ten-cesur-sahne-direk-dansiyla-dikkat-cekti-p368182",
       "tarih": "2026-10-11T16:49:45+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4bb958604a00",
-      "baslik": "Akdeniz'de görülmemiş felaket: Evleri yıktı, otomobilleri devirdi",
-      "ozet": "Akdeniz'de görülmemiş felaket: Evleri yıktı, otomobilleri devirdi",
-      "url": "https://www.sozcu.com.tr/akdeniz-de-gorulmemis-felaket-evleri-yikti-otomobilleri-devirdi-p368179",
-      "tarih": "2026-10-11T16:49:07+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95334,6 +95334,20 @@
       "ozet": "Galatasaray, Denizli deplasmanında kazandı",
       "lat": 37.8175,
       "lng": 29.1052,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-867964a58fd2",
+      "baslik": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "01.11.2026",
+      "url": "https://www.sozcu.com.tr/borsa-istanbul-genel-mudurluk-gorevi-vekaleten-atila-tureli-getirildi-p374924",
+      "ozet": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
+      "lat": 41.0768,
+      "lng": 29.0861,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

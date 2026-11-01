@@ -121205,5 +121205,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/galatasaray-denizli-deplasmaninda-kazandi-p374691"
+  },
+  {
+    "id": "tarayici-867964a58fd2",
+    "tip": "Ekolojik İhlal",
+    "ad": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
+    "koordinatlar": {
+      "lat": 41.0768,
+      "lng": 29.0861
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "01.11.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/borsa-istanbul-genel-mudurluk-gorevi-vekaleten-atila-tureli-getirildi-p374924"
   }
 ]
