@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-10-31T20:50:43.543228+00:00",
+    "guncelleme": "2026-11-01T09:56:18.028033+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6666,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "e9d564cc7105",
+      "baslik": "İrem Derici nişanlısına rest çekti: 'Ya imzayı at ya beni unut'",
+      "ozet": "İrem Derici nişanlısına rest çekti: 'Ya imzayı at ya beni unut'",
+      "url": "https://www.sozcu.com.tr/irem-derici-nisanlisina-rest-cekti-ya-imzayi-at-ya-beni-unut-p374820",
+      "tarih": "2026-11-01T08:01:35+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "46681a495772",
       "baslik": "Galatasaray, Denizli deplasmanında kazandı",
@@ -1997,16 +2007,6 @@
       "ozet": "Akdeniz'de görülmemiş felaket: Evleri yıktı, otomobilleri devirdi",
       "url": "https://www.sozcu.com.tr/akdeniz-de-gorulmemis-felaket-evleri-yikti-otomobilleri-devirdi-p368179",
       "tarih": "2026-10-11T16:49:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ab9dcbc24af4",
-      "baslik": "550 yıllık doğa harikası bir anda çöktü",
-      "ozet": "550 yıllık doğa harikası bir anda çöktü",
-      "url": "https://www.sozcu.com.tr/550-yillik-doga-harikasi-bir-anda-coktu-p368177",
-      "tarih": "2026-10-11T16:23:30+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
