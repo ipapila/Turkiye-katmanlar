@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-01T21:32:38.296281+00:00",
+    "guncelleme": "2026-11-02T10:22:32.756135+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6667,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6670,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "c7bfae1d11d9",
+      "baslik": "Son dakika: Akdeniz'de deprem!",
+      "ozet": "Son dakika: Akdeniz'de deprem!",
+      "url": "https://www.sozcu.com.tr/son-dakika-akdeniz-de-deprem-p375191",
+      "tarih": "2026-11-02T09:31:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0aeafd901e72",
+      "baslik": "Ülkeler COP17’de Biyoçeşitlilik Eylemlerini Hızlandırmak için Anlaşmaya Vardı",
+      "ozet": "Yoğun müzakerelerin ardından hükümetler, “Erivan Yolu” adı verilen bir kararı kabul ederek; zararlı sübvansiyonların azaltılması, gelişmekte olan ülkelere yönelik finansmanın artırılması ve ulusal harcamaların biyoçeşitlilik hedefleriyle uyumlu hale getirilmesi gibi alanlarda dah",
+      "url": "https://www.iklimhaber.org/ulkeler-cop17de-biyocesitlilik-eylemlerini-hizlandirmak-icin-anlasmaya-vardi/",
+      "tarih": "2026-11-02T08:19:23+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e7265791bfa3",
+      "baslik": "Kadınlar ve Toplumsal Cinsiyet Grubu’ndan COP31’e Feminist Talepler: Kaynak, Eşitlik ve Güvenli Katılım",
+      "ozet": "BM iklim müzakerelerinde kadın ve toplumsal cinsiyet örgütlerini bir araya getiren Women and Gender Constituency – Kadınlar ve Toplumsal Cinsiyet Grubu (WGC), Antalya’da gerçekleştirilecek COP31 için taleplerini 27 Ekim’de açıkladı. Grup, Belém Toplumsal Cinsiyet Eylem Planı’nın ",
+      "url": "https://www.iklimhaber.org/kadinlar-ve-toplumsal-cinsiyet-grubundan-cop31e-feminist-talepler-kaynak-esitlik-ve-guvenli-katilim/",
+      "tarih": "2026-11-02T07:10:26+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5e5637ae43dd",
+      "baslik": "İklim İnkârcılığı Sözlüğü 18: İklim Krizi Siyasete Kurban mı Ediliyor?",
+      "ozet": "Siyasetçilerin oy uğruna iklim krizi gerçeğini yok sayması ya da perdelemesi sadece bilimsel gerçeklerden uzaklaşılmasına neden olmuyor. Komplo teorisyenlerinin eline de yalanlarını yaymak için kullanışlı hikâyeler veriyor. İklim krizi gerçeğinin ve iklim kriziyle mücadelenin en ",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-18-iklim-krizi-siyasete-kurban-mi-ediliyor/",
+      "tarih": "2026-11-02T07:01:07+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4ae31a126370",
+      "baslik": "Dünya 1.5 Derece Eşiğini Aştığında Kriyosfer Kalıcı Hasarla Karşı Karşıya Kalabilir",
+      "ozet": "BM destekli bir rapor, Paris Anlaşması’nın 1,5 derece hedefinin geçici olarak aşılmasının, buzullar ve kutup buz tabakalarında geri dönülemez zararlara yol açabileceğini ortaya koydu. Birleşmiş Milletler raporu, dünyanın buzlu bölgelerinin tehlikeli bir erimeyle karşı karşıya kal",
+      "url": "https://www.iklimhaber.org/dunya-1-5-derece-esigini-astiginda-kriyosfer-kalici-hasarla-karsi-karsiya-kalabilir/",
+      "tarih": "2026-11-02T06:30:39+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c322a33f548f",
       "baslik": "Milyon dolarlık dev gemileri kıyıya çekip çürümeye bıraktılar",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-10-11T20:29:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "caede2737768",
-      "baslik": "Dövmelerde görünmezlik dönemi resmen başladı",
-      "ozet": "Dövmelerde görünmezlik dönemi resmen başladı",
-      "url": "https://www.sozcu.com.tr/dovmelerde-gorunmezlik-donemi-resmen-basladi-p368211",
-      "tarih": "2026-10-11T20:19:23+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e15cbd91c09d",
-      "baslik": "Selçuk İnan'dan maç sonu flaş çıkış! Hakkımız çalındı, iyi niyetli değillerdi",
-      "ozet": "Selçuk İnan'dan maç sonu flaş çıkış! Hakkımız çalındı, iyi niyetli değillerdi",
-      "url": "https://www.sozcu.com.tr/selcuk-inandan-mac-sonu-flas-cikis-hakkimiz-calindi-iyi-niyetli-degillerdi-p368201",
-      "tarih": "2026-10-11T20:00:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "63c6bfa34383",
-      "baslik": "Facianın eşiğinden dönüldü! Kimyasal gemi kıyıya metreler kala durdu",
-      "ozet": "Facianın eşiğinden dönüldü! Kimyasal gemi kıyıya metreler kala durdu",
-      "url": "https://www.sozcu.com.tr/ivyan-tanker-suruklendi-p368185",
-      "tarih": "2026-10-11T19:12:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "305e56098278",
-      "baslik": "Manchester City, Liverpool'u darmadağın etti",
-      "ozet": "Manchester City, Liverpool'u darmadağın etti",
-      "url": "https://www.sozcu.com.tr/manchester-city-liverpoolu-darmadagin-etti-p368187",
-      "tarih": "2026-10-11T17:33:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fc65253fd076",
-      "baslik": "Denizden çıkarılan taşlar kendiliğinden yanmaya başladı",
-      "ozet": "Denizden çıkarılan taşlar kendiliğinden yanmaya başladı",
-      "url": "https://www.sozcu.com.tr/denizden-cikarilan-taslar-kendiliginden-yanmaya-basladi-p368186",
-      "tarih": "2026-10-11T17:19:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95348,6 +95348,48 @@
       "ozet": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
       "lat": 41.0768,
       "lng": 29.0861,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-db17c667b8ed",
+      "baslik": "Balıkesir’de EMO’dan Yangın Uyarısı - Gazete Merhaba",
+      "konum": "Balıkesir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "02.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0x5TzRXUVZCSnNIVFJOR3RJT0IxbFh6c210ZVFZYUZ6cjFQVGxHck1YbFozdndvbk4zb1VfOGExSFJ1QjVYX1lJWUdWUjhXU1Y1UG14MlEwcVJDdUxfcWdqUEpXZno0QTVvOXpTc1B6WU9tdWMyZktxckJXRHNJMjRoMkhNUU1fS21WR2lrYU9NQ2pqb29zV3l4Z0o3UGVjWDJJQnJlUzFNWmwyNjRmRjY2MHJ4X0oy?oc=5",
+      "ozet": "Balıkesir’de EMO’dan Yangın Uyarısı Gazete Merhaba",
+      "lat": 39.7029,
+      "lng": 27.8121,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-44b39de25515",
+      "baslik": "Bursa’daki yangın, krom sahasında üretimi durdurdu - Ekonomi Gazetesi",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "02.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1JldFRwWWN0cjRFdlQzMjRrOEljR0VSZm5mT2NHUGdxRmVicG9ZWDVJcTBpWnlFR29KODY2WmJtN1gtN3RXUm1qelVKNjZZbVdTNlVxU2JPaGswN25haFlmdG5HUzNPQWdCZTBlazhRbjFsNzdwZU9GWVJRSGdwdll3aVNLQm93b1I2cTVHNDFLR2lxc3JkU2tna2Nsc1A5TXJIODR3?oc=5",
+      "ozet": "Bursa’daki yangın, krom sahasında üretimi durdurdu Ekonomi Gazetesi",
+      "lat": 40.0855,
+      "lng": 28.9581,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e7265791bfa3",
+      "baslik": "Kadınlar ve Toplumsal Cinsiyet Grubu’ndan COP31’e Feminist Talepler: Kaynak, Eşitlik ve Güvenli Katılım",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "02.11.2026",
+      "url": "https://www.iklimhaber.org/kadinlar-ve-toplumsal-cinsiyet-grubundan-cop31e-feminist-talepler-kaynak-esitlik-ve-guvenli-katilim/",
+      "ozet": "BM iklim müzakerelerinde kadın ve toplumsal cinsiyet örgütlerini bir araya getiren Women and Gender Constituency – Kadınlar ve Toplumsal Cinsiyet Grubu (WGC), Antalya’da gerçekleştirilecek COP31 için taleplerini 27 Ekim’de açıkladı. Grup, Belém Toplumsal Cinsiyet Eylem Planı’nın ",
+      "lat": 36.8778,
+      "lng": 30.7383,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

@@ -121224,5 +121224,62 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/borsa-istanbul-genel-mudurluk-gorevi-vekaleten-atila-tureli-getirildi-p374924"
+  },
+  {
+    "id": "tarayici-db17c667b8ed",
+    "tip": "Ekolojik İhlal",
+    "ad": "Balıkesir’de EMO’dan Yangın Uyarısı - Gazete Merhaba",
+    "il": "Balıkesir",
+    "ilce": "",
+    "aciklama": "Balıkesir’de EMO’dan Yangın Uyarısı Gazete Merhaba",
+    "koordinatlar": {
+      "lat": 39.7029,
+      "lng": 27.8121
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "02.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0x5TzRXUVZCSnNIVFJOR3RJT0IxbFh6c210ZVFZYUZ6cjFQVGxHck1YbFozdndvbk4zb1VfOGExSFJ1QjVYX1lJWUdWUjhXU1Y1UG14MlEwcVJDdUxfcWdqUEpXZno0QTVvOXpTc1B6WU9tdWMyZktxckJXRHNJMjRoMkhNUU1fS21WR2lrYU9NQ2pqb29zV3l4Z0o3UGVjWDJJQnJlUzFNWmwyNjRmRjY2MHJ4X0oy?oc=5"
+  },
+  {
+    "id": "tarayici-44b39de25515",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa’daki yangın, krom sahasında üretimi durdurdu - Ekonomi Gazetesi",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa’daki yangın, krom sahasında üretimi durdurdu Ekonomi Gazetesi",
+    "koordinatlar": {
+      "lat": 40.0855,
+      "lng": 28.9581
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "02.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1JldFRwWWN0cjRFdlQzMjRrOEljR0VSZm5mT2NHUGdxRmVicG9ZWDVJcTBpWnlFR29KODY2WmJtN1gtN3RXUm1qelVKNjZZbVdTNlVxU2JPaGswN25haFlmdG5HUzNPQWdCZTBlazhRbjFsNzdwZU9GWVJRSGdwdll3aVNLQm93b1I2cTVHNDFLR2lxc3JkU2tna2Nsc1A5TXJIODR3?oc=5"
+  },
+  {
+    "id": "tarayici-e7265791bfa3",
+    "tip": "Ekolojik İhlal",
+    "ad": "Kadınlar ve Toplumsal Cinsiyet Grubu’ndan COP31’e Feminist Talepler: Kaynak, Eşitlik ve Güvenli Katılım",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "BM iklim müzakerelerinde kadın ve toplumsal cinsiyet örgütlerini bir araya getiren Women and Gender Constituency – Kadınlar ve Toplumsal Cinsiyet Grubu (WGC), Antalya’da gerçekleştirilecek COP31 için taleplerini 27 Ekim’de açıkladı. Grup, Belém Toplumsal Cinsiyet Eylem Planı’nın ",
+    "koordinatlar": {
+      "lat": 36.8778,
+      "lng": 30.7383
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "02.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/kadinlar-ve-toplumsal-cinsiyet-grubundan-cop31e-feminist-talepler-kaynak-esitlik-ve-guvenli-katilim/"
   }
 ]
