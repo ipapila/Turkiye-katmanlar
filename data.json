@@ -121281,5 +121281,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/kadinlar-ve-toplumsal-cinsiyet-grubundan-cop31e-feminist-talepler-kaynak-esitlik-ve-guvenli-katilim/"
+  },
+  {
+    "id": "tarayici-1f9deb5c0fa0",
+    "tip": "Ekolojik İhlal",
+    "ad": "Maden işletmesi yanan Kayserili iş adamına sigorta şirketinden tazminat ödemesi - Kayseri Olay Haber",
+    "il": "Kayseri",
+    "ilce": "",
+    "aciklama": "Maden işletmesi yanan Kayserili iş adamına sigorta şirketinden tazminat ödemesi Kayseri Olay Haber",
+    "koordinatlar": {
+      "lat": 38.7082,
+      "lng": 35.4766
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "02.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmV0ejI1alpKcEpOeWNjXzB1YjJFajF6d1ZWa1V3c01QY3FkQldjS3pSZ04yU0I4VjVnc3J0UGx2M3dVa2dFRnphZ3h1YzVHNTBWUjJHVU9WZ0huNWUtSU9uOUZrMkdubVNXMTJ5aFJhSFBBekpPTmhCck1VRFl6amNIREY4NmtDTjh6YVRRSV85dW92aEpLazRMZEZ6bmFYaEkxYnBtY3FIejFMUTRPVGhwbDMtQQ?oc=5"
   }
 ]

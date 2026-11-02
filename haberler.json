@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-02T10:22:32.756135+00:00",
+    "guncelleme": "2026-11-02T21:12:30.310705+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6670,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "harita_kayit_sayisi": 6671,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "d9c3017c0342",
+      "baslik": "İbrahim Hacıosmanoğlu 2016'daki o maçı gündeme getirdi! Eski hakem Deniz Ateş Bitnel suçlamaları reddetti",
+      "ozet": "İbrahim Hacıosmanoğlu 2016'daki o maçı gündeme getirdi! Eski hakem Deniz Ateş Bitnel suçlamaları reddetti",
+      "url": "https://www.sozcu.com.tr/ibrahim-haciosmanoglu-2016-daki-o-maci-gundeme-getirdi-eski-hakem-deniz-ates-bitnel-suclamalari-p375361",
+      "tarih": "2026-11-02T20:18:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c7bfae1d11d9",
       "baslik": "Son dakika: Akdeniz'de deprem!",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-10-12T07:00:15+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d0d8640e645f",
-      "baslik": "Antalya Finike'de petrol ve doğal gaz arama alarmı - Enerji Günlüğü",
-      "ozet": "Antalya Finike'de petrol ve doğal gaz arama alarmı Enerji Günlüğü",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWN6eWZhODVLUFJpZG1UNFlFMHRjMGZ0WGg0dXQxcnFBNTdFZDZXVnE4UEl3RjZ3d3hPLUlGeUtBTzVPMGRxZDllcUJjRDNaMjZWTnlZVkEyMGphT2Q0bXFmcnlFenpvZExrX2ZXSnRrWVhQUHZHa2hma0tNdkhxS0t2WnRDbndTbWtLWFFZb1BEeGcwTTRzZHpOOHdhOUVxQ19PUHJ3OGgwWm5yZkRGOVNPMnh0Z9IBtgFBVV95cUxPeWN6eWZhODVLUFJpZG1UNFlFMHRjMGZ0WGg0dXQxcnFBNTdFZDZXVnE4UEl3RjZ3d3hPLUlGeUtBTzVPMGRxZDllcUJjRDNaMjZWTnlZVkEyMGphT2Q0bXFmcnlFenpvZExrX2ZXSnRrWVhQUHZHa2hma0tNdkhxS0t2WnRDbndTbWtLWFFZb1BEeGcwTTRzZHpOOHdhOUVxQ19PUHJ3OGgwWm5yZkRGOVNPMnh0Zw?oc=5",
-      "tarih": "2026-10-11T20:29:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
@@ -95390,6 +95390,20 @@
       "ozet": "BM iklim müzakerelerinde kadın ve toplumsal cinsiyet örgütlerini bir araya getiren Women and Gender Constituency – Kadınlar ve Toplumsal Cinsiyet Grubu (WGC), Antalya’da gerçekleştirilecek COP31 için taleplerini 27 Ekim’de açıkladı. Grup, Belém Toplumsal Cinsiyet Eylem Planı’nın ",
       "lat": 36.8778,
       "lng": 30.7383,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-1f9deb5c0fa0",
+      "baslik": "Maden işletmesi yanan Kayserili iş adamına sigorta şirketinden tazminat ödemesi - Kayseri Olay Haber",
+      "konum": "Kayseri",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "02.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmV0ejI1alpKcEpOeWNjXzB1YjJFajF6d1ZWa1V3c01QY3FkQldjS3pSZ04yU0I4VjVnc3J0UGx2M3dVa2dFRnphZ3h1YzVHNTBWUjJHVU9WZ0huNWUtSU9uOUZrMkdubVNXMTJ5aFJhSFBBekpPTmhCck1VRFl6amNIREY4NmtDTjh6YVRRSV85dW92aEpLazRMZEZ6bmFYaEkxYnBtY3FIejFMUTRPVGhwbDMtQQ?oc=5",
+      "ozet": "Maden işletmesi yanan Kayserili iş adamına sigorta şirketinden tazminat ödemesi Kayseri Olay Haber",
+      "lat": 38.7082,
+      "lng": 35.4766,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
