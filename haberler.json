@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-03T10:21:09.183948+00:00",
+    "guncelleme": "2026-11-03T18:54:24.090543+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6674,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "harita_kayit_sayisi": 6675,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "8c98227892e6",
+      "baslik": "Galatasaray-Stuttgart maçında Deniz Undav'a sert tepki!",
+      "ozet": "Galatasaray-Stuttgart maçında Deniz Undav'a sert tepki!",
+      "url": "https://www.sozcu.com.tr/galatasaray-stuttgart-macinda-deniz-undav-a-sert-tepki-p375738",
+      "tarih": "2026-11-03T18:42:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a21b209ac170",
+      "baslik": "Selahattin Demirtaş'tan uzun süre sonra süreç açıklaması geldi",
+      "ozet": "Selahattin Demirtaş'tan uzun süre sonra süreç açıklaması geldi",
+      "url": "https://www.sozcu.com.tr/selahattin-demirtastan-uzun-sure-sonra-surec-aciklamasi-p375737",
+      "tarih": "2026-11-03T18:36:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4426e8c8b780",
+      "baslik": "35’e 35 Elektrifikasyon Hedefi Sembolden Somut Adımlara Dönüşmeli",
+      "ozet": "Türkiye COP Başkanlığının 35’e 35 elektrifikasyon hedefi, küresel enerji tüketiminde elektriğin payını 2035’e kadar %35’e çıkarmayı amaçlıyor. Yeni bir rapor ise bu hedefe ulaşmak için elektrifikasyonun bugünkünün yaklaşık dört katı hızla artırılması gerektiğine dikkat çekiyor. Y",
+      "url": "https://www.iklimhaber.org/35e-35-elektrifikasyon-hedefi-sembolden-somut-adimlara-donusmeli/",
+      "tarih": "2026-11-03T10:55:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1cd8ecb05574",
       "baslik": "IUCN: Dünya çapında 16 kıyı kuşu türünün var kalma olasılığı düşüyor",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-10-13T07:47:58+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ddd13f8106b3",
-      "baslik": "Eylül 2026 Kayıtlara Geçen En Sıcak İkinci Eylül Oldu",
-      "ozet": "C3S verilerine göre, 2026 yılı eylül ayı küresel ölçekte sanayi öncesi referans döneminin 1,63 derece üzerine çıkarak kayıtlara geçen en sıcak ikinci eylül ayı oldu. Sıcaklıkların 1,5 derecelik eşiğin üzerinde seyrettiği yeni bir seriye girildiğine işaret eden uzmanlar, güçlü El ",
-      "url": "https://www.iklimhaber.org/eylul-2026-kayitlara-gecen-en-sicak-ikinci-eylul-oldu/",
-      "tarih": "2026-10-13T07:42:41+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "588a4457ea34",
-      "baslik": "Rüzgar Enerjisi ile Doğalgaz İthalatında Yıllık 4 Milyar Dolara Yakın Tasarruf İmkanı",
-      "ozet": "TÜREB Başkanı İbrahim Erden, Türkiye’nin son birkaç yılda elektrik üretiminin %40’ından fazlasını yenilenebilir kaynaklardan karşıladığını, bu yılın sekiz ayında ise elektrik üretiminde bu oranın %60’ı aştığını belirtti. Erden, Türkiye’nin 16 gigavatı aşan mekanik rüzgar kapasite",
-      "url": "https://www.iklimhaber.org/ruzgar-enerjisi-ile-dogalgaz-ithalatinda-yillik-4-milyar-dolara-yakin-tasarruf-imkani/",
-      "tarih": "2026-10-13T07:12:04+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5d5412176294",
-      "baslik": "İklim zirvesinin ev sahibi Türkiye'de petrol arama için acele kamulaştırma - Evrensel.net",
-      "ozet": "İklim zirvesinin ev sahibi Türkiye'de petrol arama için acele kamulaştırma Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDZIUDZiNFlCOG9VRGpuaE1fZlpOOGdEQ3lENjNLY2JlVmhDWVVXM2d4OEo0RlZ4ejNPSlFmcnpzRmgwY3ZIa0pRM3VrcUZQeno0MDNhV2hnU1BGZUd3QWNOdWNNUktfcFVzcmRtQ08yOXNNdnlTR3REaE9tMmVEM3VydU0xUDlONDhocEVOVzQ1bXhPNkVheWl6eDlaRXZmWnJac0MyNjRrUkVSZC1zUzdR?oc=5",
-      "tarih": "2026-10-13T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
@@ -95446,6 +95446,20 @@
       "ozet": "Dolandırıcılar İstanbul'da ofis kurmuş: Sahte cinsel sağlık ürünleri satıp, almayanları kandırmışlar",
       "lat": 40.9902,
       "lng": 29.0599,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b7bb24de4aeb",
+      "baslik": "Çanakkale'de orman yangını - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "konum": "Çanakkale",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BeUszZENOak9zcTlBc0o2NERRYjRsdlJXQkd6Z2pxVm40a3ZLUDhuTGJjR2lRX2N4R1JsVGh5OGpTV1laMG5KMlA2V1R3SHYzWHZraExEcVNRdkZpOVhDWksxbThlNEI4MC1PZGhhVldXck1ra0tfa3dDc1g?oc=5",
+      "ozet": "Çanakkale'de orman yangını - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "lat": 40.1362,
+      "lng": 26.3586,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

@@ -121357,5 +121357,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/dolandiricilar-istanbul-da-ofis-kurmus-sahte-cinsel-saglik-urunleri-satip-almayanlara-kabus-olmuslar-p375558"
+  },
+  {
+    "id": "tarayici-b7bb24de4aeb",
+    "tip": "İklim Olayları",
+    "ad": "Çanakkale'de orman yangını - Son Dakika Türkiye Haberleri - Cumhuriyet",
+    "il": "Çanakkale",
+    "ilce": "",
+    "aciklama": "Çanakkale'de orman yangını - Son Dakika Türkiye Haberleri Cumhuriyet",
+    "koordinatlar": {
+      "lat": 40.1362,
+      "lng": 26.3586
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "03.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BeUszZENOak9zcTlBc0o2NERRYjRsdlJXQkd6Z2pxVm40a3ZLUDhuTGJjR2lRX2N4R1JsVGh5OGpTV1laMG5KMlA2V1R3SHYzWHZraExEcVNRdkZpOVhDWksxbThlNEI4MC1PZGhhVldXck1ra0tfa3dDc1g?oc=5"
   }
 ]
