@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-02T21:12:30.310705+00:00",
+    "guncelleme": "2026-11-03T10:21:09.183948+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6671,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6674,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,116 @@
     }
   },
   "haberler": [
+    {
+      "id": "1cd8ecb05574",
+      "baslik": "IUCN: Dünya çapında 16 kıyı kuşu türünün var kalma olasılığı düşüyor",
+      "ozet": "",
+      "url": "https://yesilgazete.org/iucn-dunya-capinda-16-kiyi-kusu-turunun-var-kalma-olasiligi-dusuyor/",
+      "tarih": "2026-11-03T10:20:47.746115+00:00",
+      "kaynak": "Yeşil Gazete",
+      "kategori": "Çevre Medyası",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "f73fbb5e9631",
+      "baslik": "Greenpeace verilere ulaştı: Afşin-Elbistan A Termik Santrali kirlilik yayıyor",
+      "ozet": "",
+      "url": "https://yesilgazete.org/greenpeace-verilere-ulasti-afsin-elbistan-a-termik-santrali-kirlilik-yayiyor/",
+      "tarih": "2026-11-03T10:20:47.745840+00:00",
+      "kaynak": "Yeşil Gazete",
+      "kategori": "Çevre Medyası",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "608ad94e4288",
+      "baslik": "Karbon Fiyatlandırması Çelik Sektörünün Dönüşümünü Finanse Edebilir",
+      "ozet": "Yeni bir çalışmaya göre Türkiye’de doğru kurgulanmış karbon fiyatlandırması çelik sektörünün dönüşümü için 20 yıl boyunca gerekli olan yıllık 1,5 milyar euroyu karşılayabilir. Raporda yer alan hızlandırılmış dönüşüm senaryosuna göre çelik sektörünün emisyonları 2025 ile 2050 aras",
+      "url": "https://www.iklimhaber.org/karbon-fiyatlandirmasi-celik-sektorunun-donusumunu-finanse-edebilir/",
+      "tarih": "2026-11-03T10:12:41+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b7419e62b30d",
+      "baslik": "Borsa günün ilk yarısında pozitif bir seyir izledi -3 Kasım 2026",
+      "ozet": "Borsa günün ilk yarısında pozitif bir seyir izledi -3 Kasım 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-pozitif-bir-seyir-izledi-3-kasim-2026-p375587",
+      "tarih": "2026-11-03T10:11:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "577f5590e220",
+      "baslik": "Erdoğan'ın kuzeni sordu: \"Sıradan bir intihar mı?\"",
+      "ozet": "Erdoğan'ın kuzeni sordu: \"Sıradan bir intihar mı?\"",
+      "url": "https://www.sozcu.com.tr/erdogan-in-kuzeni-sordu-siradan-bir-intihar-mi-p375578",
+      "tarih": "2026-11-03T09:53:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7c484e7c41db",
+      "baslik": "Güney Kore gösteri ekibi havada taklalar atarken Erdoğan bu şekilde izledi",
+      "ozet": "Güney Kore gösteri ekibi havada taklalar atarken Erdoğan bu şekilde izledi",
+      "url": "https://www.sozcu.com.tr/guney-kore-askerleri-havada-taklalar-atti-erdogan-bu-sekilde-izledi-p375564",
+      "tarih": "2026-11-03T09:43:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fcd1ee58ccbb",
+      "baslik": "Selen Özyurt suda doğum yaptığı anları paylaştı",
+      "ozet": "Selen Özyurt suda doğum yaptığı anları paylaştı",
+      "url": "https://www.sozcu.com.tr/selen-ozyurt-suda-dogum-yaptigi-anlari-paylasti-p375566",
+      "tarih": "2026-11-03T09:17:35+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3f9d65aecbc5",
+      "baslik": "Dolandırıcılar İstanbul'da ofis kurmuş: Sahte cinsel sağlık ürünleri satıp, almayanları kandırmışlar",
+      "ozet": "Dolandırıcılar İstanbul'da ofis kurmuş: Sahte cinsel sağlık ürünleri satıp, almayanları kandırmışlar",
+      "url": "https://www.sozcu.com.tr/dolandiricilar-istanbul-da-ofis-kurmus-sahte-cinsel-saglik-urunleri-satip-almayanlara-kabus-olmuslar-p375558",
+      "tarih": "2026-11-03T09:11:49+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c01a0ca89e03",
+      "baslik": "Memurların Ocak zam tablosu ortaya çıktı: Öğretmen, doktor, polis maaşları yeniden hesaplandı",
+      "ozet": "Memurların Ocak zam tablosu ortaya çıktı: Öğretmen, doktor, polis maaşları yeniden hesaplandı",
+      "url": "https://www.sozcu.com.tr/memurlarin-ocak-zam-tablosu-ortaya-cikti-ogretmen-doktor-polis-maaslari-yeniden-hesaplandi-p375557",
+      "tarih": "2026-11-03T08:58:54+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b5cbddbb9e4e",
+      "baslik": "Harry Kane imzayı atıyor: Resmen açıkladı",
+      "ozet": "Harry Kane imzayı atıyor: Resmen açıkladı",
+      "url": "https://www.sozcu.com.tr/harry-kane-imzayi-atiyor-resmen-acikladi-p375553",
+      "tarih": "2026-11-03T08:52:47+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7f9704c68cdf",
+      "baslik": "COP31’e Doğru İklim Eğitimi",
+      "ozet": "İklim eğitiminin niteliği ile iklim krizinden etkilenenlerin eğitim hakkının korunması birlikte izlenmeli. Bir çocuğun iklim değişikliğini araştırabileceği öğrenme olanaklarına erişmesi de sıcak hava, sel veya kuraklık nedeniyle eğitimden uzak kalmaması da kamusal sorumluluk. Tür",
+      "url": "https://www.iklimhaber.org/cop31e-dogru-iklim-egitimi/",
+      "tarih": "2026-11-03T08:38:05+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "d9c3017c0342",
       "baslik": "İbrahim Hacıosmanoğlu 2016'daki o maçı gündeme getirdi! Eski hakem Deniz Ateş Bitnel suçlamaları reddetti",
@@ -1899,116 +2009,6 @@
       "tarih": "2026-10-13T07:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1306cabc937e",
-      "baslik": "İnsan Hakları İzleme Örgütü: COP31’in ev sahibi Türkiye’den çevre savunucularına baskı - Bianet",
-      "ozet": "İnsan Hakları İzleme Örgütü: COP31’in ev sahibi Türkiye’den çevre savunucularına baskı Bianet",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkJld2l5VE54ZUtFNkFrN3I2a2dSbWNLaWtxZ1JWRDFkSE94NVE1Q084V1U4cFZ2VnU1RDBELTBmTmVWbEVLQjRMbUFhalNGTER2MzZCS2xlTm9xejJCdVk0dERsNlBraWo0OGhmdkNZbWdBSEhXdXEzeTlRYjBFRjBGdmdiZkNLaFFEZ2VBSzhJbThaRVFvTmdmOEpPWDM2VnVxRTctcnUxTjhiSUJqU0dSaXZlQQ?oc=5",
-      "tarih": "2026-10-13T06:10:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2d3282ddf0de",
-      "baslik": "Türkiye: COP31’in Ev Sahibinden Çevre Savunucularına Baskı - Human Rights Watch",
-      "ozet": "Türkiye: COP31’in Ev Sahibinden Çevre Savunucularına Baskı Human Rights Watch",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1FNQkZMYWJQalNqWjhFQ3hLX3lNaHBrekFqX2xxVGZGRm1xOGhTalBQZWJlS0ZSTGVydHBTS3hHUjYwdFpXVkRXaWhDWk5aN1NlZDhZamxDeXZ3eUN6S3QxTFNkS3ZucmtrZTdfdHRqRS1PQ1JKUmtOUG9oQ0JveTVPWUt4bXh5cVVHVF9R?oc=5",
-      "tarih": "2026-10-13T04:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "de4ddec09754",
-      "baslik": "Bir zamanlar Süper Lig'de fırtına gibi esiyordu! 72 yıllık köklü kulüp resmen satıldı",
-      "ozet": "Bir zamanlar Süper Lig'de fırtına gibi esiyordu! 72 yıllık köklü kulüp resmen satıldı",
-      "url": "https://www.sozcu.com.tr/bir-zamanlar-super-lig-de-firtina-gibi-esiyordu-72-yillik-koklu-kulup-resmen-satildi-p368537",
-      "tarih": "2026-10-12T19:37:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bf623148e8ab",
-      "baslik": "AKP'li vekil Cemil Tugay görüşmesinin detaylarını anlattı: Erdoğan'ın sözlerine mest olmuş",
-      "ozet": "AKP'li vekil Cemil Tugay görüşmesinin detaylarını anlattı: Erdoğan'ın sözlerine mest olmuş",
-      "url": "https://www.sozcu.com.tr/sebnem-bursali-cemil-tugy-erdogan-gorusmesinin-detaylarini-anlatti-p368530",
-      "tarih": "2026-10-12T18:33:50+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a2a825f9c83d",
-      "baslik": "Barcelona'nın Türkçe hesabını Galatasaraylılar bastı! Paylaşımlara yorum yağdı",
-      "ozet": "Barcelona'nın Türkçe hesabını Galatasaraylılar bastı! Paylaşımlara yorum yağdı",
-      "url": "https://www.sozcu.com.tr/barcelonanin-turkce-hesabini-galatasaraylilar-basti-paylasimlara-yorum-yagdi-p368395",
-      "tarih": "2026-10-12T09:59:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "27bdef461c0a",
-      "baslik": "Felaketlerin bitmediği ülkede 'sel geçirmez' çelik köprü böyle yıkıldı",
-      "ozet": "Felaketlerin bitmediği ülkede 'sel geçirmez' çelik köprü böyle yıkıldı",
-      "url": "https://www.sozcu.com.tr/felaketlerin-bitmedigi-ulkede-sel-gecirmez-celik-kopru-boyle-yikildi-p368396",
-      "tarih": "2026-10-12T09:51:47+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "133034adfb10",
-      "baslik": "AB COP31’e Emisyon Azaltım Paketi Sunacak",
-      "ozet": "COP31 İklim Zirvesi’ne sayılı günler kala Avrupa Birliği (AB), küresel çapta emisyon azaltımını hızlandırmayı hedefleyen yeni bir paketi, zirvede ülkelere sunmaya hazırlanıyor. AB, gelecek ay Antalya’nın ev sahipliği yapacağı COP31 iklim zirvesinde gezegeni ısıtan seragazı emisyo",
-      "url": "https://www.iklimhaber.org/ab-cop31e-emisyon-azaltim-paketi-sunacak/",
-      "tarih": "2026-10-12T09:40:53+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1fc792b4a071",
-      "baslik": "Burası Türkiye, iki şeritli yolu tamamen kapattılar: Dev sürünün görsel şöleni havadan görüntülendi",
-      "ozet": "Burası Türkiye, iki şeritli yolu tamamen kapattılar: Dev sürünün görsel şöleni havadan görüntülendi",
-      "url": "https://www.sozcu.com.tr/iki-seritli-yolu-tamamen-kapattilar-dev-surunun-gorsel-soleni-havadan-goruntulendi-p368351",
-      "tarih": "2026-10-12T08:35:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fb156447331b",
-      "baslik": "Fon krizinin sorumlusu kim? Vatandaşın okları tek bir adresi işaret ediyor",
-      "ozet": "Fon krizinin sorumlusu kim? Vatandaşın okları tek bir adresi işaret ediyor",
-      "url": "https://www.sozcu.com.tr/fon-krizinin-sorumlusu-kim-vatandasin-oklari-tek-bir-adresi-isaret-ediyor-p368363",
-      "tarih": "2026-10-12T08:33:43+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e92e47b00235",
-      "baslik": "COP31’e Bir Ay Kala, Greenpeace Türkiye’den İklim Mücadelesi için Temel Talepler",
-      "ozet": "“Zirveye Taşı” kampanyasına dikkat çekerek, herkesi iklim mücadelesi taleplerini ve mücadelelerini COP31’e taşımaya çağıran Greenpeace Türkiye, fosil yakıtlardan adil çıkışın gerçekleşmesi ve plastik atık ithalatının yasaklanması gerektiğini vurguladı. Antalya’da gerçekleşecek Bi",
-      "url": "https://www.iklimhaber.org/cop31e-bir-ay-kala-greenpeace-turkiyeden-iklim-mucadelesi-icin-temel-talepler/",
-      "tarih": "2026-10-12T08:31:26+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7880ac88d2e9",
-      "baslik": "Elektrik Hatlarındaki Kuş Ölümlerine Karşı Ortak Çağrı",
-      "ozet": "Türkiye’nin farklı noktalarında elektrik hatları nedeniyle yaşanan kuş ölümlerinin ardından WWF-Türkiye, Doğa Derneği, Eko Alan ve Kuş Kolektifi öncülüğünde hazırlanan ve 70’i aşkın kurumun destek verdiği açık çağrıyla; kuş ölümlerinin önlenmesi için riskli elektrik hatlarında ac",
-      "url": "https://www.iklimhaber.org/elektrik-hatlarindaki-kus-olumlerine-karsi-ortak-cagri/",
-      "tarih": "2026-10-12T07:00:15+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95404,6 +95404,48 @@
       "ozet": "Maden işletmesi yanan Kayserili iş adamına sigorta şirketinden tazminat ödemesi Kayseri Olay Haber",
       "lat": 38.7082,
       "lng": 35.4766,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-8ca09b4d4c8e",
+      "baslik": "Bursa Orhaneli’de orman yangını alarmı! Ekipler seferber oldu - bursa tv",
+      "konum": "Bursa",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1Jta281aHk4dURMczVhRnh0UFB6Qmg0LUYwR2EtS2xZdm93d0FRZlh1djIyTm0wamhGMm5wLXdLZ1MyU0xYN09DcGc4eHIyQVJsMjJ0SS16NV93clhlYnVrZlpfWVZjWUVKUmV3QmM2QWN2MnFaLUFkOTVtR2NiXzlsTGdNMV9PLUZ6UWM2MA?oc=5",
+      "ozet": "Bursa Orhaneli’de orman yangını alarmı! Ekipler seferber oldu bursa tv",
+      "lat": 40.2397,
+      "lng": 29.0586,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-75852eede3eb",
+      "baslik": "Antalya'da 2 orman yangını: Ekiplerin müdahalesi sürüyor - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "konum": "Antalya",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVNmQjNfQWJ5RFhiNjZfYjZvWTg2cHZ4SkRkNFdrN0U5czc2clR6cnAzb2lVNnc5Zzl5SUdJMGJYQ1pydFBReXJtdE50R2Z3UWhYTHFlUmtrSTBZTnFLVEpXb3NaTGFsY2w2WmRnT3NYRjhTX1NwSElXYUF2aEowOFM5dG4yOGE1eFhGdUpXSS1pbGQ5Qm55ZDNBQXI4d1cyREp3?oc=5",
+      "ozet": "Antalya'da 2 orman yangını: Ekiplerin müdahalesi sürüyor - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "lat": 36.7858,
+      "lng": 30.6379,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-3f9d65aecbc5",
+      "baslik": "Dolandırıcılar İstanbul'da ofis kurmuş: Sahte cinsel sağlık ürünleri satıp, almayanları kandırmışlar",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "03.11.2026",
+      "url": "https://www.sozcu.com.tr/dolandiricilar-istanbul-da-ofis-kurmus-sahte-cinsel-saglik-urunleri-satip-almayanlara-kabus-olmuslar-p375558",
+      "ozet": "Dolandırıcılar İstanbul'da ofis kurmuş: Sahte cinsel sağlık ürünleri satıp, almayanları kandırmışlar",
+      "lat": 40.9902,
+      "lng": 29.0599,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

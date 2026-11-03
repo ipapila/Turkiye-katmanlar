@@ -121300,5 +121300,62 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmV0ejI1alpKcEpOeWNjXzB1YjJFajF6d1ZWa1V3c01QY3FkQldjS3pSZ04yU0I4VjVnc3J0UGx2M3dVa2dFRnphZ3h1YzVHNTBWUjJHVU9WZ0huNWUtSU9uOUZrMkdubVNXMTJ5aFJhSFBBekpPTmhCck1VRFl6amNIREY4NmtDTjh6YVRRSV85dW92aEpLazRMZEZ6bmFYaEkxYnBtY3FIejFMUTRPVGhwbDMtQQ?oc=5"
+  },
+  {
+    "id": "tarayici-8ca09b4d4c8e",
+    "tip": "İklim Olayları",
+    "ad": "Bursa Orhaneli’de orman yangını alarmı! Ekipler seferber oldu - bursa tv",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa Orhaneli’de orman yangını alarmı! Ekipler seferber oldu bursa tv",
+    "koordinatlar": {
+      "lat": 40.2397,
+      "lng": 29.0586
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "03.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1Jta281aHk4dURMczVhRnh0UFB6Qmg0LUYwR2EtS2xZdm93d0FRZlh1djIyTm0wamhGMm5wLXdLZ1MyU0xYN09DcGc4eHIyQVJsMjJ0SS16NV93clhlYnVrZlpfWVZjWUVKUmV3QmM2QWN2MnFaLUFkOTVtR2NiXzlsTGdNMV9PLUZ6UWM2MA?oc=5"
+  },
+  {
+    "id": "tarayici-75852eede3eb",
+    "tip": "İklim Olayları",
+    "ad": "Antalya'da 2 orman yangını: Ekiplerin müdahalesi sürüyor - Son Dakika Türkiye Haberleri - Cumhuriyet",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya'da 2 orman yangını: Ekiplerin müdahalesi sürüyor - Son Dakika Türkiye Haberleri Cumhuriyet",
+    "koordinatlar": {
+      "lat": 36.7858,
+      "lng": 30.6379
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "03.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVNmQjNfQWJ5RFhiNjZfYjZvWTg2cHZ4SkRkNFdrN0U5czc2clR6cnAzb2lVNnc5Zzl5SUdJMGJYQ1pydFBReXJtdE50R2Z3UWhYTHFlUmtrSTBZTnFLVEpXb3NaTGFsY2w2WmRnT3NYRjhTX1NwSElXYUF2aEowOFM5dG4yOGE1eFhGdUpXSS1pbGQ5Qm55ZDNBQXI4d1cyREp3?oc=5"
+  },
+  {
+    "id": "tarayici-3f9d65aecbc5",
+    "tip": "Ekolojik İhlal",
+    "ad": "Dolandırıcılar İstanbul'da ofis kurmuş: Sahte cinsel sağlık ürünleri satıp, almayanları kandırmışlar",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "Dolandırıcılar İstanbul'da ofis kurmuş: Sahte cinsel sağlık ürünleri satıp, almayanları kandırmışlar",
+    "koordinatlar": {
+      "lat": 40.9902,
+      "lng": 29.0599
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "03.11.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/dolandiricilar-istanbul-da-ofis-kurmus-sahte-cinsel-saglik-urunleri-satip-almayanlara-kabus-olmuslar-p375558"
   }
 ]
