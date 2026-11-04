@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-03T18:54:24.090543+00:00",
+    "guncelleme": "2026-11-04T19:11:04.816566+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6675,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6677,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "95dad0dc367d",
+      "baslik": "Dünyanın en yüksek barajına dev aynalar yerleştirdiler: Amaçları elektrik üretmek değil",
+      "ozet": "Dünyanın en yüksek barajına dev aynalar yerleştirdiler: Amaçları elektrik üretmek değil",
+      "url": "https://www.sozcu.com.tr/dunyanin-en-yuksek-barajina-dev-aynalar-yerlestirdiler-amaclari-elektrik-uretmek-degil-p376064",
+      "tarih": "2026-11-04T17:25:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bdbf434c33bf",
+      "baslik": "Fosil Yakıtlardan Çıkış için İlk Küresel Yol Haritası Yayımlandı",
+      "ozet": "COP30’a ev sahipliği yapan Brezilya, fosil yakıtlardan çıkış ve ormansızlaşmanın durdurulması için dünyanın ilk küresel yol haritalarını yayımladı. Söz konusu belgeler, iklim hedeflerinde artık müzakereden uygulamaya geçişi amaçlıyor. Ancak yol haritalarının bağlayıcı hedefler, t",
+      "url": "https://www.iklimhaber.org/fosil-yakitlardan-cikis-icin-ilk-kuresel-yol-haritasi/",
+      "tarih": "2026-11-04T09:31:20+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ec675cec29de",
+      "baslik": "İklim Ağı: “İklim Zirvesinin Başkanı Türkiye’nin İklim Politikaları Sınıfta Kalıyor”",
+      "ozet": "İklim Ağı, COP31 öncesinde Türkiye’nin iklim karnesini açıkladı. Açıklamada, İklim Ağı’nın karar alma ve COP31 yan etkinliklerine katılımının sağlanmaması; maden ve fosil yakıt şirketlerinin COP31’e ortak olması; emisyonları azaltmak yerine artırmayı öngören 2035 iklim hedefinin ",
+      "url": "https://www.iklimhaber.org/iklim-agi-iklim-zirvesinin-baskani-turkiyenin-iklim-politikalari-sinifta-kaliyor/",
+      "tarih": "2026-11-04T07:28:13+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "687e230de000",
+      "baslik": "Akbelen Direnişçisi Esra Işık’tan Dayanışma Çağrısı",
+      "ozet": "Danıştay 6. Dairesi, YK Enerji lehine verilen 679 parsel hakkındaki acele kamulaştırma kararına yönelik yürütmeyi durdurma kararını kaldırarak iptal istemini reddetti. Her an yaşanabilecek zorla tahliye riskine karşı dayanışma çağrısında bulunan Akbelen direnişçisi Esra Işık, “Şi",
+      "url": "https://www.iklimhaber.org/akbelen-direniscisi-esra-isiktan-dayanisma-cagrisi/",
+      "tarih": "2026-11-04T07:09:54+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8c98227892e6",
       "baslik": "Galatasaray-Stuttgart maçında Deniz Undav'a sert tepki!",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-10-13T09:54:54+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0211382e0e76",
-      "baslik": "İki Türk vatandaşına 'sabotaj' şüphesiyle Almanya'da gözaltı",
-      "ozet": "İki Türk vatandaşına 'sabotaj' şüphesiyle Almanya'da gözaltı",
-      "url": "https://www.sozcu.com.tr/polonya-daki-kundaklama-olayinda-ajan-suphesi-iki-turk-gozaltina-alindi-p368729",
-      "tarih": "2026-10-13T09:24:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "288aa60b1b25",
-      "baslik": "Dört büyüklerin toplam borcu 108 milyarı aştı",
-      "ozet": "Dört büyüklerin toplam borcu 108 milyarı aştı",
-      "url": "https://www.sozcu.com.tr/dort-buyuklerin-toplam-borcu-108-milyari-asti-p368730",
-      "tarih": "2026-10-13T09:24:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3e03c3b2c3da",
-      "baslik": "İşçiler boru döşerken külçe külçe altın buldu: Halka dağıtacaklar",
-      "ozet": "İşçiler boru döşerken külçe külçe altın buldu: Halka dağıtacaklar",
-      "url": "https://www.sozcu.com.tr/isciler-boru-doserken-kulce-kulce-altin-buldu-halka-dagitacaklar-p368728",
-      "tarih": "2026-10-13T09:17:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8de7c7a18a34",
-      "baslik": "Yeni Analiz: İklim Hedeflerinde Taahhütten Somut Eyleme Geçiş Öne Çıkıyor",
-      "ozet": "Yeni bir analiz, Türkiye’nin ev sahipliğinde gerçekleştirilecek COP31’in iklim taahhütlerinin somut ve doğrulanabilir sonuçlara dönüştürülmesi için önemli bir fırsat olduğuna dikkat çekiyor. Analize göre, mevcut politikaların tam olarak uygulanması halinde küresel ısınma beklenti",
-      "url": "https://www.iklimhaber.org/yeni-analiz-iklim-hedeflerinde-taahhutten-somut-eyleme-gecis-one-cikiyor/",
-      "tarih": "2026-10-13T07:47:58+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95460,6 +95460,34 @@
       "ozet": "Çanakkale'de orman yangını - Son Dakika Türkiye Haberleri Cumhuriyet",
       "lat": 40.1362,
       "lng": 26.3586,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-46ecfd095c26",
+      "baslik": "İSKİ açıkladı: 9 Nisan İstanbul baraj doluluk oranı yüzde kaç? - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjZpbHMtdzJZLWVxWl9VVExVYkd6SEJod1Q0dW8tLXowaGRCbG9YLWZQY2I2NUkwUkhVSC1tTGRaa0VMemVKVVlxT1U5T3lQblN4ODZIQTlkczZwd0pBQ1hvTXVKeXFLWDRqOS1kTEpDSE54WDBNTHVsa3YtVC1UYTM0OWJvWEZ1akE4M0QyX3ZjdFl1YUZ4Q211Q1o2UHhWRzNaQXdfWVFnUQ?oc=5",
+      "ozet": "İSKİ açıkladı: 9 Nisan İstanbul baraj doluluk oranı yüzde kaç? - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "lat": 41.0149,
+      "lng": 29.0927,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-6d52bd67c075",
+      "baslik": "İSKİ açıkladı: 10 Eylül İstanbul baraj doluluk oranı yüzde kaç? - Son Dakika Türkiye Haberleri - Cumhuriyet",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "04.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUt4OUdSUXNzTkh0OEpkWnBWcDZ3NFVwOEk3ODNoZkk5RU9QQ3pvdHdMUUZpblp5TDFYTTd6aGp1Y2JKY0hwS2xyT0J5VHlBY3VPdm5qY2ttMUhtYWU2WjJNNFVRSDh4MW5QZTdTSFZqNkxtWG9FUnAxcmRiWnIzNnZpZ1dzU0tIaG5LRHZKTEw5YUZLQk5lRnpfZ05ZdVV5Z0k5cUp2WFhaeFk?oc=5",
+      "ozet": "İSKİ açıkladı: 10 Eylül İstanbul baraj doluluk oranı yüzde kaç? - Son Dakika Türkiye Haberleri Cumhuriyet",
+      "lat": 41.0527,
+      "lng": 28.9015,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
