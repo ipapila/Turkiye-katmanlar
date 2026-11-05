@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-11-05T10:07:49.589935+00:00",
+    "guncelleme": "2026-11-05T19:17:31.886461+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6678,
+    "harita_kayit_sayisi": 6679,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "8dfe219f4f72",
+      "baslik": "G7 liderleri iklim liderliğinde sınıfta kaldı",
+      "ozet": "",
+      "url": "https://yesilgazete.org/g7-liderleri-iklim-liderliginde-sinifta-kaldi/",
+      "tarih": "2026-11-05T19:17:12.397990+00:00",
+      "kaynak": "Yeşil Gazete",
+      "kategori": "Çevre Medyası",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "cfd3eab6cd9f",
+      "baslik": "Su bulmak için açtıkları kuyudan doğal gaz çıkmaya başladı",
+      "ozet": "Su bulmak için açtıkları kuyudan doğal gaz çıkmaya başladı",
+      "url": "https://www.sozcu.com.tr/su-bulmak-icin-actiklari-kuyudan-dogal-gaz-cikmaya-basladi-p376427",
+      "tarih": "2026-11-05T17:16:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "815e4eaa409b",
+      "baslik": "Eski bakan Denizolgun’un ölüm nedeni belli oldu: Adli Tıp raporu çıktı",
+      "ozet": "Eski bakan Denizolgun’un ölüm nedeni belli oldu: Adli Tıp raporu çıktı",
+      "url": "https://www.sozcu.com.tr/eski-bakan-denizolgun-un-olum-nedeni-belli-oldu-adli-tip-raporu-cikti-p376423",
+      "tarih": "2026-11-05T16:55:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4467959b9547",
+      "baslik": "Deniz manzaralı yüzlerce evi terk ettiler: 274 binadan geriye sessizlik kaldı",
+      "ozet": "Deniz manzaralı yüzlerce evi terk ettiler: 274 binadan geriye sessizlik kaldı",
+      "url": "https://www.sozcu.com.tr/deniz-manzarali-yuzlerce-evi-terk-ettiler-274-binadan-geriye-sessizlik-kaldi-p376417",
+      "tarih": "2026-11-05T16:13:07+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "156a56cc7972",
       "baslik": "Cumhurbaşkanı Erdoğan'dan 'fon' açıklaması: 'Hiç ummadığınız insanlar işin içine girmişler'",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-10-14T10:39:18+00:00",
       "kaynak": "Google News",
       "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "781e4893525d",
-      "baslik": "Sinpaş COP31’de 'iklim destekçisi' oldu: Çevre savunucularından tepki - Bianet",
-      "ozet": "Sinpaş COP31’de 'iklim destekçisi' oldu: Çevre savunucularından tepki Bianet",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFFPeG9ENU1QTkQ0cEg4Rk5xQmtidWJfLVRxNVFSdkg1d2dZaVM4T19nakQ0b3pUNll1dnZmTzFFLTNwYUVKNkZrczFLYlgxNmVJbHp2dE5rRFZVcHpXYU1pMVZxSlQ2eU9rZ2tkemxIbkhVQlhWeWtzQThNaUdEMVNmbktVeDV0TGdkb3ozQUtxMDNScEpPTnZlYmdudw?oc=5",
-      "tarih": "2026-10-14T10:01:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9ffb2e5bded7",
-      "baslik": "COP31’in Ev Sahibi Türkiye’de Çevre Aktivistleri Yargı Baskısıyla Karşı Karşıya",
-      "ozet": "Antalya’daki COP31 öncesinde İnsan Hakları İzleme Örgütü tarafından yapılan yeni çalışma, çevre savunucularının, çevreye verilen zararı izledikleri veya topraklarını ve çevrelerini korumaya çalıştıkları için suçlamalar, idari para cezaları ve başka hukuki baskılarla karşı karşıya",
-      "url": "https://www.iklimhaber.org/cop31in-ev-sahibi-turkiyede-cevre-aktivistleri-yargi-baskisiyla-karsi-karsiya/",
-      "tarih": "2026-10-14T08:42:52+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "991378200aeb",
-      "baslik": "Yeni Rapor: Enerji Verimliliğindeki İlerleme Hedeflenen Seviyenin Gerisinde",
-      "ozet": "Yenilenebilir enerji kapasitesindeki rekor büyümeye dikkat çekilen IRENA raporunda, yüzyılın ortasında elektrik üretiminin %80’inden fazlasının güneş ve rüzgardan sağlanabileceği belirtildi. Küresel enerji dönüşümünün 2050’ye kadar 46 trilyon dolarlık ekonomik kazanç yaratması be",
-      "url": "https://www.iklimhaber.org/yeni-rapor-enerji-verimliligindeki-ilerleme-hedeflenen-seviyenin-gerisinde/",
-      "tarih": "2026-10-14T08:08:18+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "eea638533f11",
-      "baslik": "Türkiye’ye Çağrı: “Çevre Savunucularının Kriminalize Edilmesine Son Verin”",
-      "ozet": "Uluslararası Af Örgütü’nün başlattığı yeni kampanya doğrultusunda Türkiye’ye çevre savunucularının kriminalize edilmesine son verilmesi ve kömür madenciliği ve kömürlü termik santrallardan etkilenen toplulukların, sağlık ve çevreyle ilgili zararlardan, yerinden edilme ve diğer in",
-      "url": "https://www.iklimhaber.org/turkiyeye-cagri-cevre-savunucularinin-kriminalize-edilmesine-son-verin/",
-      "tarih": "2026-10-14T08:01:38+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95502,6 +95502,20 @@
       "ozet": "İSKİ açıkladı: 24 Mayıs İstanbul baraj doluluk oranı yüzde kaç? Cumhuriyet",
       "lat": 41.1225,
       "lng": 28.9069,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c447ba85e001",
+      "baslik": "Türkiye'de Rize'den büyük bir alan ormansızlaştı - DW.com",
+      "konum": "Rize",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2JmZ0J6Y1EtbGEtTVNvcTZYVkpZQXNkOUlHczVRMXBSUzdqS3JNNENpd1N6S1FMOEU5aGVnbVdJTm5mSXF4RWVCQkVmd1pDV3pjazVYa0FNRHJaWi1JVXFJSFNnTW5sWjNEWEVhQ0ZTcWF2NVNoeEJSVW5mWTNkQ3Y0V0xuLUV1Z0R3N29scnVmSDJNOVFTZUlqclV6bl9Rck1ub0ZUeEF1T0dIcmfSAa4BQVVfeXFMTkpjZTRWdU9IVWFkNjhaQV9iRVRVM2k1X2h1QjBJdTg0NFJGd0RSNW1JQ01hV2dSVzlRTGlISTNNcThNbDBHWDRRSUFnc1B6b1NoejJ0ZER1bkw3R1pxYXZISnB1RFRpTU1ZX3piTEtVT2ZoamY1RmdPeDBrdGtLUTEwbU5KNkw3a0JJdDNCdm5VSU9FX0VGQmF5THVEdVZIT0d4bmR3OFIyOWU4OXFR?oc=5",
+      "ozet": "Türkiye'de Rize'den büyük bir alan ormansızlaştı DW.com",
+      "lat": 41.1327,
+      "lng": 40.4822,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
