@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-04T19:11:04.816566+00:00",
+    "guncelleme": "2026-11-05T10:07:49.589935+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6677,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6678,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "156a56cc7972",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan 'fon' açıklaması: 'Hiç ummadığınız insanlar işin içine girmişler'",
+      "ozet": "Cumhurbaşkanı Erdoğan'dan 'fon' açıklaması: 'Hiç ummadığınız insanlar işin içine girmişler'",
+      "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-dan-fon-aciklamasi-hic-ummadiginiz-insanlar-isin-icine-girmisler-p376283",
+      "tarih": "2026-11-05T09:52:25+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7fb853e685a7",
+      "baslik": "SON DAKİKA | Erdoğan'dan Azerbaycan kararı",
+      "ozet": "SON DAKİKA | Erdoğan'dan Azerbaycan kararı",
+      "url": "https://www.sozcu.com.tr/son-dakika-veya-erdogan-dan-azerbaycan-karari-p376290",
+      "tarih": "2026-11-05T09:51:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c7500041c042",
+      "baslik": "Kritik Adım COP30 Yol Haritaları: COP31’de 1,5 Derece için Acil Eylem Gerekiyor",
+      "ozet": "Greenpeace, COP30 Brezilya Başkanlığı tarafından hazırlanan ormansızlaşmayı sona erdirme ve fosil yakıtlardan uzaklaşma yol haritalarını, gelecek haftaki Birleşmiş Milletler (BM) İklim Zirvesi COP31’de 1,5 derece ile uyumlu bir geleceğin önünü açacak itici bir güç olarak kullanma",
+      "url": "https://www.iklimhaber.org/kritik-adim-cop30-yol-haritalari-cop31de-15-derece-icin-acil-eylem-gerekiyor/",
+      "tarih": "2026-11-05T09:44:48+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "95b19b2989e1",
+      "baslik": "İklim Finansmanı Durma Noktasına Geldi",
+      "ozet": "Yeni bir BM raporuna göre, yoksul ülkelerin iklim kriziyle mücadele etmesine yönelik finansman durma noktasına geldi. Bu ülkeler iklim değişikliğinin etkilerine uyum sağlayabilmek için 2035 yılına kadar yılda 305 milyar dolara ihtiyaç duyarken, bu ülkelere sağlanan finansman 2024",
+      "url": "https://www.iklimhaber.org/iklim-finansmani-durma-noktasina-geldi/",
+      "tarih": "2026-11-05T09:19:31+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e149cac3093f",
+      "baslik": "Harry Kane imzayı attı: Resmi açıklama yapıldı",
+      "ozet": "Harry Kane imzayı attı: Resmi açıklama yapıldı",
+      "url": "https://www.sozcu.com.tr/harry-kane-imzayi-atti-resmi-aciklama-yapildi-p376261",
+      "tarih": "2026-11-05T08:19:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d517b5bd729d",
+      "baslik": "İğneada Longoz Ormanları Kuraklık Tehdidi Altında!",
+      "ozet": "Yeni bir çalışma, Türkiye’nin nadir subasar ormanlarından İğneada Longoz Ormanlarının insan baskısı ve iklim değişikliği nedeniyle tehdit altında olduğunu ortaya koyuyor. 1984’ten 2014’e Erikli longozunun %16 daraldığını, Sakagöl longozundaki sulak alanların ise yok olduğunu veya",
+      "url": "https://www.iklimhaber.org/igneada-longoz-ormanlari-kuraklik-tehdidi-altinda/",
+      "tarih": "2026-11-05T07:55:18+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "05dfe2c5e162",
+      "baslik": "30 Yıl, 30 COP: Vaatlerle Birlikte Atmosferdeki Karbon da Arttı",
+      "ozet": "TEMA Vakfı, ilk COP’un gerçekleştirildiği 1995 yılından bugüne kadar küresel ısınmaya yol açan atmosferdeki karbondioksit yoğunluğunun azalmadığına ve verilen destek sözlerinin yerine getirilmediğine dikkat çekti. COP31 öncesinde “30 yılda ne vaat edildi ne gerçekleşti?” sorusunu",
+      "url": "https://www.iklimhaber.org/30-yil-30-cop-vaatlerle-birlikte-atmosferdeki-karbon-da-artti/",
+      "tarih": "2026-11-05T07:25:16+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8dc8685fd5fd",
+      "baslik": "Arnavutköy’de ünlü kafeye tütün yasağı ihlali: Nevada Coffee’ye 10 gün kapatma cezası - dikGAZETE.com",
+      "ozet": "Arnavutköy’de ünlü kafeye tütün yasağı ihlali: Nevada Coffee’ye 10 gün kapatma cezası dikGAZETE.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmVfMmJmUFctbld4NGpwSTVEemprSW5vWmZoQVE5TlRXWTVPNWZTQXZiZ183LWFxNm5aZlNfclJUZTAzLUpMcG5XRUZNZXBaY0ZMbzRmSGxmem5pQUxFMFh5Q1RhS1BQZXc2Y2lDZ2oxNEhkaG1PZHNVYi1oWjJrMDdJZjUtRUZGTHBDZVFVeWhxM0w3R2pRd3FLZzdmelBMZWpLNTI5Z0FDQ2Z0QV9FQnNNdXhFNzB1SzdzdkxlZDRjTzgtUUdMbQ?oc=5",
+      "tarih": "2026-11-04T20:28:39+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "95dad0dc367d",
       "baslik": "Dünyanın en yüksek barajına dev aynalar yerleştirdiler: Amaçları elektrik üretmek değil",
@@ -1929,86 +2009,6 @@
       "tarih": "2026-10-14T08:01:38+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7bf7e070694e",
-      "baslik": "BAĞ-KUR borcunu ödemek için yarışmaya katıldı: Bankanın milyonluk teklifini kabul etti",
-      "ozet": "BAĞ-KUR borcunu ödemek için yarışmaya katıldı: Bankanın milyonluk teklifini kabul etti",
-      "url": "https://www.sozcu.com.tr/bag-kur-borcunu-odemek-icin-yarismaya-katildi-bankanin-milyonluk-teklifini-kabul-etti-p369032",
-      "tarih": "2026-10-14T07:58:29+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "268a4d3a8b6d",
-      "baslik": "Deniz tabanında dev petrol katmanı bulunca komşuda üretmeye başladılar",
-      "ozet": "Deniz tabanında dev petrol katmanı bulunca komşuda üretmeye başladılar",
-      "url": "https://www.sozcu.com.tr/deniz-tabaninda-dev-petrol-kamani-bulunca-komsuda-uretmeye-basladilar-p369018",
-      "tarih": "2026-10-14T07:36:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a2811d3a1497",
-      "baslik": "Trakya'da TPAO'nun petrol ve doğal gaz projesine tepki: Acele kamulaştırma kararı kamu yararı taşımıyor - dokuz8HABER",
-      "ozet": "Trakya'da TPAO'nun petrol ve doğal gaz projesine tepki: Acele kamulaştırma kararı kamu yararı taşımıyor dokuz8HABER",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUTBJc2lwMWxDT1YwQkNCb1QwTkJHY3kzX1c3TjNCMXhmZ3JlQm0zOWNEY1hCaC05clRFS3NEMWk4YUI0NHNPU0dqT2F1YS1Fb0hlMHk5UWczWlJmTF9RNzlobVB2WUQxNkFVV01BVV9HNHE4ZXVTbmx0RGZ6M2d2OTI5dWpabzNrYVFoT0FrdmlJVEJmdGxtRDN0N1l1cW82MFE0bmdYdTM0ejRpN3BlczJlaEhyY1FGcmhfUGpkYVFsZ9IByAFBVV95cUxQRWpoZDRRdkVoQldkWDZzak1rV0JIUnlmR1RaYWc1ZGdFUGY1MTZYeWRoZTVzRmd4dVp1Um5iNW9XRFNnczY2clNLaGY3RHozUUFvWlM1bVNadXdYV2UyOTN1WTFLc0llamNhUjZDUkZyZkM4a1FsNzIwNlF0b1FJbzdEOFRRX05nVkhpR0hucEYzQ0c3TDMxM1ZSQUJHeW82clhjMVJMU3FEZENDSWFfOG1hS2VxTF9fUWtmdUdrWW5ya2k2elNzQg?oc=5",
-      "tarih": "2026-10-14T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0508bcc53328",
-      "baslik": "Selçuk Yöntem'den yıllar sonra gelen Kim Milyoner Olmak İster itirafı",
-      "ozet": "Selçuk Yöntem'den yıllar sonra gelen Kim Milyoner Olmak İster itirafı",
-      "url": "https://www.sozcu.com.tr/selcuk-yontem-den-yillar-sonra-gelen-kim-milyoner-olmak-ister-itirafi-p368875",
-      "tarih": "2026-10-13T18:20:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3954665c9c1e",
-      "baslik": "Quaresma sessiz kalamadı: Cristiano Ronaldo krizine sitem etti",
-      "ozet": "Quaresma sessiz kalamadı: Cristiano Ronaldo krizine sitem etti",
-      "url": "https://www.sozcu.com.tr/quaresma-sessiz-kalamadi-cristiano-ronaldo-krizine-sitem-etti-p368845",
-      "tarih": "2026-10-13T16:10:31+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "92dbd5f1ced9",
-      "baslik": "Mansur Yavaş duyurdu: 100 milyon liralık yardım bugün hesaplara yatıyor",
-      "ozet": "Mansur Yavaş duyurdu: 100 milyon liralık yardım bugün hesaplara yatıyor",
-      "url": "https://www.sozcu.com.tr/mansur-yavas-duyurdu-100-milyon-liralik-yardim-bugun-hesaplara-yatiyor-p368840",
-      "tarih": "2026-10-13T15:39:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3f4efc58274b",
-      "baslik": "AB, Çinli Hibrit Araçlara Yeni Kota Koyuyor",
-      "ozet": "Brüksel, Çinli araçların Avrupa Birliği (AB) pazarındaki payını %6’dan %3’e düşürmek amacıyla, Dünya Ticaret Örgütü kurallarından yararlanarak yeni bir kotayı aralık ayından itibaren hızla yürürlüğe koymaya hazırlanıyor. Avrupa Komisyonu, Çin’den ithal edilen hibrit elektrikli ar",
-      "url": "https://www.iklimhaber.org/ab-cinli-hibrit-araclara-yeni-kota-koyuyor/",
-      "tarih": "2026-10-13T10:22:11+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e77e2b617fc6",
-      "baslik": "Mekke Anlaşması'na tepkinin ateşi yükseliyor: 'Türk askerini Yemen’e göndermek Trump'ın planı'",
-      "ozet": "Mekke Anlaşması'na tepkinin ateşi yükseliyor: 'Türk askerini Yemen’e göndermek Trump'ın planı'",
-      "url": "https://www.sozcu.com.tr/ozgur-ozel-konusuyor-p368710",
-      "tarih": "2026-10-13T09:54:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95488,6 +95488,20 @@
       "ozet": "İSKİ açıkladı: 10 Eylül İstanbul baraj doluluk oranı yüzde kaç? - Son Dakika Türkiye Haberleri Cumhuriyet",
       "lat": 41.0527,
       "lng": 28.9015,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-cf477518dc6a",
+      "baslik": "İSKİ açıkladı: 24 Mayıs İstanbul baraj doluluk oranı yüzde kaç? - Cumhuriyet",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "05.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMU1GbWNocE9aUTVkVXl0bGxUWVdQM2tqaXo4dUdEaWg1bWVsaDR4RUhYckFiQ21DRVBvSHBMeFpBOXhQT3hTNXVPSjctdEo0R2s3SWhHN25yNmFmVVJpMERKWlJHTUdaQVFhcTJIa3NvUTEtS3F4TnRELXJMalFibHFVeVpOaTA0OU9iSEVMZVFIQ3l5UVlkY21VWURnNWxXNWVaTUR3MXN6Tk0?oc=5",
+      "ozet": "İSKİ açıkladı: 24 Mayıs İstanbul baraj doluluk oranı yüzde kaç? Cumhuriyet",
+      "lat": 41.1225,
+      "lng": 28.9069,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
