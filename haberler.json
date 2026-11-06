@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-06T10:12:35.929109+00:00",
+    "guncelleme": "2026-11-06T18:43:53.898338+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6680,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "cafe80d8f4ae",
+      "baslik": "Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekler’",
+      "ozet": "Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekler’",
+      "url": "https://www.sozcu.com.tr/fenerbahce-den-otobus-saldirisi-aciklamasi-hesap-verecekler-p376771",
+      "tarih": "2026-11-06T17:40:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bfc52374d887",
+      "baslik": "İsrail Güçleri ve Yerleşimcilerden Batı Şeria’da 760 Çevre İhlali - سانا",
+      "ozet": "İsrail Güçleri ve Yerleşimcilerden Batı Şeria’da 760 Çevre İhlali سانا",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56dFJlWFV5YWFLMU5PczdSLVR5OEQwMzZPRzBxem1CMjZUQXRUMk8xU3kxam5rX0ZnNEhtTko2dl9aR1hReEp3OWo4MTN2S1FD?oc=5",
+      "tarih": "2026-11-06T12:56:31+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "17770b42f67f",
+      "baslik": "Özel’den COP31 Mesajı: “Kendi Doğasıyla ve Vatandaşıyla Çatışan Yönetim Dünyaya Güven Veremez”",
+      "ozet": "COP31 öncesinde bir makale kaleme alan Özgür Özel, fosil yakıtlardan çıkış için 2030 ve 2035 ara hedeflerinin belirlenmesini önerirken, Türkiye’nin 2030’a kadar orman kaybını durdurma ve tersine çevirme sözü verdiğini hatırlattı ve COP31, bu sözün nasıl tutulacağını göstermek içi",
+      "url": "https://www.iklimhaber.org/ozelden-cop31-mesaji-kendi-dogasiyla-ve-vatandasiyla-catisan-yonetim-dunyaya-guven-veremez/",
+      "tarih": "2026-11-06T11:37:07+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "39363b2a1b49",
+      "baslik": "Fosil Yakıtlardan Çıkış ve Kısa Ömürlü İklim Kirleticileriyle Mücadele Küresel Isınmayı Durdurabilir",
+      "ozet": "Fosil yakıtların hızla terk edilmesi ve metan emisyonlarının azaltılması küresel ısınmayı ciddi ölçüde yavaşlatabilir. Atılacak ilave adımlarla bu yüzyıl içinde sıcaklık artışı yeniden 1,5 derecenin oldukça altına çekilebilir. Climate Analytics tarafından COP31 öncesinde yayımlan",
+      "url": "https://www.iklimhaber.org/fosil-yakitlardan-cikis-ve-kisa-omurlu-iklim-kirleticileriyle-mucadele-kuresel-isinmayi-durdurabilir/",
+      "tarih": "2026-11-06T11:20:43+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c4ad0afa7fc0",
+      "baslik": "COP31 Başkanı Türkiye’nin Milli Enerji Planı Fosil Yakıtlara Bağımlılığı Artıracak",
+      "ozet": "Türkiye fosil yakıtlara yatırım yapmayı sürdürecek Milli Enerji Planı’nı açıkladı. Planda nükleer enerjinin payı da artırılıyor. İklim Ağı plana dair yaptığı açıklamada, “COP31 Başkanlığı ve ev sahipliği yapacak Türkiye’nin bir yandan iklim liderliği iddiasında bulunurken diğer y",
+      "url": "https://www.iklimhaber.org/cop31-baskani-turkiyenin-milli-enerji-plani-fosil-yakitlara-bagimliligi-artiracak/",
+      "tarih": "2026-11-06T10:53:48+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "972adb63eaf7",
       "baslik": "COP31 Sürprizlere Gebe",
@@ -1959,56 +2009,6 @@
       "tarih": "2026-10-15T07:03:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b77432eb4d75",
-      "baslik": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
-      "ozet": "İstanbul'da baraj doluluk oranı fırladı: Yüzde 100'e çıkan baraj var",
-      "url": "https://www.sozcu.com.tr/istanbul-da-baraj-doluluk-orani-firladi-yuzde-100-e-cikan-baraj-var-p369337",
-      "tarih": "2026-10-15T07:02:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1da3fd0dc942",
-      "baslik": "17 yıldır Trabzon'dan çıkmayan kamyonete İstanbul'dan geçiş ihlali cezası geldi - Hürriyet",
-      "ozet": "17 yıldır Trabzon'dan çıkmayan kamyonete İstanbul'dan geçiş ihlali cezası geldi Hürriyet",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMk5GcFBOZUVobzQtaEppTDE0SFd6aS1FdTRRcDVnaWM1VmNqUjJubUcyUS1GcHBPQnRzZ1lnWUNSOGtILTVVR1Vwb0d3WHMxVDF1TlBJSGJ2T1ZaZUxuOWtaSGxBUnhXTDhaZDRkQzMzVnprVElFcTgxeWI5WHo1bFBDTlUzYlZIRC1aVThxYUVWZm9XT2puTnk0NkdHRXVWVzk3MVBKTHlscFZXRXpJZ1VpcGdTcDNUdXVTaTln?oc=5",
-      "tarih": "2026-10-15T07:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "713c3d80868e",
-      "baslik": "ABD'de enflasyon yükseldi: Piyasada satışlar hızlandı",
-      "ozet": "ABD'de enflasyon yükseldi: Piyasada satışlar hızlandı",
-      "url": "https://www.sozcu.com.tr/ab-de-enflasyon-yukseldi-piyasada-satislar-hizlandi-p369328",
-      "tarih": "2026-10-15T06:30:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "41b231f541ad",
-      "baslik": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
-      "ozet": "İstanbul’da vatandaşlar mahsur kaldı: Sel sularından kepçeyle kurtarıldılar",
-      "url": "https://www.sozcu.com.tr/istanbul-da-vatandaslar-mahsur-kaldi-sel-sularindan-kepceyle-kurtarildilar-p369213",
-      "tarih": "2026-10-14T18:43:21+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fd11a6010bba",
-      "baslik": "Sel suları araçları sürükledi, vatandaşlar böyle canını kurtardı",
-      "ozet": "Sel suları araçları sürükledi, vatandaşlar böyle canını kurtardı",
-      "url": "https://www.sozcu.com.tr/sel-sulari-araclari-surukledi-vatandaslar-boyle-canini-kurtardi-p369207",
-      "tarih": "2026-10-14T17:50:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
