@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-11-05T19:17:31.886461+00:00",
+    "guncelleme": "2026-11-06T10:12:35.929109+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6679,
+    "harita_kayit_sayisi": 6680,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "972adb63eaf7",
+      "baslik": "COP31 Sürprizlere Gebe",
+      "ozet": "COP31’in tamamen siyasi bir COP olduğunu aktaran Dr. Şahin, “Buradan çok iyi bir sonuç çıkarsa, bu sadece iklim müzakerelerini değil, Trump’ın yıkmaya çalıştığı uluslararası düzeni de kurtarabilir” dedi. 9 Kasım’da Antalya’da başlayacak COP31 İklim Zirvesi öncesinde İklim Haber v",
+      "url": "https://www.iklimhaber.org/cop31-surprizlere-gebe/",
+      "tarih": "2026-11-06T09:57:04+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e304a67a8a7f",
+      "baslik": "AKP'de Uhud Savaşı krizi büyüyor: Erdoğan'ın gazeteci kuzeninden sert tepki",
+      "ozet": "AKP'de Uhud Savaşı krizi büyüyor: Erdoğan'ın gazeteci kuzeninden sert tepki",
+      "url": "https://www.sozcu.com.tr/akp-de-uhud-savasi-krizi-buyuyor-erdogan-in-gazeteci-kuzeninden-sert-tepki-p376620",
+      "tarih": "2026-11-06T08:47:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "db6aca83fb45",
+      "baslik": "Sel Baskınları En Yaygın İklim Tehlikesi Olmayı Sürdürüyor",
+      "ozet": "Kurumların giderek artan iklim risklerinden ötürü yaşadığı etkileri ve bu risklere yönelik yaklaşımlarını ortaya koyan yeni bir araştırmaya göre, katılımcıların %43’ü son üç yılda aşırı hava olayları nedeniyle kayıp ve/veya operasyonel aksaklık yaşadı. Katılımcıların %60’ı birden",
+      "url": "https://www.iklimhaber.org/sel-baskinlari-en-yaygin-iklim-tehlikesi-olmayi-surduruyor/",
+      "tarih": "2026-11-06T08:01:39+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8dfe219f4f72",
       "baslik": "G7 liderleri iklim liderliğinde sınıfta kaldı",
@@ -79,6 +109,16 @@
       "tarih": "2026-11-05T09:44:48+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4d8db8a8d45c",
+      "baslik": "Manavgat’ta kırmızı ışık ihlali kaza yaptırdı: 1 yaralı - dikGAZETE.com",
+      "ozet": "Manavgat’ta kırmızı ışık ihlali kaza yaptırdı: 1 yaralı dikGAZETE.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjdBMXlBUlJROUJoQlpiTXRHX1ByV25abVFaM0Z5WGd1WHJhbk5qVjg1QVd6QzJCREs3cE13cjNnMndFYm5Kb3ptYTN1VXFhZEl3X3VqT3g3bTVtaWgzSGZlQlVkUDdZQVVXdGV0VjM1eC1iU3ZBWkpGLUVHZ3czS3U3TEVKRE92SFFkT1hyM2RWY1Y5NGJ3VWJOQ2pMOVVj?oc=5",
+      "tarih": "2026-11-05T09:39:18+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1969,46 +2009,6 @@
       "tarih": "2026-10-14T17:50:01+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dfaf3b7f256f",
-      "baslik": "Denizin dibindeki gemi 82 yıldır tehlike saçıyor: İçinde 1.400 ton patlayıcı var",
-      "ozet": "Denizin dibindeki gemi 82 yıldır tehlike saçıyor: İçinde 1.400 ton patlayıcı var",
-      "url": "https://www.sozcu.com.tr/denizin-dibindeki-gemi-82-yildir-tehlike-saciyor-icinde-1-400-ton-patlayici-var-p369206",
-      "tarih": "2026-10-14T17:28:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "085159e8c9f8",
-      "baslik": "Azerbaycan'daki toplantıya İsrail Cumhurbaşkanı katıldı, Erdoğan Türkiye'de kaldı",
-      "ozet": "Azerbaycan'daki toplantıya İsrail Cumhurbaşkanı katıldı, Erdoğan Türkiye'de kaldı",
-      "url": "https://www.sozcu.com.tr/israil-cumhurbaskani-herzog-azerbaycan-a-indi-p369141",
-      "tarih": "2026-10-14T13:34:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3291c2496a1c",
-      "baslik": "Kanada ve ABD İklim Politikalarını Teker Teker Buduyor",
-      "ozet": "Kanada ve ABD’yi mercek altına alan yeni bir analiz, her iki ülkenin de iklim politikalarının oldukça yetersiz bir hal aldığını ortaya koyuyor. Analiz ABD’nin iklim performansını “Kritik Derecede Yetersiz”, Kanada’nınki ise “Son Derece Yetersiz” olarak değerlendiriyor. Kanada ve ",
-      "url": "https://www.iklimhaber.org/kanada-ve-abd-iklim-politikalarini-teker-teker-buduyor/",
-      "tarih": "2026-10-14T10:58:11+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "46b64ca77ecb",
-      "baslik": "Trakya'da TPAO'nun petrol ve doğal gaz projesine tepki: Acele kamulaştırma kararı kamu yararı taşımıyor - dokuz8HABER",
-      "ozet": "Trakya'da TPAO'nun petrol ve doğal gaz projesine tepki: Acele kamulaştırma kararı kamu yararı taşımıyor dokuz8HABER",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRWpoZDRRdkVoQldkWDZzak1rV0JIUnlmR1RaYWc1ZGdFUGY1MTZYeWRoZTVzRmd4dVp1Um5iNW9XRFNnczY2clNLaGY3RHozUUFvWlM1bVNadXdYV2UyOTN1WTFLc0llamNhUjZDUkZyZkM4a1FsNzIwNlF0b1FJbzdEOFRRX05nVkhpR0hucEYzQ0c3TDMxM1ZSQUJHeW82clhjMVJMU3FEZENDSWFfOG1hS2VxTF9fUWtmdUdrWW5ya2k2elNzQtIByAFBVV95cUxQRWpoZDRRdkVoQldkWDZzak1rV0JIUnlmR1RaYWc1ZGdFUGY1MTZYeWRoZTVzRmd4dVp1Um5iNW9XRFNnczY2clNLaGY3RHozUUFvWlM1bVNadXdYV2UyOTN1WTFLc0llamNhUjZDUkZyZkM4a1FsNzIwNlF0b1FJbzdEOFRRX05nVkhpR0hucEYzQ0c3TDMxM1ZSQUJHeW82clhjMVJMU3FEZENDSWFfOG1hS2VxTF9fUWtmdUdrWW5ya2k2elNzQg?oc=5",
-      "tarih": "2026-10-14T10:39:18+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     }
   ],
@@ -95516,6 +95516,20 @@
       "ozet": "Türkiye'de Rize'den büyük bir alan ormansızlaştı DW.com",
       "lat": 41.1327,
       "lng": 40.4822,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-972adb63eaf7",
+      "baslik": "COP31 Sürprizlere Gebe",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "06.11.2026",
+      "url": "https://www.iklimhaber.org/cop31-surprizlere-gebe/",
+      "ozet": "COP31’in tamamen siyasi bir COP olduğunu aktaran Dr. Şahin, “Buradan çok iyi bir sonuç çıkarsa, bu sadece iklim müzakerelerini değil, Trump’ın yıkmaya çalıştığı uluslararası düzeni de kurtarabilir” dedi. 9 Kasım’da Antalya’da başlayacak COP31 İklim Zirvesi öncesinde İklim Haber v",
+      "lat": 36.7811,
+      "lng": 30.6072,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
