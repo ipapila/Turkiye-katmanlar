@@ -121471,5 +121471,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31-surprizlere-gebe/"
+  },
+  {
+    "id": "tarayici-146c7d1db6d2",
+    "tip": "Ekolojik İhlal",
+    "ad": "Nermin Yıldırım Kara: Hatay’da ÇED’siz 120 Maden Faaliyete Başladı! - Ekogündem Gazetesi",
+    "il": "Hatay",
+    "ilce": "",
+    "aciklama": "Nermin Yıldırım Kara: Hatay’da ÇED’siz 120 Maden Faaliyete Başladı! Ekogündem Gazetesi",
+    "koordinatlar": {
+      "lat": 36.1539,
+      "lng": 36.1741
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "07.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzZzZE9TdkFfTmkwaGpuM21oQXBGVnZCUlEtM0Vyb24xWm1fUWJUeHp6S3RxbnlpaE9VSDlNcVhjZF84Y1ZiRnFNRHNCUnd3dmJBcmMyRU1ud1poWDRya0JiRlM1OUFlbmZrNnRrNEJoV3h5TmFVeE9EZVJ0Wi16aGcybXEwSHlnd05jeS0xelVRcHJpakhZQkptUHB2QQ?oc=5"
   }
 ]

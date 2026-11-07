@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-06T18:43:53.898338+00:00",
+    "guncelleme": "2026-11-07T09:29:02.246327+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6680,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6681,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "9da0f9fa7dec",
+      "baslik": "Biçerdöver borcu yüzünden katliam yapmış: Öldürdüğü 4 kişiyi tanımıyor bile...",
+      "ozet": "Biçerdöver borcu yüzünden katliam yapmış: Öldürdüğü 4 kişiyi tanımıyor bile...",
+      "url": "https://www.sozcu.com.tr/bicerdover-borcu-yuzunden-katliam-yapmis-oldurdugu-4-kisiyi-tanimiyor-bile-p376886",
+      "tarih": "2026-11-07T08:14:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2529250d7815",
+      "baslik": "Avrupa resmen kapılarını açtı: Bu köye taşınana bedava ev ve para verecekler",
+      "ozet": "Avrupa resmen kapılarını açtı: Bu köye taşınana bedava ev ve para verecekler",
+      "url": "https://www.sozcu.com.tr/avrupa-resmen-kapilarini-acti-bu-koye-tasinana-bedava-ev-ve-para-verecekler-p376880",
+      "tarih": "2026-11-07T08:01:33+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e6f96f63c080",
+      "baslik": "Erdoğan imzaladı: Tartışmalı isim görevden alındı",
+      "ozet": "Erdoğan imzaladı: Tartışmalı isim görevden alındı",
+      "url": "https://www.sozcu.com.tr/erdogan-imzaladi-tartismali-isim-gorevden-alindi-p376865",
+      "tarih": "2026-11-07T07:03:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "cafe80d8f4ae",
       "baslik": "Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekler’",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-10-15T07:16:41+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "83660cc50759",
-      "baslik": "Türkiye’nin “Sağlık ve İklim” Karnesi Alarm Veriyor",
-      "ozet": "Küresel İklim ve Sağlık İttifakı’nın (GCHA) yayımladığı raporda, Türkiye ulusal iklim planlarına sağlığı dahil etme kriterinde 14 puanla, 132 ülke arasında 47. sırada yer aldı. Analiz özellikle yüksek emisyonlara sahip ülkelerin karnesinin zayıf olduğunu ortaya koyuyor. İklim kri",
-      "url": "https://www.iklimhaber.org/turkiyenin-saglik-ve-iklim-karnesi-alarm-veriyor/",
-      "tarih": "2026-10-15T07:11:22+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "71fccaa6e6f3",
-      "baslik": "Borsa güne düşüşle başladı - 15 Ekim 2026",
-      "ozet": "Borsa güne düşüşle başladı - 15 Ekim 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-15-ekim-2026-p369347",
-      "tarih": "2026-10-15T07:06:42+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "85526a293ad7",
-      "baslik": "Trabzon dışına hiç çıkarmadığı kamyonetine İstanbul'da geçiş ihlali cezası geldi - DHA | Demirören Haber Ajansı",
-      "ozet": "Trabzon dışına hiç çıkarmadığı kamyonetine İstanbul'da geçiş ihlali cezası geldi DHA | Demirören Haber Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEZSNF9iNVZadzVqS09GUmd1ZlVPblNVYTRvUHhpalNKLXdJQkVFNk1GVjJtTnM3MGx1bUY5bEtMSFJuZDlaeEZpNk54Z0NKcnJfZXNXdUR6eElpQmc5VmFjTzFpMTJ6aldfY0w5UEZUdFRmZnlYZ1U4Ykhack1ZdFctZUtwV0lIeDE3ZGdzYjFOaGJCYUpPOWFfbU9nLXhKNnF4SE15WXc1emxGQ2ZEN3A1eHhlaG9sX0ExdkpLSdIBwwFBVV95cUxORDc1eDQtc1pMTHVqZDEzcU4wMU12VFc4R0JLYkRSaFBsQ0Y1ZC1wcFd0QTFfeEVGeVBxaE9mNnF2ZW56SlBMbW93dnNhdnppaUN5X2FkaVJiYXRZTFBvOUd2OEFqa241MzVydUJtbHRHcUo2TXZ0OThhYmpFdnVYSG5GVnpQY2NaSVIybXBpcVlqbXdPeV9Rb05ZUXdHN3drcFN0cEYwY2w2V05wU1dHZ0NhTW9hWmc4NDVUb2tXdzNmNms?oc=5",
-      "tarih": "2026-10-15T07:03:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
@@ -95530,6 +95530,20 @@
       "ozet": "COP31’in tamamen siyasi bir COP olduğunu aktaran Dr. Şahin, “Buradan çok iyi bir sonuç çıkarsa, bu sadece iklim müzakerelerini değil, Trump’ın yıkmaya çalıştığı uluslararası düzeni de kurtarabilir” dedi. 9 Kasım’da Antalya’da başlayacak COP31 İklim Zirvesi öncesinde İklim Haber v",
       "lat": 36.7811,
       "lng": 30.6072,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-146c7d1db6d2",
+      "baslik": "Nermin Yıldırım Kara: Hatay’da ÇED’siz 120 Maden Faaliyete Başladı! - Ekogündem Gazetesi",
+      "konum": "Hatay",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "07.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzZzZE9TdkFfTmkwaGpuM21oQXBGVnZCUlEtM0Vyb24xWm1fUWJUeHp6S3RxbnlpaE9VSDlNcVhjZF84Y1ZiRnFNRHNCUnd3dmJBcmMyRU1ud1poWDRya0JiRlM1OUFlbmZrNnRrNEJoV3h5TmFVeE9EZVJ0Wi16aGcybXEwSHlnd05jeS0xelVRcHJpakhZQkptUHB2QQ?oc=5",
+      "ozet": "Nermin Yıldırım Kara: Hatay’da ÇED’siz 120 Maden Faaliyete Başladı! Ekogündem Gazetesi",
+      "lat": 36.1539,
+      "lng": 36.1741,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
