@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-07T17:14:24.809555+00:00",
+    "guncelleme": "2026-11-07T21:16:11.571335+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6681,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "81484d8e62e7",
+      "baslik": "Son dakika... Fon soruşturmasında Neslihan Mumcu için tedbir talebi",
+      "ozet": "Son dakika... Fon soruşturmasında Neslihan Mumcu için tedbir talebi",
+      "url": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-neslihan-mumcu-icin-tedbir-talebi-p377013",
+      "tarih": "2026-11-07T21:01:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "441cfbb3a032",
+      "baslik": "Manchester City'ye neler oluyor? Üst üste 3. mağlubiyet",
+      "ozet": "Manchester City'ye neler oluyor? Üst üste 3. mağlubiyet",
+      "url": "https://www.sozcu.com.tr/manchester-cityye-neler-oluyor-ust-uste-3-maglubiyet-p377021",
+      "tarih": "2026-11-07T20:39:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7d5394dae855",
+      "baslik": "Erdoğan, Azerbaycan kararını verdi",
+      "ozet": "Erdoğan, Azerbaycan kararını verdi",
+      "url": "https://www.sozcu.com.tr/erdogan-azerbaycan-kararini-verdi-p377008",
+      "tarih": "2026-11-07T18:34:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f5fb146d45ac",
       "baslik": "Dervişoğlu AKP'nin kalesinde çok sert konuştu: \"Kelle değil hesap istiyoruz\"",
@@ -1977,36 +2007,6 @@
       "ozet": "COP31’de iklim finansmanı, fosil yakıtlardan çıkış yol haritası ile beraber en sancılı konuların başında geliyor. Marmara Üniversitesi Uluslararası İlişkiler Bölümü Öğretim Üyesi Prof. Dr. Semra Cerit Mazlum, iklim finansmanının gelişmekte olan ülkelerce müzakere masasında kaldır",
       "url": "https://www.iklimhaber.org/iklim-finansmanindan-fosil-yakitlardan-cikisa-cop31-neler-vadediyor/",
       "tarih": "2026-10-15T12:12:21+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "001ebc824bdb",
-      "baslik": "Balıkçılar denize 15 ton zeytinyağı dökmeye başladılar",
-      "ozet": "Balıkçılar denize 15 ton zeytinyağı dökmeye başladılar",
-      "url": "https://www.sozcu.com.tr/balikcilar-denize-15-ton-zeytinyagi-dokmeye-basladilar-p369493",
-      "tarih": "2026-10-15T12:03:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5487d446097e",
-      "baslik": "Bugünden itibaren 3 burcun hayatı sil baştan değişecek: Plüton resti çekti, devir değişiyor",
-      "ozet": "Bugünden itibaren 3 burcun hayatı sil baştan değişecek: Plüton resti çekti, devir değişiyor",
-      "url": "https://www.sozcu.com.tr/bugunden-itibaren-3-burcun-hayati-sil-bastan-degisecek-pluton-resti-cekti-devir-degisiyor-p369485",
-      "tarih": "2026-10-15T11:55:10+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1761723d666a",
-      "baslik": "İstanbul’u Sel Vurdu: İki Can Kaybı",
-      "ozet": "İstanbul’da etkili olan kuvvetli yağış kentte hayatı olumsuz etkiledi. Birçok yerde yollar göle döndü, araçlar suya gömüldü, ev ve iş yerlerini su bastı. Sağanak nedeniyle iki can kaybının yaşandığı kentte, eğitime bir gün ara verildi. Kentin bazı noktalarında metrekareye düşen y",
-      "url": "https://www.iklimhaber.org/istanbulu-sel-vurdu-iki-can-kaybi/",
-      "tarih": "2026-10-15T07:22:12+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
