@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-07T09:29:02.246327+00:00",
+    "guncelleme": "2026-11-07T17:14:24.809555+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6681,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "f5fb146d45ac",
+      "baslik": "Dervişoğlu AKP'nin kalesinde çok sert konuştu: \"Kelle değil hesap istiyoruz\"",
+      "ozet": "Dervişoğlu AKP'nin kalesinde çok sert konuştu: \"Kelle değil hesap istiyoruz\"",
+      "url": "https://www.sozcu.com.tr/dervisoglu-akp-nin-kalesinde-cok-sert-konustu-kelle-degil-hesap-istiyoruz-p376975",
+      "tarih": "2026-11-07T13:59:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "9da0f9fa7dec",
       "baslik": "Biçerdöver borcu yüzünden katliam yapmış: Öldürdüğü 4 kişiyi tanımıyor bile...",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-10-15T07:22:12+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "56c56d7d2c70",
-      "baslik": "Sanayide düşüş, hizmette yükseliş: Türkiye'de çalışan sayısı geriledi",
-      "ozet": "Sanayide düşüş, hizmette yükseliş: Türkiye'de çalışan sayısı geriledi",
-      "url": "https://www.sozcu.com.tr/sanayide-dusus-hizmette-yukselis-turkiyede-calisan-sayisi-geriledi-p369352",
-      "tarih": "2026-10-15T07:16:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
