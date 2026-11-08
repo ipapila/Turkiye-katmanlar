@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-08T17:27:11.823611+00:00",
+    "guncelleme": "2026-11-08T21:31:15.475644+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6681,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "c3162f858c1e",
+      "baslik": "188 yıllık mağaza zinciri borç batağında: Dev şirketin yönetimi devredildi",
+      "ozet": "188 yıllık mağaza zinciri borç batağında: Dev şirketin yönetimi devredildi",
+      "url": "https://www.sozcu.com.tr/188-yillik-magaza-zinciri-borc-bataginda-dev-sirketin-yonetimi-devredildi-p379318",
+      "tarih": "2026-11-08T20:06:46+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "811e89a62474",
       "baslik": "Erdoğan'dan Aliyev fotoğrafı ile dikkat çeken Azerbaycan paylaşımı",
@@ -1997,16 +2007,6 @@
       "ozet": "Doğaya ayrılan finansman açığının Erivan’daki COP17 gündeminin ilk sıralarında yer alması bekleniyor. Günümüzde kamu kaynaklarından her yıl ayrılan 2,6 trilyon dolar, toprakları fakirleştiren, su kaynaklarını kirleten ve ekosistemleri tahrip eden uygulamalara aktarılıyor. Ülkeler",
       "url": "https://www.iklimhaber.org/cop17-basliyor-ulkeler-dogayi-koruma-sozlerini-yerine-getirmedi/",
       "tarih": "2026-10-16T11:03:10+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "03e9a02068af",
-      "baslik": "14 Ekim İstanbul Seli: Bir Önceki Yağış Rekorunun %35 Üzerine Çıkılmış Olabilir",
-      "ozet": "14 Ekim’de İstanbul’da dört kişinin hayatını kaybetmesine neden olan şiddetli yağışlar, kentin günlük yağış rekorunu yaklaşık %35 farkla kırmış olabilir. Beykoz’a bir günde, normalde yaklaşık dört Ekim ayı boyunca düşen yağmur yağdı. Balkanlardan gelen soğuk havanın Karadeniz’in ",
-      "url": "https://www.iklimhaber.org/14-ekim-istanbul-seli-bir-onceki-yagis-rekorunun-%35-uzerine-cikilmis-olabilir/",
-      "tarih": "2026-10-16T10:08:40+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
