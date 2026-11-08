@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-07T21:16:11.571335+00:00",
+    "guncelleme": "2026-11-08T09:45:11.875674+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6681,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "79328f5151cf",
+      "baslik": "[COP29] İklim Zirvesi’nin ev sahibi Aliyev: Petrol ve doğal gaz Tanrı’nın armağanı",
+      "ozet": "",
+      "url": "https://yesilgazete.org/cop29-iklim-zirvesinin-ev-sahibi-aliyev-petrol-ve-dogal-gaz-tanrinin-armagani/",
+      "tarih": "2026-11-08T09:44:52.697882+00:00",
+      "kaynak": "Yeşil Gazete",
+      "kategori": "Çevre Medyası",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "6176788a6d18",
+      "baslik": "NATO Şefi: İklim değişikliği, küresel güvenliğe zarar veriyor",
+      "ozet": "",
+      "url": "https://yesilgazete.org/nato-sefi-iklim-degisikligi-kuresel-guvenlige-zarar-veriyor/",
+      "tarih": "2026-11-08T09:44:52.697763+00:00",
+      "kaynak": "Yeşil Gazete",
+      "kategori": "Çevre Medyası",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "00d29882eb5a",
+      "baslik": "COP31 Öncesi Türkiye’ye Çağrı: “Kömür Teşviklerine Değil, Çıkış Takvimine İhtiyaç Var”",
+      "ozet": "COP31’den hemen önce duyurulan Milli Enerji 2040 Planı’nın fosil yakıt kaynaklı sağlık maliyetini hesaba katmadığını aktaran Temiz Hava Hakkı Platformu, enerji planlamasının, sağlığı korumayı ve geliştirmeyi hedeflemesi gerektiğini hatırlattı. Yanı sıra platform Türkiye’nin kömür",
+      "url": "https://www.iklimhaber.org/cop31-oncesi-turkiyeye-cagri-komur-tesviklerine-degil-cikis-takvimine-ihtiyac-var/",
+      "tarih": "2026-11-08T09:00:36+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "09d3bb22c492",
+      "baslik": "İklim Finansmanında Özel Sektörün Rolü-1",
+      "ozet": "İklim diplomasinin en önemli maddelerinden biri yine finansman olacak. Türkiye özel sektörünün iklim finansmanındaki rolü ise yeni regülasyonlarla birlikte payını ve ağırlığını artırmak zorunda kalacak gibi görünüyor. Yazı: Alev KARAKARTAL- Songül KARADENİZ Grafikler ve Tablolar:",
+      "url": "https://www.iklimhaber.org/iklim-finansmaninda-ozel-sektorun-rolu-1/",
+      "tarih": "2026-11-08T08:29:28+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0f43bb742c93",
+      "baslik": "ABD'nin seçim haftasında altın yükselişe geçerken Brent petrol geriledi",
+      "ozet": "ABD'nin seçim haftasında altın yükselişe geçerken Brent petrol geriledi",
+      "url": "https://www.sozcu.com.tr/abd-nin-secim-haftasinda-altin-yukselise-gecerken-brent-petrol-geriledi-p377163",
+      "tarih": "2026-11-08T08:24:10+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5ae4eb7190d1",
+      "baslik": "“COP31’de Fosil Yakıtlardan Çıkış Bekliyoruz”",
+      "ozet": "Bu seneki Uluslararası Hrant Dink Ödülü’nün sahibi olan ve özellikle Kazdağları’ndaki mücadelesiyle tanınan doğa ve yaşam savunucusu Süheyla Doğan, COP31’de Türkiye’den öncelikli beklentilerinin fosil yakıtlardan çıkış olduğunu söylüyor. COP31 için devletle diyalog içinde olmadık",
+      "url": "https://www.iklimhaber.org/cop31de-fosil-yakitlardan-cikis-bekliyoruz/",
+      "tarih": "2026-11-08T08:12:47+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7da384c637f4",
+      "baslik": "38. yaş gününde annesini andı: Oya Aydoğan'ın oğlunun sözleri duygulandırdı",
+      "ozet": "38. yaş gününde annesini andı: Oya Aydoğan'ın oğlunun sözleri duygulandırdı",
+      "url": "https://www.sozcu.com.tr/38-yas-gununde-annesini-andi-oya-aydogan-in-oglunun-sozleri-duygulandirdi-p377128",
+      "tarih": "2026-11-08T07:19:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "81484d8e62e7",
       "baslik": "Son dakika... Fon soruşturmasında Neslihan Mumcu için tedbir talebi",
@@ -1939,76 +2009,6 @@
       "tarih": "2026-10-16T07:41:05+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0f152c7b0f25",
-      "baslik": "Ekoloji Birliği: “Rantın Faturasını Canımızla Ödüyoruz!”",
-      "ozet": "İstanbul’daki sel felaketine dair bir açıklama yayımlayan Ekoloji Birliği kapitalizmin kâr hırsının iklimi değiştirdiğini söylerken, “Sıcaklıkların artması betona boğulan yaşam alanlarımızı daha fazla güvensiz hale getirmekte ve felaketlere neden olmaktadır” dedi. İstanbul’da 14 ",
-      "url": "https://www.iklimhaber.org/ekoloji-birligi-rantin-faturasini-canimizla-oduyoruz/",
-      "tarih": "2026-10-16T07:22:44+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "333b1aaf2e35",
-      "baslik": "Küresel piyasalarda risk iştahı arttı",
-      "ozet": "Küresel piyasalarda risk iştahı arttı",
-      "url": "https://www.sozcu.com.tr/kuresel-piyasalarda-risk-istahi-artti-p369710",
-      "tarih": "2026-10-16T06:25:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fd16597d620a",
-      "baslik": "Piyasalarda cuma dopingi: Altın ve gümüş yükseldi, dolar/TL rekor kırdı",
-      "ozet": "Piyasalarda cuma dopingi: Altın ve gümüş yükseldi, dolar/TL rekor kırdı",
-      "url": "https://www.sozcu.com.tr/piyasalarda-cuma-dopingi-altin-ve-gumus-yukseldi-dolartl-rekor-kirdi-p369684",
-      "tarih": "2026-10-16T05:35:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9f5097265088",
-      "baslik": "Kılıçdaroğlu il başkanlığından aldığı Gürsel Tekin'i koordinatör yaptı",
-      "ozet": "Kılıçdaroğlu il başkanlığından aldığı Gürsel Tekin'i koordinatör yaptı",
-      "url": "https://www.sozcu.com.tr/kilicdaroglu-il-baskanligindan-aldigi-gursel-tekin-i-koordinator-yapti-p369590",
-      "tarih": "2026-10-15T18:06:20+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ca283dd13f91",
-      "baslik": "Mahkemenin verdiği süre dolunca CHP yönetimi Gürsel Tekin'i görevden aldı",
-      "ozet": "Mahkemenin verdiği süre dolunca CHP yönetimi Gürsel Tekin'i görevden aldı",
-      "url": "https://www.sozcu.com.tr/kayyum-gursel-tekin-in-yerine-gelen-isim-belli-oldu-p369562",
-      "tarih": "2026-10-15T15:36:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b62e1d278f1b",
-      "baslik": "Erdoğan'ın danışmanı \"büyük oranda netleşti\" dedi, seçim tarihini açıkladı",
-      "ozet": "Erdoğan'ın danışmanı \"büyük oranda netleşti\" dedi, seçim tarihini açıkladı",
-      "url": "https://www.sozcu.com.tr/erdogan-in-danismani-buyuk-oranda-netlesti-dedi-secim-tarihini-acikladi-p369499",
-      "tarih": "2026-10-15T13:22:09+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8b48d3b96c04",
-      "baslik": "İklim Finansmanından Fosil Yakıtlardan Çıkışa: COP31 Neler Vadediyor?",
-      "ozet": "COP31’de iklim finansmanı, fosil yakıtlardan çıkış yol haritası ile beraber en sancılı konuların başında geliyor. Marmara Üniversitesi Uluslararası İlişkiler Bölümü Öğretim Üyesi Prof. Dr. Semra Cerit Mazlum, iklim finansmanının gelişmekte olan ülkelerce müzakere masasında kaldır",
-      "url": "https://www.iklimhaber.org/iklim-finansmanindan-fosil-yakitlardan-cikisa-cop31-neler-vadediyor/",
-      "tarih": "2026-10-15T12:12:21+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
