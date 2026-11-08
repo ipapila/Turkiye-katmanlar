@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-08T09:45:11.875674+00:00",
+    "guncelleme": "2026-11-08T17:27:11.823611+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6681,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "811e89a62474",
+      "baslik": "Erdoğan'dan Aliyev fotoğrafı ile dikkat çeken Azerbaycan paylaşımı",
+      "ozet": "Erdoğan'dan Aliyev fotoğrafı ile dikkat çeken Azerbaycan paylaşımı",
+      "url": "https://www.sozcu.com.tr/erdogan-dan-aliyev-fotografi-ile-dikkat-ceken-azerbaycan-paylasimi-p377290",
+      "tarih": "2026-11-08T17:03:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9e856e49f91c",
+      "baslik": "Performansı mest etti! Fenerbahçe'de golleri atanlar değil o konuşuluyor",
+      "ozet": "Performansı mest etti! Fenerbahçe'de golleri atanlar değil o konuşuluyor",
+      "url": "https://www.sozcu.com.tr/edersondan-muthis-performans-taraftarlar-golleri-atani-degil-onu-konusuyor-p377269",
+      "tarih": "2026-11-08T15:06:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "79328f5151cf",
       "baslik": "[COP29] İklim Zirvesi’nin ev sahibi Aliyev: Petrol ve doğal gaz Tanrı’nın armağanı",
@@ -37,6 +57,16 @@
       "ozet": "COP31’den hemen önce duyurulan Milli Enerji 2040 Planı’nın fosil yakıt kaynaklı sağlık maliyetini hesaba katmadığını aktaran Temiz Hava Hakkı Platformu, enerji planlamasının, sağlığı korumayı ve geliştirmeyi hedeflemesi gerektiğini hatırlattı. Yanı sıra platform Türkiye’nin kömür",
       "url": "https://www.iklimhaber.org/cop31-oncesi-turkiyeye-cagri-komur-tesviklerine-degil-cikis-takvimine-ihtiyac-var/",
       "tarih": "2026-11-08T09:00:36+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0bc510a21162",
+      "baslik": "COP31: İklim Finansmanında Özel Sektörün Rolü-1",
+      "ozet": "İklim diplomasinin en önemli maddelerinden biri yine finansman olacak. Türkiye özel sektörünün iklim finansmanındaki rolü ise yeni regülasyonlarla birlikte payını ve ağırlığını artırmak zorunda kalacak gibi görünüyor. Yazı: Alev KARAKARTAL- Songül KARADENİZ Grafikler ve Tablolar:",
+      "url": "https://www.iklimhaber.org/cop31-iklim-finansmaninda-ozel-sektorun-rolu-1/",
+      "tarih": "2026-11-08T08:29:28+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -1979,36 +2009,6 @@
       "tarih": "2026-10-16T10:08:40+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fa32d6953b76",
-      "baslik": "AOSIS Baş İklim Müzakerecisi: “COP31’in Başarısı 1,5 Derece Hedefinin Korunmasına Bağlı”",
-      "ozet": "Deniz seviyesinin yükselmesi iklim krizinin yol açtığı yıkıcı etkilerden biri ve küçük ada devletleri, tam da bu nedenden var oluş mücadelesi veriyor. Bu ülkelerin iklim etkileri-kırılganlık ve borç döngüsünden kurtulamadığını belirten Küçük Ada Devletleri İttifakı’nın baş iklim ",
-      "url": "https://www.iklimhaber.org/aosis-bas-iklim-muzakerecisi-cop31in-basarisi-15-derece-hedefinin-korunmasina-bagli/",
-      "tarih": "2026-10-16T08:20:24+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "00c3b9b8f114",
-      "baslik": "Prof. Dr. Kiraz: “COP31’de Sağlık Sistemlerine Dair Somut İklim Hedefleri Şart”",
-      "ozet": "COP31’de sağlık sistemlerinin iklim değişikliğine karşı dayanıklı hale getirilmesinin somut hedeflerle ele alınması gerektiğini belirten Prof. Dr. Kiraz, ülkelerin yalnızca niyet beyanında bulunmasının yeterli olmadığını ifade etti. İklim Haber ve Medyascope işbirliği ile hazırla",
-      "url": "https://www.iklimhaber.org/prof-dr-kiraz-cop31de-saglik-sistemlerine-dair-somut-iklim-hedefleri-sart/",
-      "tarih": "2026-10-16T07:46:06+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f583d2f59ca8",
-      "baslik": "MSCI kararı sonrası borsada sert düşüş",
-      "ozet": "MSCI kararı sonrası borsada sert düşüş",
-      "url": "https://www.sozcu.com.tr/msci-karari-sonrasi-borsada-sert-dusus-p369728",
-      "tarih": "2026-10-16T07:41:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
