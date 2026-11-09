@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-09T10:43:11.355849+00:00",
+    "guncelleme": "2026-11-09T21:48:22.176099+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6684,
-    "haritaya_eklenen_yeni_kayit": 3,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "110fe0e715e5",
+      "baslik": "COP31 Başladı İnkârcılar Ayaklandı",
+      "ozet": "Diğer tüm zirvelerde olduğu gibi COP31 de gezegenimizin karşı karşıya olduğu insan kaynaklı iklim krizine ciddi ve yapıcı çözüm süreçleri oluşturmak ve süregelen çözüm süreçlerinde alınan mesafeyi ölçmek için hayati önemde. Bu çabaların akla ziyan komplo teorileriyle boğulması ya",
+      "url": "https://www.iklimhaber.org/cop31-basladi-inkarcilar-ayaklandi/",
+      "tarih": "2026-11-09T11:14:29+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8355f0f2f5f3",
       "baslik": "Erdoğan'dan yeni 'Azerbaycan' mesajı: 'Fitne odaklarına rağmen...'",
@@ -1997,16 +2007,6 @@
       "ozet": "Bahçede kazı yapan işçiler 510 kiloluk servet buldu",
       "url": "https://www.sozcu.com.tr/bahcede-kazi-yapan-isciler-510-kiloluk-servet-buldu-p370008",
       "tarih": "2026-10-17T07:18:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f5c1e9cbf61a",
-      "baslik": "Borsadaki dev vurgunda yeni gelişme: 9 kişi parasını iade etti",
-      "ozet": "Borsadaki dev vurgunda yeni gelişme: 9 kişi parasını iade etti",
-      "url": "https://www.sozcu.com.tr/borsadaki-dev-vurgunda-yeni-gelisme-9-kisi-parasini-iade-etti-p369979",
-      "tarih": "2026-10-17T05:59:46+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
