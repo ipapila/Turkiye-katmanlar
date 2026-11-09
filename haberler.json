@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-08T21:31:15.475644+00:00",
+    "guncelleme": "2026-11-09T10:43:11.355849+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6681,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6684,
+    "haritaya_eklenen_yeni_kayit": 3,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "8355f0f2f5f3",
+      "baslik": "Erdoğan'dan yeni 'Azerbaycan' mesajı: 'Fitne odaklarına rağmen...'",
+      "ozet": "Erdoğan'dan yeni 'Azerbaycan' mesajı: 'Fitne odaklarına rağmen...'",
+      "url": "https://www.sozcu.com.tr/erdogan-dan-yeni-azerbaycan-mesaji-fitne-odaklarina-ragmen-p379531",
+      "tarih": "2026-11-09T10:36:41+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bf042211268f",
+      "baslik": "Borsa günün ilk yarısında pozitif seyretti -9 Kasım 2026",
+      "ozet": "Borsa günün ilk yarısında pozitif seyretti -9 Kasım 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-pozitif-seyretti-9-kasim-2026-p379532",
+      "tarih": "2026-11-09T10:22:14+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "50ec9a78ce15",
+      "baslik": "Türkiye ve Avustralya’dan STK’lar Fosil Yakıtlardan Küresel Çıkış Çağrısı Yaptı",
+      "ozet": "Türkiye ve Avustralya’dan sivil toplum kuruluşları, bugün COP31 kapsamında bir araya gelerek fosil yakıtlardan küresel ölçekte çıkış için acil çağrıda bulundu. Kuruluşlar, her iki ülkeyi de kendi ülkelerinde somut adımlar atarak iklim liderliği göstermeye davet etti. Antalya",
+      "url": "https://www.iklimhaber.org/turkiye-ve-avustralyadan-stklar-fosil-yakitlardan-kuresel-cikis-cagrisi-yapti/",
+      "tarih": "2026-11-09T09:53:06+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d3ccf0474d0f",
+      "baslik": "ECO: Dünya Yanıyor, Liderler Artık Sorumluluk Almalı!",
+      "ozet": "Climate Action Tracker tarafından yayımlanan ECO bültenleri İklim Haber’de. İşte bugünden beklentiler…  COP31, siyasi boyutu ne kadar vurgulansa az kalacak, dünya açısından son derece zorlu bir dönemde gerçekleşiyor. Soykırım, savaş, çatışma ve yıkım, sorumluların hesap vermemesi",
+      "url": "https://www.iklimhaber.org/eco-dunya-yaniyor-liderler-artik-sorumluluk-almali/",
+      "tarih": "2026-11-09T09:36:20+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8cac74abb2a2",
+      "baslik": "Greenpeace Türkiye: “COP31’de Fosil Yakıtlara Son Vermek için Harekete Geçilmeli”",
+      "ozet": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı bugün (9 Kasım) Antalya’da başladı. BM Çevre Programı’nın (UNEP), küresel ısınma sınırının 1,5°C’yi aşacağının kesinleştiğini doğrulayan sert gerçeklik değerlendirmesinin ardından, COP31’de asıl",
+      "url": "https://www.iklimhaber.org/greenpeace-cop31de-fosil-yakitlara-son-vermek-icin-harekete-gecilmeli/",
+      "tarih": "2026-11-09T07:14:45+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "70c98524cbeb",
+      "baslik": "COP31 Gündeminde Neler Var?",
+      "ozet": "Antalya’da başlayan COP31’in gündemi oldukça yoğun. 190’dan fazla ülkenin yer alacağı zirvede ABD yer almayacak. Dünya insan kaynaklı, benzeri görülmemiş bir küresel ısınmayla karşı karşıyayken, ülkeler iklim müzakerelerinin son turu için önümüzdeki iki hafta boyunca Antalya’da m",
+      "url": "https://www.iklimhaber.org/cop31-gundeminde-neler-var/",
+      "tarih": "2026-11-09T06:30:18+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c3162f858c1e",
       "baslik": "188 yıllık mağaza zinciri borç batağında: Dev şirketin yönetimi devredildi",
@@ -1949,66 +2009,6 @@
       "tarih": "2026-10-17T05:59:46+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bbbabc0bbc78",
-      "baslik": "İstanbul’da sel sonrası poliçe patlaması: Faturayı gören acentelere koştu",
-      "ozet": "İstanbul’da sel sonrası poliçe patlaması: Faturayı gören acentelere koştu",
-      "url": "https://www.sozcu.com.tr/istanbul-da-sel-sonrasi-police-patlamasi-faturayi-goren-acentelere-kostu-p369965",
-      "tarih": "2026-10-17T05:34:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4affff096ada",
-      "baslik": "Sel sularının arasında aniden belirdi: Sürücü neye uğradığını şaşırdı",
-      "ozet": "Sel sularının arasında aniden belirdi: Sürücü neye uğradığını şaşırdı",
-      "url": "https://www.sozcu.com.tr/sel-sularinin-arasinda-aniden-belirdi-surucu-neye-ugradigini-sasirdi-p369894",
-      "tarih": "2026-10-16T16:08:45+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "809818a986dd",
-      "baslik": "Kocaeli'nde selde kaybolan muhtardan acı haber! Cansız bedeni İzmit Körfezi'nde bulundu",
-      "ozet": "Kocaeli'nde selde kaybolan muhtardan acı haber! Cansız bedeni İzmit Körfezi'nde bulundu",
-      "url": "https://www.sozcu.com.tr/sel-sularina-kapilan-muhtar-cansiz-bedeni-bulundu-p369895",
-      "tarih": "2026-10-16T15:55:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d65a52cb84c1",
-      "baslik": "Erdoğan'a methiyeler dizen vatandaşa korumalardan müdahale: Bağırma camideyiz",
-      "ozet": "Erdoğan'a methiyeler dizen vatandaşa korumalardan müdahale: Bağırma camideyiz",
-      "url": "https://www.sozcu.com.tr/erdogana-methiyeler-dizen-vatandasa-korumalardan-mudahale-bagirma-camideyiz-p369893",
-      "tarih": "2026-10-16T14:54:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a33ad1050e95",
-      "baslik": "Sevgilisinin öldürdüğü kocasını gömdükleri bahçede düğün yapmışlar!",
-      "ozet": "Sevgilisinin öldürdüğü kocasını gömdükleri bahçede düğün yapmışlar!",
-      "url": "https://www.sozcu.com.tr/sevgilisinin-oldurdugu-kocasini-gomdukleri-bahcede-dugun-yapmislar-p369868",
-      "tarih": "2026-10-16T13:13:27+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "441043089392",
-      "baslik": "COP17 Başlıyor: Ülkeler Doğayı Koruma Sözlerini Yerine Getirmedi",
-      "ozet": "Doğaya ayrılan finansman açığının Erivan’daki COP17 gündeminin ilk sıralarında yer alması bekleniyor. Günümüzde kamu kaynaklarından her yıl ayrılan 2,6 trilyon dolar, toprakları fakirleştiren, su kaynaklarını kirleten ve ekosistemleri tahrip eden uygulamalara aktarılıyor. Ülkeler",
-      "url": "https://www.iklimhaber.org/cop17-basliyor-ulkeler-dogayi-koruma-sozlerini-yerine-getirmedi/",
-      "tarih": "2026-10-16T11:03:10+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95544,6 +95544,48 @@
       "ozet": "Nermin Yıldırım Kara: Hatay’da ÇED’siz 120 Maden Faaliyete Başladı! Ekogündem Gazetesi",
       "lat": 36.1539,
       "lng": 36.1741,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-50ec9a78ce15",
+      "baslik": "Türkiye ve Avustralya’dan STK’lar Fosil Yakıtlardan Küresel Çıkış Çağrısı Yaptı",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.11.2026",
+      "url": "https://www.iklimhaber.org/turkiye-ve-avustralyadan-stklar-fosil-yakitlardan-kuresel-cikis-cagrisi-yapti/",
+      "ozet": "Türkiye ve Avustralya’dan sivil toplum kuruluşları, bugün COP31 kapsamında bir araya gelerek fosil yakıtlardan küresel ölçekte çıkış için acil çağrıda bulundu. Kuruluşlar, her iki ülkeyi de kendi ülkelerinde somut adımlar atarak iklim liderliği göstermeye davet etti. Antalya",
+      "lat": 36.7853,
+      "lng": 30.7323,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-8cac74abb2a2",
+      "baslik": "Greenpeace Türkiye: “COP31’de Fosil Yakıtlara Son Vermek için Harekete Geçilmeli”",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.11.2026",
+      "url": "https://www.iklimhaber.org/greenpeace-cop31de-fosil-yakitlara-son-vermek-icin-harekete-gecilmeli/",
+      "ozet": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı bugün (9 Kasım) Antalya’da başladı. BM Çevre Programı’nın (UNEP), küresel ısınma sınırının 1,5°C’yi aşacağının kesinleştiğini doğrulayan sert gerçeklik değerlendirmesinin ardından, COP31’de asıl",
+      "lat": 36.9907,
+      "lng": 30.7187,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-70c98524cbeb",
+      "baslik": "COP31 Gündeminde Neler Var?",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "09.11.2026",
+      "url": "https://www.iklimhaber.org/cop31-gundeminde-neler-var/",
+      "ozet": "Antalya’da başlayan COP31’in gündemi oldukça yoğun. 190’dan fazla ülkenin yer alacağı zirvede ABD yer almayacak. Dünya insan kaynaklı, benzeri görülmemiş bir küresel ısınmayla karşı karşıyayken, ülkeler iklim müzakerelerinin son turu için önümüzdeki iki hafta boyunca Antalya’da m",
+      "lat": 36.8453,
+      "lng": 30.6318,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

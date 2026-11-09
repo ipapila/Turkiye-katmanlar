@@ -121490,5 +121490,62 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzZzZE9TdkFfTmkwaGpuM21oQXBGVnZCUlEtM0Vyb24xWm1fUWJUeHp6S3RxbnlpaE9VSDlNcVhjZF84Y1ZiRnFNRHNCUnd3dmJBcmMyRU1ud1poWDRya0JiRlM1OUFlbmZrNnRrNEJoV3h5TmFVeE9EZVJ0Wi16aGcybXEwSHlnd05jeS0xelVRcHJpakhZQkptUHB2QQ?oc=5"
+  },
+  {
+    "id": "tarayici-50ec9a78ce15",
+    "tip": "Ekolojik İhlal",
+    "ad": "Türkiye ve Avustralya’dan STK’lar Fosil Yakıtlardan Küresel Çıkış Çağrısı Yaptı",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Türkiye ve Avustralya’dan sivil toplum kuruluşları, bugün COP31 kapsamında bir araya gelerek fosil yakıtlardan küresel ölçekte çıkış için acil çağrıda bulundu. Kuruluşlar, her iki ülkeyi de kendi ülkelerinde somut adımlar atarak iklim liderliği göstermeye davet etti. Antalya",
+    "koordinatlar": {
+      "lat": 36.7853,
+      "lng": 30.7323
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/turkiye-ve-avustralyadan-stklar-fosil-yakitlardan-kuresel-cikis-cagrisi-yapti/"
+  },
+  {
+    "id": "tarayici-8cac74abb2a2",
+    "tip": "Ekolojik İhlal",
+    "ad": "Greenpeace Türkiye: “COP31’de Fosil Yakıtlara Son Vermek için Harekete Geçilmeli”",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı bugün (9 Kasım) Antalya’da başladı. BM Çevre Programı’nın (UNEP), küresel ısınma sınırının 1,5°C’yi aşacağının kesinleştiğini doğrulayan sert gerçeklik değerlendirmesinin ardından, COP31’de asıl",
+    "koordinatlar": {
+      "lat": 36.9907,
+      "lng": 30.7187
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/greenpeace-cop31de-fosil-yakitlara-son-vermek-icin-harekete-gecilmeli/"
+  },
+  {
+    "id": "tarayici-70c98524cbeb",
+    "tip": "Ekolojik İhlal",
+    "ad": "COP31 Gündeminde Neler Var?",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya’da başlayan COP31’in gündemi oldukça yoğun. 190’dan fazla ülkenin yer alacağı zirvede ABD yer almayacak. Dünya insan kaynaklı, benzeri görülmemiş bir küresel ısınmayla karşı karşıyayken, ülkeler iklim müzakerelerinin son turu için önümüzdeki iki hafta boyunca Antalya’da m",
+    "koordinatlar": {
+      "lat": 36.8453,
+      "lng": 30.6318
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "09.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31-gundeminde-neler-var/"
   }
 ]
