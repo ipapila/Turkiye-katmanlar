@@ -121566,5 +121566,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-19-cop31i-kureselci-gucler-mi-duzenliyor/"
+  },
+  {
+    "id": "tarayici-8fbfa5d55f5f",
+    "tip": "Ekolojik İhlal",
+    "ad": "BM Genel Sekreteri Guterres: “COP31 Başkanlığı Fosil Yakıtlardan Uzaklaşma Planı için Çalışmalı”",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Brezilya’nın COP30 Başkanlığı Antalya’da fosil yakıtlardan uzaklaşma yol haritasını sundu. BM Genel Sekreteri Guterres, Türkiye ve Avustralya’ya yol haritası geliştirme çalışmalarını sürdürme çağrısında bulundu. Brezilya’da geçen yıl düzenlenen COP30’un başkanı kıdemli Brezilyalı",
+    "koordinatlar": {
+      "lat": 37.0087,
+      "lng": 30.6985
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "10.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/bm-genel-sekreteri-guterres-cop31-baskanligi-fosil-yakitlardan-uzaklasma-plani-icin-calismali/"
+  },
+  {
+    "id": "tarayici-e1619a7fe983",
+    "tip": "Ekolojik İhlal",
+    "ad": "Aliağa’daki Demir Çelik Fabrikasında Patlama: 17 Can Kaybı, 13 Yaralı",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir’in Aliağa ilçesindeki HABAŞ Demir Çelik Fabrikası’nda 9 Kasım’da meydana gelen patlama ve ardından çıkan yangında, en az 17 işçi hayatını kaybetti, biri ağır 13 işçi yaralandı. İzmir’in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasında, 9 Kasım’da meydana gelen patlamanın a",
+    "koordinatlar": {
+      "lat": 38.4094,
+      "lng": 27.1726
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "10.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/aliagadaki-demir-celik-fabrikasinda-patlama-17-can-kaybi-13-yarali/"
   }
 ]

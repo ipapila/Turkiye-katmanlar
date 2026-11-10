@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-10T10:39:16.890303+00:00",
+    "guncelleme": "2026-11-10T19:08:12.296385+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6685,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6687,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "0020cb43dceb",
+      "baslik": "Süper Lig'de teknik direktör kıyımı! 11 haftada 8 takım hoca değiştirdi",
+      "ozet": "Süper Lig'de teknik direktör kıyımı! 11 haftada 8 takım hoca değiştirdi",
+      "url": "https://www.sozcu.com.tr/super-lig-de-teknik-direktor-kiyimi-11-haftada-8-takim-hoca-degistirdi-p380042",
+      "tarih": "2026-11-10T18:29:38+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "698f71b437d7",
+      "baslik": "Erdoğan'ın ziyareti sonrası Aliyev'den Türkiye adımı",
+      "ozet": "Erdoğan'ın ziyareti sonrası Aliyev'den Türkiye adımı",
+      "url": "https://www.sozcu.com.tr/aliyev-cop31-icin-antalyaya-geldi-p380018",
+      "tarih": "2026-11-10T16:07:47+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3c54555dec29",
+      "baslik": "Petrol Sahası “Müjdeleyen” COP31 Başkanı Türkiye’nin İklim Liderliği Ne Olacak?",
+      "ozet": "Türkiye bir yandan COP31’e ev sahipliği yapıyor ve iklim liderliği iddiasında bulunuyor, bir yandan da devletin en üst kademesinden fosil yakıt keşif açıklamaları geliyor. Yeni paylaşılan Enerji Milli Planı’nda fosil yakıtlara yatırım yapılmaya devam edileceği açıklanırken, Cumhu",
+      "url": "https://www.iklimhaber.org/petrol-sahasi-mujdeleyen-cop31-baskani-turkiyenin-iklim-liderligi-ne-olacak/",
+      "tarih": "2026-11-10T15:45:59+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8fbfa5d55f5f",
+      "baslik": "BM Genel Sekreteri Guterres: “COP31 Başkanlığı Fosil Yakıtlardan Uzaklaşma Planı için Çalışmalı”",
+      "ozet": "Brezilya’nın COP30 Başkanlığı Antalya’da fosil yakıtlardan uzaklaşma yol haritasını sundu. BM Genel Sekreteri Guterres, Türkiye ve Avustralya’ya yol haritası geliştirme çalışmalarını sürdürme çağrısında bulundu. Brezilya’da geçen yıl düzenlenen COP30’un başkanı kıdemli Brezilyalı",
+      "url": "https://www.iklimhaber.org/bm-genel-sekreteri-guterres-cop31-baskanligi-fosil-yakitlardan-uzaklasma-plani-icin-calismali/",
+      "tarih": "2026-11-10T12:40:10+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e1619a7fe983",
+      "baslik": "Aliağa’daki Demir Çelik Fabrikasında Patlama: 17 Can Kaybı, 13 Yaralı",
+      "ozet": "İzmir’in Aliağa ilçesindeki HABAŞ Demir Çelik Fabrikası’nda 9 Kasım’da meydana gelen patlama ve ardından çıkan yangında, en az 17 işçi hayatını kaybetti, biri ağır 13 işçi yaralandı. İzmir’in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasında, 9 Kasım’da meydana gelen patlamanın a",
+      "url": "https://www.iklimhaber.org/aliagadaki-demir-celik-fabrikasinda-patlama-17-can-kaybi-13-yarali/",
+      "tarih": "2026-11-10T12:30:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b93d35ccd4d9",
+      "baslik": "Electrify Now Finansman Koalisyonu COP31’de Hayata Geçti",
+      "ozet": "Gelişmekte olan ülkelerde temiz elektrifikasyon yatırımlarının önünü açmak için COP31’de yeni bir küresel finans koalisyonu kuruldu. COP31 Başkanlığı ve COP32’ye ev sahipliği yapacak olan Etiyopya tarafından desteklenen yeni “Electrify Now” Finansman Koalisyonu hayata geçirildi. ",
+      "url": "https://www.iklimhaber.org/electrify-now-finansman-koalisyonu-cop31de-hayata-gecti/",
+      "tarih": "2026-11-10T12:05:20+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b4518700afee",
+      "baslik": "Küresel Fosil Yakıt Emisyonlarının Bu Yıl Düşmesi Bekleniyor",
+      "ozet": "Yeni yayımlanan Küresel Karbon Bütçesi raporuna göre, İran’a yönelik savaş yenilenebilir enerjiye yönelişi hızlandırdı ve bunun neticesinde fosil yakıt kaynaklı karbon emisyonlarında bu yıl sınırlı da olsa bir düşüş görüldü. Ancak COP31’de sunulacak kapsamlı değerlendirme raporun",
+      "url": "https://www.iklimhaber.org/kuresel-fosil-yakit-emisyonlarinin-bu-yil-dusmesi-bekleniyor/",
+      "tarih": "2026-11-10T11:12:02+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "dd3a5586f53c",
       "baslik": "“Elektrifikasyonu Hızlandırmak için Destek Arıyoruz”",
@@ -1937,76 +2007,6 @@
       "ozet": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
       "url": "https://www.sozcu.com.tr/izmir-de-restoran-sahibi-bicakli-kavgada-oldu-musteri-yarali-p370419",
       "tarih": "2026-10-18T19:11:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a54454e94678",
-      "baslik": "Dünyaca ünlü yolcu gemisini denizin dibine batıracaklar",
-      "ozet": "Dünyaca ünlü yolcu gemisini denizin dibine batıracaklar",
-      "url": "https://www.sozcu.com.tr/dunyaca-unlu-yolcu-gemisini-denizin-dibine-batiracaklar-p370405",
-      "tarih": "2026-10-18T17:43:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e1daf5584180",
-      "baslik": "Bakan Bayraktar açıkladı: Doğalgaza zam gelecek mi?",
-      "ozet": "Bakan Bayraktar açıkladı: Doğalgaza zam gelecek mi?",
-      "url": "https://www.sozcu.com.tr/dogalgaza-zam-gelecek-mi-ekim-kasim-aralik-2026-p370395",
-      "tarih": "2026-10-18T17:00:10+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "62b2d600af9e",
-      "baslik": "Selçuk İnan'dan sakatlık açıklaması: '2-3 hafta sonra aramızda olur'",
-      "ozet": "Selçuk İnan'dan sakatlık açıklaması: '2-3 hafta sonra aramızda olur'",
-      "url": "https://www.sozcu.com.tr/selcuk-inan-dan-sakatlik-aciklamasi-2-3-hafta-sonra-aramizda-olur-p370394",
-      "tarih": "2026-10-18T16:17:02+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "97721e46ab17",
-      "baslik": "AKP'li Metin Külünk'ten 'fon listesi' uyarısı: Erdoğan'ı devirmek isteyenlere fırsat veriyorsunuz",
-      "ozet": "AKP'li Metin Külünk'ten 'fon listesi' uyarısı: Erdoğan'ı devirmek isteyenlere fırsat veriyorsunuz",
-      "url": "https://www.sozcu.com.tr/metin-kulunk-fon-paylasimi-p370389",
-      "tarih": "2026-10-18T15:43:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b9d582f058b1",
-      "baslik": "Zehirli deniz yılanları sahillerde görülmeye başladı",
-      "ozet": "Zehirli deniz yılanları sahillerde görülmeye başladı",
-      "url": "https://www.sozcu.com.tr/zehirli-deniz-yilanlari-sahillerde-gorulmeye-basladi-p370385",
-      "tarih": "2026-10-18T15:20:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "abc592b7fe71",
-      "baslik": "Selde mahsur kalan Zeynep bebek böyle kurtarıldı",
-      "ozet": "Selde mahsur kalan Zeynep bebek böyle kurtarıldı",
-      "url": "https://www.sozcu.com.tr/selde-mahsur-kalan-zeynep-bebek-boyle-kurtarildi-p370352",
-      "tarih": "2026-10-18T12:35:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "41b880600d30",
-      "baslik": "52 yaşında üçüncü bebeğini bekleyen Hilary Swank eleştirilere rest çekti",
-      "ozet": "52 yaşında üçüncü bebeğini bekleyen Hilary Swank eleştirilere rest çekti",
-      "url": "https://www.sozcu.com.tr/52-yasinda-ucuncu-bebegini-bekleyen-hilary-swank-elestirilere-rest-cekti-p370327",
-      "tarih": "2026-10-18T10:40:15+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95600,6 +95600,34 @@
       "ozet": "COP’lar gizemli, karanlık güçler, küreselci çeteler tarafından değil BM tarafından UNFCCC’ye taraf olan devletler ile düzenleniyor. Amaçları da insan kaynaklı iklim krizi ile mücadelede hedefleri gözden geçirmek ve gerekirse yeni hedefler ve amaçlar belirlemek. Bu sene Antalya’da",
       "lat": 37.0048,
       "lng": 30.6581,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-8fbfa5d55f5f",
+      "baslik": "BM Genel Sekreteri Guterres: “COP31 Başkanlığı Fosil Yakıtlardan Uzaklaşma Planı için Çalışmalı”",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "10.11.2026",
+      "url": "https://www.iklimhaber.org/bm-genel-sekreteri-guterres-cop31-baskanligi-fosil-yakitlardan-uzaklasma-plani-icin-calismali/",
+      "ozet": "Brezilya’nın COP30 Başkanlığı Antalya’da fosil yakıtlardan uzaklaşma yol haritasını sundu. BM Genel Sekreteri Guterres, Türkiye ve Avustralya’ya yol haritası geliştirme çalışmalarını sürdürme çağrısında bulundu. Brezilya’da geçen yıl düzenlenen COP30’un başkanı kıdemli Brezilyalı",
+      "lat": 37.0087,
+      "lng": 30.6985,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e1619a7fe983",
+      "baslik": "Aliağa’daki Demir Çelik Fabrikasında Patlama: 17 Can Kaybı, 13 Yaralı",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "10.11.2026",
+      "url": "https://www.iklimhaber.org/aliagadaki-demir-celik-fabrikasinda-patlama-17-can-kaybi-13-yarali/",
+      "ozet": "İzmir’in Aliağa ilçesindeki HABAŞ Demir Çelik Fabrikası’nda 9 Kasım’da meydana gelen patlama ve ardından çıkan yangında, en az 17 işçi hayatını kaybetti, biri ağır 13 işçi yaralandı. İzmir’in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasında, 9 Kasım’da meydana gelen patlamanın a",
+      "lat": 38.4094,
+      "lng": 27.1726,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
