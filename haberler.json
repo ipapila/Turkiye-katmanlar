@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-09T21:48:22.176099+00:00",
+    "guncelleme": "2026-11-10T10:39:16.890303+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6684,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6685,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "dd3a5586f53c",
+      "baslik": "“Elektrifikasyonu Hızlandırmak için Destek Arıyoruz”",
+      "ozet": "Başkanlığın hedefi birçokları tarafından takdir edilse de elektrifikasyonun iklim değişikliği açısından fayda sağlaması fosil yakıtlardan çıkış ve yenilenebilir enerji kapasitesinin artırılması ile doğrudan bağlantılı. Ülkeler, şirketler ve yatırımcılar yıllık BM İklim Zirvesi’nd",
+      "url": "https://www.iklimhaber.org/elektrifikasyonu-hizlandirmak-icin-destek-ariyoruz/",
+      "tarih": "2026-11-10T10:30:36+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "69f508ad9684",
+      "baslik": "Russell Brand'e 10 yıl 6 ay hapis cezası: Cinsel suçlardan mahkûm edildi",
+      "ozet": "Russell Brand'e 10 yıl 6 ay hapis cezası: Cinsel suçlardan mahkûm edildi",
+      "url": "https://www.sozcu.com.tr/russell-brand-e-10-yil-6-ay-hapis-cezasi-cinsel-suclardan-mahkum-edildi-p379869",
+      "tarih": "2026-11-10T09:03:03+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6e1fc8a8c305",
+      "baslik": "Sanayinin Dönüşümü Ertelenemez",
+      "ozet": "SHURA’dan Yael Taranto, sanayinin ekonomik büyümenin temel itici güçlerinden biri olmasının yanı sıra enerji tüketimi ve karbon emisyonlarında da önemli bir paya sahip olduğunu hatırlatırken, “Bu nedenle dönüşümü ertelemek yerine, sanayinin rekabet gücünü ve çevresel sürdürülebil",
+      "url": "https://www.iklimhaber.org/sanayinin-donusumu-ertelenemez/",
+      "tarih": "2026-11-10T08:21:24+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3e2c59879227",
+      "baslik": "Türkiye COP31’de İklim Finansmanı için “Köprü Görevi” Görecek",
+      "ozet": "COP31 ev sahibi Türkiye, iklim dostu projeleri finansmanla buluşturmayı hedefleyen İklim Uygulama Köprüsü’nü zirvenin gündemine taşıyacak. Girişimi değerlendiren Prof. Dr. Ayşe Uyduranoğlu, yatırımların çevreye gerçek katkısını değerlendiren Yeşil Taksonomilerin, Köprü’nün başarı",
+      "url": "https://www.iklimhaber.org/turkiye-cop31de-iklim-finansmani-icin-kopru-gorevi-gorecek/",
+      "tarih": "2026-11-10T07:32:56+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3f760466051a",
+      "baslik": "ECO: Fosil Yakıtlardan Çıkış İçin Enerjimiz Hâlâ Yüksek!",
+      "ozet": "Climate Action Network tarafından yayımlanan ECO bültenleri İklim Haber’de: “Fosil yakıtlardan aşamalı çıkış olmadan iklim kriziyle mücadele edemeyiz ve 1,5°C sınırının aşılmasını sınırlayamayız.” Bugün Enerji Günü ve ECO, Tarafların üç yıl önce Dubai’de üzerinde uzlaştığı hedef ",
+      "url": "https://www.iklimhaber.org/eco-fosil-yakitlardan-cikis-icin-enerjimiz-hala-yuksek/",
+      "tarih": "2026-11-10T07:10:06+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "baed6fa75985",
+      "baslik": "İklim İnkârcılığı Sözlüğü-19: COP31’i Küreselci Güçler mi Düzenliyor?",
+      "ozet": "COP’lar gizemli, karanlık güçler, küreselci çeteler tarafından değil BM tarafından UNFCCC’ye taraf olan devletler ile düzenleniyor. Amaçları da insan kaynaklı iklim krizi ile mücadelede hedefleri gözden geçirmek ve gerekirse yeni hedefler ve amaçlar belirlemek. Bu sene Antalya’da",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-19-cop31i-kureselci-gucler-mi-duzenliyor/",
+      "tarih": "2026-11-10T06:53:27+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2c260b1fb74c",
+      "baslik": "Çevre ihlallerine yönelik yaptırımların iyileştirilmesi: Suçların net bir şekilde tanımlanması ve caydırıcılığın sağlanması. - Vietnam.vn",
+      "ozet": "Çevre ihlallerine yönelik yaptırımların iyileştirilmesi: Suçların net bir şekilde tanımlanması ve caydırıcılığın sağlanması. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY05jekN0QWZILTlrMWQ1endJdTJnVEhCU0hfT2dUOFNUUkp4cmtRVXBKNWpsY1EwUUhXQldvanZ1Z0IxeU5QaDcwS0ZuVkkzZkdFcnAtR2txVXV1WGFyeVpjYlZkNzlyUzV3eWR1RS1iLWNmUE50Vk9KOV93RVdIQnNIbE5uc1pSUUJPcjcyNDdFWENlb0FYSHJNdllOMFE3V2k3Xw?oc=5",
+      "tarih": "2026-11-10T05:25:30+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "332e6e30b3d6",
+      "baslik": "Esmaül Hüsna Aslan’dan çöp ithalatı ve ÇED tepkisi - Gazete Jurnal",
+      "ozet": "Esmaül Hüsna Aslan’dan çöp ithalatı ve ÇED tepkisi Gazete Jurnal",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0Q1WndzUEFOUlFzNk5ORk4tMzd5bkxCNWlGYWZTaDJTWkZCdlQzVHBZdkNfSzRKbWVubDlNdUc5Sl9zbE5vQlJaUlpIT1RzWTR3XzFrRFhvMW1ZUU9IVjQtdHNJZ0NkeFk4dU4zbUZOYUp5dXdBelphQU9iTHdnQkloemVoLXVaclpZM285Q0E2Zw?oc=5",
+      "tarih": "2026-11-09T17:46:11+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "110fe0e715e5",
       "baslik": "COP31 Başladı İnkârcılar Ayaklandı",
@@ -1927,86 +2007,6 @@
       "ozet": "52 yaşında üçüncü bebeğini bekleyen Hilary Swank eleştirilere rest çekti",
       "url": "https://www.sozcu.com.tr/52-yasinda-ucuncu-bebegini-bekleyen-hilary-swank-elestirilere-rest-cekti-p370327",
       "tarih": "2026-10-18T10:40:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1faca0bbf583",
-      "baslik": "Saray'a sunulan 'çok özel' anketten Erdoğan'a kötü haber",
-      "ozet": "Saray'a sunulan 'çok özel' anketten Erdoğan'a kötü haber",
-      "url": "https://www.sozcu.com.tr/saray-a-sunulan-cok-ozel-anketten-iktidara-kotu-haber-p370323",
-      "tarih": "2026-10-18T10:31:49+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e9ca9b555f19",
-      "baslik": "Özcan Deniz’in eşi Samar Dadgar’ın acı kaybı: 3 yaşındaki yeğeninin ölüm nedeni belli oldu",
-      "ozet": "Özcan Deniz’in eşi Samar Dadgar’ın acı kaybı: 3 yaşındaki yeğeninin ölüm nedeni belli oldu",
-      "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-in-aci-kaybi-3-yasindaki-yegeninin-olum-nedeni-belli-oldu-p370265",
-      "tarih": "2026-10-18T07:11:22+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4773e762c3f5",
-      "baslik": "Balıkçılar balık yerine iPhone avına çıktı: Denizde şaşırtan görüntüler",
-      "ozet": "Balıkçılar balık yerine iPhone avına çıktı: Denizde şaşırtan görüntüler",
-      "url": "https://www.sozcu.com.tr/balikcilar-balik-yerine-iphone-avina-cikti-denizde-sasirtan-goruntuler-p370261",
-      "tarih": "2026-10-18T07:06:49+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ecd1bc9f882d",
-      "baslik": "Selde kaybolan vatandaşın aracının görüntüleri ortaya çıktı: Sel suları böyle sürüklemiş",
-      "ozet": "Selde kaybolan vatandaşın aracının görüntüleri ortaya çıktı: Sel suları böyle sürüklemiş",
-      "url": "https://www.sozcu.com.tr/selde-kaybolan-vatandasin-aracinin-goruntuleri-ortaya-cikti-sel-sulari-boyle-suruklemis-p370136",
-      "tarih": "2026-10-17T16:05:00+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dd3be1e73f49",
-      "baslik": "İlkay Gündoğan sessizliğini bozdu! Okan Buruk'a yanıt verdi",
-      "ozet": "İlkay Gündoğan sessizliğini bozdu! Okan Buruk'a yanıt verdi",
-      "url": "https://www.sozcu.com.tr/ilkay-gundogan-sessizligini-bozdu-okan-buruk-a-yanit-verdi-p370135",
-      "tarih": "2026-10-17T15:33:02+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7322f1483185",
-      "baslik": "Eski Türkiye güzeli Fatoş Seğmen’in kızı Alya Erdoğan hayatını kaybetti",
-      "ozet": "Eski Türkiye güzeli Fatoş Seğmen’in kızı Alya Erdoğan hayatını kaybetti",
-      "url": "https://www.sozcu.com.tr/eski-turkiye-guzeli-fatos-segmen-in-kizi-alya-erdogan-hayatini-kaybetti-p370051",
-      "tarih": "2026-10-17T09:33:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0d7988c603c4",
-      "baslik": "Gelibolu Yarımadası’nda 4 sondaj alanı: Acele kamulaştırma sonrası yeni süreç - Çanakkale Kalem Gazetesi",
-      "ozet": "Gelibolu Yarımadası’nda 4 sondaj alanı: Acele kamulaştırma sonrası yeni süreç Çanakkale Kalem Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlpYaG5qV2FzMVljdjVBQVlTRlFpeUdyWjNzb0NKbjZWMFZoZ2tWbGlucWFPOVRHTk5uemwza0c5ZE9CY2EyaDVwd1dnQ0kxeDFQS3RPcWVHa0hXM0QyU1dqS2lhcnoxVEtpeTRSa0Z6bTM4U2I0a21kTlVjRDJRblBUVGpjRkNBd1dYVjB6UXJIeVlvU0NWWlNYMG9xVkY3NkZ3N2tIbHBrcl8yNzZTWWZQTXlMNGhFQXU1RGtR?oc=5",
-      "tarih": "2026-10-17T08:35:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "22c4e0f90c9c",
-      "baslik": "Bahçede kazı yapan işçiler 510 kiloluk servet buldu",
-      "ozet": "Bahçede kazı yapan işçiler 510 kiloluk servet buldu",
-      "url": "https://www.sozcu.com.tr/bahcede-kazi-yapan-isciler-510-kiloluk-servet-buldu-p370008",
-      "tarih": "2026-10-17T07:18:08+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95586,6 +95586,20 @@
       "ozet": "Antalya’da başlayan COP31’in gündemi oldukça yoğun. 190’dan fazla ülkenin yer alacağı zirvede ABD yer almayacak. Dünya insan kaynaklı, benzeri görülmemiş bir küresel ısınmayla karşı karşıyayken, ülkeler iklim müzakerelerinin son turu için önümüzdeki iki hafta boyunca Antalya’da m",
       "lat": 36.8453,
       "lng": 30.6318,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-baed6fa75985",
+      "baslik": "İklim İnkârcılığı Sözlüğü-19: COP31’i Küreselci Güçler mi Düzenliyor?",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "10.11.2026",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-19-cop31i-kureselci-gucler-mi-duzenliyor/",
+      "ozet": "COP’lar gizemli, karanlık güçler, küreselci çeteler tarafından değil BM tarafından UNFCCC’ye taraf olan devletler ile düzenleniyor. Amaçları da insan kaynaklı iklim krizi ile mücadelede hedefleri gözden geçirmek ve gerekirse yeni hedefler ve amaçlar belirlemek. Bu sene Antalya’da",
+      "lat": 37.0048,
+      "lng": 30.6581,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

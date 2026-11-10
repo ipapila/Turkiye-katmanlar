@@ -121547,5 +121547,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31-gundeminde-neler-var/"
+  },
+  {
+    "id": "tarayici-baed6fa75985",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim İnkârcılığı Sözlüğü-19: COP31’i Küreselci Güçler mi Düzenliyor?",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "COP’lar gizemli, karanlık güçler, küreselci çeteler tarafından değil BM tarafından UNFCCC’ye taraf olan devletler ile düzenleniyor. Amaçları da insan kaynaklı iklim krizi ile mücadelede hedefleri gözden geçirmek ve gerekirse yeni hedefler ve amaçlar belirlemek. Bu sene Antalya’da",
+    "koordinatlar": {
+      "lat": 37.0048,
+      "lng": 30.6581
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "10.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-19-cop31i-kureselci-gucler-mi-duzenliyor/"
   }
 ]
