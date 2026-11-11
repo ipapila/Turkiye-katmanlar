@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-11-10T19:08:12.296385+00:00",
+    "guncelleme": "2026-11-11T10:07:09.609198+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6687,
+    "harita_kayit_sayisi": 6689,
     "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "86a185813f9e",
+      "baslik": "Antalya'nın 'alıngan' lideri: Rum lider Erdoğan'ı AB'ye şikayet etti",
+      "ozet": "Antalya'nın 'alıngan' lideri: Rum lider Erdoğan'ı AB'ye şikayet etti",
+      "url": "https://www.sozcu.com.tr/rum-lider-erdogan-i-karsilamadi-diye-von-der-leyen-e-sikayet-etti-p380263",
+      "tarih": "2026-11-11T10:06:16+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dbd6871c0ba8",
+      "baslik": "Erdoğan COP31'e katılan liderleri karşıladı: 'Good morning, maşallah'",
+      "ozet": "Erdoğan COP31'e katılan liderleri karşıladı: 'Good morning, maşallah'",
+      "url": "https://www.sozcu.com.tr/erdogan-cop31-e-katilan-liderleri-karsiladi-good-morning-masallah-p380248",
+      "tarih": "2026-11-11T09:56:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8054d7457772",
+      "baslik": "Konser başına 2 milyon TL kazanıyor: Yatırımda geleneksel yöntemden şaşmıyor",
+      "ozet": "Konser başına 2 milyon TL kazanıyor: Yatırımda geleneksel yöntemden şaşmıyor",
+      "url": "https://www.sozcu.com.tr/konser-basina-2-milyon-tl-kazaniyor-yatirimda-geleneksel-yontemden-sasmiyor-p380259",
+      "tarih": "2026-11-11T09:32:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "93ab291d653b",
+      "baslik": "Borsanın devler ligi belli oldu: İşte Türkiye'nin en değerli şirketleri",
+      "ozet": "Borsanın devler ligi belli oldu: İşte Türkiye'nin en değerli şirketleri",
+      "url": "https://www.sozcu.com.tr/borsanin-devler-ligi-belli-oldu-ilk-10-da-kimler-var-p380237",
+      "tarih": "2026-11-11T09:21:35+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c92315cb1464",
+      "baslik": "Türkiye Elektrifikasyon Hedefi İçin Bastırıyor",
+      "ozet": "Dünya liderleri bugünden itibaren COP31’de konuşmaya başlayacak. Türkiye ise konferansa katılan hükümet temsilcilerini, nihai anlaşmanın merkezine elektrifikasyon hedefini yerleştirmeye çağırırken, söz konusu hedefte yeni elektrik üretiminin temiz enerji kaynaklarından sağlanması",
+      "url": "https://www.iklimhaber.org/turkiye-elektrifikasyon-hedefi-icin-bastiriyor/",
+      "tarih": "2026-11-11T08:12:11+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dbbef16f5d1b",
+      "baslik": "COP31 Başkanı Türkiye’nin İklim Performansı Sınıfta Kaldı",
+      "ozet": "Türkiye’nin performansına yönelik eleştiriler arasında, fosil yakıtlardan çıkışa yönelik bir politikasının olmaması öne çıktı. Çalışmada, “Yenilenebilir enerjide rekor büyümeye ve yeni Emisyon Ticaret Sistemi’ne karşın kömür, petrol ve gaz arama devam ediyor” dendi. Germanwatch v",
+      "url": "https://www.iklimhaber.org/cop31-baskani-turkiyenin-iklim-performansi-sinifta-kaldi/",
+      "tarih": "2026-11-11T07:04:58+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "429447d4a036",
+      "baslik": "COP’ların Ötesinde İklim, Ekoloji ve İnsan Hakları Hareketlerine Bir Vizyon ve Söylem Önerisi: Yeni Yaşamı Kurma Hakkı",
+      "ozet": "COP’ların ve ötesinin havanda su dövmesine ve kaynak israfını sürdürmesine karşı insan hakları ve ekoloji hareketlerinin “iyi yaşam” perspektifiyle kuracağı haklar temelli bir söylemi tartışmaya özlediğimiz yeni yaşamı kurma hakkı önermesiyle başlayabiliriz.  YAZI: Ali Alper Akyü",
+      "url": "https://www.iklimhaber.org/coplarin-otesinde-iklim-ekoloji-ve-insan-haklari-hareketlerine-bir-vizyon-ve-soylem-onerisi-yeni-yasami-kurma-hakki/",
+      "tarih": "2026-11-11T06:37:24+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "027162c929ca",
+      "baslik": "ECO: El Nino Burada!",
+      "ozet": "1972 yılından beri sivil toplum grupları tarafından UNFCCC’den gelişmeleri ve sivil toplumun sesini aktarmak için Climate Action Network tarafından yayımlanan ECO’nun yeni bülteni yayında. Halkın sevgili seçilmiş temsilcileri, Antalya’ya hoş geldiniz! Bir dakika, yoksa burada değ",
+      "url": "https://www.iklimhaber.org/eco-el-nino-burada/",
+      "tarih": "2026-11-11T06:27:19+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0020cb43dceb",
       "baslik": "Süper Lig'de teknik direktör kıyımı! 11 haftada 8 takım hoca değiştirdi",
@@ -1927,86 +2007,6 @@
       "ozet": "İstifa haberleri geldi: Borsa çakıldı",
       "url": "https://www.sozcu.com.tr/istifa-haberlerinin-ardindan-borsa-istanbul-da-satis-baskisi-derinlesiyor-p370709",
       "tarih": "2026-10-19T15:19:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0ef9ba58efa5",
-      "baslik": "Denizin ortasındaki kuyudan petrol sızmaya başladı",
-      "ozet": "Denizin ortasındaki kuyudan petrol sızmaya başladı",
-      "url": "https://www.sozcu.com.tr/denizin-ortasindaki-kuyudan-petrol-sizmaya-basladi-p370710",
-      "tarih": "2026-10-19T14:51:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e3733f1282e7",
-      "baslik": "COP17’in Ajandasında Neler Var?",
-      "ozet": "Dünya liderleri, diplomatlar ve doğa uzmanları, biyoçeşitlilik kaybını durdurmaya yönelik çabaları değerlendirmek üzere Ermenistan’da bir araya geliyor. Ülkeler küresel hedeflerin çoğunu yakalayamazken, finansman konusundaki anlaşmazlıklar ise henüz çözülemedi. COP17 olarak adlan",
-      "url": "https://www.iklimhaber.org/cop17in-ajandasinda-neler-var/",
-      "tarih": "2026-10-19T07:57:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "09e47d528d93",
-      "baslik": "Tarımsal ürünlerin fiyatları ağustosta yükseldi",
-      "ozet": "Tarımsal ürünlerin fiyatları ağustosta yükseldi",
-      "url": "https://www.sozcu.com.tr/tarimsal-urunlerin-fiyatlari-agustosta-yukseldi-p370556",
-      "tarih": "2026-10-19T07:55:45+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "146afc350ebf",
-      "baslik": "Yeni Rapor: “Dünyanın İklim Sistemi Hızla İstikrarsızlaşıyor”",
-      "ozet": "Yeni yayımlanan bir araştırmaya göre, dünyanın iklim sistemi bilinmeyen bölgelerin derinliklerine doğru ilerliyor. Dünya’nın “yaşamsal belirtilerini” izleyen yıllık bir rapor olan İklimin Durumu (State of the Climate), sera gazı konsantrasyonları ve sıcaklık değişimlerinden orman",
-      "url": "https://www.iklimhaber.org/yeni-rapor-dunyanin-iklim-sistemi-hizla-istikrarsizlasiyor/",
-      "tarih": "2026-10-19T07:23:32+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c61ac71ce7ff",
-      "baslik": "Dünya bu skandalı konuşuyor! Orduda cinsel ilişki yarışması düzenlediler",
-      "ozet": "Dünya bu skandalı konuşuyor! Orduda cinsel ilişki yarışması düzenlediler",
-      "url": "https://www.sozcu.com.tr/dunya-bu-skandali-konusuyor-orduda-cinsel-iliski-yarismasi-duzenlediler-p370536",
-      "tarih": "2026-10-19T07:20:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6c6172f3072b",
-      "baslik": "Borsa haftaya yükselişle başladı -19 Ekim 2026",
-      "ozet": "Borsa haftaya yükselişle başladı -19 Ekim 2026",
-      "url": "https://www.sozcu.com.tr/borsa-haftaya-yukselisle-basladi-19-ekim-2026-p370530",
-      "tarih": "2026-10-19T07:10:04+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "23c4b6fed7ba",
-      "baslik": "Danıştay Akbelen’de Acele Kamulaştırmaya Onay Verdi",
-      "ozet": "İkizköylüler yaptıkları açıklamada, “Kimse bizden yasal kılıfa sokulmuş bir gasp faaliyetini kabullenmemizi beklemesin” derken, bu yanlıştan hızlı bir şekilde dönülmesini talep etti. Muğla’nın Milas ilçesinde bulunan Yeniköy-Kemerköy Termik Santralı’nın sahasını genişletmek için ",
-      "url": "https://www.iklimhaber.org/danistay-akbelende-acele-kamulastirmaya-onay-verdi/",
-      "tarih": "2026-10-19T06:40:56+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4e047971a766",
-      "baslik": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
-      "ozet": "İzmir'de restoran sahibi bıçaklı kavgada öldü, müşteri yaralı",
-      "url": "https://www.sozcu.com.tr/izmir-de-restoran-sahibi-bicakli-kavgada-oldu-musteri-yarali-p370419",
-      "tarih": "2026-10-18T19:11:00+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95628,6 +95628,34 @@
       "ozet": "İzmir’in Aliağa ilçesindeki HABAŞ Demir Çelik Fabrikası’nda 9 Kasım’da meydana gelen patlama ve ardından çıkan yangında, en az 17 işçi hayatını kaybetti, biri ağır 13 işçi yaralandı. İzmir’in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasında, 9 Kasım’da meydana gelen patlamanın a",
       "lat": 38.4094,
       "lng": 27.1726,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-027162c929ca",
+      "baslik": "ECO: El Nino Burada!",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "11.11.2026",
+      "url": "https://www.iklimhaber.org/eco-el-nino-burada/",
+      "ozet": "1972 yılından beri sivil toplum grupları tarafından UNFCCC’den gelişmeleri ve sivil toplumun sesini aktarmak için Climate Action Network tarafından yayımlanan ECO’nun yeni bülteni yayında. Halkın sevgili seçilmiş temsilcileri, Antalya’ya hoş geldiniz! Bir dakika, yoksa burada değ",
+      "lat": 36.9985,
+      "lng": 30.603,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-86a185813f9e",
+      "baslik": "Antalya'nın 'alıngan' lideri: Rum lider Erdoğan'ı AB'ye şikayet etti",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "11.11.2026",
+      "url": "https://www.sozcu.com.tr/rum-lider-erdogan-i-karsilamadi-diye-von-der-leyen-e-sikayet-etti-p380263",
+      "ozet": "Antalya'nın 'alıngan' lideri: Rum lider Erdoğan'ı AB'ye şikayet etti",
+      "lat": 36.9338,
+      "lng": 30.7982,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

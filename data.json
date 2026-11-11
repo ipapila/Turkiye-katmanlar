@@ -121604,5 +121604,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/aliagadaki-demir-celik-fabrikasinda-patlama-17-can-kaybi-13-yarali/"
+  },
+  {
+    "id": "tarayici-027162c929ca",
+    "tip": "Ekolojik İhlal",
+    "ad": "ECO: El Nino Burada!",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "1972 yılından beri sivil toplum grupları tarafından UNFCCC’den gelişmeleri ve sivil toplumun sesini aktarmak için Climate Action Network tarafından yayımlanan ECO’nun yeni bülteni yayında. Halkın sevgili seçilmiş temsilcileri, Antalya’ya hoş geldiniz! Bir dakika, yoksa burada değ",
+    "koordinatlar": {
+      "lat": 36.9985,
+      "lng": 30.603
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "11.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/eco-el-nino-burada/"
+  },
+  {
+    "id": "tarayici-86a185813f9e",
+    "tip": "Ekolojik İhlal",
+    "ad": "Antalya'nın 'alıngan' lideri: Rum lider Erdoğan'ı AB'ye şikayet etti",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Antalya'nın 'alıngan' lideri: Rum lider Erdoğan'ı AB'ye şikayet etti",
+    "koordinatlar": {
+      "lat": 36.9338,
+      "lng": 30.7982
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "11.11.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/rum-lider-erdogan-i-karsilamadi-diye-von-der-leyen-e-sikayet-etti-p380263"
   }
 ]
