@@ -121642,5 +121642,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/rum-lider-erdogan-i-karsilamadi-diye-von-der-leyen-e-sikayet-etti-p380263"
+  },
+  {
+    "id": "tarayici-a4c1e1839321",
+    "tip": "Ekolojik İhlal",
+    "ad": "Greta Thunberg COP31’de: COP Zirveleri Yeşil Aklama Sirkine Dönüştü",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "2021’de İskoçya’nın Glasgow kentinde düzenlenen COP 26 zirvesinden bu yana konferanslara katılmayan Greta Thunberg, COP 31 için Antalya’ya geldi. Greta’nın basın mensuplarına yaptığı açıklama ise hayli sertti: “COP zirveleri yeşil aklamayla süslenmiş sirklere dönüştü. Gerçek bu.”",
+    "koordinatlar": {
+      "lat": 36.8065,
+      "lng": 30.727
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "11.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/greta-thunberg-cop31de-cop-zirveleri-yesil-aklama-sirkine-donustu/"
   }
 ]

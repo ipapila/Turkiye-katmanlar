@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-11T10:07:09.609198+00:00",
+    "guncelleme": "2026-11-11T19:04:39.577300+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6689,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6690,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,106 @@
     }
   },
   "haberler": [
+    {
+      "id": "adaf5adfe6ba",
+      "baslik": "İran ABD'yi adres vererek tehdit etti: Avrupa'daki üsleri vurabiliriz",
+      "ozet": "İran ABD'yi adres vererek tehdit etti: Avrupa'daki üsleri vurabiliriz",
+      "url": "https://www.sozcu.com.tr/iran-abd-yi-adres-vererek-tehdit-etti-avrupa-daki-usleri-vurabiliriz-p380416",
+      "tarih": "2026-11-11T18:37:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "577110be6707",
+      "baslik": "Galatasaray set vermeden Dörtlü Final'e yükseldi",
+      "ozet": "Galatasaray set vermeden Dörtlü Final'e yükseldi",
+      "url": "https://www.sozcu.com.tr/galatasaray-set-vermeden-dortlu-finale-yukseldi-p380409",
+      "tarih": "2026-11-11T18:08:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "971c92a17df1",
+      "baslik": "Galatasaray set vermeden Dörtlü Final'e yükseldi",
+      "ozet": "Galatasaray set vermeden Dörtlü Final'e yükseldi",
+      "url": "https://www.sozcu.com.tr/galatasaray-set-vermeden-dortlu-finale-yukseldi-p380403",
+      "tarih": "2026-11-11T17:55:45+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1f1929f64215",
+      "baslik": "Halkbank, Fenerbahçe Medicana'yı eleyerek yarı finale yükseldi",
+      "ozet": "Halkbank, Fenerbahçe Medicana'yı eleyerek yarı finale yükseldi",
+      "url": "https://www.sozcu.com.tr/halkbank-fenerbahce-medicanayi-eleyerek-yari-finale-yukseldi-p380392",
+      "tarih": "2026-11-11T16:57:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "07649452363a",
+      "baslik": "Erdoğan Geleneği Sürdürdü: Liderler Zirvesi’nde Fosil Yakıtlara Değinmedi",
+      "ozet": "Cumhurbaşkanı Erdoğan, COP31’de Türkiye’nin “2053 Net Sıfır Emisyon” hedefi doğrultusunda Yeşil Kalkınma yolculuğunu kararlılıkla sürdürdüğünden bahsederken, daha önceki konuşmalarına benzer şekilde, iklim krizinin ana sorumlusu olan fosil yakıtlara dair en ufak bir gönderme dahi",
+      "url": "https://www.iklimhaber.org/erdogan-gelenegi-surdurdu-liderler-zirvesinde-fosil-yakitlara-deginmedi/",
+      "tarih": "2026-11-11T12:49:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "62aa545902c8",
+      "baslik": "Lula: Brezilya Fosil Yakıtlardan Çıkış Yol Haritası Konusunda Üzerine Düşeni Yapacak",
+      "ozet": "Liderler Zirvesi’nde konuşan Avustralya Başbakanı Albenese fosil yakıt kelimesini dahi kullanmadı. Brezilya Devlet Başkanı Lula ise, ülkesinin, Brezilya Dönem Başkanlığı’nın türünün ilk örneği niteliğindeki bir çıktısı olan fosil yakıtların ve ormansızlaşmanın sonlandırılmasına y",
+      "url": "https://www.iklimhaber.org/lula-brezilya-fosil-yakitlardan-cikis-yol-haritasi-konusunda-uzerine-duseni-yapacak/",
+      "tarih": "2026-11-11T12:11:25+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4ea5d2a1eb4f",
+      "baslik": "BM Genel Sekreteri Guterres: “Fosil Yakıtlar Tarihe Karışmalı”",
+      "ozet": "Dünya Liderleri Zirvesi’nin açılış konuşmasını yapan BM Genel Sekreteri Guterres, dünyanın fosil yakıtlara olan bağımlılığının yalnızca iklimi değil, ekonomileri de sarstığını belirtirken, “Fosil yakıtlar da tıpkı dinozorlar gibi tarihe karışmalı. Ve bu kendi kendine olmayacak. D",
+      "url": "https://www.iklimhaber.org/bm-genel-sekreteri-guterres-fosil-yakitlar-tarihe-karismali/",
+      "tarih": "2026-11-11T11:10:58+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fa472b2c500c",
+      "baslik": "Trafik ışığı beklemek yerine şerit ihlali yapan maganda kamerada - dikGAZETE.com",
+      "ozet": "Trafik ışığı beklemek yerine şerit ihlali yapan maganda kamerada dikGAZETE.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVktqVzMwNTR3LWU2S3kxZHFFRTBIT0N2cmgzS21SM0d4dS1vd3FCS09wUlJzR2hFVEhUTzY5NW5lRjV6SGZoLTRhVVZDTkR0X3VlMHY1b1Z1Q3loeGZDVG1iVk1BdHJSamF1YmpqRW9IN0h1LWNXQ1kwN1ZTU3RPb2hTUzU4aGNlbl9PSGZKRnJ1c1ZYenhfazZWZmZfcXJfMjV1YzJzUXlZN2JJZFE?oc=5",
+      "tarih": "2026-11-11T11:10:33+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "8f46864c0f86",
+      "baslik": "Fotoğraf Güzel Ama Eksik",
+      "ozet": "COP31 Liderler Zirvesi başladı. Resmi açılış sonrasında konferansa katılan ülke liderleri aile fotoğrafı verdi. Ancak fotoğrafa bakınca COP 31’e katılan ülke liderleri kadar katılmayan ülke liderleri de dikkat çekiyor. COP 31 Liderler zirvesi BM Genel Sekreteri Antonio Guterres v",
+      "url": "https://www.iklimhaber.org/fotograf-guzel-ama-eksik/",
+      "tarih": "2026-11-11T10:45:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a4c1e1839321",
+      "baslik": "Greta Thunberg COP31’de: COP Zirveleri Yeşil Aklama Sirkine Dönüştü",
+      "ozet": "2021’de İskoçya’nın Glasgow kentinde düzenlenen COP 26 zirvesinden bu yana konferanslara katılmayan Greta Thunberg, COP 31 için Antalya’ya geldi. Greta’nın basın mensuplarına yaptığı açıklama ise hayli sertti: “COP zirveleri yeşil aklamayla süslenmiş sirklere dönüştü. Gerçek bu.”",
+      "url": "https://www.iklimhaber.org/greta-thunberg-cop31de-cop-zirveleri-yesil-aklama-sirkine-donustu/",
+      "tarih": "2026-11-11T10:30:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "86a185813f9e",
       "baslik": "Antalya'nın 'alıngan' lideri: Rum lider Erdoğan'ı AB'ye şikayet etti",
@@ -92,6 +192,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "6d1032385b14",
+      "baslik": "Hanoi: Çevre hijyen yönetmeliklerini ihlal eden inşaat projelerine yönelik denetimleri yoğunlaştırıyor, cezalar uyguluyor ve projeleri kararlılıkla askıya alıyor. - Vietnam.vn",
+      "ozet": "Hanoi: Çevre hijyen yönetmeliklerini ihlal eden inşaat projelerine yönelik denetimleri yoğunlaştırıyor, cezalar uyguluyor ve projeleri kararlılıkla askıya alıyor. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGtrc3FnOFBER1F2YUMtYTc5OEVYQVB1YW1xM2xpcE9Ob2FqbGltN05SWVFwR21BWFd6TkpEY19hTFQxZ0JCandtVVhUZzFFOGttblJrcTdzeGNRUUZ1bEs0MkVTRTRIRmMybl9DcGM3S3FNdWotZndVQlZNOTNPemhocHBGQkJCSE5acmtfZ1Z1c21UcnlSVENOdGtucmdWX1hiVEhzZnZkdzNfSHh5ZkJXWVhnZU80aG5aVTI1VnpKOTFLU0E?oc=5",
+      "tarih": "2026-11-11T03:46:06+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "0020cb43dceb",
       "baslik": "Süper Lig'de teknik direktör kıyımı! 11 haftada 8 takım hoca değiştirdi",
       "ozet": "Süper Lig'de teknik direktör kıyımı! 11 haftada 8 takım hoca değiştirdi",
@@ -169,6 +279,16 @@
       "tarih": "2026-11-10T10:30:36+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "084855af0275",
+      "baslik": "Güney Çevre Yolu’nda yapım çalışmaları sürüyor - Bölgenin Sesi Gazetesi",
+      "ozet": "Güney Çevre Yolu’nda yapım çalışmaları sürüyor Bölgenin Sesi Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUJrNmtMdUxxWFdsY1FZWkxHRnpteThCSGNURXFSRmJXN1FJVzhncUw4cTJlOXpsNTlYQmlDWmlYS1Y3NU44NGZ3Y21ZYzhKNjZ5WlBKTnZ5TkVndjFUZU0tZkR0Zy04X1ZsdzdobkFfSzBFVWd0SHFGYnlkQmxaSDJDUHBOQQ?oc=5",
+      "tarih": "2026-11-10T10:26:59+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1887,126 +2007,6 @@
       "ozet": "İşsizlik maaşı artık böyle hesaplanacak: Milyonları ilgilendiren karar verildi",
       "url": "https://www.sozcu.com.tr/issizlik-maasi-artik-boyle-hesaplanacak-milyonlari-ilgilendiren-karar-verildi-p370902",
       "tarih": "2026-10-20T07:46:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "42df5c9ffba3",
-      "baslik": "Borsada kritik gün!",
-      "ozet": "Borsada kritik gün!",
-      "url": "https://www.sozcu.com.tr/borsada-yon-yeniden-yukari-p370884",
-      "tarih": "2026-10-20T07:43:47+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d8777e2cbf27",
-      "baslik": "Mardin ve Denizli'de bazı taşınmazlara acele kamulaştırma kararı verildi - Ensonhaber",
-      "ozet": "Mardin ve Denizli'de bazı taşınmazlara acele kamulaştırma kararı verildi Ensonhaber",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclBkLWczbXo3Z2N0b2RhZGFCbVVOOWd0eUl3N2YxbGVJNHFhYUc5N1RGUmw1YWJKZE5TU1JZbnR0YVpGZHBGZHFVN1Q3OTI1U1F1UFk3bXptUU9QYVJjemZjZnIwOE02UUhzbXM0aks0bVQxT1NURldreDRuRy1aX25QRFp3MUJpYW5oZ0EwZS1KY0NaS3dleXRSWUc2bHhqbUp3cUg0M19uVXc?oc=5",
-      "tarih": "2026-10-20T07:33:45+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d2b6e2d6335c",
-      "baslik": "COP31 Başkanı Türkiye ve Avustralya Kömüre Bel Bağlamaya Devam Ediyor",
-      "ozet": "Uzmanlara göre Türkiye, yeni kömürlü santral yapılmayacağına dair bir taahhütte bulunarak ve kömürden çıkış için adil geçiş planı hazırlayarak COP31 Başkanlığı sürecinde anlamlı bir iklim liderliği sergileyebilir. Avustralya ve Türkiye, COP31’e Antalya’da ev sahipliği yapmaya haz",
-      "url": "https://www.iklimhaber.org/cop31-baskani-turkiye-ve-avustralya-komure-bel-baglamaya-devam-ediyor/",
-      "tarih": "2026-10-20T07:31:24+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "70ec551b887c",
-      "baslik": "TMMOB Peyzaj Mimarları Odası: “Suyun Yolunu Keserek Kentleri Koruyamayız”",
-      "ozet": "Sel ve su baskınları, kentlerin aşırı yağışlara karşı hazırlığını yeniden gündeme taşıyor. İstanbul’da yaşanan selin ardından değerlendirmelerde bulunan TMMOB Peyzaj Mimarları Odası Genel Başkanı Özay Yerlikaya, plansız kentleşmenin, dere yataklarındaki yapılaşmanın ve geçirimsiz",
-      "url": "https://www.iklimhaber.org/tmmob-peyzaj-mimarlari-odasi-suyun-yolunu-keserek-kentleri-koruyamayiz/",
-      "tarih": "2026-10-20T07:09:20+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "46892d5e627d",
-      "baslik": "AB Enerji Dönüşümü Hedefine Devam Diyor",
-      "ozet": "AB liderlerinden enerji fiyatlarının düşürülmesi, yenilenebilir enerji ve elektrik şebekelerinin yaygınlaştırılmasının hızlandırılması çağrısında bulunurken, Avrupa Konseyi’nin son toplantısında yayımlanan son bildirgesinde, fosil yakıtlardan çıkışın önemine vurgu yapıldı. Avrupa",
-      "url": "https://www.iklimhaber.org/ab-enerji-donusumu-hedefine-devam-diyor/",
-      "tarih": "2026-10-20T06:30:19+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "28033564d63f",
-      "baslik": "Politbüro: Çevre ihlallerinin örtbas edilmesine yönelik eylemlerle kararlı bir şekilde mücadele edin. - Vietnam.vn",
-      "ozet": "Politbüro: Çevre ihlallerinin örtbas edilmesine yönelik eylemlerle kararlı bir şekilde mücadele edin. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd3VJV1ZOWWo5b2hPMHNzbVNFWWFYaWtKTncwM3FSTHQ2b3M1cVZwX0tabzI4V0g2RElnUUo1TDZmMVRHYzB5c21vZ2NCaDRDOWFNd3ZiNndJY2cxOThxMUFRclJfVFVYQ09hNTJvazlIM1NWbmhFZXUyS01NZFpSb2pKV0h1UW9Hc0tvQnVRclJ3X2hUNEdvaml3?oc=5",
-      "tarih": "2026-10-20T04:39:43+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1851d4e664a1",
-      "baslik": "Çeşitli projeler için 3 ilde acele kamulaştırma kararları - Evrensel.net",
-      "ozet": "Çeşitli projeler için 3 ilde acele kamulaştırma kararları Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTFKa2pKUzc1dDJEZUNFX1pHTDRRT1Q2MmRUdGFtTnlfdmRGZl9zeVdVd0l6cWY2bDBfa051UzRIY0NpVVcwOVV5OGhDcmV3X09UWFdSRTdpWTNMclhEdDlyZ1BDRWk0a1V3SUpPQVhidFZPOEJEZHc0VUFrUGhyaTVmYnBjaFkyQ0p5b2lOTW5YWExRVms0QUFYQzY?oc=5",
-      "tarih": "2026-10-19T22:44:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c9e174a65a7a",
-      "baslik": "Çeşitli projeler için 3 ilde acele kamulaştırma kararları - Evrensel",
-      "ozet": "Çeşitli projeler için 3 ilde acele kamulaştırma kararları Evrensel",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTFKa2pKUzc1dDJEZUNFX1pHTDRRT1Q2MmRUdGFtTnlfdmRGZl9zeVdVd0l6cWY2bDBfa051UzRIY0NpVVcwOVV5OGhDcmV3X09UWFdSRTdpWTNMclhEdDlyZ1BDRWk0a1V3SUpPQVhidFZPOEJEZHc0VUFrUGhyaTVmYnBjaFkyQ0p5b2lOTW5YWExRVms0QUFYQzY?oc=5",
-      "tarih": "2026-10-19T22:44:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Kamulaştırma",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d01a889a4949",
-      "baslik": "Erdoğan imzaladı! Soruşturma izni verilen isim görevden alındı",
-      "ozet": "Erdoğan imzaladı! Soruşturma izni verilen isim görevden alındı",
-      "url": "https://www.sozcu.com.tr/resmi-gazete-de-yayimlandi-bir-gorevden-alma-daha-p370775",
-      "tarih": "2026-10-19T21:43:34+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ed1753d23248",
-      "baslik": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
-      "ozet": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
-      "url": "https://www.sozcu.com.tr/ral-yatirim-holding-konkordato-ilan-etti-p370739",
-      "tarih": "2026-10-19T19:51:08+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "87988392bb82",
-      "baslik": "Yeniden Refah'ta istifa sinyali: Doğan Bekin'den çarpıcı açıklama",
-      "ozet": "Yeniden Refah'ta istifa sinyali: Doğan Bekin'den çarpıcı açıklama",
-      "url": "https://www.sozcu.com.tr/dogan-bekin-yeniden-refah-partisinden-istifa-edecek-mi-p370722",
-      "tarih": "2026-10-19T16:02:28+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3026d80477d4",
-      "baslik": "İstifa haberleri geldi: Borsa çakıldı",
-      "ozet": "İstifa haberleri geldi: Borsa çakıldı",
-      "url": "https://www.sozcu.com.tr/istifa-haberlerinin-ardindan-borsa-istanbul-da-satis-baskisi-derinlesiyor-p370709",
-      "tarih": "2026-10-19T15:19:03+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95656,6 +95656,20 @@
       "ozet": "Antalya'nın 'alıngan' lideri: Rum lider Erdoğan'ı AB'ye şikayet etti",
       "lat": 36.9338,
       "lng": 30.7982,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a4c1e1839321",
+      "baslik": "Greta Thunberg COP31’de: COP Zirveleri Yeşil Aklama Sirkine Dönüştü",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "11.11.2026",
+      "url": "https://www.iklimhaber.org/greta-thunberg-cop31de-cop-zirveleri-yesil-aklama-sirkine-donustu/",
+      "ozet": "2021’de İskoçya’nın Glasgow kentinde düzenlenen COP 26 zirvesinden bu yana konferanslara katılmayan Greta Thunberg, COP 31 için Antalya’ya geldi. Greta’nın basın mensuplarına yaptığı açıklama ise hayli sertti: “COP zirveleri yeşil aklamayla süslenmiş sirklere dönüştü. Gerçek bu.”",
+      "lat": 36.8065,
+      "lng": 30.727,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
