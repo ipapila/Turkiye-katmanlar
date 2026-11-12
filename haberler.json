@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-12T10:30:40.668582+00:00",
+    "guncelleme": "2026-11-12T19:23:33.855468+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6692,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "f7849cf5f5da",
+      "baslik": "Uçurumun kıyısında süzülen trenler imkansızı başarıyor",
+      "ozet": "Uçurumun kıyısında süzülen trenler imkansızı başarıyor",
+      "url": "https://www.sozcu.com.tr/ucurumun-kiyisinda-suzulen-trenler-imkansizi-basariyor-p380768",
+      "tarih": "2026-11-12T17:53:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ab75ccffdf0d",
+      "baslik": "BM İklim Şefi: “Metan Emisyonu Azaltımı Dünyaya Zaman Kazandırabilir”",
+      "ozet": "UNFCCC İcra Sekreteri Simon Stiell, metan gibi süper kirleticilerin emisyonlarının azaltımında dünyanın önünde devasa bir fırsat olduğunu söylerken, “Üstelik iklim, ekonomiler ve insan sağlığı için kolayca ulaşılabilecek bir hedeften söz ediyoruz” dedi. 2021’de başlatılan Küresel",
+      "url": "https://www.iklimhaber.org/bm-iklim-sefi-metan-emisyonu-azaltimi-dunyaya-zaman-kazandirabilir/",
+      "tarih": "2026-11-12T12:33:41+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "47c74fb6703c",
+      "baslik": "COP31’de Çerçeve Karar Çıkacak mı?",
+      "ozet": "COP31’in dördüncü, Liderler Zirvesi’nin ikinci gününde konferans yoğun bir gündemle devam ediyor. Liderler ve ekipleri finansmandan elektrifikasyona kadar birçok konuyu yuvarlak masa toplantıları ve ikili görüşmelerde ele alacak. Gözlerin çevrildiği yer bir başka nokta ise Başkan",
+      "url": "https://www.iklimhaber.org/cop31de-cerceve-karar-cikacak-mi/",
+      "tarih": "2026-11-12T11:38:42+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "fba8174919bb",
       "baslik": "Barajgölü kıyısındaki şüpheli ölümün izleri sürülüyor: 3 gün kiminle görüştü?",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-10-21T06:52:55+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aad46264062d",
-      "baslik": "İstanbul’daki Sel Felaketinde İklim Değişikliğinin Payı Ne?",
-      "ozet": "Yeni bir çalışmaya göre İstanbul’u sular altında bırakan yağmur, geçmişe kıyasla daha şiddetli yağışlar ve kuvvetli rüzgarlar getiren bir hava sisteminden kaynaklanıyordu. İklim değişikliğinin, yağışları %7, rüzgarları ise %9 daha şiddetli hale getirdiği hesaplandı. Dünya genelin",
-      "url": "https://www.iklimhaber.org/istanbuldaki-sel-felaketinde-iklim-degisikliginin-payi-ne/",
-      "tarih": "2026-10-21T06:46:53+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a9663969a50c",
-      "baslik": "Ülke yangın yeri: Şiddet ve yağma olayları sonrası ordu sokağa iniyor",
-      "ozet": "Ülke yangın yeri: Şiddet ve yağma olayları sonrası ordu sokağa iniyor",
-      "url": "https://www.sozcu.com.tr/ulke-yangin-yeri-siddet-ve-yagma-olaylari-sonrasi-ordu-sokaga-iniyor-p371098",
-      "tarih": "2026-10-20T18:27:18+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "46193d5f0853",
-      "baslik": "Sel baskınlarını önlemek için yolların altına dev süngerler yerleştirdiler",
-      "ozet": "Sel baskınlarını önlemek için yolların altına dev süngerler yerleştirdiler",
-      "url": "https://www.sozcu.com.tr/sel-baskinlarini-onlemek-icin-yollarin-altina-dev-sungerler-yerlestirdiler-p371090",
-      "tarih": "2026-10-20T17:22:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
