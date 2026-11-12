@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-11T19:04:39.577300+00:00",
+    "guncelleme": "2026-11-12T10:30:40.668582+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6690,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "harita_kayit_sayisi": 6692,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "fba8174919bb",
+      "baslik": "Barajgölü kıyısındaki şüpheli ölümün izleri sürülüyor: 3 gün kiminle görüştü?",
+      "ozet": "Barajgölü kıyısındaki şüpheli ölümün izleri sürülüyor: 3 gün kiminle görüştü?",
+      "url": "https://www.sozcu.com.tr/barajgolu-kiyisindaki-supheli-olumun-izleri-suruluyor-3-gun-kiminle-gorustu-p380628",
+      "tarih": "2026-11-12T10:05:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b14e5d83cfe2",
+      "baslik": "Çin ve Türkiye Arasında 15 Milyar Dolarlık Yenilenebilir Enerji Anlaşması",
+      "ozet": "İşbirliğinin Türkiye’de sadece yenilenebilir enerji kapasitesini artırmakla kalmayacağını belirten Bayraktar “Aynı zamanda teknoloji transferini sağlayarak rüzgâr türbini ekipmanlarının ülkemizde üretilmesine ve yerli sanayimizin gelişimine de çok güçlü bir katkı sunacak” ifadele",
+      "url": "https://www.iklimhaber.org/cin-ve-turkiye-arasinda-15-milyar-dolarlik-yenilenebilir-enerji-anlasmasi/",
+      "tarih": "2026-11-12T09:58:05+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f3e089cc6266",
+      "baslik": "Greta Thunberg: “Gezegeni Kimin Öldürdüğünü Biliyoruz”",
+      "ozet": "Greta Thunberg, Antalya’da düzenlenen COP31 iklim müzakerelerinde yaptığı çarpıcı konuşmada gezegenin “ölmediğini, öldürüldüğünü ve bunu kimin yaptığını bildiklerini” söyledi. COP31 iklim müzakereleri Antalya’da devam ederken, Greta Thunberg gazetecilerle bir araya geldi. Thunber",
+      "url": "https://www.iklimhaber.org/greta-thunberg-gezegeni-kimin-oldurdugunu-biliyoruz/",
+      "tarih": "2026-11-12T09:53:02+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bae47e1bc8e0",
+      "baslik": "İklim Finansmanında Belirsizlik Devam Ediyor",
+      "ozet": "Zengin ülkelerin birçoğu henüz iklim finansmanı hedeflerini açıklamayı erteliyor. Bu durum da kaynak alıcısı ülkelerin planlama yapmasını ve özel yatırımları çekmesini zorlaştırıyor be bu ülkeleri belirsizlik içinde bırakıyor. Gelişmekte olan ülkeler, dünyanın en büyük ekonomiler",
+      "url": "https://www.iklimhaber.org/iklim-finansmaninda-belirsizlik-devam-ediyor/",
+      "tarih": "2026-11-12T08:52:59+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5a815670c7e4",
+      "baslik": "Merkez Bankası enflasyon hedefini yükseltti: Emekli, asgari ücret ve memur maaşında hesaplar sil baştan değişti",
+      "ozet": "Merkez Bankası enflasyon hedefini yükseltti: Emekli, asgari ücret ve memur maaşında hesaplar sil baştan değişti",
+      "url": "https://www.sozcu.com.tr/merkez-bankasi-enflasyon-hedefini-yukseltti-emekli-asgari-ucret-ve-memur-maasinda-hesaplar-sil-p380611",
+      "tarih": "2026-11-12T08:43:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b74b0d444a95",
+      "baslik": "Türkiye ve Asya Altyapı Yatırım Bankası 1,6 Milyar Dolarlık Rekor İklim Anlaşmasına İmza Attı",
+      "ozet": "Finansman, sürdürülebilir finansmanın ölçeğini büyütmeye, karbonsuzlaşmayı hızlandırmaya ve iklim direncini artırma çabalarını desteklemeye yardımcı olacak. Asya Altyapı Yatırım Bankası (AIIB), iklim hedeflerine ulaşmak için ihtiyaç duyduğu bir dizi politika reformunu desteklemek",
+      "url": "https://www.iklimhaber.org/turkiye-ve-asya-altyapi-yatirim-bankasi-16-milyar-dolarlik-rekor-iklim-anlasmasina-imza-atti/",
+      "tarih": "2026-11-12T07:22:53+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "faae5f4c815e",
+      "baslik": "CAT: Dünya Küresel Sıcaklık Eşiklerinde “Geri Döndürülemez bir Aşıma” Doğru İlerliyor",
+      "ozet": "CAT, aşımı hâlâ ulaşılabilir olan en düşük seviyede tutmak için eylem hızının zamanla artması gerektiğini hesapladı: 2030 yılına kadar yıllık yaklaşık %4’lük emisyon azaltımından, 2030’ların ilk yarısında yıllık %7’ye ve 2035–2050 döneminde yıllık %9’a çıkılması gerekiyor. Climat",
+      "url": "https://www.iklimhaber.org/cat-dunya-kuresel-sicaklik-esiklerinde-geri-dondurulemez-bir-asima-dogru-ilerliyor/",
+      "tarih": "2026-11-12T06:31:30+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "adaf5adfe6ba",
       "baslik": "İran ABD'yi adres vererek tehdit etti: Avrupa'daki üsleri vurabiliriz",
@@ -69,6 +139,16 @@
       "tarih": "2026-11-11T12:11:25+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5a02b1799fec",
+      "baslik": "Karabük'te iki ayrı trafik ihlali kamerada - Bölgenin Sesi Gazetesi",
+      "ozet": "Karabük'te iki ayrı trafik ihlali kamerada Bölgenin Sesi Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUpGR09CRG5TQ002ZG1EQnpXMkg2UXNjc3lYWlZodHRiMzhIVkJRMzlPdHJqNGRWcGpaVzM1T2MtcDF2aUl5dS1NLW93MHR4MDd0T1lxdld4X09HcUZGeGxydjYyeWI4UVEzc0I1bnRCQzhlN0VyVUF2ekpqdzBPbQ?oc=5",
+      "tarih": "2026-11-11T11:36:11+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1927,86 +2007,6 @@
       "ozet": "Sel baskınlarını önlemek için yolların altına dev süngerler yerleştirdiler",
       "url": "https://www.sozcu.com.tr/sel-baskinlarini-onlemek-icin-yollarin-altina-dev-sungerler-yerlestirdiler-p371090",
       "tarih": "2026-10-20T17:22:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "28c02e7f239c",
-      "baslik": "2 ay önce göreve başlayan Cumhurbaşkanı saldırı talimatı verdi: Ülkede ‘kaplan dönemi’ resmen başladı",
-      "ozet": "2 ay önce göreve başlayan Cumhurbaşkanı saldırı talimatı verdi: Ülkede ‘kaplan dönemi’ resmen başladı",
-      "url": "https://www.sozcu.com.tr/2-ay-once-goreve-baslayan-cumhurbaskani-saldiri-talimati-verdi-ulkede-kaplan-donemi-resmen-basladi-p371089",
-      "tarih": "2026-10-20T17:19:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1323d5742f8c",
-      "baslik": "Selçuk İnan'dan sakatlık açıklaması! 3 ismin son durumunu açıkladı",
-      "ozet": "Selçuk İnan'dan sakatlık açıklaması! 3 ismin son durumunu açıkladı",
-      "url": "https://www.sozcu.com.tr/selcuk-inan-dan-sakatlik-aciklamasi-3-ismin-son-durumunu-acikladi-p371066",
-      "tarih": "2026-10-20T15:19:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fc85f5bd3479",
-      "baslik": "Büyük skandal... Türkiye'nin 103 yıllık sucuk markasının genel müdürü yüz milyonlarca lirayı kendi hesabına çekti",
-      "ozet": "Büyük skandal... Türkiye'nin 103 yıllık sucuk markasının genel müdürü yüz milyonlarca lirayı kendi hesabına çekti",
-      "url": "https://www.sozcu.com.tr/buyuk-skandal-turkiye-nin-103-yillik-sucuk-markasinin-genel-muduru-yuz-milyonlarca-lirayi-kendi-p371038",
-      "tarih": "2026-10-20T13:45:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8ea4b8d256c3",
-      "baslik": "Asfaltın altına sıcak su boruları döşediler",
-      "ozet": "Asfaltın altına sıcak su boruları döşediler",
-      "url": "https://www.sozcu.com.tr/asfaltin-altina-sicak-su-borulari-dosediler-p371031",
-      "tarih": "2026-10-20T13:04:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ced7de0dbd74",
-      "baslik": "Yeni dönemde çevre güvenliğinin sağlanmasına ilişkin Politbüro Direktifi - Vietnam.vn",
-      "ozet": "Yeni dönemde çevre güvenliğinin sağlanmasına ilişkin Politbüro Direktifi Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzFFMW84eVJTaWxqQmJWeUVCeDllckR6a0RFTkg1SmIwM21xTnNYSDZ2Ri1KV1RsRXY5SjhRX1hyWVpPWW9tcVVMV1hZRU9QUmRrMnhrT3lCVW5GSkZlTWdteUl6TDkyQjRvYUtxYl9nNWdWb2Z2czEyWmNzSDB2MWRCSHJzeWIyc3dlUllGUU5WVTRHeDZQdWNZWVFacUE?oc=5",
-      "tarih": "2026-10-20T08:41:09+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f7fd7be0bf09",
-      "baslik": "IPCC Toplantısı Yeni Raporun Yayın Tarihi Belirlenmeden Sona Erdi",
-      "ozet": "IPCC raporunun 2028 iklim müzakerelerine yetişmeme ihtimali aralarında Avrupa, Latin Amerika ve küçük ada ülkelerinin de bulunduğu ve acil eylem çağrısında bulunan 30 ülkeden oluşan koalisyonu endişelendirdi. Hükümetler, 2028’deki BM iklim müzakerelerinde “Küresel Durum Değerlend",
-      "url": "https://www.iklimhaber.org/ipcc-toplantisi-yeni-raporun-yayin-tarihi-belirlenmeden-sona-erdi/",
-      "tarih": "2026-10-20T08:18:15+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1ac614531495",
-      "baslik": "Dolar/TL'de yükseliş durmuyor: Yeni rekor geldi",
-      "ozet": "Dolar/TL'de yükseliş durmuyor: Yeni rekor geldi",
-      "url": "https://www.sozcu.com.tr/dolar-tl-de-yukselis-durmuyor-yeni-rekor-geldi-p370908",
-      "tarih": "2026-10-20T08:02:28+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f596e7e2a820",
-      "baslik": "İşsizlik maaşı artık böyle hesaplanacak: Milyonları ilgilendiren karar verildi",
-      "ozet": "İşsizlik maaşı artık böyle hesaplanacak: Milyonları ilgilendiren karar verildi",
-      "url": "https://www.sozcu.com.tr/issizlik-maasi-artik-boyle-hesaplanacak-milyonlari-ilgilendiren-karar-verildi-p370902",
-      "tarih": "2026-10-20T07:46:03+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95670,6 +95670,34 @@
       "ozet": "2021’de İskoçya’nın Glasgow kentinde düzenlenen COP 26 zirvesinden bu yana konferanslara katılmayan Greta Thunberg, COP 31 için Antalya’ya geldi. Greta’nın basın mensuplarına yaptığı açıklama ise hayli sertti: “COP zirveleri yeşil aklamayla süslenmiş sirklere dönüştü. Gerçek bu.”",
       "lat": 36.8065,
       "lng": 30.727,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-5a02b1799fec",
+      "baslik": "Karabük'te iki ayrı trafik ihlali kamerada - Bölgenin Sesi Gazetesi",
+      "konum": "Karabük",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "12.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUpGR09CRG5TQ002ZG1EQnpXMkg2UXNjc3lYWlZodHRiMzhIVkJRMzlPdHJqNGRWcGpaVzM1T2MtcDF2aUl5dS1NLW93MHR4MDd0T1lxdld4X09HcUZGeGxydjYyeWI4UVEzc0I1bnRCQzhlN0VyVUF2ekpqdzBPbQ?oc=5",
+      "ozet": "Karabük'te iki ayrı trafik ihlali kamerada Bölgenin Sesi Gazetesi",
+      "lat": 41.2218,
+      "lng": 32.7171,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f3e089cc6266",
+      "baslik": "Greta Thunberg: “Gezegeni Kimin Öldürdüğünü Biliyoruz”",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "12.11.2026",
+      "url": "https://www.iklimhaber.org/greta-thunberg-gezegeni-kimin-oldurdugunu-biliyoruz/",
+      "ozet": "Greta Thunberg, Antalya’da düzenlenen COP31 iklim müzakerelerinde yaptığı çarpıcı konuşmada gezegenin “ölmediğini, öldürüldüğünü ve bunu kimin yaptığını bildiklerini” söyledi. COP31 iklim müzakereleri Antalya’da devam ederken, Greta Thunberg gazetecilerle bir araya geldi. Thunber",
+      "lat": 36.7915,
+      "lng": 30.6852,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

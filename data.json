@@ -121661,5 +121661,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/greta-thunberg-cop31de-cop-zirveleri-yesil-aklama-sirkine-donustu/"
+  },
+  {
+    "id": "tarayici-5a02b1799fec",
+    "tip": "Ekolojik İhlal",
+    "ad": "Karabük'te iki ayrı trafik ihlali kamerada - Bölgenin Sesi Gazetesi",
+    "il": "Karabük",
+    "ilce": "",
+    "aciklama": "Karabük'te iki ayrı trafik ihlali kamerada Bölgenin Sesi Gazetesi",
+    "koordinatlar": {
+      "lat": 41.2218,
+      "lng": 32.7171
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "12.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUpGR09CRG5TQ002ZG1EQnpXMkg2UXNjc3lYWlZodHRiMzhIVkJRMzlPdHJqNGRWcGpaVzM1T2MtcDF2aUl5dS1NLW93MHR4MDd0T1lxdld4X09HcUZGeGxydjYyeWI4UVEzc0I1bnRCQzhlN0VyVUF2ekpqdzBPbQ?oc=5"
+  },
+  {
+    "id": "tarayici-f3e089cc6266",
+    "tip": "Ekolojik İhlal",
+    "ad": "Greta Thunberg: “Gezegeni Kimin Öldürdüğünü Biliyoruz”",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Greta Thunberg, Antalya’da düzenlenen COP31 iklim müzakerelerinde yaptığı çarpıcı konuşmada gezegenin “ölmediğini, öldürüldüğünü ve bunu kimin yaptığını bildiklerini” söyledi. COP31 iklim müzakereleri Antalya’da devam ederken, Greta Thunberg gazetecilerle bir araya geldi. Thunber",
+    "koordinatlar": {
+      "lat": 36.7915,
+      "lng": 30.6852
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "12.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/greta-thunberg-gezegeni-kimin-oldurdugunu-biliyoruz/"
   }
 ]
