@@ -121699,5 +121699,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/greta-thunberg-gezegeni-kimin-oldurdugunu-biliyoruz/"
+  },
+  {
+    "id": "tarayici-42ba220e9531",
+    "tip": "İklim Olayları",
+    "ad": "İzmir'de orman yangını: Ekiplerin müdahalesi sürüyor - Cumhuriyet",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir'de orman yangını: Ekiplerin müdahalesi sürüyor Cumhuriyet",
+    "koordinatlar": {
+      "lat": 38.3187,
+      "lng": 27.1723
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "13.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejhNSUptNWRfY2V1UGZ2TTBCUlRRYk1HMXpJUy1wX242alpoM181c0xjOXc0MmtLS0NPaElycnFhZXpSUUI4YlVzemhuc2pyZUM3d29jNUQzQm5JU0tSenlUaXFfOF9HSkxodGlIYUFzNmUxQnFiQ1dzM192eTRrWjcwSExySUViYURCV1JKY0NQOW55d0pGUkhjeUxrUQ?oc=5"
   }
 ]

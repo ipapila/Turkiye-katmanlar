@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-12T19:23:33.855468+00:00",
+    "guncelleme": "2026-11-13T10:24:01.255964+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6692,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6693,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "8e3e8bfeef73",
+      "baslik": "COP29, Azerbaycan’da iklim finansmanı için yol ayrımında",
+      "ozet": "",
+      "url": "https://yesilgazete.org/cop29-azerbaycanda-iklim-finansmani-icin-yol-ayriminda/",
+      "tarih": "2026-11-13T10:23:42.706806+00:00",
+      "kaynak": "Yeşil Gazete",
+      "kategori": "Çevre Medyası",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "71226f880efe",
+      "baslik": "Erdoğan'ın eski metin yazarı: \"Klikler birbirlerine operasyon çekiyor\"",
+      "ozet": "Erdoğan'ın eski metin yazarı: \"Klikler birbirlerine operasyon çekiyor\"",
+      "url": "https://www.sozcu.com.tr/erdogan-in-eski-metin-yazari-klikler-birbirlerine-operasyon-cekiyor-p381015",
+      "tarih": "2026-11-13T10:23:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "342ec6919b45",
+      "baslik": "Borsa günün ilk yarısında pozitif seyretti -13 Kasım 2026",
+      "ozet": "Borsa günün ilk yarısında pozitif seyretti -13 Kasım 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-pozitif-seyretti-13-kasim-2026-p381021",
+      "tarih": "2026-11-13T10:22:18+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e4dd1bfb5b02",
+      "baslik": "İklim STK’ları: Fosil Yakıtlar Militarizasyonun Yaygınlaşmasına Olanak Sağladı",
+      "ozet": "Filistin’de devam eden soykırımı gündeme taşıyan İklim STK’ları, soykırım sürerken gerçekleşen 4. COP’ta, soykırımı körükleyen sistemin iklim krizini körükleyen sistemle aynı olduğunu vurguladı. YAZI: Bulut BAGATIR Climate Action Network’ün COP31’deki bugünkü basın toplantısının ",
+      "url": "https://www.iklimhaber.org/iklim-stklari-fosil-yakitlar-militarizasyonun-yayginlasmasina-olanak-sagladi/",
+      "tarih": "2026-11-13T10:17:13+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c77d784cb686",
+      "baslik": "COP31’in İlk Haftası Nasıl Geçiyor?",
+      "ozet": "İPM’den Dr. Ümit Şahin, ülkelerin pozisyonlarının belirginleşmeye başladığını söyledi. COP31 Başkanı Murat Kurum’un resmi konuşma metinlerinin zayıf olduğunu ancak basın toplantılarında daha ilerici söylemlerde bulunduğuna dikkat çeken Şahin, elektrifikasyon metninin ise fosil ya",
+      "url": "https://www.iklimhaber.org/cop31in-ilk-haftasi-nasil-geciyor/",
+      "tarih": "2026-11-13T09:16:07+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bc8c005ae866",
+      "baslik": "COP31’de Alınacak Kararların Odağında Sağlık Olmalı",
+      "ozet": "Küresel İklim ve Sağlık İttifakı (Global Climate and Health Alliance) öncülüğündeki sağlık ve iklim kuruluşları, COP31’e katılan tüm ülkelere sağlığı koruyan kararlar alma çağrısı yaptı. Küresel İklim ve Sağlık İttifakı (Global Climate and Health Alliance – GCHA) öncülüğündeki sa",
+      "url": "https://www.iklimhaber.org/cop31de-alinacak-kararlarin-odaginda-saglik-olmali/",
+      "tarih": "2026-11-13T06:53:42+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f7849cf5f5da",
       "baslik": "Uçurumun kıyısında süzülen trenler imkansızı başarıyor",
@@ -1947,66 +2007,6 @@
       "ozet": "Meta’ya New Mexico’da gizlilik ihlali nedeniyle 25 milyar dolar ceza dikGAZETE.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjIzSklSMnpkYzctbjhLUzE4YjNub3gwY1JtcGg5MTdWdWt4MjFTQ0NVeTk0VDNSSFEyTjFYX0drYks3S0pzV3JtYWdvUVRMWVlXandQZmVLS1dTaXZiRHRJaXBfRjFjTnNuRExpSkdYVk9kUFBNUG5qQWwydHA3U093b3dheVlHLUlOR1o3WUs4VkZzMXZmSldBZF9VVENvMldubXZDVkhDZHBjeFRSUnlOQQ?oc=5",
       "tarih": "2026-10-21T19:24:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "832cdb2ef647",
-      "baslik": "13 yaş farkı aşka engel olmadı: Ahu Yağtu ve Bora Cengiz ilk kez el ele",
-      "ozet": "13 yaş farkı aşka engel olmadı: Ahu Yağtu ve Bora Cengiz ilk kez el ele",
-      "url": "https://www.sozcu.com.tr/13-yas-farki-aska-engel-olmadi-ahu-yagtu-ve-bora-cengiz-ilk-kez-el-ele-p371365",
-      "tarih": "2026-10-21T12:24:43+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5a2d945afbc7",
-      "baslik": "BM: Dünya 2.8 Derecelik bir Sıcaklık Artışına Doğru Yol Alıyor",
-      "ozet": "BM’nin Emisyon Açığı 2026 raporuna göre, mevcut politikalarla devam edilmesi durumunda, küresel sıcaklık artışı yüzyıl sonuna kadar 2.8 dereceye ulaşabilir. COP31 Başkanı ve ev sahibi Türkiye de, çalışmada, 2025’te emisyonlarını en hızlı artıran ikinci G20 ülkesi olarak öne çıkıy",
-      "url": "https://www.iklimhaber.org/bm-dunya-2-8-derecelik-bir-sicaklik-artisina-dogru-yol-aliyor/",
-      "tarih": "2026-10-21T09:02:04+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9f1c48a0b7fa",
-      "baslik": "Çin COP31’in Temiz Teknolojiye Yönelik Gümrük Vergilerine Odaklanmasını İstiyor",
-      "ozet": "Çin, önümüzdeki ay Türkiye’de düzenlenecek COP31 zirvesinin, küresel iklim mücadelesinde “yeni bir sorun” olarak tanımladığı kendi temiz teknolojilerine uygulanan gümrük vergilerine odaklanmasını istiyor. Ülkenin Ekoloji ve Çevre Bakan Yardımcısı Li Gao düzenlediği basın toplantı",
-      "url": "https://www.iklimhaber.org/cin-cop31in-temiz-teknolojiye-yonelik-gumruk-vergilerine-odaklanmasini-istiyor/",
-      "tarih": "2026-10-21T08:00:17+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8fa72adb0d59",
-      "baslik": "İvme Kazanan Küresel Isınma Ekosistemleri Devrilme Noktalarına Yaklaştırıyor",
-      "ozet": "Rockström, mercan resifleri ve Amazon Yağmur Ormanları’na verilen zararın geri döndürülemez bir noktaya gelmeye yakın olduğunu söyledi. Potsdam İklim Etki Araştırmaları Enstitüsü direktörü Johan Rockström, fosil yakıt emisyonlarının neden olduğu küresel ısınmanın hızlandığını ve ",
-      "url": "https://www.iklimhaber.org/ivme-kazanan-kuresel-isinma-ekosistemleri-devrilme-noktalarina-yaklastiriyor/",
-      "tarih": "2026-10-21T07:09:22+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "66c0f48fb58f",
-      "baslik": "Borsa güne düşüşle başladı -21 Ekim 2026",
-      "ozet": "Borsa güne düşüşle başladı -21 Ekim 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-21-ekim-2026-p371250",
-      "tarih": "2026-10-21T07:02:06+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "21edd755bf4b",
-      "baslik": "Türk Çevre Mevzuatında kirleten Öder İlkesi: Çevreyi kirleten kim, hangi bedeli ödüyor? - Haberton",
-      "ozet": "Türk Çevre Mevzuatında kirleten Öder İlkesi: Çevreyi kirleten kim, hangi bedeli ödüyor? Haberton",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTBLanU0ZUJiaHZ3VmNPSUFsRDRLTERtVjBXNHlWMzNUQTJrb1Vzdm9OWEM5aHphT2JkQXVPYXZ0a09TNy1NZzdtTUl0R3RWZXFrbUhDRWVkZ0p0UUZMM0pNSjFQMHdlLU9fd1Bwb1czUWZWWXJRVTZJQzhSR1ppajNIV2lZYUhEYkFTVDJRbmVNQmwtYXh2RjJCVEZHUXNFQUpQX2RSVVdrZw?oc=5",
-      "tarih": "2026-10-21T06:52:55+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
@@ -95698,6 +95698,20 @@
       "ozet": "Greta Thunberg, Antalya’da düzenlenen COP31 iklim müzakerelerinde yaptığı çarpıcı konuşmada gezegenin “ölmediğini, öldürüldüğünü ve bunu kimin yaptığını bildiklerini” söyledi. COP31 iklim müzakereleri Antalya’da devam ederken, Greta Thunberg gazetecilerle bir araya geldi. Thunber",
       "lat": 36.7915,
       "lng": 30.6852,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-42ba220e9531",
+      "baslik": "İzmir'de orman yangını: Ekiplerin müdahalesi sürüyor - Cumhuriyet",
+      "konum": "İzmir",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "13.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejhNSUptNWRfY2V1UGZ2TTBCUlRRYk1HMXpJUy1wX242alpoM181c0xjOXc0MmtLS0NPaElycnFhZXpSUUI4YlVzemhuc2pyZUM3d29jNUQzQm5JU0tSenlUaXFfOF9HSkxodGlIYUFzNmUxQnFiQ1dzM192eTRrWjcwSExySUViYURCV1JKY0NQOW55d0pGUkhjeUxrUQ?oc=5",
+      "ozet": "İzmir'de orman yangını: Ekiplerin müdahalesi sürüyor Cumhuriyet",
+      "lat": 38.3187,
+      "lng": 27.1723,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
