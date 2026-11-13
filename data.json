@@ -121718,5 +121718,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejhNSUptNWRfY2V1UGZ2TTBCUlRRYk1HMXpJUy1wX242alpoM181c0xjOXc0MmtLS0NPaElycnFhZXpSUUI4YlVzemhuc2pyZUM3d29jNUQzQm5JU0tSenlUaXFfOF9HSkxodGlIYUFzNmUxQnFiQ1dzM192eTRrWjcwSExySUViYURCV1JKY0NQOW55d0pGUkhjeUxrUQ?oc=5"
+  },
+  {
+    "id": "tarayici-51b8e0fad86f",
+    "tip": "Ekolojik İhlal",
+    "ad": "İzmir Aliağa'daki faciada can kaybı 19'a yükseldi",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir Aliağa'daki faciada can kaybı 19'a yükseldi",
+    "koordinatlar": {
+      "lat": 38.3867,
+      "lng": 27.1949
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "13.11.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/izmir-aliaga-daki-faciada-can-kaybi-19-a-yukseldi-p381112"
   }
 ]

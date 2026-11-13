@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-11-13T10:24:01.255964+00:00",
+    "guncelleme": "2026-11-13T19:00:51.933518+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6693,
+    "harita_kayit_sayisi": 6694,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "b334a5c83dcf",
+      "baslik": "Borussia Dortmund'un tartışmalı silah üreticisi sponsorluğu 2027'de bitecek",
+      "ozet": "Borussia Dortmund'un tartışmalı silah üreticisi sponsorluğu 2027'de bitecek",
+      "url": "https://www.sozcu.com.tr/dortmundun-tartismali-silah-ureticisi-sponsorlugu-2027de-bitecek-p381130",
+      "tarih": "2026-11-13T17:54:06+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "178c648bb065",
+      "baslik": "Fatih Terim'in 83 bin TL'lik restoran hesabını ödeme yöntemi şaşırttı",
+      "ozet": "Fatih Terim'in 83 bin TL'lik restoran hesabını ödeme yöntemi şaşırttı",
+      "url": "https://www.sozcu.com.tr/fatih-terim-in-83-bin-tl-lik-restoran-hesabini-odeme-yontemi-sasirtti-p381125",
+      "tarih": "2026-11-13T17:05:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "51b8e0fad86f",
+      "baslik": "İzmir Aliağa'daki faciada can kaybı 19'a yükseldi",
+      "ozet": "İzmir Aliağa'daki faciada can kaybı 19'a yükseldi",
+      "url": "https://www.sozcu.com.tr/izmir-aliaga-daki-faciada-can-kaybi-19-a-yukseldi-p381112",
+      "tarih": "2026-11-13T15:46:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "022c54686830",
+      "baslik": "Galatasaray'da istifa depremi! Resmi siteden açıklandı",
+      "ozet": "Galatasaray'da istifa depremi! Resmi siteden açıklandı",
+      "url": "https://www.sozcu.com.tr/galatasaray-da-istifa-depremi-resmi-siteden-aciklandi-p381113",
+      "tarih": "2026-11-13T15:14:15+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5883cca29bda",
+      "baslik": "Fınancial Times: Fon Krizi Türkiye’nin İklim Finansmanı Arayışını Etkileyebilir",
+      "ozet": "Financial Times gazetesi Türkiye’yi sarsan fon skandalıyla ilgili hazırladığı haber yorumda, ülkedeki finans sistemine karşı oluşan güvensizlik ortamının iklim krizi ile mücadele için aranan kaynak arayışlarını da olumsuz etkileyeceğini yazdı. Londra merkezli Financial Times gaze",
+      "url": "https://www.iklimhaber.org/financial-times-fon-krizi-turkiyenin-iklim-finansmani-arayisini-etkileyebilir/",
+      "tarih": "2026-11-13T12:56:21+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "8e3e8bfeef73",
       "baslik": "COP29, Azerbaycan’da iklim finansmanı için yol ayrımında",
@@ -57,6 +107,16 @@
       "ozet": "İPM’den Dr. Ümit Şahin, ülkelerin pozisyonlarının belirginleşmeye başladığını söyledi. COP31 Başkanı Murat Kurum’un resmi konuşma metinlerinin zayıf olduğunu ancak basın toplantılarında daha ilerici söylemlerde bulunduğuna dikkat çeken Şahin, elektrifikasyon metninin ise fosil ya",
       "url": "https://www.iklimhaber.org/cop31in-ilk-haftasi-nasil-geciyor/",
       "tarih": "2026-11-13T09:16:07+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5201a0d6eaf2",
+      "baslik": "Çin COP33 Adaylığında Geri Adım Attı",
+      "ozet": "Kararın, dünyanın en büyük seragazı emisyonu kaynağı olan Çin’in uluslararası sahnede liderlik üstlenmesini bekleyen çok sayıda ülkeyi ve iklim uzmanını hayal kırıklığına uğratacağı düşünülüyor. Çin, aylar süren değerlendirmelerin ardından 2028 yılında düzenlenecek Birleşmiş Mill",
+      "url": "https://www.iklimhaber.org/cin-cop33-adayliginda-geri-adim-atti/",
+      "tarih": "2026-11-13T09:00:04+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -1949,66 +2009,6 @@
       "tarih": "2026-10-22T08:30:02+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "74cf584ef270",
-      "baslik": "Türkiye'de gözler saat 14.00'e çevrildi: Dolar, euro ve borsa nasıl etkilenecek?",
-      "ozet": "Türkiye'de gözler saat 14.00'e çevrildi: Dolar, euro ve borsa nasıl etkilenecek?",
-      "url": "https://www.sozcu.com.tr/turkiye-de-gozler-saat-14-00-e-cevrildi-dolar-euro-ve-borsa-nasil-etkilenecek-p371593",
-      "tarih": "2026-10-22T07:03:02+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a5f29590bbf9",
-      "baslik": "Borsa güne düşüşle başladı -22 Ekim 2026",
-      "ozet": "Borsa güne düşüşle başladı -22 Ekim 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-22-ekim-2026-p371597",
-      "tarih": "2026-10-22T07:02:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "00b16bb5e3a5",
-      "baslik": "Deniz sınırları anlaşması Mısır'ı küplere bindirdi: Türkiye'ye karşı çok sert ifadeler",
-      "ozet": "Deniz sınırları anlaşması Mısır'ı küplere bindirdi: Türkiye'ye karşı çok sert ifadeler",
-      "url": "https://www.sozcu.com.tr/deniz-sinirlari-anlasmasi-misir-i-kuplere-bindirdi-turkiye-ye-karsi-cok-sert-ifadeler-p371592",
-      "tarih": "2026-10-22T06:48:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ebe135d6b84c",
-      "baslik": "Şafak Sezer “Erdoğan'ı neden seviyorsunuz?” sorusuna böyle yanıt verdi",
-      "ozet": "Şafak Sezer “Erdoğan'ı neden seviyorsunuz?” sorusuna böyle yanıt verdi",
-      "url": "https://www.sozcu.com.tr/safak-sezer-erdogan-i-neden-seviyorsunuz-sorusuna-boyle-yanit-verdi-p371583",
-      "tarih": "2026-10-22T06:42:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a9f7cb97852c",
-      "baslik": "Temel Gelir Yardımı Amazonları Korumada İşe Yaradı",
-      "ozet": "Peru Amazonlar’ında yerli halka günde 2 sterlinlik bir nakit desteği verilen ve 2 yıldır devam eden proje, yağmur ormanlarının korunmasına katkı sundu. Araştırmya göre temel gelir programına katılanların yaklaşık %90’ı çevreye faydalı uygulamaları benimsedi… Yeni bir araştırmaya ",
-      "url": "https://www.iklimhaber.org/temel-gelir-yardimi-amazonlari-korumada-ise-yaradi/",
-      "tarih": "2026-10-22T06:30:10+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "90fedf432e93",
-      "baslik": "Meta’ya New Mexico’da gizlilik ihlali nedeniyle 25 milyar dolar ceza - dikGAZETE.com",
-      "ozet": "Meta’ya New Mexico’da gizlilik ihlali nedeniyle 25 milyar dolar ceza dikGAZETE.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjIzSklSMnpkYzctbjhLUzE4YjNub3gwY1JtcGg5MTdWdWt4MjFTQ0NVeTk0VDNSSFEyTjFYX0drYks3S0pzV3JtYWdvUVRMWVlXandQZmVLS1dTaXZiRHRJaXBfRjFjTnNuRExpSkdYVk9kUFBNUG5qQWwydHA3U093b3dheVlHLUlOR1o3WUs4VkZzMXZmSldBZF9VVENvMldubXZDVkhDZHBjeFRSUnlOQQ?oc=5",
-      "tarih": "2026-10-21T19:24:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
@@ -95712,6 +95712,20 @@
       "ozet": "İzmir'de orman yangını: Ekiplerin müdahalesi sürüyor Cumhuriyet",
       "lat": 38.3187,
       "lng": 27.1723,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-51b8e0fad86f",
+      "baslik": "İzmir Aliağa'daki faciada can kaybı 19'a yükseldi",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "13.11.2026",
+      "url": "https://www.sozcu.com.tr/izmir-aliaga-daki-faciada-can-kaybi-19-a-yukseldi-p381112",
+      "ozet": "İzmir Aliağa'daki faciada can kaybı 19'a yükseldi",
+      "lat": 38.3867,
+      "lng": 27.1949,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
