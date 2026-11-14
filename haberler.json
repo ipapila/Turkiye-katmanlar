@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-14T17:31:03.243499+00:00",
+    "guncelleme": "2026-11-14T21:51:44.018797+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6695,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "0bfb0e4e394c",
+      "baslik": "Zelenskiy resti çekti, Trump’ın teklifini reddetti",
+      "ozet": "Zelenskiy resti çekti, Trump’ın teklifini reddetti",
+      "url": "https://www.sozcu.com.tr/zelenskiy-resti-cekti-trump-in-teklifini-reddetti-p381381",
+      "tarih": "2026-11-14T20:27:50+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c71cc988fef0",
       "baslik": "Doğadan toplayıp yedi, hayatını kaybetti",
@@ -1997,16 +2007,6 @@
       "ozet": "COP31 öncesinde Türkiye’nin iklim politikalarını değerlendiren yeni bir rapor, 2053 net sıfır hedefi doğrultusunda, Türkiye’ye emisyon azaltım hedeflerinin güçlendirilmesi, kömürden çıkış takvimi belirlenmesi ve iklim politikalarında şeffaflığın artırılması gibi önemli çağrılarda",
       "url": "https://www.iklimhaber.org/cop31-arifesinde-turkiyeye-iklim-politikalarini-guclendirme-cagrisi/",
       "tarih": "2026-10-23T08:00:31+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ead89dab6233",
-      "baslik": "BM: El Niño Pasifik’te Rekor Sıcaklık Artışına Yol Açabilir",
-      "ozet": "BM tarafından yapılan açıklamada, El Niño hava olayının, sele ve kuraklıklara yol açan bir “yıkım güllesi” gibi savrulurken Pasifik Okyanusu sıcaklıklarında rekor düzeyde bir artışa neden olabileceği aktarıldı. Dünya Meteoroloji Örgütü’nün (WMO) yeni mevsimsel görünüm raporu, El ",
-      "url": "https://www.iklimhaber.org/bm-el-nino-pasifikte-rekor-sicaklik-artisina-yol-acabilir/",
-      "tarih": "2026-10-23T07:00:54+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
