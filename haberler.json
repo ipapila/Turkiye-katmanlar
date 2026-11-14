@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-13T19:00:51.933518+00:00",
+    "guncelleme": "2026-11-14T09:40:48.281892+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6694,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "3f4bd4a99759",
+      "baslik": "BM İklim Şefi Stiell: “Ülkeler Süreci Yavaşlatan Hamlelerden Kaçınmalı”",
+      "ozet": "COP31’de birinci hafta geride kalırken, UNFCCC İcra sekreteri Simon Stiell, ülkeleri en zorlu konulara hızla geçmeye ve taktiksel gecikmelerden kaçınmaya davet etti. COP31’in ilk haftasını değerlendiren BM İklim Değişikliği Çerçeve Sözleşmesi İcra Sekreteri Simon Stiell, zirvenin",
+      "url": "https://www.iklimhaber.org/bm-iklim-sefi-stiell-ulkeler-sureci-yavaslatan-hamlelerden-kacinmali/",
+      "tarih": "2026-11-14T09:17:30+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9a2e07cbcebe",
+      "baslik": "COP31 İklim Taahhütlerini Eyleme Dönüştürmek için Finansmanı Harekete Geçirmeye Çalışıyor",
+      "ozet": "Şili, Lübnan, Meksika ve Zambiya, ulusal iklim önceliklerini yatırıma hazır projelere dönüştürmek üzere diğer beş ülkeye katıldı. Amaç, iklim finansmanı ve yatırımlarının önündeki engelleri hedef almak. COP31, dün hükümetleri, finans kuruluşlarını ve işletmeleri iklim eyleminin u",
+      "url": "https://www.iklimhaber.org/cop31-iklim-taahhutlerini-eyleme-donusturmek-icin-finansmani-harekete-gecirmeye-calisiyor/",
+      "tarih": "2026-11-14T08:36:11+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "33ad90e85fb8",
+      "baslik": "Guterres’ten Köklü Emisyon Azaltımı Çağrısı",
+      "ozet": "BM Genel Sekreteri Antonio Guterres, Türkiye’de düzenlenen COP31 iklim müzakerelerinin ilk haftasına fosil yakıtlar konusundaki görüş ayrılıklarının damga vurduğu bir dönemde, sera gazı emisyonlarında “acil ve köklü bir azaltım” çağrısında bulundu. Gözlemciler, görüşmelerin ilk h",
+      "url": "https://www.iklimhaber.org/guterresten-koklu-emisyon-azaltimi-cagrisi/",
+      "tarih": "2026-11-14T07:31:07+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d24d75486511",
+      "baslik": "ECO: İklime Pek de Gönlü Yok",
+      "ozet": "1972 yılından beri sivil toplum grupları tarafından UNFCCC’den gelişmeleri ve sivil toplumun sesini aktarmak için Climate Action Network tarafından yayımlanan ECO’nun yeni bülteni yayında. Mark Carney Başbakan olduğunda eski bir BM İklim Eylemi Özel Temsilcisi olduğu için ECO umu",
+      "url": "https://www.iklimhaber.org/eco-iklime-pek-de-gonlu-yok/",
+      "tarih": "2026-11-14T07:05:51+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6f92c76bf1c2",
+      "baslik": "Ninh Binh'de dört işletme deniz çevre koruma yönetmeliklerini ihlal etti. - Vietnam.vn",
+      "ozet": "Ninh Binh'de dört işletme deniz çevre koruma yönetmeliklerini ihlal etti. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlNpdmY5SU51bzFaWHVjdlhhUnJhanF4bHJESThRTHpDV2hJZ0hOajl6NWpibm53YWNWbC1aMlV0T0k5UVNpbHM3TmE4OVoydUVNeG5IaW81b01MSkdtQjdvWmtzYWIwdlEzaDB3Ukxnc2FCX0VjNmpZVV96NFR3TWgwR0hibzNzaWJUdktybEJwcmdFMGJv?oc=5",
+      "tarih": "2026-11-14T04:08:41+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b334a5c83dcf",
       "baslik": "Borussia Dortmund'un tartışmalı silah üreticisi sponsorluğu 2027'de bitecek",
@@ -1957,56 +2007,6 @@
       "ozet": "Allianz İklim Ekonomisi Raporu, 2025’te aşırı hava olaylarının küresel ekonomiye maliyetinin 184 milyar euroya ulaştığını belirtirken, güçlü bir El Niño’nun 2027’de küresel ekonomide 395 milyar euro değerinde üretim kaybına yol açabileceğine dikkat çekiyor. Rapor, Türkiye’yi de h",
       "url": "https://www.iklimhaber.org/iklim-riskleri-kuresel-ekonomiyi-tehdit-ediyor/",
       "tarih": "2026-10-23T06:30:33+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b827a53c0c7d",
-      "baslik": "Emisyon Ticaret Sistemi’nin İşleyişine Dair Yönetmelik Yayında",
-      "ozet": "Yönetmelik ile Enerji Piyasaları İşletme A.Ş. (EPİAŞ) tarafından işletilecek birincil, ikincil ve spot piyasalara yönelik ilkeler ile sistem kapsamında sağlanacak ücretsiz ve tamamlayıcı tahsisat işlemleri ve düzenlenecek tahsisat ihaleleri gibi konulardaki işleyiş kuralları beli",
-      "url": "https://www.iklimhaber.org/emisyon-ticaret-sisteminin-isleyisine-dair-yonetmelik-yayinda/",
-      "tarih": "2026-10-23T05:45:20+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "53b22c363352",
-      "baslik": "Merkez Bankası'ndan gelen karar borsayı vurdu",
-      "ozet": "Merkez Bankası'ndan gelen karar borsayı vurdu",
-      "url": "https://www.sozcu.com.tr/merkez-bankasi-ndan-gelen-karar-borsayi-vurdu-p371813",
-      "tarih": "2026-10-22T18:27:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d423290ad791",
-      "baslik": "Son dakika....Yasa dışı üreme hücresi ticareti soruşturmasında 8 tutuklama",
-      "ozet": "Son dakika....Yasa dışı üreme hücresi ticareti soruşturmasında 8 tutuklama",
-      "url": "https://www.sozcu.com.tr/son-dakika-yasa-disi-ureme-hucresi-ticareti-sorusturmasinda-8-tutuklama-p371788",
-      "tarih": "2026-10-22T16:39:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0cc3f810487c",
-      "baslik": "Ertuğrul Doğan'dan transfer mesajı: 'Kim gerekiyorsa, alacağız'",
-      "ozet": "Ertuğrul Doğan'dan transfer mesajı: 'Kim gerekiyorsa, alacağız'",
-      "url": "https://www.sozcu.com.tr/ertugrul-dogandan-transfer-mesaji-kim-gerekiyorsa-alacagiz-p371752",
-      "tarih": "2026-10-22T13:42:03+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "dd11c6de481a",
-      "baslik": "Küresel İklim Adaleti Savunucuları Halkların İklim Zirvesi’nde Bir Araya Geliyor",
-      "ozet": "14 Kasım Küresel Eylem Günü’nde miting ile başlayacak olan Halkların İklim Zirvesi, 130’u aşkın kurumun katılacağı yaklaşık 150 etkinlik ile 18 Kasım’a kadar Antalya’da gerçekleştirilecek. Zirve, COP31’in ötesine geçerek ekolojik yıkıma karşı iklim adaleti, demokrasi, barış ve ha",
-      "url": "https://www.iklimhaber.org/kuresel-iklim-adaleti-savunuculari-halklarin-iklim-zirvesinde-bir-araya-geliyor/",
-      "tarih": "2026-10-22T08:30:02+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
