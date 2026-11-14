@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-14T09:40:48.281892+00:00",
+    "guncelleme": "2026-11-14T17:31:03.243499+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6694,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6695,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "c71cc988fef0",
+      "baslik": "Doğadan toplayıp yedi, hayatını kaybetti",
+      "ozet": "Doğadan toplayıp yedi, hayatını kaybetti",
+      "url": "https://www.sozcu.com.tr/dogadan-toplayip-yedi-hayatini-kaybetti-p381353",
+      "tarih": "2026-11-14T16:36:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5db35d96eed2",
+      "baslik": "COP31'de gençlik ve eğitim günü | Milli Eğitim Bakanı Tekin: ''Çocuklarımıza çevre bilincini aşılıyoruz'' - CNN Türk",
+      "ozet": "COP31'de gençlik ve eğitim günü | Milli Eğitim Bakanı Tekin: ''Çocuklarımıza çevre bilincini aşılıyoruz'' CNN Türk",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQakdjMnl0V1ZiTGk2aUZVQm9vZFZ1alExSVlXbWkwT0kzVXdmb2J3WS1HZ2pMVHdpNGtFMlF6MC04cFM3cFRSOHlId05UT01ZLURMZ3Bxb3VHX0xRci1QUlNKM2U0TzY5WExMbTFNYjMxZkFxZW5weEVvOF9oTU1ScGdKdVBCZzZRbXVreDE4TWZ2ZkQza2tpeDBhNUhMZmxMS3l6dlU0MUVsVkxUeV96N1RDMmt6VHp0OEhPcE9CT1VDTDlHMWNMNi1Mc3E5QjBvZmRtUjllMnluanM?oc=5",
+      "tarih": "2026-11-14T15:43:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e25d8f6f9f3b",
+      "baslik": "COP31’de Fosil Yakıtlarla Bağlantılı 100’den Fazla Şirket Temsil Ediliyor",
+      "ozet": "Bağımsız kurum Kick Big Polluters Out Coalition’un yaptığı incelemeye göre, fosil yakıt şirketlerinin çıkarlarını savunan ve fosil yakıt endüstrisiyle bağlantılı toplam 103 grup COP31’e katılım sağladı. Antalya’da düzenlenen COP31, kayıt yaptıran 92.000’den fazla katılımcıyla ins",
+      "url": "https://www.iklimhaber.org/cop31de-fosil-yakitlarla-baglantili-100den-fazla-sirket-temsil-ediliyor/",
+      "tarih": "2026-11-14T14:49:51+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "3f4bd4a99759",
       "baslik": "BM İklim Şefi Stiell: “Ülkeler Süreci Yavaşlatan Hamlelerden Kaçınmalı”",
@@ -1977,36 +2007,6 @@
       "ozet": "BM tarafından yapılan açıklamada, El Niño hava olayının, sele ve kuraklıklara yol açan bir “yıkım güllesi” gibi savrulurken Pasifik Okyanusu sıcaklıklarında rekor düzeyde bir artışa neden olabileceği aktarıldı. Dünya Meteoroloji Örgütü’nün (WMO) yeni mevsimsel görünüm raporu, El ",
       "url": "https://www.iklimhaber.org/bm-el-nino-pasifikte-rekor-sicaklik-artisina-yol-acabilir/",
       "tarih": "2026-10-23T07:00:54+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0c8e54af61cd",
-      "baslik": "Tüm ülke Muslera'yı konuşuyor: Yarı finalde tarihi performans",
-      "ozet": "Tüm ülke Muslera'yı konuşuyor: Yarı finalde tarihi performans",
-      "url": "https://www.sozcu.com.tr/yari-finalde-gecenin-kahramani-oldu-ne-yaptin-muslera-p371933",
-      "tarih": "2026-10-23T06:49:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9431082e6d8d",
-      "baslik": "Dilan Çiçek Deniz aşkını böyle kutladı: Sevgilisi öpücüklere boğdu",
-      "ozet": "Dilan Çiçek Deniz aşkını böyle kutladı: Sevgilisi öpücüklere boğdu",
-      "url": "https://www.sozcu.com.tr/dilan-cicek-deniz-askini-boyle-kutladi-sevgilisi-opucuklere-bogdu-p371940",
-      "tarih": "2026-10-23T06:43:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7c8ef6384bb5",
-      "baslik": "İklim Riskleri Küresel Ekonomiyi Tehdit Ediyor",
-      "ozet": "Allianz İklim Ekonomisi Raporu, 2025’te aşırı hava olaylarının küresel ekonomiye maliyetinin 184 milyar euroya ulaştığını belirtirken, güçlü bir El Niño’nun 2027’de küresel ekonomide 395 milyar euro değerinde üretim kaybına yol açabileceğine dikkat çekiyor. Rapor, Türkiye’yi de h",
-      "url": "https://www.iklimhaber.org/iklim-riskleri-kuresel-ekonomiyi-tehdit-ediyor/",
-      "tarih": "2026-10-23T06:30:33+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -95726,6 +95726,20 @@
       "ozet": "İzmir Aliağa'daki faciada can kaybı 19'a yükseldi",
       "lat": 38.3867,
       "lng": 27.1949,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e25d8f6f9f3b",
+      "baslik": "COP31’de Fosil Yakıtlarla Bağlantılı 100’den Fazla Şirket Temsil Ediliyor",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "14.11.2026",
+      "url": "https://www.iklimhaber.org/cop31de-fosil-yakitlarla-baglantili-100den-fazla-sirket-temsil-ediliyor/",
+      "ozet": "Bağımsız kurum Kick Big Polluters Out Coalition’un yaptığı incelemeye göre, fosil yakıt şirketlerinin çıkarlarını savunan ve fosil yakıt endüstrisiyle bağlantılı toplam 103 grup COP31’e katılım sağladı. Antalya’da düzenlenen COP31, kayıt yaptıran 92.000’den fazla katılımcıyla ins",
+      "lat": 36.8517,
+      "lng": 30.6951,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

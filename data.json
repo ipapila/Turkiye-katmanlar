@@ -121737,5 +121737,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/izmir-aliaga-daki-faciada-can-kaybi-19-a-yukseldi-p381112"
+  },
+  {
+    "id": "tarayici-e25d8f6f9f3b",
+    "tip": "Ekolojik İhlal",
+    "ad": "COP31’de Fosil Yakıtlarla Bağlantılı 100’den Fazla Şirket Temsil Ediliyor",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Bağımsız kurum Kick Big Polluters Out Coalition’un yaptığı incelemeye göre, fosil yakıt şirketlerinin çıkarlarını savunan ve fosil yakıt endüstrisiyle bağlantılı toplam 103 grup COP31’e katılım sağladı. Antalya’da düzenlenen COP31, kayıt yaptıran 92.000’den fazla katılımcıyla ins",
+    "koordinatlar": {
+      "lat": 36.8517,
+      "lng": 30.6951
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "14.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31de-fosil-yakitlarla-baglantili-100den-fazla-sirket-temsil-ediliyor/"
   }
 ]
