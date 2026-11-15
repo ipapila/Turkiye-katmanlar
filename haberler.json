@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-14T21:51:44.018797+00:00",
+    "guncelleme": "2026-11-15T10:14:41.095490+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6695,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "976626d54035",
+      "baslik": "Erdoğan kapıları kapattı kimseyle görüşmüyor",
+      "ozet": "Erdoğan kapıları kapattı kimseyle görüşmüyor",
+      "url": "https://www.sozcu.com.tr/erdogan-kapilari-kapatti-kimseyle-gorusmuyor-p381516",
+      "tarih": "2026-11-15T08:41:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0bfb0e4e394c",
       "baslik": "Zelenskiy resti çekti, Trump’ın teklifini reddetti",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-10-23T13:50:57+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9821432993e7",
-      "baslik": "COP31 Arifesinde Türkiye’ye İklim Politikalarını Güçlendirme Çağrısı",
-      "ozet": "COP31 öncesinde Türkiye’nin iklim politikalarını değerlendiren yeni bir rapor, 2053 net sıfır hedefi doğrultusunda, Türkiye’ye emisyon azaltım hedeflerinin güçlendirilmesi, kömürden çıkış takvimi belirlenmesi ve iklim politikalarında şeffaflığın artırılması gibi önemli çağrılarda",
-      "url": "https://www.iklimhaber.org/cop31-arifesinde-turkiyeye-iklim-politikalarini-guclendirme-cagrisi/",
-      "tarih": "2026-10-23T08:00:31+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
