@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-15T10:14:41.095490+00:00",
+    "guncelleme": "2026-11-15T18:19:31.653715+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6695,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "91a7f3004890",
+      "baslik": "Evleri birer birer orman yuttu",
+      "ozet": "Evleri birer birer orman yuttu",
+      "url": "https://www.sozcu.com.tr/evleri-birer-birer-orman-yuttu-p381639",
+      "tarih": "2026-11-15T17:48:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "fe3d73fd5a1c",
+      "baslik": "Şarkıcı Göksel'in Avrupa konserlerinde vize engeli: Orkestrasız sahne aldı",
+      "ozet": "Şarkıcı Göksel'in Avrupa konserlerinde vize engeli: Orkestrasız sahne aldı",
+      "url": "https://www.sozcu.com.tr/sarkici-goksel-almanya-belcika-vize-sorunu-p381617",
+      "tarih": "2026-11-15T15:44:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "976626d54035",
       "baslik": "Erdoğan kapıları kapattı kimseyle görüşmüyor",
@@ -1987,26 +2007,6 @@
       "ozet": "Erdoğan-Mansur Yavaş anketinde çarpıcı sonuç! Partilerin tercihi belli oldu",
       "url": "https://www.sozcu.com.tr/erdogan-mansur-yavas-anketinde-carpici-sonuc-partilerin-tercihi-belli-oldu-p372292",
       "tarih": "2026-10-24T10:26:21+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "649ce13f7772",
-      "baslik": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
-      "ozet": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
-      "url": "https://www.sozcu.com.tr/maltepede-gecekondu-yangini-12-yasindaki-cocuk-hayatini-kaybetti-p372219",
-      "tarih": "2026-10-24T06:35:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "49e4d6d44fa2",
-      "baslik": "Ukrayna ve Rusya arasında bölgesel ateşkes ilan edildi",
-      "ozet": "Ukrayna ve Rusya arasında bölgesel ateşkes ilan edildi",
-      "url": "https://www.sozcu.com.tr/ukrayna-ve-rusya-arasinda-bolgesel-ateskes-ilan-edildi-p372103",
-      "tarih": "2026-10-23T13:50:57+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
