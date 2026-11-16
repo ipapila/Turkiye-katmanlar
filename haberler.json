@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-11-16T10:26:13.273446+00:00",
+    "guncelleme": "2026-11-16T21:28:44.053382+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6696,
+    "harita_kayit_sayisi": 6697,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "bf6d861ce34d",
+      "baslik": "Dağın altındaki yangın yıllardır sönmüyor: Her yıl biraz daha ilerliyor",
+      "ozet": "Dağın altındaki yangın yıllardır sönmüyor: Her yıl biraz daha ilerliyor",
+      "url": "https://www.sozcu.com.tr/dagin-altindaki-yangin-yillardir-sonmuyor-her-yil-biraz-daha-ilerliyor-p382014",
+      "tarih": "2026-11-16T19:14:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d5da2ec9391f",
+      "baslik": "Electrify Türkiye Girişimi Elektrifikasyon Hedefini Desteklemek için Harekete Geçti",
+      "ozet": "Yenilenebilir enerjiye dayalı elektrifikasyon, Türkiye’nin 2053 net sıfır hedefinin omurgasını oluşturuyor. Elektrifikasyon ve yenilenebilir enerjinin birlikte ilerlemesinin önemine dikkat çeken Electrify Türkiye, Milli Enerji 2040’ı esas alarak 35×35 hedefi çerçevesinde güncelle",
+      "url": "https://www.iklimhaber.org/electrify-turkiye-girisimi-elektrifikasyon-hedefini-desteklemek-icin-harekete-gecti/",
+      "tarih": "2026-11-16T14:27:44+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a103686dafb7",
+      "baslik": "Antalya Yapay Zeka Taahhüdü Başlatıldı: “İçi Boş Bir Dikkat Dağıtıcı ile Karşı Karşıyayız”",
+      "ozet": "COP31’de bugün Antalya Yapay Zeka Taahhüdü başlatılırken, STK’lar taahhüdü veri merkezlerine adeta kırmızı halı seren politikaları düzeltmeye yönelik gerçek eylemlerden uzaklaştıran boş bir dikkat dağıtıcı olarak nitelendirdi. COP31’deki üst düzey bir etkinlikte Antalya Yapay Zek",
+      "url": "https://www.iklimhaber.org/antalya-yapay-zeka-taahhudu-baslatildi-ici-bos-bir-dikkat-dagitici-ile-karsi-karsiyayiz/",
+      "tarih": "2026-11-16T11:36:08+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2fde2f8a073f",
+      "baslik": "Müzakerelerdeki İlerleme Yeterince Hızlı Değil: “COP31 Başkanlıkları Nerede?”",
+      "ozet": "COP31’in ikinci haftası başlarken, gündemdeki maddeler üzerindeki ilerleme yeterince hızlı değil. Uzmanlar, COP31 Başkanı Türkiye ile Müzakereler Başkanı Avustralya’nın bir an önce sorumluluk alması gerektiğini dile getiriyor. YAZI: Bulut BAGATIR COP31’in ilk haftası, ülkelerin 1",
+      "url": "https://www.iklimhaber.org/muzakerelerdeki-ilerleme-yeterince-hizli-degil-cop31-baskanliklari-nerede/",
+      "tarih": "2026-11-16T10:32:12+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e221e3a10917",
       "baslik": "Liderler Zirvesi’nin ikinci gününden nükleer ve 21 milyar dolarlık anlaşma çıktı",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-10-26T07:40:32+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9ba35cf638fa",
-      "baslik": "Aşırı Sıcaklar Antalyalıları Yaylalara Yönlendiriyor",
-      "ozet": "COP31’e ev sahipliği yapmaya hazırlanan Antalya’da giderek artan yaz sıcakları, kent sakinlerini Toroslar’daki yaylalara yönlendiriyor. Yeni bir araştırmaya göre geleneksel yaylacılık yerini, sıcaktan kaçmak isteyen kentlilerin mevsimlik, hatta kalıcı yer değiştirmelerine bırakıy",
-      "url": "https://www.iklimhaber.org/asiri-sicaklar-antalyalilari-yaylalara-yonlendiriyor/",
-      "tarih": "2026-10-26T07:26:30+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ec5c88b80d53",
-      "baslik": "Manisa'da çevre kirletenlere milyonluk ceza! - Manisa Haberleri",
-      "ozet": "Manisa'da çevre kirletenlere milyonluk ceza! Manisa Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EQm5iRnl5d3VENUhWYWY1MEpOQVN3alhnYlNtRnFkX1FJN1dxWHVjNmVTN2dJSGJBckxrMXlZRzNwRFJLT0R0QWd0eDVCOGtvMXFudi1VRXpKczRWWlE5eUtIUGZoQW5WRDlJZnVCS2NESkw4VUFsblFwOGZyeE3SAYQBQVVfeXFMTzVKeEdGT0plQ0lLS3RIVnMxR1l3cTNXSXpDVW1jUlFOUTk4dWxEY0xDdWlncWpQNnpHZGk4Yk9uSktVU3JpbE9rXzRKaFFoSWhaSU01Z2NHUGhVNzF1RFlCc28zb2JFcEpEb0lRVDBmM084VElra2hYdDJZRFBjZjNCQWlO?oc=5",
-      "tarih": "2026-10-26T07:15:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "321415ee0563",
-      "baslik": "Manisa'da çevre kirletenlere milyonluk ceza! - Manisa Haberleri",
-      "ozet": "Manisa'da çevre kirletenlere milyonluk ceza! Manisa Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUp4R0ZPSmVDSUtLdEhWczFHWXdxM1dJekNVbWNSUU5ROTh1bERjTEN1aWdxalA2ekdkaThiT25KS1VTcmlsT2tfNEpoUWhJaFpJTTVnY0dQaFU3MXVEWUJzbzNvYkVwSkRvSVFUMGYzTzhUSWtraFh0MllEUGNmM0JBaU7SAYQBQVVfeXFMTzVKeEdGT0plQ0lLS3RIVnMxR1l3cTNXSXpDVW1jUlFOUTk4dWxEY0xDdWlncWpQNnpHZGk4Yk9uSktVU3JpbE9rXzRKaFFoSWhaSU01Z2NHUGhVNzF1RFlCc28zb2JFcEpEb0lRVDBmM084VElra2hYdDJZRFBjZjNCQWlO?oc=5",
-      "tarih": "2026-10-26T07:15:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8d3170477706",
-      "baslik": "COP31’de Türkiye-Avustralya Sınavı: “Biri Başarısız Olursa İkisi de Kaybeder”",
-      "ozet": "COP31 öncesinde Türkiye’nin üstleneceği köprü rolünün altını çizen Jennifer Morgan, başarılı bir zirve için iki ülkenin de iklim eylemini kendi evinde başlatması gerektiğini vurguladı. Küresel iklim diplomasisinin önde gelen isimlerinden Jennifer Morgan, İstanbul Politikalar Merk",
-      "url": "https://www.iklimhaber.org/cop31de-turkiye-avustralya-sinavi-biri-basarisiz-olursa-ikisi-de-kaybeder/",
-      "tarih": "2026-10-26T06:52:41+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95754,6 +95754,20 @@
       "ozet": "Edirne’de “Acele Kamulaştırma Paneli” Düzenlenecek Batı Ekspres",
       "lat": 41.7729,
       "lng": 26.6034,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-a103686dafb7",
+      "baslik": "Antalya Yapay Zeka Taahhüdü Başlatıldı: “İçi Boş Bir Dikkat Dağıtıcı ile Karşı Karşıyayız”",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "16.11.2026",
+      "url": "https://www.iklimhaber.org/antalya-yapay-zeka-taahhudu-baslatildi-ici-bos-bir-dikkat-dagitici-ile-karsi-karsiyayiz/",
+      "ozet": "COP31’de bugün Antalya Yapay Zeka Taahhüdü başlatılırken, STK’lar taahhüdü veri merkezlerine adeta kırmızı halı seren politikaları düzeltmeye yönelik gerçek eylemlerden uzaklaştıran boş bir dikkat dağıtıcı olarak nitelendirdi. COP31’deki üst düzey bir etkinlikte Antalya Yapay Zek",
+      "lat": 36.8318,
+      "lng": 30.592,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
