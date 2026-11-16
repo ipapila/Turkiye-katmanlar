@@ -121756,5 +121756,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31de-fosil-yakitlarla-baglantili-100den-fazla-sirket-temsil-ediliyor/"
+  },
+  {
+    "id": "tarayici-5168eb537eac",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Edirne’de “Acele Kamulaştırma Paneli” Düzenlenecek - Batı Ekspres",
+    "il": "Edirne",
+    "ilce": "",
+    "aciklama": "Edirne’de “Acele Kamulaştırma Paneli” Düzenlenecek Batı Ekspres",
+    "koordinatlar": {
+      "lat": 41.7729,
+      "lng": 26.6034
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "16.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3d2cFVzYWJSRkVCSFEwcHI2cVZ1SG1VU3N2bGl1b012OURrNzRINEUyTGhFaDM4Mm1udGxMNjRSWkxPTDZneDB5WWVJYlp0bHBycmhSb2VuVHJjSmhKOWQ4dmw5SDJsQUl2ZXlBNzgxUmVVTU1Wb3dPSmJXV1VySHRxTHRwSWRDWjVCaWpjN3hVak5a?oc=5"
   }
 ]

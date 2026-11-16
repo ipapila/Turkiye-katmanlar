@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-15T18:19:31.653715+00:00",
+    "guncelleme": "2026-11-16T10:26:13.273446+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6695,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6696,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "e221e3a10917",
+      "baslik": "Liderler Zirvesi’nin ikinci gününden nükleer ve 21 milyar dolarlık anlaşma çıktı",
+      "ozet": "",
+      "url": "https://yesilgazete.org/liderler-zirvesinin-ikinci-gununden-nukleer-ve-21-milyar-dolarlik-anlasma-cikti/",
+      "tarih": "2026-11-16T10:25:55.102305+00:00",
+      "kaynak": "Yeşil Gazete",
+      "kategori": "Çevre Medyası",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "9ef2a3f465f8",
+      "baslik": "İlk hafta sonundan: Resmi zirve parayı, Halkların Zirvesi adaleti çağırıyor",
+      "ozet": "",
+      "url": "https://yesilgazete.org/ilk-hafta-sonundan-iceride-kaynak-yaratma-cabalari-disarida-halklarin-zirvesinden-adalet-cagrilari/",
+      "tarih": "2026-11-16T10:25:55.102173+00:00",
+      "kaynak": "Yeşil Gazete",
+      "kategori": "Çevre Medyası",
+      "kaynak_turu": "web"
+    },
+    {
+      "id": "5a0a83b4d98d",
+      "baslik": "Beşiktaş'a Agbadou şoku: Resmen duyurdular",
+      "ozet": "Beşiktaş'a Agbadou şoku: Resmen duyurdular",
+      "url": "https://www.sozcu.com.tr/besiktasa-agbadou-soku-resmen-duyurdular-p381836",
+      "tarih": "2026-11-16T09:13:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0b372f57fdd1",
+      "baslik": "Prof. Dr. Varol: “COP31 ile Sağlığı Önceleyen bir Uygulamaya Geçmeliyiz”",
+      "ozet": "Türkiye’den ve dünyanın dört bir yanından sağlık uzmanları, Türkiye ve Avustralya’ya COP31 kararlarında halk sağlığına öncelik verme çağrısı yaptı. THHP Yürütme Kurulu Üyesi Prof. Dr. Gamze Varol, dünyanın zamanının kalmadığından söz ederken, “Sağlığı önceleyen bir uygulamaya geç",
+      "url": "https://www.iklimhaber.org/prof-dr-varol-cop31-ile-sagligi-onceleyen-bir-uygulamaya-gecmeliyiz/",
+      "tarih": "2026-11-16T08:13:45+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "21db70adcda3",
+      "baslik": "Barbados Başbakanı Metan Emisyonlarının Azaltılmasına Yönelik İmza Kampanyası Başlattı",
+      "ozet": "Barbados Başbakanı, COP31 zirvesinde dünya vatandaşlarını metan emisyonlarının azaltılmasını talep etmeye çağırdı. Barbados Başbakanı Mia Mottley, metan emisyonları konusunda harekete geçmenin, dünyaya karbonsuzlaşma için zaman kazandıracak acil durum freni olabileceğini söylerke",
+      "url": "https://www.iklimhaber.org/barbados-basbakani-metan-emisyonlarinin-azaltilmasina-yonelik-imza-kampanyasi-baslatti/",
+      "tarih": "2026-11-16T08:01:32+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a612fe978559",
+      "baslik": "İklim İnkarcılığı Sözlüğü-20: COP31 Neden Türkiye’de?",
+      "ozet": "COP zirveleri, gizemli şeytani güçlerin, küresel elitlerin bir araya gelip acımasız planlarını konuştuğu yerler değil aksine devletlerin, kurumların ve sivil toplum kuruluşlarının insan kaynaklı iklim kriziyle mücadele için fikir alışverişinde bulunduğu ve politikalar ürettikleri",
+      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-20-cop31-neden-turkiyede/",
+      "tarih": "2026-11-16T07:45:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9f60285ac03c",
+      "baslik": "ECO: Göz Boyayan Gündemlerin Somut Müzakere Sonuçlarının Yerini Almasına İzin Vermeyin",
+      "ozet": "1972 yılından beri sivil toplum grupları tarafından UNFCCC’den gelişmeleri ve sivil toplumun sesini aktarmak için Climate Action Network tarafından yayımlanan ECO’nun yeni bülteni yayında. COP31’in ikinci haftasına girerken COP Başkanlıkları, özellikle de müzakerelerden sorumlu ",
+      "url": "https://www.iklimhaber.org/eco-goz-boyayan-gundemlerin-somut-muzakere-sonuclarinin-yerini-almasina-izin-vermeyin/",
+      "tarih": "2026-11-16T07:26:14+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "91a7f3004890",
       "baslik": "Evleri birer birer orman yuttu",
@@ -259,6 +329,16 @@
       "tarih": "2026-11-12T17:53:53+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5168eb537eac",
+      "baslik": "Edirne’de “Acele Kamulaştırma Paneli” Düzenlenecek - Batı Ekspres",
+      "ozet": "Edirne’de “Acele Kamulaştırma Paneli” Düzenlenecek Batı Ekspres",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3d2cFVzYWJSRkVCSFEwcHI2cVZ1SG1VU3N2bGl1b012OURrNzRINEUyTGhFaDM4Mm1udGxMNjRSWkxPTDZneDB5WWVJYlp0bHBycmhSb2VuVHJjSmhKOWQ4dmw5SDJsQUl2ZXlBNzgxUmVVTU1Wb3dPSmJXV1VySHRxTHRwSWRDWjVCaWpjN3hVak5a?oc=5",
+      "tarih": "2026-11-12T13:11:19+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1929,86 +2009,6 @@
       "tarih": "2026-10-26T06:52:41+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c291f9d77c30",
-      "baslik": "COP31’in Ekolojik Yıkıma Neden Olan Sponsorları Hedefte",
-      "ozet": "Doğayı yok eden projelere imza atan Limak Holding, IC Holding, Rönesans Holding, Sinpaş Holding ve Cengiz Holding’in COP31’in resmi sponsorları olması tepki çekerken, EGEÇEP yaptığı açıklamada, “İklim mücadelesi, doğayı tahrip eden faaliyetlerin reklam ve sponsorluk yoluyla meşru",
-      "url": "https://www.iklimhaber.org/cop31in-ekolojik-yikima-neden-olan-sponsorlari-hedefte/",
-      "tarih": "2026-10-26T06:30:35+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "86f30e0f5e5c",
-      "baslik": "Yüksel Sarıçiçek dünya ikincisi oldu",
-      "ozet": "Yüksel Sarıçiçek dünya ikincisi oldu",
-      "url": "https://www.sozcu.com.tr/yuksel-saricicek-dunya-ikincisi-oldu-p372623",
-      "tarih": "2026-10-25T14:52:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a5af3025e16c",
-      "baslik": "Deniz Öncü piste çıkamadı! Yarışlara yağmur engeli",
-      "ozet": "Deniz Öncü piste çıkamadı! Yarışlara yağmur engeli",
-      "url": "https://www.sozcu.com.tr/deniz-oncu-piste-cikamadi-yarislara-yagis-engeli-p372605",
-      "tarih": "2026-10-25T13:24:57+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "89d5fd80e108",
-      "baslik": "Erdoğan'ın yolunu CHP'nin desteği mi açıyor",
-      "ozet": "Erdoğan'ın yolunu CHP'nin desteği mi açıyor",
-      "url": "https://www.sozcu.com.tr/erdogan-in-yolunu-chp-nin-destegi-mi-aciyor-p372587",
-      "tarih": "2026-10-25T11:44:42+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c6cc709a8e88",
-      "baslik": "Kılıçdaroğlu Mekke Anlaşmasına 'evet' diyeceklerini de açıkladı: Erdoğan'la şakalaştı yandaş hesaplardan övgü yağdı",
-      "ozet": "Kılıçdaroğlu Mekke Anlaşmasına 'evet' diyeceklerini de açıkladı: Erdoğan'la şakalaştı yandaş hesaplardan övgü yağdı",
-      "url": "https://www.sozcu.com.tr/kilicdaroglu-mekke-anlasmasina-evet-diyeceklerini-de-acikladi-erdogan-la-sakalasti-yandas-p372507",
-      "tarih": "2026-10-25T07:31:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "822919f366eb",
-      "baslik": "Fikret Orman ve Güzide Duran’dan Karadeniz kaçamağı: Salıncakta aşk pozu",
-      "ozet": "Fikret Orman ve Güzide Duran’dan Karadeniz kaçamağı: Salıncakta aşk pozu",
-      "url": "https://www.sozcu.com.tr/fikret-orman-ve-guzide-duran-dan-karadeniz-kacamagi-salincakta-ask-pozu-p372492",
-      "tarih": "2026-10-25T06:52:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4628192b6d8c",
-      "baslik": "Son ankette çarpıcı sonuçlar: Mansur Yavaş, Erdoğan’ı farklı yeniyor; Meclis’te kimse çoğunluk olamıyor",
-      "ozet": "Son ankette çarpıcı sonuçlar: Mansur Yavaş, Erdoğan’ı farklı yeniyor; Meclis’te kimse çoğunluk olamıyor",
-      "url": "https://www.sozcu.com.tr/son-ankette-carpici-sonuclar-mansur-yavas-erdogan-i-farkli-yeniyor-meclis-te-kimse-cogunluk-olamiyor-p372476",
-      "tarih": "2026-10-25T06:24:30+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "06c40eb6e4dd",
-      "baslik": "Erdoğan-Mansur Yavaş anketinde çarpıcı sonuç! Partilerin tercihi belli oldu",
-      "ozet": "Erdoğan-Mansur Yavaş anketinde çarpıcı sonuç! Partilerin tercihi belli oldu",
-      "url": "https://www.sozcu.com.tr/erdogan-mansur-yavas-anketinde-carpici-sonuc-partilerin-tercihi-belli-oldu-p372292",
-      "tarih": "2026-10-24T10:26:21+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95740,6 +95740,20 @@
       "ozet": "Bağımsız kurum Kick Big Polluters Out Coalition’un yaptığı incelemeye göre, fosil yakıt şirketlerinin çıkarlarını savunan ve fosil yakıt endüstrisiyle bağlantılı toplam 103 grup COP31’e katılım sağladı. Antalya’da düzenlenen COP31, kayıt yaptıran 92.000’den fazla katılımcıyla ins",
       "lat": 36.8517,
       "lng": 30.6951,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-5168eb537eac",
+      "baslik": "Edirne’de “Acele Kamulaştırma Paneli” Düzenlenecek - Batı Ekspres",
+      "konum": "Edirne",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "16.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3d2cFVzYWJSRkVCSFEwcHI2cVZ1SG1VU3N2bGl1b012OURrNzRINEUyTGhFaDM4Mm1udGxMNjRSWkxPTDZneDB5WWVJYlp0bHBycmhSb2VuVHJjSmhKOWQ4dmw5SDJsQUl2ZXlBNzgxUmVVTU1Wb3dPSmJXV1VySHRxTHRwSWRDWjVCaWpjN3hVak5a?oc=5",
+      "ozet": "Edirne’de “Acele Kamulaştırma Paneli” Düzenlenecek Batı Ekspres",
+      "lat": 41.7729,
+      "lng": 26.6034,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
