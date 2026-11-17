@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-11-16T21:28:44.053382+00:00",
+    "guncelleme": "2026-11-17T11:23:25.370041+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6697,
+    "harita_kayit_sayisi": 6698,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "2479c35670f0",
+      "baslik": "705 liralık borç tüm mahalleyi etkiledi: Ev sahipleri kiracı oldu",
+      "ozet": "705 liralık borç tüm mahalleyi etkiledi: Ev sahipleri kiracı oldu",
+      "url": "https://www.sozcu.com.tr/705-liralik-borc-tum-mahalleyi-etkiledi-ev-sahipleri-kiraci-oldu-p382153",
+      "tarih": "2026-11-17T10:53:53+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "74597caada8d",
+      "baslik": "Palamut umuduyla denize açıldı, milyoner olarak geri döndü",
+      "ozet": "Palamut umuduyla denize açıldı, milyoner olarak geri döndü",
+      "url": "https://www.sozcu.com.tr/palamut-umuduyla-denize-acildi-milyoner-olarak-geri-dondu-p382135",
+      "tarih": "2026-11-17T10:39:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "77ec7902919d",
+      "baslik": "Cemre Baysel ile Emirhan Topçu'dan aşk ilanı: İlk paylaşım geldi",
+      "ozet": "Cemre Baysel ile Emirhan Topçu'dan aşk ilanı: İlk paylaşım geldi",
+      "url": "https://www.sozcu.com.tr/cemre-baysel-ile-emirhan-topcu-dan-ask-ilani-ilk-paylasim-geldi-p382127",
+      "tarih": "2026-11-17T10:31:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3201a8f3f21d",
+      "baslik": "Uzmanlar Uyarıyor: “Bilim Saldırı Altında”",
+      "ozet": "IPCC’nin etkisini hafifletmeye ve onu devre dışı bırakmaya yönelik kasıtlı bir çabadan bahseden önde gelen bilim insanları, IPCC’yi devre dışı bırakmanın doğayı ve 1,5 derece hedefini riske attığından söz etti. BM Çevre Programı’na (UNEP) göre 1,5 derece sınırının aşılması artık ",
+      "url": "https://www.iklimhaber.org/uzmanlar-uyariyor-bilim-saldiri-altinda/",
+      "tarih": "2026-11-17T08:29:04+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "3deb619c55d6",
+      "baslik": "Boşanacakları konuşuluyordu: Selahattin Paşalı'dan evliliğiyle ilgili açıklama",
+      "ozet": "Boşanacakları konuşuluyordu: Selahattin Paşalı'dan evliliğiyle ilgili açıklama",
+      "url": "https://www.sozcu.com.tr/bosanacaklari-konusuluyordu-selahattin-pasali-dan-evliligiyle-ilgili-aciklama-p382085",
+      "tarih": "2026-11-17T06:58:28+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "368f54182e8b",
+      "baslik": "Yapay Zeka İklim Krizine Dair Bilimsel Gerçekleri Hızla Terk Edebiliyor",
+      "ozet": "Yeni bir rapora göre iklime dair soruların %90’ını doğru yanıtlayan yapay zeka modelleri, kullanıcının itiraz etmesi durumunda ise bilimsel gerçekleri hızla terk ediyor. Bunun altında, “dalkavukluk” olarak bilinen bir tasarım hatası yatıyor.  UNESCO ve University College London’ı",
+      "url": "https://www.iklimhaber.org/yapay-zeka-iklim-krizine-dair-bilimsel-gercekleri-hizla-terk-edebiliyor/",
+      "tarih": "2026-11-17T05:59:38+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c5bb42f9ad42",
+      "baslik": "İklim İnkârcıları Sokağa Çıktı: “Ali Osman Bey Daha Ne Yapsın?”",
+      "ozet": "İklim krizi ve Antalya’da düzenlenen COP31’e karşı yapılan basın açıklamasının arkasında Plandemi Büyük Buluşması Platformu isimli organizasyon ve sosyal medyada komplo teorileriyle ünlenen Ali Osman Önder bulunuyor. Grubun hedefinde iklim değişikliğine karşı mücadele edenler var",
+      "url": "https://www.iklimhaber.org/iklim-inkarcilari-sokaga-cikti-ali-osman-bey-daha-ne-yapsin/",
+      "tarih": "2026-11-17T05:32:10+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "28965ac97b63",
+      "baslik": "İran: Hürmüz Boğazı’nda kural ihlali yapan bir petrol tankeri daha deniz mayınına çarptı - dikGAZETE.com",
+      "ozet": "İran: Hürmüz Boğazı’nda kural ihlali yapan bir petrol tankeri daha deniz mayınına çarptı dikGAZETE.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQemVsS2xScGlTMWZPeFViUU91YlhGZHFDdklIdk1TTUhmOU05LTYwcTQ2OV9FX2hZaFVNSHRyM2RJSXhTZlc3Tmc0WlpTWXVGTEpCVllUVVA3djgyMHhDWFdIZ2RPcmJ6SjA4bzRKVDhFYXF5STBtVDRwNktMdXF2Z21CdmFXZ0Jfek55Q2d1SFBVR1VPQnpYQjQ5aVpHSHF1cjl2YXY0empGZGdXRV85NXFKX2thcUU2cnRfdEtfWlEtMzBWVjEyNV9vNEc?oc=5",
+      "tarih": "2026-11-16T23:08:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "bf6d861ce34d",
       "baslik": "Dağın altındaki yangın yıllardır sönmüyor: Her yıl biraz daha ilerliyor",
@@ -1929,86 +2009,6 @@
       "tarih": "2026-10-27T08:48:03+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e836d9097c4b",
-      "baslik": "Borsa güne düşüşle başladı -27 Ekim 2026",
-      "ozet": "Borsa güne düşüşle başladı -27 Ekim 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-27-ekim-2026-p373152",
-      "tarih": "2026-10-27T07:11:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "06b11d22a11d",
-      "baslik": "İşsizlik eylülde yükseldi",
-      "ozet": "İşsizlik eylülde yükseldi",
-      "url": "https://www.sozcu.com.tr/issizlik-eylulde-yukseldi-p373150",
-      "tarih": "2026-10-27T07:08:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0c0df3edacb0",
-      "baslik": "Dolar/TL'de yükseliş hız kesmiyor",
-      "ozet": "Dolar/TL'de yükseliş hız kesmiyor",
-      "url": "https://www.sozcu.com.tr/dolar-tl-de-yukselis-hiz-kesmiyor-p373147",
-      "tarih": "2026-10-27T06:56:38+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "647f4ecc95ea",
-      "baslik": "Yüksel Yıldırım devre arasını işaret etti",
-      "ozet": "Yüksel Yıldırım devre arasını işaret etti",
-      "url": "https://www.sozcu.com.tr/yuksel-yildirim-devre-arasini-isaret-etti-p372978",
-      "tarih": "2026-10-26T14:32:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9627624a97fc",
-      "baslik": "Yeşilayın \"Türkiye Bağımlılık ve Çevre Araştırma Raporu\" açıklandı - Anadolu Ajansı",
-      "ozet": "Yeşilayın \"Türkiye Bağımlılık ve Çevre Araştırma Raporu\" açıklandı Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRW5NR1Q3R21DdUxYbVpnX2hYcFlpMEhEM3BOTlV2RGEtNmR1WkhlU2xUc21xVEFKWDc5Qng5Z0xsaE44a1g1Y2kydEIycWRBYmJqbUhxTE9KbnBobHEtbHBzTDNVbDlsa1NxY1pZQVpoaHlSLTVyQXVmZHoyVU5Ed0prWDhuSWswcGpiZVdWcG9kMHdleUNfTlQtbmZUQWQ5NmJMaERuZw?oc=5",
-      "tarih": "2026-10-26T12:52:05+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0cd4754d0e69",
-      "baslik": "Yeşilayın \"Türkiye Bağımlılık ve Çevre Araştırma Raporu\" açıklandı - Anadolu Ajansı",
-      "ozet": "Yeşilayın \"Türkiye Bağımlılık ve Çevre Araştırma Raporu\" açıklandı Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFl4dml6WGRNU1pyRGJ4OTUxQzRnX1pEWWRoa0J5OHFUSDFvalAtSXZsZ3BYZkJpNzZ2NnByMkp4dXU5QVc3bzFfcWpoU1hTQnNZV3FWanBJcDMzck5sV2ZSNjE3YXdLM0pFcVg4THNQcFZOWTd5S3pHcmNiRXNIZGlXb0VLZEhZeE42QklkQUJ1VExLZzhHWDJadE81S3g5bXc?oc=5",
-      "tarih": "2026-10-26T12:52:05+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6f4c87c312ca",
-      "baslik": "Nepal Ölümcül Selin Ardından Kayıp ve Zarar Fonu’ndan 20 Milyon Dolar Alacak",
-      "ozet": "Kayıp ve Zarar Fonu’ndan gelecek tutar, selin neden olduğu maliyeti karşılamak için Nepal’in ihtiyaç duyduğu miktarın %1’inden daha azına denk geliyor. Nepal, ağustos ayında Çin’in Tibet bölgesi sınırında meydana gelen yıkıcı selin ardından Birleşmiş Milletler’in kayıp ve zarar f",
-      "url": "https://www.iklimhaber.org/nepal-olumcul-selin-ardindan-kayip-ve-zarar-fonundan-20-milyon-dolar-alacak/",
-      "tarih": "2026-10-26T08:39:27+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f1b6d56f27be",
-      "baslik": "Borsa haftaya yükselişle başladı -26 Ekim 2026",
-      "ozet": "Borsa haftaya yükselişle başladı -26 Ekim 2026",
-      "url": "https://www.sozcu.com.tr/borsa-haftaya-yukselisle-basladi-26-ekim-2026-p372815",
-      "tarih": "2026-10-26T07:40:32+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95768,6 +95768,20 @@
       "ozet": "COP31’de bugün Antalya Yapay Zeka Taahhüdü başlatılırken, STK’lar taahhüdü veri merkezlerine adeta kırmızı halı seren politikaları düzeltmeye yönelik gerçek eylemlerden uzaklaştıran boş bir dikkat dağıtıcı olarak nitelendirdi. COP31’deki üst düzey bir etkinlikte Antalya Yapay Zek",
       "lat": 36.8318,
       "lng": 30.592,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-c5bb42f9ad42",
+      "baslik": "İklim İnkârcıları Sokağa Çıktı: “Ali Osman Bey Daha Ne Yapsın?”",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "17.11.2026",
+      "url": "https://www.iklimhaber.org/iklim-inkarcilari-sokaga-cikti-ali-osman-bey-daha-ne-yapsin/",
+      "ozet": "İklim krizi ve Antalya’da düzenlenen COP31’e karşı yapılan basın açıklamasının arkasında Plandemi Büyük Buluşması Platformu isimli organizasyon ve sosyal medyada komplo teorileriyle ünlenen Ali Osman Önder bulunuyor. Grubun hedefinde iklim değişikliğine karşı mücadele edenler var",
+      "lat": 36.9664,
+      "lng": 30.6716,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

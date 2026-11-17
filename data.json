@@ -121794,5 +121794,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/antalya-yapay-zeka-taahhudu-baslatildi-ici-bos-bir-dikkat-dagitici-ile-karsi-karsiyayiz/"
+  },
+  {
+    "id": "tarayici-c5bb42f9ad42",
+    "tip": "Ekolojik İhlal",
+    "ad": "İklim İnkârcıları Sokağa Çıktı: “Ali Osman Bey Daha Ne Yapsın?”",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "İklim krizi ve Antalya’da düzenlenen COP31’e karşı yapılan basın açıklamasının arkasında Plandemi Büyük Buluşması Platformu isimli organizasyon ve sosyal medyada komplo teorileriyle ünlenen Ali Osman Önder bulunuyor. Grubun hedefinde iklim değişikliğine karşı mücadele edenler var",
+    "koordinatlar": {
+      "lat": 36.9664,
+      "lng": 30.6716
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "17.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/iklim-inkarcilari-sokaga-cikti-ali-osman-bey-daha-ne-yapsin/"
   }
 ]
