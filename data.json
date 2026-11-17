@@ -121813,5 +121813,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/iklim-inkarcilari-sokaga-cikti-ali-osman-bey-daha-ne-yapsin/"
+  },
+  {
+    "id": "tarayici-f89481516017",
+    "tip": "Ekolojik İhlal",
+    "ad": "Türkiye “Günün Fosili Mansiyon Ödülü”nü Aldı",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "COP31’in ev sahipliğini ve Başkanlığını üstlenen Türkiye, zirvede İklim Eylem Ağı tarafından verilen “Günün Fosili Mansiyon Ödülü”nü aldı. COP31 Başkanı Türkiye, COP31 Başkanı Murat Kurum’un Belem-Antalya Mekanizması’na ilişkin sözleri nedeniyle “Günün Fosili Mansiyon Ödülü”ne la",
+    "koordinatlar": {
+      "lat": 36.8327,
+      "lng": 30.7746
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "17.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/turkiye-gunun-fosili-mansiyon-odulunu-aldi/"
   }
 ]

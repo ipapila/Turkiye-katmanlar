@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-11-17T11:23:25.370041+00:00",
+    "guncelleme": "2026-11-17T20:18:05.365169+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6698,
+    "harita_kayit_sayisi": 6699,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,76 @@
     }
   },
   "haberler": [
+    {
+      "id": "62d6cd45939c",
+      "baslik": "Brezilyalı şarkıcıdan olay olacak cinsel deneyim açıklaması",
+      "ozet": "Brezilyalı şarkıcıdan olay olacak cinsel deneyim açıklaması",
+      "url": "https://www.sozcu.com.tr/brezilyali-sarkicidan-olay-olacak-cinsel-deneyim-aciklamasi-p382280",
+      "tarih": "2026-11-17T20:10:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "49844fb0e6f0",
+      "baslik": "6 bin panel yerleştirip 25 yıl boyunca ormanı susuz bıraktılar",
+      "ozet": "6 bin panel yerleştirip 25 yıl boyunca ormanı susuz bıraktılar",
+      "url": "https://www.sozcu.com.tr/6-bin-panel-yerlestirip-25-yil-boyunca-ormani-susuz-biraktilar-p382276",
+      "tarih": "2026-11-17T19:46:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "402ef0047a96",
+      "baslik": "Cinsel hayatını anlatarak gündem olmuştu: İddialı pozlar verdi",
+      "ozet": "Cinsel hayatını anlatarak gündem olmuştu: İddialı pozlar verdi",
+      "url": "https://www.sozcu.com.tr/cinsel-hayatini-anlatarak-gundem-olmustu-iddiali-pozlar-verdi-p382260",
+      "tarih": "2026-11-17T18:09:34+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f89481516017",
+      "baslik": "Türkiye “Günün Fosili Mansiyon Ödülü”nü Aldı",
+      "ozet": "COP31’in ev sahipliğini ve Başkanlığını üstlenen Türkiye, zirvede İklim Eylem Ağı tarafından verilen “Günün Fosili Mansiyon Ödülü”nü aldı. COP31 Başkanı Türkiye, COP31 Başkanı Murat Kurum’un Belem-Antalya Mekanizması’na ilişkin sözleri nedeniyle “Günün Fosili Mansiyon Ödülü”ne la",
+      "url": "https://www.iklimhaber.org/turkiye-gunun-fosili-mansiyon-odulunu-aldi/",
+      "tarih": "2026-11-17T16:25:39+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b1ba64c0b340",
+      "baslik": "AB Elektrifikasyon Hedefine Desteğini Açıkladı",
+      "ozet": "AB İklim Komiseri Hoekstra, bloğun, COP31 Başkanlığı’nın elektrifikasyon hedefini desteklediğini söyledi. Zirvenin dün yayımlanan Çerçeve Karar taslak metninin ise dikkati fosil yakıt kaynaklı seragazı emisyonlarında sürdürülebilir azaltım sağlanması gerekliliğinden uzaklaştırdığ",
+      "url": "https://www.iklimhaber.org/ab-elektrifikasyon-hedefine-destegini-acikladi/",
+      "tarih": "2026-11-17T12:37:38+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "67a343b6f97d",
+      "baslik": "COP31 Paylaşımı Yapan Bazı Hesaplara Erişim Engeli Geldi",
+      "ozet": "5651 sayılı kanunun 8/A maddesi kapsamında son 1 haftada 521 X hesabı erişime engellendi. Engellenen hesaplar arasında COP31 ile ilgili paylaşımlar yapan iklim aktivistleri ile çevre örgütleri de bulunuyor. İfade Özgürlüğü Derneği (İFÖD), 5651 sayılı kanunun 8/A maddesi kapsamınd",
+      "url": "https://www.iklimhaber.org/cop31-paylasimi-yapan-bazi-hesaplara-erisim-engeli-geldi/",
+      "tarih": "2026-11-17T12:16:43+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f6dc865e32a4",
+      "baslik": "COP31’in Elektrifikasyon Hedefinde Neden “Yenilenebilir” İfadesi Belirtilmeli?",
+      "ozet": "Yeni bir çalışmaya göre, yenilenebilir enerji olmadan elektrifikasyon hedefine ulaşmak, yüzyılın ortasına kadar küresel ısınmaya en az 0,1 derece ekleyebilir. Bu ilave ısınma, iklim etkilerini şiddetlendirecek ve iklim devrilme noktalarının aşılması riskini artıracak. COP31 Başka",
+      "url": "https://www.iklimhaber.org/cop31in-elektrifikasyon-hedefinde-neden-yenilenebilir-ifadesi-belirtilmeli/",
+      "tarih": "2026-11-17T11:59:22+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "2479c35670f0",
       "baslik": "705 liralık borç tüm mahalleyi etkiledi: Ev sahipleri kiracı oldu",
@@ -1937,76 +2007,6 @@
       "ozet": "Dünya Meteoroloji Örgütü, atmosferdeki seragazı seviyelerinin 2025’te görülmemiş düzeylere ulaştığını, bunun gezegeni daha da ısıtabileceğini ve daha şiddetli iklim olaylarına yol açabileceğini belirtti. Dünya Meteoroloji Örgütü (WMO) yeni yayımladığı rapora göre, atmosferdeki kü",
       "url": "https://www.iklimhaber.org/atmosferdeki-seragazi-seviyeleri-bir-kez-daha-rekor-kirdi/",
       "tarih": "2026-10-28T11:11:36+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8f335e7de0f7",
-      "baslik": "İklim Krizi Kaynaklı Yüksek Sıcaklıklar 2016-2023 Yılları Arasında 3 Milyon Ölüme Sebep Oldu",
-      "ozet": "Son 10 yılda hız kazanan yeşil dönüşümün 300 binden fazla hayat kurtardığı hesaplanıyor. Temiz enerji yatırımları, 2025’te 2,1 trilyon dolar ile fosil yakıtlara yapılan yatırımların neredeyse iki katına ulaşarak rekor kırdı. 2016’dan bugüne en az 77 ülkede fosil yakıtlardan kayna",
-      "url": "https://www.iklimhaber.org/iklim-krizi-kaynakli-yuksek-sicakliklar-2016-2023-yillari-arasinda-3-milyon-olume-sebep-oldu/",
-      "tarih": "2026-10-28T10:21:06+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0a50406761f0",
-      "baslik": "COP31 Ev Sahibi Antalya’daki Hortum Felaketine Dair Uyarılar Neden Hayat Kurtarmadı?",
-      "ozet": "26 Ekim gecesi Antalya’nın Kepez ilçesinde meydana gelen hortum, iki hafta sonra COP31’e ev sahipliği yapacak şehirde iklim risklerini bir kez daha gözler önüne serdi. MGM’nin “kıyılarda hortum riski” uyarısının ardından gerçekleşen olayda, bir inşaat alanında konteynerde barınan",
-      "url": "https://www.iklimhaber.org/cop31-ev-sahibi-antalyadaki-hortum-felaketine-dair-uyarilar-neden-hayat-kurtarmadi/",
-      "tarih": "2026-10-28T09:44:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2f7655314baa",
-      "baslik": "20. yılına sahnede adım attı: Takım elbiseli tarzı dikkat çekti",
-      "ozet": "20. yılına sahnede adım attı: Takım elbiseli tarzı dikkat çekti",
-      "url": "https://www.sozcu.com.tr/20-yilina-sahnede-adim-atti-takim-elbiseli-tarzi-dikkat-cekti-p373529",
-      "tarih": "2026-10-28T08:25:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "aaa8fde23c33",
-      "baslik": "COP17’de Müzakereler Son Düzlüğe Girerken Ülkeler Anlaşmaya Varmaktan Uzak",
-      "ozet": "Tarihi bir doğa koruma anlaşmasını kurtarmaya yönelik kritik müzakereler Ermenistan’da son düzlüğe girdi ancak zaman daralırken görüşmeler tıkandı ve ülkeler bir uzlaşıdan oldukça uzak. Yaklaşık 200 ülke, doğanın tahrip edilmesini 2030 yılına kadar durdurma ve tersine çevirme yön",
-      "url": "https://www.iklimhaber.org/cop17de-muzakereler-son-duzluge-girerken-ulkeler-anlasmaya-varmaktan-uzak/",
-      "tarih": "2026-10-27T11:48:17+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3d9a3a407291",
-      "baslik": "Adil Geçiş Taslağında Kömür “Stratejik” Maden Oldu; Madenciye Yer Verilmedi!",
-      "ozet": "İklim Ağı, Çalışma ve Sosyal Güvenlik Bakanlığı’nın hazırladığı Ulusal Adil Geçiş Stratejisi ve Eylem Planı Taslağı’nda kömür madencilerinin yer almadığını söylerken, taslağın kömürden çıkış takvimini, kömür bölgelerine yönelik somut eylemleri ve işçiler ile etkilenen topluluklar",
-      "url": "https://www.iklimhaber.org/adil-gecis-taslaginda-komur-stratejik-maden-oldu-madenciye-yer-verilmedi/",
-      "tarih": "2026-10-27T10:51:52+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "32af34ccceff",
-      "baslik": "Türkiye’de En Zengin %0,1’in Emisyonu En Yoksul %27’nin Emisyonundan Daha Fazla",
-      "ozet": "Oxfam Konfederasyonu’nun Afet Eşitsizliği Raporu’na göre en zengin binde 1’lik kesim, dünya nüfusunun neredeyse yarısından daha fazla karbon kirliliği yaratırken, bunun doğurduğu iklim afetlerinden kazanç sağlıyor. Türkiye’deki en zengin binde birlik kesiminin, yani yalnızca 84.9",
-      "url": "https://www.iklimhaber.org/turkiyede-en-zengin-01in-emisyonu-en-yoksul-%27nin-emisyonundan-daha-fazla/",
-      "tarih": "2026-10-27T09:57:15+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ef9b1020abde",
-      "baslik": "Greepeace’ten COP31’in Ortağı Cengiz Holding’in Santralının Önünde Çağrı: “Kömürden Çıkın!”",
-      "ozet": "Greenpeace aktivistleri, COP31’in “Sürdürülebilir Dönüşüm Ortağı” olan Cengiz Holding’e ait CENAL Kömürlü Termik Santralı yakınında “Antalya’da İklim Zirvesi, Çanakkale’de Yeni Kömür Termik Santrali” ve “Quit coal (Kömürden Çık)” pankartı açtı. İthal kömürle çalışan santrala ek ü",
-      "url": "https://www.iklimhaber.org/greepeaceten-cop31in-ortagi-cengiz-holdingin-santralinin-onunde-cagri-komurden-cikin/",
-      "tarih": "2026-10-27T08:48:03+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -95782,6 +95782,20 @@
       "ozet": "İklim krizi ve Antalya’da düzenlenen COP31’e karşı yapılan basın açıklamasının arkasında Plandemi Büyük Buluşması Platformu isimli organizasyon ve sosyal medyada komplo teorileriyle ünlenen Ali Osman Önder bulunuyor. Grubun hedefinde iklim değişikliğine karşı mücadele edenler var",
       "lat": 36.9664,
       "lng": 30.6716,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f89481516017",
+      "baslik": "Türkiye “Günün Fosili Mansiyon Ödülü”nü Aldı",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "17.11.2026",
+      "url": "https://www.iklimhaber.org/turkiye-gunun-fosili-mansiyon-odulunu-aldi/",
+      "ozet": "COP31’in ev sahipliğini ve Başkanlığını üstlenen Türkiye, zirvede İklim Eylem Ağı tarafından verilen “Günün Fosili Mansiyon Ödülü”nü aldı. COP31 Başkanı Türkiye, COP31 Başkanı Murat Kurum’un Belem-Antalya Mekanizması’na ilişkin sözleri nedeniyle “Günün Fosili Mansiyon Ödülü”ne la",
+      "lat": 36.8327,
+      "lng": 30.7746,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
