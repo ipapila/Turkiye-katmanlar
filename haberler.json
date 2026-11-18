@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-17T20:18:05.365169+00:00",
+    "guncelleme": "2026-11-18T10:56:25.488359+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6699,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,96 @@
     }
   },
   "haberler": [
+    {
+      "id": "60a69357d865",
+      "baslik": "Çağatay Ulusoy sevgilisi Aslıhan Malbora ile akşam yemeğinde görüntülendi",
+      "ozet": "Çağatay Ulusoy sevgilisi Aslıhan Malbora ile akşam yemeğinde görüntülendi",
+      "url": "https://www.sozcu.com.tr/cagatay-ulusoy-sevgilisi-aslihan-malbora-ile-aksam-yemeginde-goruntulendi-p382465",
+      "tarih": "2026-11-18T10:48:07+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "100ba4b6bb0c",
+      "baslik": "Arda Güler'in geleceği belli oldu: Real Madrid resmen açıkladı",
+      "ozet": "Arda Güler'in geleceği belli oldu: Real Madrid resmen açıkladı",
+      "url": "https://www.sozcu.com.tr/arda-gulerin-gelecegi-belli-oldu-real-madrid-resmen-acikladi-p382464",
+      "tarih": "2026-11-18T10:48:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c60aa3f5e1a4",
+      "baslik": "Borsa günün ilk yarısında pozitif seyretti -18 Kasım 2026",
+      "ozet": "Borsa günün ilk yarısında pozitif seyretti -18 Kasım 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-pozitif-seyretti-18-kasim-2026-p382460",
+      "tarih": "2026-11-18T10:40:25+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "9b7d56ed156b",
+      "baslik": "Cumhurbaşkanı Erdoğan emekli aylığı düzenlemesi için ilk kez tarih verdi",
+      "ozet": "Cumhurbaşkanı Erdoğan emekli aylığı düzenlemesi için ilk kez tarih verdi",
+      "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-emekli-duzenlemesi-icin-tarih-verdi-p382451",
+      "tarih": "2026-11-18T10:22:11+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7b7dff3e879b",
+      "baslik": "Sokak ortasında 'yasak aşk' kavgası: 3 kız kardeş tarafından öldüresiye dövüldü",
+      "ozet": "Sokak ortasında 'yasak aşk' kavgası: 3 kız kardeş tarafından öldüresiye dövüldü",
+      "url": "https://www.sozcu.com.tr/sokak-ortasinda-dehset-3-kiz-kardes-tarafindan-olduresiye-dovuldu-p382441",
+      "tarih": "2026-11-18T10:13:25+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "aee5f1a165d0",
+      "baslik": "Elektrifikasyon Hedefine Destek Veren Ülke Sayısı 75’i Buldu",
+      "ozet": "Ülkeler arasında Almanya, İngiltere, Norveç, Güney Kore, İspanya, Japonya, Danimarka, Kanada ve Kırgızistan yer alıyor. Ayrıca, AB Komisyonu da AB’nin söz konusu hedefi onayladığını bildirdi. COP31 Müzakereler Başkanı Avustralya da 35×35 elektrifikasyon taahhüdünün “ilk imzacılar",
+      "url": "https://www.iklimhaber.org/elektrifikasyon-hedefine-destek-veren-ulke-sayisi-75i-buldu/",
+      "tarih": "2026-11-18T09:47:07+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "091afcf7944d",
+      "baslik": "Dizi ve Filmler İklim Krizine Çözümler Olmadan Yer Veriyor",
+      "ozet": "35 binden fazla senaryoyu inceleyen yeni bir araştırma, iklim krizinin filmlerde ve televizyon yapımlarında daha görünür hale geldiğini, ancak sistemsel çözümlere bireysel eylemlere göre nadiren yer verildiğinin de altını çiziyor. İklim değişikliği ve nedenleri film ve televizyon",
+      "url": "https://www.iklimhaber.org/dizi-ve-filmler-iklim-krizine-cozumler-olmadan-yer-veriyor/",
+      "tarih": "2026-11-18T09:45:00+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e250ec0e3d7c",
+      "baslik": "Benzinli araçlarda motorun performansını etkileyen parça belli oldu",
+      "ozet": "Benzinli araçlarda motorun performansını etkileyen parça belli oldu",
+      "url": "https://www.sozcu.com.tr/benzinli-araclarda-motorun-performansini-etkileyen-parca-belli-oldu-p382421",
+      "tarih": "2026-11-18T08:36:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b8782c91b079",
+      "baslik": "Trump’ın Yenilgisi İklim İnkârcıları için Sonun Başlangıcı Olabilir mi?",
+      "ozet": "İklim inkarcılığı ve iklim karşıtı politikalarıyla da bilinen ABD Başkanı Donald Trump, ara seçimlerde büyük darbe aldı. Connecticut Üniversitesi’nden Dr. Okşan Bayülgen, seçim sonuçlarının, iklim karşıtı politikalar için “sonun başlangıcı” olabileceğini söylüyor. ABDli siyasetçi",
+      "url": "https://www.iklimhaber.org/trumpin-yenilgisi-iklim-inkarcilari-icin-sonun-baslangici-olabilir-mi/",
+      "tarih": "2026-11-18T06:51:48+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "62d6cd45939c",
       "baslik": "Brezilyalı şarkıcıdan olay olacak cinsel deneyim açıklaması",
@@ -139,6 +229,16 @@
       "tarih": "2026-11-17T05:59:38+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "d346f33d59bd",
+      "baslik": "Kırmızı ışık ihlali 2 çocuk babasını hayattan kopardı... Feci kaza kamerada - dikGAZETE.com",
+      "ozet": "Kırmızı ışık ihlali 2 çocuk babasını hayattan kopardı... Feci kaza kamerada dikGAZETE.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnRuRGZoS0ZQbWxsWm5Ram92aDRXOU5xa1dOZDVpclZTRFNnMGctcHpyczlCakptWUFnRnE5QkNoWndPekdBS1VBWlFvd3AweHRjb0Q5ZF9XdkFReERnSlN0aGtnYWE5c2x6UEVEanVsUHRmNEk3Z0xVTmNKaUM4RWk3TFR4SG43NzlmbzhmQ3NpVmR6X01CSjhHSUtqUTZwSzlmUV9OZ2RJR2JIVGpRQnN0aTlqeDBS?oc=5",
+      "tarih": "2026-11-17T05:54:48+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1909,106 +2009,6 @@
       "tarih": "2026-10-29T09:16:12+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d638a691242e",
-      "baslik": "Hat Mon beldesi polisi, ihlalleri ele alıyor ve çevre temizliği çalışmalarını düzeltiyor. - Vietnam.vn",
-      "ozet": "Hat Mon beldesi polisi, ihlalleri ele alıyor ve çevre temizliği çalışmalarını düzeltiyor. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT21lRVN1ZWREbW42RGEzdVJlY19sUE1MZy1mOXRpZGRzS3FWQVBNNjBWV1RmMWF3ZzVTSlhrM3J2dEQyVmVkX1oycTc1Q3NGZkRxakxzMHhYRVRMc2Y5NDdNUDgxdWh0VzVIRkREdy1uTmdqbXllSnZHbmdob2pUYVliS3ROcXV1LXpqYzdQOG1pendmWGI3RVhFZDZ4eHVOUnluWl9JQlk?oc=5",
-      "tarih": "2026-10-29T03:59:31+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7bdddd354847",
-      "baslik": "Devlet Denetleme Kurumu, Tarım ve Çevre Bakanlığı'nın maden ruhsatı verme sürecinde bir dizi ihlal tespit etti. - Vietnam.vn",
-      "ozet": "Devlet Denetleme Kurumu, Tarım ve Çevre Bakanlığı'nın maden ruhsatı verme sürecinde bir dizi ihlal tespit etti. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0E1b1dsLS1Xbm9mYzY2TjBYVE5FWl9nN1dfWG5DTWQ0ZG5EWW9vRTlHSlVPVWpJdUtqcnM5MG5tUjh4Q0dxd0VUV05CejM4a0lmOS1BdFZNa2N6MVk1VXJ2QkZvVC12dGl5VmVId3R4VjdmRjZsaUp5R0x4OU4tbGVmdThLM090SmpidTgwaUViaTJsNl9DZ2h3ckNPTG1ZVXA0?oc=5",
-      "tarih": "2026-10-29T03:11:39+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5b99a7ffaff2",
-      "baslik": "AKP'li Tayyar'dan fon krizi uyarısı: Hesap sorulması da önemli",
-      "ozet": "AKP'li Tayyar'dan fon krizi uyarısı: Hesap sorulması da önemli",
-      "url": "https://www.sozcu.com.tr/samil-tayyar-fon-aciklamasi-28-ekim-2026-p373740",
-      "tarih": "2026-10-28T20:18:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "57bce425213a",
-      "baslik": "Cumhurbaşkanı Erdoğan ile Trump görüştü: Dikkat çeken 'Mekke İttifakı' detayı",
-      "ozet": "Cumhurbaşkanı Erdoğan ile Trump görüştü: Dikkat çeken 'Mekke İttifakı' detayı",
-      "url": "https://www.sozcu.com.tr/erdogan-trump-gorusmesi-28-ekim-2026-p373724",
-      "tarih": "2026-10-28T19:20:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "28a607023268",
-      "baslik": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
-      "ozet": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
-      "url": "https://www.sozcu.com.tr/istanbul-da-3-ilcede-yollar-trafige-kapatilacak-p373711",
-      "tarih": "2026-10-28T17:43:01+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ef20e32bee99",
-      "baslik": "AKP'li vekil Asuman Erdoğan'ın eşi de aralarındaydı! 3 kişinin mal varlığına gelen tedbir kararı jet hızıyla kaldırıldı",
-      "ozet": "AKP'li vekil Asuman Erdoğan'ın eşi de aralarındaydı! 3 kişinin mal varlığına gelen tedbir kararı jet hızıyla kaldırıldı",
-      "url": "https://www.sozcu.com.tr/pasifik-holdingin-uc-yoneticisinin-mal-varligi-uzerindeki-tedbir-kaldirildi-p373674",
-      "tarih": "2026-10-28T16:09:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "edb40c5eb062",
-      "baslik": "Yeni Rapor: Ulusal Katkı Beyanları Paris Anlaşması’yla Uyumlu Değil",
-      "ozet": "İklim değişikliğiyle mücadele kapsamında ülkelerin taahhütlerini içeren Ulusal Katkı Beyanlarını (NDC) inceleyen yeni bir rapor, iklim politikalarının genel anlamda genişlemesine rağmen emisyon azaltımlarının Paris Anlaşması’nın sıcaklık hedefiyle uyumlu olmadığına dikkat çekiyor",
-      "url": "https://www.iklimhaber.org/yeni-rapor-ulusal-katki-beyanlari-paris-anlasmasiyla-uyumlu-degil/",
-      "tarih": "2026-10-28T12:22:18+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d4a522075f57",
-      "baslik": "Güney Kore’den Google ve Apple’a uygulama mağazası ihlalleri için 47,5 milyon dolar ceza - dikGAZETE.com",
-      "ozet": "Güney Kore’den Google ve Apple’a uygulama mağazası ihlalleri için 47,5 milyon dolar ceza dikGAZETE.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEhIancxVE10aF9iMkMtMU1oajItMXd3SEh3NnBWNzJQaXhEbUdsc2pPcmw5ekVQLXR2cl9qMW80a254SkpRc1N0UnlrNm03VEpTQ1FXVnFkWkFmRjVrUHlDNW45UExIb1RRVklsSnlvRWJ0eldSVHFBSWdCYXdlaGE2ZlRNcnRidVlqakJXdkJfMFN5SWVmWEFiaUZrMHBfVmVvbndmSE1tVDMtUXkwTHJFbm5QNUp4UFVKOEtHeHJWNkk1NkkySll2VjRSdw?oc=5",
-      "tarih": "2026-10-28T12:06:34+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f09a668be396",
-      "baslik": "İklim İnkârcılığı Sözlüğü-17: “İklim Krizi Gelişmekte Olan Ülkelerin Ekonomisini Baltalamak için Uyduruldu”",
-      "ozet": "Uluslararası Enerji Ajansı’nın yayımladığı Sürdürülebilir İyileşme Raporu’na göre hem küresel hem ulusal anlamda ekonomiyi canlandırmanın, yeni istihdam alanları yaratmanın ve uzun vadeli maliyetleri düşürmenin en etkili yolu yenilenebilir enerjiden geçiyor. İklim krizi inkârcıla",
-      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-17-iklim-krizi-gelismekte-olan-ulkelerin-ekonomisini-baltalamak-icin-uyduruldu/",
-      "tarih": "2026-10-28T11:34:46+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bdec6e42977e",
-      "baslik": "Atmosferdeki Seragazı Seviyeleri Bir Kez Daha Rekor Kırdı",
-      "ozet": "Dünya Meteoroloji Örgütü, atmosferdeki seragazı seviyelerinin 2025’te görülmemiş düzeylere ulaştığını, bunun gezegeni daha da ısıtabileceğini ve daha şiddetli iklim olaylarına yol açabileceğini belirtti. Dünya Meteoroloji Örgütü (WMO) yeni yayımladığı rapora göre, atmosferdeki kü",
-      "url": "https://www.iklimhaber.org/atmosferdeki-seragazi-seviyeleri-bir-kez-daha-rekor-kirdi/",
-      "tarih": "2026-10-28T11:11:36+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
