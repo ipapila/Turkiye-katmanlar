@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-18T10:56:25.488359+00:00",
+    "guncelleme": "2026-11-18T19:48:13.389583+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6699,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "b2b2ed55613c",
+      "baslik": "Cennet gibi adada yaşam kabusa döndü: Denizin ortasında susuz kaldılar",
+      "ozet": "Cennet gibi adada yaşam kabusa döndü: Denizin ortasında susuz kaldılar",
+      "url": "https://www.sozcu.com.tr/cennet-gibi-adada-yasam-kabusa-dondu-denizin-ortasinda-susuz-kaldilar-p382555",
+      "tarih": "2026-11-18T18:52:55+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e5bf32c8d716",
+      "baslik": "Hükümet, çevre koruma alanındaki ihlaller için idari cezalar düzenlemektedir. - Vietnam.vn",
+      "ozet": "Hükümet, çevre koruma alanındaki ihlaller için idari cezalar düzenlemektedir. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3JRdU9mMnNBU2hMd2pzZTRRZDNCNVh1MU56bjZyUHpRaE5NamNzVE50bkRxcm5adGZKZ2RRSjdBdUdDSU56MlpFU1NINjJsSXU5SnJtd3VpRXVUZTBhVG1OY2h3Q25jNnNaMGFvTC16cE5iLWRtdzRNV2lOQlJWb2x6bFBpT211cnpQOW5oY0Z1NEpYb2VEWF91OGFrUEpyU0tqZFBRcEZHNGc?oc=5",
+      "tarih": "2026-11-18T17:52:31+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "451100519cfa",
+      "baslik": "Kolombiya’nın Eski Çevre Bakanı: COP31 Hedeflerden Ziyade Mekanizmaları Korumayı Amaçlıyor",
+      "ozet": "Bu yılki Santa Marta konferansından sorumlu Kolombiyalı eski bakan Torres, COP31’in temel amacının gerçek bir ilerleme kaydetmekten ziyade BM iklim müzakere mekanizmalarını korumak gibi göründüğü konusunda uyardı. Kolombiya’nın eski Çevre ve Sürdürülebilir Kalkınma Bakanı Irene V",
+      "url": "https://www.iklimhaber.org/kolombiyanin-eski-cevre-bakani-cop31-hedeflerden-ziyade-mekanizmalari-korumayi-amacliyor/",
+      "tarih": "2026-11-18T11:42:29+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "60a69357d865",
       "baslik": "Çağatay Ulusoy sevgilisi Aslıhan Malbora ile akşam yemeğinde görüntülendi",
@@ -1979,36 +2009,6 @@
       "tarih": "2026-10-29T20:07:59+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "ebbe5752de6c",
-      "baslik": "Erdoğan ile Trump arasında 24 saatte ikinci telefon görüşmesi",
-      "ozet": "Erdoğan ile Trump arasında 24 saatte ikinci telefon görüşmesi",
-      "url": "https://www.sozcu.com.tr/erdogan-trump-gorusmesi-29-ekim-2026-p374081",
-      "tarih": "2026-10-29T17:28:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a34e3a9a5c06",
-      "baslik": "Evleri ısıtmak için denizden su çekmeye başladılar",
-      "ozet": "Evleri ısıtmak için denizden su çekmeye başladılar",
-      "url": "https://www.sozcu.com.tr/evleri-isitmak-icin-denizden-su-cekmeye-basladilar-p374085",
-      "tarih": "2026-10-29T17:23:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "58b8b35f4e62",
-      "baslik": "Tarım ve Çevre Bakanlığı'nda maden ruhsatlandırmasında bir dizi ihlal yaşandı: Eksi sermayeye sahip işletmelere hâlâ onay veriliyor. - Vietnam.vn",
-      "ozet": "Tarım ve Çevre Bakanlığı'nda maden ruhsatlandırmasında bir dizi ihlal yaşandı: Eksi sermayeye sahip işletmelere hâlâ onay veriliyor. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkcxNHNkZlhaUldpelFuN01yRUxKaE5FOFJEbW50S0FRSTk5dGJRdTBfaUtjVHJFQTZCekk1RFVpa3dnRzNsdVNKanFKMVF2RFZRY0VuaG5uTE1yN2tZOTUySno4RnJZaXFKbzUwUXk2WWhULUlGc054NkxiUmJUcWFXV0Q1bEZ0U2MwbWROOUpmaVFxT201d0JRbndMTzBkVVVQV0tWU2Y2dw?oc=5",
-      "tarih": "2026-10-29T09:16:12+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
