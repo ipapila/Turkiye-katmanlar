@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-18T19:48:13.389583+00:00",
+    "guncelleme": "2026-11-19T10:58:48.463294+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6699,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "f61a5bb66065",
+      "baslik": "COP31’de Müzakereler Çökme Noktasına Yaklaştı",
+      "ozet": "Gelişmiş ülkelerin adil geçiş, uyum ve iklim finansmanı konularındaki ilerlemeyi engellemesi ve Azaltım Çalışma Programı’nın tehlikeye girmesiyle COP31 müzakereleri çöküşün eşiğine deldi. Tablonun iç karartıcı olduğuna dikkat çeken uzmanlar, adil geçiş müzakerelerinin uçurumun eş",
+      "url": "https://www.iklimhaber.org/cop31de-muzakereler-cokme-noktasina-yaklasti/",
+      "tarih": "2026-11-19T10:41:50+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1f0136114f81",
+      "baslik": "Fosil Yakıt Lobisi COP31’de Atağa Kalktı: “Elektrifikasyonu Artırma Çabaları Fosil Yakıtlara Bağlı”",
+      "ozet": "OPEC tarafından yapılan açıklamada, elektrifikasyonu artırma çabalarının fosil yakıtlara bağımlı olacağı aktarıldı. COP31’in ev sahibi Türkiye’nin ileri sürdüğü taahhütte elektrifikasyonun yenilenebilir enerji kaynaklarından sağlanması gerekliliği bulunmuyor. Bilim insanları ise ",
+      "url": "https://www.iklimhaber.org/fosil-yakit-lobisi-cop31de-ataga-kalkti-elektrifikasyonu-artirma-cabalari-fosil-yakitlara-bagli/",
+      "tarih": "2026-11-19T08:24:34+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "dd7bf5f8bcb0",
+      "baslik": "Halkların İklim Zirvesi Tamamlandı",
+      "ozet": "Halkların İklim Zirvesi, 14 Kasım’daki Küresel Eylem Günü yürüyüşüyle başlayan beş günlük buluşmayı Sonuç Bildirgesi’nin sunulmasıyla tamamladı. Zirvenin son günü gıda egemenliğinden iklim tazminatlarına, halklar adil geçişin koşullarını ortaya koydu. Toprağa kim erişebiliyor, su",
+      "url": "https://www.iklimhaber.org/halklarin-iklim-zirvesi-tamamlandi/",
+      "tarih": "2026-11-19T08:05:10+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "109a38282074",
+      "baslik": "“Dünya, Petrol Mafyasının Rehinesi”",
+      "ozet": "COP31 İklim Zirvesi son günlerine girerken, kritik konularda uzlaşma sağlanamadı. Bu arada 30 ülke, BM müzakere sürecinden bağımsız olarak fosil yakıtların aşamalı olarak terk edilmesini öngören yeni bir anlaşma oluşturmak üzere harekete geçerken, bu ülkelerden biri olan Panama’n",
+      "url": "https://www.iklimhaber.org/dunya-petrol-mafyasinin-rehinesi/",
+      "tarih": "2026-11-19T08:00:15+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1fd96b431c84",
+      "baslik": "Bankacılık devinden iki senaryo geldi: Altında yükseliş ne zaman başlayacak?",
+      "ozet": "Bankacılık devinden iki senaryo geldi: Altında yükseliş ne zaman başlayacak?",
+      "url": "https://www.sozcu.com.tr/bankacilik-devinden-iki-senaryo-geldi-altinda-yukselis-ne-zaman-baslayacak-p382680",
+      "tarih": "2026-11-19T07:36:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c6e641738240",
+      "baslik": "COP31 Başkanlığı: “Kaydettiğimiz İlerleme bir Anlaşmaya Dönüşmeli”",
+      "ozet": "Tüm Taraflara açık gayriresmi toplantı, COP31 gündemi genelinde ortak payda oluşturmak amacıyla bakanları tek bir görüşmede bir araya getirdi. COP31 Başkanlığı, müzakerelerin son günlerinde kaydedilen ilerlemeyi anlaşmaya dönüştürmeleri için Taraflara çağrıda bulundu. COP31 son g",
+      "url": "https://www.iklimhaber.org/cop31-baskanligi-kaydettigimiz-ilerleme-bir-anlasmaya-donusmeli/",
+      "tarih": "2026-11-19T06:30:30+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b2b2ed55613c",
       "baslik": "Cennet gibi adada yaşam kabusa döndü: Denizin ortasında susuz kaldılar",
@@ -1949,66 +2009,6 @@
       "tarih": "2026-10-30T08:30:11+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "12645429f6e7",
-      "baslik": "Piyasalarda teknoloji hisselerine dair endişelerle satış baskısı arttı",
-      "ozet": "Piyasalarda teknoloji hisselerine dair endişelerle satış baskısı arttı",
-      "url": "https://www.sozcu.com.tr/piyasalarda-teknoloji-hisselerine-dair-endiselerle-satis-baskisi-artti-p374243",
-      "tarih": "2026-10-30T07:15:26+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7547053d501f",
-      "baslik": "Borsa güne düşüşle başladı -30 Ekim 2026",
-      "ozet": "Borsa güne düşüşle başladı -30 Ekim 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-30-ekim-2026-p374236",
-      "tarih": "2026-10-30T07:02:39+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "6f351040350e",
-      "baslik": "Türkiye’nin Neden TarımGES’lere İhtiyacı Var?",
-      "ozet": "Solar 3GW ve ODTÜ-GÜNAM’ın iş birliği ile ekilen karabuğdayların ilk hasadı yapıldı. Güneş panelleri altında yetiştirilen karabuğdayda verim %7 artarken su tüketimi de %20 azaldı. TarımGES’ler, uygun ürün ve sistem tasarımıyla tarımsal verimliliği artırırken çiftçilere elektrik ü",
-      "url": "https://www.iklimhaber.org/turkiyenin-neden-tarimgeslere-ihtiyaci-var/",
-      "tarih": "2026-10-30T07:00:09+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "01d0f391ae51",
-      "baslik": "Bac Ninh: Viet Phat EPS Köpük Anonim Şirketi, çevre yönetmeliklerini ihlal ettiği gerekçesiyle 65 milyon VND para cezasına çarptırıldı. - Vietnam.vn",
-      "ozet": "Bac Ninh: Viet Phat EPS Köpük Anonim Şirketi, çevre yönetmeliklerini ihlal ettiği gerekçesiyle 65 milyon VND para cezasına çarptırıldı. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0p2cDhuYVRVN25qcUJza3o4NWtKQVBpX2hqRHdFUl9ZempZMlNiR1hlbDVrWGNqQmRKSTdSclo0SEhzZVh4QVI3MnRSdzBQVG9teWpoMHZJMnVPcEsyVVZITnpWTkVRWXloNC1OaExDUFowQWU0QUIyRGx6aGNzZnJVand4Y2htb29md05reUdQZWx2dVhfbmsxOEM4bEVuNTVTei1rckZmdTRFdXV0VUxVUWdhb2NDS2xobWY1NEpuQQ?oc=5",
-      "tarih": "2026-10-30T06:40:06+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "251e54ffe350",
-      "baslik": "Avrupa’da Aşırı Sıcaklar 50 Bin Can Aldı",
-      "ozet": "Bu yaz Avrupa’da yaşanan aşırı sıcakların 50 bin kişinin ölümüne yol açtığını açıklayan yeni bir araştırmaya göre, sıcaklığa bağlı ölümlerin nüfusa oranla en yüksek olduğu ülkeler Malta, İtalya ve Macaristan oldu. Yine aynı araştırmaya göre, iklim krizine bağlı ölümlerin toplam s",
-      "url": "https://www.iklimhaber.org/avrupada-asiri-sicaklar-50-bin-can-aldi/",
-      "tarih": "2026-10-30T06:30:49+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3040b0a355ec",
-      "baslik": "Canlı yayında QR kodunu gösterdi, takipçileri 600 bin liralık hesap çıkardı!",
-      "ozet": "Canlı yayında QR kodunu gösterdi, takipçileri 600 bin liralık hesap çıkardı!",
-      "url": "https://www.sozcu.com.tr/canli-yayinda-qr-kodunu-gosterdi-takipcileri-600-bin-liralik-hesap-cikardi-p374113",
-      "tarih": "2026-10-29T20:07:59+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
