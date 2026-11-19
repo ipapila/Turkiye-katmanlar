@@ -121832,5 +121832,43 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/turkiye-gunun-fosili-mansiyon-odulunu-aldi/"
+  },
+  {
+    "id": "tarayici-f6a34ff57072",
+    "tip": "Ekolojik İhlal",
+    "ad": "Konya’da drift atan, trafik kurallarını ihlal eden sürücülere geçit yok - dikGAZETE.com",
+    "il": "Konya",
+    "ilce": "",
+    "aciklama": "Konya’da drift atan, trafik kurallarını ihlal eden sürücülere geçit yok dikGAZETE.com",
+    "koordinatlar": {
+      "lat": 37.7943,
+      "lng": 32.598
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "19.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFU5ZnVPZlgwdUVCZEktMTE1d085akJ4bHdlSWtFaGk2VldYR1VlNnFlbUdRS1BUdVFpRFZCd1N2ZElWRkR3aVh4MUlzcVhUM1dvZEtqeWwwWVF6LVBDTGdEZ3JDYkh1TjJjWFc2WnNqSDhEYkZRMTRybFFBT0ZORkE3QUc0b1F6WGw2TTd3aDBSd1NIUVB3b1lfbzJWR2VBYnNmdUNnMnlhYzVVQXFpR0JVdWdhZw?oc=5"
+  },
+  {
+    "id": "tarayici-1fb1dfcca60e",
+    "tip": "Acele Kamulaştırma",
+    "ad": "Trakya’da acele kamulaştırma tartışması panelde masaya yatırılacak! - Tekirdağ Habertrak Gazetesi",
+    "il": "Tekirdağ",
+    "ilce": "",
+    "aciklama": "Trakya’da acele kamulaştırma tartışması panelde masaya yatırılacak! Tekirdağ Habertrak Gazetesi",
+    "koordinatlar": {
+      "lat": 41.0958,
+      "lng": 27.5756
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "19.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzlBRDVUMHRtdktRU0hMSkZ4R2hIdFBpRDYwNE9XdVFWR1czaGVJd2F3RFBfV1A2T3VmX3h2M3U0UUVCVEdram1FR1dPalpobi0wWk85TE5CUjJPUk9MeFBVY1hrUlo5U2pkaWJ2SWtPTWxROGpqWmNRbHRtX2lfQWsxQkVQMFZpT2dLdHRYVFF2QUlLanRmZk9LQ1UxYmRQNWU1c2dSMWxoWHAtaTVoNzQxTUFTdnNKcEE?oc=5"
   }
 ]

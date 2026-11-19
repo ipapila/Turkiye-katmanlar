@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-19T10:58:48.463294+00:00",
+    "guncelleme": "2026-11-19T19:48:37.497615+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6699,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6701,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -12,6 +12,66 @@
   },
   "haberler": [
     {
+      "id": "f4a0852361f4",
+      "baslik": "Uzmanlar Uyardı: Çerçeve Karar Metni Bu Haliyle Kalırsa COP31 Başarısız Olur",
+      "ozet": "COP31 Çerçeve Kararı’nın yeni taslağında fosil yakıtlardan çıkış ve 120 milyar dolarlık uyum finansmanı hedeflerinin yer almaması uzmanların ve iklim STK’larının tepkisini çekti. Metinde karbon yakalama teknolojilerine yer verilmesi eleştirilirken, metnin bu haliyle kalması durum",
+      "url": "https://www.iklimhaber.org/uzmanlar-uyardi-cerceve-karar-metni-bu-haliyle-kalirsa-cop31-basarisiz-olur/",
+      "tarih": "2026-11-19T19:28:52+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7cfd94ed15fd",
+      "baslik": "Suriye'de doğal gaz hattına sabotaj: Patlamanın ardından yangın çıktı",
+      "ozet": "Suriye'de doğal gaz hattına sabotaj: Patlamanın ardından yangın çıktı",
+      "url": "https://www.sozcu.com.tr/suriye-de-dogal-gaz-hattina-sabotaj-patlamanin-ardindan-yangin-cikti-p382846",
+      "tarih": "2026-11-19T19:07:09+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5ba79ccab8f5",
+      "baslik": "Betondan yaptıkları otomobilleri denizin dibine bıraktılar",
+      "ozet": "Betondan yaptıkları otomobilleri denizin dibine bıraktılar",
+      "url": "https://www.sozcu.com.tr/betondan-yaptiklari-otomobilleri-denizin-dibine-biraktilar-p382835",
+      "tarih": "2026-11-19T15:41:23+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "344a3d755afa",
+      "baslik": "COP31’in Çerçeve Kararı’nın İkinci Taslak Metninde Fosil Yakıtlardan Çıkışa Yer Verilmedi",
+      "ozet": "İlk metinde yer alan ve her yıl müzakerelerde ülkeleri derinden bölen bir konu olan fosil yakıtlardan uzaklaşmaya yönelik atıflar ile gelişmekte olan ülkelerin iklim değişikliğine uyum sağlamasına yardımcı olmak için belirlenen 120 milyar dolarlık finansman hedefinden bahsedilen ",
+      "url": "https://www.iklimhaber.org/cop31in-cerceve-kararinin-ikinci-taslak-metninde-fosil-yakitlardan-cikisa-yer-verilmedi/",
+      "tarih": "2026-11-19T14:40:49+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "06369f225b92",
+      "baslik": "Anket: Halk COP31 Eş Başkanlıklarından İklim Eylemi Talep Ediyor",
+      "ozet": "COP31 ev sahipleri Türkiye ve Avustralya’da yapılan yeni bir ankete göre her iki toplumda da çoğunluk, iklim değişikliğinin etkilerinin farkında ve özellikle güneş enerjisini destekliyor. Ancak siyasi liderlik eksikliği nedeniyle her iki ülkede de halkın çoğu, COP31’den haberd",
+      "url": "https://www.iklimhaber.org/anket-halk-cop31-es-baskanliklarindan-iklim-eylemi-talep-ediyor/",
+      "tarih": "2026-11-19T12:34:31+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "0d2cde11f0c5",
+      "baslik": "COP31’in Elektrifikasyon Vaatleri ve Duyuruları Bir Araya Getirildi",
+      "ozet": "COP31 süresince paylaşılan sonuçları ve duyuruları bir araya getiren paket hükümetlerin, şirketlerin, yatırımcıların, şehirlerin ve uluslararası girişimlerin iklim hedeflerini nasıl pratik ve gönüllü eylemlere dönüştürdüğünü ortaya koyuyor. Bugün Taraflara sunulan COP31 Küresel İ",
+      "url": "https://www.iklimhaber.org/cop31in-elektrifikasyon-vaatleri-ve-duyurulari-bir-araya-getirildi/",
+      "tarih": "2026-11-19T12:00:29+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "f61a5bb66065",
       "baslik": "COP31’de Müzakereler Çökme Noktasına Yaklaştı",
       "ozet": "Gelişmiş ülkelerin adil geçiş, uyum ve iklim finansmanı konularındaki ilerlemeyi engellemesi ve Azaltım Çalışma Programı’nın tehlikeye girmesiyle COP31 müzakereleri çöküşün eşiğine deldi. Tablonun iç karartıcı olduğuna dikkat çeken uzmanlar, adil geçiş müzakerelerinin uçurumun eş",
@@ -19,6 +79,16 @@
       "tarih": "2026-11-19T10:41:50+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "1fb1dfcca60e",
+      "baslik": "Trakya’da acele kamulaştırma tartışması panelde masaya yatırılacak! - Tekirdağ Habertrak Gazetesi",
+      "ozet": "Trakya’da acele kamulaştırma tartışması panelde masaya yatırılacak! Tekirdağ Habertrak Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzlBRDVUMHRtdktRU0hMSkZ4R2hIdFBpRDYwNE9XdVFWR1czaGVJd2F3RFBfV1A2T3VmX3h2M3U0UUVCVEdram1FR1dPalpobi0wWk85TE5CUjJPUk9MeFBVY1hrUlo5U2pkaWJ2SWtPTWxROGpqWmNRbHRtX2lfQWsxQkVQMFZpT2dLdHRYVFF2QUlLanRmZk9LQ1UxYmRQNWU1c2dSMWxoWHAtaTVoNzQxTUFTdnNKcEE?oc=5",
+      "tarih": "2026-11-19T09:58:17+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -39,6 +109,16 @@
       "tarih": "2026-11-19T08:05:10+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f6a34ff57072",
+      "baslik": "Konya’da drift atan, trafik kurallarını ihlal eden sürücülere geçit yok - dikGAZETE.com",
+      "ozet": "Konya’da drift atan, trafik kurallarını ihlal eden sürücülere geçit yok dikGAZETE.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFU5ZnVPZlgwdUVCZEktMTE1d085akJ4bHdlSWtFaGk2VldYR1VlNnFlbUdRS1BUdVFpRFZCd1N2ZElWRkR3aVh4MUlzcVhUM1dvZEtqeWwwWVF6LVBDTGdEZ3JDYkh1TjJjWFc2WnNqSDhEYkZRMTRybFFBT0ZORkE3QUc0b1F6WGw2TTd3aDBSd1NIUVB3b1lfbzJWR2VBYnNmdUNnMnlhYzVVQXFpR0JVdWdhZw?oc=5",
+      "tarih": "2026-11-19T08:01:59+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1602,6 +1682,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "26325c5b3515",
+      "baslik": "Af Örgütü'nden COP31 öncesi Türkiye'de insan hakları ihlalleri uyarısı: Görmezden gelmeyin - DW.com",
+      "ozet": "Af Örgütü'nden COP31 öncesi Türkiye'de insan hakları ihlalleri uyarısı: Görmezden gelmeyin DW.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUEd4TVhpTFlaSW1wTmpnSXZxc3FJME5QYmtraEduQXBVRUJxRklieTFldTBhTkdLTGd2eTlnMV85RnlLakgxVEVuVVp6TGdqX0hzcThYOHc0ZjFFMGx0TjI5SkhhdWk4T2pfdWNydF9EY25MUW9aS09oMXhHcTlycEJUUkt6R002bUVQY1Fhb0NOSjVLUndtNFMzeklTQkcwNUNMR05ZZFJmMS1US1l4SDA1dGJQMlVEaFdmN3U5ZDBUZldHdGEyd09SSUxJVElrbVBIWm1xaTYwQlVBOW53U1gxSGp2SnItaXF0N3M1c1REcGl0a1AxU9IB-AFBVV95cUxQX1R0Mk83a0dEUlotSE0tZ3VfanFBd1JfaEhKSUV0RzI5eEI5VFdVTXJpNk5CbXU5MldSWEM3NmN0R2ZtU2Y5bTNpckFsNm9VRXB4anZ5LVRzSDZBNm5IRlVaX3dPbFpaZkJxZzkyM1dWX1VGeXNRTUJMNU5qLWg3bzV2TjlJa19xVDRqY1psekhGcEppaUpwVHBRY3lsWUtPSl9TaUlVckdZRG04cDRsZnF5eFdvcG1qajdsZ0NqZjVLV0phVkEtVHpkZGJyNzliUFVBZVhyMFZGUW8wZjc4VEFTT0hFLWwzaE5LWEhaeEs3WlFWNW01Ng?oc=5",
+      "tarih": "2026-11-05T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "d517b5bd729d",
       "baslik": "İğneada Longoz Ormanları Kuraklık Tehdidi Altında!",
       "ozet": "Yeni bir çalışma, Türkiye’nin nadir subasar ormanlarından İğneada Longoz Ormanlarının insan baskısı ve iklim değişikliği nedeniyle tehdit altında olduğunu ortaya koyuyor. 1984’ten 2014’e Erikli longozunun %16 daraldığını, Sakagöl longozundaki sulak alanların ise yok olduğunu veya",
@@ -1919,96 +2009,6 @@
       "tarih": "2026-10-31T14:51:11+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "66531f3f7862",
-      "baslik": "Ege Denizi'nde deprem meydana geldi",
-      "ozet": "Ege Denizi'nde deprem meydana geldi",
-      "url": "https://www.sozcu.com.tr/ege-denizi-nde-deprem-meydana-geldi-p374647",
-      "tarih": "2026-10-31T14:42:37+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "98133d4b39ae",
-      "baslik": "Erdoğan Zelenskiy ile bir araya geldi",
-      "ozet": "Erdoğan Zelenskiy ile bir araya geldi",
-      "url": "https://www.sozcu.com.tr/erdogan-zelenskiy-ile-bir-araya-geldi-p374645",
-      "tarih": "2026-10-31T14:22:13+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7e12e75135fe",
-      "baslik": "Everest'te facia: Otel alev alev yandı",
-      "ozet": "Everest'te facia: Otel alev alev yandı",
-      "url": "https://www.sozcu.com.tr/everest-te-facia-otel-alev-alev-yandi-p374542",
-      "tarih": "2026-10-31T08:57:42+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5b3986e33286",
-      "baslik": "Canlı yayında tek tek hesaplandı: Memur, emekli ve asgari ücretlinin yeni maaş tablosu ortaya çıktı",
-      "ozet": "Canlı yayında tek tek hesaplandı: Memur, emekli ve asgari ücretlinin yeni maaş tablosu ortaya çıktı",
-      "url": "https://www.sozcu.com.tr/canli-yayinda-tek-tek-hesaplandi-memur-emekli-ve-asgari-ucretlinin-yeni-maas-tablosu-ortaya-cikti-p374550",
-      "tarih": "2026-10-31T08:44:15+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b1edece4c107",
-      "baslik": "Tam 8 gün sürecek, 3 burcun hayatı resmen değişecek",
-      "ozet": "Tam 8 gün sürecek, 3 burcun hayatı resmen değişecek",
-      "url": "https://www.sozcu.com.tr/tam-8-gun-surecek-3-burcun-hayati-resmen-degisecek-p374526",
-      "tarih": "2026-10-31T07:18:48+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5f518bcc76ce",
-      "baslik": "Merkezefendi Belediyesi'ne operasyon… Başkan Şeniz Doğan ve eşinin de aralarında olduğu 6 kişi tutuklandı",
-      "ozet": "Merkezefendi Belediyesi'ne operasyon… Başkan Şeniz Doğan ve eşinin de aralarında olduğu 6 kişi tutuklandı",
-      "url": "https://www.sozcu.com.tr/merkezefendi-belediye-baskani-seniz-dogan-hakkinda-karar-p374462",
-      "tarih": "2026-10-30T21:47:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "401eacae4025",
-      "baslik": "Doğal gazda limitler güncellendi! Bu sınırı aşan yüksek fatura ödeyecek",
-      "ozet": "Doğal gazda limitler güncellendi! Bu sınırı aşan yüksek fatura ödeyecek",
-      "url": "https://www.sozcu.com.tr/dogal-gazda-limitler-guncellendi-bu-siniri-asan-yuksek-fatura-odeyecek-p374428",
-      "tarih": "2026-10-30T18:09:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0a9405751646",
-      "baslik": "TDT Azerbaycan krizinin gölgesinde başladı! Erdoğan: 'Aile fotoğrafında ayrılığa yer yoktur'",
-      "ozet": "TDT Azerbaycan krizinin gölgesinde başladı! Erdoğan: 'Aile fotoğrafında ayrılığa yer yoktur'",
-      "url": "https://www.sozcu.com.tr/tdt-azerbaycan-krizinin-golgesinde-basladi-erdogan-aile-fotografinda-ayriliga-yer-yoktur-p374256",
-      "tarih": "2026-10-30T09:20:56+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fb57ae98cae6",
-      "baslik": "İklim Hareketi COP31 Başkanlığından Ne Talep Ediyor?",
-      "ozet": "Türkiye’nin COP Başkanı olarak sorumluluklarına dikkat çeken Greenpeace Türkiye Direktörü Özyer, iklim hareketinin iki temel talebinin kömürlü termik santrallardan çıkış için tarih belirlenmesi ve Türkiye’ye atık ithalatının yasaklanması olduğunu vurguladı. 9 Kasım’da Antalya’da ",
-      "url": "https://www.iklimhaber.org/iklim-hareketi-cop31-baskanligindan-ne-talep-ediyor/",
-      "tarih": "2026-10-30T08:30:11+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95796,6 +95796,34 @@
       "ozet": "COP31’in ev sahipliğini ve Başkanlığını üstlenen Türkiye, zirvede İklim Eylem Ağı tarafından verilen “Günün Fosili Mansiyon Ödülü”nü aldı. COP31 Başkanı Türkiye, COP31 Başkanı Murat Kurum’un Belem-Antalya Mekanizması’na ilişkin sözleri nedeniyle “Günün Fosili Mansiyon Ödülü”ne la",
       "lat": 36.8327,
       "lng": 30.7746,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f6a34ff57072",
+      "baslik": "Konya’da drift atan, trafik kurallarını ihlal eden sürücülere geçit yok - dikGAZETE.com",
+      "konum": "Konya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "19.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFU5ZnVPZlgwdUVCZEktMTE1d085akJ4bHdlSWtFaGk2VldYR1VlNnFlbUdRS1BUdVFpRFZCd1N2ZElWRkR3aVh4MUlzcVhUM1dvZEtqeWwwWVF6LVBDTGdEZ3JDYkh1TjJjWFc2WnNqSDhEYkZRMTRybFFBT0ZORkE3QUc0b1F6WGw2TTd3aDBSd1NIUVB3b1lfbzJWR2VBYnNmdUNnMnlhYzVVQXFpR0JVdWdhZw?oc=5",
+      "ozet": "Konya’da drift atan, trafik kurallarını ihlal eden sürücülere geçit yok dikGAZETE.com",
+      "lat": 37.7943,
+      "lng": 32.598,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-1fb1dfcca60e",
+      "baslik": "Trakya’da acele kamulaştırma tartışması panelde masaya yatırılacak! - Tekirdağ Habertrak Gazetesi",
+      "konum": "Tekirdağ",
+      "kategori": "Acele Kamulaştırma",
+      "siddet": "Takip Ediliyor",
+      "tarih": "19.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzlBRDVUMHRtdktRU0hMSkZ4R2hIdFBpRDYwNE9XdVFWR1czaGVJd2F3RFBfV1A2T3VmX3h2M3U0UUVCVEdram1FR1dPalpobi0wWk85TE5CUjJPUk9MeFBVY1hrUlo5U2pkaWJ2SWtPTWxROGpqWmNRbHRtX2lfQWsxQkVQMFZpT2dLdHRYVFF2QUlLanRmZk9LQ1UxYmRQNWU1c2dSMWxoWHAtaTVoNzQxTUFTdnNKcEE?oc=5",
+      "ozet": "Trakya’da acele kamulaştırma tartışması panelde masaya yatırılacak! Tekirdağ Habertrak Gazetesi",
+      "lat": 41.0958,
+      "lng": 27.5756,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
