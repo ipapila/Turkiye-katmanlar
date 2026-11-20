@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-20T10:47:04.953465+00:00",
+    "guncelleme": "2026-11-20T19:29:30.776569+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6701,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "e359b20d19f9",
+      "baslik": "Türkiye ve Avustralya Hedefte: “Muhtemelen Gelmiş Geçmiş En Kötü Başkanlık!”",
+      "ozet": "İklim STK’ları COP31 eş başkanlıklarını hedef tahtasına oturturken, iki ülkenin kurduğu ortaklığın “berbat” olduğunu aktardı. YAZI: Bulut BAGATIR COP31’de son saatlere girilirken dün yayımlanan 2. taslak metin hedef tahtasına zirvenin eş başkanları olan Türkiye ve Avustralya’yı o",
+      "url": "https://www.iklimhaber.org/turkiye-ve-avustralya-hedefte-muhtemelen-gelmis-gecmis-en-kotu-baskanlik/",
+      "tarih": "2026-11-20T15:24:31+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bb7ea6fcf591",
+      "baslik": "“COP31’in Nihai Sonucu için 6 Kırmızı Çizgimiz Var”",
+      "ozet": "Panama Çevre Bakanı, bir grup ülkeyle beraber COP31 eş başkanlıklarına seslenirken nihai Çerçeve Karar’da bilimin temel alınmasını talep etti. Fosil yakıtlardan uzaklaşma, iklim finansmanı ve temiz elektrifikasyon ihtiyacına da değinen Navarro, “COP31’in nihai sonuç belgesinin he",
+      "url": "https://www.iklimhaber.org/cop31in-nihai-sonucu-icin-6-kirmizi-cizgimiz-var/",
+      "tarih": "2026-11-20T13:12:15+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "0908865acdc2",
       "baslik": "Borsa günün ilk yarısında değer kaybetti -20 Kasım 2026",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-11-02T20:18:46+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c7bfae1d11d9",
-      "baslik": "Son dakika: Akdeniz'de deprem!",
-      "ozet": "Son dakika: Akdeniz'de deprem!",
-      "url": "https://www.sozcu.com.tr/son-dakika-akdeniz-de-deprem-p375191",
-      "tarih": "2026-11-02T09:31:17+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "0aeafd901e72",
-      "baslik": "Ülkeler COP17’de Biyoçeşitlilik Eylemlerini Hızlandırmak için Anlaşmaya Vardı",
-      "ozet": "Yoğun müzakerelerin ardından hükümetler, “Erivan Yolu” adı verilen bir kararı kabul ederek; zararlı sübvansiyonların azaltılması, gelişmekte olan ülkelere yönelik finansmanın artırılması ve ulusal harcamaların biyoçeşitlilik hedefleriyle uyumlu hale getirilmesi gibi alanlarda dah",
-      "url": "https://www.iklimhaber.org/ulkeler-cop17de-biyocesitlilik-eylemlerini-hizlandirmak-icin-anlasmaya-vardi/",
-      "tarih": "2026-11-02T08:19:23+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
