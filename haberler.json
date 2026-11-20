@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-19T19:48:37.497615+00:00",
+    "guncelleme": "2026-11-20T10:47:04.953465+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6701,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "0908865acdc2",
+      "baslik": "Borsa günün ilk yarısında değer kaybetti -20 Kasım 2026",
+      "ozet": "Borsa günün ilk yarısında değer kaybetti -20 Kasım 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-deger-kaybetti-20-kasim-2026-p383035",
+      "tarih": "2026-11-20T10:25:26+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5b8944eedc51",
+      "baslik": "UEFA resmen açıkladı: Galatasaray maçında yok",
+      "ozet": "UEFA resmen açıkladı: Galatasaray maçında yok",
+      "url": "https://www.sozcu.com.tr/uefa-resmen-acikladi-galatasaray-macinda-yok-p383023",
+      "tarih": "2026-11-20T09:12:02+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "08eb63f49cbe",
+      "baslik": "Ne baraj ne rezervuar var: Kurduğu sistemle bedava elektrik üretiyor",
+      "ozet": "Ne baraj ne rezervuar var: Kurduğu sistemle bedava elektrik üretiyor",
+      "url": "https://www.sozcu.com.tr/ne-baraj-ne-rezervuar-var-kurdugu-sistemle-bedava-elektrik-uretiyor-p382996",
+      "tarih": "2026-11-20T08:03:20+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "008df4c26a5c",
+      "baslik": "COP31 Fosil Yakıtlara Son Vermek için Somut Adım Atmalı",
+      "ozet": "İklim ve yerel yönetim alanlarında çalışan STK’lar COP31 eş başkanlarına seslenirken, zirvenin fosil yakıtlardan uzaklaşmayı hızlandıran nihai sonuca ulaşması gerektiğini vurguladı. Greenpeace, COP31’deki delegeleri, BM konferansının fosil yakıtlardan uzaklaşmayı  hızlandıran ve ",
+      "url": "https://www.iklimhaber.org/cop31-fosil-yakitlara-son-vermek-icin-somut-adim-atmali/",
+      "tarih": "2026-11-20T07:58:58+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "868e13507900",
+      "baslik": "IEA: Dünya Tarihin En Büyük Enerji Arz Şoku ile Karşı Karşıya",
+      "ozet": "IEA’nın yeni raporuna göre, dünyanın dört bir yanındaki ülkeler “tarihin en büyük enerji arz şoku” ve bir dizi başka riskle karşı karşıya kalırken, piyasalarda olası senaryoların çeşitliliği artıyor. Hükümetlerin, bu gelişmelere karşı alacağı kararların, küresel enerji görünümünü",
+      "url": "https://www.iklimhaber.org/iea-dunya-tarihin-en-buyuk-enerji-arz-soku-ile-karsi-karsiya/",
+      "tarih": "2026-11-20T07:12:30+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2f1b4182b152",
+      "baslik": "Genel Karar: Bürokratik Kısır Döngünün Şaheseri",
+      "ozet": "1972 yılından beri sivil toplum grupları tarafından UNFCCC’den gelişmeleri ve sivil toplumun sesini aktarmak için Climate Action Network tarafından yayımlanan ECO’nun yeni bülteni yayında. Çalışma Programı İçinde Çalışma Programı: Bürokraside Yeni bir Çığır! “Dağlık bölgelerin, e",
+      "url": "https://www.iklimhaber.org/genel-karar-burokratik-kisir-dongunun-saheseri/",
+      "tarih": "2026-11-20T06:32:13+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "f4a0852361f4",
       "baslik": "Uzmanlar Uyardı: Çerçeve Karar Metni Bu Haliyle Kalırsa COP31 Başarısız Olur",
@@ -69,6 +129,16 @@
       "tarih": "2026-11-19T12:00:29+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "cd7182f7f29f",
+      "baslik": "Bakım nedeniyle kapatılan yolun sol şeridinden ilerleyip kural ihlali yapan sürücüler tepki çekti İhlas Haber Ajansı - İhlas Haber Ajansı",
+      "ozet": "Bakım nedeniyle kapatılan yolun sol şeridinden ilerleyip kural ihlali yapan sürücüler tepki çekti İhlas Haber Ajansı İhlas Haber Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNzQ1cGlKLXh5VV9hdEU5eXhsQnhra0RDdm9rX3dKR2hyN25Kc2lCanZub3A0WXlWWm9uUC1sSThDTWY4bTNZdWVpYUQySjkzcHBWYlF0dHBJTGNFa2NjN19nMHVBWV9UX1lERUNqdTQ1aFpPS295Q250a3hsQlZVYXYzT0dUa0MxdU1scmdFWU45TUVZSDNjdXhvQWtzWGNOLUN5N1VzU241VnF4TzBaVHhldkJhYTYwVUgyeEcxdlZyeGE2WWlfMXNDRjBxbDBUcDBEaUxqendYY2tFM2V0RmZxQkc?oc=5",
+      "tarih": "2026-11-19T11:37:41+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1742,6 +1812,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "ec2b195185b9",
+      "baslik": "HES yapılabilecek, RES için de şartlar kolaylaştırıldı: Koruma alanına santral! - Cumhuriyet",
+      "ozet": "HES yapılabilecek, RES için de şartlar kolaylaştırıldı: Koruma alanına santral! Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeE1LOEIxd3JlMXVBWXg2ZGdPc1pSWHNXSVdKQjlvMllQZ05HdXdJdGtwXzg0SFVyVkR4b3kwV0x2Q0VlYlFGTnAzNUpzelBldVd6c1FPdVl5eV82Qlh2czFQNklZNkt5OFQ4VEN6dXR6SkJ3bXM1eDJLVC16SXhpdkUyb3ltUk1Odmx2QXdxSzRMeFdWSThQQV9ic29fUmJuUDBxbENkTnZ4czg4Q1JIOWM5MTNLLUpXaHJOM1Nqcw?oc=5",
+      "tarih": "2026-11-04T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "HES / RES / Baraj",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "ec675cec29de",
       "baslik": "İklim Ağı: “İklim Zirvesinin Başkanı Türkiye’nin İklim Politikaları Sınıfta Kalıyor”",
       "ozet": "İklim Ağı, COP31 öncesinde Türkiye’nin iklim karnesini açıkladı. Açıklamada, İklim Ağı’nın karar alma ve COP31 yan etkinliklerine katılımının sağlanmaması; maden ve fosil yakıt şirketlerinin COP31’e ortak olması; emisyonları azaltmak yerine artırmayı öngören 2035 iklim hedefinin ",
@@ -1929,86 +2009,6 @@
       "tarih": "2026-11-02T08:19:23+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e7265791bfa3",
-      "baslik": "Kadınlar ve Toplumsal Cinsiyet Grubu’ndan COP31’e Feminist Talepler: Kaynak, Eşitlik ve Güvenli Katılım",
-      "ozet": "BM iklim müzakerelerinde kadın ve toplumsal cinsiyet örgütlerini bir araya getiren Women and Gender Constituency – Kadınlar ve Toplumsal Cinsiyet Grubu (WGC), Antalya’da gerçekleştirilecek COP31 için taleplerini 27 Ekim’de açıkladı. Grup, Belém Toplumsal Cinsiyet Eylem Planı’nın ",
-      "url": "https://www.iklimhaber.org/kadinlar-ve-toplumsal-cinsiyet-grubundan-cop31e-feminist-talepler-kaynak-esitlik-ve-guvenli-katilim/",
-      "tarih": "2026-11-02T07:10:26+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "5e5637ae43dd",
-      "baslik": "İklim İnkârcılığı Sözlüğü 18: İklim Krizi Siyasete Kurban mı Ediliyor?",
-      "ozet": "Siyasetçilerin oy uğruna iklim krizi gerçeğini yok sayması ya da perdelemesi sadece bilimsel gerçeklerden uzaklaşılmasına neden olmuyor. Komplo teorisyenlerinin eline de yalanlarını yaymak için kullanışlı hikâyeler veriyor. İklim krizi gerçeğinin ve iklim kriziyle mücadelenin en ",
-      "url": "https://www.iklimhaber.org/iklim-inkarciligi-sozlugu-18-iklim-krizi-siyasete-kurban-mi-ediliyor/",
-      "tarih": "2026-11-02T07:01:07+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4ae31a126370",
-      "baslik": "Dünya 1.5 Derece Eşiğini Aştığında Kriyosfer Kalıcı Hasarla Karşı Karşıya Kalabilir",
-      "ozet": "BM destekli bir rapor, Paris Anlaşması’nın 1,5 derece hedefinin geçici olarak aşılmasının, buzullar ve kutup buz tabakalarında geri dönülemez zararlara yol açabileceğini ortaya koydu. Birleşmiş Milletler raporu, dünyanın buzlu bölgelerinin tehlikeli bir erimeyle karşı karşıya kal",
-      "url": "https://www.iklimhaber.org/dunya-1-5-derece-esigini-astiginda-kriyosfer-kalici-hasarla-karsi-karsiya-kalabilir/",
-      "tarih": "2026-11-02T06:30:39+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c322a33f548f",
-      "baslik": "Milyon dolarlık dev gemileri kıyıya çekip çürümeye bıraktılar",
-      "ozet": "Milyon dolarlık dev gemileri kıyıya çekip çürümeye bıraktılar",
-      "url": "https://www.sozcu.com.tr/milyon-dolarlik-dev-gemileri-kiyiya-cekip-curumeye-biraktilar-p374966",
-      "tarih": "2026-11-01T19:14:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "867964a58fd2",
-      "baslik": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
-      "ozet": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
-      "url": "https://www.sozcu.com.tr/borsa-istanbul-genel-mudurluk-gorevi-vekaleten-atila-tureli-getirildi-p374924",
-      "tarih": "2026-11-01T15:23:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e9d564cc7105",
-      "baslik": "İrem Derici nişanlısına rest çekti: 'Ya imzayı at ya beni unut'",
-      "ozet": "İrem Derici nişanlısına rest çekti: 'Ya imzayı at ya beni unut'",
-      "url": "https://www.sozcu.com.tr/irem-derici-nisanlisina-rest-cekti-ya-imzayi-at-ya-beni-unut-p374820",
-      "tarih": "2026-11-01T08:01:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "46681a495772",
-      "baslik": "Galatasaray, Denizli deplasmanında kazandı",
-      "ozet": "Galatasaray, Denizli deplasmanında kazandı",
-      "url": "https://www.sozcu.com.tr/galatasaray-denizli-deplasmaninda-kazandi-p374691",
-      "tarih": "2026-10-31T19:59:25+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2b0a6d6c6a84",
-      "baslik": "Kabus devam ediyor! Manchester United galibiyeti unuttu",
-      "ozet": "Kabus devam ediyor! Manchester United galibiyeti unuttu",
-      "url": "https://www.sozcu.com.tr/kabus-devam-ediyor-manchester-united-galibiyeti-unuttu-p374650",
-      "tarih": "2026-10-31T14:51:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
