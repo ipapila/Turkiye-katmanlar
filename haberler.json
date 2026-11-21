@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-21T10:30:17.563329+00:00",
+    "guncelleme": "2026-11-21T18:31:26.751939+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6702,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "3fb5bbf7be20",
+      "baslik": "Şişli'de 5 katlı binanın çatısında yangın",
+      "ozet": "Şişli'de 5 katlı binanın çatısında yangın",
+      "url": "https://www.sozcu.com.tr/sisli-de-5-katli-binanin-catisinda-yangin-p383292",
+      "tarih": "2026-11-21T16:36:27+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f6912eaee25f",
+      "baslik": "Yüksel Yıldırım’dan Galatasaray maçı sonrası olay açıklama! 'Bizi doğradılar'",
+      "ozet": "Yüksel Yıldırım’dan Galatasaray maçı sonrası olay açıklama! 'Bizi doğradılar'",
+      "url": "https://www.sozcu.com.tr/yuksel-yildirim-dan-galatasaray-maci-sonrasi-olay-aciklama-bizi-dogradilar-p383295",
+      "tarih": "2026-11-21T16:14:12+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "434927259e2a",
+      "baslik": "COP31’de Kriz Büyüyor",
+      "ozet": "COP31 iklim müzakerelerinde uzatmalar devam ederken, sivil toplum temsilcileri ve uzmanlar süreçteki tıkanıklığa, şeffaflık eksikliğine ve iklim finansmanı konusundaki belirsizliğe sert tepki gösterdi.  YAZI: Bulut BAGATIR Climate Action Network (CAN) Europe Direktörü Chiara Mart",
+      "url": "https://www.iklimhaber.org/cop31de-kriz-buyuyor/",
+      "tarih": "2026-11-21T15:44:30+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f4dcb5d1de82",
+      "baslik": "Eczacıbaşı, Kuzeyboru'ya set vermedi",
+      "ozet": "Eczacıbaşı, Kuzeyboru'ya set vermedi",
+      "url": "https://www.sozcu.com.tr/eczacibasi-kuzeyboruya-set-vermedi-p383281",
+      "tarih": "2026-11-21T14:21:39+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "4c71dd796ffa",
+      "baslik": "Tuvalu Çevre Bakanı Talia: “COP’lar Büyük Ülkelerin Ekonomilerini Kurtarma Yeri Değil”",
+      "ozet": "Tuvalu Çevre Bakanı Talia, bugün yayımlanması beklenen Çerçeve Karar taslak metninde fosil yakıtlardan çıkış ve karbon yakalama teknolojilerinin kırmızı çizgileri olduğunu söylerken, “Metni görene kadar direneceğim. İyimser olmaya çalışıyorum. Ancak vakit daralıyor” dedi. YAZI: B",
+      "url": "https://www.iklimhaber.org/tuvalu-cevre-bakani-talia-coplar-buyuk-ulkelerin-ekonomilerini-kurtarma-yeri-degil/",
+      "tarih": "2026-11-21T12:29:18+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c52adca41eac",
       "baslik": "Fon soruşturmasında yeni gelişme: \"Gildencrest Capital\" için MASAK raporu hazırlandı",
@@ -1912,6 +1962,16 @@
       "kaynak_turu": "rss"
     },
     {
+      "id": "2caf69bc5704",
+      "baslik": "Arnavutköy’de Nevada'ya 10 gün kapatma cezası: Gerekçesi tütün yasağı ihlali - Cumhuriyet",
+      "ozet": "Arnavutköy’de Nevada'ya 10 gün kapatma cezası: Gerekçesi tütün yasağı ihlali Cumhuriyet",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNy13ekphN2NablRBTVgxM3RTdGxoWWcwQURCQUl4QVMxanl6a3VXdmZIMHBWaER3V3luUzU0b3JwX3o2RXF4bGJ1dWFBblRiMWVMQXVsLVp6Y2QyenpzU0N0a1l5bHFwSF85QWwwdlBpRkV1bWw5MDBGWnpqaUpTTHVfeFVyWC1fT1pEdWE5azcwUzFhWUlndWRyZFpXY3oyeFhQckZFYVEyX3pZRjI4TWpvXzFqbUlsWGlXQU1B?oc=5",
+      "tarih": "2026-11-04T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
       "id": "ec2b195185b9",
       "baslik": "HES yapılabilecek, RES için de şartlar kolaylaştırıldı: Koruma alanına santral! - Cumhuriyet",
       "ozet": "HES yapılabilecek, RES için de şartlar kolaylaştırıldı: Koruma alanına santral! Cumhuriyet",
@@ -1947,66 +2007,6 @@
       "ozet": "Galatasaray-Stuttgart maçında Deniz Undav'a sert tepki!",
       "url": "https://www.sozcu.com.tr/galatasaray-stuttgart-macinda-deniz-undav-a-sert-tepki-p375738",
       "tarih": "2026-11-03T18:42:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "a21b209ac170",
-      "baslik": "Selahattin Demirtaş'tan uzun süre sonra süreç açıklaması geldi",
-      "ozet": "Selahattin Demirtaş'tan uzun süre sonra süreç açıklaması geldi",
-      "url": "https://www.sozcu.com.tr/selahattin-demirtastan-uzun-sure-sonra-surec-aciklamasi-p375737",
-      "tarih": "2026-11-03T18:36:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4426e8c8b780",
-      "baslik": "35’e 35 Elektrifikasyon Hedefi Sembolden Somut Adımlara Dönüşmeli",
-      "ozet": "Türkiye COP Başkanlığının 35’e 35 elektrifikasyon hedefi, küresel enerji tüketiminde elektriğin payını 2035’e kadar %35’e çıkarmayı amaçlıyor. Yeni bir rapor ise bu hedefe ulaşmak için elektrifikasyonun bugünkünün yaklaşık dört katı hızla artırılması gerektiğine dikkat çekiyor. Y",
-      "url": "https://www.iklimhaber.org/35e-35-elektrifikasyon-hedefi-sembolden-somut-adimlara-donusmeli/",
-      "tarih": "2026-11-03T10:55:57+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "1cd8ecb05574",
-      "baslik": "IUCN: Dünya çapında 16 kıyı kuşu türünün var kalma olasılığı düşüyor",
-      "ozet": "",
-      "url": "https://yesilgazete.org/iucn-dunya-capinda-16-kiyi-kusu-turunun-var-kalma-olasiligi-dusuyor/",
-      "tarih": "2026-11-03T10:20:47.746115+00:00",
-      "kaynak": "Yeşil Gazete",
-      "kategori": "Çevre Medyası",
-      "kaynak_turu": "web"
-    },
-    {
-      "id": "f73fbb5e9631",
-      "baslik": "Greenpeace verilere ulaştı: Afşin-Elbistan A Termik Santrali kirlilik yayıyor",
-      "ozet": "",
-      "url": "https://yesilgazete.org/greenpeace-verilere-ulasti-afsin-elbistan-a-termik-santrali-kirlilik-yayiyor/",
-      "tarih": "2026-11-03T10:20:47.745840+00:00",
-      "kaynak": "Yeşil Gazete",
-      "kategori": "Çevre Medyası",
-      "kaynak_turu": "web"
-    },
-    {
-      "id": "608ad94e4288",
-      "baslik": "Karbon Fiyatlandırması Çelik Sektörünün Dönüşümünü Finanse Edebilir",
-      "ozet": "Yeni bir çalışmaya göre Türkiye’de doğru kurgulanmış karbon fiyatlandırması çelik sektörünün dönüşümü için 20 yıl boyunca gerekli olan yıllık 1,5 milyar euroyu karşılayabilir. Raporda yer alan hızlandırılmış dönüşüm senaryosuna göre çelik sektörünün emisyonları 2025 ile 2050 aras",
-      "url": "https://www.iklimhaber.org/karbon-fiyatlandirmasi-celik-sektorunun-donusumunu-finanse-edebilir/",
-      "tarih": "2026-11-03T10:12:41+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b7419e62b30d",
-      "baslik": "Borsa günün ilk yarısında pozitif bir seyir izledi -3 Kasım 2026",
-      "ozet": "Borsa günün ilk yarısında pozitif bir seyir izledi -3 Kasım 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-pozitif-bir-seyir-izledi-3-kasim-2026-p375587",
-      "tarih": "2026-11-03T10:11:53+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
