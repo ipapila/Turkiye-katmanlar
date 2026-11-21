@@ -121870,5 +121870,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzlBRDVUMHRtdktRU0hMSkZ4R2hIdFBpRDYwNE9XdVFWR1czaGVJd2F3RFBfV1A2T3VmX3h2M3U0UUVCVEdram1FR1dPalpobi0wWk85TE5CUjJPUk9MeFBVY1hrUlo5U2pkaWJ2SWtPTWxROGpqWmNRbHRtX2lfQWsxQkVQMFZpT2dLdHRYVFF2QUlLanRmZk9LQ1UxYmRQNWU1c2dSMWxoWHAtaTVoNzQxTUFTdnNKcEE?oc=5"
+  },
+  {
+    "id": "tarayici-5cd5e6fc6329",
+    "tip": "Ekolojik İhlal",
+    "ad": "İstanbul'daki baraj doluluk oranı kritik seviyeyi aştı",
+    "il": "İstanbul",
+    "ilce": "",
+    "aciklama": "İstanbul'daki baraj doluluk oranı kritik seviyeyi aştı",
+    "koordinatlar": {
+      "lat": 41.0776,
+      "lng": 29.02
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "21.11.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/istanbul-daki-baraj-doluluk-orani-kritik-seviyeyi-asti-p383198"
   }
 ]

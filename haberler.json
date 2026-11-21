@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-20T19:29:30.776569+00:00",
+    "guncelleme": "2026-11-21T10:30:17.563329+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6701,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6702,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,86 @@
     }
   },
   "haberler": [
+    {
+      "id": "c52adca41eac",
+      "baslik": "Fon soruşturmasında yeni gelişme: \"Gildencrest Capital\" için MASAK raporu hazırlandı",
+      "ozet": "Fon soruşturmasında yeni gelişme: \"Gildencrest Capital\" için MASAK raporu hazırlandı",
+      "url": "https://www.sozcu.com.tr/fon-sorusturmasinda-yeni-gelisme-gildencrest-capital-icin-masak-raporu-hazirlandi-p383232",
+      "tarih": "2026-11-21T10:24:40+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6a9d14beeb7f",
+      "baslik": "Ne doğal gaz ne kömür: Kışın topraktan blok blok kesip bedava ısınıyorlar",
+      "ozet": "Ne doğal gaz ne kömür: Kışın topraktan blok blok kesip bedava ısınıyorlar",
+      "url": "https://www.sozcu.com.tr/ne-dogal-gaz-ne-komur-kisin-topraktan-blok-blok-kesip-bedava-isiniyorlar-p383220",
+      "tarih": "2026-11-21T09:45:05+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "891c0b7b0d82",
+      "baslik": "Üstündağ’dan FIVB Kongresi’nde 'daha adil voleybol' mesajı",
+      "ozet": "Üstündağ’dan FIVB Kongresi’nde 'daha adil voleybol' mesajı",
+      "url": "https://www.sozcu.com.tr/ustundagdan-fivb-kongresinde-daha-adil-voleybol-mesaji-p383205",
+      "tarih": "2026-11-21T08:41:30+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "28674c9f8340",
+      "baslik": "Maymunlarla dolu ormana 2 kartal bıraktılar, 7 ay sonra bambaşka bir şey oldu",
+      "ozet": "Maymunlarla dolu ormana 2 kartal bıraktılar, 7 ay sonra bambaşka bir şey oldu",
+      "url": "https://www.sozcu.com.tr/maymunlarla-dolu-ormana-2-kartal-biraktilar-7-ay-sonra-bambaska-bir-sey-oldu-p383204",
+      "tarih": "2026-11-21T08:36:56+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "5cd5e6fc6329",
+      "baslik": "İstanbul'daki baraj doluluk oranı kritik seviyeyi aştı",
+      "ozet": "İstanbul'daki baraj doluluk oranı kritik seviyeyi aştı",
+      "url": "https://www.sozcu.com.tr/istanbul-daki-baraj-doluluk-orani-kritik-seviyeyi-asti-p383198",
+      "tarih": "2026-11-21T08:18:32+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "f665547957fb",
+      "baslik": "COP31 Uzadı",
+      "ozet": "Murat Kurum, kapanış Genel Kurul’unda yaptığı konuşmada “Bitiş çizgisine yakınız ancak oraya varmış değiliz” derken adil geçiş, finansman ve uyum gibi konularda henüz anlaşmanın sağlanamadığını söyledi. Yaklaşık 200 ülkeden müzakerecilerin fosil yakıtlar ve iklim finansmanı konus",
+      "url": "https://www.iklimhaber.org/cop31-uzadi/",
+      "tarih": "2026-11-21T06:38:39+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bc5963c98834",
+      "baslik": "COP31 Oturumunda Protesto: “Geleceği Öldürüyorsunuz”",
+      "ozet": "COP31 kapanış Genel Kurul’unu protesto eden iklim aktivisti Amelen Sathananthar, “Geleceği öldürüyorsunuz. Neden beni de şimdi öldürmüyorsunuz ki? İklim krizi bizi öldürüyor ve siz hiçbir şey yapmıyorsunuz” dedi. “Geleceği öldürüyorsunuz. Neden beni de şimdi öldürmüyorsunuz ki? İ",
+      "url": "https://www.iklimhaber.org/cop31-oturumunda-protesto-gelecegi-olduruyorsunuz/",
+      "tarih": "2026-11-21T06:17:17+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "298fb9d4751d",
+      "baslik": "Kentsel Gelişim Yasasının Uygulanması: Çevre ihlallerini düzeltmekte yavaş davranan işletmelere karşı sert önlemler alınması. - Vietnam.vn",
+      "ozet": "Kentsel Gelişim Yasasının Uygulanması: Çevre ihlallerini düzeltmekte yavaş davranan işletmelere karşı sert önlemler alınması. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejZTU3pscEVmTkEteUNfbEJ2TFh4QTNBUzl3bXlWNl9jcm1HYnF3X0JQUmowWXFjMndrbnM0WmgtOU5IVU5FQUFGektCc3hCdkhFVll2QmliSFlYNFZsaWtTa2IyYjVDaUMxOXRkMG9iSjNydmVxX2lCb3BpcV9xS2J3Z0ZNWjBuam5SWGxRaFFvWk1kemQ1UHpQRFlpMUlwa0M1am9mS2w3UUZaWkNz?oc=5",
+      "tarih": "2026-11-21T05:29:37+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "e359b20d19f9",
       "baslik": "Türkiye ve Avustralya Hedefte: “Muhtemelen Gelmiş Geçmiş En Kötü Başkanlık!”",
@@ -1927,86 +2007,6 @@
       "ozet": "Borsa günün ilk yarısında pozitif bir seyir izledi -3 Kasım 2026",
       "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-pozitif-bir-seyir-izledi-3-kasim-2026-p375587",
       "tarih": "2026-11-03T10:11:53+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "577f5590e220",
-      "baslik": "Erdoğan'ın kuzeni sordu: \"Sıradan bir intihar mı?\"",
-      "ozet": "Erdoğan'ın kuzeni sordu: \"Sıradan bir intihar mı?\"",
-      "url": "https://www.sozcu.com.tr/erdogan-in-kuzeni-sordu-siradan-bir-intihar-mi-p375578",
-      "tarih": "2026-11-03T09:53:28+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7c484e7c41db",
-      "baslik": "Güney Kore gösteri ekibi havada taklalar atarken Erdoğan bu şekilde izledi",
-      "ozet": "Güney Kore gösteri ekibi havada taklalar atarken Erdoğan bu şekilde izledi",
-      "url": "https://www.sozcu.com.tr/guney-kore-askerleri-havada-taklalar-atti-erdogan-bu-sekilde-izledi-p375564",
-      "tarih": "2026-11-03T09:43:24+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "fcd1ee58ccbb",
-      "baslik": "Selen Özyurt suda doğum yaptığı anları paylaştı",
-      "ozet": "Selen Özyurt suda doğum yaptığı anları paylaştı",
-      "url": "https://www.sozcu.com.tr/selen-ozyurt-suda-dogum-yaptigi-anlari-paylasti-p375566",
-      "tarih": "2026-11-03T09:17:35+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "3f9d65aecbc5",
-      "baslik": "Dolandırıcılar İstanbul'da ofis kurmuş: Sahte cinsel sağlık ürünleri satıp, almayanları kandırmışlar",
-      "ozet": "Dolandırıcılar İstanbul'da ofis kurmuş: Sahte cinsel sağlık ürünleri satıp, almayanları kandırmışlar",
-      "url": "https://www.sozcu.com.tr/dolandiricilar-istanbul-da-ofis-kurmus-sahte-cinsel-saglik-urunleri-satip-almayanlara-kabus-olmuslar-p375558",
-      "tarih": "2026-11-03T09:11:49+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c01a0ca89e03",
-      "baslik": "Memurların Ocak zam tablosu ortaya çıktı: Öğretmen, doktor, polis maaşları yeniden hesaplandı",
-      "ozet": "Memurların Ocak zam tablosu ortaya çıktı: Öğretmen, doktor, polis maaşları yeniden hesaplandı",
-      "url": "https://www.sozcu.com.tr/memurlarin-ocak-zam-tablosu-ortaya-cikti-ogretmen-doktor-polis-maaslari-yeniden-hesaplandi-p375557",
-      "tarih": "2026-11-03T08:58:54+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "b5cbddbb9e4e",
-      "baslik": "Harry Kane imzayı atıyor: Resmen açıkladı",
-      "ozet": "Harry Kane imzayı atıyor: Resmen açıkladı",
-      "url": "https://www.sozcu.com.tr/harry-kane-imzayi-atiyor-resmen-acikladi-p375553",
-      "tarih": "2026-11-03T08:52:47+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7f9704c68cdf",
-      "baslik": "COP31’e Doğru İklim Eğitimi",
-      "ozet": "İklim eğitiminin niteliği ile iklim krizinden etkilenenlerin eğitim hakkının korunması birlikte izlenmeli. Bir çocuğun iklim değişikliğini araştırabileceği öğrenme olanaklarına erişmesi de sıcak hava, sel veya kuraklık nedeniyle eğitimden uzak kalmaması da kamusal sorumluluk. Tür",
-      "url": "https://www.iklimhaber.org/cop31e-dogru-iklim-egitimi/",
-      "tarih": "2026-11-03T08:38:05+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d9c3017c0342",
-      "baslik": "İbrahim Hacıosmanoğlu 2016'daki o maçı gündeme getirdi! Eski hakem Deniz Ateş Bitnel suçlamaları reddetti",
-      "ozet": "İbrahim Hacıosmanoğlu 2016'daki o maçı gündeme getirdi! Eski hakem Deniz Ateş Bitnel suçlamaları reddetti",
-      "url": "https://www.sozcu.com.tr/ibrahim-haciosmanoglu-2016-daki-o-maci-gundeme-getirdi-eski-hakem-deniz-ates-bitnel-suclamalari-p375361",
-      "tarih": "2026-11-02T20:18:46+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95824,6 +95824,20 @@
       "ozet": "Trakya’da acele kamulaştırma tartışması panelde masaya yatırılacak! Tekirdağ Habertrak Gazetesi",
       "lat": 41.0958,
       "lng": 27.5756,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-5cd5e6fc6329",
+      "baslik": "İstanbul'daki baraj doluluk oranı kritik seviyeyi aştı",
+      "konum": "İstanbul",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "21.11.2026",
+      "url": "https://www.sozcu.com.tr/istanbul-daki-baraj-doluluk-orani-kritik-seviyeyi-asti-p383198",
+      "ozet": "İstanbul'daki baraj doluluk oranı kritik seviyeyi aştı",
+      "lat": 41.0776,
+      "lng": 29.02,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
