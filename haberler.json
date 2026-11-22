@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-22T10:35:05.407418+00:00",
+    "guncelleme": "2026-11-22T18:53:34.154449+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6702,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "b99272213cfc",
+      "baslik": "“Acele Kamulaştırma Kıskacında Trakya” - Medya Keşan",
+      "ozet": "“Acele Kamulaştırma Kıskacında Trakya” Medya Keşan",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jd1lYYWwwLUp5X0dSdUlIMUtoLTFLZDdseTk2cnNNRGR6NDVScEZKaWhfUlhfcUJuOXJWVElUYTkzekJfcHprNXNlczdUb2pGTVlGUm0zTHVSUXlzQzdPZlBLTUs1aC1BTklSRVB5akJmN19fUzluSWdacG0?oc=5",
+      "tarih": "2026-11-22T18:22:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1cd8ecb05574",
       "baslik": "IUCN: Dünya çapında 16 kıyı kuşu türünün var kalma olasılığı düşüyor",
@@ -1999,16 +2009,6 @@
       "tarih": "2026-11-04T17:25:05+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bdbf434c33bf",
-      "baslik": "Fosil Yakıtlardan Çıkış için İlk Küresel Yol Haritası Yayımlandı",
-      "ozet": "COP30’a ev sahipliği yapan Brezilya, fosil yakıtlardan çıkış ve ormansızlaşmanın durdurulması için dünyanın ilk küresel yol haritalarını yayımladı. Söz konusu belgeler, iklim hedeflerinde artık müzakereden uygulamaya geçişi amaçlıyor. Ancak yol haritalarının bağlayıcı hedefler, t",
-      "url": "https://www.iklimhaber.org/fosil-yakitlardan-cikis-icin-ilk-kuresel-yol-haritasi/",
-      "tarih": "2026-11-04T09:31:20+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
