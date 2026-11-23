@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-22T18:53:34.154449+00:00",
+    "guncelleme": "2026-11-23T11:35:12.905928+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6702,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6704,
+    "haritaya_eklenen_yeni_kayit": 2,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "ff796fdf1eed",
+      "baslik": "İzmir'de baba-oğulun sır ölümü! Ormanda cansız bedenleri bulundu",
+      "ozet": "İzmir'de baba-oğulun sır ölümü! Ormanda cansız bedenleri bulundu",
+      "url": "https://www.sozcu.com.tr/izmir-de-baba-ogulun-sir-olumu-ormanda-cansiz-bedenleri-bulundu-p383714",
+      "tarih": "2026-11-23T10:12:43+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "ee5115f5c60a",
+      "baslik": "Türkiye’de Meraların Yaklaşık Yüzde 70’i Bozulmuş Durumda!",
+      "ozet": "Erozyonla kaybedilen toprağın yarısından fazlasının meralardan taşındığına dikkat çeken TEMA Vakfı, 23-29 Kasım Erozyonla Mücadele Haftası’nda “Meralar Bozulmasın, Toprak Yok Olmasın” çağrısı yaptı. Vakfın Yönetim Kurulu Başkanı Deniz Ataç ise “1960’ta yaklaşık 29 milyon hektar o",
+      "url": "https://www.iklimhaber.org/turkiyede-meralarin-yaklasik-yuzde-70i-bozulmus-durumda/",
+      "tarih": "2026-11-23T09:28:09+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "27f3f1e537aa",
+      "baslik": "COP31’de Fırsat Kaçtı: “Fosil Yakıtlara Bağımlılık Sürüyor”",
+      "ozet": "Fosil yakıtlardan çıkış ve iklim finansmanı konularındaki görüş ayrılıkları nedeniyle planlanan kapanış saatini 48 saat aşarak Birleşmiş Milletler tarihinin en uzun iklim zirvesi olarak kayıtlara geçen COP31’den talihsiz bir sonuç çıktı ve zirve, fosil yakıtlardan çıkış konusunda",
+      "url": "https://www.iklimhaber.org/cop31de-firsat-kacti-fosil-yakitlara-bagimlilik-suruyor/",
+      "tarih": "2026-11-23T09:23:49+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "2f1b1282e99a",
+      "baslik": "Yollardaki radarlarla ilgili gerçek ortaya çıktı: Sürücülerin hız hesabı değişecek",
+      "ozet": "Yollardaki radarlarla ilgili gerçek ortaya çıktı: Sürücülerin hız hesabı değişecek",
+      "url": "https://www.sozcu.com.tr/yollardaki-radarlarla-ilgili-gercek-ortaya-cikti-suruculerin-hiz-hesabi-degisecek-p383700",
+      "tarih": "2026-11-23T09:12:52+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b99272213cfc",
       "baslik": "“Acele Kamulaştırma Kıskacında Trakya” - Medya Keşan",
@@ -1969,46 +2009,6 @@
       "tarih": "2026-11-05T08:00:00+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d517b5bd729d",
-      "baslik": "İğneada Longoz Ormanları Kuraklık Tehdidi Altında!",
-      "ozet": "Yeni bir çalışma, Türkiye’nin nadir subasar ormanlarından İğneada Longoz Ormanlarının insan baskısı ve iklim değişikliği nedeniyle tehdit altında olduğunu ortaya koyuyor. 1984’ten 2014’e Erikli longozunun %16 daraldığını, Sakagöl longozundaki sulak alanların ise yok olduğunu veya",
-      "url": "https://www.iklimhaber.org/igneada-longoz-ormanlari-kuraklik-tehdidi-altinda/",
-      "tarih": "2026-11-05T07:55:18+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "05dfe2c5e162",
-      "baslik": "30 Yıl, 30 COP: Vaatlerle Birlikte Atmosferdeki Karbon da Arttı",
-      "ozet": "TEMA Vakfı, ilk COP’un gerçekleştirildiği 1995 yılından bugüne kadar küresel ısınmaya yol açan atmosferdeki karbondioksit yoğunluğunun azalmadığına ve verilen destek sözlerinin yerine getirilmediğine dikkat çekti. COP31 öncesinde “30 yılda ne vaat edildi ne gerçekleşti?” sorusunu",
-      "url": "https://www.iklimhaber.org/30-yil-30-cop-vaatlerle-birlikte-atmosferdeki-karbon-da-artti/",
-      "tarih": "2026-11-05T07:25:16+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8dc8685fd5fd",
-      "baslik": "Arnavutköy’de ünlü kafeye tütün yasağı ihlali: Nevada Coffee’ye 10 gün kapatma cezası - dikGAZETE.com",
-      "ozet": "Arnavutköy’de ünlü kafeye tütün yasağı ihlali: Nevada Coffee’ye 10 gün kapatma cezası dikGAZETE.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmVfMmJmUFctbld4NGpwSTVEemprSW5vWmZoQVE5TlRXWTVPNWZTQXZiZ183LWFxNm5aZlNfclJUZTAzLUpMcG5XRUZNZXBaY0ZMbzRmSGxmem5pQUxFMFh5Q1RhS1BQZXc2Y2lDZ2oxNEhkaG1PZHNVYi1oWjJrMDdJZjUtRUZGTHBDZVFVeWhxM0w3R2pRd3FLZzdmelBMZWpLNTI5Z0FDQ2Z0QV9FQnNNdXhFNzB1SzdzdkxlZDRjTzgtUUdMbQ?oc=5",
-      "tarih": "2026-11-04T20:28:39+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "95dad0dc367d",
-      "baslik": "Dünyanın en yüksek barajına dev aynalar yerleştirdiler: Amaçları elektrik üretmek değil",
-      "ozet": "Dünyanın en yüksek barajına dev aynalar yerleştirdiler: Amaçları elektrik üretmek değil",
-      "url": "https://www.sozcu.com.tr/dunyanin-en-yuksek-barajina-dev-aynalar-yerlestirdiler-amaclari-elektrik-uretmek-degil-p376064",
-      "tarih": "2026-11-04T17:25:05+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95838,6 +95838,34 @@
       "ozet": "İstanbul'daki baraj doluluk oranı kritik seviyeyi aştı",
       "lat": 41.0776,
       "lng": 29.02,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-fd6a93e29e89",
+      "baslik": "Elazığ'ın Maden ilçesinde orman yangını - BirGün Gazetesi",
+      "konum": "Elazığ",
+      "kategori": "İklim Olayları",
+      "siddet": "Takip Ediliyor",
+      "tarih": "23.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUt6dUJ4T2lqMTJBeHBDOFpNV0JDeW5aTHN2eDYyZmNxOTN1OGdzTjNpYWNuakFpQllRMWNyeTN3TUt6REl0MGZSbkJZWnNqRlVhY3dhNmxQbEVkWVFoZWhtVFlBWkZ3LWwtXzI2NUJYQXlha2pIUDc1WUg5NmlWNw?oc=5",
+      "ozet": "Elazığ'ın Maden ilçesinde orman yangını BirGün Gazetesi",
+      "lat": 38.7853,
+      "lng": 39.1422,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-ff796fdf1eed",
+      "baslik": "İzmir'de baba-oğulun sır ölümü! Ormanda cansız bedenleri bulundu",
+      "konum": "İzmir",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "23.11.2026",
+      "url": "https://www.sozcu.com.tr/izmir-de-baba-ogulun-sir-olumu-ormanda-cansiz-bedenleri-bulundu-p383714",
+      "ozet": "İzmir'de baba-oğulun sır ölümü! Ormanda cansız bedenleri bulundu",
+      "lat": 38.482,
+      "lng": 27.1575,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

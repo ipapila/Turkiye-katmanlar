@@ -121889,5 +121889,43 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/istanbul-daki-baraj-doluluk-orani-kritik-seviyeyi-asti-p383198"
+  },
+  {
+    "id": "tarayici-fd6a93e29e89",
+    "tip": "İklim Olayları",
+    "ad": "Elazığ'ın Maden ilçesinde orman yangını - BirGün Gazetesi",
+    "il": "Elazığ",
+    "ilce": "",
+    "aciklama": "Elazığ'ın Maden ilçesinde orman yangını BirGün Gazetesi",
+    "koordinatlar": {
+      "lat": 38.7853,
+      "lng": 39.1422
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "23.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUt6dUJ4T2lqMTJBeHBDOFpNV0JDeW5aTHN2eDYyZmNxOTN1OGdzTjNpYWNuakFpQllRMWNyeTN3TUt6REl0MGZSbkJZWnNqRlVhY3dhNmxQbEVkWVFoZWhtVFlBWkZ3LWwtXzI2NUJYQXlha2pIUDc1WUg5NmlWNw?oc=5"
+  },
+  {
+    "id": "tarayici-ff796fdf1eed",
+    "tip": "Ekolojik İhlal",
+    "ad": "İzmir'de baba-oğulun sır ölümü! Ormanda cansız bedenleri bulundu",
+    "il": "İzmir",
+    "ilce": "",
+    "aciklama": "İzmir'de baba-oğulun sır ölümü! Ormanda cansız bedenleri bulundu",
+    "koordinatlar": {
+      "lat": 38.482,
+      "lng": 27.1575
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "23.11.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/izmir-de-baba-ogulun-sir-olumu-ormanda-cansiz-bedenleri-bulundu-p383714"
   }
 ]
