@@ -121927,5 +121927,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/izmir-de-baba-ogulun-sir-olumu-ormanda-cansiz-bedenleri-bulundu-p383714"
+  },
+  {
+    "id": "tarayici-f7cc00fb3219",
+    "tip": "Ekolojik İhlal",
+    "ad": "Bursa-Kirazlıyayla’da ÇED freni: Doğa için mi, maden için mi? - Medyascope",
+    "il": "Bursa",
+    "ilce": "",
+    "aciklama": "Bursa-Kirazlıyayla’da ÇED freni: Doğa için mi, maden için mi? Medyascope",
+    "koordinatlar": {
+      "lat": 40.1918,
+      "lng": 29.0715
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "23.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3huOFBwdEVDZXZsbUV2SHAyMG9EOVI4NEwyZUMwTkhQdTVTN3FBbHAyZ1JmV0YwRzkwanc2WGpJWVVOdDNVRndxWkRwMXJHWjRrZk1hcFRfZGlPMG9NX3l0aTNFMEQyQ1NDMlBmdHBsZWo5eUtBSDRjbkdoQVNHbzJ4dlR6dWxIZVF6bmx3?oc=5"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-23T11:35:12.905928+00:00",
+    "guncelleme": "2026-11-23T23:09:33.588124+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6704,
-    "haritaya_eklenen_yeni_kayit": 2,
+    "harita_kayit_sayisi": 6705,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "17cc996e12a8",
+      "baslik": "New York borsasında yapay zeka rallisi: Nasdaq yüzde 6,51 yükseldi",
+      "ozet": "New York borsasında yapay zeka rallisi: Nasdaq yüzde 6,51 yükseldi",
+      "url": "https://www.sozcu.com.tr/new-york-borsasinda-yapay-zeka-rallisi-nasdaq-yuzde-6-51-yukseldi-p383854",
+      "tarih": "2026-11-23T22:27:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "ff796fdf1eed",
       "baslik": "İzmir'de baba-oğulun sır ölümü! Ormanda cansız bedenleri bulundu",
@@ -49,6 +59,16 @@
       "tarih": "2026-11-23T09:12:52+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "29fd2aabc6d7",
+      "baslik": "Zafer Partili Aslan: \"COP31 bitti, şimdi Türkiye'nin korunamayan doğal varlıklarını konuşma zamanı\" - Anka Haber",
+      "ozet": "Zafer Partili Aslan: \"COP31 bitti, şimdi Türkiye'nin korunamayan doğal varlıklarını konuşma zamanı\" Anka Haber",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSkRSYzFxc3JrcVBPRnBJNG1YQzBxcnVnNGlPMjhNSkMzRGM4eTdfZWU3T0RGNU5vWGZFZHFMcmN6LTJEeS16eEF4TGdET05udVZmeUxhREtrZDJqY0cyMkRuRGJpT0ZIOHhOMXhmTGlEY3A4REhST0h5VHZ6R3M2QVBfU3hkdzVIclo2ZWZKR3Q0QUY0RkJuVWdrUTdaNU1SNUhWMEQtUENEVGFfTHZ0d1BONWRqdXNKRllZYldjLVNXYUdrMTA3bEl4NnI?oc=5",
+      "tarih": "2026-11-23T07:48:24+00:00",
+      "kaynak": "Google News",
+      "kategori": "ÇED Kararları",
       "kaynak_turu": "rss"
     },
     {
@@ -1989,26 +2009,6 @@
       "tarih": "2026-11-05T09:19:31+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e149cac3093f",
-      "baslik": "Harry Kane imzayı attı: Resmi açıklama yapıldı",
-      "ozet": "Harry Kane imzayı attı: Resmi açıklama yapıldı",
-      "url": "https://www.sozcu.com.tr/harry-kane-imzayi-atti-resmi-aciklama-yapildi-p376261",
-      "tarih": "2026-11-05T08:19:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "26325c5b3515",
-      "baslik": "Af Örgütü'nden COP31 öncesi Türkiye'de insan hakları ihlalleri uyarısı: Görmezden gelmeyin - DW.com",
-      "ozet": "Af Örgütü'nden COP31 öncesi Türkiye'de insan hakları ihlalleri uyarısı: Görmezden gelmeyin DW.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUEd4TVhpTFlaSW1wTmpnSXZxc3FJME5QYmtraEduQXBVRUJxRklieTFldTBhTkdLTGd2eTlnMV85RnlLakgxVEVuVVp6TGdqX0hzcThYOHc0ZjFFMGx0TjI5SkhhdWk4T2pfdWNydF9EY25MUW9aS09oMXhHcTlycEJUUkt6R002bUVQY1Fhb0NOSjVLUndtNFMzeklTQkcwNUNMR05ZZFJmMS1US1l4SDA1dGJQMlVEaFdmN3U5ZDBUZldHdGEyd09SSUxJVElrbVBIWm1xaTYwQlVBOW53U1gxSGp2SnItaXF0N3M1c1REcGl0a1AxU9IB-AFBVV95cUxQX1R0Mk83a0dEUlotSE0tZ3VfanFBd1JfaEhKSUV0RzI5eEI5VFdVTXJpNk5CbXU5MldSWEM3NmN0R2ZtU2Y5bTNpckFsNm9VRXB4anZ5LVRzSDZBNm5IRlVaX3dPbFpaZkJxZzkyM1dWX1VGeXNRTUJMNU5qLWg3bzV2TjlJa19xVDRqY1psekhGcEppaUpwVHBRY3lsWUtPSl9TaUlVckdZRG04cDRsZnF5eFdvcG1qajdsZ0NqZjVLV0phVkEtVHpkZGJyNzliUFVBZVhyMFZGUW8wZjc4VEFTT0hFLWwzaE5LWEhaeEs3WlFWNW01Ng?oc=5",
-      "tarih": "2026-11-05T08:00:00+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
@@ -95866,6 +95866,20 @@
       "ozet": "İzmir'de baba-oğulun sır ölümü! Ormanda cansız bedenleri bulundu",
       "lat": 38.482,
       "lng": 27.1575,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f7cc00fb3219",
+      "baslik": "Bursa-Kirazlıyayla’da ÇED freni: Doğa için mi, maden için mi? - Medyascope",
+      "konum": "Bursa",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "23.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3huOFBwdEVDZXZsbUV2SHAyMG9EOVI4NEwyZUMwTkhQdTVTN3FBbHAyZ1JmV0YwRzkwanc2WGpJWVVOdDNVRndxWkRwMXJHWjRrZk1hcFRfZGlPMG9NX3l0aTNFMEQyQ1NDMlBmdHBsZWo5eUtBSDRjbkdoQVNHbzJ4dlR6dWxIZVF6bmx3?oc=5",
+      "ozet": "Bursa-Kirazlıyayla’da ÇED freni: Doğa için mi, maden için mi? Medyascope",
+      "lat": 40.1918,
+      "lng": 29.0715,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
