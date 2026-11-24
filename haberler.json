@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-11-23T23:09:33.588124+00:00",
+    "guncelleme": "2026-11-24T13:08:45.453151+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6705,
+    "harita_kayit_sayisi": 6706,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,66 @@
     }
   },
   "haberler": [
+    {
+      "id": "c7044d24038f",
+      "baslik": "Borsa günün ilk yarısında negatif seyretti -24 Kasım 2026",
+      "ozet": "Borsa günün ilk yarısında negatif seyretti -24 Kasım 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-negatif-seyretti-24-kasim-2026-p384012",
+      "tarih": "2026-11-24T12:47:01+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "469dfb3315a9",
+      "baslik": "İran'da dolar 284 bin tümene yükselerek tarihi rekor kırdı",
+      "ozet": "İran'da dolar 284 bin tümene yükselerek tarihi rekor kırdı",
+      "url": "https://www.sozcu.com.tr/iran-da-dolar-284-bin-tumene-yukselerek-tarihi-rekor-kirdi-p384056",
+      "tarih": "2026-11-24T12:46:44+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7d5e69613554",
+      "baslik": "Dizi sektöründe indirim krizi: İlker Aksum'dan ücret indirimi teklifine rest",
+      "ozet": "Dizi sektöründe indirim krizi: İlker Aksum'dan ücret indirimi teklifine rest",
+      "url": "https://www.sozcu.com.tr/dizi-sektorunde-indirim-krizi-ilker-aksum-dan-ucret-indirimi-teklifine-rest-p384037",
+      "tarih": "2026-11-24T11:47:59+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "92b5a1569492",
+      "baslik": "İklim Krizinde Savunuculuk ve Hakları Tüm Kuşaklar Olarak Birlikte Düşünmek Mümkün!",
+      "ozet": "Gençlerin ifade özgürlüğünü ve güvenliğini korumanın, hepimizin ortak sorumluluğu olduğunun farkındayız. Biliyoruz ki yaşama, tüm çeşitliliğiyle ev sahipliği yapan eşit, özgür, adil ve barışçıl bir gezegen ancak birlikte mümkün. YAZI: Sinem Sefa Akay, Roots & Shoots Türkiye Üyesi",
+      "url": "https://www.iklimhaber.org/iklim-krizinde-savunuculuk-ve-haklari-tum-kusaklar-olarak-birlikte-dusunmek-mumkun/",
+      "tarih": "2026-11-24T09:11:26+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "720d4cca94b6",
+      "baslik": "İklim Ağı: “COP31 Fosil Yakıtlardan Kopamadı”",
+      "ozet": "İklim Ağı, Küresel Kuzey ülkelerinin somut adımlar atmak konusunda isteksiz davranmasının, petrol üreticisi ülkelerin ise fosil yakıtlardan çıkış yerine etkinliği kanıtlanmamış, iklim eylemini geciktirici çözümlerde ısrar ederek müzakereleri tıkamasının, COP31’de ortak bir uzlaşm",
+      "url": "https://www.iklimhaber.org/iklim-agi-cop31-fosil-yakitlardan-kopamadi/",
+      "tarih": "2026-11-24T08:17:57+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b9a4a3b7a789",
+      "baslik": "COP31’in Ardından İklim Diplomasisinde Reform Çağrıları Yükseliyor",
+      "ozet": "COP31’in başarısızlıkla sonuçlanması, BM iklim zirvelerinde acil reforma gidilmesi çağrılarını da beraberinde getirdi. Aralarında ABD Eski Başkan Yardımcısı Al Gore’un da bulunduğu iklim liderleri, Antalya Zirvesi’nin ardından uzlaşı esasına dayalı karar alma kuralının değiştiril",
+      "url": "https://www.iklimhaber.org/cop31in-ardindan-iklim-diplomasisinde-reform-cagrilari-yukseliyor/",
+      "tarih": "2026-11-24T06:30:42+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "17cc996e12a8",
       "baslik": "New York borsasında yapay zeka rallisi: Nasdaq yüzde 6,51 yükseldi",
@@ -1949,66 +2009,6 @@
       "tarih": "2026-11-05T16:55:11+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4467959b9547",
-      "baslik": "Deniz manzaralı yüzlerce evi terk ettiler: 274 binadan geriye sessizlik kaldı",
-      "ozet": "Deniz manzaralı yüzlerce evi terk ettiler: 274 binadan geriye sessizlik kaldı",
-      "url": "https://www.sozcu.com.tr/deniz-manzarali-yuzlerce-evi-terk-ettiler-274-binadan-geriye-sessizlik-kaldi-p376417",
-      "tarih": "2026-11-05T16:13:07+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "156a56cc7972",
-      "baslik": "Cumhurbaşkanı Erdoğan'dan 'fon' açıklaması: 'Hiç ummadığınız insanlar işin içine girmişler'",
-      "ozet": "Cumhurbaşkanı Erdoğan'dan 'fon' açıklaması: 'Hiç ummadığınız insanlar işin içine girmişler'",
-      "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-dan-fon-aciklamasi-hic-ummadiginiz-insanlar-isin-icine-girmisler-p376283",
-      "tarih": "2026-11-05T09:52:25+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7fb853e685a7",
-      "baslik": "SON DAKİKA | Erdoğan'dan Azerbaycan kararı",
-      "ozet": "SON DAKİKA | Erdoğan'dan Azerbaycan kararı",
-      "url": "https://www.sozcu.com.tr/son-dakika-veya-erdogan-dan-azerbaycan-karari-p376290",
-      "tarih": "2026-11-05T09:51:16+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c7500041c042",
-      "baslik": "Kritik Adım COP30 Yol Haritaları: COP31’de 1,5 Derece için Acil Eylem Gerekiyor",
-      "ozet": "Greenpeace, COP30 Brezilya Başkanlığı tarafından hazırlanan ormansızlaşmayı sona erdirme ve fosil yakıtlardan uzaklaşma yol haritalarını, gelecek haftaki Birleşmiş Milletler (BM) İklim Zirvesi COP31’de 1,5 derece ile uyumlu bir geleceğin önünü açacak itici bir güç olarak kullanma",
-      "url": "https://www.iklimhaber.org/kritik-adim-cop30-yol-haritalari-cop31de-15-derece-icin-acil-eylem-gerekiyor/",
-      "tarih": "2026-11-05T09:44:48+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "4d8db8a8d45c",
-      "baslik": "Manavgat’ta kırmızı ışık ihlali kaza yaptırdı: 1 yaralı - dikGAZETE.com",
-      "ozet": "Manavgat’ta kırmızı ışık ihlali kaza yaptırdı: 1 yaralı dikGAZETE.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjdBMXlBUlJROUJoQlpiTXRHX1ByV25abVFaM0Z5WGd1WHJhbk5qVjg1QVd6QzJCREs3cE13cjNnMndFYm5Kb3ptYTN1VXFhZEl3X3VqT3g3bTVtaWgzSGZlQlVkUDdZQVVXdGV0VjM1eC1iU3ZBWkpGLUVHZ3czS3U3TEVKRE92SFFkT1hyM2RWY1Y5NGJ3VWJOQ2pMOVVj?oc=5",
-      "tarih": "2026-11-05T09:39:18+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "95b19b2989e1",
-      "baslik": "İklim Finansmanı Durma Noktasına Geldi",
-      "ozet": "Yeni bir BM raporuna göre, yoksul ülkelerin iklim kriziyle mücadele etmesine yönelik finansman durma noktasına geldi. Bu ülkeler iklim değişikliğinin etkilerine uyum sağlayabilmek için 2035 yılına kadar yılda 305 milyar dolara ihtiyaç duyarken, bu ülkelere sağlanan finansman 2024",
-      "url": "https://www.iklimhaber.org/iklim-finansmani-durma-noktasina-geldi/",
-      "tarih": "2026-11-05T09:19:31+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
       "kaynak_turu": "rss"
     }
   ],
@@ -95880,6 +95880,20 @@
       "ozet": "Bursa-Kirazlıyayla’da ÇED freni: Doğa için mi, maden için mi? Medyascope",
       "lat": 40.1918,
       "lng": 29.0715,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-b9a4a3b7a789",
+      "baslik": "COP31’in Ardından İklim Diplomasisinde Reform Çağrıları Yükseliyor",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "24.11.2026",
+      "url": "https://www.iklimhaber.org/cop31in-ardindan-iklim-diplomasisinde-reform-cagrilari-yukseliyor/",
+      "ozet": "COP31’in başarısızlıkla sonuçlanması, BM iklim zirvelerinde acil reforma gidilmesi çağrılarını da beraberinde getirdi. Aralarında ABD Eski Başkan Yardımcısı Al Gore’un da bulunduğu iklim liderleri, Antalya Zirvesi’nin ardından uzlaşı esasına dayalı karar alma kuralının değiştiril",
+      "lat": 37.0124,
+      "lng": 30.7086,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

@@ -121946,5 +121946,24 @@
     "kaynak": "Google News",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3huOFBwdEVDZXZsbUV2SHAyMG9EOVI4NEwyZUMwTkhQdTVTN3FBbHAyZ1JmV0YwRzkwanc2WGpJWVVOdDNVRndxWkRwMXJHWjRrZk1hcFRfZGlPMG9NX3l0aTNFMEQyQ1NDMlBmdHBsZWo5eUtBSDRjbkdoQVNHbzJ4dlR6dWxIZVF6bmx3?oc=5"
+  },
+  {
+    "id": "tarayici-b9a4a3b7a789",
+    "tip": "Ekolojik İhlal",
+    "ad": "COP31’in Ardından İklim Diplomasisinde Reform Çağrıları Yükseliyor",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "COP31’in başarısızlıkla sonuçlanması, BM iklim zirvelerinde acil reforma gidilmesi çağrılarını da beraberinde getirdi. Aralarında ABD Eski Başkan Yardımcısı Al Gore’un da bulunduğu iklim liderleri, Antalya Zirvesi’nin ardından uzlaşı esasına dayalı karar alma kuralının değiştiril",
+    "koordinatlar": {
+      "lat": 37.0124,
+      "lng": 30.7086
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "24.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31in-ardindan-iklim-diplomasisinde-reform-cagrilari-yukseliyor/"
   }
 ]
