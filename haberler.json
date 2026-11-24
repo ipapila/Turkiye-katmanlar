@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-24T13:08:45.453151+00:00",
+    "guncelleme": "2026-11-24T23:47:55.679329+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6706,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "c5cb3f5dd9fd",
+      "baslik": "Ünlülere yeni uyuşturucu operasyonu! Özcan Deniz, Burcu Özberk ve Deniz Çakır gözaltına alındı",
+      "ozet": "Ünlülere yeni uyuşturucu operasyonu! Özcan Deniz, Burcu Özberk ve Deniz Çakır gözaltına alındı",
+      "url": "https://www.sozcu.com.tr/deniz-cakir-ozcan-deniz-gozaltina-mi-alindi-p384124",
+      "tarih": "2026-11-24T22:26:48+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "80091a593ea7",
+      "baslik": "Valiler kararnamesi Resmi Gazete'de! İşte il il yeni vali listesi",
+      "ozet": "Valiler kararnamesi Resmi Gazete'de! İşte il il yeni vali listesi",
+      "url": "https://www.sozcu.com.tr/resmi-gazete-atama-25-kasim-2026-p384130",
+      "tarih": "2026-11-24T22:18:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "bf412112ec85",
+      "baslik": "Deniz Gül'ün son durumu belli oldu! Galatasaray'dan resmi açıklama geldi",
+      "ozet": "Deniz Gül'ün son durumu belli oldu! Galatasaray'dan resmi açıklama geldi",
+      "url": "https://www.sozcu.com.tr/deniz-gul-un-son-durumu-belli-oldu-galatasaray-dan-resmi-aciklama-geldi-p384129",
+      "tarih": "2026-11-24T21:18:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c026fec5cce0",
+      "baslik": "Galatasaray'da tarih tekerrür etti! Deniz Gül'ün golünden sonraki görüntülere yorum yağdı",
+      "ozet": "Galatasaray'da tarih tekerrür etti! Deniz Gül'ün golünden sonraki görüntülere yorum yağdı",
+      "url": "https://www.sozcu.com.tr/galatasaray-da-tarih-tekerrur-etti-deniz-gul-un-golunden-sonraki-goruntulere-yorum-yagdi-p384125",
+      "tarih": "2026-11-24T20:27:17+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c7044d24038f",
       "baslik": "Borsa günün ilk yarısında negatif seyretti -24 Kasım 2026",
@@ -1967,46 +2007,6 @@
       "ozet": "AKP'de Uhud Savaşı krizi büyüyor: Erdoğan'ın gazeteci kuzeninden sert tepki",
       "url": "https://www.sozcu.com.tr/akp-de-uhud-savasi-krizi-buyuyor-erdogan-in-gazeteci-kuzeninden-sert-tepki-p376620",
       "tarih": "2026-11-06T08:47:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "db6aca83fb45",
-      "baslik": "Sel Baskınları En Yaygın İklim Tehlikesi Olmayı Sürdürüyor",
-      "ozet": "Kurumların giderek artan iklim risklerinden ötürü yaşadığı etkileri ve bu risklere yönelik yaklaşımlarını ortaya koyan yeni bir araştırmaya göre, katılımcıların %43’ü son üç yılda aşırı hava olayları nedeniyle kayıp ve/veya operasyonel aksaklık yaşadı. Katılımcıların %60’ı birden",
-      "url": "https://www.iklimhaber.org/sel-baskinlari-en-yaygin-iklim-tehlikesi-olmayi-surduruyor/",
-      "tarih": "2026-11-06T08:01:39+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8dfe219f4f72",
-      "baslik": "G7 liderleri iklim liderliğinde sınıfta kaldı",
-      "ozet": "",
-      "url": "https://yesilgazete.org/g7-liderleri-iklim-liderliginde-sinifta-kaldi/",
-      "tarih": "2026-11-05T19:17:12.397990+00:00",
-      "kaynak": "Yeşil Gazete",
-      "kategori": "Çevre Medyası",
-      "kaynak_turu": "web"
-    },
-    {
-      "id": "cfd3eab6cd9f",
-      "baslik": "Su bulmak için açtıkları kuyudan doğal gaz çıkmaya başladı",
-      "ozet": "Su bulmak için açtıkları kuyudan doğal gaz çıkmaya başladı",
-      "url": "https://www.sozcu.com.tr/su-bulmak-icin-actiklari-kuyudan-dogal-gaz-cikmaya-basladi-p376427",
-      "tarih": "2026-11-05T17:16:40+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "815e4eaa409b",
-      "baslik": "Eski bakan Denizolgun’un ölüm nedeni belli oldu: Adli Tıp raporu çıktı",
-      "ozet": "Eski bakan Denizolgun’un ölüm nedeni belli oldu: Adli Tıp raporu çıktı",
-      "url": "https://www.sozcu.com.tr/eski-bakan-denizolgun-un-olum-nedeni-belli-oldu-adli-tip-raporu-cikti-p376423",
-      "tarih": "2026-11-05T16:55:11+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
