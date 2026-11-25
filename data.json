@@ -121965,5 +121965,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31in-ardindan-iklim-diplomasisinde-reform-cagrilari-yukseliyor/"
+  },
+  {
+    "id": "tarayici-907c8228f99e",
+    "tip": "Ekolojik İhlal",
+    "ad": "Malatya'da maden sahaları genişletiliyor: ÇED Raporu 'olumlu' çıktı| Bakır ocağı kurulacak - Gündem - Görsel - Malatya Net Haber",
+    "il": "Malatya",
+    "ilce": "",
+    "aciklama": "Malatya'da maden sahaları genişletiliyor: ÇED Raporu 'olumlu' çıktı| Bakır ocağı kurulacak - Gündem - Görsel Malatya Net Haber",
+    "koordinatlar": {
+      "lat": 38.2721,
+      "lng": 38.3275
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "25.11.2026",
+    "kaynak": "Google News",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkZ5U2l6dGsyN2w2YnJ0VE9oTFNjNFpxR3RJQjFhYXljWVU2em1tZ0NpbGVBRlVXUXUxNUJkWU53WGRRaU44YmVuU2xab0tjNmFRRFBTYTlDMDM2aWw4VmdFOGhZdUUxOW1GWmtfSFJiU3JidWJqdEhKMDBDRUJMY1NuNnF6bFpYNnQtaGRSQkx2NmtmZk1Ed28xUjkzWVNVTnh6QnBPTk81T052NFlMb01zM0NQYXEtcm5DMDZUUzNCaGlsSF9n?oc=5"
   }
 ]

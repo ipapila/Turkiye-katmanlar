@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-24T23:47:55.679329+00:00",
+    "guncelleme": "2026-11-25T11:57:59.895487+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6706,
-    "haritaya_eklenen_yeni_kayit": 0,
+    "harita_kayit_sayisi": 6707,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "610d5496b8d4",
+      "baslik": "Türkiye'nin ziyaretçilere yasaklanan en gizemli ormanı: İçeriye sadece bu kişiler girebiliyor",
+      "ozet": "Türkiye'nin ziyaretçilere yasaklanan en gizemli ormanı: İçeriye sadece bu kişiler girebiliyor",
+      "url": "https://www.sozcu.com.tr/turkiye-nin-ziyaretcilere-yasaklanan-en-gizemli-ormani-iceriye-sadece-bu-kisiler-girebiliyor-p384322",
+      "tarih": "2026-11-25T11:37:58+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "45b5afecb741",
+      "baslik": "Borsa günün ilk yarısında negatif seyretti -25 Kasım 2026",
+      "ozet": "Borsa günün ilk yarısında negatif seyretti -25 Kasım 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-negatif-seyretti-25-kasim-2026-p384304",
+      "tarih": "2026-11-25T10:31:21+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a95db061bc8e",
+      "baslik": "Icardi'nin yeni adresini duyurdular: Dünya devi iddiası",
+      "ozet": "Icardi'nin yeni adresini duyurdular: Dünya devi iddiası",
+      "url": "https://www.sozcu.com.tr/icardi-nin-yeni-adresini-duyurdular-dunya-devi-iddiasi-p384292",
+      "tarih": "2026-11-25T09:54:29+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "58106bd7aaa7",
+      "baslik": "COP31 Müzakereler Başkanı Bowen’a Ülkesinde İstifa Çağrısı",
+      "ozet": "Türkiye’deki BM iklim müzakerelerinin başarısızlıkla sonuçlanmasıyla beraber en büyük risk altındaki Pasifik ada ülkeleri devletlerin küresel ısınmayla toplu olarak mücadele etme konusundaki başarısızlığı karşısında duydukları çaresizliği dile getirdi. COP31 Başkanı Chris Bowen i",
+      "url": "https://www.iklimhaber.org/cop31-muzakereler-baskani-bowena-ulkesinde-istifa-cagrisi/",
+      "tarih": "2026-11-25T08:48:06+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "c5cb3f5dd9fd",
       "baslik": "Ünlülere yeni uyuşturucu operasyonu! Özcan Deniz, Burcu Özberk ve Deniz Çakır gözaltına alındı",
@@ -699,6 +739,16 @@
       "tarih": "2026-11-18T08:36:40+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e53f67688e3f",
+      "baslik": "Çevre izni olmadan faaliyet gösteren inşaat projelerine 600 milyon VND'ye kadar para cezası uygulanacak. - Vietnam.vn",
+      "ozet": "Çevre izni olmadan faaliyet gösteren inşaat projelerine 600 milyon VND'ye kadar para cezası uygulanacak. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORDJGYVc0cS1MWWUwLU1aNmtFdlBvTUNaVnFrU0VuSDNobkhTUTdkdDd4b2ZiazFiX1hRaWNUMXZxLW5QcmxSaVcwREYyU0J2V3diZ241SFlJZlprLWUwWEtoQTdCN0NHOE5kU2l0ZXBKRmIzME1ZV1dBLVEtdC1fd21Cak5xd3d5NEJqTk5KWDV0bGtfaDd5ekFka0VtNUFmbVRnbw?oc=5",
+      "tarih": "2026-11-18T08:22:08+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1959,56 +2009,6 @@
       "tarih": "2026-11-06T12:56:31+00:00",
       "kaynak": "Google News",
       "kategori": "Çevre İhlali",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "17770b42f67f",
-      "baslik": "Özel’den COP31 Mesajı: “Kendi Doğasıyla ve Vatandaşıyla Çatışan Yönetim Dünyaya Güven Veremez”",
-      "ozet": "COP31 öncesinde bir makale kaleme alan Özgür Özel, fosil yakıtlardan çıkış için 2030 ve 2035 ara hedeflerinin belirlenmesini önerirken, Türkiye’nin 2030’a kadar orman kaybını durdurma ve tersine çevirme sözü verdiğini hatırlattı ve COP31, bu sözün nasıl tutulacağını göstermek içi",
-      "url": "https://www.iklimhaber.org/ozelden-cop31-mesaji-kendi-dogasiyla-ve-vatandasiyla-catisan-yonetim-dunyaya-guven-veremez/",
-      "tarih": "2026-11-06T11:37:07+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "39363b2a1b49",
-      "baslik": "Fosil Yakıtlardan Çıkış ve Kısa Ömürlü İklim Kirleticileriyle Mücadele Küresel Isınmayı Durdurabilir",
-      "ozet": "Fosil yakıtların hızla terk edilmesi ve metan emisyonlarının azaltılması küresel ısınmayı ciddi ölçüde yavaşlatabilir. Atılacak ilave adımlarla bu yüzyıl içinde sıcaklık artışı yeniden 1,5 derecenin oldukça altına çekilebilir. Climate Analytics tarafından COP31 öncesinde yayımlan",
-      "url": "https://www.iklimhaber.org/fosil-yakitlardan-cikis-ve-kisa-omurlu-iklim-kirleticileriyle-mucadele-kuresel-isinmayi-durdurabilir/",
-      "tarih": "2026-11-06T11:20:43+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c4ad0afa7fc0",
-      "baslik": "COP31 Başkanı Türkiye’nin Milli Enerji Planı Fosil Yakıtlara Bağımlılığı Artıracak",
-      "ozet": "Türkiye fosil yakıtlara yatırım yapmayı sürdürecek Milli Enerji Planı’nı açıkladı. Planda nükleer enerjinin payı da artırılıyor. İklim Ağı plana dair yaptığı açıklamada, “COP31 Başkanlığı ve ev sahipliği yapacak Türkiye’nin bir yandan iklim liderliği iddiasında bulunurken diğer y",
-      "url": "https://www.iklimhaber.org/cop31-baskani-turkiyenin-milli-enerji-plani-fosil-yakitlara-bagimliligi-artiracak/",
-      "tarih": "2026-11-06T10:53:48+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "972adb63eaf7",
-      "baslik": "COP31 Sürprizlere Gebe",
-      "ozet": "COP31’in tamamen siyasi bir COP olduğunu aktaran Dr. Şahin, “Buradan çok iyi bir sonuç çıkarsa, bu sadece iklim müzakerelerini değil, Trump’ın yıkmaya çalıştığı uluslararası düzeni de kurtarabilir” dedi. 9 Kasım’da Antalya’da başlayacak COP31 İklim Zirvesi öncesinde İklim Haber v",
-      "url": "https://www.iklimhaber.org/cop31-surprizlere-gebe/",
-      "tarih": "2026-11-06T09:57:04+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e304a67a8a7f",
-      "baslik": "AKP'de Uhud Savaşı krizi büyüyor: Erdoğan'ın gazeteci kuzeninden sert tepki",
-      "ozet": "AKP'de Uhud Savaşı krizi büyüyor: Erdoğan'ın gazeteci kuzeninden sert tepki",
-      "url": "https://www.sozcu.com.tr/akp-de-uhud-savasi-krizi-buyuyor-erdogan-in-gazeteci-kuzeninden-sert-tepki-p376620",
-      "tarih": "2026-11-06T08:47:12+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95894,6 +95894,20 @@
       "ozet": "COP31’in başarısızlıkla sonuçlanması, BM iklim zirvelerinde acil reforma gidilmesi çağrılarını da beraberinde getirdi. Aralarında ABD Eski Başkan Yardımcısı Al Gore’un da bulunduğu iklim liderleri, Antalya Zirvesi’nin ardından uzlaşı esasına dayalı karar alma kuralının değiştiril",
       "lat": 37.0124,
       "lng": 30.7086,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-907c8228f99e",
+      "baslik": "Malatya'da maden sahaları genişletiliyor: ÇED Raporu 'olumlu' çıktı| Bakır ocağı kurulacak - Gündem - Görsel - Malatya Net Haber",
+      "konum": "Malatya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "25.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkZ5U2l6dGsyN2w2YnJ0VE9oTFNjNFpxR3RJQjFhYXljWVU2em1tZ0NpbGVBRlVXUXUxNUJkWU53WGRRaU44YmVuU2xab0tjNmFRRFBTYTlDMDM2aWw4VmdFOGhZdUUxOW1GWmtfSFJiU3JidWJqdEhKMDBDRUJMY1NuNnF6bFpYNnQtaGRSQkx2NmtmZk1Ed28xUjkzWVNVTnh6QnBPTk81T052NFlMb01zM0NQYXEtcm5DMDZUUzNCaGlsSF9n?oc=5",
+      "ozet": "Malatya'da maden sahaları genişletiliyor: ÇED Raporu 'olumlu' çıktı| Bakır ocağı kurulacak - Gündem - Görsel Malatya Net Haber",
+      "lat": 38.2721,
+      "lng": 38.3275,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
