@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-25T11:57:59.895487+00:00",
+    "guncelleme": "2026-11-25T20:57:42.273294+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6707,
-    "haritaya_eklenen_yeni_kayit": 1,
+    "haritaya_eklenen_yeni_kayit": 0,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,36 @@
     }
   },
   "haberler": [
+    {
+      "id": "b3f67557bd42",
+      "baslik": "Yenidoğan Çetesi soruşturmasını yürüten savcı Yavuz Engin'in yeni görev yeri belli oldu",
+      "ozet": "Yenidoğan Çetesi soruşturmasını yürüten savcı Yavuz Engin'in yeni görev yeri belli oldu",
+      "url": "https://www.sozcu.com.tr/yenidogan-cetesi-sorusturmasini-yuruten-savci-yavuz-engin-in-yeni-gorev-yeri-belli-oldu-p384412",
+      "tarih": "2026-11-25T19:51:19+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "c96fe5c460a2",
+      "baslik": "Son dakika...Mısır’da yakıt tankerinde yangın çıktı: Çok sayıda ölü ve yaralı var",
+      "ozet": "Son dakika...Mısır’da yakıt tankerinde yangın çıktı: Çok sayıda ölü ve yaralı var",
+      "url": "https://www.sozcu.com.tr/son-dakika-misir-da-yakit-tankerinde-yangin-cikti-cok-sayida-olu-ve-yarali-var-p384416",
+      "tarih": "2026-11-25T19:28:42+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7ae8a47f8b79",
+      "baslik": "Ne toprak ne de tatlı su gerekiyor: Denize halat sererek tarım yapacaklar",
+      "ozet": "Ne toprak ne de tatlı su gerekiyor: Denize halat sererek tarım yapacaklar",
+      "url": "https://www.sozcu.com.tr/ne-toprak-ne-de-tatli-su-gerekiyor-denize-halat-sererek-tarim-yapacaklar-p384413",
+      "tarih": "2026-11-25T18:24:36+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "610d5496b8d4",
       "baslik": "Türkiye'nin ziyaretçilere yasaklanan en gizemli ormanı: İçeriye sadece bu kişiler girebiliyor",
@@ -47,6 +77,16 @@
       "ozet": "Türkiye’deki BM iklim müzakerelerinin başarısızlıkla sonuçlanmasıyla beraber en büyük risk altındaki Pasifik ada ülkeleri devletlerin küresel ısınmayla toplu olarak mücadele etme konusundaki başarısızlığı karşısında duydukları çaresizliği dile getirdi. COP31 Başkanı Chris Bowen i",
       "url": "https://www.iklimhaber.org/cop31-muzakereler-baskani-bowena-ulkesinde-istifa-cagrisi/",
       "tarih": "2026-11-25T08:48:06+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "520755ae1282",
+      "baslik": "Papa Leo: Devletler İklim Krizinin Sonuçlarının Önlenmesi için Önlem Almalı",
+      "ozet": "Papa Leo, BM iklim müzakerelerinde uzlaşma sağlanamamasından duyduğu üzüntüyü dile getirerek uluslararası toplumu, dünyanın korunması ve iklim değişikliğinin sonuçlarının önlenmesi için kararlı önlemler almaya çağırdı. Katolik dünyasının ruhani lideri Papa Leo, Vatikan’daki Aziz ",
+      "url": "https://www.iklimhaber.org/papa-leo-devletler-iklim-krizinin-sonuclarinin-onlenmesi-icin-onlem-almali/",
+      "tarih": "2026-11-25T08:27:51+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
       "kaynak_turu": "rss"
@@ -1969,46 +2009,6 @@
       "tarih": "2026-11-07T08:14:21+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "2529250d7815",
-      "baslik": "Avrupa resmen kapılarını açtı: Bu köye taşınana bedava ev ve para verecekler",
-      "ozet": "Avrupa resmen kapılarını açtı: Bu köye taşınana bedava ev ve para verecekler",
-      "url": "https://www.sozcu.com.tr/avrupa-resmen-kapilarini-acti-bu-koye-tasinana-bedava-ev-ve-para-verecekler-p376880",
-      "tarih": "2026-11-07T08:01:33+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "e6f96f63c080",
-      "baslik": "Erdoğan imzaladı: Tartışmalı isim görevden alındı",
-      "ozet": "Erdoğan imzaladı: Tartışmalı isim görevden alındı",
-      "url": "https://www.sozcu.com.tr/erdogan-imzaladi-tartismali-isim-gorevden-alindi-p376865",
-      "tarih": "2026-11-07T07:03:02+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "cafe80d8f4ae",
-      "baslik": "Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekler’",
-      "ozet": "Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekler’",
-      "url": "https://www.sozcu.com.tr/fenerbahce-den-otobus-saldirisi-aciklamasi-hesap-verecekler-p376771",
-      "tarih": "2026-11-06T17:40:11+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bfc52374d887",
-      "baslik": "İsrail Güçleri ve Yerleşimcilerden Batı Şeria’da 760 Çevre İhlali - سانا",
-      "ozet": "İsrail Güçleri ve Yerleşimcilerden Batı Şeria’da 760 Çevre İhlali سانا",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56dFJlWFV5YWFLMU5PczdSLVR5OEQwMzZPRzBxem1CMjZUQXRUMk8xU3kxam5rX0ZnNEhtTko2dl9aR1hReEp3OWo4MTN2S1FD?oc=5",
-      "tarih": "2026-11-06T12:56:31+00:00",
-      "kaynak": "Google News",
-      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     }
   ],
