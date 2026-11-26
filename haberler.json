@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-25T20:57:42.273294+00:00",
+    "guncelleme": "2026-11-26T11:44:58.283702+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6707,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,46 @@
     }
   },
   "haberler": [
+    {
+      "id": "63d253d1ab35",
+      "baslik": "Borsa günün ilk yarısında pozitif seyretti -26 Kasım 2026",
+      "ozet": "Borsa günün ilk yarısında pozitif seyretti -26 Kasım 2026",
+      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-pozitif-seyretti-26-kasim-2026-p384614",
+      "tarih": "2026-11-26T10:57:31+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "b12cf297682d",
+      "baslik": "AYM, İmamoğlu’nun hak ihlali başvurusunu reddetti - Canlı Gaste",
+      "ozet": "AYM, İmamoğlu’nun hak ihlali başvurusunu reddetti Canlı Gaste",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVC1KR2U2WlZJc0pqSndSTjU1SXh0Z05fY240dzJYS3c5WjQ3TnNOZDJyS0xLLUFheFFsUHFNVzN4RDY5WjNBWmZsNzNTRFo0bUgtU2w3VnZkLXVBN2JaQmN2M3d0SnZYN0s0Q3ZiZl9Lanh6TndnUk9NR2E3ZFJVc0NHNDZPaEdHdnJr?oc=5",
+      "tarih": "2026-11-26T09:59:31+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "12a96d704837",
+      "baslik": "Gezegenimiz İlk Kez Altı Gün Üst Üste 2 Derece Isınma Eşiğini Aştı",
+      "ozet": "Dünya, sanayi öncesi döneme göre sıcaklıkların 2 derece daha yüksek seyrettiği altı günü art arda ilk kez yaşadı. Küresel günlük yüzey sıcaklığı pazartesi günü referans dönemin 2,24 derece üzerine çıkarak rekor kırdı. Sıcaklık rekorunun devam etmesi beklenirken, bilim insanları, ",
+      "url": "https://www.iklimhaber.org/gezegenimiz-ilk-kez-alti-gun-ust-uste-2-derece-isinma-esigini-asti/",
+      "tarih": "2026-11-26T08:00:00+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "6790f95900f6",
+      "baslik": "OPEC COP31’de Müzakerelerin Çökmesinden AB’yi Sorumlu Tuttu",
+      "ozet": "OPEC ülkeleri fosil yakıtlardan uzaklaşmaya yönelik ifadelere karşı çıkmış ve karbon yakalama teknolojilerine atıfta bulunulmasını desteklemişti. Çok sayıda ülke de petrol zengini devletleri süreç üzerinde aşırı nüfuz kullanmakla suçlamıştı. OPEC Genel Sekreteri Haitham Al Ghais,",
+      "url": "https://www.iklimhaber.org/opec-cop31de-muzakerelerin-cokmesinden-abyi-sorumlu-tuttu/",
+      "tarih": "2026-11-26T07:45:40+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "b3f67557bd42",
       "baslik": "Yenidoğan Çetesi soruşturmasını yürüten savcı Yavuz Engin'in yeni görev yeri belli oldu",
@@ -1967,46 +2007,6 @@
       "ozet": "Son dakika... Fon soruşturmasında Neslihan Mumcu için tedbir talebi",
       "url": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-neslihan-mumcu-icin-tedbir-talebi-p377013",
       "tarih": "2026-11-07T21:01:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "441cfbb3a032",
-      "baslik": "Manchester City'ye neler oluyor? Üst üste 3. mağlubiyet",
-      "ozet": "Manchester City'ye neler oluyor? Üst üste 3. mağlubiyet",
-      "url": "https://www.sozcu.com.tr/manchester-cityye-neler-oluyor-ust-uste-3-maglubiyet-p377021",
-      "tarih": "2026-11-07T20:39:36+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7d5394dae855",
-      "baslik": "Erdoğan, Azerbaycan kararını verdi",
-      "ozet": "Erdoğan, Azerbaycan kararını verdi",
-      "url": "https://www.sozcu.com.tr/erdogan-azerbaycan-kararini-verdi-p377008",
-      "tarih": "2026-11-07T18:34:51+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "f5fb146d45ac",
-      "baslik": "Dervişoğlu AKP'nin kalesinde çok sert konuştu: \"Kelle değil hesap istiyoruz\"",
-      "ozet": "Dervişoğlu AKP'nin kalesinde çok sert konuştu: \"Kelle değil hesap istiyoruz\"",
-      "url": "https://www.sozcu.com.tr/dervisoglu-akp-nin-kalesinde-cok-sert-konustu-kelle-degil-hesap-istiyoruz-p376975",
-      "tarih": "2026-11-07T13:59:55+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "9da0f9fa7dec",
-      "baslik": "Biçerdöver borcu yüzünden katliam yapmış: Öldürdüğü 4 kişiyi tanımıyor bile...",
-      "ozet": "Biçerdöver borcu yüzünden katliam yapmış: Öldürdüğü 4 kişiyi tanımıyor bile...",
-      "url": "https://www.sozcu.com.tr/bicerdover-borcu-yuzunden-katliam-yapmis-oldurdugu-4-kisiyi-tanimiyor-bile-p376886",
-      "tarih": "2026-11-07T08:14:21+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
