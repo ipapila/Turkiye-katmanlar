@@ -1,6 +1,6 @@
 {
   "meta": {
-    "guncelleme": "2026-11-26T11:44:58.283702+00:00",
+    "guncelleme": "2026-11-26T20:45:58.600000+00:00",
     "toplam": 200,
     "harita_kayit_sayisi": 6707,
     "haritaya_eklenen_yeni_kayit": 0,
@@ -11,6 +11,26 @@
     }
   },
   "haberler": [
+    {
+      "id": "61cd1040d79d",
+      "baslik": "Bulgaristan'da kıyıya vuran gizemli konteyner 22 gün sonra açıldı",
+      "ozet": "Bulgaristan'da kıyıya vuran gizemli konteyner 22 gün sonra açıldı",
+      "url": "https://www.sozcu.com.tr/bulgaristan-da-kiyiya-vuran-gizemli-konteyner-22-gun-sonra-acildi-p384711",
+      "tarih": "2026-11-26T18:39:00+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "a6ba53cf8040",
+      "baslik": "Deniz evleri yutmasın diye harekete geçtiler: Kıyıları korumak için milyonlar harcayacaklar",
+      "ozet": "Deniz evleri yutmasın diye harekete geçtiler: Kıyıları korumak için milyonlar harcayacaklar",
+      "url": "https://www.sozcu.com.tr/deniz-karayi-yutmasin-diye-harekete-gectiler-kiyilari-korumak-icin-milyonlar-harcayacaklar-p384707",
+      "tarih": "2026-11-26T18:22:51+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "63d253d1ab35",
       "baslik": "Borsa günün ilk yarısında pozitif seyretti -26 Kasım 2026",
@@ -1989,26 +2009,6 @@
       "tarih": "2026-11-08T08:12:47+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "7da384c637f4",
-      "baslik": "38. yaş gününde annesini andı: Oya Aydoğan'ın oğlunun sözleri duygulandırdı",
-      "ozet": "38. yaş gününde annesini andı: Oya Aydoğan'ın oğlunun sözleri duygulandırdı",
-      "url": "https://www.sozcu.com.tr/38-yas-gununde-annesini-andi-oya-aydogan-in-oglunun-sozleri-duygulandirdi-p377128",
-      "tarih": "2026-11-08T07:19:28+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "81484d8e62e7",
-      "baslik": "Son dakika... Fon soruşturmasında Neslihan Mumcu için tedbir talebi",
-      "ozet": "Son dakika... Fon soruşturmasında Neslihan Mumcu için tedbir talebi",
-      "url": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-neslihan-mumcu-icin-tedbir-talebi-p377013",
-      "tarih": "2026-11-07T21:01:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
