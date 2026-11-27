@@ -122079,5 +122079,24 @@
     "kaynak": "Sözcü",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.sozcu.com.tr/izmir-de-baba-ile-14-yasindaki-oglu-ormanda-olu-bulunmustu-bakicidan-soke-eden-itiraf-p384875"
+  },
+  {
+    "id": "tarayici-e792670d81bf",
+    "tip": "Ekolojik İhlal",
+    "ad": "COP31’de Müzakereleri Kim Tıkadı?",
+    "il": "Antalya",
+    "ilce": "",
+    "aciklama": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya’da düzenlenen COP31 Zirvesi’nin başarısız sayılamayacağını söylerken, tek bir tarafın itirazıyla metnin kilitlendiğini vurguladı. Bakan Kurum’un iddiasının aksine, Çerçeve Karar metnine AB ile beraber Birleşik Kra",
+    "koordinatlar": {
+      "lat": 36.9714,
+      "lng": 30.6891
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "27.11.2026",
+    "kaynak": "İklim Haber",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.iklimhaber.org/cop31de-muzakereleri-kim-tikadi/"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "guncelleme": "2026-11-27T11:38:44.525139+00:00",
+    "guncelleme": "2026-11-27T20:31:18.722548+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6712,
-    "haritaya_eklenen_yeni_kayit": 5,
+    "harita_kayit_sayisi": 6713,
+    "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
       "web": 6,
@@ -11,6 +11,56 @@
     }
   },
   "haberler": [
+    {
+      "id": "280df373f61f",
+      "baslik": "Ünlülere uyuşturucu soruşturması! Özcan Deniz, Deniz Çakır ve Burcu Özberk'in test sonucu belli oldu",
+      "ozet": "Ünlülere uyuşturucu soruşturması! Özcan Deniz, Deniz Çakır ve Burcu Özberk'in test sonucu belli oldu",
+      "url": "https://www.sozcu.com.tr/unlu-sorusturmasinda-yeni-pozitifler-27-kasim-2026-p384977",
+      "tarih": "2026-11-27T19:26:22+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "994314de9dd8",
+      "baslik": "Cumhurbaşkanı Erdoğan yarın Yunanistan Cumhurbaşkanı Tasulas ile görüşecek",
+      "ozet": "Cumhurbaşkanı Erdoğan yarın Yunanistan Cumhurbaşkanı Tasulas ile görüşecek",
+      "url": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-tasulas-ile-gorusecek-p384983",
+      "tarih": "2026-11-27T18:11:08+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "eb2e3f899cfc",
+      "baslik": "İran’dan ABD’ye tehdit: Düşman havada ve denizde eylemimizi beklesin",
+      "ozet": "İran’dan ABD’ye tehdit: Düşman havada ve denizde eylemimizi beklesin",
+      "url": "https://www.sozcu.com.tr/iran-dan-abd-ye-tehdit-dusman-havada-ve-denizde-eylemimizi-beklesin-p384974",
+      "tarih": "2026-11-27T17:50:44+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "7790cca20d16",
+      "baslik": "Manchester United'tan sürpriz Bruno Fernandes hamlesi",
+      "ozet": "Manchester United'tan sürpriz Bruno Fernandes hamlesi",
+      "url": "https://www.sozcu.com.tr/manchester-unitedtan-surpriz-bruno-fernandes-hamlesi-p384971",
+      "tarih": "2026-11-27T16:02:24+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "e792670d81bf",
+      "baslik": "COP31’de Müzakereleri Kim Tıkadı?",
+      "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya’da düzenlenen COP31 Zirvesi’nin başarısız sayılamayacağını söylerken, tek bir tarafın itirazıyla metnin kilitlendiğini vurguladı. Bakan Kurum’un iddiasının aksine, Çerçeve Karar metnine AB ile beraber Birleşik Kra",
+      "url": "https://www.iklimhaber.org/cop31de-muzakereleri-kim-tikadi/",
+      "tarih": "2026-11-27T13:57:41+00:00",
+      "kaynak": "İklim Haber",
+      "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "1ed0395e29c1",
       "baslik": "Borsa günün ilk yarısında pozitif seyretti -27 Kasım 2026",
@@ -719,6 +769,16 @@
       "tarih": "2026-11-19T12:00:29+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "511fe8df1787",
+      "baslik": "Bakım nedeniyle kapatılan yolun sol şeridinden ilerleyip kural ihlali yapan sürücüler tepki çekti - Haber 26",
+      "ozet": "Bakım nedeniyle kapatılan yolun sol şeridinden ilerleyip kural ihlali yapan sürücüler tepki çekti Haber 26",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnBsY2NET0tPS0NZczh0NV9odlRleWtjNnZrOXhQbFNpenA0OGF6QnpyLWE0WGdJeHAzZTBLQjRxLURKblZ0RzFIcW1WbS1WRlpjMVNQdnp0ZFk5VkFwX3g5TWluT1hyV3VCM0xNd2ZhVnhvYTM3UlloM2pUSUxZb0dDY29lMkhjbWlJcWxQOW5IUzBMajFyOUtEdEU2cUh0TWpzeUQzM2NKUTU1WEJVMGNlZ1dRVVd0cENwYWFCeUtJWEM4QU1VTy1oVQ?oc=5",
+      "tarih": "2026-11-19T11:41:43+00:00",
+      "kaynak": "Google News",
+      "kategori": "Çevre İhlali",
       "kaynak_turu": "rss"
     },
     {
@@ -1947,66 +2007,6 @@
       "ozet": "Borsa günün ilk yarısında pozitif seyretti -9 Kasım 2026",
       "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-pozitif-seyretti-9-kasim-2026-p379532",
       "tarih": "2026-11-09T10:22:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "50ec9a78ce15",
-      "baslik": "Türkiye ve Avustralya’dan STK’lar Fosil Yakıtlardan Küresel Çıkış Çağrısı Yaptı",
-      "ozet": "Türkiye ve Avustralya’dan sivil toplum kuruluşları, bugün COP31 kapsamında bir araya gelerek fosil yakıtlardan küresel ölçekte çıkış için acil çağrıda bulundu. Kuruluşlar, her iki ülkeyi de kendi ülkelerinde somut adımlar atarak iklim liderliği göstermeye davet etti. Antalya",
-      "url": "https://www.iklimhaber.org/turkiye-ve-avustralyadan-stklar-fosil-yakitlardan-kuresel-cikis-cagrisi-yapti/",
-      "tarih": "2026-11-09T09:53:06+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "d3ccf0474d0f",
-      "baslik": "ECO: Dünya Yanıyor, Liderler Artık Sorumluluk Almalı!",
-      "ozet": "Climate Action Tracker tarafından yayımlanan ECO bültenleri İklim Haber’de. İşte bugünden beklentiler…  COP31, siyasi boyutu ne kadar vurgulansa az kalacak, dünya açısından son derece zorlu bir dönemde gerçekleşiyor. Soykırım, savaş, çatışma ve yıkım, sorumluların hesap vermemesi",
-      "url": "https://www.iklimhaber.org/eco-dunya-yaniyor-liderler-artik-sorumluluk-almali/",
-      "tarih": "2026-11-09T09:36:20+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8cac74abb2a2",
-      "baslik": "Greenpeace Türkiye: “COP31’de Fosil Yakıtlara Son Vermek için Harekete Geçilmeli”",
-      "ozet": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı bugün (9 Kasım) Antalya’da başladı. BM Çevre Programı’nın (UNEP), küresel ısınma sınırının 1,5°C’yi aşacağının kesinleştiğini doğrulayan sert gerçeklik değerlendirmesinin ardından, COP31’de asıl",
-      "url": "https://www.iklimhaber.org/greenpeace-cop31de-fosil-yakitlara-son-vermek-icin-harekete-gecilmeli/",
-      "tarih": "2026-11-09T07:14:45+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "70c98524cbeb",
-      "baslik": "COP31 Gündeminde Neler Var?",
-      "ozet": "Antalya’da başlayan COP31’in gündemi oldukça yoğun. 190’dan fazla ülkenin yer alacağı zirvede ABD yer almayacak. Dünya insan kaynaklı, benzeri görülmemiş bir küresel ısınmayla karşı karşıyayken, ülkeler iklim müzakerelerinin son turu için önümüzdeki iki hafta boyunca Antalya’da m",
-      "url": "https://www.iklimhaber.org/cop31-gundeminde-neler-var/",
-      "tarih": "2026-11-09T06:30:18+00:00",
-      "kaynak": "İklim Haber",
-      "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "c3162f858c1e",
-      "baslik": "188 yıllık mağaza zinciri borç batağında: Dev şirketin yönetimi devredildi",
-      "ozet": "188 yıllık mağaza zinciri borç batağında: Dev şirketin yönetimi devredildi",
-      "url": "https://www.sozcu.com.tr/188-yillik-magaza-zinciri-borc-bataginda-dev-sirketin-yonetimi-devredildi-p379318",
-      "tarih": "2026-11-08T20:06:46+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "811e89a62474",
-      "baslik": "Erdoğan'dan Aliyev fotoğrafı ile dikkat çeken Azerbaycan paylaşımı",
-      "ozet": "Erdoğan'dan Aliyev fotoğrafı ile dikkat çeken Azerbaycan paylaşımı",
-      "url": "https://www.sozcu.com.tr/erdogan-dan-aliyev-fotografi-ile-dikkat-ceken-azerbaycan-paylasimi-p377290",
-      "tarih": "2026-11-08T17:03:29+00:00",
       "kaynak": "Sözcü",
       "kategori": "Haber",
       "kaynak_turu": "rss"
@@ -95978,6 +95978,20 @@
       "ozet": "İzmir'de baba ile 14 yaşındaki oğlu ormanda ölü bulunmuştu: Bakıcıdan şoke eden itiraf",
       "lat": 38.3087,
       "lng": 27.1919,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-e792670d81bf",
+      "baslik": "COP31’de Müzakereleri Kim Tıkadı?",
+      "konum": "Antalya",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "27.11.2026",
+      "url": "https://www.iklimhaber.org/cop31de-muzakereleri-kim-tikadi/",
+      "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya’da düzenlenen COP31 Zirvesi’nin başarısız sayılamayacağını söylerken, tek bir tarafın itirazıyla metnin kilitlendiğini vurguladı. Bakan Kurum’un iddiasının aksine, Çerçeve Karar metnine AB ile beraber Birleşik Kra",
+      "lat": 36.9714,
+      "lng": 30.6891,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }
