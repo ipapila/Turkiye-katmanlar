@@ -1,8 +1,8 @@
 {
   "meta": {
-    "guncelleme": "2026-11-27T20:31:18.722548+00:00",
+    "guncelleme": "2026-11-28T11:13:10.939381+00:00",
     "toplam": 200,
-    "harita_kayit_sayisi": 6713,
+    "harita_kayit_sayisi": 6714,
     "haritaya_eklenen_yeni_kayit": 1,
     "kaynaklar": {
       "rss": 9,
@@ -11,6 +11,16 @@
     }
   },
   "haberler": [
+    {
+      "id": "f56161d181c3",
+      "baslik": "Turistik Erzurum-Kars Bölgesel Treni için bilet satışları başlıyor",
+      "ozet": "Turistik Erzurum-Kars Bölgesel Treni için bilet satışları başlıyor",
+      "url": "https://www.sozcu.com.tr/turistik-erzurum-kars-bolgesel-treni-icin-bilet-satislari-basliyor-p385067",
+      "tarih": "2026-11-28T08:27:47+00:00",
+      "kaynak": "Sözcü",
+      "kategori": "Haber",
+      "kaynak_turu": "rss"
+    },
     {
       "id": "280df373f61f",
       "baslik": "Ünlülere uyuşturucu soruşturması! Özcan Deniz, Deniz Çakır ve Burcu Özberk'in test sonucu belli oldu",
@@ -849,6 +859,16 @@
       "tarih": "2026-11-19T08:00:15+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
+      "kaynak_turu": "rss"
+    },
+    {
+      "id": "31757361383e",
+      "baslik": "Trakyalılar topraklarının geleceğini tartışacak: \"Acele Kamulaştırma Kıskacında Trakya\" paneli 26 Kasım'da - Sendika.Org",
+      "ozet": "Trakyalılar topraklarının geleceğini tartışacak: \"Acele Kamulaştırma Kıskacında Trakya\" paneli 26 Kasım'da Sendika.Org",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLWNKR3FGaWFlR05vc1pMc0ZZTUxBQWI3amZ4dk5tcno3T0xER2VueGJtSE9jMVBZRDM1ZEN2aHdWUlNnNTlDSWFzemJibEVxYjd1YlJ2UTVtdHR1UjQyU1EyYkRGTXE0Wkk4U2NkczFDWnh4TVZ6VFNEVUVXdmNzVllOdS1OazdOcDM3U3JzS2toUDVXakxqcExfUXlLRlhrTWN6NTBqa3FpTGczbTZlTGo3cVVSNVVJWHZxb1d1SE9KaEVIbHZ4Z29wR2JtTFVoQVVn?oc=5",
+      "tarih": "2026-11-19T08:00:00+00:00",
+      "kaynak": "Google News",
+      "kategori": "Kamulaştırma",
       "kaynak_turu": "rss"
     },
     {
@@ -1989,26 +2009,6 @@
       "tarih": "2026-11-09T11:14:29+00:00",
       "kaynak": "İklim Haber",
       "kategori": "İklim",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "8355f0f2f5f3",
-      "baslik": "Erdoğan'dan yeni 'Azerbaycan' mesajı: 'Fitne odaklarına rağmen...'",
-      "ozet": "Erdoğan'dan yeni 'Azerbaycan' mesajı: 'Fitne odaklarına rağmen...'",
-      "url": "https://www.sozcu.com.tr/erdogan-dan-yeni-azerbaycan-mesaji-fitne-odaklarina-ragmen-p379531",
-      "tarih": "2026-11-09T10:36:41+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
-      "kaynak_turu": "rss"
-    },
-    {
-      "id": "bf042211268f",
-      "baslik": "Borsa günün ilk yarısında pozitif seyretti -9 Kasım 2026",
-      "ozet": "Borsa günün ilk yarısında pozitif seyretti -9 Kasım 2026",
-      "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-pozitif-seyretti-9-kasim-2026-p379532",
-      "tarih": "2026-11-09T10:22:14+00:00",
-      "kaynak": "Sözcü",
-      "kategori": "Haber",
       "kaynak_turu": "rss"
     }
   ],
@@ -95992,6 +95992,20 @@
       "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya’da düzenlenen COP31 Zirvesi’nin başarısız sayılamayacağını söylerken, tek bir tarafın itirazıyla metnin kilitlendiğini vurguladı. Bakan Kurum’un iddiasının aksine, Çerçeve Karar metnine AB ile beraber Birleşik Kra",
       "lat": 36.9714,
       "lng": 30.6891,
+      "kaynak": "harita",
+      "kaynak_url": "data.json"
+    },
+    {
+      "id": "tarayici-f56161d181c3",
+      "baslik": "Turistik Erzurum-Kars Bölgesel Treni için bilet satışları başlıyor",
+      "konum": "Erzurum",
+      "kategori": "Ekolojik İhlal",
+      "siddet": "Takip Ediliyor",
+      "tarih": "28.11.2026",
+      "url": "https://www.sozcu.com.tr/turistik-erzurum-kars-bolgesel-treni-icin-bilet-satislari-basliyor-p385067",
+      "ozet": "Turistik Erzurum-Kars Bölgesel Treni için bilet satışları başlıyor",
+      "lat": 40.0107,
+      "lng": 41.3681,
       "kaynak": "harita",
       "kaynak_url": "data.json"
     }

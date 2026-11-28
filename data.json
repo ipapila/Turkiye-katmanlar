@@ -122098,5 +122098,24 @@
     "kaynak": "İklim Haber",
     "alt_kategori": "Otomatik Tarama",
     "kaynak_link": "https://www.iklimhaber.org/cop31de-muzakereleri-kim-tikadi/"
+  },
+  {
+    "id": "tarayici-f56161d181c3",
+    "tip": "Ekolojik İhlal",
+    "ad": "Turistik Erzurum-Kars Bölgesel Treni için bilet satışları başlıyor",
+    "il": "Erzurum",
+    "ilce": "",
+    "aciklama": "Turistik Erzurum-Kars Bölgesel Treni için bilet satışları başlıyor",
+    "koordinatlar": {
+      "lat": 40.0107,
+      "lng": 41.3681
+    },
+    "alan_ha": 0,
+    "durum": "Takip Ediliyor",
+    "belge_no": "",
+    "eklenme": "28.11.2026",
+    "kaynak": "Sözcü",
+    "alt_kategori": "Otomatik Tarama",
+    "kaynak_link": "https://www.sozcu.com.tr/turistik-erzurum-kars-bolgesel-treni-icin-bilet-satislari-basliyor-p385067"
   }
 ]
